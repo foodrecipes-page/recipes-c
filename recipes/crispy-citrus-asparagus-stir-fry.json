@@ -1,0 +1,83 @@
+{
+  "title": "Crispy Citrus Asparagus Stir Fry",
+  "description": "A Mediterranean-friendly meal-prep dish featuring white asparagus stir-fried with citrus for a burst of freshness and flavor, perfect for quick weeknight dinners.",
+  "cuisine": "Indian (South) - Mediterranean-inspired",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "White Asparagus",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh Lemon Juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh Lime Juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "1"
+    },
+    {
+      "name": "Cilantro Leaves",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Cut the white asparagus into bite-sized pieces.",
+    "In a small bowl, mix together the lemon and lime juices with the red pepper flakes and set aside.",
+    "Heat olive oil in a wok or large skillet over medium-high heat. Add garlic and cook until fragrant but not browned, about 30 seconds.",
+    "Add asparagus to the pan and stir fry for about 2-3 minutes until slightly tender.",
+    "Drizzle with the lemon-lime mixture, tossing well to coat evenly. Cook for an additional minute or two until the asparagus is crisp-tender but still has a slight crunch.",
+    "Stir in sesame seeds and cilantro leaves. Serve hot.",
+    "For meal prepping, store the stir-fry in individual portions in containers with plastic wrap on top of the food to prevent it from oxidizing (forming an unpleasant brown layer)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "crisp",
+    "asparagus",
+    "stir-fry",
+    "mideastern",
+    "indian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 31,
+    "fat": 8
+  },
+  "slug": "crispy-citrus-asparagus-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-citrus-asparagus-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-24T23:04:59Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crisp",
+    "mood": "meal-prep",
+    "technique": "stir-fry",
+    "primaryIngredient": "white asparagus",
+    "diet": "mediterranean",
+    "region": "south"
+  }
+}
