@@ -1,0 +1,84 @@
+{
+  "title": "Creamy Liquid Cheese Soup",
+  "description": "A fresh, creamy Dutch dish featuring liquid cheese in a savory broth, perfect for adventurous palates and Jain-friendly.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vegetable stock",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Gouda cheese",
+      "amount": "100g thinly grated"
+    },
+    {
+      "name": "Fresh spinach leaves",
+      "amount": "3 cups, loosely packed"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4, minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "White pepper flakes",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat. Add garlic and sauté until fragrant, about 2 minutes.",
+    "Add vegetable stock and bring to a simmer. Reduce heat to low.",
+    "Slowly stir in the grated Gouda cheese, stirring constantly with a wooden spoon until well combined and mixture starts to thicken.",
+    "Stir in white pepper flakes and salt according to taste.",
+    "Gently fold in spinach leaves, letting them wilt slightly. Cover and simmer for about 5 minutes or until desired consistency is achieved.",
+    "Remove from heat and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "liquid cheese",
+    "dutch",
+    "adventurous",
+    "jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 387,
+    "protein": 9,
+    "carbs": 10,
+    "fat": 22
+  },
+  "slug": "creamy-liquid-cheese-soup",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-liquid-cheese-soup",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-24T23:54:41Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "creamy",
+    "mood": "adventurous",
+    "technique": "steam",
+    "primaryIngredient": "liquid cheese",
+    "diet": "jain",
+    "region": null
+  }
+}
