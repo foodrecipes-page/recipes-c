@@ -1,0 +1,80 @@
+{
+  "title": "Creamy Garlic Vermicelli Noodles",
+  "description": "This creamy garlic vermicelli noodle dish combines the indulgent flavors of British cuisine with a touch of high-protein ingredients for an elevated meal.",
+  "cuisine": "British",
+  "diet": [
+    "high-protein",
+    "creamy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vermicelli rice noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "Extra-virgin olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4-6, minced"
+    },
+    {
+      "name": "Heavy cream or almond milk",
+      "amount": "250ml"
+    },
+    {
+      "name": "Half-and-half or heavy whipping cream",
+      "amount": "150ml"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "3 tbsp, grated"
+    },
+    {
+      "name": "Fresh parsley leaves",
+      "amount": "optional, chopped"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a pressure cooker over medium heat. Add minced garlic and sauté until fragrant.",
+    "Add vermicelli noodles to the pot with a pinch of salt, cook for about 3-4 minutes or according to package instructions.",
+    "Pour in heavy cream mixture (half-and-half + heavy whipping cream), Parmesan cheese, and stir well. Let it simmer on low heat.",
+    "Garnish with fresh parsley leaves if desired and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "creamy-garlic",
+    "vermicelli-noodles",
+    "high-protein-friendly"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 7
+  },
+  "slug": "creamy-garlic-vermicelli-noodles",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-garlic-vermicelli-noodles",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-24T22:45:35Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "creamy",
+    "mood": "indulgent",
+    "technique": "pressure-cook",
+    "primaryIngredient": "vermicelli rice noodles",
+    "diet": "high-protein",
+    "region": null
+  }
+}
