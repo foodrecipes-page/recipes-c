@@ -1,0 +1,82 @@
+{
+  "title": "Chickpea Cloud",
+  "description": "A tangy, silky, nostalgic Jamaican dish featuring chickpea flour that is also fodmap-friendly and suitable for those following a low FODMAP diet.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low_fodmap"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 cups",
+      "amount": "chickpea flour"
+    },
+    {
+      "name": "1/4 cup",
+      "amount": "unsalted butter"
+    },
+    {
+      "name": "1 cup",
+      "amount": "water"
+    },
+    {
+      "name": "2 tbsp",
+      "amount": "cornstarch"
+    },
+    {
+      "name": "1 tsp",
+      "amount": "salt"
+    },
+    {
+      "name": "pinch",
+      "amount": "black pepper"
+    },
+    {
+      "name": "dash",
+      "amount": "cayenne pepper (optional)"
+    },
+    {
+      "name": "1 cup",
+      "amount": "milk or almond milk (dairy-free option)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F.",
+    "In a mixing bowl, whisk together chickpea flour, unsalted butter, cornstarch, salt, pepper, and cayenne pepper if using. Gradually add water while continuously whisking until no lumps remain.",
+    "Pour the mixture into an oven-safe dish or shallow baking pan lined with parchment paper.",
+    "Bake in preheated oven for 25-30 minutes or until golden brown and set. The surface will be caramelized, giving it a unique texture.",
+    "Let cool slightly before drizzling milk over top to make the chickpea cloud more custard-like and easier to serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "chickpea_cloud",
+    "tangy_salad",
+    "jamaican_flavor",
+    "fodmap_friendly",
+    "silky_texture"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 9
+  },
+  "slug": "chickpea-cloud",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chickpea-cloud",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-24T22:51:28Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "silky",
+    "mood": "nostalgic",
+    "technique": "caramelize",
+    "primaryIngredient": "chickpea flour",
+    "diet": "fodmap",
+    "region": null
+  }
+}
