@@ -1,0 +1,72 @@
+{
+  "title": "Crispy Smoke Corn Delight",
+  "description": "A kid-friendly Slovakian dish featuring sweetcorn, smoke flavor, and a touch of citrus to make it juicy and crispy, suitable for Jain followers.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Sweetcorn",
+      "amount": "400g",
+      "notes": "Choose fresh sweetcorn with kernels"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": "For frying and smoke infusion"
+    },
+    {
+      "name": "Citrus Zest",
+      "amount": "1 tsp",
+      "notes": "Lemon or orange zest, optional for added citrusy flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch",
+      "notes": "Optional seasoning to enhance flavors"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven and a skillet over medium heat.",
+    "Wash the sweetcorn well and remove any silk threads. Drain thoroughly.",
+    "Place the sweetcorn in the hot skillet and sauté for about 1 minute on each side, until it’s lightly browned but not charred.",
+    "In a small bowl, mix together vegetable oil and citrus zest (if using). Pour this mixture over the sweetcorn in the skillet. Cook for an additional minute to coat the corn evenly.",
+    "Transfer the corn from the skillet into a baking dish or tray lined with parchment paper.",
+    "Bake at 400°F (205°C) for about 15-20 minutes, shaking the pan halfway through cooking time, until it reaches your desired crispiness and golden brown color.",
+    "Once done, remove from heat and sprinkle a pinch of salt over each piece if you prefer. Serve immediately while hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cuisines-slovakian",
+    "snacks-crispy",
+    "kid-friendly",
+    "slovenia-dish",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 165,
+    "protein": 4,
+    "carbs": 23,
+    "fat": 1
+  },
+  "slug": "crispy-smoke-corn-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-smoke-corn-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-24T23:43:56Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crispy",
+    "mood": "kid-friendly",
+    "technique": "smoke",
+    "primaryIngredient": "sweetcorn",
+    "diet": "jain",
+    "region": null
+  }
+}
