@@ -1,0 +1,78 @@
+{
+  "title": "Citrus Zaatar Pâte",
+  "description": "A citrusy, crumbly Syrian dish featuring smoky olive oil and za'atar seasoning, suitable for vegans.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1/2 cup tahini",
+      "amount": "cup"
+    },
+    {
+      "name": "juice of 3 lemons",
+      "amount": "1 lemon"
+    },
+    {
+      "name": "1 clove garlic",
+      "amount": "clove"
+    },
+    {
+      "name": "1/4 teaspoon cumin seeds",
+      "amount": "pinch"
+    },
+    {
+      "name": "1 tablespoon za'atar seasoning (or to taste)",
+      "amount": "tablespoon"
+    },
+    {
+      "name": "3 tablespoons olive oil (smoked or regular, optional for flavor)",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "2 ripe dates, pitted and chopped",
+      "amount": "medium"
+    }
+  ],
+  "instructions": [
+    "Blend tahini, lemon juice, garlic, cumin seeds, za'atar seasoning in a food processor or blender.",
+    "With the machine running, slowly add olive oil until you reach your desired consistency (start with less if using smoky oil).",
+    "Fold in chopped dates and blend to combine. Taste and adjust seasoning as needed.",
+    "Transfer mixture to a bowl and chill for at least 30 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrus",
+    "zaatar",
+    "pate",
+    "smoky",
+    "light",
+    "syrian"
+  ],
+  "nutrition": {
+    "calories": 203,
+    "protein": 1.6,
+    "carbs": 19,
+    "fat": 5
+  },
+  "slug": "citrus-zaatar-pâte",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrus-zaatar-pâte",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-24T23:40:40Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crumbly",
+    "mood": "light",
+    "technique": "rest",
+    "primaryIngredient": "smoky a oli",
+    "diet": "vegan",
+    "region": null
+  }
+}
