@@ -1,0 +1,67 @@
+{
+  "title": "Crispy Coriander Poached Delight",
+  "description": "A salty and nostalgic Japanese dish featuring crispy coriander leaves poached in a low-sodium-friendly broth, reminiscent of traditional Japanese soups.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Low-sodium chicken or vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Coriander leaves",
+      "amount": "1 cup fresh, roughly chopped",
+      "notes": "Approximately 3-4 tablespoons of coriander seeds can be substituted if not using fresh leaves."
+    },
+    {
+      "name": "Low-sodium soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sriramurthi (low-sodium, gluten-free rice cakes)",
+      "amount": "6 slices per person"
+    },
+    {
+      "name": "Green onions",
+      "amount": "Chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Bring the broth to a boil and reduce heat to low. Add soy sauce and stir well.",
+    "Gently add chopped coriander leaves to the simmering broth, covering them with a lid and cooking until they are tender yet crisp, about 15 minutes. Adjust seasoning as needed based on taste preference.",
+    "Preheat grill or skillet for a drizzle of oil if necessary to lightly toast Sriramurthi slices (around medium-high heat).",
+    "Serve the poached coriander leaves over grilled or toasted Sriramurthi with green onions garnished."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "coriander-leaves",
+    "salty",
+    "nigirizushi",
+    "low-sodium-friendly"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 9,
+    "carbs": 18,
+    "fat": 6
+  },
+  "slug": "crispy-coriander-poached-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-coriander-poached-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-24T23:56:08Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crisp",
+    "mood": "nostalgic",
+    "technique": "poach",
+    "primaryIngredient": "coriander leaves",
+    "diet": "low-sodium",
+    "region": null
+  }
+}
