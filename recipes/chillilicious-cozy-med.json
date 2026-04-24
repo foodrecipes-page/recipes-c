@@ -1,0 +1,96 @@
+{
+  "title": "Chillilicious Cozy Med",
+  "description": "A sweet and fluffy Mediterranean medley featuring dried red chillies, a touch of bhuna spices for warmth, and a dash-friendly finish that's both comforting and flavorful.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 cups cooked quinoa",
+      "amount": "",
+      "notes": "Use light-colored quinoa for a lighter taste."
+    },
+    {
+      "name": "1 can (14 oz) sweet corn",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 small ripe avocados, peeled and diced",
+      "amount": "",
+      "notes": "For creaminess."
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "",
+      "notes": "Freshly crushed."
+    },
+    {
+      "name": "1/4 cup fresh parsley, chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup fresh cilantro, chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "",
+      "notes": "For a zing."
+    },
+    {
+      "name": "2 dried red chillies, crushed",
+      "amount": "",
+      "notes": "Or more for spicier version."
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "",
+      "notes": "Just enough to taste."
+    },
+    {
+      "name": "1/4 cup finely chopped bhuna spices (a mix of coriander, cumin, turmeric)",
+      "amount": "",
+      "notes": "Or substitute with other Mediterranean-inspired spices like za'atar or sumac for a different flavor profile."
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the cooked quinoa, sweet corn, avocado, garlic, parsley, cilantro, lemon juice, crushed red chillies, salt, and bhuna spices. Mix well.",
+    "Season with more salt if needed to taste. Cover the bowl and let it sit at room temperature for at least 15 minutes before serving to allow flavors to meld together.",
+    "Serve chilled as a side dish or on its own as a snack, garnished with additional fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quinoa",
+    "sweetcorn",
+    "avocado",
+    "bhuna-spices",
+    "cozy-dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 14,
+    "carbs": 39,
+    "fat": 10
+  },
+  "slug": "chillilicious-cozy-med",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chillilicious-cozy-med",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-24T22:58:52Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "fluffy",
+    "mood": "cozy",
+    "technique": "bhuna",
+    "primaryIngredient": "dried red chillies",
+    "diet": "dash",
+    "region": null
+  }
+}
