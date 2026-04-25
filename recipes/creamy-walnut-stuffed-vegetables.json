@@ -1,0 +1,112 @@
+{
+  "title": "Creamy Walnut Stuffed Vegetables",
+  "description": "A nutty and creamy Greek-inspired meal-prep dish featuring cooking wine, dumplings, pescatarian-friendly options.",
+  "cuisine": "Greek",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "Waxy potatoes work best for this recipe"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Orange or white varieties are preferred"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 small",
+      "notes": "For added flavor and texture"
+    },
+    {
+      "name": "Pistachios",
+      "amount": "1/4 cup, chopped",
+      "notes": "Optional for additional nutsiness"
+    },
+    {
+      "name": "Dumplings",
+      "amount": "8-12, cooked",
+      "notes": "Any type of dumplings can be used, such as wontons or ravioli"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1/4 cup",
+      "notes": "Full-fat for a richer taste"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "For a creamy base in the sauce"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon",
+      "notes": "To enhance flavor without using fresh garlic"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": "For sautéing and cooking vegetables"
+    },
+    {
+      "name": "Herbs (e.g., Thyme, Rosemary)",
+      "amount": "a few sprigs",
+      "notes": "For added depth of flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "White Wine or Cooking Wine",
+      "amount": "1/2 cup",
+      "notes": "To reduce and create a sauce"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Slice potatoes and carrots into rounds about 1/4-inch thick.",
+    "In a skillet, heat olive oil over medium heat. Add onions and sauté until translucent, about 2 minutes.",
+    "Add garlic powder and cook for another minute.",
+    "Place potato and carrot slices in an even layer on a baking sheet. Distribute dumplings evenly among the vegetables.",
+    "Pour white wine or cooking wine into the skillet with the remaining ingredients. Reduce to thicken and create sauce.",
+    "Combine reduced sauce with heavy cream, butter, and chopped pistachios (if using). Mix well and pour over the vegetable-filled dumplings.",
+    "Bake for about 25-30 minutes until vegetables are tender and filling is bubbly and golden brown.",
+    "Let sit for a few minutes before serving to allow flavors to meld together."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "creamy",
+    "meal-prep",
+    "greek",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "creamy-walnut-stuffed-vegetables",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-walnut-stuffed-vegetables",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T09:42:10Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "creamy",
+    "mood": "meal-prep",
+    "technique": "dum",
+    "primaryIngredient": "cooking wine",
+    "diet": "pescatarian",
+    "region": null
+  }
+}
