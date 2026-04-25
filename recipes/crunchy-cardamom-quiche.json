@@ -1,0 +1,91 @@
+{
+  "title": "Crunchy Cardamom Quiche",
+  "description": "A show-off dutch dish featuring ground cardamom with a crumbly and sour texture that is perfect for breakfast or dessert.",
+  "cuisine": [
+    "Dutch"
+  ],
+  "diet": [
+    "pescatarian-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "8 tbsp (6 oz, room temp)"
+    },
+    {
+      "name": "Cardamom Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Coconut Sugar",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "Almond Meal",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4 (room temp)"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F.",
+    "Mix sour cream, butter, cardamom powder, flour, coconut sugar, and almond meal together until a crumbly dough forms. Chill for at least 30 minutes.",
+    "In a separate bowl, whisk eggs with vanilla extract and salt until well combined.",
+    "Pour egg mixture into the chilled dough evenly.",
+    "Transfer to an oven-safe dish and bake for 45-50 minutes or until golden brown on top and set in the center. Let cool before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 85,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy-cardamom-quiche",
+    "sour-dish",
+    "show-off-dutch-dish",
+    "pescatarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 17,
+    "carbs": 38,
+    "fat": 24
+  },
+  "slug": "crunchy-cardamom-quiche",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-cardamom-quiche",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T09:19:46Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crumbly",
+    "mood": "show-off",
+    "technique": "reduce",
+    "primaryIngredient": "ground cardomom",
+    "diet": "pescatarian",
+    "region": null
+  }
+}
