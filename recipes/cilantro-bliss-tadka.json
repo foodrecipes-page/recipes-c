@@ -1,0 +1,81 @@
+{
+  "title": "Cilantro Bliss Tadka",
+  "description": "A sweet and gooey Mediterranean medley featuring cilantro leaves with a hint of tadka, perfect for a solo dinner or as an accompaniment to a dish.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup quinoa",
+      "amount": "cup"
+    },
+    {
+      "name": "2 cups water",
+      "amount": "cups"
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "2 medium tomatoes, chopped",
+      "amount": "pieces"
+    },
+    {
+      "name": "1/4 cup fresh cilantro leaves",
+      "amount": "cup"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "lemon juice"
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": "tablespoon"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Rinse quinoa under cold water and drain. Add it to a pot with 2 cups of water.",
+    "Bring the mixture to a boil, then reduce heat to low and simmer for about 15 minutes or until water is absorbed.",
+    "In a separate pan, sauté minced garlic in olive oil over medium heat until fragrant but not browned.",
+    "Add chopped tomatoes and continue cooking for another minute. Add lemon juice and salt, stir well.",
+    "When quinoa is ready, fold it into the tomato mixture along with cilantro leaves. Mix everything thoroughly.",
+    "prepTimeMin"
+  ],
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "quinoa",
+    "tomato",
+    "tadka"
+  ],
+  "nutrition": {
+    "calories": 198,
+    "protein": 7.5,
+    "carbs": 26.5,
+    "fat": 4
+  },
+  "slug": "cilantro-bliss-tadka",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cilantro-bliss-tadka",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T12:53:20Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "gooey",
+    "mood": "solo-dinner",
+    "technique": "tadka",
+    "primaryIngredient": "cilantro leaves",
+    "diet": "kosher",
+    "region": null
+  }
+}
