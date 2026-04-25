@@ -1,0 +1,86 @@
+{
+  "title": "Cozy Sweet Sausage",
+  "description": "A vegan-friendly Moroccan dish featuring fermented and flaky sausage made with dark soft brown sugar and cooked sous-vide for a cozy treat.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "flax seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "dark soft brown sugar",
+      "amount": "2 cups"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "flavored vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dill weed",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix sesame seeds, flax seeds, and dark soft brown sugar. Add water and vinegar to create a paste.",
+    "Stir in saffron threads until well combined.",
+    "Fold in olive oil and dill weed for added flavor. Mix thoroughly.",
+    "Heat the mixture over medium heat until thickened slightly.",
+    "Remove from heat and cool before using as a spread or topping on various dishes.",
+    "Optional: For sous-vide, place mixture in a vacuum-sealed bag with 1% of its volume in olive oil. Set temperature to 160°F (71°C) for about 4 hours."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 360,
+  "totalTimeMin": 385,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "fermented",
+    "flaky",
+    "cozy"
+  ],
+  "nutrition": {
+    "calories": 1074,
+    "protein": 23,
+    "carbs": 86,
+    "fat": 55
+  },
+  "slug": "cozy-sweet-sausage",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-sweet-sausage",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T12:42:08Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "flaky",
+    "mood": "cozy",
+    "technique": "sous-vide",
+    "primaryIngredient": "dark soft brown sugar",
+    "diet": "vegan",
+    "region": null
+  }
+}
