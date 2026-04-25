@@ -1,0 +1,70 @@
+{
+  "title": "Chilled Herbed Butter Poaching",
+  "description": "An earthy and gooey solo-dinner Syrian dish featuring chilled butter poached in a mediterranean-friendly herbed butter.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Herbs (Thyme, Rosemary, Parsley)",
+      "amount": "A few sprigs each"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Melt the butter and olive oil in a saucepan over medium heat.",
+    "Add finely chopped onion and minced garlic, sauté until translucent.",
+    "Stir in thyme, rosemary, parsley, and lemon zest. Simmer for about 5 minutes or until fragrant.",
+    "Remove from heat and allow to cool slightly.",
+    "Chill the mixture thoroughly before using for poaching."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "herbed-butter-poaching",
+    "earthly-gooey-syrian-dish",
+    "mediterranean-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 18,
+    "fat": 26
+  },
+  "slug": "chilled-herbed-butter-poaching",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chilled-herbed-butter-poaching",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T11:28:21Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "gooey",
+    "mood": "solo-dinner",
+    "technique": "poach",
+    "primaryIngredient": "chilled butter",
+    "diet": "mediterranean",
+    "region": null
+  }
+}
