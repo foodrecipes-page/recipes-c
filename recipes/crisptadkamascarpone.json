@@ -1,0 +1,62 @@
+{
+  "title": "CrispTadkaMascarpone",
+  "description": "A fresh, crisp, energizing Kenyan dish featuring mascarpone and tadka, perfect for a snack or light meal.",
+  "cuisine": "Kenyan",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "mascarpone",
+      "amount": "1 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tadka spices (optional)",
+      "notes": "includes mustard, cumin, and other aromatic seeds"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Whisk mascarpone with heavy cream until well combined.",
+    "Heat a small amount of oil in a pan over medium heat. Add tadka spices for a few seconds to release their flavors, then remove from heat and stir into the mascarpone mixture.",
+    "Season with salt according to your taste preference.",
+    "Serve immediately or refrigerate until ready to serve."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crisp",
+    "energizing",
+    "kibbuta",
+    "dash-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 18,
+    "fat": 9
+  },
+  "slug": "crisptadkamascarpone",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crisptadkamascarpone",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T18:50:14Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crisp",
+    "mood": "energizing",
+    "technique": "tadka",
+    "primaryIngredient": "mascarpone",
+    "diet": "dash",
+    "region": null
+  }
+}
