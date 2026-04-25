@@ -1,0 +1,91 @@
+{
+  "title": "Cozy Golden Curry",
+  "description": "A sweet and light Chinese dish featuring turmeric powder, fermented ingredients for depth of flavor, suitable for kosher households.",
+  "cuisine": "Chinese",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup coconut milk",
+      "amount": "",
+      "notes": "full-fat"
+    },
+    {
+      "name": "2 tablespoons soy sauce",
+      "amount": "",
+      "notes": "low sodium or tamari for a gluten-free option"
+    },
+    {
+      "name": "4 ounces tofu, crumbled (vegan can be used if necessary)",
+      "amount": "",
+      "notes": "press excess water out first"
+    },
+    {
+      "name": "1/2 cup golden raisins",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "3 tablespoons dark brown sugar",
+      "amount": "",
+      "notes": "adjust for sweetness preference"
+    },
+    {
+      "name": "1 tablespoon ground ginger",
+      "amount": "",
+      "notes": "ensure you have fresh ginger available or use a jar of peeled and grated ginger if not"
+    },
+    {
+      "name": "1 teaspoon ground turmeric",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced (adjust as needed)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium heat. Add coconut milk and stir to dissolve any lumps.",
+    "Stir in soy sauce, crumbled tofu, golden raisins, brown sugar, ginger, and garlic. Bring to a simmer and cook for about 5 minutes or until thickened slightly, stirring occasionally.",
+    "Reduce heat to low, cover, and let cook gently on the back of the stove for another 10-20 minutes until all flavors have melded together.",
+    "Serve warm as an accompaniment to steamed vegetables or a bed of rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "cozy",
+    "sweet",
+    "light",
+    "chinese",
+    "kashrut-friendly",
+    "ferment",
+    "turmeric"
+  ],
+  "nutrition": {
+    "calories": 310,
+    "protein": 9,
+    "carbs": 28,
+    "fat": 6
+  },
+  "slug": "cozy-golden-curry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-golden-curry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T19:18:37Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "light",
+    "mood": "cozy",
+    "technique": "ferment",
+    "primaryIngredient": "turmeric powder",
+    "diet": "kosher",
+    "region": null
+  }
+}
