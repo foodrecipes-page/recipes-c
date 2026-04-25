@@ -1,0 +1,102 @@
+{
+  "title": "Cilantro Fold Vegan Jerk",
+  "description": "A buttery and juicy vegan jerk dish featuring cilantro, plant-based friendly and perfect for a solo dinner.",
+  "cuisine": "jamaican",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 can black beans",
+      "amount": "full can"
+    },
+    {
+      "name": "1 can kidney beans",
+      "amount": "full can"
+    },
+    {
+      "name": "2 tbsp oil (vegetable or coconut)",
+      "amount": "tbsp"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "1 medium onion, diced",
+      "amount": "medium onion"
+    },
+    {
+      "name": "1 red bell pepper, diced",
+      "amount": "medium bell pepper"
+    },
+    {
+      "name": "1 yellow bell pepper, diced",
+      "amount": "medium bell pepper"
+    },
+    {
+      "name": "2 tbsp jerk seasoning (prepared)",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "juice of 1 lime"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": null
+    },
+    {
+      "name": "Handful fresh cilantro, chopped",
+      "amount": "handful"
+    },
+    {
+      "name": "2 tbsp plant-based butter or margarine",
+      "amount": "tbsp"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat the oil over medium-high heat.",
+    "Add the minced garlic and diced onions to sauté for about 3 minutes until fragrant.",
+    "Add the bell peppers and cook for another 5-7 minutes or until they become slightly softened.",
+    "Stir in the prepared jerk seasoning and continue cooking for an additional minute, stirring constantly to prevent burning.",
+    "Add both types of beans and simmer for about 10-12 minutes, or until the vegetables are tender.",
+    "Remove from heat and mix in the lime juice. Stir well to combine all ingredients.",
+    "Divide the mixture into individual serving dishes.",
+    "Gently fold in the chopped cilantro and then drizzle with plant-based butter until evenly coated.",
+    "Serve hot as a vegan jerk dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "vindaloo-style",
+    "quick-and-easy",
+    "vegan",
+    "lunch-dinner"
+  ],
+  "nutrition": {
+    "calories": 310,
+    "protein": 8,
+    "carbs": 25,
+    "fat": 14
+  },
+  "slug": "cilantro-fold-vegan-jerk",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cilantro-fold-vegan-jerk",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T04:26:04Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "juicy",
+    "mood": "solo-dinner",
+    "technique": "fold",
+    "primaryIngredient": "cilantro",
+    "diet": "plant-based",
+    "region": null
+  }
+}
