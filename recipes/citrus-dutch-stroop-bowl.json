@@ -1,0 +1,78 @@
+{
+  "title": "Citrus Dutch Stroop Bowl",
+  "description": "This citrusy, silky dish is a crowd-pleaser and perfectly suited for a lazy Sunday brunch or as a vibrant addition to any meal.",
+  "cuisine": "Kenyan",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dutch Stroop",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "2 tablespoons",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "Mandarin Oranges",
+      "amount": "6 medium",
+      "notes": "for zest and juice"
+    },
+    {
+      "name": "Sweet Potato",
+      "amount": "1 large",
+      "notes": "roasted"
+    },
+    {
+      "name": "Pomegranate Seeds",
+      "amount": "1/4 cup",
+      "notes": "pomegranate seeds for garnish"
+    },
+    {
+      "name": "Fresh Mint Leaves",
+      "amount": "few handfuls",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Prepare the Dutch Stroop by heating it with a pinch of sugar until melted and smooth.",
+    "In a large bowl, mix together the Dutch Stroop and lemon zest. Stir well to combine thoroughly.",
+    "Roast the sweet potatoes at 425°F (218°C) for about 30 minutes or until tender.",
+    "Quarter the mandarin oranges and extract juice along with their zests. Discard any seeds before proceeding.",
+    "Add the mandarin orange juice, zest, and remaining sugar to the Dutch Stroop bowl and stir again until well combined.",
+    "Divide the roasted sweet potatoes among serving bowls or plates. Spoon the mixed citrusy Dutch Stroop over the top of each portion.",
+    "Garnish with fresh mint leaves and pomegranate seeds before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrus",
+    "silky",
+    "crowd-pleaser",
+    "kenyan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "citrus-dutch-stroop-bowl",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrus-dutch-stroop-bowl",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T18:04:01Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "silky",
+    "mood": "crowd-pleaser",
+    "technique": "roast",
+    "primaryIngredient": "dutch stroop",
+    "diet": "pescatarian",
+    "region": null
+  }
+}
