@@ -1,0 +1,71 @@
+{
+  "title": "Citrus Salt Cod Medley",
+  "description": "A light and comforting mediterranean dish featuring salt cod sautéed with citrus elements for a refreshing twist.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "pescatarian",
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salt Cod Fillets",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "Extra-Virgin Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh Citrus Zest (e.g., Orange, Lemon)",
+      "amount": "1 tablespoon per piece of cod"
+    },
+    {
+      "name": "Red Peppers, Finely Chopped",
+      "amount": "1 medium pepper"
+    },
+    {
+      "name": "Onions, Finely Chopped",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Season salt cod fillets with citrus zest and a pinch of salt.",
+    "Heat olive oil in an oven-safe skillet over medium heat. Add onion and red pepper, sauté for about 2 minutes until softened.",
+    "Place the seasoned cod fillets on top of vegetables, skin side down if applicable.",
+    "Bake in preheated oven for 10-15 minutes or until fish is opaque and cooked through.",
+    "Serve warm with a squeeze of fresh citrus juice overtop."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salt-cod",
+    "citrus",
+    "vegetarian-recipe",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 352,
+    "protein": 26,
+    "carbs": 18,
+    "fat": 7
+  },
+  "slug": "citrus-salt-cod-medley",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrus-salt-cod-medley",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T00:38:07Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "light",
+    "mood": "comforting",
+    "technique": "saute",
+    "primaryIngredient": "salt cod",
+    "diet": "mediterranean",
+    "region": null
+  }
+}
