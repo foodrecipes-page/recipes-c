@@ -1,0 +1,68 @@
+{
+  "title": "Nutty Choco Date Night",
+  "description": "A delightful Peruvian dish featuring a blend of nuttiness and juiciness with a low-sodium twist, topped with milk chocolate for added indulgence.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "2 ripe dates",
+      "amount": "each"
+    },
+    {
+      "name": "1/4 cup of chopped walnuts",
+      "amount": "cup",
+      "notes": "ensure they are roasted and not raw to enhance the nuttiness"
+    },
+    {
+      "name": "3 tablespoons of low-sodium peanut butter",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "2 ounces of milk chocolate chunks",
+      "amount": "ounces"
+    },
+    {
+      "name": "1/4 cup of finely chopped fresh mint leaves",
+      "notes": "optional for added freshness"
+    }
+  ],
+  "instructions": [
+    "Place the dates in a heatproof bowl and bake at 350°F (175°C) for about 10 minutes, or until they are soft.",
+    "In a small saucepan, combine the chopped walnuts, peanut butter, and milk chocolate chunks. Stir until well combined and heated through without melting the chocolate completely.",
+    "Remove from heat and allow to cool slightly. Add in finely chopped mint leaves if using.",
+    "Divide the cooled chocolate mixture among four plates or bowls for serving. Serve immediately as a delightful dessert."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chocolate-date-night",
+    "nutty-peruvian-dish",
+    "low-sodium"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 9
+  },
+  "slug": "choco-date-night",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/choco-date-night",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T13:33:55Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "juicy",
+    "mood": "date-night",
+    "technique": "boil",
+    "primaryIngredient": "milk chocolate",
+    "diet": "low-sodium",
+    "region": null
+  }
+}
