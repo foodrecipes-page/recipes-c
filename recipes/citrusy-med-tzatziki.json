@@ -1,0 +1,80 @@
+{
+  "title": "Citrusy Med Tzatziki",
+  "description": "A creamy, citrus-infused tzatziki that captures the essence of a nostalgic Slovakian dish with a twist, made using tahini paste.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tahini paste",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "greek yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "pepper",
+      "amount": "pinch"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl, combine tahini paste and greek yogurt.",
+    "Add lemon juice, dill, white wine vinegar, salt, pepper, and mix well.",
+    "Gradually drizzle in extra virgin olive oil while continuously stirring until the mixture reaches your desired consistency.",
+    "Taste test and adjust seasoning as needed."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "tzatziki",
+    "slovakian",
+    "citrusy"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 2,
+    "carbs": 4,
+    "fat": 5
+  },
+  "slug": "citrusy-med-tzatziki",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-med-tzatziki",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T08:05:45Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "gooey",
+    "mood": "nostalgic",
+    "technique": "knead",
+    "primaryIngredient": "tahini paste",
+    "diet": "mediterranean",
+    "region": null
+  }
+}
