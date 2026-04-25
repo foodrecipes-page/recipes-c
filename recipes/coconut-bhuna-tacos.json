@@ -1,0 +1,73 @@
+{
+  "title": "Coconut Bhuna Tacos",
+  "description": "Fermented, juicy, and weeknight-friendly Venezuelan dish featuring coconut flakes in a bhuna sauce for paleo tacos.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "coconut milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "red curry powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "taco shells",
+      "amount": "6 (or as needed)"
+    },
+    {
+      "name": "coconut flakes",
+      "amount": "1 cup",
+      "notes": "Fermented for enhanced flavor, about 24 hours before cooking"
+    },
+    {
+      "name": "bhuna sauce base (tomato paste, garlic, onion)",
+      "amount": "1/2 cup each"
+    }
+  ],
+  "instructions": [
+    "Heat coconut milk in a pan over medium heat until it comes to a simmer. Add ginger paste and red curry powder, stirring well.",
+    "Prepare bhuna sauce by mixing tomato paste, garlic, onion, and seasoning (salt, pepper). Simmer for about 5 minutes or until thickened.",
+    "Drain the coconut flakes if fermented, otherwise, soak in water for 2 hours then drain thoroughly. Stir into simmering coconut milk mixture.",
+    "Spoon bhuna sauce over tacos, garnish with fresh cilantro and lime wedges. Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "coconut",
+    "bhuna",
+    "tacos",
+    "fermented"
+  ],
+  "nutrition": {
+    "calories": 572,
+    "protein": 20,
+    "carbs": 81,
+    "fat": 39
+  },
+  "slug": "coconut-bhuna-tacos",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/coconut-bhuna-tacos",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T00:03:10Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "juicy",
+    "mood": "weeknight",
+    "technique": "bhuna",
+    "primaryIngredient": "coconut flakes",
+    "diet": "paleo",
+    "region": null
+  }
+}
