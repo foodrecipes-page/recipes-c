@@ -1,0 +1,90 @@
+{
+  "title": "Cozy Cauliflower Melt",
+  "description": "A nutty, silky Ukrainian dish featuring crispy cauliflower florets topped with a creamy, egg-free cheese sauce.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "Cauliflower",
+      "amount": "1 medium head",
+      "notes": "Rinse and dry thoroughly"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons",
+      "notes": "Room temperature"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 tablespoons",
+      "notes": "Instant"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup",
+      "notes": "Cold, if possible to prevent curdling"
+    },
+    {
+      "name": "Nutritional Yeast",
+      "amount": "1 tablespoon",
+      "notes": "For a nuttier flavor and vegan option"
+    },
+    {
+      "name": "Vegan Milk or Cream",
+      "amount": "2 tablespoons",
+      "notes": "To achieve desired thickness"
+    },
+    {
+      "name": "Salt",
+      "amount": "½ teaspoon",
+      "notes": "Optional, for taste adjustment"
+    },
+    {
+      "name": "Pepper",
+      "amount": "¼ teaspoon",
+      "notes": "For a touch of freshness and complexity"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (218°C). Rinse cauliflower head under cold water, then dry thoroughly. Cut into florets.",
+    "In a large skillet or pan, melt butter over medium heat. Stir in flour until smooth and glossy; cook for about 1 minute.",
+    "Gradually add heavy cream, stirring constantly to avoid lumps. Simmer for about 3 minutes until sauce thickens slightly. Remove from heat.",
+    "Whisk in nutritional yeast, vegan milk or cream, salt, and pepper. Stir well until incorporated and the mixture is smooth. Allow it to cool slightly before using.",
+    "Spread cauliflower florets evenly on a baking sheet lined with parchment paper. Drizzle lightly with cooled sauce mixture. Bake for about 20 minutes, or until golden brown.",
+    "Sprinkle additional nutritional yeast on top of each serving for an extra boost in flavor and texture."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "cozy",
+    "nutty",
+    "silky",
+    "ukrainian",
+    "cauliflower",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 275,
+    "protein": 10,
+    "carbs": 34,
+    "fat": 16
+  },
+  "slug": "cozy-cauliflower-melt",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-cauliflower-melt",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T04:51:45Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "silky",
+    "mood": "cozy",
+    "technique": "fry",
+    "primaryIngredient": "cauliflower",
+    "diet": "egg-free",
+    "region": null
+  }
+}
