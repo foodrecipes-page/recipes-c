@@ -1,0 +1,81 @@
+{
+  "title": "Crispy Fish Delight",
+  "description": "A cozy British dish featuring a fish seasoning blend that's both sour and crisp. Suitable for whole30 diets.",
+  "cuisine": "British",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fish fillets",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "pepper",
+      "amount": "pinch"
+    },
+    {
+      "name": "vinegar (apple cider or rice)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "baking soda",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "to taste"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Mix flour, salt, pepper, vinegar, baking soda, and paprika in a shallow dish.",
+    "Dip fish fillets into the seasoned mixture until coated evenly. Place on a greased baking sheet.",
+    "Sprinkle sesame seeds over each fish fillet for garnish.",
+    "Bake for 12-15 minutes or until golden brown and crispy.",
+    "Serve immediately while hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "fish",
+    "sour"
+  ],
+  "nutrition": {
+    "calories": 276,
+    "protein": 20,
+    "carbs": 14,
+    "fat": 9
+  },
+  "slug": "crispy-fish-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-fish-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T10:06:14Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crisp",
+    "mood": "cozy",
+    "technique": "dum",
+    "primaryIngredient": "fish seasoning",
+    "diet": "whole30",
+    "region": null
+  }
+}
