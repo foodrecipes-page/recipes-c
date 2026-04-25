@@ -1,0 +1,102 @@
+{
+  "title": "Citrus Shrimp Stew",
+  "description": "A dense and citrusy Dutch dish featuring shrimp in a slow-cooked vegetarian-friendly stew.",
+  "cuisine": "Dutch",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb large shrimp",
+      "amount": "1 lb",
+      "notes": "Peel and devein if using regular shrimp"
+    },
+    {
+      "name": "2 medium lemons",
+      "amount": "2",
+      "notes": "Juice and zest both"
+    },
+    {
+      "name": "3 medium limes",
+      "amount": "3",
+      "notes": "Juice and zest both"
+    },
+    {
+      "name": "1 large onion",
+      "amount": "1",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "4 garlic cloves",
+      "amount": "4",
+      "notes": "Chopped thinly"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "1 can (8 oz) diced tomatoes",
+      "amount": "1 can (8 oz)",
+      "notes": "Cherry or grape varieties are nice for the texture and flavor"
+    },
+    {
+      "name": "3/4 cup vegetable broth",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "Pinch of red pepper flakes",
+      "amount": "pinch",
+      "notes": "Optional, adds a bit of heat"
+    },
+    {
+      "name": "1 bay leaf",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Salt and black pepper to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large pot or Dutch oven, combine shrimp with lemons' juice, zest of both lemons, limes' juice, and zest.",
+    "Add olive oil to the pot, followed by finely chopped onion and garlic. Stir well to ensure the onions are coated in oil.",
+    "Increase heat to medium-high and sauté until the onions are translucent and lightly golden.",
+    "Toss in diced tomatoes with their juices and add vegetable broth, then stir gently to dissolve any solids from the bottom of the pot.",
+    "Bring the mixture to a simmer. Then reduce the heat to low, cover the pot, and let it cook for about 20 minutes without stirring.",
+    "Add red pepper flakes if using, along with salt and black pepper to taste, and stir gently again.",
+    "Let it continue to simmer for another 15-20 minutes until the sauce thickens slightly. Adjust seasoning as needed."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrus",
+    "shrimp",
+    "vegetarian-friendly",
+    "cozy"
+  ],
+  "nutrition": {
+    "calories": 325,
+    "protein": 31,
+    "carbs": 39,
+    "fat": 9
+  },
+  "slug": "citrus-shrimp-stew",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrus-shrimp-stew",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T01:21:19Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "dense",
+    "mood": "cozy",
+    "technique": "slow-cook",
+    "primaryIngredient": "shrimp",
+    "diet": "vegetarian",
+    "region": null
+  }
+}
