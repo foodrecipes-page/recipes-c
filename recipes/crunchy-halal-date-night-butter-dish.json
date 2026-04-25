@@ -1,0 +1,61 @@
+{
+  "title": "Crunchy Halal Date Night Butter Dish",
+  "description": "A savory and crunchy date night dish featuring halal-friendly butter, perfect for a romantic dinner.",
+  "cuisine": "Turkish",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup pitted dates",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons unsalted butter",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "Pinch of salt",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to broil setting.",
+    "Melt the butter in a small saucepan over medium heat. Add dates and stir until evenly coated.",
+    "Spread the date-butter mixture on a baking sheet lined with parchment paper for easy cleanup.",
+    "Sprinkle a pinch of salt on top if desired, then place under the preheated broiler.",
+    "Broil for about 3-5 minutes or until golden brown and bubbly. Keep an eye on it to prevent burning.",
+    "Remove from oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "date-night",
+    "crunchy",
+    "halal"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 7,
+    "carbs": 31,
+    "fat": 15
+  },
+  "slug": "crunchy-halal-date-night-butter-dish",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-halal-date-night-butter-dish",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T16:24:50Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crunchy",
+    "mood": "date-night",
+    "technique": "broil",
+    "primaryIngredient": "butter",
+    "diet": "halal",
+    "region": null
+  }
+}
