@@ -1,0 +1,115 @@
+{
+  "title": "Citrus Crumble Veggie Goatskewer",
+  "description": "An adventurous Ethiopian dish featuring goat meat marinated with a blend of citrusy flavors and served on a crumbly vegan-friendly crust, along with pickles for an added tang.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "goat meat",
+      "amount": "200g",
+      "notes": "ensure it is cooked to a safe internal temperature of at least 62°C (144°F) for food safety"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped finely"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced finely"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 tsp",
+      "notes": "for color and flavor"
+    },
+    {
+      "name": "clove of garlic",
+      "amount": "1",
+      "notes": "minced finely for the crust"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "3 tbsp",
+      "notes": "for the crust"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": "to bind the crust"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": "optional for extra heat"
+    }
+  ],
+  "instructions": [
+    "Marinate goat meat with lemon, lime, and orange juices, along with salt and paprika. Allow to marinate for at least 30 minutes.",
+    "Heat a skillet over medium-high heat. Add enough coconut oil to coat the bottom of the pan.",
+    "Sauté the minced garlic in the hot skillet until fragrant, about 1 minute.",
+    "Add the minced clove of garlic and cook for an additional 15 seconds, stirring constantly.",
+    "Remove from heat and fold in all-purpose flour. Mix well to combine.",
+    "Stir in cayenne pepper if using, then gradually add the marinade while continuously mixing until a smooth crumbly consistency is achieved.",
+    "Thread the marinated goat skewers onto metal or wooden skewers (alternatively use vegan alternatives for non-meat skewers).",
+    "Preheat oven to 180°C (350°F). Arrange the veggie skewers on a baking sheet lined with parchment paper and evenly distribute the crumbly citrus crust mixture.",
+    "Bake in the preheated oven for about 20 minutes or until golden brown and crispy. Serve hot with pickles as desired.",
+    "Note: Safe internal temperature of meat is key to food safety."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrus",
+    "crumbly",
+    "adventurous",
+    "ethiopian",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 26,
+    "carbs": 17,
+    "fat": 9
+  },
+  "slug": "citrus-crumble-veggie-goatskewer",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrus-crumble-veggie-goatskewer",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T18:00:52Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crumbly",
+    "mood": "adventurous",
+    "technique": "pickle",
+    "primaryIngredient": "goat meat",
+    "diet": "vegan",
+    "region": null
+  }
+}
