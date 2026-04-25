@@ -1,0 +1,73 @@
+{
+  "title": "Coconut Lime Velvety Bliss",
+  "description": "A quick-fix Nordic dish featuring desiccated coconut blended with lime juice for a citrusy and velvety texture that's low-fat-friendly.",
+  "cuisine": "Nordic",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Desiccated Coconut",
+      "amount": "1/2 cup",
+      "notes": "Grate fresh coconut or use pre-grated desiccated coconut"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "1/4 cup",
+      "notes": "Freshly squeezed lime juice can be used for extra flavor"
+    },
+    {
+      "name": "Low-Fat Yogurt",
+      "amount": "2 cups",
+      "notes": "Greek yogurt or low-fat plain variety works well"
+    },
+    {
+      "name": "Agave Nectar (or Honey)",
+      "amount": "1/4 cup",
+      "notes": "Optional sweetener for added flavor, can be omitted if preferred"
+    },
+    {
+      "name": "Cinnamon Powder",
+      "amount": "1/2 teaspoon",
+      "notes": "For a touch of warmth and depth"
+    }
+  ],
+  "instructions": [
+    "Combine desiccated coconut and lime juice in a blender.",
+    "Add low-fat yogurt, agave nectar (if using), and cinnamon to the blended mixture.",
+    "Blend all ingredients until smooth and creamy, adding more yogurt if needed for desired consistency.",
+    "Serve immediately or store in an air-tight container for up to 24 hours."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "coconut",
+    "lime",
+    "velvety",
+    "norwegian",
+    "quick-fix",
+    "low-fat"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 5,
+    "carbs": 23,
+    "fat": 7
+  },
+  "slug": "coconut-lime-velvety-bliss",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/coconut-lime-velvety-bliss",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T03:56:39Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "velvety",
+    "mood": "quick-fix",
+    "technique": "blanch",
+    "primaryIngredient": "desiccated coconut",
+    "diet": "low-fat",
+    "region": null
+  }
+}
