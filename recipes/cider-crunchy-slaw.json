@@ -1,0 +1,80 @@
+{
+  "title": "Cider Crunchy Slaw",
+  "description": "A fresh, silky Australian dish featuring cider vinegar, made to be enjoyed as a low-carb-friendly snack or side during sick days.",
+  "cuisine": "Australian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Crisp lettuce leaves",
+      "amount": "1 head"
+    },
+    {
+      "name": "Celery sticks",
+      "amount": "20 pieces"
+    },
+    {
+      "name": "Red onion, finely chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fennel bulb, thinly sliced",
+      "amount": "1 medium bulb"
+    },
+    {
+      "name": "Fresh parsley leaves, roughly chopped",
+      "amount": "1 handful"
+    },
+    {
+      "name": "Cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Salt and pepper to taste"
+    }
+  ],
+  "instructions": [
+    "Wash the lettuce leaves thoroughly. Cut off the bottom part of each leaf, keeping them whole if desired.",
+    "Gently heat a small amount of water in a pressure cooker or saucepan until it reaches a simmering point, about 180°F (82°C). Do not let the water boil.",
+    "Place the chopped celery and onion gently into the hot water to soften. Cook for approximately 3-4 minutes over medium heat. Remove from heat immediately after cooking time ends.",
+    "In a large mixing bowl, combine the softened vegetables with the thinly sliced fennel, chopped parsley, cider vinegar, olive oil, salt, and pepper. Mix well until all ingredients are evenly distributed.",
+    "If serving as a snack or side dish, let the mixture cool slightly before transferring it to plates or bowls for presentation."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "cider-crunchy-slaw",
+    "sick-day",
+    "fresh-recipe"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 3,
+    "carbs": 6,
+    "fat": 7
+  },
+  "slug": "cider-crunchy-slaw",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cider-crunchy-slaw",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T05:49:59Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "silky",
+    "mood": "sick-day",
+    "technique": "pressure-cook",
+    "primaryIngredient": "cider vinegar",
+    "diet": "low-carb",
+    "region": null
+  }
+}
