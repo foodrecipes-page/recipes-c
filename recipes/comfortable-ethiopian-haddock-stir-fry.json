@@ -1,0 +1,88 @@
+{
+  "title": "Comfortable Ethiopian Haddock Stir-Fry",
+  "description": "A herbal and comforting dish featuring halal-friendly haddock, cooked with aromatic herbs for a dense, flavorful meal.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 can (500ml) of diced tomatoes",
+      "amount": "",
+      "notes": "Drained"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "minced"
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup fresh parsley leaves, chopped",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup fresh cilantro leaves, chopped",
+      "amount": ""
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": ""
+    },
+    {
+      "name": "Haddock fillets (6 oz each)",
+      "amount": "",
+      "notes": "Cured"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a skillet over medium-high heat.",
+    "Add the minced garlic and cook for about 1 minute until fragrant.",
+    "Season the haddock with salt and pepper, then place it skin-side down in the skillet. Cook for 3-4 minutes on each side or until golden brown.",
+    "Drain the diced tomatoes and add them to the skillet along with their juices.",
+    "Stir in the ground cumin, chopped parsley, and chopped cilantro.",
+    "Cover the skillet and simmer for about 5 minutes.",
+    "Garnish with additional fresh herbs if desired.",
+    "Serve hot as a comforting dinner dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "haddock",
+    "stir-fry",
+    "ethiopian",
+    "comfortable"
+  ],
+  "nutrition": {
+    "calories": 568,
+    "protein": 29,
+    "carbs": 17,
+    "fat": 30
+  },
+  "slug": "comfortable-ethiopian-haddock-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/comfortable-ethiopian-haddock-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T22:08:00Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "dense",
+    "mood": "comforting",
+    "technique": "cure",
+    "primaryIngredient": "haddock",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Haddock",
+    "descriptor": "Comfortable",
+    "dishForm": "Stir-fry"
+  }
+}
