@@ -1,0 +1,83 @@
+{
+  "title": "Crispy Citrus Kale Stir Fry",
+  "description": "A citrusy, crisp Ethiopian-inspired dish featuring Chinese cabbage with a touch of sweetness and a crunchy texture that is both cozy and satisfying.",
+  "cuisine": "Ethiopian-Chinese Fusion",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese cabbage",
+      "amount": "1 head",
+      "notes": "Wash thoroughly"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3 cloves",
+      "notes": "Peel and minced"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "2 tablespoons",
+      "notes": "Optional for garnish"
+    },
+    {
+      "name": "Fresh citrus zest (lemon, orange)",
+      "amount": "1-2 sprigs per head of cabbage",
+      "notes": "Citrus provides acidity and flavor without added sugars"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tablespoons",
+      "notes": "For frying and stir-frying"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "No added sugar, but salt can enhance flavors"
+    },
+    {
+      "name": "Chili flakes (optional)",
+      "amount": "1/2 teaspoon",
+      "notes": "To add heat if desired"
+    }
+  ],
+  "instructions": [
+    "Trim the Chinese cabbage leaves and cut into strips.",
+    "In a large bowl, mix together the shredded cabbage, minced garlic, and freshly grated citrus zest. Add salt to taste.",
+    "Heat oil in a wok or large skillet over medium-high heat until shimmering hot.",
+    "Add the cabbage mixture to the heated pan and stir-fry for about 5 minutes until slightly wilted but still crisp.",
+    "Toss with sesame seeds (if using) and chili flakes, if desired. Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "citrusy",
+    "cozy",
+    "cooking-for-one",
+    "no-sugar"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 5,
+    "carbs": 4,
+    "fat": 6
+  },
+  "slug": "crispy-citrus-kale-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-citrus-kale-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T00:49:53Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crisp",
+    "mood": "cozy",
+    "technique": "boil",
+    "primaryIngredient": "chinese cabbage",
+    "diet": "sugar-free",
+    "region": null
+  }
+}
