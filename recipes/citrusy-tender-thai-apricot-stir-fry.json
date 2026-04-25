@@ -1,0 +1,88 @@
+{
+  "title": "Citrusy Tender Thai Apricot Stir-fry",
+  "description": "A citrusy and tender weeknight dish featuring apricot jam, blanched in a dairy-free-friendly stir-fry that's perfect for quick weekday meals.",
+  "cuisine": "Thai",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "2 carrots",
+      "amount": "2 large"
+    },
+    {
+      "name": "4 cloves garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "3 green onions",
+      "amount": "3 medium"
+    },
+    {
+      "name": "1 cup apricot jam (dairy-free)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "1/2 cup water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "Juice of 1 lime"
+    },
+    {
+      "name": "2 tablespoons soy sauce (optional, for glazing)",
+      "amount": "2 Tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a wok or large skillet over medium-high heat. Add apricot jam and water to the pan, bring to a simmer.",
+    "Add garlic and green onions to the jam mixture, cooking until fragrant and slightly softened.",
+    "Blanch bell peppers and carrots by dropping them into boiling salted water for 1 minute. Drain well and set aside.",
+    "In the same skillet, add sliced bell peppers and carrots. Stir-fry for about 3-4 minutes or until vegetables are tender-crisp.",
+    "Mix in the cooked blanched vegetables with the apricot-jam sauce mixture. Cook for another 2 minutes to combine flavors.",
+    "If desired, glaze the dish by adding soy sauce and letting it simmer gently for a minute to reduce slightly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrus",
+    "tender",
+    "thai",
+    "apricot",
+    "stir-fry",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 308,
+    "protein": 11,
+    "carbs": 27,
+    "fat": 6
+  },
+  "slug": "citrusy-tender-thai-apricot-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-tender-thai-apricot-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T21:57:56Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "tender",
+    "mood": "weeknight",
+    "technique": "blanch",
+    "primaryIngredient": "apricot jam",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "apricot",
+    "descriptor": "Citrusy Tender",
+    "dishForm": "Stir-fry"
+  }
+}
