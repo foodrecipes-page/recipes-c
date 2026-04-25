@@ -1,0 +1,96 @@
+{
+  "title": "Citrusy Herring Stew",
+  "description": "This creamy and citrusy herring stew is perfect for a cozy dinner, featuring nut-free-friendly ingredients that add a touch of sophistication to your meals.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Herring fillets",
+      "amount": "4 cans (each containing about 12 oz)",
+      "notes": "Use canned herring for convenience and flavor."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large, finely chopped"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4, minced"
+    },
+    {
+      "name": "Celery stalks",
+      "amount": "2, diced"
+    },
+    {
+      "name": "Potato cubes",
+      "amount": "8 medium, peeled and cubed"
+    },
+    {
+      "name": "Butternut squash cubes",
+      "amount": "6 oz, peeled and cubed"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup (whole milk or half-and-half for creaminess)"
+    },
+    {
+      "name": "Heavy whipping cream",
+      "amount": "2-3 tbsp"
+    },
+    {
+      "name": "Shredded cheddar cheese",
+      "amount": "200g, optional for topping"
+    },
+    {
+      "name": "Orange segments",
+      "amount": "1 orange, peeled and segmented"
+    },
+    {
+      "name": "Lemon zest and juice",
+      "amount": "Juice of 1 lemon, zest from half a lemon (optional)"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a large pot or Dutch oven, combine herring fillets with onion, garlic, celery, potato cubes, butternut squash cubes, milk, and cream. Season with salt and pepper.",
+    "Cover the pot and cook over medium heat until vegetables are tender, about 10 minutes. Remove lid, increase heat to high, and bring mixture to a boil.",
+    "Stir in orange segments, add lemon zest if using, and cook for an additional 5-7 minutes or until mixture thickens slightly.",
+    "If topping with cheese, sprinkle shredded cheddar over stew before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "herring",
+    "citrusy",
+    "creamy",
+    "cozy"
+  ],
+  "nutrition": {
+    "calories": 629,
+    "protein": 27,
+    "carbs": 51,
+    "fat": 30
+  },
+  "slug": "citrusy-herring-stew",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-herring-stew",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T06:18:13Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "creamy",
+    "mood": "cozy",
+    "technique": "simmer",
+    "primaryIngredient": "herring",
+    "diet": "nut-free",
+    "region": null
+  }
+}
