@@ -1,0 +1,84 @@
+{
+  "title": "Citrusy Greek Cornmeal Stir-fry",
+  "description": "This citrusy, dense, energizing Greek dish features fine yellow cornmeal, served as a halal-friendly breakfast option.",
+  "cuisine": "Greek",
+  "diet": [
+    "halal"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Cornmeal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Fresh Lemon Juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh Lime Juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic Clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "a few dashes"
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 375°F (190°C).",
+    "In a mixing bowl, combine cornmeal with vegetable oil and salt. Mix well until the cornmeal is evenly coated.",
+    "Add lemon juice and lime juice to the bowl; stir thoroughly to ensure all ingredients are combined properly.",
+    "Stir in minced garlic and red pepper flakes for extra flavor.",
+    "Transfer the mixture into a shallow air fryer basket, ensuring even distribution of ingredients.",
+    "Cook in preheated air fryer for 10-12 minutes or until golden brown. Shake the basket halfway through cooking time to ensure even browning.",
+    "Remove from heat and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrus",
+    "greek",
+    "cornmeal",
+    "stir-fry",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 375,
+    "protein": 9,
+    "carbs": 62,
+    "fat": 14
+  },
+  "slug": "citrusy-greek-cornmeal-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-greek-cornmeal-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T21:32:01Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "dense",
+    "mood": "energizing",
+    "technique": "air-fry",
+    "primaryIngredient": "fine yellow cornmeal",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Cornmeal",
+    "descriptor": "Citrusy",
+    "dishForm": "Stir-fry"
+  }
+}
