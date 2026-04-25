@@ -1,0 +1,101 @@
+{
+  "title": "Creamy Earthy Venezuelan Pork Belly Stir-fry",
+  "description": "This meal-prep dish features tender pork belly slices in a creamy, earthy sauce that complements the natural flavors of the vegetables.",
+  "cuisine": "Venezuelan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork belly",
+      "amount": "200g"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "150g"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "2 small, any color"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "handful"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Low-sodium soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Bay leaves",
+      "amount": "1-2"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Marinate the pork belly in a mixture of low-sodium soy sauce, coconut milk, cumin seeds, bay leaves, and water for at least 30 minutes.",
+    "Prepare vegetables: dice onions into thin slices, mince garlic finely, and slice cherry tomatoes and bell peppers thinly.",
+    "Heat olive oil in a wok or large skillet over medium-high heat. Add the marinated pork belly to sear on both sides until golden brown, about 5-7 minutes per side.",
+    "Remove the pork from the pan and set aside. In the same pan, add sliced onions, minced garlic, and diced cherry tomatoes to sauté for about 3 minutes.",
+    "Add bell peppers and cook for an additional 2-3 minutes until slightly softened but still crisp-tender.",
+    "Return the seared pork belly to the skillet with vegetables. Add coconut milk and let it simmer for about 5 minutes while stirring occasionally, allowing flavors to meld together.",
+    "Stir in cumin seeds and bay leaves if using, and cook for another minute or so until mixture thickens slightly. Garnish with fresh cilantro before serving.",
+    "Serve hot as a main course or side dish over quinoa, rice, or vegetables."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan-friendly",
+    "low-sodium",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 375,
+    "protein": 28,
+    "carbs": 41,
+    "fat": 19
+  },
+  "slug": "creamy-earthy-venezuelan-pork-belly-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-earthy-venezuelan-pork-belly-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T22:23:44Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "creamy",
+    "mood": "meal-prep",
+    "technique": "marinate",
+    "primaryIngredient": "pork belly slices",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "pork belly",
+    "descriptor": "Creamy Earthy",
+    "dishForm": "Stir-fry"
+  }
+}
