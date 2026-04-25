@@ -1,0 +1,96 @@
+{
+  "title": "Crispy Brazilian Herbs Stir-fry",
+  "description": "This herby and crispy dish is a nostalgic twist on traditional Brazilian cuisine, perfect for adding to your low-sodium meal options.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 small"
+    },
+    {
+      "name": "Green bell pepper",
+      "amount": "1 small"
+    },
+    {
+      "name": "Broccoli florets",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Celery stalks",
+      "amount": "3 medium"
+    },
+    {
+      "name": "Sunflower seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste"
+    },
+    {
+      "name": "Herbs (dried)",
+      "amount": "6-8 leaves of cilantro, 3-4 sprigs of parsley"
+    }
+  ],
+  "instructions": [
+    "Slice onions and bell peppers thinly.",
+    "Finely chop garlic cloves.",
+    "Wash and cut broccoli into small florets.",
+    "Cut celery stalks into chunks.",
+    "Combine olive oil with salt and herbs in a mixing bowl until well mixed.",
+    "In a large skillet, heat the herb-oil mixture over medium-high heat.",
+    "Add sliced vegetables to the skillet. Stir-fry for about 5 minutes or until tender but still crisp.",
+    "Stir in sunflower seeds and continue cooking for another minute until lightly toasted.",
+    "Remove from heat and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "brazilian",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 6,
+    "carbs": 8,
+    "fat": 3
+  },
+  "slug": "crispy-brazilian-herbs-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-brazilian-herbs-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T22:54:15Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crisp",
+    "mood": "nostalgic",
+    "technique": "broil",
+    "primaryIngredient": "salt",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Herbs",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
