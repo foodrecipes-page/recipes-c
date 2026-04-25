@@ -1,0 +1,93 @@
+{
+  "title": "Crumbly Mars Bar Stir-Fry",
+  "description": "A spicy solo-dinner dish inspired by traditional Slovakian cuisine featuring a crumbly texture made with Mars bars and a quick stir-fry base that's jain-friendly.",
+  "cuisine": [
+    "Slovakian"
+  ],
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mars Bars",
+      "amount": "2",
+      "notes": "Use vegan or gluten-free Mars Bars if available."
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Broccoli Florets",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "Chili Flakes (optional)",
+      "amount": "A pinch"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Chop the bell peppers, onion, and red onion into small pieces.",
+    "Mince the garlic finely.",
+    "If using Mars Bars, break them into smaller pieces. For a vegan version, use plant-based chocolate bars instead.",
+    "Sauté the minced garlic in vegetable oil until fragrant.",
+    "Add chopped vegetables to the pan and sauté for 5 minutes or until they start to soften.",
+    "Stir in soy sauce, salt, and chili flakes (if using), mix well, and continue cooking for another minute.",
+    "Fold in Mars Bar pieces into the vegetable mixture and stir gently to combine evenly with the vegetables.",
+    "Serve hot as a quick jain-friendly solo-dinner dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crumbly-mars-bar-stir-fry",
+    "solo-dinner-slovakian",
+    "vegan-friendly",
+    "jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 14,
+    "carbs": 28,
+    "fat": 10
+  },
+  "slug": "crumbly-mars-bar-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-mars-bar-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T15:43:14Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crumbly",
+    "mood": "solo-dinner",
+    "technique": "stir-fry",
+    "primaryIngredient": "mars bar",
+    "diet": "jain",
+    "region": null
+  }
+}
