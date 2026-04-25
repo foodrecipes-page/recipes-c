@@ -1,0 +1,65 @@
+{
+  "title": "Crumbled Keto-Quesillo",
+  "description": "A bitter, crumbly Argentinian dish made with keto-friendly ingredients, featuring Parmigiano-Reggiano for a salty and creamy texture.",
+  "cuisine": "Argentine",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Parmigiano-Reggiano cheese",
+      "amount": "1 cup (grated)"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "2/3 cup"
+    },
+    {
+      "name": "Bacon, diced",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Capers, rinsed and halved",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "In a bowl, mix the grated Parmigiano-Reggiano cheese with heavy cream until creamy.",
+    "Fold in diced bacon and halved capers into the cheese mixture.",
+    "Transfer the mixture onto a baking sheet lined with parchment paper. Bake for 20 minutes or until golden brown and crispy on top.",
+    "Remove from oven, let it cool slightly before crumbling and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "argentine",
+    "bitter",
+    "crumbly"
+  ],
+  "nutrition": {
+    "calories": 608,
+    "protein": 19.7,
+    "carbs": 25.7,
+    "fat": 34.3
+  },
+  "slug": "crumbled-keto-quesillo",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbled-keto-quesillo",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T01:45:45Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "boil",
+    "primaryIngredient": "parmigiano-reggiano",
+    "diet": "keto",
+    "region": null
+  }
+}
