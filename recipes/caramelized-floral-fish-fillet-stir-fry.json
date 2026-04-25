@@ -1,0 +1,88 @@
+{
+  "title": "Caramelized Floral Fish Fillet Stir-fry",
+  "description": "A floral, crisp, indulgent Portuguese dish featuring low-fat-friendly fish fillets that are sautéed with a blend of aromatic herbs and spices to complement their natural flavors.",
+  "cuisine": "Portuguese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish Fillet",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "3-4"
+    },
+    {
+      "name": "Leaves of Rosemary and Thyme",
+      "amount": "a handful each (fresh)"
+    },
+    {
+      "name": "Sriramurthy or similar low-sodium soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Pepper flakes",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Water or vegetable broth",
+      "amount": "3-4 tbsp"
+    },
+    {
+      "name": "Low-fat friendly yogurt or sour cream for serving (optional)",
+      "amount": "for garnishing"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (390°F).",
+    "Clean and pat dry the fish fillets.",
+    "Heat olive oil in a non-stick skillet over medium heat. Add onion, garlic, and herbs; stir for about 1 minute until onions soften.",
+    "Add fish fillets to the pan, skin-side down first, reduce heat to low-medium, and cook for approximately 5-6 minutes per side or until cooked through (internal temperature should reach 70°C).",
+    "Drizzle Sriramurthy over the fish. Add water or broth in a small amount, just enough to create a thin sauce and caramelize.",
+    "Cover with aluminum foil and bake for about 10 minutes, then remove the foil for another few minutes to enhance caramelization if desired.",
+    "Serve hot with a dollop of low-fat friendly yogurt or sour cream on top as a creamy finish."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "floral-dish",
+    "crisp-fish-stir-fry",
+    "indulgent-portuguese-recipe"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 18,
+    "carbs": 9,
+    "fat": 6
+  },
+  "slug": "caramelized-floral-fish-fillet-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/caramelized-floral-fish-fillet-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T20:56:11Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crisp",
+    "mood": "indulgent",
+    "technique": "saute",
+    "primaryIngredient": "fish fillet",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Fish Fillet",
+    "descriptor": "Floral Caramelized",
+    "dishForm": "Stir-fry"
+  }
+}
