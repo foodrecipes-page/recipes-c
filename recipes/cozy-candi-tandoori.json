@@ -1,0 +1,81 @@
+{
+  "title": "Cozy Candi Tandoori",
+  "description": "A savory and juicy Indian dish featuring candied peel in a cozy whole30-friendly recipe cooked in the tandoor oven.",
+  "cuisine": "Indian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece"
+    },
+    {
+      "name": "Chilli Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste"
+    },
+    {
+      "name": "Boneless Chicken Breast",
+      "amount": "4 pieces (about 8 oz each)"
+    },
+    {
+      "name": "Tandoori Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Candied Citrus Peel",
+      "amount": "1 small lemon, thinly sliced"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "For cooking"
+    }
+  ],
+  "instructions": [
+    "Heat a tandoor or oven-safe Dutch oven over medium-high heat. Add oil and cook ginger, chilli powder, and cumin seeds until fragrant.",
+    "Add boneless chicken breasts to the pan and coat them with tandoori sauce. Cook for about 10 minutes on each side, basting occasionally with reserved marinade.",
+    "Remove chicken from pan and set aside. In the same pan, add sliced candied citrus peel, tossing well until coated evenly with residual oil and spices.",
+    "Return chicken to the pan and let it cook for another 5-7 minutes or until chicken reaches your desired doneness.",
+    "Serve hot as a cozy meal.",
+    "prepTimeMin: 10",
+    "cookTimeMin: 20",
+    "totalTimeMin: 30",
+    "servings: 4",
+    "difficulty: "
+  ],
+  "tags": [
+    "cozy",
+    "tandoori",
+    "whole30",
+    "juicy"
+  ],
+  "nutrition": {
+    "calories": 589,
+    "protein": 37,
+    "carbs": 21,
+    "fat": 26
+  },
+  "slug": "cozy-candi-tandoori",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-candi-tandoori",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T19:25:46Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "juicy",
+    "mood": "cozy",
+    "technique": "tandoor",
+    "primaryIngredient": "candied peel",
+    "diet": "whole30",
+    "region": null
+  }
+}
