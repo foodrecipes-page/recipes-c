@@ -1,0 +1,86 @@
+{
+  "title": "Cozy Crunchy Canadian Seeds Crumble",
+  "description": "An earthy and cozy Canadian-inspired dish featuring white wine and herbs for a plant-based breakfast or snack.",
+  "cuisine": "Canadian",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Almonds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Walnuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Cashews",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sunflower Seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "White Wine",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Herbs (e.g., thyme, oregano)",
+      "amount": "1 tablespoon each"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Toast almonds, walnuts, and cashews in a dry skillet over medium heat for about 2 minutes each, shaking the pan frequently.",
+    "In a mixing bowl, combine toasted nuts with sunflower seeds. Add white wine, herbs, coconut oil, and salt. Mix well until all ingredients are evenly coated.",
+    "Transfer mixture to a baking dish or shallow pan lined with parchment paper.",
+    "Bake for 10-12 minutes until golden brown and crispy on the edges.",
+    "Remove from oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cozy",
+    "canadian",
+    "seeds",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 368,
+    "protein": 10.8,
+    "carbs": 9.2,
+    "fat": 24
+  },
+  "slug": "cozy-crunchy-canadian-seeds-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-crunchy-canadian-seeds-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T23:50:26Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crunchy",
+    "mood": "cozy",
+    "technique": "cure",
+    "primaryIngredient": "white wine",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Seeds",
+    "descriptor": "Cozy Crunchy",
+    "dishForm": "Crumble"
+  }
+}
