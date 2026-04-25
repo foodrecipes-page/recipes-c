@@ -1,0 +1,76 @@
+{
+  "title": "Creamy French Russet Potato Stir-fry",
+  "description": "A fresh and light vegan-friendly meal for kids featuring russet potatoes, prepared with a quick deglazing process.",
+  "cuisine": "French",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 medium russet potatoes",
+      "amount": "each"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "notes": "or any preferred oil for cooking"
+    },
+    {
+      "name": "1 red bell pepper, diced",
+      "notes": "optional for added color and flavor"
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "notes": "adjust amount based on preference"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "notes": "for zest and acidity to enhance the creamy texture"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C). Wash potatoes thoroughly, then slice them into thin rounds.",
+    "Place potato slices in a single layer on a baking sheet lined with parchment paper. Drizzle with olive oil and sprinkle with salt.",
+    "Bake for about 15 minutes or until golden brown and crispy. Remove from oven, set aside to cool slightly.",
+    "In a small pot, add the lemon juice and garlic. Sauté for 2-3 minutes over medium heat until fragrant. Be cautious as it may sizzle violently.",
+    "While cooking the potato slices, use the remaining olive oil in another pan over medium-high heat. Add diced red bell pepper (if using) and sauté for about 5 minutes or until softened.",
+    "Once the lemon garlic mixture is ready, deglaze the pan with it, scraping all the flavorful bits from the bottom of the pot into the skillet with vegetables.",
+    "Add the cooked potato slices to the skillet. Toss gently until coated with the sauce. Adjust seasoning with more salt if needed and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "creamy",
+    "french",
+    "stir-fry",
+    "kid-friendly",
+    "russet-potato"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 28,
+    "fat": 6
+  },
+  "slug": "creamy-french-russet-potato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-french-russet-potato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T23:48:50Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "light",
+    "mood": "kid-friendly",
+    "technique": "deglaze",
+    "primaryIngredient": "russet potato",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Russet Potato",
+    "descriptor": "Creamy",
+    "dishForm": "Stir-fry"
+  }
+}
