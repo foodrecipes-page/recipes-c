@@ -1,0 +1,60 @@
+{
+  "title": "Cornmeal Crisps with Pickles",
+  "description": "These kid-friendly cornmeal crisps are a perfect side dish or snack, featuring tangy pickles for added flavor.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup white cornmeal",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons kosher salt",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Pickles, sliced thinly",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together the cornmeal and salt.",
+    "Add the pickles to the mixture and stir until evenly coated.",
+    "Line a baking sheet with parchment paper.",
+    "Spread the cornmeal-pickle mixture out in an even layer on the prepared pan.",
+    "Bake at 250°F for about 1 hour, or until crisp (check periodically).",
+    "Serve warm as a snack or side dish."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "cornmeal",
+    "crisps",
+    "pickles",
+    "kid-friendly"
+  ],
+  "nutrition": {
+    "calories": 125,
+    "protein": 3,
+    "carbs": 26,
+    "fat": 0
+  },
+  "slug": "cornmeal-crisps-with-pickles",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cornmeal-crisps-with-pickles",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T19:08:37Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crispy",
+    "mood": "kid-friendly",
+    "technique": "pickle",
+    "primaryIngredient": "white cornmeal",
+    "diet": "kosher",
+    "region": null
+  }
+}
