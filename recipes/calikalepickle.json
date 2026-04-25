@@ -1,0 +1,87 @@
+{
+  "title": "CaliKalePickle",
+  "description": "A citrusy and creamy meal-prep Kenyan dish featuring new potatoes, pickle, and low-calorie-friendly ingredients.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "low-calorie",
+    "meal-prep"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "new potatoes",
+      "amount": "1 lb"
+    },
+    {
+      "name": "pickled vegetables (such as okra, carrots)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh kale",
+      "amount": "4 cups"
+    },
+    {
+      "name": "orange juice concentrate",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander seeds (cilantro)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Boil new potatoes until tender.",
+    "Trim and julienne fresh kale leaves, discarding the stem.",
+    "Heat sesame oil in a pan, add cumin seeds and coriander seeds. Toast for about 1 minute, stirring continuously to prevent burning.",
+    "Add orange juice concentrate, coconut milk, and lime juice to the pan. Stir well until the mixture starts boiling.",
+    "Stir in the boiled new potatoes and pickled vegetables. Cook for another few minutes until the sauce thickens slightly.",
+    "Transfer the dish to a serving bowl and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "meal-prep",
+    "citrusy",
+    "creaminess"
+  ],
+  "nutrition": {
+    "calories": 167,
+    "protein": 8.5,
+    "carbs": 23.5,
+    "fat": 4
+  },
+  "slug": "calikalepickle",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/calikalepickle",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T10:24:51Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "creamy",
+    "mood": "meal-prep",
+    "technique": "pickle",
+    "primaryIngredient": "new potatoes",
+    "diet": "low-calorie",
+    "region": null
+  }
+}
