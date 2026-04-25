@@ -1,0 +1,75 @@
+{
+  "title": "Citrusy Tortilla Smoke",
+  "description": "This lazy Sunday German dish features tortillas infused with a citrusy smoke, offering a fluffy and flavorful vegetarian-friendly treat.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 large ripe oranges",
+      "amount": "each",
+      "notes": "For the peels"
+    },
+    {
+      "name": "1 lime",
+      "amount": "half",
+      "notes": "Juice and zest"
+    },
+    {
+      "name": "1 tablespoon honey or agave nectar",
+      "amount": "each",
+      "notes": "To taste"
+    },
+    {
+      "name": "4-6 corn tortillas",
+      "amount": "each",
+      "notes": "Medium-thick for better smoke absorption"
+    },
+    {
+      "name": "1 cup unsweetened shredded coconut (optional, for topping)",
+      "amount": "all",
+      "notes": "For added texture and sweetness"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 200°C (392°F).",
+    "Slice the orange peels into thin strips.",
+    "Using a sharp knife or vegetable peeler, zest half of the lime on one side of each tortilla. You can reserve the other half for another use.",
+    "Place the sliced orange peels in a shallow baking dish. Sprinkle honey over them and top with squeezed lime juice from the reserved half. Bake for 15-20 minutes or until slightly caramelized.",
+    "While the oranges are cooking, warm the corn tortillas by placing them in the oven at about 180°C (356°F) for about 5-7 minutes or until they start to get crispy and golden brown. Keep an eye on them not to burn them.",
+    "Once done, transfer the baked orange slices onto the top of each warm tortilla. Sprinkle with shredded coconut if desired.",
+    "Serve immediately as a snack or dessert."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrus",
+    "tortilla",
+    "smoke"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 2,
+    "carbs": 22,
+    "fat": 9
+  },
+  "slug": "citrusy-tortilla-smoke",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-tortilla-smoke",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T10:30:21Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "fluffy",
+    "mood": "lazy-sunday",
+    "technique": "smoke",
+    "primaryIngredient": "tortillas",
+    "diet": "vegetarian",
+    "region": null
+  }
+}
