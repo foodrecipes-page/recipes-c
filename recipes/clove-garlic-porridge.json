@@ -1,0 +1,66 @@
+{
+  "title": "Clove Garlic Porridge",
+  "description": "A dairy-free and comforting porridge with a garlicky kick to aid in hangover recovery, inspired by Turkish cuisine.",
+  "cuisine": "Turkish",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "2 cups almond milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "1/4 cup grated garlic",
+      "amount": "1/4 cup",
+      "notes": "Use roasted garlic for extra flavor."
+    },
+    {
+      "name": "2 tablespoons ground cloves",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "Pinch"
+    }
+  ],
+  "instructions": [
+    "Combine almond milk and grated garlic in a saucepan over medium heat.",
+    "Add ground cloves and salt to the mixture.",
+    "Simmer for about 5-7 minutes, stirring occasionally to prevent sticking.",
+    "Serve hot as porridge."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "porridge",
+    "garlic",
+    "cloves",
+    "dairy-free",
+    "hangover_cure"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 28,
+    "fat": 6
+  },
+  "slug": "clove-garlic-porridge",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/clove-garlic-porridge",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T15:55:32Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "chewy",
+    "mood": "hangover-cure",
+    "technique": "simmer",
+    "primaryIngredient": "ground clove",
+    "diet": "dairy-free",
+    "region": null
+  }
+}
