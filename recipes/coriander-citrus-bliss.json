@@ -1,0 +1,66 @@
+{
+  "title": "Coriander Citrus Bliss",
+  "description": "A citrusy and velvety monsoon Moroccan dish featuring coriander seeds, prepared sous-vide for a paleo-friendly meal.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "2 palm-sized coriander seeds",
+      "amount": "tbsp",
+      "notes": "lightly toasted"
+    },
+    {
+      "name": "1 lemon, zest and juice",
+      "amount": "each",
+      "notes": null
+    },
+    {
+      "name": "1 orange, zest and juice",
+      "amount": "each",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat your sous-vide machine to 52°C (126°F).",
+    "Place the toasted coriander seeds in a bag with a splash of water.",
+    "Sous-vide for 30 minutes.",
+    "Mix the lemon and orange zest and juices together in a bowl.",
+    "To serve, place the sous-vide cooked coriander seeds into the citrus mixture. Stir gently until fully mixed.",
+    "Serve immediately as an accompaniment to your dessert."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "sous-vide",
+    "paleo-friendly",
+    "monsoon",
+    "citrusy",
+    "velvety"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 8,
+    "fat": 6
+  },
+  "slug": "coriander-citrus-bliss",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/coriander-citrus-bliss",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T08:04:29Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "velvety",
+    "mood": "monsoon",
+    "technique": "sous-vide",
+    "primaryIngredient": "coriander seeds",
+    "diet": "paleo",
+    "region": null
+  }
+}
