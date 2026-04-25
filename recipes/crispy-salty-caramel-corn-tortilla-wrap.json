@@ -1,0 +1,80 @@
+{
+  "title": "Crispy Salty Caramel Corn Tortilla Wrap",
+  "description": "This tangy and crispy snack is perfect for a sick-day treat featuring soy sauce and other ingredients to complement its savory flavor profile.",
+  "cuisine": [
+    "Brazilian",
+    "Asian"
+  ],
+  "diet": [
+    "tangy",
+    "sodium-free",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "corn tortilla",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "water or vegetable broth",
+      "amount": "3 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "cooking spray",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "Place corn tortilla in a microwave-safe bowl and sprinkle evenly with soy sauce.",
+    "Drizzle water or vegetable broth over the top of the tortilla.",
+    "Spray both sides lightly with cooking spray for extra crispiness.",
+    "Microwave on high for 1 minute. Check if it's fully cooked, adjusting time as needed (about an additional 30 seconds to a minute).",
+    "Let cool slightly before serving."
+  ],
+  "prepTimeMin": 2,
+  "cookTimeMin": 4,
+  "totalTimeMin": 6,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "tangy",
+    "caramel corn",
+    "salty",
+    "fried",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 208,
+    "protein": 4,
+    "carbs": 31,
+    "fat": 5
+  },
+  "slug": "crispy-salty-caramel-corn-tortilla-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-salty-caramel-corn-tortilla-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T22:06:22Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crispy",
+    "mood": "sick-day",
+    "technique": "steam",
+    "primaryIngredient": "soy sauce",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "corn tortilla",
+    "descriptor": "Salty Caramel Crunchy",
+    "dishForm": "Wrap"
+  }
+}
