@@ -1,0 +1,69 @@
+{
+  "title": "Clam Broil Norval",
+  "description": "A fresh and chewy Norwegian dish featuring clams, perfect for a breakfast or light meal.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-fodmap"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Clams",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Olives (optional)",
+      "amount": "20 olives"
+    },
+    {
+      "name": "Onion, sliced",
+      "amount": "1 medium onion"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "juice of 1 lemon"
+    }
+  ],
+  "instructions": [
+    "Rinse clams under cold running water and scrub them gently with a brush.",
+    "Heat a large skillet over medium heat. Add olive oil if using, then onion and garlic. Sauté until onions are translucent.",
+    "Add the clams to the skillet along with some salt and pepper to taste. Cover and let cook for about 5 minutes or until they start to open.",
+    "Squeeze in the lemon juice just before serving to brighten the dish.",
+    "If you prefer, serve these as a light breakfast topped with fresh herbs like dill or parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "norwegian",
+    "clam",
+    "broil",
+    "chewy"
+  ],
+  "nutrition": {
+    "calories": 361,
+    "protein": 20,
+    "carbs": 7,
+    "fat": 15
+  },
+  "slug": "clam-broil-norval",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/clam-broil-norval",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T04:24:20Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "chewy",
+    "mood": "energizing",
+    "technique": "broil",
+    "primaryIngredient": "clams",
+    "diet": "fodmap",
+    "region": null
+  }
+}
