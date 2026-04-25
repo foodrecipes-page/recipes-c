@@ -1,0 +1,89 @@
+{
+  "title": "Cashew Beef Sutra",
+  "description": "A nutty, crispy beef dish slow-cooked to perfection with a jain-friendly twist, perfect for a comforting dinner.",
+  "cuisine": "Dutch",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "1 lb"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cashews",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ginger",
+      "amount": "3 tablespoons, freshly grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Place beef brisket in a pot, cover with water, and bring to a boil. Reduce heat to low, add cashews, sesame seeds, ginger, soy sauce, honey, sesame oil, salt, and pepper. Simmer for 3 hours or until tender.",
+    "Preheat oven to 200°C (392°F). Remove beef brisket from liquid, shred into small pieces, set aside.",
+    "Drain cashews, place them on a baking sheet, sprinkle with sesame seeds, and bake for 15 minutes or until lightly browned and crispy.",
+    "Combine shredded beef with cooked cashews and their cooking juices. Adjust seasoning if needed and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 240,
+  "totalTimeMin": 300,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cashew-beef-sutra",
+    "nutty-crispy-indulgent",
+    "beef-brisket-dutch",
+    "slow-cooked",
+    "jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 31,
+    "carbs": 26,
+    "fat": 21
+  },
+  "slug": "cashew-beef-sutra",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cashew-beef-sutra",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T16:13:29Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crispy",
+    "mood": "indulgent",
+    "technique": "slow-cook",
+    "primaryIngredient": "beef brisket",
+    "diet": "jain",
+    "region": null
+  }
+}
