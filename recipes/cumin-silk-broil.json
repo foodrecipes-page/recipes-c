@@ -1,0 +1,83 @@
+{
+  "title": "Cumin Silk Broil",
+  "description": "A herbal, silky, romantic Russian dish featuring cumin seeds, served as a light and comforting dinner option.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 boneless skinless chicken breasts",
+      "amount": "each",
+      "notes": "preferably with some bones for added flavor"
+    },
+    {
+      "name": "1/4 cup (30g) unsalted butter",
+      "amount": "cup",
+      "notes": "room temperature"
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": "each"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "pieces"
+    },
+    {
+      "name": "1/4 cup (60g) grated parmesan cheese",
+      "amount": "cup",
+      "notes": "fresh or pre-made for convenience"
+    },
+    {
+      "name": "1/4 teaspoon salt",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "1/8 teaspoon black pepper",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "2 tablespoons cumin seeds (whole)",
+      "amount": "tablespoons",
+      "notes": "lightly toasted before use"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F.",
+    "Cut the chicken breasts into slices if they're not already sliced. Season them with salt and black pepper on both sides.",
+    "Melt the butter in a skillet over medium heat. Add the onion, garlic, cumin seeds, and a pinch of salt. Sauté for about 5 minutes until fragrant and slightly softened.",
+    "Gently toss the seasoned chicken pieces into the skillet, placing them skin-side down. Cook for another minute on each side or until well-browned.",
+    "Transfer the skillet to your oven-safe dish (a glass casserole is ideal) ensuring that all sides of the chicken are fully covered by the mixture. Bake at 400°F for about 25-30 minutes, until the juices run clear when a knife is inserted into the thickest part.",
+    "Remove from the heat and let it rest for about 10 minutes before serving with fresh parmesan cheese grated over top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cumin",
+    "silky",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 431,
+    "protein": 32,
+    "carbs": 18,
+    "fat": 22
+  },
+  "slug": "cumin-silk-broil",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cumin-silk-broil",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T13:09:26Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "silky",
+    "mood": "romantic",
+    "technique": "broil",
+    "primaryIngredient": "cumin seeds",
+    "diet": "kosher",
+    "region": null
+  }
+}
