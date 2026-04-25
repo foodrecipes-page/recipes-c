@@ -1,0 +1,65 @@
+{
+  "title": "Creamy Corn Cheffka",
+  "description": "Buttery, tender one-pot dish featuring creamed corn baked to perfection in a nut-free-friendly environment.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Creamy Corn",
+      "amount": "1 can"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "Chopped Fresh Chives",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Melt the butter in a large baking dish over medium heat.",
+    "Add heavy cream and stir until fully combined and heated through.",
+    "Pour in the can of creamy corn and mix well.",
+    "Sprinkle chopped fresh chives on top for garnish.",
+    "Bake for 15 minutes or until bubbly and golden brown on top.",
+    "Serve hot with a side of sour cream if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "creamy-corn",
+    "russian-dish",
+    "one-pot",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 470,
+    "protein": 12,
+    "carbs": 36,
+    "fat": 25
+  },
+  "slug": "creamy-corn-cheffka",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-corn-cheffka",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T08:57:47Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "tender",
+    "mood": "one-pot",
+    "technique": "bake",
+    "primaryIngredient": "creamed corn",
+    "diet": "nut-free",
+    "region": null
+  }
+}
