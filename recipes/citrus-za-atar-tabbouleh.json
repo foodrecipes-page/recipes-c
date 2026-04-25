@@ -1,0 +1,85 @@
+{
+  "title": "Citrus Za'atar Tabbouleh",
+  "description": "A citrusy, flaky Middle Eastern dish featuring sweet chili sauce and gluten-free-friendly tabbouleh.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "salad",
+  "ingredients": [
+    {
+      "name": "tabbouleh base (bulgur or quinoa)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced cucumber",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 handful"
+    },
+    {
+      "name": "crushed walnuts",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sweet chilli sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "crushed feta cheese (optional)",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Prepare the tabbouleh base by rinsing and draining the bulgur or quinoa. Mix with diced cucumber, chopped fresh parsley, crushed walnuts, extra virgin olive oil, lemon juice, zest, salt, and sweet chilli sauce.",
+    "If using feta cheese, crumble it over the top of the mixture for added texture and flavor.",
+    "Mix all ingredients together until evenly combined."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tabbouleh",
+    "citrus",
+    "sweet-chilli-sauce",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 6,
+    "carbs": 18,
+    "fat": 9
+  },
+  "slug": "citrus-za-atar-tabbouleh",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrus-za-atar-tabbouleh",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T09:44:57Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "flaky",
+    "mood": "comforting",
+    "technique": "temper",
+    "primaryIngredient": "sweet chilli sauce",
+    "diet": "gluten-free",
+    "region": null
+  }
+}
