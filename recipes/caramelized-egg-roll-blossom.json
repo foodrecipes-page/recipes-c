@@ -1,0 +1,69 @@
+{
+  "title": "Caramelized Egg Roll Blossom",
+  "description": "A floral and velvety Japanese dish featuring egg roll wrappers that have been caramelized for a diabetic-friendly dessert option.",
+  "cuisine": "Japanese",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup gluten-free egg roll wrappers",
+      "amount": "",
+      "notes": "Ensure wrappers are cooked before proceeding."
+    },
+    {
+      "name": "3 tablespoons coconut sugar",
+      "amount": "Tbsp",
+      "notes": "For a touch of sweetness."
+    },
+    {
+      "name": "2 tablespoons unsalted butter",
+      "amount": "Tbsp",
+      "notes": "Melted for caramelizing."
+    },
+    {
+      "name": "1/4 cup water",
+      "amount": "Fl Oz",
+      "notes": "To help the sugar dissolve and caramelize smoothly."
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Gently warm the egg roll wrappers in a pan over low heat for about 2 minutes per side, until golden brown.",
+    "Arrange the caramelized egg rolls on a baking sheet lined with parchment paper and let them cool slightly.",
+    "In a small saucepan, combine coconut sugar and water. Stir gently to dissolve the sugar completely before adding butter.",
+    "Stir continuously over medium heat until the mixture turns into a rich amber color. This should take about 5-7 minutes, stirring frequently.",
+    "Pour the caramel sauce evenly over each egg roll wrapper and let it sit for 30 seconds before serving."
+  ],
+  "prepTimeMin": 12,
+  "cookTimeMin": 8,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "diabetic-friendly",
+    "caramelized-egg-roll",
+    "flower-dessert"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "caramelized-egg-roll-blossom",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/caramelized-egg-roll-blossom",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T06:11:00Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "velvety",
+    "mood": "solo-dinner",
+    "technique": "caramelize",
+    "primaryIngredient": "egg roll wrappers",
+    "diet": "diabetic-friendly",
+    "region": null
+  }
+}
