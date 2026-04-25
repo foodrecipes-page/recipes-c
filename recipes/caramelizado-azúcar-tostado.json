@@ -1,0 +1,61 @@
+{
+  "title": "Caramelizado Azúcar Tostado",
+  "description": "A low-calorie-friendly Mexican dish featuring dark brown soft sugar that is crispy and sour to aid in hangover cure.",
+  "cuisine": "Mexican",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Dark Brown Sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Avocado Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Mix dark brown sugar, avocado oil, and water in a small bowl.",
+    "Pour mixture into a shallow baking dish and spread evenly with a spatula.",
+    "Bake for 10-12 minutes or until edges begin to turn golden brown.",
+    "Remove from oven and let cool completely before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "caramelized",
+    "crispy",
+    "hangover-cure",
+    "mexican"
+  ],
+  "nutrition": {
+    "calories": 45,
+    "protein": 0,
+    "carbs": 9,
+    "fat": 3
+  },
+  "slug": "caramelizado-azúcar-tostado",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/caramelizado-azúcar-tostado",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T14:54:09Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crispy",
+    "mood": "hangover-cure",
+    "technique": "cure",
+    "primaryIngredient": "dark brown soft sugar",
+    "diet": "low-calorie",
+    "region": null
+  }
+}
