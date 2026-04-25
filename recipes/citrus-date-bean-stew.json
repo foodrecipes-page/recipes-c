@@ -1,0 +1,104 @@
+{
+  "title": "Citrus Date Bean Stew",
+  "description": "A creamy and citrusy Mediterranean-inspired dish featuring kidney beans as the base, perfectly suited for date nights or light dinners.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kidney Beans",
+      "amount": "1 cup",
+      "notes": "Rinsed and drained"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Pitted Medjool Dates",
+      "amount": "4 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Orange Slices",
+      "amount": "2 large",
+      "notes": "Juiced"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Bay Leaves",
+      "amount": "2",
+      "notes": "Whole"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large saucepan over medium heat.",
+    "Add onion and garlic, sauté until translucent.",
+    "Stir in tomato paste and cumin powder, cook for another minute.",
+    "Fold in kidney beans, dates, orange slices, and their juice. Add salt and pepper to taste.",
+    "Pour in enough water or vegetable broth to cover the ingredients.",
+    "Simmer gently on low heat for about 15 minutes until the liquid is reduced slightly.",
+    "Stir in lemon juice before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bean-stew",
+    "date-night",
+    "mediterranean",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 9
+  },
+  "slug": "citrus-date-bean-stew",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrus-date-bean-stew",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T15:47:36Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "creamy",
+    "mood": "date-night",
+    "technique": "saute",
+    "primaryIngredient": "kidney beans",
+    "diet": "pescatarian",
+    "region": null
+  }
+}
