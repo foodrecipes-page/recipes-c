@@ -1,0 +1,67 @@
+{
+  "title": "Caramelized Sugar Crisps",
+  "description": "A light Thai dish featuring ground sugar that is buttery and crispy, perfect for a low-carb dessert or snack.",
+  "cuisine": "Thai",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "2 tablespoons granulated sugar",
+      "amount": "Tbsp"
+    },
+    {
+      "name": "1/4 cup unsalted butter",
+      "amount": "cup",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": ""
+    },
+    {
+      "name": "Optional: 1 teaspoon vanilla extract (optional)",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a small bowl, mix together sugar and butter until smooth.",
+    "Stir in salt and optional vanilla extract if using.",
+    "Transfer mixture onto a baking sheet lined with parchment paper. Pat into an even layer about 1/8 inch thick.",
+    "Bake for 10-12 minutes or until golden brown and crispy on the edges, rotating halfway through to ensure even browning.",
+    "Remove from oven and let cool completely before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "caramelized",
+    "sugar",
+    "crispy",
+    "thai"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 2,
+    "carbs": 15,
+    "fat": 7
+  },
+  "slug": "caramelized-sugar-crisps",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/caramelized-sugar-crisps",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T17:35:12Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "toast",
+    "primaryIngredient": "ground sugar",
+    "diet": "low-carb",
+    "region": null
+  }
+}
