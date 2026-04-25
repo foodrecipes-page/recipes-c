@@ -1,0 +1,70 @@
+{
+  "title": "Cozy Corn Comfort",
+  "description": "This earthy and gooey Thai dish features sweetcorn blended with a low-calorie-friendly cure for a warm, comforting meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sweetcorn",
+      "amount": "1 can (14 oz)",
+      "notes": "Drained and rinsed"
+    },
+    {
+      "name": "Low-sodium Chicken Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Almond Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 small, peeled and minced"
+    },
+    {
+      "name": "Cilantro (for garnish)",
+      "amount": "",
+      "notes": "Fresh"
+    }
+  ],
+  "instructions": [
+    "Heat the chicken broth in a large pot over medium heat.",
+    "Add sweetcorn, ginger, and almond milk to the pot. Stir well to combine all ingredients.",
+    "Reduce heat to low and simmer for about 15 minutes until the mixture is thickened slightly.",
+    "Stir occasionally to prevent scorching on bottom of pan.",
+    "Remove from heat and let cool before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cozy",
+    "thai",
+    "comfort"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 2,
+    "carbs": 18,
+    "fat": 3
+  },
+  "slug": "cozy-corn-comfort",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-corn-comfort",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T13:42:18Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "gooey",
+    "mood": "cozy",
+    "technique": "cure",
+    "primaryIngredient": "sweetcorn",
+    "diet": "low-calorie",
+    "region": null
+  }
+}
