@@ -1,0 +1,105 @@
+{
+  "title": "Cozy Filipino Beef Stir-fry",
+  "description": "A creamy and bitter whole30-friendly dish featuring tender beef in a rich gravy, perfect for a cozy dinner.",
+  "cuisine": "Filipino",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "500g",
+      "notes": "Grind into small pieces"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Chili Garlic Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "a pinch"
+    },
+    {
+      "name": "White Vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "4 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pan over medium heat.",
+    "Add garlic and chili garlic sauce, sauté for about 1 minute.",
+    "Stir in soy sauce, tomato paste, lime juice, vinegar, sugar, and cayenne pepper. Cook until slightly thickened.",
+    "Gradually add water, stirring continuously to prevent sticking.",
+    "Bring the mixture to a simmer, then reduce heat to low.",
+    "Add beef pieces and cook for about 5 minutes or until meat is browned on all sides.",
+    "Season with salt and black pepper as needed.",
+    "Serve hot over rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cozy-filipino",
+    "bitter",
+    "creamy",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 896,
+    "protein": 51,
+    "carbs": 48,
+    "fat": 27
+  },
+  "slug": "cozy-filipino-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-filipino-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T22:15:01Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "creamy",
+    "mood": "cozy",
+    "technique": "broil",
+    "primaryIngredient": "beef gravy",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "beef",
+    "descriptor": "Cozy",
+    "dishForm": "Stir-fry"
+  }
+}
