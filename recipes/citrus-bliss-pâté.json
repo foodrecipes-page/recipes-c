@@ -1,0 +1,84 @@
+{
+  "title": "Citrus Bliss Pâté",
+  "description": "A citrusy, fluffy Syrian dish featuring ground coriander, served as a crowd-pleaser and vegan-friendly option.",
+  "cuisine": "Syrian",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 cups silken tofu",
+      "amount": "cup",
+      "notes": "drained, squeezed"
+    },
+    {
+      "name": "1 medium zucchini",
+      "amount": "piece"
+    },
+    {
+      "name": "Juice of 4 limes",
+      "amount": "juices"
+    },
+    {
+      "name": "1 large orange",
+      "amount": "one"
+    },
+    {
+      "name": "3 tablespoons fresh cilantro",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "2 tablespoons ground coriander",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "1 tablespoon lemon zest",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "Sesame seeds for garnish (optional)",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Cut zucchini into small cubes and squeeze out excess moisture. Mix with the drained tofu.",
+    "Add lime juice, orange zest, and coriander; mix well until no lumps remain.",
+    "Transfer mixture to a baking dish and bake for 45 minutes or until pâté reaches desired consistency.",
+    "Allow it to cool before garnishing with sesame seeds if desired.",
+    "Serve as a side dish or spread over crackers."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "citrus",
+    "fluffy",
+    "crowd-pleaser",
+    "syrian",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "citrus-bliss-pâté",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrus-bliss-pâté",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T16:47:48Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "fluffy",
+    "mood": "crowd-pleaser",
+    "technique": "sous-vide",
+    "primaryIngredient": "ground coriander",
+    "diet": "plant-based",
+    "region": null
+  }
+}
