@@ -1,0 +1,90 @@
+{
+  "title": "Creamy Low-Fat Noodles",
+  "description": "A buttery and creamy Chinese dish featuring noodles with a twist of low-fat elements for a romantic dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Al dente cooked pasta",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable broth concentrate",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Low-fat heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Shredded carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Shredded potatoes",
+      "amount": "1 medium potato, peeled and cubed"
+    },
+    {
+      "name": "Diced onion",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Low-fat soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Low-sodium chicken broth",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Pork slices (optional)",
+      "amount": "3 ounces"
+    },
+    {
+      "name": "Tofu slices (optional)",
+      "amount": "3 ounces"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick skillet over medium heat. Add the diced onion and cook until translucent.",
+    "If using pork, add it to the skillet with the onions and cook until browned on all sides.",
+    "Add cubed potatoes to the skillet with the onions and pork. Stir in low-sodium chicken broth and vegetable broth concentrate. Bring to a simmer and let cook for about 5 minutes.",
+    "Reduce heat to medium-low, add shredded carrots, cooked pasta, and low-fat soy sauce. Mix well until all ingredients are coated with the sauce.",
+    "Stir in low-fat heavy cream and continue cooking until the mixture is heated through, stirring occasionally.",
+    "If using tofu, add it at this point along with any remaining seasoning if needed to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "creamy",
+    "romantic",
+    "chinese"
+  ],
+  "nutrition": {
+    "calories": 376,
+    "protein": 19.9,
+    "carbs": 38.7,
+    "fat": 15
+  },
+  "slug": "creamy-low-fat-noodles",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-low-fat-noodles",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T19:48:56Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "stir-fry",
+    "primaryIngredient": "noodles",
+    "diet": "low-fat",
+    "region": null
+  }
+}
