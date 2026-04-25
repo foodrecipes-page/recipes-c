@@ -1,0 +1,84 @@
+{
+  "title": "Crispy Ethiopian Beef Stir-fry",
+  "description": "A herbal and crispy solo-dinner dish featuring minced beef that is caramelized to perfection, perfect for a low-sodium-friendly meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "low-calorie",
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Minced",
+      "amount": "150 grams"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "2"
+    },
+    {
+      "name": "Garlic Cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "Cilantro, finely chopped (optional)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Kosher Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Clean and thinly slice the beef. Season with kosher salt and black pepper.",
+    "Heat a bit of vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the finely chopped onions to the heated pan, sauté until translucent.",
+    "Next, add the minced garlic and sauté for about 30 seconds until fragrant.",
+    "Gently fold in the seasoned beef slices. Stir-fry the beef until it starts to brown lightly on all sides.",
+    "Sprinkle with cilantro (optional) just before serving.",
+    "Serve hot as a solo-dinner dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "spicy",
+    "herbal",
+    "low-sodium"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 20,
+    "carbs": 5,
+    "fat": 6
+  },
+  "slug": "crispy-ethiopian-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-ethiopian-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T22:19:56Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crisp",
+    "mood": "solo-dinner",
+    "technique": "caramelize",
+    "primaryIngredient": "minced beef",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Beef",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
