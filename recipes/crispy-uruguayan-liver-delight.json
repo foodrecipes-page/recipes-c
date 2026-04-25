@@ -1,0 +1,76 @@
+{
+  "title": "Crispy Uruguayan Liver Delight",
+  "description": "A nutty, crisp dish featuring chicken liver in a deglazed sauce for those sick-day cravings, with pescatarian-friendly options.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup stale bread crumbs",
+      "amount": "",
+      "notes": "Use stale bread to achieve crispiness"
+    },
+    {
+      "name": "2 chicken livers",
+      "amount": "about 6 oz each",
+      "notes": "Approximate size for serving as a snack"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup white wine (or any deglazing liquid)",
+      "amount": "",
+      "notes": "For pescatarian version, use vegetable broth instead of white wine"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "To make breadcrumbs, combine bread crumbs with a pinch of salt. Mix well.",
+    "Season livers lightly with salt and pepper on both sides.",
+    "Heat olive oil in an oven-safe skillet over medium heat. Add liver and cook for about 4-6 minutes per side until golden brown, browning the outside slightly to ensure crispiness.",
+    "Once cooked, place liver directly into the bread crumb mixture, coating evenly.",
+    "Pour deglazing liquid into a measuring cup and carefully pour it back over the oven-safe skillet. Let the steam create some sizzle as you transfer both ingredients together to an oven-proof dish.",
+    "Bake in preheated oven for 15-20 minutes or until breadcrumbs are golden brown and the liver is cooked through.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "uruguayan",
+    "liver",
+    "crispy",
+    "nutty",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 6,
+    "fat": 14
+  },
+  "slug": "crispy-uruguayan-liver-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-uruguayan-liver-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T08:19:13Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crisp",
+    "mood": "sick-day",
+    "technique": "deglaze",
+    "primaryIngredient": "chicken liver",
+    "diet": "pescatarian",
+    "region": null
+  }
+}
