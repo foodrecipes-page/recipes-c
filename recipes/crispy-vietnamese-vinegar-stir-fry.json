@@ -1,0 +1,110 @@
+{
+  "title": "Crispy Vietnamese Vinegar Stir-fry",
+  "description": "This spicy and crispy Vietnamese dish features a marinade with cinnamon to create a cozy and aromatic meal that is also jain-friendly.",
+  "cuisine": "Vietnamese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "200g",
+      "notes": "Skin-on"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup fresh",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 stalk",
+      "notes": "Sliced thinly"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": "Chopped into thin strips"
+    },
+    {
+      "name": "Green beans",
+      "amount": "1 cup",
+      "notes": "Trimmed and halved"
+    },
+    {
+      "name": "Cinnamon sticks",
+      "amount": "2",
+      "notes": "Ground cinnamon for marinade"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tbsp",
+      "notes": "Regular fish sauce is preferred for this recipe"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": "Pressed and minced"
+    },
+    {
+      "name": "Fish filet marinade",
+      "amount": null,
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "For stir-frying"
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl, combine fish sauce and sugar to make the marinade. Add minced garlic cloves and press them through a garlic press into the bowl.",
+    "Cut chicken breast into thin strips and add to the marinade mixture. Let it marinate for at least one hour or overnight in the refrigerator.",
+    "Preheat a wok or large frying pan over medium-high heat. Add vegetable oil, swirl to coat the bottom of the pan evenly.",
+    "Remove chicken from marinade, keeping any leftover liquid. Discard extra marinade.",
+    "Add sliced green onions and red bell pepper strips to the hot pan followed by green beans. Stir-fry for about 2 minutes until vegetables begin to wilt slightly.",
+    "When vegetables are nicely tender, add marinated chicken pieces in a single layer. Cook until chicken is fully cooked through and golden brown on all sides.",
+    "Sprinkle ground cinnamon over the top of the stir-fried dish before serving. Garnish with chopped cilantro for added flavor and freshness."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "stir-fry",
+    "cozy",
+    "spicy",
+    "cinnamon",
+    "marinated",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 36,
+    "carbs": 28,
+    "fat": 19
+  },
+  "slug": "crispy-vietnamese-vinegar-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-vietnamese-vinegar-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T23:20:09Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crispy",
+    "mood": "cozy",
+    "technique": "marinate",
+    "primaryIngredient": "cinnamon",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Vinegar",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
