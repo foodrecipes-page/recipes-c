@@ -1,0 +1,87 @@
+{
+  "title": "Chewy Romantic Garlic Uruguayan Stir-fry",
+  "description": "This whole30-friendly and cream of tartar infused dish is perfect for a romantic dinner. It combines the umami richness of garlic with the depth of cream of tartar, creating a hearty and flavorful meal.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 cloves garlic",
+      "amount": "minced"
+    },
+    {
+      "name": "1 tablespoon cream of tartar",
+      "amount": "full amount provided in recipe"
+    },
+    {
+      "name": "1/4 cup heavy whipping cream",
+      "amount": "to taste, based on personal preference for flavor intensity"
+    },
+    {
+      "name": "1/2 pound beef tenderloin or chicken breast",
+      "amount": "cut into bite-sized pieces"
+    },
+    {
+      "name": "1/4 cup red wine vinegar",
+      "amount": "optional, for depth and acidity"
+    },
+    {
+      "name": "1/4 cup vegetable oil",
+      "amount": "for sautéing ingredients"
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "adjust to taste"
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "to taste, for added flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (176°C).",
+    "Prepare the beef or chicken by seasoning with salt and pepper on both sides.",
+    "Heat a skillet over medium-high heat. Add oil and sear the meat until golden brown, about 2-3 minutes per side for the tenderloin and 4-5 minutes for chicken breasts.",
+    "Remove from heat and set aside. In the same pan, add minced garlic and sauté for an additional minute until fragrant but not burnt.",
+    "Pour in red wine vinegar if using, then slowly pour in cream of tartar while continuously whisking to prevent burning. Simmer for 2-3 minutes or until slightly thickened.",
+    "Return the seasoned meat back into the skillet and stir-fry gently over low-medium heat for another 5-7 minutes, allowing it to absorb the sauce evenly.",
+    "Transfer the dish to a warm plate and let rest for a minute before serving. Garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "gluten-free",
+    "creamy",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 25,
+    "carbs": 18,
+    "fat": 9
+  },
+  "slug": "chewy-romantic-garlic-uruguayan-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-romantic-garlic-uruguayan-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T22:50:49Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "chewy",
+    "mood": "romantic",
+    "technique": "braise",
+    "primaryIngredient": "cream of tartar",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Garlic",
+    "descriptor": "Chewy Romantic",
+    "dishForm": "Stir-fry"
+  }
+}
