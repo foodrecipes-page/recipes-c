@@ -1,0 +1,79 @@
+{
+  "title": "Chesty Goober Cure",
+  "description": "A smoky and gooey Malaysian malay dish featuring chestnut mushroom, tempered with a low-carb-friendly twist to cure hangovers in style.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chestnut Mushroom",
+      "amount": "1 cup sliced"
+    },
+    {
+      "name": "Chicken Stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Ghee",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "Bacan Tempering Paste (optional)",
+      "notes": "For low-carb version, use 1/3 of the Bacan Tempering Paste"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Ginger",
+      "amount": "a few slices"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "2 tablespoons chopped"
+    }
+  ],
+  "instructions": [
+    "In a pan, melt the ghee over medium heat.",
+    "Add sliced Chestnut Mushroom and cook until they release their moisture.",
+    "Pour in the Chicken Stock and let it simmer for about 5 minutes to concentrate flavors.",
+    "If using Bacan Tempering Paste, add it gradually while stirring continuously until no more clumps form.",
+    "Season with salt and fresh ginger slices. Stir well.",
+    "Garnish with chopped cilantro before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chesty-goober-cure",
+    "malaysian-dish",
+    "hangover-cure",
+    "smoky-malaysian",
+    "low-carb-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 6,
+    "fat": 14
+  },
+  "slug": "chesty-goober-cure",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chesty-goober-cure",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T10:47:26Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "gooey",
+    "mood": "hangover-cure",
+    "technique": "temper",
+    "primaryIngredient": "chestnut mushroom",
+    "diet": "low-carb",
+    "region": null
+  }
+}
