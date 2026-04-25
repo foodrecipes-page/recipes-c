@@ -1,0 +1,86 @@
+{
+  "title": "Custard Crisp Crunch",
+  "description": "A salty and crispy Filipino dish featuring custard powder that's perfect for weeknight meals, gluten-free-friendly.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "custard powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1/8 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut flakes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/3 cup"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/4 cup (for dusting, optional)"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Mix custard powder, flour, baking powder, and salt in a bowl.",
+    "Add oil, coconut flakes, brown sugar, and enough water to make a thick batter. Mix well until smooth.",
+    "Pour the mixture into an ungreased 9x13 inch pan. Sprinkle almond flour evenly over the top for extra crunch if desired.",
+    "Bake for 25-30 minutes or until golden brown. Let cool slightly before serving.",
+    "Serve with a side of your choice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "custard",
+    "crisp",
+    "salty",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 398,
+    "protein": 2.5,
+    "carbs": 70,
+    "fat": 14
+  },
+  "slug": "custard-crisp-crunch",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/custard-crisp-crunch",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T02:24:38Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crispy",
+    "mood": "weeknight",
+    "technique": "roast",
+    "primaryIngredient": "custard powder",
+    "diet": "gluten-free",
+    "region": null
+  }
+}
