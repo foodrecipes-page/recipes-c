@@ -1,0 +1,85 @@
+{
+  "title": "Crunchy Grill Delight",
+  "description": "This garlicky, crumbly Ethiopian dish uses vegetable shortening for a vegan-friendly, nut-free indulgence that's perfect for any meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegan",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup of diced onions",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons vegetable shortening",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Pinch of black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup cooked quinoa",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons chopped fresh parsley",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large skillet, heat the vegetable shortening over medium-high heat.",
+    "Add the minced garlic and sauté until fragrant, about 1 minute.",
+    "Stir in the salt and pepper, then add the cooked quinoa. Toss to coat evenly with the garlic mixture.",
+    "Fold in the fresh parsley just before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "grill",
+    "delight",
+    "garlic",
+    "quinoa"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 6,
+    "carbs": 18,
+    "fat": 7
+  },
+  "slug": "crunchy-grill-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-grill-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T05:59:57Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crumbly",
+    "mood": "indulgent",
+    "technique": "grill",
+    "primaryIngredient": "vegetable shortening",
+    "diet": "nut-free",
+    "region": null
+  }
+}
