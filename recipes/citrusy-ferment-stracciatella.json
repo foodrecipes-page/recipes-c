@@ -1,0 +1,63 @@
+{
+  "title": "Citrusy Ferment-Stracciatella",
+  "description": "A citrusy, crumbly Venezuelan dish featuring V Sterbottensost cheese, fermented for a unique flavor and texture in a solo dinner setting.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "ferfodmap-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "V Sterbottensost",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Ferment",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Citrus Zest (lemon, orange)",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Mix V Sterbottensost and yogurt in a bowl.",
+    "Stir in ferment and citrus zest gently.",
+    "Let it rest for at least an hour to allow fermentation.",
+    "Serve the Citrusy Ferment-Stracciatella as a unique dessert."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 60,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "v-sterbottensost",
+    "dessert",
+    "fermented"
+  ],
+  "nutrition": {
+    "calories": 135,
+    "protein": 4,
+    "carbs": 18,
+    "fat": 7
+  },
+  "slug": "citrusy-ferment-stracciatella",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-ferment-stracciatella",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T05:47:19Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crumbly",
+    "mood": "solo-dinner",
+    "technique": "ferment",
+    "primaryIngredient": "v sterbottensost cheese",
+    "diet": "fodmap",
+    "region": null
+  }
+}
