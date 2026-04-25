@@ -1,0 +1,87 @@
+{
+  "title": "Cherry Ketchup with Garlic and Cherries",
+  "description": "A garlicky, dense cherry ketchup dish inspired by nostalgic Malaysian flavors, blended Mediterranean-style for a lighter touch.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup fresh cherries",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "",
+      "notes": "Chopped"
+    },
+    {
+      "name": "1/4 cup olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup red wine vinegar",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon Dijon mustard",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon sugar",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Pinch of black pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine cherries, garlic, olive oil, vinegar, mustard, sugar, salt, and pepper.",
+    "Blend until smooth. Taste and adjust seasoning if necessary.",
+    "Transfer to a small saucepan and bring to a simmer over medium heat.",
+    "Reduce the mixture by half (about 15-20 minutes) to concentrate flavors and thicken the ketchup.",
+    "Strain through a fine-mesh sieve into a clean container, pressing gently on solids with a spoon to remove any remaining particles."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cherry-ketchup",
+    "malaysian-flavor",
+    "mediterranean-style",
+    "garlic-cherries"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 16,
+    "fat": 8
+  },
+  "slug": "cherry-ketchup-with-garlic-and-cherries",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cherry-ketchup-with-garlic-and-cherries",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T09:24:07Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "dense",
+    "mood": "nostalgic",
+    "technique": "reduce",
+    "primaryIngredient": "cherries",
+    "diet": "mediterranean",
+    "region": null
+  }
+}
