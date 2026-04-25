@@ -1,0 +1,78 @@
+{
+  "title": "Crunchy Earthly Rice Flour Pancake",
+  "description": "A kid-friendly Argentinean dish featuring a crunchy texture made with rice flour and tadka for added flavor. This low-sodium-friendly recipe is perfect for any meal.",
+  "cuisine": "Argentine",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rice flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "olive oil or ghee",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "green chili peppers (optional)",
+      "amount": "1-2"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl, combine rice flour and water. Stir until the mixture is smooth.",
+    "Add a pinch of salt to enhance the flavor.",
+    "Heat olive oil or ghee in a non-stick pan over medium heat.",
+    "Pour the mixed rice flour into the hot pan and spread evenly using a spatula.",
+    "Once the edges start to dry, sprinkle green chili peppers on top for extra crunch. Tadka can be added during this step by heating some olive oil in another pan, adding mustard seeds and cumin seeds, then scraping them onto your pancake.",
+    "Pour lemon juice on top of the tadka for a burst of flavor.",
+    "Once the desired level of crispiness is achieved (about 2-3 minutes), remove from heat and let it cool slightly before serving.",
+    "Serve with any desired toppings such as fresh herbs, cheese, or fruit."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy-earthly",
+    "kid-friendly",
+    "argentine-dish",
+    "low-sodium"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 1.5,
+    "carbs": 24,
+    "fat": 3
+  },
+  "slug": "crunchy-earthly-rice-flour-pancake",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-earthly-rice-flour-pancake",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T22:32:01Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crunchy",
+    "mood": "kid-friendly",
+    "technique": "tadka",
+    "primaryIngredient": "rice flour pancakes",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Rice Flour Pancakes",
+    "descriptor": "Earthly Crunchy",
+    "dishForm": "Pancake"
+  }
+}
