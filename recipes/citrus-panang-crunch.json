@@ -1,0 +1,89 @@
+{
+  "title": "Citrus Panang Crunch",
+  "description": "An adventurous Egyptian dish featuring a citrusy and crunchy twist on the classic panang curry with vegan-friendly elements, prepared in a pressure cooker for an easy dinner option.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 cups chopped mixed vegetables (bell peppers, carrots, snap peas)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup fresh orange juice",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup freshly squeezed lime juice",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons vegan mayonnaise or Greek yogurt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon curry powder",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "3 tablespoons coconut milk",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons vegan sour cream (optional)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Pinch of salt and black pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine the chopped vegetables, orange juice, lime juice, mayonnaise or yogurt, curry powder, coconut milk, and sour cream in a large pot. Season with salt and pepper.",
+    "Secure the lid on your pressure cooker and set it to high heat. Once at full pressure, cook for 10 minutes, then let the natural release process for another 10 minutes before releasing any remaining steam manually.",
+    "Once cooled slightly, blend the mixture until smooth using an immersion blender or in a regular blender with gloves. Adjust seasoning if needed.",
+    "Serve hot as a dip or spread over your favorite whole grain bread and enjoy it as a side dish to your main meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "crunchy",
+    "panang",
+    "curry",
+    "adapted_egyptian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 18
+  },
+  "slug": "citrus-panang-crunch",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrus-panang-crunch",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T10:53:31Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crunchy",
+    "mood": "adventurous",
+    "technique": "pressure-cook",
+    "primaryIngredient": "panang curry paste",
+    "diet": "vegan",
+    "region": null
+  }
+}
