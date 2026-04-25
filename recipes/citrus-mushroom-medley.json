@@ -1,0 +1,85 @@
+{
+  "title": "Citrus Mushroom Medley",
+  "description": "A citrusy, tender one-pot Slovakian dish featuring mushrooms and other plant-based ingredients.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Button mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Jalapeno peppers",
+      "amount": "2"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Orange zest",
+      "amount": "1/2 orange"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Thyme sprigs",
+      "amount": "a few"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add sliced onions and sauté until translucent, about 5 minutes.",
+    "Add minced garlic and cook for another minute.",
+    "Add button mushrooms and jalapeno peppers to the skillet. Cook for 8-10 minutes or until tender.",
+    "Stir in thyme sprigs, orange zest, lemon juice, water, salt, and pepper. Bring to a boil.",
+    "Reduce heat to low and let simmer for another 15 minutes.",
+    "Serve hot as a main dish or side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "citrus",
+    "slovakian",
+    "mushroom",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 287,
+    "protein": 15,
+    "carbs": 31,
+    "fat": 9
+  },
+  "slug": "citrus-mushroom-medley",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrus-mushroom-medley",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T18:44:51Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "tender",
+    "mood": "one-pot",
+    "technique": "cure",
+    "primaryIngredient": "mushroom",
+    "diet": "plant-based",
+    "region": null
+  }
+}
