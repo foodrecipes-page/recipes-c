@@ -1,0 +1,91 @@
+{
+  "title": "Creamy Coconut Shrimp",
+  "description": "A creamy and tender dish with a touch of coconut flavor that's perfect for brunch or any vegetarian-friendly meal.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "16 large shrimp, peeled and deveined"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon, minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "for garnish (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large pan over medium-high heat.",
+    "Add minced garlic and ginger, sauté for about 2 minutes until fragrant.",
+    "Add shrimp to the pan and cook for about 4-5 minutes or until pink and opaque.",
+    "Remove shrimp from pan and set aside. Reduce the heat to low.",
+    "In the same pan, add coconut milk and heavy cream, stir to combine. Bring to a simmer.",
+    "Stir in minced garlic and ginger, sugar, salt, and pepper. Cook for about 5 minutes until the sauce thickens slightly.",
+    "Add cooked shrimp back into the sauce and toss gently.",
+    "Garnish with fresh cilantro if using. Serve hot as a side dish or alongside other brunch favorites."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "creamy-coconut-shrimp",
+    "vegetarian-friendly",
+    "malaysian-brunch"
+  ],
+  "nutrition": {
+    "calories": 317,
+    "protein": 26,
+    "carbs": 40,
+    "fat": 29
+  },
+  "slug": "creamy-coconut-shrimp",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-coconut-shrimp",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T02:07:13Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "tender",
+    "mood": "brunch-mood",
+    "technique": "saute",
+    "primaryIngredient": "heavy cream",
+    "diet": "vegetarian",
+    "region": null
+  }
+}
