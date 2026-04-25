@@ -1,0 +1,69 @@
+{
+  "title": "Cured Puff Pak",
+  "description": "This chewy, meal-prep-friendly American dish combines the flakiness of puff pastry with a savory cure and is perfect for pescatarian diets.",
+  "cuisine": "American",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Puff Pastry",
+      "amount": "2 sheets"
+    },
+    {
+      "name": "Cure Mix",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Herbs (optional)",
+      "notes": "such as thyme or rosemary"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "Roll out the puff pastry sheets, leaving them a bit thicker than usual for easier cutting.",
+    "Using a cookie cutter or knife, cut out square shapes from the rolled-out dough. Avoid overlapping the cuts.",
+    "Place each shaped piece on a baking sheet lined with parchment paper.",
+    "Spread a thin layer of cure mix evenly over each pastry square.",
+    "Brush olive oil on top of the cure to prevent drying and add flavor.",
+    "Sprinkle herbs (if using) on top for extra freshness and texture.",
+    "Bake in preheated oven for 20 minutes or until golden brown. Rotate baking sheet halfway through cooking time.",
+    "Allow to cool before slicing into smaller pieces for snacking."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "cured-pak",
+    "fermented-dish",
+    "chewy-mealprep",
+    "puff-pastry"
+  ],
+  "nutrition": {
+    "calories": 130,
+    "protein": 2,
+    "carbs": 7,
+    "fat": 5
+  },
+  "slug": "cured-puff-pak",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cured-puff-pak",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T08:47:20Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "meal-prep",
+    "technique": "cure",
+    "primaryIngredient": "puff pastry",
+    "diet": "pescatarian",
+    "region": null
+  }
+}
