@@ -1,0 +1,72 @@
+{
+  "title": "Chive Smoke Quirk",
+  "description": "A quick and crispy Portuguese snack made with chives, smoke flavoring, and a hint of sourness, perfect for snacking on the go.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "egg-free-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup chopped fresh chives",
+      "amount": "",
+      "notes": "Chop finely to enhance flavor and texture."
+    },
+    {
+      "name": "2 tablespoons smoke flavoring (liquid or solid)",
+      "amount": "",
+      "notes": "Can be found in cooking sections of supermarkets or online stores."
+    },
+    {
+      "name": "1/4 cup sour cream (optional for additional tanginess, not essential for egg-free version)"
+    },
+    {
+      "name": "Salt and black pepper to taste",
+      "amount": "",
+      "notes": "Adjust seasoning based on preference."
+    },
+    {
+      "name": "Pinch of sugar (optional)",
+      "amount": "",
+      "notes": "To balance the sourness and enhance overall flavor."
+    }
+  ],
+  "instructions": [
+    "Chop the fresh chives finely.",
+    "In a small mixing bowl, combine the chopped chives with the smoke flavoring. Mix well to ensure an even distribution of smoke taste.",
+    "If using sour cream for tanginess, add it to the mixture and mix thoroughly until combined evenly.",
+    "Season with salt and pepper to taste. Optionally, add sugar if desired for a balanced flavor profile.",
+    "Use your hands or a spoon to form small balls from the mixture and flatten them slightly.",
+    "You can press the flattened mixture into small molds or shapes for added presentation, if preferred."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "smoke-flavored",
+    "crisp-chive-dish",
+    "sour-egg-free"
+  ],
+  "nutrition": {
+    "calories": 37,
+    "protein": 0.9,
+    "carbs": 5.9,
+    "fat": 0.6
+  },
+  "slug": "chive-smoke-quirk",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chive-smoke-quirk",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T17:51:42Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crisp",
+    "mood": "quick-fix",
+    "technique": "smoke",
+    "primaryIngredient": "chopped chive",
+    "diet": "egg-free",
+    "region": null
+  }
+}
