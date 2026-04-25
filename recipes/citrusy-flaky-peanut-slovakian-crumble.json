@@ -1,0 +1,81 @@
+{
+  "title": "Citrusy Flaky Peanut Slovakian Crumble",
+  "description": "This Citrusy Flaky Peanut Slovakian Crumble is a monsoon-friendly snack featuring peanut cookies, pickled vegetables, and other raw-friendly ingredients for a refreshing twist on traditional dishes.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Peanut Cookies",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Pickled Vegetables",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Citrus Zest (lemon or orange)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Raw Honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Peanut Oil or Olive Oil for Baking",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C).",
+    "In a mixing bowl, combine the peanut cookies, pickled vegetables, and citrus zest.",
+    "Add raw honey and stir until evenly coated with the mixture. Make sure not to overmix as this can make it too sticky.",
+    "In another small bowl, mix flour with a pinch of salt and then gradually incorporate into the cookie-pickle-honey mix while continuing to gently fold in the ingredients.",
+    "Transfer the crumble mixture onto a baking sheet lined with parchment paper or a silicone mat.",
+    "Sprinkle a light coating of oil over the top layer for easier removal from the baking sheet. Bake for about 12-15 minutes until golden brown and crispy on the outside.",
+    "Let cool completely before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "flaky",
+    "monsoon",
+    "slovakian",
+    "crumble",
+    "peanut-cookies",
+    "pickle",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 6
+  },
+  "slug": "citrusy-flaky-peanut-slovakian-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-flaky-peanut-slovakian-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T22:04:52Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "flaky",
+    "mood": "monsoon",
+    "technique": "pickle",
+    "primaryIngredient": "peanut cookies",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "peanut",
+    "descriptor": "Citrusy, Flaky",
+    "dishForm": "Crumble"
+  }
+}
