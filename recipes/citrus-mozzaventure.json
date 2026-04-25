@@ -1,0 +1,78 @@
+{
+  "title": "Citrus Mozzaventure",
+  "description": "A citrusy, chewy, adventurous Filipino dish featuring mozzarella in a dairy-free friendly version.",
+  "cuisine": "Filipino",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mozzarella",
+      "amount": "200g (about half a cup)",
+      "notes": "Use dairy-free mozzarella for the vegan version."
+    },
+    {
+      "name": "Jicama",
+      "amount": "1 medium-sized",
+      "notes": "Peel and thinly slice."
+    },
+    {
+      "name": "Kalamansi (Philippine Pitta Berry or Lime)",
+      "amount": "6-8 pieces",
+      "notes": "Juice the kalamansi for zest and flavor."
+    },
+    {
+      "name": "Fresh Mint Leaves",
+      "amount": "1 handful",
+      "notes": "Chop finely for garnish."
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "50ml (about ¼ cup)",
+      "notes": "For poaching the mozzarella in a dairy-free version."
+    },
+    {
+      "name": "Cornstarch or Arrowroot Powder",
+      "amount": "1 tsp",
+      "notes": "Stabilizer for the coconut milk glaze."
+    }
+  ],
+  "instructions": [
+    "Combine kalamansi juice, mint leaves, and coconut milk in a small saucepan. Bring to a simmer and cook until reduced by half (about 5 minutes). Remove from heat.",
+    "Prepare mozzarella: slice it into rounds or balls about the size of a golf ball. If not using dairy-free mozzarella, lightly coat slices in cornstarch or arrowroot powder before poaching.",
+    "For poaching the mozzarella, place slices in the reduced kalamansi sauce and cook for 1-2 minutes until heated through but still chewy. Remove from heat immediately to avoid overcooking.",
+    "Arrange jicama pieces on a serving plate. Place each poached mozzarella slice on top of the jicama, garnishing with fresh mint leaves."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mozzarella",
+    "jicama",
+    "kalamansi",
+    "lactose-free"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 28,
+    "carbs": 35,
+    "fat": 15
+  },
+  "slug": "citrus-mozzaventure",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrus-mozzaventure",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T05:55:50Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "chewy",
+    "mood": "adventurous",
+    "technique": "poach",
+    "primaryIngredient": "mozzarella",
+    "diet": "dairy-free",
+    "region": null
+  }
+}
