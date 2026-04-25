@@ -1,0 +1,74 @@
+{
+  "title": "Crunchy Smoked Salmon Bites",
+  "description": "A kid-friendly Norwegian dish featuring hot smoked flaked salmon, served as crunchy bites that are perfect for snacking and pescatarian diets.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Smoked Salmon",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Panko Bread Crumbs",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh Dill",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 375°F (190°C).",
+    "Mix smoked salmon with olive oil, lemon zest, salt, and fresh dill. Toss until all ingredients are evenly coated.",
+    "Dredge the mixture in panko breadcrumbs, ensuring they stick well to the fish.",
+    "Place the coated salmon bites on a baking sheet lined with parchment paper.",
+    "Air fry for 10-12 minutes or until golden brown and crispy on both sides. Shake halfway through cooking.",
+    "Serve hot as an appetizer or snack."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "smoked salmon",
+    "kid-friendly",
+    "norwegian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 16,
+    "fat": 20
+  },
+  "slug": "crunchy-smoked-salmon-bites",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-smoked-salmon-bites",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T14:17:10Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crumbly",
+    "mood": "kid-friendly",
+    "technique": "air-fry",
+    "primaryIngredient": "hot smoked flaked salmon",
+    "diet": "pescatarian",
+    "region": null
+  }
+}
