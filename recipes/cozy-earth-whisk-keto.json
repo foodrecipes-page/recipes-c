@@ -1,0 +1,70 @@
+{
+  "title": "Cozy Earth Whisk Keto",
+  "description": "An earthy, velvety Croatian dish featuring parmesan cheese and bacon in a light sauce, perfect for a breakfast or light meal.",
+  "cuisine": "Croatian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 cup heavy cream",
+      "amount": "",
+      "notes": "Ensure it is unsweetened"
+    },
+    {
+      "name": "2 tablespoons parmesan cheese",
+      "amount": "grated",
+      "notes": "Use low carb Parmesan if available"
+    },
+    {
+      "name": "8 slices bacon, cooked and crumbled",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon butter",
+      "amount": "",
+      "notes": "High-heat safe"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "In a saucepan, melt the butter over medium heat.",
+    "Add crumbled bacon and gently cook until it releases its grease, about 2 minutes.",
+    "Pour in heavy cream and bring to a simmer. Stir occasionally to prevent sticking.",
+    "Reduce heat to low and stir in grated parmesan cheese until melted and smooth.",
+    "Season with salt and pepper to taste. Remove from heat.",
+    "Serve warm as a spread or topping for your choice of keto-friendly foods."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cozy earth whisk",
+    "keto friendly",
+    "croatian dish"
+  ],
+  "nutrition": {
+    "calories": 251,
+    "protein": 9.8,
+    "carbs": 3.6,
+    "fat": 17.9
+  },
+  "slug": "cozy-earth-whisk-keto",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-earth-whisk-keto",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T05:04:11Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "velvety",
+    "mood": "cozy",
+    "technique": "whisk",
+    "primaryIngredient": "parma ham",
+    "diet": "keto",
+    "region": null
+  }
+}
