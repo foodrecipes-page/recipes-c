@@ -1,0 +1,95 @@
+{
+  "title": "Cozy Vegetable Bhuna",
+  "description": "This savory, flaky dish features a blend of roasted vegetables and spices in a rich vegetable oil sauce, perfect for cozy nights.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon",
+      "notes": "Optional for extra crunch"
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Coriander Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Garam Masala",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Green Chilies",
+      "amount": "3-4, finely chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a heavy-bottomed pot over medium heat.",
+    "Add onion and garlic; sauté until translucent.",
+    "Stir in tomato paste, cumin powder, coriander powder, turmeric powder, garam masala, and salt. Cook for about 1 minute to allow flavors to meld together.",
+    "Include green chilies if using, ensuring they are not too hot for your preference.",
+    "Pour in water (enough to cover the vegetables), bring it to a simmer, and cook until thickened.",
+    "Toss in sesame seeds if desired. Cook for an additional 2-3 minutes.",
+    "Garnish with chopped coriander leaves before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cozy-vegetable-bhuna",
+    "savory-dish",
+    "flaky-canadian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 9,
+    "carbs": 28,
+    "fat": 16
+  },
+  "slug": "cozy-vegetable-bhuna",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-vegetable-bhuna",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T18:29:07Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "flaky",
+    "mood": "cozy",
+    "technique": "bhuna",
+    "primaryIngredient": "vegetable oil",
+    "diet": "vegetarian",
+    "region": null
+  }
+}
