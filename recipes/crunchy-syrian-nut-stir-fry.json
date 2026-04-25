@@ -1,0 +1,97 @@
+{
+  "title": "Crunchy Syrian Nut Stir-fry",
+  "description": "A lazy-sunday dish featuring a rich and crunchy blend of scotch bonnet and bhuna spices in a nut-free-friendly version.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Scotch Bonnet Peppers",
+      "amount": "4-6 pieces",
+      "notes": "For spiciness"
+    },
+    {
+      "name": "Bhuna Paste",
+      "amount": "1 tablespoon",
+      "notes": "Or use a mix of ground spices like cumin, coriander, and turmeric for nut-free option"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3-4 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 ripe",
+      "notes": "For natural sweetness and acidity"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium",
+      "notes": "To add color and crunch"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "Pinch",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste",
+      "notes": ""
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tablespoons",
+      "notes": "For stir-frying"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium-high heat.",
+    "Add scotch bonnet peppers and bhuna paste, sauté until fragrant and slightly softened.",
+    "Chop onion into small pieces and add to the pan. Sauté for about 2 minutes or until translucent.",
+    "Add garlic cloves and cook for another minute.",
+    "Slice tomatoes and red bell pepper. Add them to the pan along with cayenne pepper and salt, stir-fry for a few more minutes.",
+    "Adjust seasoning as needed.",
+    "Serve hot as a snack or side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy-syrian",
+    "nut-free",
+    "lazy-sunday-dish"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 9
+  },
+  "slug": "crunchy-syrian-nut-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-syrian-nut-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T21:03:14Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crunchy",
+    "mood": "lazy-sunday",
+    "technique": "bhuna",
+    "primaryIngredient": "scotch bonnet",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "nuts",
+    "descriptor": "Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
