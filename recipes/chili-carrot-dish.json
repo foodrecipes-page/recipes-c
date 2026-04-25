@@ -1,0 +1,89 @@
+{
+  "title": "Chili Carrot Dish",
+  "description": "A savory and crumbly Syrian dish featuring a spicy chili sauce that caramelizes the carrots to perfection. Whole30-friendly and perfect for a quick dinner.",
+  "cuisine": "Syrian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Carrots",
+      "amount": "2 lbs",
+      "notes": "Chop into large chunks"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "Chili Sauce",
+      "amount": "1/4 cup",
+      "notes": "Any whole30-friendly chili sauce available"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tablespoon",
+      "notes": "Caramelizes the carrots"
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "To taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (218°C).",
+    "Sauté onions and garlic in olive oil until soft.",
+    "Add carrots, chili sauce, brown sugar, salt, and pepper. Stir well and mix evenly.",
+    "Transfer mixture into a baking dish. Bake for 30 minutes.",
+    "Serve hot with pita bread or as a side dish with your favorite main course."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "chili-carrot-dish",
+    "whole30-friendly",
+    "savory-syrian",
+    "crumbly-dish"
+  ],
+  "nutrition": {
+    "calories": 275,
+    "protein": 4,
+    "carbs": 41,
+    "fat": 9
+  },
+  "slug": "chili-carrot-dish",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chili-carrot-dish",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T13:56:34Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crumbly",
+    "mood": "nostalgic",
+    "technique": "caramelize",
+    "primaryIngredient": "chilli sauce",
+    "diet": "whole30",
+    "region": null
+  }
+}
