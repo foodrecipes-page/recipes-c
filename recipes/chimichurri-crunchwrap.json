@@ -1,0 +1,87 @@
+{
+  "title": "Chimichurri Crunchwrap",
+  "description": "A sweet, crisp, nostalgic mexican dish featuring chimichurri sauce, sauteed vegetables, and a low-carb-friendly wrap.",
+  "cuisine": "Mexican",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Low carb wraps",
+      "amount": "2"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "1 (diced)"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1/4 (sliced)"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/4 (thinly sliced)"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/8 (finely chopped)"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2 (minced)"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Chimichurri sauce blend",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Toast the wraps in a pan for about 30 seconds on each side.",
+    "In a pan, sauté bell peppers, zucchini, onion, and red onion until softened. Add garlic and cook for an additional minute.",
+    "Mix chimichurri sauce with olive oil in a small bowl.",
+    "Assemble the wraps by adding the vegetable mixture to one wrap, drizzle with chimichurri sauce, sprinkle with salt and pepper, and top with another wrap."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chimichurri",
+    "crunchwrap",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 5,
+    "carbs": 9,
+    "fat": 6
+  },
+  "slug": "chimichurri-crunchwrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chimichurri-crunchwrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T06:33:15Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crisp",
+    "mood": "nostalgic",
+    "technique": "saute",
+    "primaryIngredient": "chimichurri sauce",
+    "diet": "low-carb",
+    "region": null
+  }
+}
