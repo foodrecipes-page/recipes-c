@@ -1,0 +1,80 @@
+{
+  "title": "Crumble de Cure",
+  "description": "A savory, tender Algerian dish featuring breadcrumbs and prosciutto (cure) for a keto-friendly date-night meal.",
+  "cuisine": "Algerian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Prosciutto (Cure)",
+      "amount": "100g",
+      "notes": "Uncooked, for crumb formation"
+    },
+    {
+      "name": "Grated Parmesan Cheese",
+      "amount": "50g",
+      "notes": "Optional, adds richness and texture"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "75g",
+      "notes": "Use bread made from whole grains or keto-friendly breadcrumbs"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch",
+      "notes": "For seasoning the mixture"
+    },
+    {
+      "name": "Pepper",
+      "amount": "dash",
+      "notes": "For seasoning the mixture"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "Optional, for greasing the baking dish if needed"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Grind the prosciutto into small pieces using a food processor or mortar and pestle. Make sure it's uncooked.",
+    "Combine the ground prosciutto, breadcrumbs, grated Parmesan cheese (if using), salt, pepper, and olive oil in a mixing bowl. Mix until well combined and evenly coated with crumbs.",
+    "Transfer the crumble mixture onto a baking dish lined with parchment paper or sprayed with cooking spray to prevent sticking.",
+    "Bake for 15-20 minutes or until golden brown and crispy on top.",
+    "Remove from oven and allow to cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian-cuisine",
+    "keto-friendly",
+    "crumble-de-cure",
+    "prosciutto-mixture"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 24,
+    "carbs": 13,
+    "fat": 30
+  },
+  "slug": "crumble-de-cure",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumble-de-cure",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T08:11:52Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "tender",
+    "mood": "date-night",
+    "technique": "cure",
+    "primaryIngredient": "breadcrumbs",
+    "diet": "keto",
+    "region": null
+  }
+}
