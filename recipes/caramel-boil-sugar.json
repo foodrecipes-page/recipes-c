@@ -1,0 +1,66 @@
+{
+  "title": "Spicy Fluffy Caramel Boil-Sugar",
+  "description": "This dish is a show-off Australian creation that's crispy on the outside and fluffy inside, perfect for keto-friendly snacks or desserts.",
+  "cuisine": "Australian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Coconut Sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Spicy Brown Sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Pepper Flakes",
+      "amount": "3 pinches"
+    },
+    {
+      "name": "Avocado Oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 180°C (350°F).",
+    "In a shallow dish, mix together the coconut sugar, spicy brown sugar, and pepper flakes.",
+    "Dip slices of avocado in the mixture until evenly coated. Place on a baking sheet lined with parchment paper.",
+    "Bake for about 6-7 minutes or until crispy.",
+    "Serve immediately to enjoy the show-off dessert.",
+    "Note: Adjust spice level as desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "keto-friendly",
+    "snack",
+    "show-off"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 2,
+    "carbs": 18,
+    "fat": 5
+  },
+  "slug": "caramel-boil-sugar",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/caramel-boil-sugar",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T18:52:54Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "fluffy",
+    "mood": "show-off",
+    "technique": "boil",
+    "primaryIngredient": "sugars",
+    "diet": "keto",
+    "region": null
+  }
+}
