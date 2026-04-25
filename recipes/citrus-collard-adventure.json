@@ -1,0 +1,79 @@
+{
+  "title": "Citrus Collard Adventure",
+  "description": "A citrusy and flaky Chinese Fujian-style dish featuring raw-friendly collards that are slowly cooked to perfection.",
+  "cuisine": "Chinese (Fujian)",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup fresh collard greens",
+      "amount": "cup",
+      "notes": "Wash and chop into small pieces."
+    },
+    {
+      "name": "2 tablespoons soy sauce",
+      "amount": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 3 oranges",
+      "amount": "",
+      "notes": "Freshly squeezed."
+    },
+    {
+      "name": "1 tablespoon sesame oil",
+      "amount": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Juice of 3 limes",
+      "amount": "",
+      "notes": "Freshly squeezed."
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°F (93°C).",
+    "Combine collard greens, soy sauce, orange juice, sesame oil, and salt in a mixing bowl.",
+    "Pour the mixture into a large baking dish lined with parchment paper. Spread evenly.",
+    "Bake for about 1 hour or until leaves are crisp-tender but not browned.",
+    "Squeeze limes over the collards before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrus",
+    "collard",
+    "flaky",
+    "adventure",
+    "chinese-fujian",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "citrus-collard-adventure",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrus-collard-adventure",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T08:00:27Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "flaky",
+    "mood": "adventurous",
+    "technique": "slow-cook",
+    "primaryIngredient": "collards",
+    "diet": "raw",
+    "region": "fujian"
+  }
+}
