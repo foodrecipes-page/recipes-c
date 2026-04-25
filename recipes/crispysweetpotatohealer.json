@@ -1,0 +1,82 @@
+{
+  "title": "CrispySweetPotatoHealer",
+  "description": "A delicious and low-calorie-friendly Dutch dish featuring sweet potatoes that are crispy on the outside and creamy inside to aid in hangover recovery.",
+  "cuisine": "Dutch",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "4 medium"
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 425°F (220°C).",
+    "Peel and cube the sweet potatoes into bite-sized pieces. Rinse them under cold water.",
+    "Combine the almond milk, sugar, maple syrup, vanilla extract, butter, flour, and salt in a saucepan. Stir until the mixture is well combined and heated through.",
+    "Add the cubed sweet potatoes to the liquid, stirring gently to coat each piece evenly with the mixture. Let it sit for 5 minutes for the sweet potatoes to absorb some of the liquid.",
+    "Transfer the coated sweet potatoes onto a baking sheet lined with parchment paper. Bake in the preheated oven for about 10-12 minutes or until golden brown and crispy on the outside.",
+    "Serve hot as an accompaniment to your favorite snacks, especially during hangover recovery."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "sweet",
+    "potato",
+    "hangover"
+  ],
+  "nutrition": {
+    "calories": 50,
+    "protein": 3,
+    "carbs": 9,
+    "fat": 1
+  },
+  "slug": "crispysweetpotatohealer",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispysweetpotatohealer",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T01:44:29Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crispy",
+    "mood": "hangover-cure",
+    "technique": "fry",
+    "primaryIngredient": "potatoes",
+    "diet": "low-calorie",
+    "region": null
+  }
+}
