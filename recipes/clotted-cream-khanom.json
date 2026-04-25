@@ -1,0 +1,54 @@
+{
+  "title": "Clotted Cream Khanom",
+  "description": "A quick and easy Thai dessert featuring clotted cream that is both sweet and crumbly without using any sugar.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "250ml Clotted Cream",
+      "amount": "1 can"
+    },
+    {
+      "name": "1 cup Powdered Sugar (optional)",
+      "amount": "optional for extra sweetness"
+    }
+  ],
+  "instructions": [
+    "Spoon the clotted cream into a heatproof bowl.",
+    "Gently warm the bowl on low heat, stirring occasionally until the clotted cream softens slightly and takes on a thick consistency.",
+    "If using, mix in powdered sugar to taste. Adjust amount based on desired sweetness.",
+    "Let cool before serving as it will continue to thicken more while chilling."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "thai",
+    "clotted-cream",
+    "crumbly"
+  ],
+  "nutrition": {
+    "calories": 87,
+    "protein": 1,
+    "carbs": 6,
+    "fat": 2
+  },
+  "slug": "clotted-cream-khanom",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/clotted-cream-khanom",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T15:34:53Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crumbly",
+    "mood": "quick-fix",
+    "technique": "saute",
+    "primaryIngredient": "clotted cream",
+    "diet": "sugar-free",
+    "region": null
+  }
+}
