@@ -1,0 +1,60 @@
+{
+  "title": "Coco Fluffy Halal Breakfast",
+  "description": "A buttery and fluffy Brazilian dish featuring coco sugar that is simmered to perfection for an energizing breakfast meal suitable for halal.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 cup coconut milk",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons coconut sugar",
+      "amount": "tablespoons",
+      "notes": "ensure halal certified"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine coconut milk and coconut sugar. Stir until sugar is fully dissolved.",
+    "Bring the mixture to a gentle simmer over medium heat for about 5 minutes or until thickened slightly.",
+    "Stir occasionally to avoid burning, allowing flavors to meld together gently.",
+    "Remove from heat and serve immediately as desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "coconut-sugar",
+    "buttery-fluffy",
+    "energizing-breakfast"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "coco-fluffy-halal-breakfast",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/coco-fluffy-halal-breakfast",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T14:51:34Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "fluffy",
+    "mood": "energizing",
+    "technique": "simmer",
+    "primaryIngredient": "coco sugar",
+    "diet": "halal",
+    "region": null
+  }
+}
