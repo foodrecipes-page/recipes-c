@@ -1,0 +1,70 @@
+{
+  "title": "Citrus Coriander Toast",
+  "description": "A citrusy and silky brunch dish featuring ground coriander, perfect for those with a low-FODMAP diet.",
+  "cuisine": "American",
+  "diet": [
+    "low-fodmap"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "2 slices whole wheat bread",
+      "amount": "",
+      "notes": "Choose your preferred type of bread. Whole wheat is generally safer for low-FODMAP diets."
+    },
+    {
+      "name": "Juice from 1 orange and 1 lemon",
+      "amount": "about 1/4 cup",
+      "notes": "Ensure it's fresh and citrusy."
+    },
+    {
+      "name": "2 tablespoons ground coriander",
+      "amount": "",
+      "notes": "May need to adjust quantity based on personal preference."
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "",
+      "notes": "For taste, can be adjusted as needed."
+    }
+  ],
+  "instructions": [
+    "Preheat your broiler according to manufacturer's instructions. The temperature should not exceed 425°F (218°C).",
+    "Toast the bread until lightly golden brown and crispy.",
+    "In a small bowl, mix together orange and lemon juice, ground coriander, and salt. Stir well to combine all ingredients evenly.",
+    "Spread the citrus coriander mixture generously on one side of each slice of toast.",
+    "Place the toasted toast under your preheated broiler for 1-2 minutes, or until the bread slices are charred but not burnt.",
+    "Serve immediately while still warm."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrus",
+    "coriander",
+    "toast",
+    "fodmap-friendly"
+  ],
+  "nutrition": {
+    "calories": 130,
+    "protein": 2,
+    "carbs": 8,
+    "fat": 4
+  },
+  "slug": "citrus-coriander-toast",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrus-coriander-toast",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T11:29:45Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "silky",
+    "mood": "brunch-mood",
+    "technique": "broil",
+    "primaryIngredient": "ground coriander",
+    "diet": "fodmap",
+    "region": null
+  }
+}
