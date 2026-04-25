@@ -1,0 +1,72 @@
+{
+  "title": "Crispy Prawn Fresco",
+  "description": "A quick-fix Mediterranean dish featuring fermented prawns, crispy texture, and low-calorie-friendly option.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fermented prawns",
+      "amount": "12-15 pcs",
+      "notes": "soaked in water for at least an hour"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "handful",
+      "notes": "chopped finely"
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Prepare the fermented prawns by soaking them in water for at least an hour. Pat dry with paper towels.",
+    "In a mixing bowl, combine the chopped fresh parsley and soy sauce.",
+    "Add the olive oil to the mixture and mix well until everything is evenly coated.",
+    "Place the prawns on a plate or tray lined with parchment paper, ensuring they are not overlapping.",
+    "Drizzle the marinade over the prawns evenly. Let them marinate for 10 minutes at room temperature.",
+    "Preheat your oven to 425°F (220°C).",
+    "Once ready, place the prawn mixture in the preheated oven and bake for about 8-10 minutes or until they turn golden brown and crispy.",
+    "Serve immediately while hot."
+  ],
+  "prepTimeMin": 3,
+  "cookTimeMin": 10,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fermented prawns",
+    "crispy texture",
+    "mediterranean snack"
+  ],
+  "nutrition": {
+    "calories": 95,
+    "protein": 8,
+    "carbs": 1,
+    "fat": 2
+  },
+  "slug": "crispy-prawn-fresco",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-prawn-fresco",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T01:52:53Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crispy",
+    "mood": "quick-fix",
+    "technique": "cure",
+    "primaryIngredient": "prawns",
+    "diet": "low-calorie",
+    "region": null
+  }
+}
