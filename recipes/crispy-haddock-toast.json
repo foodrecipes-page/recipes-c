@@ -1,0 +1,82 @@
+{
+  "title": "Spicy Haddock Toast",
+  "description": "A crowd-pleasing and crispy French dish featuring haddock on toast with a spicy kick, perfect for those looking for a paleo-friendly meal.",
+  "cuisine": [
+    "French"
+  ],
+  "diet": [
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Haddock Fillets",
+      "amount": "6 oz"
+    },
+    {
+      "name": "Panko Breadcrumbs",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt and Pepper",
+      "notes": "To taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Red Chili Flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh Dill, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "Season haddock fillets with salt and pepper on both sides.",
+    "Dip the haddock fillets in Panko breadcrumbs, ensuring they are fully coated.",
+    "Heat olive oil in a skillet over medium-high heat. Once hot, add haddock fillets and cook until golden brown, about 2-3 minutes per side.",
+    "Remove from heat and place on a baking sheet lined with parchment paper.",
+    "Mix together red chili flakes, fresh dill, and garlic powder in a small bowl. Brush this mixture evenly over the top of each haddock fillet.",
+    "Bake for approximately 10-12 minutes or until crispy and golden brown.",
+    "Let cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "haddock",
+    "toast",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 317,
+    "protein": 20,
+    "carbs": 5,
+    "fat": 19
+  },
+  "slug": "crispy-haddock-toast",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-haddock-toast",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T08:16:10Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crisp",
+    "mood": "crowd-pleaser",
+    "technique": "toast",
+    "primaryIngredient": "haddock",
+    "diet": "paleo",
+    "region": null
+  }
+}
