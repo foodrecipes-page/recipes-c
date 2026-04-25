@@ -1,0 +1,90 @@
+{
+  "title": "Carrot Fold Cloud",
+  "description": "A nutty and fluffy Mediterranean-inspired dish featuring carrots folded into a gluten-free base for a one-pot meal that's perfect as an easy breakfast or snack.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup gluten-free oat flour",
+      "amount": "",
+      "notes": "Use a certified gluten-free brand"
+    },
+    {
+      "name": "2 large carrots, peeled and grated",
+      "amount": "",
+      "notes": "Approximately"
+    },
+    {
+      "name": "3 tablespoons olive oil",
+      "amount": "",
+      "notes": "Or any preferred neutral-tasting oil"
+    },
+    {
+      "name": "1/4 cup freshly squeezed lemon juice",
+      "amount": "",
+      "notes": "Juice of 1 whole lemon"
+    },
+    {
+      "name": "1/2 teaspoon ground cumin",
+      "amount": "",
+      "notes": "Optional, for added flavor"
+    },
+    {
+      "name": "1/8 teaspoon ground black pepper",
+      "amount": "",
+      "notes": "Optional, to taste"
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons chopped fresh parsley",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (205°C).",
+    "In a large mixing bowl, combine oat flour and lemon juice. Stir until well combined.",
+    "Add grated carrots, olive oil, cumin, black pepper (if using), minced garlic, and chopped parsley. Mix thoroughly until the oats are evenly coated with the liquid mixture.",
+    "Transfer the mixture to a baking dish lined with parchment paper. Press down gently but firmly to form an even layer.",
+    "Bake for 15-20 minutes or until edges start to lightly brown.",
+    "Remove from oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 3,
+  "difficulty": "easy",
+  "tags": [
+    "carrot",
+    "oat flour",
+    "mediterranean",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 187,
+    "protein": 4,
+    "carbs": 29,
+    "fat": 3
+  },
+  "slug": "carrot-fold-cloud",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/carrot-fold-cloud",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T11:08:45Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "fluffy",
+    "mood": "one-pot",
+    "technique": "fold",
+    "primaryIngredient": "carrots",
+    "diet": "gluten-free",
+    "region": null
+  }
+}
