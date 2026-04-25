@@ -1,0 +1,79 @@
+{
+  "title": "Chilli Avocado Rajdhani",
+  "description": "This citrusy, creamy, festive Indian dish features a blend of chilli bean paste, tempered with Mediterranean flavors for an unexpected fusion.",
+  "cuisine": "Indian (Rajasthani)",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "avocado",
+      "amount": "1 medium avocado"
+    },
+    {
+      "name": "chili bean paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup (30ml)"
+    },
+    {
+      "name": "mild red chilli",
+      "amount": "4-6, finely chopped"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "2 sprigs, finely chopped"
+    },
+    {
+      "name": "crushed mint leaves",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated carrot",
+      "amount": "1/4 cup (30g)"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "1-2 teaspoons"
+    }
+  ],
+  "instructions": [
+    "Combine the avocado, chili bean paste, lemon juice, red chilli, basil leaves, mint, and grated carrot in a mixing bowl.",
+    "Add tamarind paste to taste for added depth of flavor.",
+    "Mix well until all ingredients are incorporated and the sauce is smooth.",
+    "Serve chilled as an appetizer or alongside steamed basmati rice."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "creamy",
+    "festival",
+    "indian-rajasthani",
+    "mediterranean-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 22,
+    "fat": 8
+  },
+  "slug": "chilli-avocado-rajdhani",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chilli-avocado-rajdhani",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T06:30:25Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "creamy",
+    "mood": "festive",
+    "technique": "temper",
+    "primaryIngredient": "chilli bean paste",
+    "diet": "mediterranean",
+    "region": "rajasthani"
+  }
+}
