@@ -1,0 +1,68 @@
+{
+  "title": "Cozy Broad Beans Tandoor",
+  "description": "A herbal and chewy keto-friendly Tunisian dish featuring broad beans prepared in a tandoor oven for a cozy meal.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Broad Beans",
+      "amount": "1 cup",
+      "notes": "Soaked and drained"
+    },
+    {
+      "name": "Herbs (Thyme, Rosemary, Sage)",
+      "amount": "A few sprigs each",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "For cooking in the tandoor"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": "Optional for coating beans"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C). If using a tandoor, heat it up according to the manufacturer's instructions.",
+    "In a bowl, mix soaked and drained broad beans with herbs. Add butter and olive oil if preferred.",
+    "If using a tandoor, place the mixture on a sheet of parchment paper and fold it over the beans for easy removal. Place in preheated oven or tandoor and cook until tender but not mushy, about 20-30 minutes.",
+    "Alternatively, you can use your regular oven: Spread bean mixture evenly on a baking tray lined with parchment paper. Bake at 400°F (205°C) for 15-25 minutes or until beans are cooked and tender."
+  ],
+  "prepTimeMin": 3,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 3,
+  "difficulty": "easy",
+  "tags": [
+    "tunisian",
+    "herbaceous",
+    "cozy",
+    "bean"
+  ],
+  "nutrition": {
+    "calories": 186,
+    "protein": 9,
+    "carbs": 4,
+    "fat": 7
+  },
+  "slug": "cozy-broad-beans-tandoor",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-broad-beans-tandoor",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T15:11:42Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "chewy",
+    "mood": "cozy",
+    "technique": "tandoor",
+    "primaryIngredient": "broad beans",
+    "diet": "keto",
+    "region": null
+  }
+}
