@@ -1,0 +1,80 @@
+{
+  "title": "Crisp Mustard Kimchi",
+  "description": "A rich and crisp Korean dish featuring dijon mustard, cured vegetables, and a dash-friendly twist.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "1 cup finely chopped napa cabbage",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup finely chopped red bell pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup minced garlic",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/3 cup rice vinegar",
+      "amount": "",
+      "notes": "Used to create the curing brine."
+    },
+    {
+      "name": "2 tablespoons Dijon mustard",
+      "amount": "",
+      "notes": "For a tangy kick."
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl, combine finely chopped napa cabbage and red bell pepper.",
+    "Add minced garlic and salt to the mixture. Toss well until all ingredients are evenly coated.",
+    "Divide the mixture into four portions and shape each portion into small kimchi balls or patties.",
+    "Place the prepared kimchi in a shallow dish with enough rice vinegar brine to cover them, allowing them to cure for at least 2 hours at room temperature.",
+    "After curing, place the kimchi on a baking sheet lined with parchment paper and sprinkle with Dijon mustard.",
+    "Bake at 400°F (205°C) for about 10-15 minutes or until crisp and golden brown.",
+    "Remove from oven and serve warm as an appetizer."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mustard",
+    "kimchi",
+    "korean"
+  ],
+  "nutrition": {
+    "calories": 268,
+    "protein": 7,
+    "carbs": 19,
+    "fat": 5
+  },
+  "slug": "crisp-mustard-kimchi",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-mustard-kimchi",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T06:34:41Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crisp",
+    "mood": "show-off",
+    "technique": "cure",
+    "primaryIngredient": "dijon mustard",
+    "diet": "dash",
+    "region": null
+  }
+}
