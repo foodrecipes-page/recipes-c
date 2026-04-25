@@ -1,0 +1,79 @@
+{
+  "title": "Cozy Cheesy Scones with V Sterbottensost Cheese",
+  "description": "Rich and gooey Irish dish featuring v sterbottensost cheese for a cozy and satisfying snack or dessert.",
+  "cuisine": "Irish",
+  "diet": [
+    "dairy-free",
+    "saturated-fat-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "V Sterbottensost Cheese (60g)",
+      "amount": "60g",
+      "notes": "Use a dairy-free version if needed"
+    },
+    {
+      "name": "Butter, softened (50g)",
+      "amount": "50g"
+    },
+    {
+      "name": "Plain Flour (120g)",
+      "amount": "120g",
+      "notes": "All-purpose or gluten-free flour can be used"
+    },
+    {
+      "name": "Sugar, granulated (30g)",
+      "amount": "30g"
+    },
+    {
+      "name": "Milk, whole (50ml)",
+      "amount": "50ml",
+      "notes": "Use milk to make the dough smoother and tastier"
+    },
+    {
+      "name": "Fodmap-friendly Tadka (if using non-dairy butter or dairy-free margarine, optional)",
+      "amount": "As needed",
+      "notes": "A few sprinkles of a mix of spices like cumin, coriander, and turmeric for flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "In a mixing bowl, cream together the softened butter and sugar until light and fluffy.",
+    "Gradually add flour and V Sterbottensost cheese, mixing well until dough comes together.",
+    "If using Tadka, mix in a few sprinkles directly into the dough to enhance its flavor.",
+    "Shape the dough into 6-8 scones. Bake for about 10-12 minutes or until golden brown and puffed up.",
+    "Serve warm with a cup of tea or coffee."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "cozy",
+    "irish",
+    "vegan-friendly",
+    "fodmap"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 24,
+    "fat": 16
+  },
+  "slug": "cozy-cheesy-scones",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-cheesy-scones",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T03:22:00Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "gooey",
+    "mood": "cozy",
+    "technique": "tadka",
+    "primaryIngredient": "v sterbottensost cheese",
+    "diet": "fodmap",
+    "region": null
+  }
+}
