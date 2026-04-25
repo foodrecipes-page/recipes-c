@@ -1,0 +1,90 @@
+{
+  "title": "Ceviche de Bacalao con Maripaha",
+  "description": "A savory and slightly sour Uruguayan dish featuring cod that has been marinated in a flavorful vegetable-based sauce with crisp vegetables for an adventurous twist, vegetarian-friendly.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "Canned white fish (cod)",
+      "amount": "1 can",
+      "notes": "Choose a firm white fish like cod for best results."
+    },
+    {
+      "name": "Fresh vegetables blend (tomato, onion, cilantro, lime leaves)",
+      "amount": "2 cups",
+      "notes": "Includes fresh tomatoes, finely chopped onions, fresh cilantro, and whole lime leaves."
+    },
+    {
+      "name": "Canned chickpeas",
+      "amount": "1 can",
+      "notes": "Use for added protein and texture."
+    },
+    {
+      "name": "Sour cream (vegetarian)",
+      "amount": "1/4 cup",
+      "notes": "Regular sour cream can be used if vegetarian is unavailable."
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing vegetables and adding flavor to the fish."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh lime juice",
+      "amount": "1 lime",
+      "notes": "Juiced for its bright acidity."
+    },
+    {
+      "name": "Vegetable stock (optional)",
+      "amount": "2 cups",
+      "notes": "To reduce sodium in the dish if desired."
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "Sauté onion and cilantro until translucent, about 4 minutes.",
+    "Add vegetable oil and sauté for an additional minute.",
+    "Toss in canned white fish pieces and cook over medium heat until browned on all sides, about 5 minutes.",
+    "Stir in lime juice, salt, and vegetable stock. Reduce by half if using regular sour cream or to taste with fresh lime juice.",
+    "Add can of chickpeas and cooked vegetables mix into the white fish mixture.",
+    "Mix in fresh vegetable blend (tomato, onion, cilantro) until well combined.",
+    "Simmer for another 10-15 minutes until vegetables are tender and flavors are melded together.",
+    "Serve immediately as an appetizer or main course."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "ceviche",
+    "bacalao",
+    "maripaha",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "ceviche-de-bacalao-con-maripaha",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/ceviche-de-bacalao-con-maripaha",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T04:32:03Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crispy",
+    "mood": "adventurous",
+    "technique": "marinate",
+    "primaryIngredient": "cod",
+    "diet": "vegetarian",
+    "region": null
+  }
+}
