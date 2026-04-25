@@ -1,0 +1,83 @@
+{
+  "title": "Courgette Confit with Pickled Herbs",
+  "description": "A tangy, velvety Venezuelan dish featuring courgettes and pickled herbs, perfect for a cozy dinner.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Courgettes",
+      "amount": "4 medium-sized"
+    },
+    {
+      "name": "Red Onions",
+      "amount": "1 large"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Thyme Leaves",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Oregano Twigs",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "Pickled Herbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Clean and peel the courgettes, then slice them into thick rounds.",
+    "Halve the red onions and thinly slice them. Chop the garlic cloves.",
+    "In a large skillet or saucepan, heat olive oil over medium heat. Add sliced onions and sauté until translucent.",
+    "Add chopped garlic, thyme leaves, oregano twigs, and courgette slices to the pan. Season with salt.",
+    "Pour in enough water to cover the vegetables by about an inch. Bring to a simmer, then reduce the heat to low. Cover partially and cook for 1 hour or until tender-crisp.",
+    "Add pickled herbs during the last 30 minutes of cooking, stirring occasionally.",
+    "Let the dish cool slightly before serving. Garnish with fresh thyme leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "courgette",
+    "confit",
+    "pickled-herbs",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 7,
+    "carbs": 31,
+    "fat": 9
+  },
+  "slug": "courgette-confit-with-pickled-herbs",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/courgette-confit-with-pickled-herbs",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T07:10:25Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "velvety",
+    "mood": "cozy",
+    "technique": "pickle",
+    "primaryIngredient": "courgettes",
+    "diet": "mediterranean",
+    "region": null
+  }
+}
