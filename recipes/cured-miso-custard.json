@@ -1,0 +1,71 @@
+{
+  "title": "Cured Miso Custard",
+  "description": "A creamy and comforting dish with a touch of nuttiness and juiciness, perfect for a weeknight meal featuring clotted cream, cured salmon, and miso.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "clotted cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "miso paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "unsweetened matcha powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Whisk together the clotted cream, soy sauce, miso paste, water, and a pinch of salt until smooth.",
+    "Pour the mixture into ramekins or small baking dishes.",
+    "Bake at 350°F (175°C) for 20 minutes, until set.",
+    "Garnish with unsweetened matcha powder to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cured-miso-custard",
+    "nutty-juicy-dish",
+    "vegetarian-friendly-japanese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 7,
+    "carbs": 14,
+    "fat": 25
+  },
+  "slug": "cured-miso-custard",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cured-miso-custard",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T01:55:40Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "juicy",
+    "mood": "weeknight",
+    "technique": "cure",
+    "primaryIngredient": "clotted cream",
+    "diet": "vegetarian",
+    "region": null
+  }
+}
