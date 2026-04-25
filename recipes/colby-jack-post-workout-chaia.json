@@ -1,0 +1,80 @@
+{
+  "title": "Colby Jack Post-Workout Chaia",
+  "description": "A flavorful post-workout dish featuring Colby Jack cheese and other complementary ingredients to enhance recovery.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Colby Jack Cheese",
+      "amount": "2 oz"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "½ cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add finely chopped onion and cook until translucent, about 5 minutes.",
+    "Add garlic and red pepper flakes. Sauté for an additional minute.",
+    "Pour in tomato sauce, add cumin powder and salt. Stir well to combine all ingredients.",
+    "Reduce the heat to low and let it simmer for 10-15 minutes or until the sauce thickens slightly.",
+    "Garnish with extra Colby Jack cheese if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "colby jack",
+    "post-workout",
+    "chaia",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 5,
+    "carbs": 9,
+    "fat": 6
+  },
+  "slug": "colby-jack-post-workout-chaia",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/colby-jack-post-workout-chaia",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T15:36:13Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "tender",
+    "mood": "post-workout",
+    "technique": "boil",
+    "primaryIngredient": "colby jack cheese",
+    "diet": "halal",
+    "region": null
+  }
+}
