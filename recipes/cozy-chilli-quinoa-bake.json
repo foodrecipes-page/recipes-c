@@ -1,0 +1,104 @@
+{
+  "title": "Cozy Chilli Quinoa Bake",
+  "description": "A savory, crumbly Ethiopian-inspired dish featuring quinoa and a blend of spicy chilli flakes in a plant-based-friendly recipe.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup quinoa",
+      "amount": "cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "2 cups water or vegetable broth",
+      "amount": "cups"
+    },
+    {
+      "name": "1 medium onion, chopped",
+      "amount": ""
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 bell pepper, any color, diced",
+      "amount": ""
+    },
+    {
+      "name": "2 cups spinach or kale leaves",
+      "amount": "cup"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juice"
+    },
+    {
+      "name": "1 can (400g) diced tomatoes",
+      "amount": "can"
+    },
+    {
+      "name": "1/2 cup plant-based milk or water",
+      "amount": "cup"
+    },
+    {
+      "name": "Pinch of cayenne pepper or to taste",
+      "amount": ""
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "amount": ""
+    },
+    {
+      "name": "Chilli flakes for garnish (optional)",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Rinse quinoa in a fine mesh strainer. Soak it with water or vegetable broth overnight.",
+    "Drain and rinse again, then add to a pot with twice its volume of water or broth. Bring to a boil, reduce heat, cover, and simmer until all water is absorbed (about 15 minutes).",
+    "In a large skillet, sauté chopped onion and minced garlic until soft.",
+    "Add diced bell pepper, cook for another minute.",
+    "Stir in cooked quinoa and the spinach or kale. Mix well.",
+    "Pour in lemon juice and tomatoes. Stir to combine all ingredients evenly, then add plant-based milk or water. Season with salt and cayenne pepper.",
+    "Simmer for an additional 5 minutes to allow flavors to meld together.",
+    "Transfer to a baking dish. Sprinkle chilli flakes on top if desired. Bake at 375°F (190°C) for about 20-25 minutes until bubbly and golden brown.",
+    "Serve hot as a side or main course with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cozy",
+    "chilli",
+    "quinoa",
+    "elegant",
+    "dish",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "cozy-chilli-quinoa-bake",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-chilli-quinoa-bake",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T20:03:55Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crumbly",
+    "mood": "cozy",
+    "technique": "boil",
+    "primaryIngredient": "chilli flakes",
+    "diet": "plant-based",
+    "region": null
+  }
+}
