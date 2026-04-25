@@ -1,0 +1,74 @@
+{
+  "title": "Peppery Cornmeal Crust Medley",
+  "description": "A keto-friendly and indulgent Mediterranean dish featuring a crunchy cornmeal crust with added peppery flavors for a delightful breakfast or snack option.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup cornmeal",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "½ teaspoon salt",
+      "amount": "tsp"
+    },
+    {
+      "name": "1/8 teaspoon black pepper",
+      "amount": "tsp"
+    },
+    {
+      "name": "1 cup diced bell peppers (red, yellow, and orange)",
+      "amount": "cup"
+    },
+    {
+      "name": "1 large onion, finely chopped",
+      "amount": "medium"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a mixing bowl, combine cornmeal with olive oil and seasonings.",
+    "Fold in diced bell peppers and chopped onion into the cornmeal mixture until evenly distributed.",
+    "Transfer the mixture onto a greased baking sheet or pie dish. Press down gently to form an even crust.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Let cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cornmeal_crust",
+    "peppery_mediterranean",
+    "keto_dish",
+    "crispy_indulgent"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 3,
+    "fat": 10
+  },
+  "slug": "cornmeal-crust-medley",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cornmeal-crust-medley",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T02:35:13Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "indulgent",
+    "technique": "simmer",
+    "primaryIngredient": "cornmeal",
+    "diet": "keto",
+    "region": null
+  }
+}
