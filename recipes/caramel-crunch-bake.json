@@ -1,0 +1,86 @@
+{
+  "title": "Caramel Crunch Bake",
+  "description": "A nutty and juicy American dish featuring a blend of crunchy caramelized nuts atop a moist cake-like base, perfect for meal-prep with no eggs.",
+  "cuisine": "American",
+  "diet": [
+    "egg-free-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup, melted"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "coarse sea salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "almond meal (blanched almond flour)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "caramel sauce mix",
+      "amount": "2 oz"
+    },
+    {
+      "name": "chocolate chips",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "nuts (pecans, walnuts, or almonds)",
+      "amount": "3/4 cup, roughly chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F.",
+    "In a mixing bowl, combine flour and melted butter. Mix until smooth.",
+    "Stir in sugar and salt. Mix well to incorporate all ingredients thoroughly.",
+    "Fold in almond meal gently but ensure no lumps form. Stir evenly.",
+    "Pour half of the mixture into a greased 9x13 inch baking dish.",
+    "In another mixing bowl, mix caramel sauce mix with chocolate chips. Set aside.",
+    "Gently fold in chopped nuts over remaining batter and spread evenly.",
+    "Drizzle caramel sauce over top layer, ensuring it's fully coated but not soggy.",
+    "Bake for 25-30 minutes or until golden brown around edges.",
+    "Cool slightly before slicing."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "caramel",
+    "cake",
+    "nutty",
+    "juicy"
+  ],
+  "nutrition": {
+    "calories": 397,
+    "protein": 8,
+    "carbs": 52,
+    "fat": 14
+  },
+  "slug": "caramel-crunch-bake",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/caramel-crunch-bake",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T02:11:31Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "juicy",
+    "mood": "meal-prep",
+    "technique": "bake",
+    "primaryIngredient": "caramel",
+    "diet": "egg-free",
+    "region": null
+  }
+}
