@@ -1,0 +1,100 @@
+{
+  "title": "Crispy Knead Vegan Shrimp Bowl",
+  "description": "A buttery and crispy shrimp bowl with a touch of chewiness from the kneaded texture, perfect for kids and vegan families.",
+  "cuisine": "Chinese (Zhejiang)",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 can black beans",
+      "amount": "drained and rinsed"
+    },
+    {
+      "name": "2 tablespoons vegetable oil",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "1 tablespoon minced garlic",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "notes": "optional, adds extra zest"
+    },
+    {
+      "name": "Jumbo shrimp (about 8-10 pcs)",
+      "amount": "peeled and deveined"
+    },
+    {
+      "name": "3 tablespoons cornstarch",
+      "notes": "mixed with water to make a slurry"
+    },
+    {
+      "name": "2 tablespoons tapioca starch",
+      "notes": "mixed with water to make a slurry"
+    },
+    {
+      "name": "1/4 cup soy sauce (use tamari for vegan)",
+      "amount": "for seasoning"
+    },
+    {
+      "name": "Pinch of salt and black pepper",
+      "notes": "to taste"
+    },
+    {
+      "name": "2 cups coconut milk or almond milk",
+      "notes": "adjust as needed"
+    },
+    {
+      "name": "1 tablespoon chopped fresh cilantro (optional, for garnish)"
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large frying pan with vegetable oil over medium heat.",
+    "Add minced garlic and stir-fry until fragrant.",
+    "Gently simmer the drained black beans in the garlic mixture for about 2 minutes.",
+    "In a bowl, mix cornstarch slurry with water to make a smooth consistency.",
+    "Pour the slurry into the wok and continuously stir until the sauce thickens. Taste for seasoning and add soy sauce, salt, and pepper if desired.",
+    "While stirring gently, gradually add coconut milk or almond milk while continuing to cook.",
+    "Add shrimp pieces one by one, and let them sit in each batch of sauce before adding another piece.",
+    "Once all the shrimp are cooked through, taste again for seasoning. Add more salt and pepper as needed if desired.",
+    "Garnish with chopped fresh cilantro (optional) before serving.",
+    "Serve immediately over a bed of rice or noodles."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "crispy",
+    "knead",
+    "chinese",
+    "zhejiang",
+    "shrimp",
+    "kid-friendly"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 23,
+    "carbs": 60,
+    "fat": 19
+  },
+  "slug": "crispy-knead-shrimp-bowl",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-knead-shrimp-bowl",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T00:23:22Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crispy",
+    "mood": "kid-friendly",
+    "technique": "knead",
+    "primaryIngredient": "jumbo shrimp",
+    "diet": "vegan",
+    "region": "zhejiang"
+  }
+}
