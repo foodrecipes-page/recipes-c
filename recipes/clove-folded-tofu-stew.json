@@ -1,0 +1,81 @@
+{
+  "title": "Clove Folded Tofu Stew",
+  "description": "A comforting Venezuelan dish featuring buttery and tender tofu with a hint of clove, ideal for those following a diabetic-friendly diet.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Silken Tofu",
+      "amount": "1 block (about 200g)"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Tomato Puree",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Clove (fresh or ground)",
+      "amount": "2-3 fresh cloves or 1 tsp ground"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Water or Vegetable Stock",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Drain and press the tofu to remove excess water. Break it into small cubes.",
+    "Heat a tablespoon of butter in a large pot over medium heat. Add onion and garlic, sauté until translucent.",
+    "Stir in tomato puree and cook for another minute. Dissolve turmeric powder in 1/4 cup of warm water and add to the pot.",
+    "Fold in the tofu cubes with the spice mixture. Stir well to coat the tofu evenly.",
+    "Pour in the water or vegetable stock, stir again, cover, and let simmer on low heat for about 20 minutes or until the tofu is tender and slightly thickened.",
+    "Remove from heat and fold in fresh ground cloves (ensure clove quantity is correct based on dietary considerations). Taste and adjust salt if needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "clove-folded-tofu-stew",
+    "comforting-venezuelan-dish",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "clove-folded-tofu-stew",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/clove-folded-tofu-stew",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T13:00:22Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "tender",
+    "mood": "comforting",
+    "technique": "fold",
+    "primaryIngredient": "ground clove",
+    "diet": "diabetic-friendly",
+    "region": null
+  }
+}
