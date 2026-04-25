@@ -1,0 +1,72 @@
+{
+  "title": "Cinnamon Monsoon Sour Patch",
+  "description": "A creamy and umami monsoon Uruguayan dish featuring cinnamon, pickle, sugar-free-friendly.",
+  "cuisine": "Monsoon Uruguayan",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cream cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dill pickle slices",
+      "amount": "2 tbsp",
+      "notes": "use sugar-free pickles if available"
+    },
+    {
+      "name": "sour cream",
+      "amount": "2/3 cup"
+    },
+    {
+      "name": "unsweetened almond milk or water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cinnamon powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Blend cream cheese, sour cream, dill pickle slices, unsweetened almond milk or water, cinnamon powder, and vanilla extract until smooth.",
+    "Transfer the mixture to a serving dish and garnish with additional dill if desired.",
+    "Serve immediately as a creamy and umami snack."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "cinnamon",
+    "pickle",
+    "sour_patch",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 174,
+    "protein": 6,
+    "carbs": 9,
+    "fat": 8
+  },
+  "slug": "cinnamon-monsoon-sour-patch",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cinnamon-monsoon-sour-patch",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T12:48:43Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "creamy",
+    "mood": "monsoon",
+    "technique": "pickle",
+    "primaryIngredient": "cinnamon",
+    "diet": "sugar-free",
+    "region": null
+  }
+}
