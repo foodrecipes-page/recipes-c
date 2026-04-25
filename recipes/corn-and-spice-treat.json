@@ -1,0 +1,79 @@
+{
+  "title": "Peppery Corn and Spice Treat",
+  "description": "A kid-friendly tunisian dish featuring creamy corn, spices, and a touch of heat for an adult-approved treat that's both savory and slightly spicy.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Creamed Corn",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Saffron Threads",
+      "amount": "a few",
+      "notes": "To taste, can be soaked in warm water for a minute before using."
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "a pinch",
+      "notes": "For spiciness."
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Basil Leaves",
+      "amount": "2-3",
+      "notes": "Optional, for garnish."
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, combine the creamed corn with saffron threads and red pepper flakes. Mix well.",
+    "Add salt to taste. Stir gently until fully combined.",
+    "Sprinkle cumin seeds over the mixture. Stir again to ensure all ingredients are evenly distributed.",
+    "If desired, add fresh basil leaves for a pop of color and freshness.",
+    "Gently fold in heavy cream using a spatula or spoon to mix it thoroughly with the other ingredients.",
+    "prepTimeMin: 5",
+    "cookTimeMin: 5",
+    "totalTimeMin: 10",
+    "servings: 4",
+    "difficulty: "
+  ],
+  "tags": [
+    "corn",
+    "spice",
+    "creamy",
+    "tunisian",
+    "kid-friendly"
+  ],
+  "nutrition": {
+    "calories": 75,
+    "protein": 2,
+    "carbs": 8,
+    "fat": 4
+  },
+  "slug": "corn-and-spice-treat",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/corn-and-spice-treat",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T20:44:12Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "kid-friendly",
+    "technique": "temper",
+    "primaryIngredient": "creamed corn",
+    "diet": "kosher",
+    "region": null
+  }
+}
