@@ -1,0 +1,101 @@
+{
+  "title": "Citrusy Squid Stew",
+  "description": "A comforting and flavorful citrusy squid stew that is both vegetarian-friendly and reminiscent of a Syrian dish, perfect for those feeling under the weather.",
+  "cuisine": "Middle Eastern/Asian Fusion",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Baby squid",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4-6"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "2 small"
+    },
+    {
+      "name": "Cubes of bread",
+      "amount": "8 slices"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Palm sugar (jiggery)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Dried orange peel (optional)",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Citrus zests (e.g. lemon, lime)",
+      "amount": "2-3 pieces per person"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Bay leaves",
+      "amount": "1-2"
+    },
+    {
+      "name": "Cayenne pepper flakes",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Clean and slice the baby squid into bite-sized pieces.",
+    "Dice the onion, finely chop the garlic, grate the zest from one citrus fruit, set aside. If using dried orange peel, crush it lightly.",
+    "Heat olive oil in a large skillet over medium heat. Add sliced onions and sauté until translucent. Stir in crushed citrus peel (if using), chopped garlic, and grated lemon/lime zest.",
+    "Add squid to the pan with vegetable broth and bay leaves. Season with salt and pepper as needed. Bring to a boil, then reduce heat to low, cover, and simmer for about 15 minutes until squid is tender but still chewy.",
+    "Meanwhile, slice bread into cubes. In an oven-safe casserole or large baking dish, spread the bread cubes evenly in the bottom.",
+    "Layer the cooked squid mixture over the top of the bread cubes in the dish. Spread remaining lemon and lime zest on top. Pour the reserved broth over the top.",
+    "Bake in preheated oven for about 25-30 minutes until bubbling and topping is golden brown.",
+    "Serve hot with additional citrus wedges on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "squid",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 45,
+    "fat": 18
+  },
+  "slug": "citrusy-squid-stew",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-squid-stew",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T17:33:59Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "gooey",
+    "mood": "sick-day",
+    "technique": "braise",
+    "primaryIngredient": "baby squid",
+    "diet": "vegetarian",
+    "region": null
+  }
+}
