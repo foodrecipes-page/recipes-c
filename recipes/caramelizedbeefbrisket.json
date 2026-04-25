@@ -1,0 +1,88 @@
+{
+  "title": "Bitter Beef Brisket with Caramelized Vegetables",
+  "description": "A quick-fix, egg-free-friendly middle-eastern dish featuring tender beef brisket infused with the sweetness of caramelized vegetables.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Brisket",
+      "amount": "500 grams",
+      "notes": "Marinated and ready to cook"
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 large, diced",
+      "notes": "Plum or Roma tomatoes work best"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": "For flavor and caramelization"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "For smokiness and depth of flavor"
+    },
+    {
+      "name": "Coriander Powder",
+      "amount": "1/2 teaspoon",
+      "notes": "To enhance the aromatic profile"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tablespoon",
+      "notes": "For sautéing and caramelizing"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Place the marinated beef brisket in a roasting pan, cover with aluminum foil and bake for about 45 minutes. This step allows it to heat up evenly without drying out.",
+    "While the brisket is baking, heat vegetable oil in a separate skillet over medium-high heat. Add onions, garlic, cumin, coriander powder, and salt. Cook until fragrant and slightly caramelized, stirring occasionally for about 5 minutes.",
+    "Remove the beef from the oven and reduce the oven temperature to 300°F (150°C). Place the caramelized vegetables on top of the brisket in the roasting pan. Cover with aluminum foil again and bake for another 45 minutes or until the beef reaches an internal temperature of 145°F (63°C) when checked with a meat thermometer.",
+    "After removing the brisket from the oven, let it rest for about 10-15 minutes to allow the juices redistribute. Slice thinly and serve hot with your choice of sides."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 85,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "caramelized-beef-brisket",
+    "egg-free-friendly",
+    "quick-fix-middle-eastern-dish"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 27,
+    "carbs": 45,
+    "fat": 18
+  },
+  "slug": "caramelizedbeefbrisket",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/caramelizedbeefbrisket",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T15:32:32Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "dense",
+    "mood": "quick-fix",
+    "technique": "caramelize",
+    "primaryIngredient": "beef brisket",
+    "diet": "egg-free",
+    "region": null
+  }
+}
