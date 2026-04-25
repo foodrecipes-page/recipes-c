@@ -1,0 +1,96 @@
+{
+  "title": "Citrusy Chewy Taro Stir-fry",
+  "description": "A lazy Sunday Filipino dish featuring a citrusy twist with Chinese sesame sauce and a tadka for extra flavor. This nut-free-friendly dish is perfect as a side or light meal.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "taro",
+      "amount": "1 medium-sized",
+      "notes": "preferably peeled and cubed"
+    },
+    {
+      "name": "orange zest",
+      "amount": "2 tablespoons finely chopped",
+      "notes": "freshly squeezed or from a few oranges"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "or tamari for gluten-free option"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ground fennel seeds (optional)",
+      "amount": "",
+      "notes": "for tadka, 1-2 teaspoons"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3 minced finely",
+      "notes": "adjust to taste for spiciness"
+    },
+    {
+      "name": "ginger slices",
+      "amount": "1-inch piece, grated finely",
+      "notes": "optional for added depth of flavor"
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large skillet over medium-high heat.",
+    "Add the sesame oil and ground fennel seeds (if using), stir-fry for about 30 seconds until fragrant.",
+    "Add garlic cloves, ginger slices if using, orange zest, soy sauce, rice vinegar, and cumin powder to the wok. Stir well to combine all ingredients.",
+    "Gently add the cubed taro into the wok. Toss everything together for about 2 minutes or until the taro is tender but still has a chewy texture.",
+    "Turn off heat if tadka was used, stir in the sesame oil and mix thoroughly to coat the taro evenly.",
+    "Serve hot as a side dish or lightly drizzle with extra sesame oil for garnish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "tadka",
+    "chewy",
+    "lazy-sunday",
+    "filipino",
+    "nut-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 6,
+    "carbs": 18,
+    "fat": 7
+  },
+  "slug": "citrusy-chewy-taro-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-chewy-taro-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T21:56:11Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "chewy",
+    "mood": "lazy-sunday",
+    "technique": "tadka",
+    "primaryIngredient": "chinese sesame sauce",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Taro",
+    "descriptor": "Citrusy Chewy",
+    "dishForm": "Stir-fry"
+  }
+}
