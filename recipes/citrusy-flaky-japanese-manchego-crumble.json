@@ -1,0 +1,90 @@
+{
+  "title": "Citrusy Flaky Japanese Manchego Crumble",
+  "description": "A visually stunning vegetarian dish featuring flaky layers of Japanese manchego cheese topped with a citrusy, savory glaze and sprinkled with aromatic spices.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Japanese Manchego Cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Cinnamon Powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Orange Zest",
+      "amount": "1 orange"
+    },
+    {
+      "name": "Ginger Powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch"
+    },
+    {
+      "name": "Fresh Mint Leaves",
+      "amount": "2-3 leaves for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "In a bowl, mix Japanese Manchego Cheese with olive oil until smooth.",
+    "Add orange zest and ginger powder to the cheese mixture. Mix well.",
+    "Sprinkle cinnamon and salt over the cheese mixture evenly.",
+    "Fold in sesame seeds into the cheese mixture using your hands or spatula.",
+    "Transfer the crumble mixture onto a greased baking dish (approximately 8x8 inches).",
+    "Bake for about 25 minutes until golden brown. Keep an eye on it to avoid burning.",
+    "While the crumble is in the oven, prepare mint leaves for garnish and orange slices as a side dish.",
+    "Serve hot with fresh mint leaves and orange slices.",
+    "Enjoy your visually stunning Citrusy Flaky Japanese Manchego Crumble!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "flaky",
+    "japanese",
+    "manchego",
+    "show-off",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 2,
+    "carbs": 4,
+    "fat": 9
+  },
+  "slug": "citrusy-flaky-japanese-manchego-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-flaky-japanese-manchego-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T23:04:29Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "flaky",
+    "mood": "show-off",
+    "technique": "tadka",
+    "primaryIngredient": "manchego",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Manchego",
+    "descriptor": "Citrusy Flaky",
+    "dishForm": "Crumble"
+  }
+}
