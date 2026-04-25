@@ -1,0 +1,94 @@
+{
+  "title": "Chive Cheesecake",
+  "description": "A peppery, creamy low-carb-friendly Dutch dish featuring chopped chives, caramelized for a unique texture and flavor.",
+  "cuisine": "Dutch",
+  "diet": [
+    "low-carb",
+    "diabetic-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Cream Cheese",
+      "amount": "12 oz (340g)",
+      "notes": "Full-fat for creaminess"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "6 oz (170ml)"
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "8 oz (225g)",
+      "notes": "Low-fat to keep carbs in check"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4",
+      "notes": "Room temperature"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tbsp",
+      "notes": "For tanginess"
+    },
+    {
+      "name": "Caramelized Chives",
+      "amount": "2 oz (56g)"
+    },
+    {
+      "name": "Panko Bread Crumbs",
+      "amount": "1/4 cup",
+      "notes": "For crust"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tbsp",
+      "notes": "For caramelizing chives"
+    },
+    {
+      "name": "Pinch of Salt",
+      "notes": "Seasoning the base"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a mixing bowl, beat cream cheese until smooth.",
+    "Add heavy cream and Greek yogurt; mix well. Season with lemon juice and salt.",
+    "Beat eggs in another bowl. Gradually add egg mixture to the cream cheese mixture, stirring constantly.",
+    "Pour half of the cheesecake filling into a greased 9-inch springform pan. Spread caramelized chives over it evenly.",
+    "Sprinkle Panko crumbs on top and then cover with remaining cheesecake mixture.",
+    "Bake for about 45-60 minutes until set but still slightly jiggly in the center.",
+    "Cool completely before refrigerating overnight to chill thoroughly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chive-cheesecake",
+    "peppery-creamy-dutch-dish",
+    "low-carb-friendly"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 23,
+    "carbs": 15,
+    "fat": 37
+  },
+  "slug": "chive-cheesecake",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chive-cheesecake",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T07:27:56Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "caramelize",
+    "primaryIngredient": "chopped chive",
+    "diet": "low-carb",
+    "region": null
+  }
+}
