@@ -1,0 +1,82 @@
+{
+  "title": "Cozy Sumac Wrap",
+  "description": "A peppery and silky Mediterranean dish featuring sumac that is cozy and low-fat-friendly, perfect for a snack or light meal.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "low-fat",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "whole wheat wraps",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "mixed greens (e.g., spinach, arugula)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "avocado",
+      "amount": "1 ripe avocado"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4 cup thinly sliced"
+    },
+    {
+      "name": "feta cheese (optional)",
+      "amount": "1/4 cup crumbled"
+    },
+    {
+      "name": "olive oil dressing",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cooking spray for wrap toasting",
+      "notes": "to add a bit of crunch"
+    }
+  ],
+  "instructions": [
+    "Toast whole wheat wraps lightly with cooking spray.",
+    "Slice tomatoes and avocados into thin slices or wedges.",
+    "Prepare mixed greens by washing, drying, tearing, and gently dressing with olive oil dressing.",
+    "Assemble wraps with the following layers: a wrap piece, mixed greens, tomato slices, avocado slices, red onion, and feta cheese (if using).",
+    "Fold and secure the wraps to serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cozy",
+    "mediterranean",
+    "sumac",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 7,
+    "carbs": 25,
+    "fat": 6
+  },
+  "slug": "cozy-sumac-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-sumac-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T10:27:30Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "silky",
+    "mood": "cozy",
+    "technique": "fold",
+    "primaryIngredient": "sumac",
+    "diet": "low-fat",
+    "region": null
+  }
+}
