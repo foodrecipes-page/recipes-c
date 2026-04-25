@@ -1,0 +1,86 @@
+{
+  "title": "Citrus Crumble Chicken Skivers",
+  "description": "A light and citrusy Norwegian-inspired dish featuring gluten-free-friendly chicken legs topped with a crumbly citrus crust.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken Legs",
+      "amount": "2 pcs",
+      "notes": "Bone-in for added texture"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Grated Citrus Zest (e.g. Orange, Lemon)",
+      "amount": "1 tsp per chicken leg"
+    },
+    {
+      "name": "Freshly Squeezed Citrus Juice (e.g. Orange, Lemon)",
+      "amount": "2 tbsp per chicken leg"
+    },
+    {
+      "name": "Gluten-Free All-Purpose Flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "Miniscule amount, to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season chicken legs with salt and pepper. Pat dry.",
+    "In a bowl, mix together citrus zest, juice, gluten-free flour, cornstarch, and a pinch of salt.",
+    "Apply the mixture evenly over both sides of the chicken pieces, ensuring they are well coated on all sides.",
+    "Drizzle olive oil over chicken legs to coat.",
+    "Place chicken in an oven-safe dish. Broil for 5 minutes until golden brown.",
+    "Bake at 375°F (190°C) for another 20-25 minutes or until juices run clear and internal temperature reaches 165°F (74°C).",
+    "Serve hot with a side of fresh green herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "crumbly",
+    "light",
+    "norwegian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 48,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "citrus-crumble-chicken-skivers",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrus-crumble-chicken-skivers",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T18:38:14Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crumbly",
+    "mood": "light",
+    "technique": "broil",
+    "primaryIngredient": "chicken legs",
+    "diet": "gluten-free",
+    "region": null
+  }
+}
