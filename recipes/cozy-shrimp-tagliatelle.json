@@ -1,0 +1,75 @@
+{
+  "title": "Cozy Shrimp Tagliatelle",
+  "description": "A buttery, tender Turkish dish featuring jumbo shrimp, prepared with a pressure cooker for convenience and low-sodium options.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tagliatelle",
+      "amount": "200g"
+    },
+    {
+      "name": "jumbo shrimp",
+      "amount": "10 pcs"
+    },
+    {
+      "name": "butter",
+      "amount": "50g"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 medium, finely chopped"
+    },
+    {
+      "name": "low-sodium chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "italian parsley",
+      "amount": "1 tbsp, chopped"
+    }
+  ],
+  "instructions": [
+    "Heat a pressure cooker with low-sodium chicken broth and add butter.",
+    "Add minced garlic and onion to the pot. Cook for about 2 minutes until onions are translucent.",
+    "Gently place shrimp in the pot (do not overcrowd). Cover with lid, seal the valve, and cook on high pressure for 5-7 minutes or as per manufacturer's instructions.",
+    "Allow natural release for 10 minutes, then quick-release any remaining pressure. Stir in chopped parsley to taste.",
+    "Drain excess liquid from the shrimp. Toss in cooked tagliatelle ensuring it’s fully coated with sauce and garnished with more parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cozy-shrimp-tagliatelle",
+    "buttery-tender-cooky",
+    "jumbo-shrimp",
+    "turkish-dish"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 19
+  },
+  "slug": "cozy-shrimp-tagliatelle",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-shrimp-tagliatelle",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T00:58:36Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "tender",
+    "mood": "cozy",
+    "technique": "pressure-cook",
+    "primaryIngredient": "jumbo shrimp",
+    "diet": "low-sodium",
+    "region": null
+  }
+}
