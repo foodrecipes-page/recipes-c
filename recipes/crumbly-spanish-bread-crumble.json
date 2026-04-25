@@ -1,0 +1,67 @@
+{
+  "title": "Crumbly Spanish Bread Crumble",
+  "description": "A post-workout treat featuring stale bread that is seasoned with umami flavor to complement a workout routine and provides halal-friendly options.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegan",
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Stale Bread",
+      "amount": "1 slice"
+    },
+    {
+      "name": "Umami Seasoning Blend",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1-2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Place stale bread on a baking sheet, cut into small cubes if desired.",
+    "Sprinkle umami seasoning blend over the bread cubes evenly.",
+    "Drizzle olive oil over the top of the seasoned bread cubes.",
+    "Bake for approximately 8-10 minutes or until golden and crisp. Shake pan halfway through cooking time to ensure even browning.",
+    "Let cool slightly before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "crumbly",
+    "spanish",
+    "umami",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 30,
+    "protein": 1,
+    "carbs": 4,
+    "fat": 2
+  },
+  "slug": "crumbly-spanish-bread-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-spanish-bread-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T23:14:42Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crumbly",
+    "mood": "post-workout",
+    "technique": "temper",
+    "primaryIngredient": "stale bread",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "bread",
+    "descriptor": "crumbly",
+    "dishForm": "Crumble"
+  }
+}
