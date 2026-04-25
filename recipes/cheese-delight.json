@@ -1,0 +1,61 @@
+{
+  "title": "Cheese Delight",
+  "description": "A fresh, crumbly, romantic Ukrainian dish featuring ricotta cheese and a unique fermentation process that is kosher-friendly.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Ricotta Cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fermentation Agent (optional)",
+      "amount": "a few drops"
+    },
+    {
+      "name": "Herbs and Spices for Garnish",
+      "notes": "Optional, to taste"
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl, combine the ricotta cheese.",
+    "If using a fermentation agent, add it now. Mix thoroughly.",
+    "Cover the bowl with plastic wrap or a lid, making sure it seals well.",
+    "Place in a warm area (around 25°C/77°F) for 3-6 hours, depending on preference and temperature. The mixture will thicken and ferment slightly.",
+    "Garnish with herbs and spices before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "u201ccheese-delight",
+    "krasivyy-kosher-cheese",
+    "crumbly-ukrainian-cheese",
+    "romantic-dessert"
+  ],
+  "nutrition": {
+    "calories": 85,
+    "protein": 4,
+    "carbs": 10,
+    "fat": 3
+  },
+  "slug": "cheese-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cheese-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T04:39:43Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crumbly",
+    "mood": "romantic",
+    "technique": "ferment",
+    "primaryIngredient": "ricotta",
+    "diet": "kosher",
+    "region": null
+  }
+}
