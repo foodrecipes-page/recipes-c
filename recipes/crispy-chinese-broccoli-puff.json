@@ -1,0 +1,64 @@
+{
+  "title": "Crispy Chinese Broccoli Puff",
+  "description": "A quick and easy vegetarian dish featuring crispy, nutty Chinese broccoli florets served as a snack or side dish.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chinese Broccoli",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Salt",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Wash the Chinese broccoli thoroughly and cut it into small florets.",
+    "Heat oil in a deep pan or wok over medium-high heat. Add garlic and sauté for about 30 seconds until fragrant.",
+    "Add the Chinese broccoli to the pan, tossing well to coat with oil and garlic.",
+    "Cook for about 5-7 minutes or until the florets are just tender but still slightly crisp. Season with a pinch of salt during cooking.",
+    "Serve hot as is or toss briefly with a bit more seasoning if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "nutty",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 85,
+    "protein": 3,
+    "carbs": 16,
+    "fat": 2
+  },
+  "slug": "crispy-chinese-broccoli-puff",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-chinese-broccoli-puff",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T14:19:57Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crispy",
+    "mood": "quick-fix",
+    "technique": "fry",
+    "primaryIngredient": "chinese broccoli",
+    "diet": "vegetarian",
+    "region": null
+  }
+}
