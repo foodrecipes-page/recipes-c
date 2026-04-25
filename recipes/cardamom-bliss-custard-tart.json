@@ -1,0 +1,81 @@
+{
+  "title": "Cardamom Bliss Custard Tart",
+  "description": "A creamy, savory American dish featuring roasted green cardamom pods in a dairy-free custard filling served as a light dessert.",
+  "cuisine": "American",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Green Cardamom Pods",
+      "amount": "1-2 pods"
+    },
+    {
+      "name": "Sugar",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Almond Milk",
+      "amount": "1 cup (dairy-free)"
+    },
+    {
+      "name": "Flax Seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Custard Powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Roast cardamom pods for about 5-10 minutes until fragrant, then grind into a powder.",
+    "In a saucepan, mix sugar and vanilla extract. Add almond milk, flax seeds, custard powder, and salt.",
+    "Stir continuously over medium heat until mixture starts to thicken and boil. Reduce heat, continue cooking until thickened, about 5 minutes more.",
+    "Pour into a greased tart pan or ramekins and chill for at least 2 hours before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cardamom",
+    "tart",
+    "dairy-free",
+    "creamy"
+  ],
+  "nutrition": {
+    "calories": 276,
+    "protein": 5,
+    "carbs": 19,
+    "fat": 4
+  },
+  "slug": "cardamom-bliss-custard-tart",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cardamom-bliss-custard-tart",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T00:30:45Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "creamy",
+    "mood": "nostalgic",
+    "technique": "roast",
+    "primaryIngredient": "green cardamom pods",
+    "diet": "dairy-free",
+    "region": null
+  }
+}
