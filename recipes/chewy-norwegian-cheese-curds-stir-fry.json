@@ -1,0 +1,89 @@
+{
+  "title": "Chewy Norwegian Cheese Curds Stir-fry",
+  "description": "A kid-friendly and umami-rich dish featuring chewy cheese curds in a flavorful stir-fry sauce, perfect for mealtime.",
+  "cuisine": "Norwegian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cheese Curds",
+      "amount": "2 cups",
+      "notes": "Can be found at specialty food stores or online"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tbsp",
+      "notes": "For cooking the curds and vegetables"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced for flavor enhancement"
+    },
+    {
+      "name": "Green Onions (Scallions)",
+      "amount": "2 stalks",
+      "notes": "Chiffonade cut for garnish and added flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": "For enhancing the umami flavors"
+    },
+    {
+      "name": "Soy Sauce (low-sodium)",
+      "amount": "2 tbsp",
+      "notes": "To add depth of flavor"
+    },
+    {
+      "name": "Cornstarch or Tapioca Starch",
+      "amount": "1 tsp",
+      "notes": "For thickening the sauce"
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a wok or frying pan over medium heat.",
+    "Add minced garlic and sauté until fragrant, about 30 seconds.",
+    "Add cheese curds to the wok and stir for another minute.",
+    "Season with salt and continue stirring to evenly distribute seasoning.",
+    "Pour in soy sauce and cornstarch mixture, stir to combine well.",
+    "Garnish with chiffonade green onions before serving.",
+    "Serve hot as a side dish or over rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "norwegian",
+    "umami",
+    "cheese-curds",
+    "stir-fry",
+    "kid-friendly"
+  ],
+  "nutrition": {
+    "calories": 305,
+    "protein": 19,
+    "carbs": 27,
+    "fat": 8
+  },
+  "slug": "chewy-norwegian-cheese-curds-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-norwegian-cheese-curds-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T23:16:28Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "chewy",
+    "mood": "kid-friendly",
+    "technique": "stir-fry",
+    "primaryIngredient": "cheese curds",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Cheese Curds",
+    "descriptor": "Chewy",
+    "dishForm": "Stir-fry"
+  }
+}
