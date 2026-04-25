@@ -1,0 +1,71 @@
+{
+  "title": "Creamy Corn Confit",
+  "description": "A sour and velvety adventure in Slovakian cuisine featuring creamy corn, with a nut-free-friendly twist.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "cream",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "corn kernels",
+      "amount": "4 ears"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "vinegar",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Bring a pot of water to a boil, add corn kernels and cook until tender.",
+    "Drain the corn and mix with cream, sour cream, salt, black pepper, and vinegar in a blender or food processor. Blend until smooth.",
+    "Transfer mixture to a shallow baking dish and bake for 15 minutes.",
+    "Garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "slovakian",
+    "creamy",
+    "corn",
+    "velvety"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 52,
+    "fat": 8
+  },
+  "slug": "creamy-corn-confit",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-corn-confit",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T11:04:25Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "velvety",
+    "mood": "adventurous",
+    "technique": "temper",
+    "primaryIngredient": "creamed corn",
+    "diet": "nut-free",
+    "region": null
+  }
+}
