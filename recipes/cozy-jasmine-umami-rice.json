@@ -1,0 +1,104 @@
+{
+  "title": "Cozy Jasmine Umami Rice",
+  "description": "This Mediterranean-friendly dish features a medley of aromatic spices and herbs to create a flaky, cozy base for your rice, complemented with umami-rich elements that enhance its depth of flavor.",
+  "cuisine": "Spanish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup Jasmine rice",
+      "amount": "",
+      "notes": "Measure by volume"
+    },
+    {
+      "name": "2 cups water",
+      "amount": "",
+      "notes": "Measure by volume or weight as needed for cooking"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "",
+      "notes": "For sautéing and flavoring the rice"
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "",
+      "notes": "Add a touch of smokiness to the rice"
+    },
+    {
+      "name": "1/2 teaspoon smoked paprika",
+      "amount": "",
+      "notes": "Provides a mild smokiness that complements the dish well"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "",
+      "notes": "Enhances natural flavors without overpowering them"
+    },
+    {
+      "name": "Pinch of black pepper",
+      "amount": "",
+      "notes": "Adds a slight kick to balance out the spices"
+    },
+    {
+      "name": "2 garlic cloves, minced",
+      "amount": "",
+      "notes": "For a robust flavor profile"
+    },
+    {
+      "name": "1/4 cup chopped fresh parsley",
+      "amount": "",
+      "notes": "Garnish and add freshness to the dish"
+    },
+    {
+      "name": "1/4 cup finely chopped red onion",
+      "amount": "",
+      "notes": "Adds a touch of sweetness and depth"
+    },
+    {
+      "name": "2 tablespoons lemon juice",
+      "amount": "",
+      "notes": "Brightens up the overall flavor profile"
+    }
+  ],
+  "instructions": [
+    "Rinse the jasmine rice in cold water until the water runs clear.",
+    "Heat olive oil in a saucepan over medium heat. Add minced garlic and sauté for about 1 minute.",
+    "Stir in cumin, smoked paprika, salt, and black pepper. Cook for another minute to let the spices infuse into the pan.",
+    "Add rice and stir well with the aromatic mixture until it's evenly coated. Pour in water and bring to a boil.",
+    "Once boiling, reduce heat to low and cover the saucepan. Let it simmer for 18-20 minutes or until all the liquid is absorbed and the rice is tender but not mushy.",
+    "Remove from heat, add lemon juice and mix well, then let it sit covered for about 5 more minutes. Season with freshly ground black pepper if needed.",
+    "Garnish with chopped parsley and red onion before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "umami",
+    "cozy",
+    "spanish",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 38,
+    "fat": 9
+  },
+  "slug": "cozy-jasmine-umami-rice",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-jasmine-umami-rice",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T08:59:40Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "flaky",
+    "mood": "cozy",
+    "technique": "slow-cook",
+    "primaryIngredient": "jasmine rice",
+    "diet": "mediterranean",
+    "region": null
+  }
+}
