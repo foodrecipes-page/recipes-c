@@ -1,0 +1,90 @@
+{
+  "title": "Caraway Crunch Embrace",
+  "description": "A buttery, creamy Mexican dish featuring caraway seed that is both adventurous and high-protein-friendly, perfect for a satisfying snack or meal.",
+  "cuisine": "Mexican",
+  "diet": [
+    "high-protein",
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "caraway seeds",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "ground beef or turkey",
+      "amount": "200g"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "250ml"
+    },
+    {
+      "name": "butter",
+      "amount": "80g"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 lime"
+    }
+  ],
+  "instructions": [
+    "Saute onions and garlic in olive oil until translucent.",
+    "Add ground meat, salt, cumin seeds, and caraway seeds. Cook for about 5 minutes, breaking up the meat with a spoon.",
+    "Pour in heavy cream and simmer gently, stirring occasionally to prevent scorching.",
+    "In another pan, melt butter over medium heat and add lime juice for a quick squeeze of freshness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "caraway",
+    "creamy",
+    "adventurous",
+    "mexican",
+    "high-protein-friendly"
+  ],
+  "nutrition": {
+    "calories": 620,
+    "protein": 38,
+    "carbs": 25,
+    "fat": 41
+  },
+  "slug": "caraway-crunch-embrace",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/caraway-crunch-embrace",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T02:42:54Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "creamy",
+    "mood": "adventurous",
+    "technique": "boil",
+    "primaryIngredient": "caraway seed",
+    "diet": "high-protein",
+    "region": null
+  }
+}
