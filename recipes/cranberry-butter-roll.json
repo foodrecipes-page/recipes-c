@@ -1,0 +1,78 @@
+{
+  "title": "Cranberry Butter Roll",
+  "description": "A dense and buttery Ukrainian treat made with cranberry juice, sugar-free, perfect for kids.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Canned cranberries",
+      "amount": "1 can (240ml)",
+      "notes": "Drained and rinsed"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "3 tbsp",
+      "notes": "Sugar-free brown sugar"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": "Almond or gluten-free flour can be used if needed."
+    },
+    {
+      "name": "Butter",
+      "amount": "2 sticks",
+      "notes": "Room temperature"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cranberry juice concentrate (optional)",
+      "amount": "1/4 cup",
+      "notes": "To adjust sweetness if needed."
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a large mixing bowl, combine drained cranberries with brown sugar and vanilla extract. Mix well.",
+    "Gradually add in flour while continuing to mix until dough forms. The mixture will be moist but hold together when pinched.",
+    "Roll the dough into small logs or balls and place on a baking sheet lined with parchment paper.",
+    "Melt the butter in microwave or oven-safe pan, then brush the rolls lightly with melted butter for extra flavor.",
+    "Bake for about 15-20 minutes until golden brown. The rolls should be firm to the touch when done."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "craberry",
+    "butterroll",
+    "kiddycuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "cranberry-butter-roll",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cranberry-butter-roll",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T04:11:08Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "dense",
+    "mood": "kid-friendly",
+    "technique": "boil",
+    "primaryIngredient": "cranberry juice",
+    "diet": "sugar-free",
+    "region": null
+  }
+}
