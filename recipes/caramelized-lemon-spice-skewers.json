@@ -1,0 +1,67 @@
+{
+  "title": "Caramelized Lemon Spice Skewers",
+  "description": "A crispy and herbal dish featuring all-purpose seasoning that gets caramelized for a show-off Turkish touch, sugar-free-friendly.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "1 lemon",
+      "amount": "1 medium"
+    },
+    {
+      "name": "2 chicken skewers",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "3 tablespoons all-purpose seasoning mix",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "1/2 cup sugar-free caramel sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "Juice of 1"
+    }
+  ],
+  "instructions": [
+    "Slice the lemon and coat with all-purpose seasoning mix. Place on skewers in pairs, alternating between seasoned slices.",
+    "Brush each side of the skewers generously with sugar-free caramel sauce.",
+    "Preheat grill to medium-high heat (about 375°F).",
+    "Grill skewers for 2-3 minutes per side until golden brown and caramelized. Watch closely as they can burn quickly.",
+    "Squeeze the remaining lemon juice over the grilled skewers and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "caramelized",
+    "lemon",
+    "spice",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 85,
+    "protein": 6,
+    "carbs": 12,
+    "fat": 0
+  },
+  "slug": "caramelized-lemon-spice-skewers",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/caramelized-lemon-spice-skewers",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T19:37:59Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crispy",
+    "mood": "show-off",
+    "technique": "caramelize",
+    "primaryIngredient": "all-purpose seasoning",
+    "diet": "sugar-free",
+    "region": null
+  }
+}
