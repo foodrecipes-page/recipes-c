@@ -1,0 +1,76 @@
+{
+  "title": "Crunchy Russian Savory Leaves Stir-fry",
+  "description": "A fresh and crunchy savory dish featuring dried summer savoury leaves that are perfect for hangover cures, made with a pescatarian-friendly twist using the pressure cooker method.",
+  "cuisine": "Russian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Summer Savory Leaves",
+      "amount": "1 cup dried"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Chopped Shallots",
+      "amount": "2 small, finely chopped"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Red Peppers",
+      "amount": "1 medium, diced (optional)"
+    },
+    {
+      "name": "Green Peppers",
+      "amount": "1 medium, diced (optional)"
+    }
+  ],
+  "instructions": [
+    "Place the dried Summer Savory Leaves in a bowl and pour hot water over them to rehydrate. Let sit for about 5 minutes.",
+    "In a pan heated with extra virgin olive oil, sauté minced garlic and finely chopped shallots until fragrant.",
+    "Add the rehydrated Summer Savory Leaves and diced red or green peppers (if using). Stir well and let cook for an additional minute.",
+    "Season to taste with salt and freshly ground black pepper. Serve immediately as a snack."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "hangover-cure",
+    "summer-savory-leaves",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 3,
+    "carbs": 6,
+    "fat": 5
+  },
+  "slug": "crunchy-russian-savory-leaves-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-russian-savory-leaves-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T23:36:51Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crunchy",
+    "mood": "hangover-cure",
+    "technique": "pressure-cook",
+    "primaryIngredient": "dried leaves of summer savoury",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Savory Leaves",
+    "descriptor": "Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
