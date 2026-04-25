@@ -1,0 +1,64 @@
+{
+  "title": "Cheese Kimchi Crunchie",
+  "description": "A crowd-pleasing Korean dish featuring a blend of sour kimchi and crispy cheese slices that's perfect for a diabetic-friendly snack.",
+  "cuisine": "Korean",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Kimchi",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cheese Slices (low-fat)",
+      "amount": "8 slices"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Place the kimchi in a mixing bowl.",
+    "Add soy sauce and rice vinegar to the kimchi, stirring well until evenly coated with the dressing.",
+    "Gently lay out cheese slices over the kimchi mixture, ensuring they are evenly distributed.",
+    "Allow the cheese slices to absorb the flavors of the kimchi and marinade for about 10 minutes."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheese-kimchi-crunchie",
+    "sour-korean-dish",
+    "crunchy-snack",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 3,
+    "carbs": 6,
+    "fat": 2
+  },
+  "slug": "cheese-kimchi-crunchie",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cheese-kimchi-crunchie",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T18:33:28Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crunchy",
+    "mood": "crowd-pleaser",
+    "technique": "boil",
+    "primaryIngredient": "cheese slices",
+    "diet": "diabetic-friendly",
+    "region": null
+  }
+}
