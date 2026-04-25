@@ -1,0 +1,79 @@
+{
+  "title": "Cinnamon Earth Crumble",
+  "description": "An earthy and crumbly weeknight Indian dish featuring mixed peel that is vegetarian-friendly and slow-cooked.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Mixed Peel",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Cinnamon sticks",
+      "amount": "4-6 cm"
+    },
+    {
+      "name": "Ginger, grated",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Coarse salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Sugar or jaggery (optional)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "3-4 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a large saucepan over medium heat.",
+    "Add finely chopped onion and sauté until translucent, about 5 minutes.",
+    "Stir in minced garlic and grated ginger. Cook for another minute.",
+    "Fold in mixed peel, cinnamon sticks, and salt. Mix well.",
+    "If using sugar or jaggery, mix with the spices. Reduce heat to low and let cook covered for about an hour.",
+    "Serve warm as a crumble over rice or as a spread on toast."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cinnamon earth crumble",
+    "vegan indian dessert",
+    "mixed peel dish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "cinnamon-earth-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cinnamon-earth-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T16:53:20Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crumbly",
+    "mood": "weeknight",
+    "technique": "slow-cook",
+    "primaryIngredient": "mixed peel",
+    "diet": "vegetarian",
+    "region": null
+  }
+}
