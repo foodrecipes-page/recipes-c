@@ -1,0 +1,77 @@
+{
+  "title": "Crispy Garlic Tostadas",
+  "description": "A quick-fix saudi arabian dish featuring crispy corn tortillas topped with a savory garlic-spiked tahini sauce and fresh herbs.",
+  "cuisine": "Saudi Arabian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "corn tortillas",
+      "amount": "12-16 pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "tahini sauce (for serving)",
+      "amount": "as needed"
+    },
+    {
+      "name": "fresh herbs (cilantro, parsley)",
+      "amount": "a few sprigs"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a frying pan over medium-high heat.",
+    "Add garlic cloves and cumin seeds to the hot oil; stir for about 1 minute until fragrant but not burnt.",
+    "Remove from heat and blend mixture into tahini sauce with a little water if necessary (adjust seasoning as needed).",
+    "Warm tortillas in a separate frying pan or on a skillet over medium-high heat. Keep warm once ready to serve.",
+    "Top each tortilla with a spoonful of the garlic-tahini sauce, sprinkle with fresh herbs and additional salt for flavoring.",
+    "Serve immediately while still crispy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "saudi-arabian",
+    "quick-fix",
+    "garlic-topped",
+    "corn-tortillas",
+    "tahini-sauce"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 7,
+    "carbs": 31,
+    "fat": 14
+  },
+  "slug": "crispy-garlic-tostadas",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-garlic-tostadas",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T03:46:48Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crisp",
+    "mood": "quick-fix",
+    "technique": "cure",
+    "primaryIngredient": "corn tortillas",
+    "diet": "plant-based",
+    "region": null
+  }
+}
