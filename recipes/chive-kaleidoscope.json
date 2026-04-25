@@ -1,0 +1,68 @@
+{
+  "title": "Chive Kaleidoscope",
+  "description": "A fresh and silky Croatian dish featuring chives in a light and vibrant pickle sauce, suitable for nut-free diets.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "1 bunch of kale",
+      "amount": "fresh",
+      "notes": "Wash and chop into small pieces"
+    },
+    {
+      "name": "2 cups of finely chopped chives",
+      "amount": "fresh"
+    },
+    {
+      "name": "2 tablespoons of apple cider vinegar",
+      "amount": "liquid"
+    },
+    {
+      "name": "1 tablespoon of sugar",
+      "amount": "solid"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "dry"
+    }
+  ],
+  "instructions": [
+    "Chop the kale into small pieces and set aside.",
+    "In a mixing bowl, combine chopped chives with apple cider vinegar and sugar. Stir until the mixture is smooth and well combined.",
+    "Add salt to taste, adjusting as needed for seasoning.",
+    "Gently fold in the chopped kale into the vinaigrette mixture.",
+    "Serve immediately or refrigerate any leftovers."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chive",
+    "kaleidoscope",
+    "croation",
+    "nut-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 15,
+    "fat": 4
+  },
+  "slug": "chive-kaleidoscope",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chive-kaleidoscope",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T19:33:56Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "silky",
+    "mood": "show-off",
+    "technique": "pickle",
+    "primaryIngredient": "chives",
+    "diet": "nut-free",
+    "region": null
+  }
+}
