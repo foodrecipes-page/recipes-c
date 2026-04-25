@@ -1,0 +1,93 @@
+{
+  "title": "CrispSourLambLeg",
+  "description": "A quick and flavorful French dish featuring halal-friendly lamb leg marinated in tangy spices before grilling for a crisp exterior and savory interior.",
+  "cuisine": "French",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Leg",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Levain Powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Peanut Oil or Olive Oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "White Sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Bay Leaves",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "Pinch"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix Levain Powder with red wine vinegar, white sugar, sesame seeds, garlic powder, salt, black pepper, and cayenne pepper.",
+    "Rub the marinade evenly over all sides of the lamb leg. Cover and refrigerate for at least 2 hours or up to overnight.",
+    "Preheat grill to medium-high heat (400°F). Remove lamb from marinade, pat dry with paper towels.",
+    "Place lamb on a rack in a sheet pan. Sprinkle with cayenne pepper if desired. Grill until cooked through, about 15-20 minutes per side for medium-rare internal temperature.",
+    "Grill sesame seeds and sprinkle them over the top of the lamb leg before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "lamb",
+    "grilled",
+    "marinated",
+    "halal"
+  ],
+  "nutrition": {
+    "calories": 390,
+    "protein": 31,
+    "carbs": 7,
+    "fat": 26
+  },
+  "slug": "crispsourlambleg",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispsourlambleg",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T20:09:27Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crisp",
+    "mood": "weeknight",
+    "technique": "grill",
+    "primaryIngredient": "lamb leg",
+    "diet": "halal",
+    "region": null
+  }
+}
