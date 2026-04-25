@@ -1,0 +1,80 @@
+{
+  "title": "Clovesuckle Paleo Pasta",
+  "description": "A peppery and velvety kid-friendly Greek dish featuring cloves that is paleo-friendly and perfect for a hearty dinner.",
+  "cuisine": "Greek",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Paleo pasta",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2-3, minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "6-8, pitted and halved"
+    },
+    {
+      "name": "Clove of garlic (for garnish)",
+      "amount": "1 whole, unpeeled"
+    }
+  ],
+  "instructions": [
+    "Preheat your sous-vide machine to 130°F.",
+    "Place the paleo pasta in a bowl. Add minced garlic and finely chopped onion over the pasta.",
+    "Drizzle with olive oil and add red pepper flakes. Mix well until combined.",
+    "Fold in pitted kalamata olives. Taste test and adjust seasoning as needed.",
+    "Transfer the mixture to a serving dish.",
+    "Top each serving with one whole, unpeeled garlic clove for garnish (optional)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "clovesuckle",
+    "peppery",
+    "velvety",
+    "kid-friendly",
+    "greek",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 13,
+    "carbs": 40,
+    "fat": 7
+  },
+  "slug": "clovesuckle-paleo-pasta",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/clovesuckle-paleo-pasta",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T03:05:26Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "velvety",
+    "mood": "kid-friendly",
+    "technique": "sous-vide",
+    "primaryIngredient": "cloves",
+    "diet": "paleo",
+    "region": null
+  }
+}
