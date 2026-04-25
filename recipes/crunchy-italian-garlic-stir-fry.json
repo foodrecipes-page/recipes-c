@@ -1,0 +1,86 @@
+{
+  "title": "Crunchy Italian Garlic Stir-fry",
+  "description": "A floral and crunchy vegetarian dish that satisfies a midnight craving, featuring ground annatto for added depth.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ground annatto",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "6 cloves, minced"
+    },
+    {
+      "name": "italian parsley leaves",
+      "amount": "2 tbsp, chopped"
+    },
+    {
+      "name": "red bell peppers",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "green onions",
+      "amount": "2 pieces, sliced thinly"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a wok or large skillet over medium heat.",
+    "Add ground annatto and minced garlic, stir-fry for about 1 minute until fragrant.",
+    "Add red bell peppers and green onions to the pan; stir until just softened.",
+    "Stir in chopped parsley and soy sauce. Season with salt as needed.",
+    "Cook until ingredients are heated through and combined evenly.",
+    "Remove from heat and serve hot or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "italian",
+    "floral",
+    "midnight craving"
+  ],
+  "nutrition": {
+    "calories": 108,
+    "protein": 3,
+    "carbs": 6,
+    "fat": 5
+  },
+  "slug": "crunchy-italian-garlic-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-italian-garlic-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T21:33:31Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crunchy",
+    "mood": "midnight-craving",
+    "technique": "slow-cook",
+    "primaryIngredient": "ground annatto",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Garlic",
+    "descriptor": "Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
