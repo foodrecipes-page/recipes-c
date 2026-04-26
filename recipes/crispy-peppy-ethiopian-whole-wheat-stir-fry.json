@@ -1,0 +1,74 @@
+{
+  "title": "Crispy Peppy Whole Wheat Stir-fry",
+  "description": "A festive Ethiopian dish featuring whole wheat mixed with vegetables and spices, served as a savory side or light meal.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Whole Wheat Pasta",
+      "amount": "200g"
+    },
+    {
+      "name": "Mixed Vegetables (carrots, bell peppers)",
+      "amount": "1 cup each"
+    },
+    {
+      "name": "Spices - Garlic Powder, Paprika, Turmeric",
+      "amount": "To taste"
+    },
+    {
+      "name": "Tahini Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Water or Vegetable Broth",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Boil the whole wheat pasta according to package instructions.",
+    "Chop mixed vegetables into small pieces.",
+    "In a pan, heat oil over medium-high heat. Add chopped vegetables and spices; sauté for about 5 minutes until vegetables are slightly softened.",
+    "Add cooked whole wheat pasta to the vegetable mixture and mix well with vegetables.",
+    "Pour tahini sauce and water/vegetable broth into the pan. Stir everything together thoroughly, allowing it to cook for another minute or two until all ingredients are evenly coated.",
+    "Serve hot as a side dish or light meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "crispy",
+    "festive",
+    "ethiopian",
+    "whole wheat",
+    "low-fat-friendly"
+  ],
+  "nutrition": {
+    "calories": 310,
+    "protein": 6,
+    "carbs": 52,
+    "fat": 4
+  },
+  "slug": "crispy-peppy-ethiopian-whole-wheat-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-peppy-ethiopian-whole-wheat-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T14:09:22Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "festive",
+    "technique": "temper",
+    "primaryIngredient": "whole wheat",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "whole wheat",
+    "descriptor": "peppery crispy festive",
+    "dishForm": "Stir-fry"
+  }
+}
