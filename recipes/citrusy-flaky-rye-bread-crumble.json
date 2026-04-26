@@ -1,0 +1,83 @@
+{
+  "title": "Citrusy Flaky Rye Bread Crumble",
+  "description": "A weeknight Malaysian dish featuring a citrus-flavored rye bread crumble that's low-fat and easy to prepare.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rye Bread",
+      "amount": "1 slice"
+    },
+    {
+      "name": "Juice of 1 Lemon",
+      "amount": ""
+    },
+    {
+      "name": "Freshly Squeezed Orange Juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Honey or Agave Syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Flaxseed Meal",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Caster Sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Ground Cinnamon",
+      "amount": "A pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Slice the rye bread into thin layers.",
+    "In a mixing bowl, combine lemon juice, orange juice, honey or agave syrup, flaxseed meal, caster sugar, and ground cinnamon. Mix well until no lumps remain.",
+    "Coat each slice of rye bread with the citrusy batter, ensuring an even layer on both sides.",
+    "Place the coated slices on a baking tray lined with parchment paper.",
+    "Bake in preheated oven for 10-15 minutes or until golden brown and crispy.",
+    "Remove from oven and let it cool slightly before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "flaky",
+    "rye bread",
+    "low-fat-friendly"
+  ],
+  "nutrition": {
+    "calories": 45,
+    "protein": 0.75,
+    "carbs": 3.25,
+    "fat": 1
+  },
+  "slug": "citrusy-flaky-rye-bread-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-flaky-rye-bread-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T11:35:48Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "flaky",
+    "mood": "weeknight",
+    "technique": "fold",
+    "primaryIngredient": "rye bread",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Rye Bread",
+    "descriptor": "Citrusy Flaky",
+    "dishForm": "Crumble"
+  }
+}
