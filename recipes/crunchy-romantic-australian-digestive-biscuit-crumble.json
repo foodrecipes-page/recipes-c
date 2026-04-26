@@ -1,0 +1,81 @@
+{
+  "title": "Crunchy Romantic Australian Digestive Biscuit Crumble",
+  "description": "This recipe combines the classic flavor of digestive biscuits with a spicy, crunchy crumble topping for a delightful and romantic twist on an everyday dessert.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup crushed digestive biscuits",
+      "amount": "",
+      "notes": "Ensure they are finely ground for better mixing."
+    },
+    {
+      "name": "3/4 cup granulated sugar",
+      "amount": "3/4 cup",
+      "notes": "For a touch of sweetness."
+    },
+    {
+      "name": "2 tablespoons unsalted butter, melted",
+      "amount": "2 tbsp",
+      "notes": "Use room temperature for easier spreading."
+    },
+    {
+      "name": "1 teaspoon ground cinnamon",
+      "amount": "1 tsp",
+      "notes": "To enhance the biscuit texture and flavor."
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "",
+      "notes": "For a subtle savory note."
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a large bowl, mix together the crushed digestive biscuits and sugar until well combined.",
+    "Stir in the melted butter, cinnamon, and salt. Mix thoroughly until evenly distributed throughout the mixture.",
+    "Press the biscuit crumble mixture into an 8-inch square baking dish lined with parchment paper for easy removal.",
+    "Bake for 20-25 minutes or until golden brown on top.",
+    "Cool slightly before serving with a dollop of whipped cream, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "romantic",
+    "australian",
+    "digestive biscuits",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 256,
+    "protein": 1.9,
+    "carbs": 41,
+    "fat": 7.8
+  },
+  "slug": "crunchy-romantic-australian-digestive-biscuit-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-romantic-australian-digestive-biscuit-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T10:20:27Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crunchy",
+    "mood": "romantic",
+    "technique": "knead",
+    "primaryIngredient": "digestive biscuits",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Digestive biscuits",
+    "descriptor": "Spicy Crunchy Romantic",
+    "dishForm": "Crumble"
+  }
+}
