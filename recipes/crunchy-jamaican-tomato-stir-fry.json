@@ -1,0 +1,81 @@
+{
+  "title": "Crunchy Jamaican Tomato Stir-fry",
+  "description": "A fresh and crunchy jamaican dish featuring a kid-friendly tomato sauce combined with healthy spices for a quick and easy meal.",
+  "cuisine": "Jamaican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "jalapeno peppers",
+      "amount": "1 (optional)"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Chop the tomatoes, onions, and jalapeno peppers into small pieces.",
+    "Finely chop the garlic cloves. If using jalapeno peppers, slice them thinly.",
+    "In a skillet or wok, heat the olive oil over medium-high heat.",
+    "Add the chopped tomatoes first, followed by the sliced onions and garlic if not using jalapenos as well.",
+    "Once everything is evenly distributed in the pan, season with salt and black pepper to taste.",
+    "Stir frequently until the tomatoes begin to break down into a sauce-like consistency and the vegetables are cooked through but still slightly crunchy.",
+    "If you want it spicier, add the sliced jalapeno peppers towards the end of cooking. Adjust seasoning as needed based on preference.",
+    "Serve hot over rice or with bread for a nutritious meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy-jamaican",
+    "kid-friendly-dish",
+    "healthy-stir-fry"
+  ],
+  "nutrition": {
+    "calories": 215,
+    "protein": 6,
+    "carbs": 34,
+    "fat": 8
+  },
+  "slug": "crunchy-jamaican-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-jamaican-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T16:44:58Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crunchy",
+    "mood": "kid-friendly",
+    "technique": "cure",
+    "primaryIngredient": "tomato sauce",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Tomato",
+    "descriptor": "Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
