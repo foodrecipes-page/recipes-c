@@ -1,0 +1,69 @@
+{
+  "title": "Crumbly Moroccan Black Pudding Creme Fraiche",
+  "description": "A hangover-curing dish combining raw-friendly black pudding with a Moroccan-inspired creme fraiche crumble that's perfect for breakfast.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "200g black pudding",
+      "amount": "pieces"
+    },
+    {
+      "name": "50ml creme fraiche",
+      "amount": "milk"
+    },
+    {
+      "name": "1/4 cup chopped fresh parsley",
+      "amount": null
+    },
+    {
+      "name": "1/4 tsp ground cinnamon",
+      "amount": null
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Marinate the black pudding with lemon juice for at least an hour.",
+    "Gently warm creme fraiche and add chopped parsley, a pinch of salt, and cinnamon.",
+    "Combine the marinated black pudding pieces with the crème fraîche mixture to create a crumble.",
+    "Serve immediately as a breakfast dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "hangover_cure",
+    "crumbly"
+  ],
+  "nutrition": {
+    "calories": 258,
+    "protein": 16,
+    "carbs": 7,
+    "fat": 9
+  },
+  "slug": "crumbly-moroccan-black-pudding-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-moroccan-black-pudding-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T09:25:21Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crumbly",
+    "mood": "hangover-cure",
+    "technique": "marinate",
+    "primaryIngredient": "black pudding",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Black Pudding",
+    "descriptor": "Crumbly",
+    "dishForm": "Crumble"
+  }
+}
