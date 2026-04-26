@@ -1,0 +1,80 @@
+{
+  "title": "Citrusy Flaky Mexican Fig Crumble",
+  "description": "A moist and flavorful citrusy flaky crumble with figs, perfect for a monsoon-inspired breakfast dish that's egg-free-friendly.",
+  "cuisine": "Mexican",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "2 cups all-purpose flour",
+      "amount": "",
+      "notes": "Sifted"
+    },
+    {
+      "name": "1/4 cup unsalted butter, chilled and cubed",
+      "amount": "",
+      "notes": "At room temperature"
+    },
+    {
+      "name": "3 tablespoons honey",
+      "amount": "",
+      "notes": "Room temperature"
+    },
+    {
+      "name": "2 teaspoons grated orange zest",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup freshly squeezed orange juice",
+      "amount": "",
+      "notes": "At room temperature"
+    },
+    {
+      "name": "8 ounces fresh figs, halved and lightly pitted",
+      "amount": "",
+      "notes": "Room temperature"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C). Grease a 9-inch square baking dish with butter.",
+    "In a large bowl, mix together the flour and unsalted butter until it resembles coarse crumbs. Stir in the honey, orange zest, and orange juice.",
+    "Add halved figs to the mixture and stir gently to combine. Pour into prepared pan.",
+    "Bake for 25 minutes or until golden brown and bubbling on top. Serve warm with a dollop of whipped cream if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "flaky",
+    "mexican",
+    "figs",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "citrusy-flaky-mexican-fig-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-flaky-mexican-fig-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T11:23:33Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "flaky",
+    "mood": "monsoon",
+    "technique": "deglaze",
+    "primaryIngredient": "figs",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "figs",
+    "descriptor": "Citrusy Flaky",
+    "dishForm": "Crumble"
+  }
+}
