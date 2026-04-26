@@ -1,0 +1,76 @@
+{
+  "title": "Crunchy Japanese Bacon Crumble",
+  "description": "A rich, crispy, indulgent Japanese dish featuring bacon, tempered with a touch of sweetness and served as an accompaniment to rice or noodles.",
+  "cuisine": "Japanese",
+  "diet": [
+    "rich",
+    "indulgent"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bacon",
+      "amount": "200g",
+      "notes": "preferably smoked, for added flavor"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tbsp",
+      "notes": "ensure it is whole cane or coconut sugar to maintain a whole30-friendly profile"
+    },
+    {
+      "name": "Panko Bread Crumbs",
+      "amount": "2 cups",
+      "notes": "preferably gluten-free, for added crispiness"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": "for frying and tempering the bacon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Slice bacon into thin strips, season with salt.",
+    "In a skillet over medium heat, fry bacon until golden brown, removing from heat when almost crispy.",
+    "Combine brown sugar and vegetable oil in a small saucepan, stir until the sugar dissolves. Pour over fried bacon and toss to coat evenly.",
+    "Transfer bacon mixture to a baking dish lined with parchment paper. Bake for about 10 minutes or until it reaches desired crispiness.",
+    "While the bacon is baking, mix panko crumbs with a pinch of salt. After removing from oven, sprinkle crispy bacon onto crumb mixture and toss gently to evenly coat.",
+    "Serve immediately as a snack accompaniment."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "japanese",
+    "indulgent",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 678,
+    "protein": 19,
+    "carbs": 21,
+    "fat": 45
+  },
+  "slug": "crunchy-japanese-bacon-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-japanese-bacon-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T06:49:35Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crispy",
+    "mood": "indulgent",
+    "technique": "temper",
+    "primaryIngredient": "bacon",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "bacon",
+    "descriptor": "Rich Crispy",
+    "dishForm": "Crumble"
+  }
+}
