@@ -1,0 +1,74 @@
+{
+  "title": "Crumbly Tunisian Shrimp Paste Crumble",
+  "description": "A rich, crumbly meal-prep dish featuring shrimp paste sautéed with spices and served as a satisfying snack or side.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "shrimp paste",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion, finely chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "cilantro leaves, chopped",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a skillet over medium heat.",
+    "Add onion and garlic, sauté until soft and translucent, about 5 minutes.",
+    "Add shrimp paste to the skillet and stir well for an additional minute.",
+    "Add lemon juice and cilantro, stir to combine, remove from heat.",
+    "Serve warm as is or refrigerate for meal prep."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crumbly",
+    "tunisian",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 9,
+    "carbs": 8,
+    "fat": 11
+  },
+  "slug": "crumbly-tunisian-shrimp-paste-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-tunisian-shrimp-paste-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T05:30:10Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crumbly",
+    "mood": "meal-prep",
+    "technique": "saute",
+    "primaryIngredient": "shrimp paste",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Shrimp Paste",
+    "descriptor": "Crumbly",
+    "dishForm": "Crumble"
+  }
+}
