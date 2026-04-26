@@ -1,0 +1,85 @@
+{
+  "title": "Crunchy Uruguayan Butter Pecorino Stir-fry",
+  "description": "This sick-day dish features a pescatarian-friendly blend of buttery and crunchy elements made with blanched pecorino cheese, perfect for quick meals or snacks.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pecorino Cheese",
+      "amount": "1 cup grated"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Green Peppers",
+      "amount": "2, sliced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a wok or large skillet over medium heat.",
+    "Add minced garlic and sauté for about 1 minute until fragrant.",
+    "Gradually add chopped red onion and green peppers, cooking for about 5 minutes until softened.",
+    "Stir in grated pecorino cheese along with the butter. Cook for another 2-3 minutes or until the cheese is melted and mixture starts to bubble and turn golden brown.",
+    "Season with salt and pepper to taste.",
+    "Serve hot as a snack or appetizer."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy-uruguayan-dish",
+    "stir-fry",
+    "pescatarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "crunchy-uruguayan-butter-pecorino-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-uruguayan-butter-pecorino-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T03:05:15Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crunchy",
+    "mood": "sick-day",
+    "technique": "blanch",
+    "primaryIngredient": "pecorino",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Butter",
+    "descriptor": "Sick-Day Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
