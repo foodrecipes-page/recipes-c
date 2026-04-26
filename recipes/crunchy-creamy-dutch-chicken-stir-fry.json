@@ -1,0 +1,114 @@
+{
+  "title": "Crunchy Creamy Dutch Chicken Stir-fry",
+  "description": "This savory and creamy one-pot dutch dish features mayonnaise in a high-protein-friendly meal that slow-cooks for tender flavors.",
+  "cuisine": "Chinese",
+  "diet": [
+    "high-protein-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "2 pieces",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "1 stalk, diced",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1/4 cup, finely chopped",
+      "notes": ""
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3 pieces, minced",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "1/4 cup",
+      "notes": "For creaminess and tenderness"
+    },
+    {
+      "name": "ginger root",
+      "amount": "1 teaspoon, grated",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tablespoons, crushed",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Season chicken with salt and pepper.",
+    "Heat oil in a large skillet over medium-high heat. Add chicken pieces and cook until golden brown on both sides, about 6 minutes per side.",
+    "Remove chicken from the skillet and set aside. Add celery to the same skillet and sauté for 2-3 minutes or until slightly softened.",
+    "Add onions and garlic to the skillet and cook until translucent, about 5 minutes.",
+    "Return chicken to the skillet with onions and garlic. Stir in soy sauce, lime juice, mayonnaise, ginger, salt, pepper, chili flakes, and sesame seeds. Cook for another 10-15 minutes or until fully heated through and slightly thickened.",
+    "Serve hot as a main dish."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy-creamy",
+    "one-pot-dutch",
+    "high-protein-friendly"
+  ],
+  "nutrition": {
+    "calories": 385,
+    "protein": 32,
+    "carbs": 17,
+    "fat": 19
+  },
+  "slug": "crunchy-creamy-dutch-chicken-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-creamy-dutch-chicken-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T20:01:11Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "creamy",
+    "mood": "one-pot",
+    "technique": "slow-cook",
+    "primaryIngredient": "mayonnaise",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Chicken",
+    "descriptor": "Creamy Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
