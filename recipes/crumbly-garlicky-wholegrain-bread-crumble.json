@@ -1,0 +1,72 @@
+{
+  "title": "Crumbly Garlicky Wholegrain Bread Crumble",
+  "description": "An adventurous Argentinean dish featuring wholegrain bread crumbled and seasoned with garlic for a paleo-friendly breakfast option.",
+  "cuisine": "Argentinean",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Whole grain bread",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "6-8"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "A pinch"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Toast the bread in a dry skillet over medium heat until lightly browned, about 3-4 minutes per side.",
+    "Once toasted, let it cool slightly and then crumble into small pieces using your fingers or fork.",
+    "In a small bowl, mash some of the garlic cloves to make a paste. Add sea salt and olive oil to taste.",
+    "Spread the garlic mixture evenly over the crumbled bread on a baking sheet lined with parchment paper.",
+    "Bake for 10-15 minutes, tossing gently halfway through cooking time.",
+    "Remove from oven and let cool before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlicky",
+    "crumbly",
+    "argentinian",
+    "wholegrain",
+    "paleo"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 8
+  },
+  "slug": "crumbly-garlicky-wholegrain-bread-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-garlicky-wholegrain-bread-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T01:29:29Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crumbly",
+    "mood": "adventurous",
+    "technique": "reduce",
+    "primaryIngredient": "wholegrain bread",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Wholegrain Bread",
+    "descriptor": "Garlicky Crumbly",
+    "dishForm": "Crumble"
+  }
+}
