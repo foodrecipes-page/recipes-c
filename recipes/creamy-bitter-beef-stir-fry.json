@@ -1,0 +1,99 @@
+{
+  "title": "Creamy Bitter Beef Stir-fry",
+  "description": "A weeknight Argentinean dish featuring dijon mustard and paleo-friendly elements with a creamy yet bitter twist.",
+  "cuisine": "Argentinean",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "200g",
+      "notes": "Grilled or Pan-seared thinly sliced"
+    },
+    {
+      "name": "Dijon Mustard",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Water Chestnuts",
+      "amount": "50g",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 medium",
+      "notes": "Diced thinly"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Palm Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Shallots",
+      "amount": "3-4",
+      "notes": "Sliced thinly"
+    },
+    {
+      "name": "Worcestershire Sauce",
+      "amount": "1/2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat a pan over medium-high heat and add Dijon Mustard, sesame seeds, shallots, and Water Chestnuts. Stir for about 30 seconds.",
+    "Add sliced shallots, garlic, and Carrots to the pan. Saute for another 2-3 minutes or until carrots are slightly softened.",
+    "Pour in a tablespoon of Palm Sugar and add Worcestershire Sauce. Simmer for about 1 minute until mixture thickens.",
+    "Deglaze with some water to loosen any stuck bits, then add sliced Beef and continue cooking for about 5 minutes on each side until well browned and tender.",
+    "Stir in a tablespoon of Dijon Mustard and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinean",
+    "paleo",
+    "bitter",
+    "creamy"
+  ],
+  "nutrition": {
+    "calories": 370,
+    "protein": 29,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "creamy-bitter-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-bitter-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T21:23:10Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "creamy",
+    "mood": "weeknight",
+    "technique": "tadka",
+    "primaryIngredient": "dijon mustard",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "Creamy Bitter",
+    "dishForm": "Stir-fry"
+  }
+}
