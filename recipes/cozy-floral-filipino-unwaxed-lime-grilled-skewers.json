@@ -1,0 +1,80 @@
+{
+  "title": "Cozy Floral Filipino Unwaxed Lime Grilled Skewers",
+  "description": "A creamy and floral dish featuring unwaxed limes grilled on skewers for a cozy Filipino flavor profile that's suitable for vegetarians.",
+  "cuisine": "Filipino",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 lime",
+      "amount": "unwaxed",
+      "notes": "Ensure limes are unwaxed to meet dietary requirements."
+    },
+    {
+      "name": "2 bell peppers, sliced",
+      "amount": "medium"
+    },
+    {
+      "name": "1 onion, thinly sliced",
+      "amount": "large"
+    },
+    {
+      "name": "1 cup cherry tomatoes",
+      "amount": "cup"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "thinly minced"
+    },
+    {
+      "name": "Juice of 1 lime (for seasoning)",
+      "amount": "juice"
+    }
+  ],
+  "instructions": [
+    "Wash all ingredients thoroughly.",
+    "Slice the bell peppers, onion thinly and chop cherry tomatoes into halves.",
+    "Mix together sliced vegetables, minced garlic and lime juice in a large bowl.",
+    "Place skewers on a flat surface and alternate vegetable slices. Place skewer ends under water to prevent burning while grilling.",
+    "Preheat grill to medium heat (around 350°F).",
+    "Grill the skewers for about 10-12 minutes, turning occasionally until vegetables are tender and lightly charred on all sides. Keep a close eye as limes can burn quickly.",
+    "Allow skewers to cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cozy-floral",
+    "creamy-filipino",
+    "unwaxed-lime-grilled-skewers",
+    "jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 8,
+    "fat": 3
+  },
+  "slug": "cozy-floral-filipino-unwaxed-lime-grilled-skewers",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-floral-filipino-unwaxed-lime-grilled-skewers",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T14:06:13Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "creamy",
+    "mood": "cozy",
+    "technique": "grill",
+    "primaryIngredient": "unwaxed lime",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Unwaxed Lime",
+    "descriptor": "Cozy Floral",
+    "dishForm": "Grilled Skewers"
+  }
+}
