@@ -1,0 +1,85 @@
+{
+  "title": "Crunchy Garlicky Lamb Stir-fry",
+  "description": "A Greek-inspired post-workout meal featuring tender lamb cooked in a garlicky, crunchy sauce with garlic, lemon, and herbs.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegan",
+    "pescatarian",
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "200g"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "6-8 pieces",
+      "notes": "Use garlic press for easier chopping"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Minced onions",
+      "amount": "1 medium",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "handful",
+      "notes": "Chopped for garnish"
+    },
+    {
+      "name": "Red pepper flakes (optional)",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Season the lamb with salt and pepper, and marinate in olive oil for at least 30 minutes.",
+    "Preheat oven to 200°C (400°F). Season lamb evenly with more salt and pepper and place on a baking sheet lined with parchment paper.",
+    "Roast lamb for about 25-30 minutes until golden brown, turning halfway through cooking. Let it rest for 10 minutes before slicing thinly against the grain.",
+    "Meanwhile, heat olive oil in a pan over medium heat. Add onions and minced garlic, sautéing until softened and fragrant. Add roasted lamb pieces to the pan and toss well with chopped parsley, lemon juice, and red pepper flakes (if using).",
+    "Stir occasionally for about 3-5 minutes, allowing flavors to meld together. Serve hot as a main course or alongside side dishes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlicky",
+    "crunchy",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 37,
+    "carbs": 18,
+    "fat": 26
+  },
+  "slug": "crunchy-garlicky-lamb-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-garlicky-lamb-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T17:00:51Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crunchy",
+    "mood": "post-workout",
+    "technique": "bake",
+    "primaryIngredient": "lamb stock",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Garlicky",
+    "mainIngredient": "Lamb",
+    "descriptor": "Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
