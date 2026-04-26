@@ -1,0 +1,94 @@
+{
+  "title": "Creamy Nostalgic Italian Red Potatoes Stir-fry",
+  "description": "An earthy and creamy Italian dish featuring red potatoes in a low-sodium-friendly recipe that brings back fond memories.",
+  "cuisine": "Italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "3 medium red potatoes",
+      "amount": "each",
+      "notes": "washed and diced"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "minced",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup unsalted cashews",
+      "amount": "stems removed, roughly chopped",
+      "notes": ""
+    },
+    {
+      "name": "3 tbsp low-sodium soy sauce",
+      "amount": "",
+      "notes": "low in sodium"
+    },
+    {
+      "name": "1 tsp Dijon mustard",
+      "amount": "",
+      "notes": "low in sodium"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "",
+      "notes": "for frying and as dressing"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "1 lemon, juiced",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a wok or large skillet over medium-high heat. Add olive oil and swirl to coat.",
+    "Add garlic and cashews; sauté for about 2 minutes until they start to brown slightly.",
+    "Increase heat to high, add diced potatoes and stir-fry them with the garlic-cashew mixture for another 4-5 minutes or until they begin to turn golden.",
+    "Stir in soy sauce, Dijon mustard, salt (to taste), and lemon juice. Toss well to combine.",
+    "Reduce heat to medium-low and let simmer for an additional 3-4 minutes allowing flavors to meld together.",
+    "Serve hot as a side dish or over a bed of rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nostalgic",
+    "italian",
+    "earthly",
+    "creamy",
+    "red-potatoes",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 203,
+    "protein": 5.6,
+    "carbs": 18.9,
+    "fat": 7
+  },
+  "slug": "creamy-nostalgic-italian-red-potatoes-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-nostalgic-italian-red-potatoes-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T07:58:26Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "creamy",
+    "mood": "nostalgic",
+    "technique": "fry",
+    "primaryIngredient": "red potatoes",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Red Potatoes",
+    "descriptor": "Creamy Nostalgic",
+    "dishForm": "Stir-fry"
+  }
+}
