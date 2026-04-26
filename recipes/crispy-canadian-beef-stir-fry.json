@@ -1,0 +1,88 @@
+{
+  "title": "Crispy Canadian Beef Stir-fry",
+  "description": "A kid-friendly dish featuring tender Canadian beef stir-fried in a floral broth and served as a crispy appetizer or snack.",
+  "cuisine": "Canadian",
+  "diet": [
+    "kid-friendly",
+    "fodmap-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Beef cubes",
+      "amount": "100g",
+      "notes": "Ensure it's lean and cubed for easy stir-frying."
+    },
+    {
+      "name": "Broth (vegetable or low-sodium)",
+      "amount": "250ml",
+      "notes": "Use a floral-flavored broth if available, otherwise use standard vegetable stock."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": "Chopped finely for flavor enhancement."
+    },
+    {
+      "name": "Cilantro (optional)",
+      "amount": "handful",
+      "notes": "For garnish and added crunchiness."
+    },
+    {
+      "name": "Soy sauce or tamari (optional)",
+      "amount": "1 tsp",
+      "notes": "Use sparingly, as it can add sodium."
+    },
+    {
+      "name": "Capsicum peppers (optional for color and texture)",
+      "amount": "40g",
+      "notes": "Chopped into thin strips."
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a non-stick pan over medium heat.",
+    "Add garlic cloves and sauté until fragrant, about 1 minute.",
+    "Place beef cubes in the pan and stir-fry for 4-5 minutes or until golden brown on all sides.",
+    "Pour in broth and let it simmer for another 2 minutes to allow flavors to meld together.",
+    "If desired, garnish with chopped cilantro before serving. Serve with a side of steamed vegetables if needed.",
+    "To make the dish crispy, after the stir-fry is done, use paper towels to blot excess moisture from beef and then drizzle with melted butter or coconut oil and sprinkle with crushed nuts (almonds are a good choice) for added crunch."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy-beef-stir-fry",
+    "kid-friendly-canadian-dish",
+    "fodmap-friendly"
+  ],
+  "nutrition": {
+    "calories": 217,
+    "protein": 9,
+    "carbs": 5,
+    "fat": 8
+  },
+  "slug": "crispy-canadian-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-canadian-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T00:40:10Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crispy",
+    "mood": "kid-friendly",
+    "technique": "fry",
+    "primaryIngredient": "hot beef stock",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Beef",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
