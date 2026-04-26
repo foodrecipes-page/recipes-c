@@ -1,0 +1,84 @@
+{
+  "title": "Chewy Romantic Syrian Citrus Crumble",
+  "description": "This citrusy dessert features a chewy base made with plant-based-friendly ingredients and topped with a creamy, aromatic crust.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegan",
+    "paleo"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup rolled oats",
+      "amount": "cup"
+    },
+    {
+      "name": "2 cups almond milk",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 cup grated orange zest",
+      "notes": "freshly squeezed for best flavor"
+    },
+    {
+      "name": "3 tablespoons coconut sugar or maple syrup",
+      "amount": "tablespoon"
+    },
+    {
+      "name": "Pinch of sea salt"
+    },
+    {
+      "name": "1 can (14 oz) full-fat coconut cream",
+      "amount": "can"
+    },
+    {
+      "name": "2 lemons, juiced and zest added to the topping",
+      "notes": "freshly squeezed for best flavor"
+    },
+    {
+      "name": "3 tablespoons fresh lemon juice",
+      "amount": "tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F). Grease a 9x9 inch baking dish.",
+    "In a large mixing bowl, combine rolled oats, almond milk, orange zest, coconut sugar or maple syrup, and sea salt. Mix until well combined.",
+    "Pour the mixture into the prepared pan and bake for 25 minutes until set. Remove from oven and allow to cool slightly.",
+    "While the base is baking, prepare the topping. In a blender, combine coconut cream, fresh lemon juice, freshly squeezed lemons (zest included), and extra orange zest. Blend until smooth and creamy.",
+    "Pour the topping evenly over the cooled crust and bake for an additional 10-15 minutes or until golden brown. Let it cool to room temperature before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "romantic-syrian",
+    "dessert-recipe",
+    "vegan-crust"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 7,
+    "carbs": 28,
+    "fat": 15
+  },
+  "slug": "chewy-romantic-syrian-citrus-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-romantic-syrian-citrus-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T11:21:56Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "chewy",
+    "mood": "romantic",
+    "technique": "roast",
+    "primaryIngredient": "whipping cream",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Citrus",
+    "descriptor": "Chewy Romantic",
+    "dishForm": "Crumble"
+  }
+}
