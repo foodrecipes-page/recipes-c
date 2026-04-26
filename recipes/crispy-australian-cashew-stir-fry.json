@@ -1,0 +1,68 @@
+{
+  "title": "Crispy Australian Cashew Stir-fry",
+  "description": "A nutty and dense dish featuring cashews, cinnamon stick, and a touch of steam to create a low-calorie-friendly meal that is both romantic and delightful.",
+  "cuisine": "Australian",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cashews",
+      "amount": "1 cup",
+      "notes": "soaked in water for at least 30 minutes"
+    },
+    {
+      "name": "cinnamon stick",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "a few drops"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Place the soaked cashews in a pot and add water. Cover and let them steam for about 10 minutes.",
+    "Preheat your pan over medium heat with a few drops of oil added.",
+    "Add salt to taste, then toss in the soaked cashews and continue stirring until they start turning golden brown.",
+    "Fold in the cinnamon stick once the cashews are well-cooked and heated evenly on all sides."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian-cashew-stir-fry",
+    "nutty-and-dense-australian-dish",
+    "low-calorie-friendly-recipe"
+  ],
+  "nutrition": {
+    "calories": 60,
+    "protein": 5,
+    "carbs": 12,
+    "fat": 2
+  },
+  "slug": "crispy-australian-cashew-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-australian-cashew-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T22:43:56Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "dense",
+    "mood": "romantic",
+    "technique": "steam",
+    "primaryIngredient": "cinnamon stick",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Cashew",
+    "descriptor": "Spicy Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
