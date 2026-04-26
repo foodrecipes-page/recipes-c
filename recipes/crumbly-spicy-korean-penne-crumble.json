@@ -1,0 +1,84 @@
+{
+  "title": "Crumbly Spicy Korean Penne Crumble",
+  "description": "A low-calorie-friendly, spicy, crumbly Korean dish featuring penne pasta served as a lazy-sunday meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-calorie",
+    "spicy"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Korean Spicy Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Penne Pasta",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "handful"
+    },
+    {
+      "name": "Chives",
+      "amount": "few"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium-high heat.",
+    "Add Korean Spicy Sauce and red pepper flakes, stir for 1 minute.",
+    "Cook penne pasta according to package instructions until al dente.",
+    "Drain pasta, add back into the pan with the spicy sauce mixture.",
+    "Stir in minced garlic cloves and chopped fresh parsley and chives. Mix well.",
+    "Serve hot as a low-calorie-friendly lunch dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "crumbly",
+    "lazy-sunday",
+    "korean",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 9,
+    "carbs": 25,
+    "fat": 6
+  },
+  "slug": "crumbly-spicy-korean-penne-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-spicy-korean-penne-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T06:47:56Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crumbly",
+    "mood": "lazy-sunday",
+    "technique": "air-fry",
+    "primaryIngredient": "penne pasta",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Penne",
+    "descriptor": "Spicy Crumbly",
+    "dishForm": "Crumble"
+  }
+}
