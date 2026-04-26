@@ -1,0 +1,95 @@
+{
+  "title": "Crispy Algerian Dum Stir-fry",
+  "description": "A fresh and crisp kid-friendly dish featuring hoisin sauce and dumplings, perfect for a whole30 diet with low-carb options.",
+  "cuisine": "Algerian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup fresh parsley",
+      "amount": "",
+      "notes": "chopped finely"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "",
+      "notes": "minced"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "6 oz dumplings (whole30-friendly)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup hoisin sauce",
+      "amount": "",
+      "notes": "low-sodium, gluten-free"
+    },
+    {
+      "name": "1 tbsp sriracha or hot sauce",
+      "amount": "",
+      "notes": "optional for extra heat"
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp vegetable oil",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Mix parsley, garlic, lemon juice in a bowl.",
+    "Fold dumplings into the herb mixture until coated evenly.",
+    "Heat oil in a large pan over medium-high heat.",
+    "Add half of the mixed herb-dumpling mixture to the pan and stir-fry for 2-3 minutes on each side or until golden brown, then remove from pan.",
+    "Pour remaining herb-dumpling mixture into the same pan and stir-fry another 1-2 minutes until thoroughly cooked and evenly coated with oil.",
+    "Stir in sriracha (if using) and cumin for additional flavor.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy-algerian-dum-stir-fry",
+    "kid-friendly",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 182,
+    "protein": 6,
+    "carbs": 5,
+    "fat": 9
+  },
+  "slug": "crispy-algerian-dum-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-algerian-dum-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T12:27:26Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crisp",
+    "mood": "kid-friendly",
+    "technique": "dum",
+    "primaryIngredient": "hoisin sauce",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Dum",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
