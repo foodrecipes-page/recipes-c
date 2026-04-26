@@ -1,0 +1,91 @@
+{
+  "title": "Crispy Middle Eastern Potato Stir-fry",
+  "description": "A crowd-pleasing Middle Eastern dish featuring crispy red potatoes that are perfectly balanced with umami flavors and a low-fat-friendly twist.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup",
+      "notes": "low-sodium variety preferred"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add garlic and onion, sauté for about 2 minutes until fragrant.",
+    "Add diced potatoes to the skillet. Cook for about 5-7 minutes or until they start to brown slightly on the edges.",
+    "Stir in tomato paste and cook for another minute until it starts to caramelize.",
+    "Pour in soy sauce and lemon juice, reduce heat to low-medium and stir well.",
+    "Sprinkle paprika over the top and let simmer for an additional 2-3 minutes.",
+    "Serve hot as a side dish or on its own with some crusty bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy-potato-stir-fry",
+    "umami-dish",
+    "middle-eastern-cuisine",
+    "low-fat-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 23,
+    "fat": 6
+  },
+  "slug": "crispy-middle-eastern-potato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-middle-eastern-potato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T05:43:28Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crispy",
+    "mood": "crowd-pleaser",
+    "technique": "saute",
+    "primaryIngredient": "red potatoes",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "potato",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
