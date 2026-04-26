@@ -1,0 +1,73 @@
+{
+  "title": "Crumbly Argentinian Cheese Crock",
+  "description": "A buttery, crumbly argentinian dish featuring mozzarella cheese, simple to make and perfect for a quick breakfast or snack.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "mediterranean"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup shredded mozzarella cheese",
+      "amount": "",
+      "notes": "Use fresh mozzarella if available"
+    },
+    {
+      "name": "½ cup unsalted butter",
+      "amount": "room temperature",
+      "notes": "At least 165°F (74°C)"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 320°F (160°C).",
+    "Place shredded mozzarella in a mixing bowl.",
+    "Add room temperature butter and lemon juice, mixing well until cheese is fully coated with the mixture.",
+    "Season with salt. Mix gently but thoroughly to prevent breaking up of cheese.",
+    "Transfer mixture evenly into a greased baking dish or shallow ramekin.",
+    "Bake for 10-15 minutes or until edges are golden brown and topping is bubbly."
+  ],
+  "prepTimeMin": 2,
+  "cookTimeMin": 15,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "crumbly",
+    "energizing"
+  ],
+  "nutrition": {
+    "calories": 238,
+    "protein": 6,
+    "carbs": 2,
+    "fat": 17
+  },
+  "slug": "crumbly-argentinian-cheese-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-argentinian-cheese-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T12:11:33Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crumbly",
+    "mood": "energizing",
+    "technique": "reduce",
+    "primaryIngredient": "mozzarella",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "cheese",
+    "descriptor": "crumbly",
+    "dishForm": "Crumble"
+  }
+}
