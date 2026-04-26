@@ -1,0 +1,81 @@
+{
+  "title": "Citrusy Crunchy Australian French Lentils Stir-fry",
+  "description": "A lazy Sunday dish featuring citrusy, crunchy Australian French lentils in a whole30-friendly toast-like texture.",
+  "cuisine": "Australian",
+  "diet": [
+    "whole30",
+    "lactose-free",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "French Lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Toast",
+      "amount": "2 slices",
+      "notes": "Whole grain, lightly toasted"
+    },
+    {
+      "name": "Lemon Zest and Juice",
+      "amount": "1 lemon"
+    },
+    {
+      "name": "Fresh Dill",
+      "amount": "a handful"
+    },
+    {
+      "name": "Pomegranate Seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Avocado Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Rinse and sort the French Lentils, then soak them in cold water for at least an hour. Drain and rinse again.",
+    "Toast the slices of bread until golden brown, about 5 minutes per side. Remove from heat and set aside.",
+    "In a large skillet or wok, heat 1 tablespoon of avocado oil over medium-high heat. Add the soaked French Lentils and toast them for about 4-5 minutes until they are lightly crispy on all sides.",
+    "Drain any excess water from the lentils and add back into the pan. Sauté with a pinch of salt and black pepper. Mix in lemon zest, freshly chopped dill, and pomegranate seeds. Stir well to combine ingredients evenly.",
+    "Serve hot with the toasted bread on top as a garnish for added crunch and texture."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "citrusy",
+    "crunchy",
+    "whole30-friendly",
+    "lazy-sunday"
+  ],
+  "nutrition": {
+    "calories": 427,
+    "protein": 19,
+    "carbs": 56,
+    "fat": 15
+  },
+  "slug": "citrusy-crunchy-australian-french-lentils-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-crunchy-australian-french-lentils-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T19:29:49Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crunchy",
+    "mood": "lazy-sunday",
+    "technique": "toast",
+    "primaryIngredient": "french lentils",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "French Lentils",
+    "descriptor": "Citrusy Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
