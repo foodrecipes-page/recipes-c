@@ -1,0 +1,90 @@
+{
+  "title": "Citrusy Dense Kenyan Melon Salad",
+  "description": "This vegan-friendly and refreshing citrusy salad is perfect for a post-workout meal, featuring melons marinated with various citrus fruits and spices.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "1 handful"
+    },
+    {
+      "name": "Blood oranges",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Melon (Honeydew and Cantaloupe)",
+      "amount": "3 cups total, diced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Agave nectar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Prepare the blood oranges by cutting off the top and bottom, then slice them open. Use a spoon to scoop out the flesh into a bowl.",
+    "Add the agave nectar, lemon juice, lime juice, salt, and cayenne pepper to the melon mixture in a large mixing bowl.",
+    "Mix well until all ingredients are evenly combined. Then add the diced blood oranges and mix again.",
+    "Gently fold in the Greek yogurt and chopped fresh mint leaves into the melon mixture using a wooden spoon or spatula.",
+    "Transfer the mixture into individual serving bowls, garnish with extra mint if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "dense",
+    "kenyan",
+    "melon",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 7,
+    "carbs": 18,
+    "fat": 4
+  },
+  "slug": "citrusy-dense-kenyan-melon-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-dense-kenyan-melon-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T13:10:29Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "dense",
+    "mood": "post-workout",
+    "technique": "marinate",
+    "primaryIngredient": "melons",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Melons",
+    "descriptor": "Citrusy Dense",
+    "dishForm": "Salad"
+  }
+}
