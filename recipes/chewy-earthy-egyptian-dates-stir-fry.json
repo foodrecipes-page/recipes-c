@@ -1,0 +1,73 @@
+{
+  "title": "Chewy Earthy Egyptian Dates Stir-fry",
+  "description": "This vegetarian-friendly meal-prep dish is a chewy and earthy treat featuring slow-cooked Egyptian dates with the addition of rosemary for an aromatic twist, perfect for breakfast or a light snack.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Egyptian Dates",
+      "amount": "1 cup pitted and chopped",
+      "notes": "Ensure they are pitted to prevent choking."
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "2 tablespoons",
+      "notes": "Use apple cider vinegar for a similar flavor profile if rice vinegar is unavailable."
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": "For better cooking results, use refined olive oil rather than extra virgin or cold-pressed."
+    },
+    {
+      "name": "Aluminum Foil",
+      "amount": "As needed for packaging",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Place the pitted dates in a small saucepan and add rice vinegar. Bring it to a simmer over medium heat, reduce the heat to low, and let them cook for about 10 minutes until they soften.",
+    "Meanwhile, in a large skillet or wok, heat the olive oil over medium-high heat. Once the oil is hot, add the soaked dates and stir-fry for about 2-3 minutes until they become slightly caramelized.",
+    "Add chopped rosemary to the skillet and continue cooking for another minute until it’s fragrant.",
+    "Serve immediately or store in an airtight container for up to three days. Store separately from aluminum foil if using as a meal-prep snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egyptian-dates",
+    "rosemary",
+    "stir-fry",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 3,
+    "carbs": 24,
+    "fat": 6
+  },
+  "slug": "chewy-earthy-egyptian-dates-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-earthy-egyptian-dates-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T00:56:31Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "chewy",
+    "mood": "meal-prep",
+    "technique": "slow-cook",
+    "primaryIngredient": "rosemary",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Dates",
+    "descriptor": "Chewy Earthy",
+    "dishForm": "Stir-fry"
+  }
+}
