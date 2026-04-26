@@ -1,0 +1,81 @@
+{
+  "title": "Crisp Garlicky Slovakian Tiger Prawns",
+  "description": "A cozy and garlicky dish featuring raw tiger prawns with a touch of fermentation for an authentic Slovakian twist. Perfect as a snack to start your day.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Raw tiger prawns",
+      "amount": "16-20 pcs",
+      "notes": "Make sure they are at room temperature"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4 cloves",
+      "notes": "Approximately 2-3 teaspoons minced"
+    },
+    {
+      "name": "Fermented vegetables (e.g. sauerkraut)",
+      "amount": "1/4 cup",
+      "notes": "Use any vegan-friendly fermented product available"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": "Extra virgin for best flavor and texture"
+    },
+    {
+      "name": "Fresh parsley leaves",
+      "amount": "few sprigs",
+      "notes": "For garnish, stems can be removed if desired"
+    }
+  ],
+  "instructions": [
+    "Place the tiger prawns in a shallow dish.",
+    "In another small bowl, mix minced garlic with the olive oil and sauerkraut until well combined.",
+    "Gently toss the prawns to coat evenly with the garlic-oil mixture. Let sit for about 10 minutes.",
+    "Sprinkle fresh parsley on top of each prawn for garnish.",
+    "Serve immediately while the prawns are still raw and crisp."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "slovakian",
+    "garlicky",
+    "tiger-prawns",
+    "fermented-vegetables",
+    "cozy-dish",
+    "dash-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 7,
+    "carbs": 4,
+    "fat": 8
+  },
+  "slug": "crisp-garlicky-slovakian-tiger-prawns",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-garlicky-slovakian-tiger-prawns",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T20:10:15Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crisp",
+    "mood": "cozy",
+    "technique": "ferment",
+    "primaryIngredient": "raw tiger prawns",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Tiger prawns",
+    "descriptor": "Garlicky, Crisp",
+    "dishForm": "Stir-fry"
+  }
+}
