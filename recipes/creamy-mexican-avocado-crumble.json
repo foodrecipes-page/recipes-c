@@ -1,0 +1,81 @@
+{
+  "title": "Creamy Mexican Avocado Crumble",
+  "description": "A tangy, light dish perfect for date nights featuring free-range eggs beaten and fried with avocado, served on a bed of steamed vegetables.",
+  "cuisine": "Mexican",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "free-range egg",
+      "amount": "2"
+    },
+    {
+      "name": "avocado",
+      "amount": "1 medium"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "shredded carrots",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "green beans",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Blend free-range egg with half of the lime juice, dijon mustard, and yogurt until smooth.",
+    "Mash avocado in a separate bowl.",
+    "Heat oil in a pan over medium heat. Add mashed avocado, seasoning with remaining lime juice, stir for about 2 minutes.",
+    "Fold beaten eggs into the pan, cook until almost set, then fold onto cooled side of crumble and allow to cool slightly.",
+    "Season vegetables with salt and pepper, steam lightly.",
+    "Garnish with avocado and green beans on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "creamysmoothie",
+    "tangyavocado",
+    "lowcalorie"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 15,
+    "carbs": 9,
+    "fat": 8
+  },
+  "slug": "creamy-mexican-avocado-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-mexican-avocado-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T20:49:21Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "light",
+    "mood": "date-night",
+    "technique": "fry",
+    "primaryIngredient": "free-range eggs beaten",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Avocado",
+    "descriptor": "Creamy",
+    "dishForm": "Crumble"
+  }
+}
