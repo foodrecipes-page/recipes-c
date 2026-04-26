@@ -1,0 +1,95 @@
+{
+  "title": "Crunchy Umami Peruvian Apricot Stir-fry",
+  "description": "A show-off Peruvian dish featuring apricot jam in a dairy-free and crunchy stir-fry with umami-rich seasonings.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Apricot Jam",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Water Chestnuts",
+      "amount": "1/4 cup, sliced"
+    },
+    {
+      "name": "Snow Peas",
+      "amount": "1/4 cup, trimmed and halved"
+    },
+    {
+      "name": "Fresh Basil Leaves",
+      "amount": "3 leaves, chopped"
+    },
+    {
+      "name": "Shredded Kale",
+      "amount": "1/2 cup, roughly torn"
+    },
+    {
+      "name": "Soy Sauce (For Tadka)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Red Chili Powder",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Warm sesame seeds in a dry pan until fragrant and lightly golden, then set aside.",
+    "Heat vegetable oil in a wok or large skillet over medium-high heat. Add garlic cloves; stir-fry for about 30 seconds until softened but not browned.",
+    "Add apricot jam to the pan. Let it cook for about 2-3 minutes, stirring occasionally, until slightly thickened and fragrant.",
+    "Gradually add water chestnuts, snow peas, shredded kale, and chopped basil leaves; stir-fry for another 2-3 minutes until all vegetables are tender yet crisp.",
+    "Sprinkle soy sauce over the mixture to create a tadka (simmering glaze). Stir well to combine with ingredients. Let cook for about 1 minute more to allow flavors to meld together.",
+    "Add red chili powder and mix quickly to ensure spices aren't burnt. Taste and adjust seasoning if needed.",
+    "Serve hot, garnished with the toasted sesame seeds."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy-peruvian",
+    "umami-jam",
+    "peruvian-dish",
+    "dairy-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 5,
+    "carbs": 23,
+    "fat": 6
+  },
+  "slug": "crunchy-umami-peruvian-apricot-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-umami-peruvian-apricot-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T11:39:21Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crunchy",
+    "mood": "show-off",
+    "technique": "tadka",
+    "primaryIngredient": "apricot jam",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Apricot",
+    "descriptor": "Umami Crunchy Show-off",
+    "dishForm": "Stir-fry"
+  }
+}
