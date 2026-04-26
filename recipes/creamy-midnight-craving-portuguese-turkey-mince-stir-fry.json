@@ -1,0 +1,99 @@
+{
+  "title": "Creamy Midnight-Craving Portuguese Turkey Mince Stir-fry",
+  "description": "A fresh and creamy Portuguese dish featuring turkey mince with a touch of midnight-craving flavor, made with kosher-friendly ingredients.",
+  "cuisine": "Portuguese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Turkey Mince",
+      "amount": "150g"
+    },
+    {
+      "name": "Pickled Onions",
+      "amount": "30g",
+      "notes": "Use sparingly as per taste preference."
+    },
+    {
+      "name": "Kosher Salt",
+      "amount": "A pinch"
+    },
+    {
+      "name": "Pepper",
+      "amount": "Grated to taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves",
+      "notes": "Chopped and minced for flavor."
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "200ml"
+    },
+    {
+      "name": "Cream Cheese",
+      "amount": "50g"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "A pinch"
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 200°C (392°F).",
+    "Heat the olive oil in a large pan over medium heat. Add the chopped garlic and cook until fragrant, about 1 minute.",
+    "Add the turkey mince to the pan and stir for about 5 minutes or until browned.",
+    "Stir in tomato paste and red pepper flakes, cooking for an additional 2 minutes.",
+    "Gradually add heavy cream and cream cheese into the pan. Bring to a simmer and cook for another 3-4 minutes, stirring occasionally.",
+    "Mix cumin powder into the stew and season with salt and pepper as needed.",
+    "Once done, transfer the mixture to a warm serving dish and garnish with pickled onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "midnight-craving",
+    "creamy",
+    "portuguese",
+    "turkey-mince-stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "creamy-midnight-craving-portuguese-turkey-mince-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-midnight-craving-portuguese-turkey-mince-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T05:10:27Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "pickle",
+    "primaryIngredient": "turkey mince",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Turkey Mince",
+    "descriptor": "Creamy Midnight-Craving",
+    "dishForm": "Stir-fry"
+  }
+}
