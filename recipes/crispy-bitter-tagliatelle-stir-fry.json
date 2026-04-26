@@ -1,0 +1,86 @@
+{
+  "title": "Crispy Bitter Tagliatelle Stir-fry",
+  "description": "A crunchy Argentinian dish featuring bitter tagliatelle stir-fried with a dash of friendliness and crispy texture for a solo dinner option.",
+  "cuisine": "Argentinean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tagliatelle",
+      "amount": "200g"
+    },
+    {
+      "name": "roasted bell peppers",
+      "amount": "1 cup",
+      "notes": "pre-roasted for convenience"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4, minced"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add minced garlic and sauté until fragrant, about 2 minutes.",
+    "Add roasted bell peppers and stir to combine with the garlic.",
+    "Add tagliatelle to the skillet and toss well with the vegetables.",
+    "Drizzle balsamic vinegar on top of the mixture and season with salt and black pepper.",
+    "Stir in red chili flakes if desired, and cook for an additional minute until everything is heated through and crispy.",
+    "Serve hot as a solo dinner option."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tagliatelle",
+    "stir-fry",
+    "crispy",
+    "bitter"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 16,
+    "carbs": 28,
+    "fat": 12
+  },
+  "slug": "crispy-bitter-tagliatelle-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-bitter-tagliatelle-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T17:43:11Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crunchy",
+    "mood": "solo-dinner",
+    "technique": "roast",
+    "primaryIngredient": "tagliatelle",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Tagliatelle",
+    "descriptor": "Bitter Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
