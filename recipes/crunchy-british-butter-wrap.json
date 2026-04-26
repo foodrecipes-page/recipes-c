@@ -1,0 +1,72 @@
+{
+  "title": "Crunchy British Butter Wrap",
+  "description": "A buttery, tender post-workout dish featuring sugars, fry-friendly for pescatarian diets.",
+  "cuisine": "British",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pasta Sheets",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "room temperature"
+    },
+    {
+      "name": "Sugars (optional)",
+      "amount": "1 tablespoon",
+      "notes": "for sweetness, reduce if using maple syrup or honey instead"
+    },
+    {
+      "name": "Salt",
+      "amount": "a pinch",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a pan over medium heat.",
+    "Gently spread the butter in the pan until melted and slightly foamy.",
+    "Add sugars to the pan if using, stirring occasionally for about 1 minute or until lightly caramelized.",
+    "Place pasta sheet into the pan with warm butter mixture. Cook for approximately 2-3 minutes on each side until golden brown.",
+    "Remove from heat and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 4,
+  "totalTimeMin": 9,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "butterwrap",
+    "pasta",
+    "sugars"
+  ],
+  "nutrition": {
+    "calories": 65,
+    "protein": 2,
+    "carbs": 7,
+    "fat": 8
+  },
+  "slug": "crunchy-british-butter-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-british-butter-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T23:27:43Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "tender",
+    "mood": "post-workout",
+    "technique": "fry",
+    "primaryIngredient": "sugars",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Butter",
+    "descriptor": "Tender Crunchy",
+    "dishForm": "Wrap"
+  }
+}
