@@ -1,0 +1,80 @@
+{
+  "title": "Creamy Light Spanish Herb Stir-fry",
+  "description": "A diabetic-friendly, light and creamy Spanish herb stir-fry featuring lime juice, with a touch of sweetness to balance the flavors.",
+  "cuisine": "Spanish",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "spinach",
+      "amount": "1 cup fresh"
+    },
+    {
+      "name": "onion",
+      "amount": "1/4 medium, finely chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1/2 small, thinly sliced"
+    },
+    {
+      "name": "limes",
+      "amount": "3 limes, juiced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "6 cloves, minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "diastatic barley malt syrup",
+      "amount": "1/4 teaspoon (optional for sweetness)"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add onions and garlic, sautéing until translucent, about 5 minutes.",
+    "Stir in bell peppers and cook for another 3-4 minutes or until slightly softened.",
+    "Juice the limes into the pan along with their seeds and membranes. Add salt and pepper to taste.",
+    "Fold spinach leaves into the mixture, stirring gently to wilt them.",
+    "If desired, add a pinch of diastatic barley malt syrup for sweetness without adding extra sugar.",
+    "prepTimeMin: 10",
+    "cookTimeMin: 20",
+    "totalTimeMin: 30",
+    "servings: 4",
+    "difficulty: "
+  ],
+  "tags": [
+    "spanish",
+    "herbal",
+    "creamy",
+    "light"
+  ],
+  "slug": "creamy-light-spanish-herb-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-light-spanish-herb-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T23:55:13Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "rest",
+    "primaryIngredient": "lime juice",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "herb",
+    "descriptor": "Creamy Light",
+    "dishForm": "Stir-fry"
+  }
+}
