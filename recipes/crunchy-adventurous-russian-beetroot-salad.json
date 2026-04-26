@@ -1,0 +1,80 @@
+{
+  "title": "Crunchy Adventurous Russian Beetroot Salad",
+  "description": "A floral, crunchy dish featuring balsamic vinegar, pickle in a refreshing and adventurous salad that is also kosher-friendly.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "salad",
+  "ingredients": [
+    {
+      "name": "beetroot",
+      "amount": "1 medium beetroot"
+    },
+    {
+      "name": "pickled cucumber",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "croutons",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roast croutons in the preheated oven for about 8 minutes or until lightly golden.",
+    "Grate beetroot and pickle cucumber into a bowl.",
+    "Add roasted croutons, balsamic vinegar, olive oil, salt, and black pepper to the bowl with beetroots and pickled cucumbers.",
+    "Toss gently to combine all ingredients evenly.",
+    "Garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beetroot-salad",
+    "crunchy-dish",
+    "floral-taste",
+    "adventurous-meal"
+  ],
+  "nutrition": {
+    "calories": 75,
+    "protein": 3,
+    "carbs": 12,
+    "fat": 4
+  },
+  "slug": "crunchy-adventurous-russian-beetroot-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-adventurous-russian-beetroot-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T04:16:31Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crunchy",
+    "mood": "adventurous",
+    "technique": "pickle",
+    "primaryIngredient": "balsamic vinegar",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Beetroot",
+    "descriptor": "Crunchy Adventurous",
+    "dishForm": "Salad"
+  }
+}
