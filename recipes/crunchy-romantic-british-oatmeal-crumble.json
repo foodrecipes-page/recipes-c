@@ -1,0 +1,83 @@
+{
+  "title": "Fermented Crunchy Romantic British Oatmeal Crumble",
+  "description": "A fermented oatmeal crumble infused with dum for a touch of sweetness and crunch, vegetarian-friendly for the modern romantic dinner.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup rolled oats",
+      "amount": "cup"
+    },
+    {
+      "name": "1/2 cup fresh or frozen dumberries (or any fruit suitable for fermentation, e.g., raspberries)",
+      "amount": "cup"
+    },
+    {
+      "name": "1 tablespoon apple cider vinegar",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "1/2 cup coconut oil",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 cup maple syrup or agave nectar (or any sweetener suitable for fermentation)",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Pinch of ground cinnamon",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Mix rolled oats, salt, apple cider vinegar in a bowl. Slowly add coconut oil and maple syrup while stirring until you have a crumb mixture.",
+    "Add fresh or frozen dumberries into the oat mixture, ensuring each dumberry is well coated with the oat mixture.",
+    "Line an 8x8 inch baking dish with parchment paper for easy removal of the cake afterwards. Spoon the oat mixture evenly over the lined dish.",
+    "Bake for about 20 minutes until golden brown and set.",
+    "In a saucepan, heat cinnamon to desired level of fermentation (follow instructions based on type of fruit used).",
+    "Remove from oven when it's ready. Top the crumble with the heated cinnamon mixture.",
+    "Serve immediately as a dessert."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "fermented",
+    "crunchy",
+    "romantic british dish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 7,
+    "carbs": 48,
+    "fat": 16
+  },
+  "slug": "crunchy-romantic-british-oatmeal-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-romantic-british-oatmeal-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T19:28:07Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crunchy",
+    "mood": "romantic",
+    "technique": "dum",
+    "primaryIngredient": "oatmeal",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Oatmeal",
+    "descriptor": "Fermented Crunchy Romantic",
+    "dishForm": "Crumble"
+  }
+}
