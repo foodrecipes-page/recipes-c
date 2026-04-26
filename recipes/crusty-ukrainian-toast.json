@@ -1,0 +1,66 @@
+{
+  "title": "Crusty Ukrainian Toast",
+  "description": "A fresh and crunchy weeknight dish featuring a paleo-friendly base with duck fat for added flavor.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Paleo Bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Duck Fat",
+      "amount": "1 tablespoon",
+      "notes": "For added flavor, use a neutral-flavored oil or butter as a substitute if desired."
+    },
+    {
+      "name": "Sea Salt",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Place the slices of paleo bread on a baking sheet lined with parchment paper.",
+    "Gently spread duck fat evenly across each slice. Ensure not to use too much, as it will melt quickly and distribute nicely across the toast.",
+    "Sprinkle a pinch of sea salt over the top of each slice to enhance the flavors without making the dish overly salty.",
+    "Place the baking sheet in the preheated oven and bake for about 5 minutes or until golden brown on the edges, being careful not to burn the bread.",
+    "Remove from the oven and let cool slightly before serving. The toast can be served as a quick snack or paired with your favorite spreads or toppings."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "crusty",
+    "ukrainian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 3,
+    "carbs": 8,
+    "fat": 7
+  },
+  "slug": "crusty-ukrainian-toast",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crusty-ukrainian-toast",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T01:54:16Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crunchy",
+    "mood": "weeknight",
+    "technique": "toast",
+    "primaryIngredient": "duck fat",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "duck fat",
+    "descriptor": "Crusty",
+    "dishForm": "Toast"
+  }
+}
