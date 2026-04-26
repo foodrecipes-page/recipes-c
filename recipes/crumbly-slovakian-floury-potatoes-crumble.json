@@ -1,0 +1,80 @@
+{
+  "title": "Floral Crumbly Slovakian Potatoes Crockpot Crumble",
+  "description": "This floral crumbly Slovakian dish features tender floury potatoes and is perfect for meal prepping. Kosher-friendly and easy to prepare.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "2 lbs (900g) Russet Potatoes",
+      "amount": "lbs",
+      "notes": "Waxy potatoes can be used as a substitute."
+    },
+    {
+      "name": "1 cup (240ml) vegetable broth",
+      "amount": "cup"
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "1 tablespoon unsalted butter",
+      "amount": "tablespoon"
+    },
+    {
+      "name": "3 sprigs fresh dill",
+      "amount": "",
+      "notes": "Finely chopped or whole."
+    },
+    {
+      "name": "2 tablespoons lemon juice (freshly squeezed)",
+      "amount": "tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F.",
+    "Peel and chop Russet Potatoes into small chunks. Rinse them under cold water to remove any excess dirt.",
+    "In a large saucepan, bring vegetable broth and salt to a boil. Add potatoes and cook until they are fork-tender (about 20-30 minutes). Drain well.",
+    "Return the drained potatoes to their pan. Stir in butter, chopped dill, and lemon juice. Season with pepper if needed.",
+    "Transfer mixture to an 8x8-inch baking dish or crockpot container for slow cooking.",
+    "Cook in preheated oven until top is golden brown (about 25 minutes). Serve warm as a side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "floral",
+    "crumbly",
+    "slovakian",
+    "potatoes",
+    "crockpot",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 7,
+    "carbs": 36,
+    "fat": 8
+  },
+  "slug": "crumbly-slovakian-floury-potatoes-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-slovakian-floury-potatoes-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T13:31:38Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crumbly",
+    "mood": "meal-prep",
+    "technique": "temper",
+    "primaryIngredient": "floury potatoes",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "floury potatoes",
+    "descriptor": "crumbly",
+    "dishForm": "Crumble"
+  }
+}
