@@ -1,0 +1,88 @@
+{
+  "title": "Crispy Syrian Sesame Stir-Fry",
+  "description": "A salty and crispy Syrian dish with a twist of sake for an adventurous flavor profile, perfect as a side dish or light meal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "sugar-free",
+    "alcohol-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Panko breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/8 teaspoon"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large, beaten"
+    },
+    {
+      "name": "Shrimp, peeled and deveined (optional)",
+      "amount": "6 ounces, finely chopped"
+    },
+    {
+      "name": "Red bell pepper, sliced (optional)",
+      "amount": "1 medium, thinly sliced"
+    },
+    {
+      "name": "Green onion, chopped (for garnish)",
+      "amount": "1 stalk"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Mix Panko breadcrumbs with flour and salt. Add beaten eggs to a shallow dish.",
+    "Dip shrimp in egg mixture, then coat thoroughly in breadcrumb-flour mixture. Place on a baking sheet lined with parchment paper.",
+    "Bake for 20 minutes or until golden brown. Remove from oven and let cool slightly.",
+    "In a large skillet over medium heat, sauté red bell pepper slices for about 5 minutes until soft.",
+    "Add shrimp to the skillet and stir-fry for another 5 minutes until cooked through.",
+    "Stir in green onions just before serving. Serve hot with crispy sesame coating on top of the shrimp.",
+    "Optional: You can add other vegetables like carrots or zucchini for extra nutrition."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy-syrian",
+    "adventurous-dish",
+    "nut-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 26,
+    "carbs": 25,
+    "fat": 14
+  },
+  "slug": "crispy-syrian-sesame-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-syrian-sesame-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T10:55:58Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crispy",
+    "mood": "adventurous",
+    "technique": "bake",
+    "primaryIngredient": "sake",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "sesame",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
