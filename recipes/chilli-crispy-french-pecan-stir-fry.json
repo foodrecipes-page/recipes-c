@@ -1,0 +1,96 @@
+{
+  "title": "Chilli Crispy French Pecan Stir-fry",
+  "description": "A nutty and gooey low-carb-friendly comfort dish featuring a blend of roasted pecans with the spicy kick from chilli powder.",
+  "cuisine": "Asian-Inspired Fusion",
+  "diet": [
+    "low-carb",
+    "nutritious"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pecan halves",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4, minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Red bell peppers",
+      "amount": "1, diced (optional)"
+    },
+    {
+      "name": "Snow peas",
+      "amount": "1/2 cup, fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F.",
+    "Spread the pecan halves on a baking sheet and toast in the oven for about 8-10 minutes or until fragrant and lightly golden. Set aside to cool slightly.",
+    "In a large skillet, heat olive oil over medium-high heat. Add minced garlic and cook for about 30 seconds until aromatic.",
+    "Add chilli powder and sauté for another minute. Mix in soy sauce, lemon juice, salt, and pepper. Cook for an additional 1-2 minutes to thicken the sauce.",
+    "Fold in cooled pecans along with any accumulated pecan juices if available. If using red bell peppers and snow peas, add these now and stir-fry for another minute until veggies are tender-crisp.",
+    "Serve hot as a low-carb-friendly snack or side dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chilli",
+    "pecan",
+    "stir-fry",
+    "low-carb",
+    "nutritious"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 14,
+    "carbs": 7,
+    "fat": 12
+  },
+  "slug": "chilli-crispy-french-pecan-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chilli-crispy-french-pecan-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T10:15:29Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "gooey",
+    "mood": "comforting",
+    "technique": "roast",
+    "primaryIngredient": "chilli powder",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "pecans",
+    "descriptor": "Chilli Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
