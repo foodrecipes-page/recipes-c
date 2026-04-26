@@ -1,0 +1,73 @@
+{
+  "title": "Cozy Earthy British Bread Crumb",
+  "description": "An earthy, flaky dish inspired by traditional British recipes featuring cinnamon and a touch of sweetness that is perfect for breakfast or snack time.",
+  "cuisine": "British",
+  "diet": [
+    "raw-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bread crumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cinnamon stick",
+      "amount": "2 inches"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Brown sugar or honey",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Place bread crumbs in a mixing bowl.",
+    "Add the cinnamon stick and chop it finely into the mixture.",
+    "Drizzle coconut oil over the crumb mix, along with brown sugar or honey and vanilla extract.",
+    "Mix thoroughly until all ingredients are evenly distributed.",
+    "Transfer the mixture to a non-stick pan and cook for about 10 minutes on medium heat.",
+    "Once cooked, remove from heat and allow it to cool slightly before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "cozy-bread-crumb",
+    "british-cooking",
+    "earthly-dish"
+  ],
+  "nutrition": {
+    "calories": 174,
+    "protein": 3,
+    "carbs": 16,
+    "fat": 9
+  },
+  "slug": "cozy-earthy-british-bread-crumb",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-earthy-british-bread-crumb",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T11:11:35Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "flaky",
+    "mood": "cozy",
+    "technique": "simmer",
+    "primaryIngredient": "cinnamon stick",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Bread Crumbs",
+    "descriptor": "Cozy Earthy",
+    "dishForm": "Crumble"
+  }
+}
