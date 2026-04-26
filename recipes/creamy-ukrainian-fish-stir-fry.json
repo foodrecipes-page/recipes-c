@@ -1,0 +1,95 @@
+{
+  "title": "Creamy Ukrainian Fish Stir-fry",
+  "description": "A fresh and tender seafood dish featuring Ukrainian flavors made with a paleo-friendly base.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish fillets",
+      "amount": "12 ounces",
+      "notes": "preferably salmon or cod"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "wild mushrooms",
+      "amount": "2 cups",
+      "notes": "button or cremini, sliced"
+    },
+    {
+      "name": "flaxseed meal",
+      "amount": "1 tablespoon",
+      "notes": "for gluten-free base"
+    },
+    {
+      "name": "fish stock concentrate",
+      "amount": "4 tablespoons",
+      "notes": "reduced sodium"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": "full-fat, dairy-free alternative if needed"
+    },
+    {
+      "name": "dill sprigs",
+      "amount": "2",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Combine flaxseed meal and fish stock concentrate in a small bowl, stir until smooth.",
+    "Heat olive oil in a skillet over medium-high heat. Add garlic and onion; sauté for about 2 minutes.",
+    "Add mushrooms and cook for an additional 3-4 minutes until tender.",
+    "Stir in the flaxseed mixture to create a base, then pour in heavy cream (or dairy-free alternative).",
+    "Simmer gently for 5 minutes until thickened. Add fish fillets, cover with foil, and bake for about 10 minutes or until fish is cooked through.",
+    "Serve garnished with dill sprigs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cream",
+    "fish",
+    "stir-fry",
+    "paleo"
+  ],
+  "nutrition": {
+    "calories": 428,
+    "protein": 31,
+    "carbs": 7,
+    "fat": 29
+  },
+  "slug": "creamy-ukrainian-fish-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-ukrainian-fish-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T07:56:37Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "tender",
+    "mood": "weeknight",
+    "technique": "simmer",
+    "primaryIngredient": "seafood stock",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Fish",
+    "descriptor": "Creamy",
+    "dishForm": "Stir-fry"
+  }
+}
