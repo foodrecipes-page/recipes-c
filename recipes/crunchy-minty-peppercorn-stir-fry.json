@@ -1,0 +1,80 @@
+{
+  "title": "Crunchy Minty Peppercorn Stir-fry",
+  "description": "A crunchy and minty peppercorn stir-fry that is both savory and refreshing, this dish is perfect for a quick lunch or snack.",
+  "cuisine": "united-kingdom",
+  "diet": [
+    "peppery",
+    "fodmap-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mint leaves",
+      "amount": "1 cup fresh"
+    },
+    {
+      "name": "green peppercorns",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth or water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4, minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon, grated"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat a wok or skillet over medium-high heat. Add the mint leaves and sesame seeds to the pan and cook for about 30 seconds.",
+    "Add minced garlic and grated ginger, stir-fry for another minute until fragrant.",
+    "Add green peppercorns, chicken broth/water, and soy sauce. Bring to a boil then reduce heat to low and simmer for about 5 minutes or until the liquid has reduced slightly.",
+    "Stir in chopped mint leaves last and cook for an additional 2-3 minutes to allow flavors to meld together."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy-minty-peppercorn-stir-fry",
+    "peppery",
+    "fodmap-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 9,
+    "fat": 7
+  },
+  "slug": "crunchy-minty-peppercorn-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-minty-peppercorn-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T22:37:28Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "chewy",
+    "mood": "crowd-pleaser",
+    "technique": "reduce",
+    "primaryIngredient": "mint",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Peppercorns",
+    "descriptor": "Chewy Minty Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
