@@ -1,0 +1,83 @@
+{
+  "title": "Buttery Roasted Tofu Wrap with Corn Tortillas",
+  "description": "A buttery, dense Australian dish featuring roasted tofu wrapped in crispy corn tortillas, perfect for a brunch mood that's high-protein-friendly.",
+  "cuisine": "Australian",
+  "diet": [
+    "high-protein",
+    "low-carb"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 can (14 oz/400g) organic drained and rinsed chickpeas"
+    },
+    {
+      "name": "2 large cloves garlic, minced"
+    },
+    {
+      "name": "1 small red onion, finely chopped"
+    },
+    {
+      "name": "1 block (156g) extra-firm tofu, pressed to remove excess moisture"
+    },
+    {
+      "name": "Juice of 1 lemon"
+    },
+    {
+      "name": "1 cup corn tortillas, warmed and torn into bite-sized pieces"
+    },
+    {
+      "name": "2 tbsp butter"
+    },
+    {
+      "name": "Salt and pepper, to taste"
+    },
+    {
+      "name": "Fresh herbs (parsley or cilantro) for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, mix chickpeas, garlic, red onion, lemon juice, and salt. Mix well until the ingredients are evenly distributed.",
+    "Press tofu on paper towels for 20 minutes; drain excess water. Crumble tofu into the vegetable mixture.",
+    "Heat butter in an oven-safe skillet over medium heat. Add crumbled tofu mix to skillet, spread out evenly, and sprinkle with a pinch of salt and pepper. Cook until golden brown and crisp, about 15 minutes.",
+    "Transfer tofu wrap mixture onto warmed corn tortillas. Garnish with fresh herbs if desired.",
+    "Serve hot as a breakfast dish or for lunch.",
+    "Optional: Serve alongside avocado spread or a side salad to complete the meal."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "buttery-cream-tofu-wrap",
+    "corn-tortilla-wrap",
+    "austalian-dish",
+    "high-protein-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 21,
+    "carbs": 27,
+    "fat": 9
+  },
+  "slug": "creamy-australian-tofu-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-australian-tofu-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T11:20:11Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "dense",
+    "mood": "brunch-mood",
+    "technique": "roast",
+    "primaryIngredient": "corn tortillas",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Tofu",
+    "descriptor": "Creamy",
+    "dishForm": "Wrap"
+  }
+}
