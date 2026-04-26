@@ -1,0 +1,88 @@
+{
+  "title": "Chewy Fresh Japanese Tofu Stir-fry",
+  "description": "A fresh and comforting dish featuring chewy tofu stir-fried with a touch of soda water for an unexpected twist, perfect as a light lunch or snack.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (200g)",
+      "notes": "Choose extra-firm tofu for better texture."
+    },
+    {
+      "name": "Soda water",
+      "amount": "50ml",
+      "notes": "Use carbonated soda for fizziness and freshness."
+    },
+    {
+      "name": "Vegetables",
+      "amount": "1 small onion, chopped; 2 cups spinach leaves",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "Use low sodium if preferred."
+    },
+    {
+      "name": "Mirin (optional)",
+      "amount": "1 tablespoon",
+      "notes": "For a touch of sweetness and umami."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Chop the onion finely and sauté in olive oil until translucent.",
+    "Add minced garlic to the pan and cook for another minute.",
+    "Crush half of a block of tofu into a bowl, sprinkle with soda water and let sit for 5 minutes to absorb the fizziness.",
+    "Drain any excess liquid from the crushed tofu and mix with remaining half of the tofu in the bowl. Add in soy sauce and mirin (if using), and stir gently until well combined.",
+    "Stir-fry vegetables (onion and spinach) in a separate pan over medium heat until wilted.",
+    "Combine the stir-fried vegetables, crushed tofu mixture, and any remaining liquid from the crushed tofu bowl into one pan. Cook for another 2-3 minutes, stirring occasionally to prevent sticking.",
+    "Serve hot as is or with rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chewy-tofu",
+    "fresh-japanese-dish",
+    "raw-friendly",
+    "soda-water-fizz"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 8,
+    "carbs": 5,
+    "fat": 4
+  },
+  "slug": "chewy-fresh-japanese-tofu-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-fresh-japanese-tofu-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T04:43:17Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "chewy",
+    "mood": "comforting",
+    "technique": "deglaze",
+    "primaryIngredient": "soda water",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Tofu",
+    "descriptor": "Chewy Fresh",
+    "dishForm": "Stir-fry"
+  }
+}
