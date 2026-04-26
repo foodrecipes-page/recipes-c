@@ -1,0 +1,89 @@
+{
+  "title": "Crunchy Venezuelan Challot Stir-fry",
+  "description": "A kid-friendly and rich dish featuring crunchy challots sautéed with vegetables to create a deliciously addictive meal.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "kid-friendly",
+    "rich",
+    "crunchy",
+    "fodmap-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "challots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "3 small (red, green, yellow)"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add chopped onions and garlic, sautéing until they become translucent and fragrant.",
+    "Chop challots into thin rounds and add them to the pan. Cook for about 3-5 minutes on each side or until golden brown.",
+    "Add bell peppers and tomatoes to the skillet, tossing well to combine all ingredients.",
+    "Season with salt and black pepper, adjust seasoning if necessary.",
+    "Serve hot as a snack or appetizer."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "challot",
+    "stir-fry",
+    "kid-friendly",
+    "villanueva"
+  ],
+  "nutrition": {
+    "calories": 376,
+    "protein": 12.9,
+    "carbs": 48.5,
+    "fat": 17.4
+  },
+  "slug": "crunchy-venezulan-challot-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-venezulan-challot-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T12:56:42Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crunchy",
+    "mood": "kid-friendly",
+    "technique": "saute",
+    "primaryIngredient": "challots",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Venezulan",
+    "mainIngredient": "Challot",
+    "descriptor": "Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
