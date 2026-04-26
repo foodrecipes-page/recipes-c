@@ -1,0 +1,82 @@
+{
+  "title": "Crispy Earthy Broad Beans Stir-fry",
+  "description": "A festive Spanish dish featuring broad beans stir-fried with a touch of earthiness and crispy texture, perfect for a healthy snack or light meal, gluten-free and paleo-friendly.",
+  "cuisine": "Spanish",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Broad beans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "a few"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Wash the broad beans and remove any damaged parts.",
+    "Heat olive oil in a non-stick skillet or wok over medium heat. Add red pepper flakes, garlic cloves, and a pinch of salt.",
+    "Add the washed broad beans to the skillet and stir-fry for about 5 minutes until they start to crisp up and turn golden brown.",
+    "Drizzle lemon juice over the beans and continue cooking for another minute until most of the liquid evaporates.",
+    "Season with sea salt and black pepper according to taste. Stir well to distribute the flavors evenly.",
+    "Serve hot as a snack or light meal accompaniment."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "broad beans",
+    "earthly",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 205,
+    "protein": 6,
+    "carbs": 17,
+    "fat": 9
+  },
+  "slug": "crispy-earthy-broad-beans-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-earthy-broad-beans-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T03:17:48Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crisp",
+    "mood": "festive",
+    "technique": "air-fry",
+    "primaryIngredient": "broad beans",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Broad Beans",
+    "descriptor": "Earthy Crisp",
+    "dishForm": "Stir-fry"
+  }
+}
