@@ -1,0 +1,94 @@
+{
+  "title": "Creamy Quick Fix Asian Couscous Stir-fry",
+  "description": "A quick and creamy Polish dish featuring couscous in a savory sauce made with dairy-free friendly ingredients.",
+  "cuisine": "Polish",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "quinoa, cooked",
+      "amount": "1 cup"
+    },
+    {
+      "name": "couscous, instant, rinsed and drained",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth or water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4-6 pieces finely minced"
+    },
+    {
+      "name": "soy sauce or tamari soy sauce",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger, fresh or granulated",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "red pepper flakes (optional)",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cashews, soaked and drained (for garnish)",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, bring vegetable broth or water to a boil.",
+    "Add quinoa and couscous to the boiling liquid. Reduce heat to low and simmer for about 5 minutes until fully cooked.",
+    "Drain excess liquid from the quinoa and couscous, then mix them with 1 tablespoon of sesame oil in a large bowl.",
+    "In a separate pan over medium-high heat, add minced garlic, soy sauce or tamari soy sauce, ginger, and red pepper flakes (if using). Stir until fragrant.",
+    "Pour the cooked quinoa and couscous mixture into the pan with garlic sauce. Mix well until all ingredients are evenly coated.",
+    "Garnish with soaked cashews and a sprinkle of sesame seeds before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quinoa",
+    "couscous",
+    "stir-fry",
+    "polish"
+  ],
+  "nutrition": {
+    "calories": 356,
+    "protein": 17,
+    "carbs": 39,
+    "fat": 14
+  },
+  "slug": "creamy-quick-fix-asian-couscous-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-quick-fix-asian-couscous-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T08:02:10Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "creamy",
+    "mood": "quick-fix",
+    "technique": "sous-vide",
+    "primaryIngredient": "couscous",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Asian",
+    "mainIngredient": "couscous",
+    "descriptor": "Creamy Quick Fix",
+    "dishForm": "Stir-fry"
+  }
+}
