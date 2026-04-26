@@ -1,0 +1,81 @@
+{
+  "title": "Crispy German Pork Stir-Fry",
+  "description": "A fresh and juicy monsoon dish featuring crispy pork chops with toast slices, served as a snack option.",
+  "cuisine": "German",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pork chops",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "Toast slices",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Garlic cloves (minced)",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Onion slices",
+      "amount": "1 medium"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F.",
+    "Season pork chops with salt and pepper on both sides.",
+    "Heat vegetable oil in a non-stick skillet over medium-high heat. Add garlic and onion, sauté for about 2 minutes until fragrant.",
+    "Place the seasoned pork chops into the skillet, skin-side down, and cook for about 4-5 minutes or until crispy under the skin.",
+    "Flip the pork chops to brown the other side, then place them in a baking dish. Bake at 400°F for an additional 8-10 minutes or until thoroughly cooked (internal temperature of 145°F).",
+    "Meanwhile, prepare toast slices by lightly toasting on both sides.",
+    "Serve crispy pork chops with toasted bread and garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "juicy",
+    "german",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 268,
+    "protein": 31,
+    "carbs": 9,
+    "fat": 4
+  },
+  "slug": "crispy-german-pork-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-german-pork-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T06:41:34Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "juicy",
+    "mood": "monsoon",
+    "technique": "toast",
+    "primaryIngredient": "pork chops",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "pork",
+    "descriptor": "Juicy Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
