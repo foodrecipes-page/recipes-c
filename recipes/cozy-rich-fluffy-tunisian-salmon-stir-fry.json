@@ -1,0 +1,104 @@
+{
+  "title": "Cozy Rich Fluffy Tunisian Salmon Stir-fry",
+  "description": "A rich and fluffy Cozy dish featuring salmon with a Mediterranean twist, perfect for a cozy dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salmon fillets",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "Green beans",
+      "amount": "1 cup, trimmed and halved"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4-6, minced"
+    },
+    {
+      "name": "Thyme leaves",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Saffron threads",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Oregano",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "White wine vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Almond milk",
+      "amount": "300ml"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "optional, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pan over medium heat.",
+    "Add minced garlic and sauté until fragrant.",
+    "Add green beans and cook until just tender but still crisp.",
+    "Season with thyme, paprika, red pepper flakes, oregano, and white wine vinegar. Stir well to coat the vegetables.",
+    "Place salmon fillets in the pan, skin side up. Cover with a lid and simmer for about 8 minutes on low heat.",
+    "Remove from heat and let it rest for 2-3 minutes before serving.",
+    "Drizzle almond milk over the cooked salmon, garnish with Parmesan cheese if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salmon",
+    "tunisian",
+    "fluffy",
+    "rich",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 436,
+    "protein": 32,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "cozy-rich-fluffy-tunisian-salmon-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-rich-fluffy-tunisian-salmon-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T02:19:37Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "fluffy",
+    "mood": "cozy",
+    "technique": "roast",
+    "primaryIngredient": "salmon",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Salmon",
+    "descriptor": "Rich Fluffy Cozy",
+    "dishForm": "Stir-fry"
+  }
+}
