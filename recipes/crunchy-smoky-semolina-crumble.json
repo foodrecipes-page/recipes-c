@@ -1,0 +1,80 @@
+{
+  "title": "Crunchy Smoky Semolina Crumble",
+  "description": "A dairy-free version of a nostalgic Kenyan dish featuring crunchy semolina crumbles with a hint of smokiness.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup gluten-free semolina",
+      "amount": "",
+      "notes": "Use certified gluten-free semolina to ensure it's safe for those with gluten sensitivities."
+    },
+    {
+      "name": "1/2 cup almond milk or any plant-based milk of choice",
+      "amount": "",
+      "notes": "Almond milk is recommended but feel free to use your preference."
+    },
+    {
+      "name": "1 tablespoon coconut oil or vegan butter",
+      "amount": "",
+      "notes": "To prevent sticking, a small amount can be used for greasing the pan if needed."
+    },
+    {
+      "name": "Pinch of sea salt",
+      "amount": "",
+      "notes": "To enhance flavors and give a hint of smokiness when toasted."
+    },
+    {
+      "name": "1/2 cup finely chopped walnuts or any other preferred nuts",
+      "notes": "For extra crunch and nuttiness."
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "In a small mixing bowl, combine semolina, almond milk, coconut oil (or vegan butter), and sea salt. Mix until well combined.",
+    "Transfer the mixture into an oven-safe dish or baking tray. Spread it evenly to achieve desired crispness.",
+    "Bake for 15-20 minutes until edges are golden brown and crumbly when touched.",
+    "In a separate bowl, mix chopped nuts with a pinch of salt (if using) for additional crunchiness.",
+    "Allow the semolina mixture to cool slightly before distributing the nuttiness on top. This step will help in making it easier to spread evenly over the semolina crumble.",
+    "Return to oven and bake for another 5-7 minutes or until nuts are toasted and lightly golden.",
+    "Remove from oven, let cool down, then serve as desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "semolina",
+    "crumble",
+    "smoky",
+    "nachos-like"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 6,
+    "carbs": 28,
+    "fat": 9
+  },
+  "slug": "crunchy-smoky-semolina-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-smoky-semolina-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T21:12:31Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crunchy",
+    "mood": "nostalgic",
+    "technique": "fold",
+    "primaryIngredient": "semolina",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Zanzibari",
+    "mainIngredient": "Semolina",
+    "descriptor": "Smoky Crunchy",
+    "dishForm": "Crumble"
+  }
+}
