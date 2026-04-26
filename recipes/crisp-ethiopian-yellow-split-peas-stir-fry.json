@@ -1,0 +1,84 @@
+{
+  "title": "Crisp Ethiopian Yellow Split Peas Stir-fry",
+  "description": "This light and earthy dish features roasted yellow split peas in a crispy texture, perfect for a Paleo-friendly meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup yellow split peas",
+      "amount": "",
+      "notes": "Soaked overnight and drained"
+    },
+    {
+      "name": "2 tbsp olive oil or coconut oil",
+      "amount": ""
+    },
+    {
+      "name": "1 medium onion, finely chopped",
+      "amount": ""
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 red bell pepper, sliced",
+      "amount": ""
+    },
+    {
+      "name": "1 yellow bell pepper, sliced",
+      "amount": ""
+    },
+    {
+      "name": "1 cup water or vegetable broth",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium-high heat.",
+    "Add onions and garlic to the hot pan and cook until translucent, about 5 minutes.",
+    "Stir in the split peas and continue cooking for another 10-15 minutes or until they start to become crisp.",
+    "Add bell peppers and water/vegetable broth, bring to a boil then reduce heat to low.",
+    "Let simmer for about 20 minutes to allow flavors to meld together and the vegetables to soften slightly.",
+    "Serve hot as a side dish with grilled meats or fish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "crisp",
+    "earthly",
+    "yellow_split_peas",
+    "paleo",
+    "stir_fry"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 6,
+    "carbs": 24,
+    "fat": 7
+  },
+  "slug": "crisp-ethiopian-yellow-split-peas-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-ethiopian-yellow-split-peas-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T13:43:18Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crisp",
+    "mood": "light",
+    "technique": "roast",
+    "primaryIngredient": "yellow split peas",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "yellow split peas",
+    "descriptor": "crisp",
+    "dishForm": "Stir-fry"
+  }
+}
