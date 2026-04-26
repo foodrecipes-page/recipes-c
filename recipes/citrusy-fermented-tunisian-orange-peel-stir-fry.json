@@ -1,0 +1,87 @@
+{
+  "title": "Citrusy Fermented Tunisian Orange Peel Stir-Fry",
+  "description": "A dense and salty dish featuring fermented orange peel with orange blossom water and kosher-friendly seasoning, perfect for a decadent snack or dessert.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "salty",
+    "dense",
+    "indulgent"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Orange peel",
+      "amount": "2 medium",
+      "notes": "Fermented and soaked in kosher salt"
+    },
+    {
+      "name": "Orchid blossom water",
+      "amount": "1/4 cup",
+      "notes": "For flavoring the dish"
+    },
+    {
+      "name": "Kosher salt",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4",
+      "notes": "Crushed or minced for aroma"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1/2 teaspoon",
+      "notes": "For a touch of earthiness"
+    },
+    {
+      "name": "Bay leaves",
+      "amount": "1 piece"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Wash the orange peel thoroughly and remove any tough membranes. Soak it in kosher salt water for at least 24 hours.",
+    "Combine fermented orange peel, garlic, cumin seeds, bay leaves, and a splash of orchid blossom water in a mixing bowl to infuse flavors.",
+    "Heat sesame oil in a wok or frying pan over medium-high heat. Add the infused mixture from the previous step into the hot pan.",
+    "Stir-fry until fragrant and slightly darkened, about 5-7 minutes. Season with more kosher salt if needed.",
+    "Serve warm as a snack or dessert accompaniment."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "fermented",
+    "tunisian",
+    "kosher-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "citrusy-fermented-tunisian-orange-peel-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-fermented-tunisian-orange-peel-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T06:07:34Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "dense",
+    "mood": "indulgent",
+    "technique": "ferment",
+    "primaryIngredient": "orange blossom water",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Orange Peel",
+    "descriptor": "Citrusy Fermented",
+    "dishForm": "Stir-fry"
+  }
+}
