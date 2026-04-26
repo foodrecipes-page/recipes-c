@@ -1,0 +1,60 @@
+{
+  "title": "Cozy Flaky Butter Crumble",
+  "description": "A fresh, flaky, cozy Egyptian dish featuring salted butter and bhuna spices in a paleo-friendly version.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "salted butter",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bhuna masala blend (adjust to taste)",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F.",
+    "Gather all ingredients and mix the salted butter with bhuna masala blend in a mixing bowl until well combined.",
+    "Drop tablespoon-sized pieces of the mixture onto a baking sheet lined with parchment paper, pressing slightly to flatten them.",
+    "Bake for about 12-15 minutes or until golden brown. Remove from oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cozy",
+    "egyptian",
+    "paleo-friendly",
+    "flaky"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 1,
+    "fat": 13
+  },
+  "slug": "cozy-flaky-butter-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-flaky-butter-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T01:34:07Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "flaky",
+    "mood": "cozy",
+    "technique": "bhuna",
+    "primaryIngredient": "salted butter",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Butter",
+    "descriptor": "Cozy Flaky",
+    "dishForm": "Crumble"
+  }
+}
