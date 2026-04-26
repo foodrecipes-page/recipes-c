@@ -1,0 +1,99 @@
+{
+  "title": "Chewy Vegetarian-friendly Tofu Fajita Wraps",
+  "description": "A brunch-mood Venezuelan dish featuring fajita seasoning, caramelized tofu in a vegeteirian-friendly wrap with an authentic taste and texture reminiscent of traditional fajitas.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (150g)",
+      "notes": "Choose firm or extra-firm tofu."
+    },
+    {
+      "name": "fajita seasoning mix",
+      "amount": "2 tablespoons",
+      "notes": "Preferably gluten-free."
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 medium, sliced",
+      "notes": "Any color you prefer, but try to use fresh if possible."
+    },
+    {
+      "name": "onions",
+      "amount": "1 large, sliced",
+      "notes": ""
+    },
+    {
+      "name": "zucchini",
+      "amount": "3 small, thinly sliced",
+      "notes": "Optional, for extra veggies."
+    },
+    {
+      "name": "cumin",
+      "amount": "a pinch",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For frying tofu and cooking vegetables."
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Press the tofu with paper towels to remove excess water.",
+    "Season the tofu with fajita seasoning and a pinch of salt. Let it marinate for at least 10 minutes.",
+    "Heat olive oil in a pan over medium heat. Cook sliced bell peppers, onions, and zucchini (if using) until they start to soften and brown slightly on all sides.",
+    "Add the seasoned tofu cubes to the pan with vegetables. Continue cooking until the tofu is golden brown and crispy on all sides.",
+    "Transfer the cooked fajita filling to a warm plate or bowl for serving.",
+    "Assemble the wraps by placing a piece of warmed tortilla, adding a generous portion of the grilled fajitas filling onto it."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian-friendly",
+    "vienzuelan-dish",
+    "brunch-mood",
+    "authentic-flavor"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 18,
+    "fat": 10
+  },
+  "slug": "chewy-vegetarian-friendly-tofu-fajita-wraps",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-vegetarian-friendly-tofu-fajita-wraps",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T02:04:33Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "chewy",
+    "mood": "brunch-mood",
+    "technique": "caramelize",
+    "primaryIngredient": "fajita seasoning",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Vegetarian-friendly",
+    "mainIngredient": "Tofu",
+    "descriptor": "Chewy",
+    "dishForm": "Wraps"
+  }
+}
