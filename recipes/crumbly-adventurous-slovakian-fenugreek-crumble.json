@@ -1,0 +1,69 @@
+{
+  "title": "Crumbly Adventurous Slovakian Fenugreek Crumble",
+  "description": "A fermented and crumbly savory dish featuring fenugreek seeds, made with a nut-free approach for adventurous taste testers.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fenugreek Seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Almond Meal",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "Apple Cider Vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Raw Honey or Agave Nectar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Chopped Fresh Sage Leaves",
+      "amount": "a few sprigs, extra for garnish"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, combine the fenugreek seeds and almond meal. Stir in apple cider vinegar and honey or agave nectar until evenly combined.",
+    "Knead the mixture gently by hand until it becomes crumbly and starts to clump together but does not form a ball.",
+    "Fold in chopped sage leaves for extra flavor and texture, ensuring they're evenly distributed throughout the crumble."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "crumbly-adventurous-slovakian",
+    "fermented-crumble",
+    "fenugreek-dish",
+    "nut-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 103,
+    "protein": 2.5,
+    "carbs": 9,
+    "fat": 4
+  },
+  "slug": "crumbly-adventurous-slovakian-fenugreek-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-adventurous-slovakian-fenugreek-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T12:32:38Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crumbly",
+    "mood": "adventurous",
+    "technique": "knead",
+    "primaryIngredient": "fenugreek",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Fenugreek",
+    "descriptor": "Crumbly Adventurous",
+    "dishForm": "Crumble"
+  }
+}
