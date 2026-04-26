@@ -1,0 +1,88 @@
+{
+  "title": "Comforting Portuguese Baked Bean Stir-fry",
+  "description": "A tangy, gooey comfort dish featuring baked beans with a high-protein twist, perfect for a comforting dinner.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "high-protein",
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baked beans",
+      "amount": "1 can (400g)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "ground turkey",
+      "amount": "150g",
+      "notes": "fully cooked, if desired"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "italian seasoning blend",
+      "amount": "to taste"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "sliced into rounds"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 large, any color",
+      "notes": "halved and seeded"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a skillet over medium heat.",
+    "Add minced garlic and cook for about 1 minute until fragrant but not browned.",
+    "Add ground turkey to the skillet, breaking it up with a wooden spoon. Cook until fully cooked through, stirring occasionally.",
+    "Stir in Italian seasoning blend and drained baked beans.",
+    "Increase heat to medium-high and add sliced zucchini and bell peppers.",
+    "Cook for about 5-7 minutes or until vegetables are tender but still have some crunchiness.",
+    "Serve hot with crusty bread if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "portuguese-stir-fry",
+    "baked-beans",
+    "high-protein-dish"
+  ],
+  "nutrition": {
+    "calories": 291,
+    "protein": 35,
+    "carbs": 38,
+    "fat": 7
+  },
+  "slug": "comforting-portuguese-baked-bean-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/comforting-portuguese-baked-bean-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T03:12:02Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "gooey",
+    "mood": "comforting",
+    "technique": "boil",
+    "primaryIngredient": "baked beans",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Baked Beans",
+    "descriptor": "Comforting",
+    "dishForm": "Stir-fry"
+  }
+}
