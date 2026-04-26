@@ -1,0 +1,91 @@
+{
+  "title": "Crispy Mediterranean Avocado Stir-fry",
+  "description": "A spicy, crispy mediterranean dish featuring avocado and vegetable shortening for a show-off touch, suitable for diabetic-friendly meals.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "avocado",
+      "amount": "1 medium"
+    },
+    {
+      "name": "green bell pepper",
+      "amount": "1"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable shortening",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "diastatic malt syrup",
+      "amount": "1 tsp (for blood sugar management)"
+    }
+  ],
+  "instructions": [
+    "Peel and dice the avocado into small cubes.",
+    "Chop green bell pepper, onion, and garlic finely. Set aside.",
+    "Heat olive oil in a non-stick pan over medium heat.",
+    "Add vegetable shortening to the pan and swirl to coat evenly.",
+    "Once melted, add red pepper flakes and sauté for 30 seconds.",
+    "Add diced avocado, green bell peppers, onion, and garlic. Stir-fry until vegetables are soft and fragrant.",
+    "Stir in diastatic malt syrup and cook for an additional minute.",
+    "Season with salt to taste.",
+    "Transfer the stir-fried mixture to a serving dish.",
+    {
+      "prepTimeMin": 10,
+      "cookTimeMin": 8,
+      "totalTimeMin": 18,
+      "servings": 2,
+      "difficulty": "easy",
+      "tags": [
+        "crispy",
+        "spicy",
+        "avocado",
+        "stir-fry"
+      ],
+      "nutrition": {
+        "calories": 95,
+        "protein": 3,
+        "carbs": 18,
+        "fat": 4
+      }
+    }
+  ],
+  "slug": "crispy-mediterranean-avocado-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-mediterranean-avocado-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T15:21:16Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crispy",
+    "mood": "show-off",
+    "technique": "saute",
+    "primaryIngredient": "vegetable shortening",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "avocado",
+    "descriptor": "crispy",
+    "dishForm": "Stir-fry"
+  }
+}
