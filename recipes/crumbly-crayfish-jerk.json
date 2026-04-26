@@ -1,0 +1,95 @@
+{
+  "title": "Crumbly Crayfish Jerk",
+  "description": "An earthy and crumbly Ukrainian dish featuring a savory blend of jerk seasoning combined with crispy plant-based elements.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Jerk seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Plant-based mayonnaise or vegan mayo",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Canned tomatoes",
+      "amount": "1 can (400g)"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Optional: fresh parsley or cilantro",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Mix jerk seasoning with mayonnaise in a bowl.",
+    "In a separate pan, heat vegetable oil over medium-high heat.",
+    "Add tomatoes to the pan and cook until soft, about 5 minutes.",
+    "Fold in the seasoned mayonnaise mixture and simmer for another minute.",
+    "Combine breadcrumbs with garlic powder, salt, and pepper. Mix well.",
+    "Press half of the breadcrumb mixture onto the tomato mixture to create a crust.",
+    "Sprinkle remaining breadcrumb mixture evenly over the top.",
+    "Bake at 350°F (175°C) for 20 minutes or until golden brown and crispy on the top.",
+    "Let cool slightly before serving with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crumbly",
+    "earthly",
+    "midnight-craving",
+    "jerk",
+    "fried",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "crumbly-crayfish-jerk",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-crayfish-jerk",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T08:03:55Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crumbly",
+    "mood": "midnight-craving",
+    "technique": "fry",
+    "primaryIngredient": "jerk",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Jerk seasoning",
+    "descriptor": "crumbly",
+    "dishForm": "Crumble"
+  }
+}
