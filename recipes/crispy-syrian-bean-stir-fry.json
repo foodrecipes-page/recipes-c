@@ -1,0 +1,87 @@
+{
+  "title": "Crispy Syrian Bean Stir-fry",
+  "description": "A crowd-pleasing Syrian dish featuring fermented beans with a crunchy texture and subtle green cardamom flavor. Plant-based-friendly.",
+  "cuisine": "Syrian",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fermented beans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Green cardamom pods",
+      "amount": "2-3 pods",
+      "notes": "Ground for a more flavorful paste or whole for a strong flavor"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4, minced"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add onion and garlic, sauté for about 2 minutes until softened.",
+    "Stir in red pepper flakes and green cardamom pods. Cook for another minute.",
+    "Add fermented beans to the pan, tossing gently to coat with oil.",
+    "Drizzle lemon juice over the mixture, stirring well to incorporate.",
+    "Season with salt to taste. Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "syrian",
+    "crispy",
+    "bean"
+  ],
+  "nutrition": {
+    "calories": 278,
+    "protein": 10,
+    "carbs": 39,
+    "fat": 5
+  },
+  "slug": "crispy-syrian-bean-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-syrian-bean-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T16:24:18Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crispy",
+    "mood": "crowd-pleaser",
+    "technique": "fold",
+    "primaryIngredient": "green cardamom pods",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "beans",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
