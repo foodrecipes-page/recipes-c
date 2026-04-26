@@ -1,0 +1,89 @@
+{
+  "title": "Crumbly Japanese Beef Crumble",
+  "description": "A herbal crumbly dish featuring mixed beef cuts, served as a high-protein-friendly solo dinner option.",
+  "cuisine": "Japanese",
+  "diet": [
+    "high-protein",
+    "herbaceous"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Strips",
+      "amount": "200g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Carrots",
+      "amount": "4 small"
+    },
+    {
+      "name": "Celery Sticks",
+      "amount": "3 pieces"
+    },
+    {
+      "name": "Bean Sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Pork Slices",
+      "amount": "200g"
+    },
+    {
+      "name": "Shiitake Mushrooms",
+      "amount": "8 slices"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Cut beef into small pieces and onions, garlic finely minced.",
+    "Sauté onion and garlic in a bit of oil until softened.",
+    "Add beef strips, carrots, celery sticks, and bean sprouts. Season with soy sauce, mirin, sugar, ginger, and other desired herbs to taste.",
+    "Deglaze the pan with sake or rice vinegar, scraping up any browned bits from the bottom of the pan.",
+    "Transfer all ingredients to a baking dish. Top with sliced pork and mushrooms.",
+    "Bake for 20-30 minutes until beef is tender and vegetables are cooked through.",
+    "Serve hot as a high-protein-friendly solo dinner option."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crumbly-beef",
+    "herbaceous-dish",
+    "mixed-bone-meat",
+    "high-protein-friendly"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 52,
+    "carbs": 30,
+    "fat": 18
+  },
+  "slug": "crumbly-japanese-beef-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-japanese-beef-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T21:45:24Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crumbly",
+    "mood": "solo-dinner",
+    "technique": "deglaze",
+    "primaryIngredient": "mixed beef cuts",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Beef",
+    "descriptor": "Crumbly",
+    "dishForm": "Crumble"
+  }
+}
