@@ -1,0 +1,79 @@
+{
+  "title": "Citrusy Crunchy Slovakian Spinach Stir-fry",
+  "description": "This Citrusy Crunchy Slovakian Spinach Stir-fry is a plant-based-friendly dish designed to help cure hangovers with its citrusy and crunchy flavors.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spinach",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Bamboo shoots",
+      "amount": "200g"
+    },
+    {
+      "name": "Chopped fresh ginger",
+      "amount": "a few slices"
+    },
+    {
+      "name": "Sliced red bell pepper",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "optional for flavoring"
+    },
+    {
+      "name": "Olive oil or vegetable broth",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok over medium heat.",
+    "Add chopped ginger and sliced red bell pepper, sauté until softened.",
+    "Stir in the spinach leaves. Cook for about 1 minute until just wilted.",
+    "Toss with lemon juice if using.",
+    "Finish by adding bamboo shoots last and cook for another minute.",
+    "Serve immediately while still fresh."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "slovakian",
+    "citrusy",
+    "crunchy",
+    "hangover_cure",
+    "plant_based"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 38,
+    "fat": 9
+  },
+  "slug": "citrusy-crunchy-slovakian-spinach-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-crunchy-slovakian-spinach-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T02:23:03Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crunchy",
+    "mood": "hangover-cure",
+    "technique": "tandoor",
+    "primaryIngredient": "spinach",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "spinach",
+    "descriptor": "Citrusy Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
