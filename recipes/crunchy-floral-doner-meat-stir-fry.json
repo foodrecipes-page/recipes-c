@@ -1,0 +1,95 @@
+{
+  "title": "Crunchy Floral Doner Meat Stir-fry",
+  "description": "A low-calorie-friendly floral-inspired Korean dish featuring tender doner meat stir-fried with crunchy vegetables and a light sauce for a lazy Sunday meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Doner Meat",
+      "amount": "200g"
+    },
+    {
+      "name": "Vegetable Sticks (carrots, bell peppers, and onions)",
+      "amount": "300g"
+    },
+    {
+      "name": "Flower Seeds (like sunflower seeds or pumpkin seeds for crunchiness)",
+      "amount": "50g"
+    },
+    {
+      "name": "Dijon Mustard",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic Paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Place doner meat on a baking sheet, drizzle with olive oil and sprinkle with salt. Roast for about 20 minutes until cooked through.",
+    "While the meat is cooking, slice vegetable sticks into thin strips and mix them with flower seeds in a bowl.",
+    "In a small mixing bowl, combine Dijon mustard, soy sauce, garlic paste, rice vinegar, salt, and sugar. Stir to dissolve.",
+    "When the meat comes out of the oven, brush it lightly with the mixture.",
+    "Add vegetable sticks with flower seeds on another baking sheet. Drizzle with remaining mustard mixture and sprinkle with additional salt for flavoring if needed.",
+    "Bake at 375°F (190°C) for about 20 minutes until vegetables are tender and crispy, tossing occasionally to ensure even cooking.",
+    "Serve hot as a side dish or over rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "floral",
+    "lazy-sunday"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 9
+  },
+  "slug": "crunchy-floral-doner-meat-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-floral-doner-meat-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T18:14:08Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crunchy",
+    "mood": "lazy-sunday",
+    "technique": "pressure-cook",
+    "primaryIngredient": "doner meat",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "doner meat",
+    "descriptor": "Floral Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
