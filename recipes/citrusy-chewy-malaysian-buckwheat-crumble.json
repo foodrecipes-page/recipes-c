@@ -1,0 +1,103 @@
+{
+  "title": "Citrusy Chewy Malaysian Buckwheat Crumble",
+  "description": "A citrusy and chewy malaysian dish featuring buckwheat flour for a hangover-cure-friendly breakfast option.",
+  "cuisine": "Malaysian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "2 cups buckwheat flour",
+      "amount": "",
+      "notes": "Use cold water to mix"
+    },
+    {
+      "name": "1/4 cup lemon zest",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup lime zest",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons honey",
+      "amount": "tbsp",
+      "notes": "Use a mixture of granulated and liquid honey for better texture"
+    },
+    {
+      "name": "1/2 teaspoon ground cloves",
+      "notes": "For added depth of flavor"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "3/4 cup cold water",
+      "amount": "",
+      "notes": "Use to mix buckwheat flour and honey mixture"
+    },
+    {
+      "name": "1/2 cup almond meal",
+      "amount": "",
+      "notes": "For added texture, use raw almonds ground into a fine powder"
+    },
+    {
+      "name": "1/2 teaspoon smoked paprika",
+      "amount": "",
+      "notes": "To add smokiness to the dish"
+    },
+    {
+      "name": "3 tablespoons olive oil",
+      "amount": "",
+      "notes": "Use for frying and spreading on top of crumble"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix buckwheat flour with honey, lemon zest, lime zest, ground cloves, and salt. Add cold water and almond meal to form a dough.",
+    "Roll the mixture into small balls and place them on a baking sheet lined with parchment paper.",
+    "Preheat oven to 180°C (350°F). Place crumble pieces in preheated oven for about 20 minutes until golden brown, then remove from oven.",
+    "While crumbles are cooling, heat olive oil in a frying pan over medium heat. Once hot, add the crumbles and fry them on both sides until crispy and slightly toasted.",
+    "Spoon the fried crumbles onto plates and drizzle with extra honey for added sweetness. Serve with fresh fruit or any other side dish of your choice."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "chewy",
+    "malaysian",
+    "hangover-cure",
+    "buckwheat",
+    "smoke",
+    "pescatarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 310,
+    "protein": 8.5,
+    "carbs": 49,
+    "fat": 20
+  },
+  "slug": "citrusy-chewy-malaysian-buckwheat-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-chewy-malaysian-buckwheat-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T10:44:52Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "chewy",
+    "mood": "hangover-cure",
+    "technique": "smoke",
+    "primaryIngredient": "buckwheat flour",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Buckwheat",
+    "descriptor": "Citrusy Chewy",
+    "dishForm": "Crumble"
+  }
+}
