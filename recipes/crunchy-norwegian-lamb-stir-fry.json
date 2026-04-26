@@ -1,0 +1,93 @@
+{
+  "title": "Crunchy Norwegian Lamb Stir-fry",
+  "description": "This low-carb-friendly sour and crunchy dish is perfect for weeknight meals, featuring lime juice to add a zesty flavor.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-carb",
+    "sour",
+    "crunchy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb sirloin cutlets",
+      "amount": "200g",
+      "notes": "For best texture and flavor"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 lime",
+      "notes": "Freshly squeezed for optimal zing"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "to taste",
+      "notes": "For a slight citrus boost without extra acidity"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4",
+      "notes": "Mince finely for best flavor integration"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "To taste",
+      "notes": "For seasoning, adjust according to preference"
+    },
+    {
+      "name": "Peanuts (optional)",
+      "amount": "A handful",
+      "notes": "For added crunchiness"
+    },
+    {
+      "name": "Almonds (optional)",
+      "amount": "A handful",
+      "notes": "For additional crunch"
+    }
+  ],
+  "instructions": [
+    "Season the lamb cutlets with salt and pepper, letting them marinate briefly to enhance flavors.",
+    "Heat a pressure cooker or skillet over medium-high heat. Add peanuts if using and cook until lightly golden, then remove from pan.",
+    "In the same pan, add enough oil for searing. Sear the seasoned lamb pieces until they turn golden brown on all sides.",
+    "Reduce heat to medium, add minced garlic and sauté briefly until fragrant but not burnt.",
+    "Pour in lime juice (including lemon zest if using) and simmer gently to allow flavors to meld together.",
+    "Gently stir in almonds into the sauce, ensuring they don't burn. Taste for seasoning adjustments as needed.",
+    "Cook for another 2-3 minutes until most of the liquid has been absorbed by the lamb. Remove from heat.",
+    "Serve hot with a side of steamed vegetables or over rice if preferred."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy-norwegian-lamb-stir-fry",
+    "sour-lamb-dish",
+    "weeknight-meal",
+    "low-carb-friendly"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 38,
+    "carbs": 6,
+    "fat": 28
+  },
+  "slug": "crunchy-norwegian-lamb-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-norwegian-lamb-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T14:42:24Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crunchy",
+    "mood": "weeknight",
+    "technique": "pressure-cook",
+    "primaryIngredient": "lime juice",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "lamb",
+    "descriptor": "Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
