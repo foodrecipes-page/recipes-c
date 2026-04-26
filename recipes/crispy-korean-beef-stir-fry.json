@@ -1,0 +1,74 @@
+{
+  "title": "Crispy Korean Beef Stir-fry",
+  "description": "A spicy and comforting jamaican-style dish featuring ground allspice and tempering technique, tailored for a keto-friendly meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "200g"
+    },
+    {
+      "name": "Green Onion",
+      "amount": "10g"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Korean Chili Pepper",
+      "amount": "3 pieces"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add ground allspice and stir for about 30 seconds until fragrant.",
+    "Add minced garlic, diced Korean chili pepper, and green onion. Stir-fry for another minute.",
+    "Add thinly sliced beef to the pan. Adjust seasoning with salt if necessary.",
+    "Stir frequently to ensure even cooking of meat and crispiness formation.",
+    "Serve immediately while hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "crispy",
+    "korean",
+    "comforting"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 23,
+    "carbs": 1,
+    "fat": 9
+  },
+  "slug": "crispy-korean-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-korean-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T12:59:50Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crispy",
+    "mood": "comforting",
+    "technique": "temper",
+    "primaryIngredient": "ground allspice",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "beef",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
