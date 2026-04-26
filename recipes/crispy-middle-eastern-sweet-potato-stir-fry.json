@@ -1,0 +1,86 @@
+{
+  "title": "Crispy Middle Eastern Sweet Potato Stir-fry",
+  "description": "This sweet and crisp Middle Eastern dish features a unique blend of ketchup for added sweetness and a crowd-pleasing flavor profile that is both savory and diabetic-friendly.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sweet potatoes",
+      "amount": "2 medium sized"
+    },
+    {
+      "name": "Ketchup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4, minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small, finely chopped"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Oil",
+      "amount": "3 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your broiler. Cut the sweet potatoes into thick slices.",
+    "Season both sides of the potato slices with salt, paprika, turmeric powder, and a drizzle of oil.",
+    "Place the seasoned potato slices on a baking sheet lined with parchment paper or aluminum foil for easy clean-up.",
+    "Bake at 450°F (230°C) until golden brown and crispy, about 10-15 minutes.",
+    "Meanwhile, in a small bowl mix together ketchup, minced garlic, and chopped onion. Stir until well combined.",
+    "Once the sweet potatoes are ready, remove from oven and immediately pour the ketchup mixture over them while they're still hot to ensure that the flavors meld together.",
+    "Serve hot as an appetizer or side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sweet-potato-stir-fry",
+    "middle-eastern-flavor",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 48,
+    "fat": 9
+  },
+  "slug": "crispy-middle-eastern-sweet-potato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-middle-eastern-sweet-potato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T14:40:28Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crisp",
+    "mood": "crowd-pleaser",
+    "technique": "broil",
+    "primaryIngredient": "ketchup",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "sweet potato",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
