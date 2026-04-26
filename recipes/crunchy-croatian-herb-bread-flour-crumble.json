@@ -1,0 +1,86 @@
+{
+  "title": "Crunchy Croatian Herb Bread Flour Crumble",
+  "description": "This quick-fix dish combines bread flour with a blend of herbs for an herbal, crunchy texture that's perfect as a snack or breakfast item.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 cups all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "1/4 cup nutritional yeast",
+      "amount": "1/4 cup",
+      "notes": "Vegan-friendly option for a cheesy texture"
+    },
+    {
+      "name": "1/4 teaspoon salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "1/3 cup vegan butter, softened",
+      "amount": "1/3 cup"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juiced from 1 lemon"
+    },
+    {
+      "name": "2 tablespoons fresh parsley, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "2 tablespoons fresh dill, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "1/4 teaspoon cayenne pepper (optional for heat)",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Combine flour and salt in a large mixing bowl.",
+    "Add softened vegan butter, lemon juice, parsley, dill, and cayenne pepper (if using) into the flour mixture. Mix well until crumbly but moist.",
+    "Press crumble onto an ungreased baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes or until golden brown.",
+    "Let cool before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "herbal",
+    "quick-fix",
+    "croatian",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 8,
+    "fat": 9
+  },
+  "slug": "crunchy-croatian-herb-bread-flour-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-croatian-herb-bread-flour-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T10:02:03Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crunchy",
+    "mood": "quick-fix",
+    "technique": "cure",
+    "primaryIngredient": "bread flour",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Herbs",
+    "descriptor": "Crunchy",
+    "dishForm": "Crumble"
+  }
+}
