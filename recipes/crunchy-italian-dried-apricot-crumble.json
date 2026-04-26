@@ -1,0 +1,99 @@
+{
+  "title": "Crunchy Italian Dried Apricot Crumble",
+  "description": "A spicy and romantic dessert featuring dried apricots roasted with spices and topped with a dairy-free crumble.",
+  "cuisine": "Italian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sous-vide bag",
+      "amount": "",
+      "notes": "suitable for sous-vide at 150°F (65.5°C) for 2 hours"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "8 ounces",
+      "notes": "room temperature"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": "optional, add to taste"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "a pinch",
+      "notes": "for a spicy touch"
+    },
+    {
+      "name": "unsweetened applesauce",
+      "amount": "3 tablespoons",
+      "notes": "to bind the crumble"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/2 cup",
+      "notes": "or oat flour for gluten-free option"
+    },
+    {
+      "name": "pitted dates",
+      "amount": "8 ounces (about 16 pieces)",
+      "notes": "optional, add to sweeten and bind"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 teaspoon",
+      "notes": "for flavoring the crumble"
+    }
+  ],
+  "instructions": [
+    "Prepare the sous-vide bag by placing the dried apricots in a vacuum-sealed bag with any desired spices like cinnamon and cayenne pepper, then seal it.",
+    "Place the bag in a sous-vide water bath set at 150°F (65.5°C) for two hours to slowly cook the fruit evenly without drying them out.",
+    "Once cooked, remove the apricots from the bag and let cool slightly.",
+    "In a mixing bowl, combine the unsweetened applesauce, almond flour, pitted dates (if using), and vanilla extract. Mix until well combined and smooth.",
+    "Preheat your oven to 350°F (176°C).",
+    "Once cooled, break the apricots into small pieces and distribute them evenly in a baking dish or shallow pan.",
+    "Pour the crumble mixture over the chopped apricots and gently spread it out so that all apricot pieces are coated.",
+    "Bake for about 20-30 minutes or until golden brown on top and bubbly around the edges. Keep an eye on them to prevent burning, especially if using pitted dates which can release more moisture.",
+    "Let cool slightly before serving. Serve warm with a scoop of dairy-free ice cream or almond milk custard for extra indulgence."
+  ],
+  "prepTimeMin": 2,
+  "cookTimeMin": 120,
+  "totalTimeMin": 145,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "crumble",
+    "spicy",
+    "italian",
+    "dried-fruit",
+    "sous-vide",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 36,
+    "fat": 12
+  },
+  "slug": "crunchy-italian-dried-apricot-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-italian-dried-apricot-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T02:09:52Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crunchy",
+    "mood": "romantic",
+    "technique": "sous-vide",
+    "primaryIngredient": "dried fruit",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "dried apricot",
+    "descriptor": "Crunchy",
+    "dishForm": "Crumble"
+  }
+}
