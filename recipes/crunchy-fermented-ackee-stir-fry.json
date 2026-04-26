@@ -1,0 +1,72 @@
+{
+  "title": "Crunchy Fermented Ackee Stir-fry",
+  "description": "A kid-friendly and whole30-friendly Uruguayan dish featuring fermented ackee in a crunchy stir-fry, perfect for breakfast or snack time.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fermented ackee",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2-4, minced"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup, finely chopped"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon, toasted and coarsely ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a wok or large skillet over medium-high heat.",
+    "Add fermented ackee and stir-fry for about 2 minutes until lightly golden.",
+    "Add minced garlic and green onions, stirring continuously for another minute.",
+    "Season with salt to taste.",
+    "Sprinkle toasted sesame seeds on top of the dish before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "fermented",
+    "kid-friendly"
+  ],
+  "nutrition": {
+    "calories": 70,
+    "protein": 3,
+    "carbs": 6,
+    "fat": 1
+  },
+  "slug": "crunchy-fermented-ackee-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-fermented-ackee-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T17:05:25Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crunchy",
+    "mood": "kid-friendly",
+    "technique": "tandoor",
+    "primaryIngredient": "ackee",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Ackee",
+    "descriptor": "Fermented Crunchy Whole30",
+    "dishForm": "Stir-fry"
+  }
+}
