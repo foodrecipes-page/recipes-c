@@ -1,0 +1,97 @@
+{
+  "title": "Crisp Russian Turkey Stir-fry",
+  "description": "A crunchy and crowd-pleasing low-carb-friendly dish featuring turkey in a savory sauce, perfect for meal prep or quick weeknight dinners.",
+  "cuisine": "Russian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground turkey",
+      "amount": "200g"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4, minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1/4 medium, finely chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1/2 small, sliced"
+    },
+    {
+      "name": "celery stalks",
+      "amount": "1, thinly sliced"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter or ghee",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons (freshly squeezed)"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil or avocado oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Mix ground turkey, minced garlic, onion, bell pepper, celery, tomato sauce, butter/ghee, salt, pepper, lemon juice, paprika, and olive oil in a large bowl.",
+    "Transfer the mixture into an oven-safe dish. Bake for 25-30 minutes or until golden brown and crispy.",
+    "Serve hot as a side dish with rice or quinoa."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crisp",
+    "stir-fry",
+    "turkey",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 271,
+    "protein": 30,
+    "carbs": 5,
+    "fat": 19
+  },
+  "slug": "crisp-russian-turkey-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-russian-turkey-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T23:07:43Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crisp",
+    "mood": "crowd-pleaser",
+    "technique": "pressure-cook",
+    "primaryIngredient": "turkey",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Turkey",
+    "descriptor": "Crisp",
+    "dishForm": "Stir-fry"
+  }
+}
