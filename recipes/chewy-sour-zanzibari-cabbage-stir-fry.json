@@ -1,0 +1,69 @@
+{
+  "title": "Chewy Sour Zanzibari Cabbage Stir-fry",
+  "description": "A show-off Tunisian dish featuring a sour and chewy cabbage base marinated in paleo-friendly sauce with optional gluten-free rice to serve.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cabbage",
+      "amount": "1 medium head"
+    },
+    {
+      "name": "Paleo-friendly sauce ingredients (optional)",
+      "amount": "varies by recipe, typically includes apple cider vinegar, honey or agave nectar, lemon juice, and spices like cayenne pepper for heat and a touch of sweetness"
+    },
+    {
+      "name": "Gluten-free rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Optional garnishes (for presentation)",
+      "amount": "varies by taste preference, such as nuts, seeds, or fresh herbs"
+    }
+  ],
+  "instructions": [
+    "Prepare the cabbage: Cut the head of cabbage into thin strips and blanch in boiling water for about 1 minute. Drain thoroughly.",
+    "Blend paleo-friendly sauce ingredients to a smooth consistency if using. Add olive oil and heat over medium-low, allowing it to simmer for at least 5 minutes or until desired thickness is achieved.",
+    "In a large skillet with the cabbage strips added first, pour the paleo-friendly sauce evenly and stir well, ensuring the cabbage is coated. Cook for another 3-4 minutes.",
+    "Serve immediately on plates garnished as desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "paleo",
+    "tunisian",
+    "sour",
+    "chewy",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "chewy-sour-zanzibari-cabbage-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-sour-zanzibari-cabbage-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T15:39:53Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "chewy",
+    "mood": "show-off",
+    "technique": "marinate",
+    "primaryIngredient": "cabbage",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Cabbage",
+    "descriptor": "Sour Chewy Show-off",
+    "dishForm": "Stir-fry"
+  }
+}
