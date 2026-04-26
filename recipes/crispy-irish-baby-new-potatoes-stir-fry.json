@@ -1,0 +1,64 @@
+{
+  "title": "Crispy Irish Baby New Potatoes Stir-fry",
+  "description": "A hearty and comforting brunch dish featuring crispy baby new potatoes combined with a tangy pickle relish for a herbal, crisp flavor profile.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "Baby New Potatoes",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Pickled Relish (e.g. gherkins or sweet pickle)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Pepper",
+      "amount": "Pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (205°C). Rinse baby new potatoes and pat dry.",
+    "Cut baby new potatoes into small bite-sized pieces. Place on a baking sheet lined with parchment paper.",
+    "Drizzle olive oil over potatoes and sprinkle with pepper. Toss well to coat evenly.",
+    "Roast in preheated oven for about 20-25 minutes or until golden brown and crispy, shaking the pan halfway through cooking time.",
+    "While potatoes are roasting, mix pickled relish with a bit of water to thin it slightly if needed.",
+    "Once potatoes are done, pour the hot potato mixture over the top. Toss gently but ensure that potatoes get evenly coated with the pickle relish.",
+    "Serve immediately as a side dish or appetizer for brunch.",
+    "prepTimeMin: 15",
+    "cookTimeMin: 20",
+    "totalTimeMin: 35",
+    "servings: 4-6",
+    "difficulty: 'easy'",
+    "tags: ['crispy', 'herbal', 'potatoes', 'pickle', 'irish', 'baby_new_potatoes', 'stir-fry', 'dash-friendly'"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 4,
+    "carbs": 19,
+    "fat": 7
+  },
+  "slug": "crispy-irish-baby-new-potatoes-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-irish-baby-new-potatoes-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T10:23:32Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crisp",
+    "mood": "brunch-mood",
+    "technique": "pickle",
+    "primaryIngredient": "baby new potatoes",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "baby new potatoes",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
