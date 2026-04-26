@@ -1,0 +1,88 @@
+{
+  "title": "Crispy Cozy Nut French Stir-fry",
+  "description": "A vegan twist on a traditional dish featuring crispy nuts and a cozy flavor profile with the help of white wine vinegar marinade.",
+  "cuisine": "French/Vegan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vegan French Fry Pieces",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cashews",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Coconut Oil or Olive Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "Pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "In a bowl, mix French fry pieces with flour and white wine vinegar until coated evenly.",
+    "Heat oil in a large skillet over medium-high heat. Add the cashews and cook for about 1 minute on each side until lightly browned.",
+    "Add garlic powder, salt, and pepper to the pan and stir well. Place the French fries in the pan with the cashews and continue frying until golden brown and crispy, stirring occasionally, about 5-7 minutes total time.",
+    "Transfer the mixture to a baking sheet lined with parchment paper for even cooling.",
+    "Bake in oven for an additional 10-12 minutes or until thoroughly crisp. Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "crispy",
+    "nut",
+    "stir-fry",
+    "cozy",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 13,
+    "carbs": 24,
+    "fat": 9
+  },
+  "slug": "crispy-cozy-nut-french-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-cozy-nut-french-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T11:06:04Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crispy",
+    "mood": "cozy",
+    "technique": "marinate",
+    "primaryIngredient": "vegan white wine vinegar",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Nut",
+    "descriptor": "Crispy Cozy",
+    "dishForm": "Stir-fry"
+  }
+}
