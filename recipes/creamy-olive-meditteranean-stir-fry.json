@@ -1,0 +1,97 @@
+{
+  "title": "Creamy Olive Meditteranean Stir-fry",
+  "description": "A floral, creamy, nostalgic Venezuelan dish featuring green olives that is both mediterranean-friendly and full of flavor.",
+  "cuisine": "Venezuelan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1 large (any color)",
+      "notes": "chopped finely"
+    },
+    {
+      "name": "green olives",
+      "amount": "200g",
+      "notes": "preserved in oil and vinegar"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "handful",
+      "notes": "chopped finely"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black olives",
+      "amount": "200g",
+      "notes": "diced thinly"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pan over medium heat.",
+    "Add onions and garlic, sauté for about 2 minutes until translucent.",
+    "Add bell peppers and green olives. Cook for another 5-7 minutes until vegetables are tender.",
+    "Stir in lemon juice, red pepper flakes, salt to taste. Mix well.",
+    "Garnish with fresh parsley before serving.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "creamy-olive-stir-fry",
+    "mediterranean-friendly-dish",
+    "vzlcuisine"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 14,
+    "carbs": 35,
+    "fat": 16
+  },
+  "slug": "creamy-olive-meditteranean-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-olive-meditteranean-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T12:36:01Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "creamy",
+    "mood": "nostalgic",
+    "technique": "boil",
+    "primaryIngredient": "green olives",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Olive",
+    "descriptor": "Creamy",
+    "dishForm": "Stir-fry"
+  }
+}
