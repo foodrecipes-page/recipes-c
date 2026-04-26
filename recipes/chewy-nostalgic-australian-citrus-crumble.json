@@ -1,0 +1,93 @@
+{
+  "title": "Chewy Nostalgic Australian Citrus Crumble",
+  "description": "A citrusy, chewy dessert featuring passata (tomato paste) in a nut-free-friendly crumble base.",
+  "cuisine": "Australian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup all-purpose flour",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup semisweet chocolate chips",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "3/4 cup unsalted butter, melted",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 can (8 ounces) passata",
+      "amount": "can",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons granulated sugar",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup lemon juice",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 1 lemon, plus zest",
+      "amount": "",
+      "notes": "for the crumble topping"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a large bowl, mix flour and chocolate chips. Add melted butter, salt, and passata.",
+    "Stir in sugar and lemon juice until combined. Spread into an ungreased baking dish.",
+    "Whisk together zest, remaining sugar, and lemon juice for the crumble topping.",
+    "Sprinkle over the top of the tart. Bake 25-30 minutes or until golden brown.",
+    "Cool before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "chewy",
+    "nostalgic",
+    "citrus",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 284,
+    "protein": 5,
+    "carbs": 39,
+    "fat": 10
+  },
+  "slug": "chewy-nostalgic-australian-citrus-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-nostalgic-australian-citrus-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T05:33:32Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "chewy",
+    "mood": "nostalgic",
+    "technique": "broil",
+    "primaryIngredient": "passata",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Citrus",
+    "descriptor": "Chewy Nostalgic",
+    "dishForm": "Crumble"
+  }
+}
