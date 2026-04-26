@@ -1,0 +1,94 @@
+{
+  "title": "Creamy Argentinian Cassava Stir-fry",
+  "description": "A hearty and indulgent herbal cream sauce with air-fried cassava cubes, perfect for a satisfying dinner or snack option.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 can of peeled, drained chickpeas",
+      "amount": "1 can"
+    },
+    {
+      "name": "2 medium cassava (yuca) roots",
+      "amount": "2 large",
+      "notes": "air-fry at 360°F for 8-10 minutes each side"
+    },
+    {
+      "name": "1 bell pepper, diced",
+      "amount": "1 whole"
+    },
+    {
+      "name": "1 small onion, chopped",
+      "amount": "1 whole"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "3 tablespoons heavy cream",
+      "amount": "3 Tbsp"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "1 orange juice"
+    },
+    {
+      "name": "2 teaspoons oregano",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Air-fry cassava cubes at 360°F for about 8-10 minutes on each side.",
+    "In a pan, heat 1 tablespoon of olive oil over medium heat. Add garlic and onion, cook until translucent.",
+    "Add bell pepper to the pan and continue cooking until slightly softened.",
+    "Stir in oregano, lime juice, heavy cream, and salt. Mix well.",
+    "Toss in air-fried cassava cubes into the sauce mixture.",
+    "Cook for another 5 minutes or until the mixture is heated through.",
+    "Serve hot as a snack or side dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "creamy",
+    "stir-fry",
+    "herbal",
+    "indulgent",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 9
+  },
+  "slug": "creamy-argentinian-cassava-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-argentinian-cassava-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T20:46:06Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "creamy",
+    "mood": "indulgent",
+    "technique": "air-fry",
+    "primaryIngredient": "cassaba",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Cassava",
+    "descriptor": "Creamy",
+    "dishForm": "Stir-fry"
+  }
+}
