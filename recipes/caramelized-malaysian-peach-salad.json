@@ -1,0 +1,81 @@
+{
+  "title": "Caramelized Malaysian Peach Salad",
+  "description": "A floral and light dessert featuring smoked paprika, perfect for kids and keto-friendly.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Peaches",
+      "amount": "4 medium"
+    },
+    {
+      "name": "Almond Flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vanilla Bean Powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Cinnamon Powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1/8 teaspoon"
+    },
+    {
+      "name": "EVOO (Extra Virgin Olive Oil)",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F.",
+    "Cut peaches into wedges and remove pits. Place in a baking dish.",
+    "In a small bowl, mix almond flour, vanilla bean powder, brown sugar, cinnamon, and smoked paprika until combined.",
+    "Drizzle the mixture evenly over each peach wedge and brush with EVOO on top.",
+    "Bake for 15 minutes or until peaches are tender and slightly caramelized. Let cool before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "malaysian",
+    "caramelized",
+    "peach",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 2,
+    "carbs": 14,
+    "fat": 7
+  },
+  "slug": "caramelized-malaysian-peach-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/caramelized-malaysian-peach-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T14:45:54Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "light",
+    "mood": "kid-friendly",
+    "technique": "caramelize",
+    "primaryIngredient": "smoked paprika",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "peach",
+    "descriptor": "Caramelized",
+    "dishForm": "Salad"
+  }
+}
