@@ -1,0 +1,113 @@
+{
+  "title": "Crispy Turkish Tomato Stir-fry",
+  "description": "A floral and crispy show-off dish featuring white vinegar and vegan-friendly elements, perfect for a light lunch or dinner.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup cherry tomatoes",
+      "amount": "",
+      "notes": "fresh"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "",
+      "notes": "extra-virgin for best flavor"
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": "",
+      "notes": "optional, to taste"
+    },
+    {
+      "name": "2 tablespoons white vinegar (mild)",
+      "amount": "",
+      "notes": "such as white wine or apple cider vinegar"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "",
+      "notes": "for added freshness"
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon sugar (optional)",
+      "amount": "",
+      "notes": "to balance acidity and enhance sweetness"
+    },
+    {
+      "name": "1/2 cup breadcrumbs (plain or panko)",
+      "amount": "",
+      "notes": "for topping"
+    },
+    {
+      "name": "1/4 teaspoon sesame oil",
+      "amount": "",
+      "notes": "for added flavor"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok over medium-high heat.",
+    "Add onion and garlic, cook until soft, about 3 minutes.",
+    "Stir in cherry tomatoes, salt (if using), vinegar, lemon juice, pepper, sugar, and sesame oil. Mix well.",
+    "Cover with a lid and simmer for about 5 minutes or until sauce thickens slightly.",
+    "Remove from heat and let cool for a few minutes to thicken further.",
+    "Sprinkle breadcrumbs evenly over the tomato mixture.",
+    "Return the wok to medium-high heat, tilting gently to coat all sides of the tomatoes with crumbs.",
+    "Cook for an additional 2-3 minutes or until crumbs are golden brown.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy-tomato-stir-fry",
+    "flower-y-recipe",
+    "turkish-flavor",
+    "vegan-friendly",
+    "quick-side-dish"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 6
+  },
+  "slug": "crispy-turkish-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-turkish-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T15:43:37Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crispy",
+    "mood": "show-off",
+    "technique": "toast",
+    "primaryIngredient": "white vinegar",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Tomato",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
