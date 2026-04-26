@@ -1,0 +1,101 @@
+{
+  "title": "Citrusy Gooey Canadian Kale Stir-fry",
+  "description": "This Citrusy Gooey Canadian Kale Stir-fry is a brunch-friendly dish featuring kale cooked until gooey and infused with citrus flavors for a burst of freshness.",
+  "cuisine": "Canadian",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Kale",
+      "amount": "2 bunches"
+    },
+    {
+      "name": "Bacon bits (optional)",
+      "amount": "100g"
+    },
+    {
+      "name": "Broccoli florets",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Bell peppers, julienned",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1/2 medium"
+    },
+    {
+      "name": "Sunflower oil or vegan butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "Leaves of fresh lemon balm (optional)",
+      "amount": "few leaves"
+    },
+    {
+      "name": "Juice of 1-2 lemons",
+      "amount": "juice of 1-2 lemons"
+    },
+    {
+      "name": "Diced jalapeno, optional",
+      "amount": "a few slices"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "to taste"
+    },
+    {
+      "name": "Nutritional yeast for gooey texture (optional)",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat. Add sunflower oil or vegan butter.",
+    "If using bacon, cook until crispy and set aside. If not, skip this step.",
+    "Add onions to the skillet, cook for about 2 minutes until softened. Stir in broccoli and bell peppers.",
+    "Fold kale into the pan with a bit of water to prevent sticking. Add lemon balm leaves if using.",
+    "Pour in lemon juice and gently toss everything together. Season with salt and pepper to taste. Add jalapeno slices for an extra kick (optional).",
+    "After about 5-7 minutes, reduce heat to medium and stir in nutritional yeast to create a gooey texture (if desired).",
+    "Serve hot as a side dish or on toast/pancakes.",
+    "Enjoy your citrusy kale with a squeeze of fresh lemon."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrus",
+    "gooey",
+    "canadian",
+    "kale",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 290,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 16
+  },
+  "slug": "citrusy-gooey-canadian-kale-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-gooey-canadian-kale-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T08:37:54Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "gooey",
+    "mood": "brunch-mood",
+    "technique": "rest",
+    "primaryIngredient": "kale",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Kale",
+    "descriptor": "Citrusy Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
