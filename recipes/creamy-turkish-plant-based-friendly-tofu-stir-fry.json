@@ -1,0 +1,101 @@
+{
+  "title": "Floral Turkish Plant-Based Friendly Tofu Stir-Fry",
+  "description": "A light and romantic turkish dish featuring tofu in a creamy sauce with the perfect blend of flavors from worcestershire sauce, prepared sous-vide style for added tenderness.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "200g firm tofu",
+      "amount": "pieces"
+    },
+    {
+      "name": "1 onion, thinly sliced",
+      "amount": "1 piece"
+    },
+    {
+      "name": "4 cloves garlic, minced",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "1/2 tsp smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "3 tbsp plant-based milk",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "3 tbsp plant-based cream cheese substitute",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juiced from 1 lemon"
+    },
+    {
+      "name": "2 tsp Worcestershire sauce",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "1/4 cup vegetable broth",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "1 tbsp olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat sous-vide machine to 60°C (140°F) for 2 hours.",
+    "Sous-vide the tofu in water bath with ground cumin, smoked paprika, and plant-based milk for 30 minutes.",
+    "While tofu is cooking, heat olive oil in a wok or large skillet over medium-high heat. Add onion and garlic and sauté until translucent.",
+    "Add Worcestershire sauce to the onion mixture and stir well. Slowly pour in plant-based cream cheese substitute, whisking continuously until fully incorporated and smooth.",
+    "Remove tofu from sous-vide bag, slice into thin pieces, and add to the saucepan with the onions and garlic. Cook for another 5 minutes until heated through.",
+    "Add lemon juice and vegetable broth to the pan. Stir well and let it simmer for an additional minute to create a creamy sauce.",
+    "Serve hot as a side dish or on top of steamed rice or vegetables."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sous-vide",
+    "tofu",
+    "plant-based",
+    "worcestershire",
+    "creamery"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 15,
+    "carbs": 14,
+    "fat": 7
+  },
+  "slug": "creamy-turkish-plant-based-friendly-tofu-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-turkish-plant-based-friendly-tofu-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T19:00:44Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "light",
+    "mood": "romantic",
+    "technique": "sous-vide",
+    "primaryIngredient": "worcestershire sauce",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "plant_based_friendly_tofu",
+    "descriptor": "Creamy",
+    "dishForm": "Stir-fry"
+  }
+}
