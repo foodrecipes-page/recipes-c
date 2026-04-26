@@ -1,0 +1,100 @@
+{
+  "title": "Crispy Teff Ethiopian Stir-fry",
+  "description": "A tangy, crisp, kid-friendly ethiopian dish featuring teff pasta, parmesan cheese, and other delicious ingredients for a crispy texture suitable for vegetarians.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegan",
+    "jain-friendly"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "1 cup teff pasta",
+      "amount": "cup",
+      "notes": "Soak in water for at least 30 minutes"
+    },
+    {
+      "name": "1/2 cup grated parmesan cheese",
+      "amount": "cup",
+      "notes": "Optional, can be omitted for a dairy-free version"
+    },
+    {
+      "name": "1 bell pepper, diced",
+      "amount": "medium",
+      "notes": ""
+    },
+    {
+      "name": "1 onion, chopped",
+      "amount": "medium",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "piece",
+      "notes": ""
+    },
+    {
+      "name": "1 cup cherry tomatoes, halved",
+      "amount": "cup",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "tbsp",
+      "notes": "Optional for extra tanginess"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick skillet over medium heat. Add olive oil.",
+    "Add teff pasta, onions, garlic, and cherry tomatoes. Stir-fry for about 5 minutes until the vegetables are slightly softened.",
+    "If using parmesan cheese, crumble it into the stir-fry. The cheese will melt during the last few minutes of cooking.",
+    "Pour in the lime juice (if used) to add tanginess. Cook for another minute.",
+    "Season with salt and pepper to taste. Serve hot as an appetizer or snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy-teff",
+    "tangy-stir-fry",
+    "kid-friendly",
+    "ethiopian-dish",
+    "jain-friendly-appetizer"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 13,
+    "carbs": 45,
+    "fat": 9
+  },
+  "slug": "crispy-teff-ethiopian-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-teff-ethiopian-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T03:32:36Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crisp",
+    "mood": "kid-friendly",
+    "technique": "broil",
+    "primaryIngredient": "parmigiano-reggiano",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Teff",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
