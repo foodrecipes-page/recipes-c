@@ -1,0 +1,94 @@
+{
+  "title": "Creamy Mediterranean Tahini Stir-fry",
+  "description": "A sweet, silky keto-friendly dish featuring grilled vegetables with a creamy tahini sauce that's perfect for weeknight dinners.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 zucchini",
+      "amount": "1 medium",
+      "notes": "Grilled"
+    },
+    {
+      "name": "1 bell pepper, any color",
+      "amount": "1 medium",
+      "notes": "Grilled"
+    },
+    {
+      "name": "2 garlic cloves",
+      "amount": "medium-sized",
+      "notes": ""
+    },
+    {
+      "name": "1 lemon",
+      "amount": "1",
+      "notes": "Juiced"
+    },
+    {
+      "name": "1 cup tahini",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "2 Tbsp",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon cumin",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Slice the zucchini and bell pepper into thin strips.",
+    "In a bowl, mix tahini with olive oil, lemon juice, cumin, salt, and 1/4 cup of water until smooth.",
+    "Heat a grill or skillet over medium-high heat. Add sliced vegetables to cook for about 5-7 minutes per side, turning occasionally.",
+    "Once the vegetables are cooked and slightly charred, remove from heat and set aside.",
+    "Add remaining tahini mixture to the bowl with the cooked vegetables and toss well until everything is evenly coated.",
+    "Serve hot as a main dish or side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "creamysauce",
+    "grilledveggies",
+    "ketofriendly",
+    "sweetdish"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 9,
+    "carbs": 13,
+    "fat": 14
+  },
+  "slug": "creamy-mediterranean-tahini-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-mediterranean-tahini-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T23:34:26Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "silky",
+    "mood": "weeknight",
+    "technique": "grill",
+    "primaryIngredient": "sesame butter",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "tahini",
+    "descriptor": "Creamy",
+    "dishForm": "Stir-fry"
+  }
+}
