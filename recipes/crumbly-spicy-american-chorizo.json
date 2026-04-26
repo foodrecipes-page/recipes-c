@@ -1,0 +1,77 @@
+{
+  "title": "Crumbly Spicy American Chorizo",
+  "description": "A quick-fix, halal-friendly dish featuring salty and crumbly chorizo with added coriander for a spicy kick. Perfect for breakfast or snack time.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chorizo",
+      "amount": "100g"
+    },
+    {
+      "name": "Coriander (Cilantro)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Red Chili Flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Finely chop the chorizo and set aside.",
+    "Grind the coriander finely, or use a mortar and pestle for a more rustic texture.",
+    "Mix the chopped chorizo with the ground coriander, chili flakes, olive oil, salt, and pepper in a bowl until well combined.",
+    "Transfer the mixture to an oven-safe dish. Ensure you have enough space as the mix will expand as it cooks.",
+    "Bake for 20-30 minutes or until golden brown and crispy on top.",
+    "Remove from the oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "american-chorizo",
+    "crumbly-spicy",
+    "halal-friendly",
+    "quick-fix-dish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 9,
+    "fat": 20
+  },
+  "slug": "crumbly-spicy-american-chorizo",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-spicy-american-chorizo",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T03:22:53Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crumbly",
+    "mood": "quick-fix",
+    "technique": "slow-cook",
+    "primaryIngredient": "coriander",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Chorizo",
+    "descriptor": "Spicy Crumbly",
+    "dishForm": "Crumble"
+  }
+}
