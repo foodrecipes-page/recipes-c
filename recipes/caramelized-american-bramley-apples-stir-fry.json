@@ -1,0 +1,76 @@
+{
+  "title": "Caramelized American Bramley Apples Stir-fry",
+  "description": "A fermented and juicy whole30-friendly dish featuring bramley apples caramelized to perfection in a stir-fry.",
+  "cuisine": "American",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "Bramley Apples",
+      "amount": "1 (medium)"
+    },
+    {
+      "name": "Coconut Sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ghee or Coconut Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Minced Garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "Juice of 1 lime"
+    }
+  ],
+  "instructions": [
+    "Wash and peel the Bramley Apples. Slice them into thin wedges.",
+    "Heat ghee or coconut oil in a pan over medium heat. Add minced garlic and cook for about 30 seconds until fragrant.",
+    "Add apple slices to the pan. Cook for 2-3 minutes per side, turning frequently to ensure even caramelization.",
+    "Stir in coconut sugar while cooking to caramelize the apples. Reduce heat as needed to maintain a low flame. Continue cooking until all apples are well-caramelized and tender.",
+    "Add lime juice towards the end of the cooking process to brighten up the dish without overpowering the flavors."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "caramelized",
+    "stir-fry",
+    "fermented",
+    "juicy",
+    "adventurous",
+    "american",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 28,
+    "fat": 10
+  },
+  "slug": "caramelized-american-bramley-apples-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/caramelized-american-bramley-apples-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T23:29:20Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "caramelize",
+    "primaryIngredient": "bramley apples",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Bramley Apples",
+    "descriptor": "Caramelized",
+    "dishForm": "Stir-fry"
+  }
+}
