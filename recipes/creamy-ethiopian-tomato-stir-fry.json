@@ -1,0 +1,104 @@
+{
+  "title": "Creamy Ethiopian Tomato Stir-fry",
+  "description": "A sour and creamy brunch-mood ethiopian dish featuring chimichurri sauce, cooked using a pressure cooker for an easy and fast meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "kosher-friendly"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "2 cups fresh",
+      "notes": "preferably ripe"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chili peppers",
+      "amount": "1 medium, finely chopped (optional) for heat"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "cilantro leaves",
+      "amount": "handful fresh, roughly chopped (for garnish)"
+    },
+    {
+      "name": "chicken broth or water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cream cheese",
+      "amount": "8 ounces, softened"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat your pressure cooker according to the manufacturer's instructions.",
+    "In a large pan over medium heat, sauté finely chopped onions and garlic until translucent.",
+    "Add chopped tomatoes along with a pinch of salt, pepper, and optional chili peppers. Cook for about 5 minutes until slightly softened.",
+    "Pour in chicken broth or water and bring to a simmer. Reduce heat to low and let it cook for another 10-15 minutes while the pressure cooker is heating up.",
+    "Meanwhile, mix together cream cheese and tomato paste in a bowl. If using a blender, blend this mixture until smooth.",
+    "Once the tomatoes are cooked through, add the blended cream cheese mixture into the pan with the tomatoes, stir well to combine all ingredients evenly.",
+    "If you're not using a pressure cooker, reduce heat further to maintain a gentle simmer for another 10 minutes. If your pressure cooker is hot enough, increase the temperature and cook under high pressure for about 5-7 minutes (consult your manual).",
+    "Remove from heat once done and transfer to a serving dish.",
+    "Garnish with fresh cilantro leaves before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "creamy-ethiopian-stir-fry",
+    "pressure-cooker-meal",
+    "sour-and-crisp-tomato",
+    "chimichurri-sauce-enhanced"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 29,
+    "fat": 14
+  },
+  "slug": "creamy-ethiopian-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-ethiopian-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T20:03:17Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "creamy",
+    "mood": "brunch-mood",
+    "technique": "pressure-cook",
+    "primaryIngredient": "chimichurri sauce",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "tomato",
+    "descriptor": "Creamy",
+    "dishForm": "Stir-fry"
+  }
+}
