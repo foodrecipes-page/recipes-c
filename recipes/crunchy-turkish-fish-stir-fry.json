@@ -1,0 +1,96 @@
+{
+  "title": "Crunchy Turkish Fish Stir-fry",
+  "description": "A kid-friendly floral dish featuring white fish fillets, seasoned with tandoori spices and served over a bed of crispy vegetables for a crunchy texture.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "White Fish Fillets",
+      "amount": "4 pieces",
+      "notes": "Choose mild flavored fish such as cod or haddock."
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Turkish Tadka Seasoning Blend",
+      "amount": "1 packet",
+      "notes": "Preferably organic and kid-friendly if available."
+    },
+    {
+      "name": "Ginger Garlic Paste",
+      "amount": "1 tablespoon",
+      "notes": "Organic, for a fresher flavor."
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Coriander Powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Red Chili Paste",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Vegetables (onions, bell peppers, carrots)",
+      "amount": "500 grams total"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a pan over medium-high heat.",
+    "Add ginger garlic paste and sauté until fragrant, about 1 minute.",
+    "Dissolve tadka seasoning blend into the oil and stir for another minute.",
+    "Fold in turmeric powder, cumin seeds, coriander powder, and red chili paste, cooking for an additional minute to release flavors.",
+    "Gently add fish fillets with skin side down. Cook for about 3 minutes per side until golden brown and cooked through.",
+    "In a separate pan, sauté sliced onions, bell peppers, and carrots in the tadka oil mixture till slightly caramelized, adding enough water to cover them if needed.",
+    "Combine stir-fried fish with vegetables and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy-turkish-fish-stir-fry",
+    "kid-friendly-dinner",
+    "nut-free-friendly",
+    "floral-spice"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 42,
+    "fat": 16
+  },
+  "slug": "crunchy-turkish-fish-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-turkish-fish-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T12:53:12Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crunchy",
+    "mood": "kid-friendly",
+    "technique": "tadka",
+    "primaryIngredient": "white fish fillets",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Fish",
+    "descriptor": "Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
