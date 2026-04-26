@@ -1,0 +1,75 @@
+{
+  "title": "Caramelized Floral Oats Porridge",
+  "description": "A floral, crisp, indulgent Turkish dish featuring porridge oats, air-fried and vegan-friendly.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "2 cups rolled oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "3/4 cup coconut milk",
+      "amount": "6 oz"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": ""
+    },
+    {
+      "name": "1 tbsp agave nectar or maple syrup",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "0.5 g"
+    }
+  ],
+  "instructions": [
+    "Combine oats, coconut milk, lemon juice, agave nectar/syrup, and a pinch of salt in a bowl.",
+    "Mix until the mixture forms a thick porridge-like consistency.",
+    "Transfer the mixture to an air fryer basket lined with parchment paper.",
+    "Air-fry at 350°F for about 12-15 minutes, turning halfway through cooking time.",
+    "Remove from air fryer and let it cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "caramelized",
+    "floral",
+    "crisp",
+    "indulgent",
+    "turkish",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 6,
+    "carbs": 52,
+    "fat": 14
+  },
+  "slug": "caramelized-floral-oats-porridge",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/caramelized-floral-oats-porridge",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T23:06:02Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crisp",
+    "mood": "indulgent",
+    "technique": "air-fry",
+    "primaryIngredient": "porridge oats",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Oats",
+    "descriptor": "Floral Caramelized",
+    "dishForm": "Porridge"
+  }
+}
