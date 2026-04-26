@@ -1,0 +1,87 @@
+{
+  "title": "Crispy American Quinoa Stir-fry",
+  "description": "A fresh and crisp post-workout meal featuring ground cumin, a gluten-free-friendly option that's easy to prepare.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup quinoa",
+      "amount": "cup"
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "pieces"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "1 small onion",
+      "amount": "piece"
+    },
+    {
+      "name": "Pinch of salt",
+      "notes": "optional, for flavoring"
+    },
+    {
+      "name": "Fresh cilantro leaves",
+      "amount": "handful"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "pinch"
+    },
+    {
+      "name": "Garlic powder (or garlic-infused oil)",
+      "notes": "for extra flavor"
+    }
+  ],
+  "instructions": [
+    "Rinse quinoa under cold water and drain well.",
+    "In a medium saucepan, bring 2 cups of water to boil. Add quinoa and stir for about 30 seconds, then reduce heat to low and cover the pan with a lid for about 15 minutes or until all the water is absorbed.",
+    "While quinoa cooks, finely chop garlic and onion; set aside.",
+    "When quinoa has finished cooking, transfer it into a large bowl and let cool. Once cooled, mix in chopped onions, garlic, olive oil, ground cumin, and salt (if using).",
+    "Heat 2 tablespoons of olive oil in a wok or large skillet over medium-high heat. Add the quinoa mixture to the hot pan and stir-fry for about 5 minutes until golden brown.",
+    "Stir in fresh cilantro leaves; mix well.",
+    "Serve hot as a side dish or main course, garnished with additional ground cumin if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "american-stir-fry",
+    "quinoa-dinner",
+    "gluten-free",
+    "post-workout-meal"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 8
+  },
+  "slug": "crispy-american-quinoa-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-american-quinoa-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T19:33:09Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crisp",
+    "mood": "post-workout",
+    "technique": "toast",
+    "primaryIngredient": "ground cumin",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Quinoa",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
