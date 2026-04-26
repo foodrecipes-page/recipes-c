@@ -1,0 +1,88 @@
+{
+  "title": "Creamy Garlic Norwegian Soup",
+  "description": "An energizing norwegian dish featuring a blend of vegetable stock, low-fat-friendly ingredients, and a rich garlic flavor profile to start your day or as a light lunch option.",
+  "cuisine": "norwegian",
+  "diet": [
+    "low-fat",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "vegetable stock",
+      "amount": "1 cup"
+    },
+    {
+      "name": "low-sodium vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "6 (minced)",
+      "notes": "about 1 tablespoon fresh or 1 teaspoon minced dried garlic can be used instead."
+    },
+    {
+      "name": "celery stalks",
+      "amount": "1 medium",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium, diced"
+    },
+    {
+      "name": "low-fat cream cheese",
+      "amount": "1/2 cup (softened)"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "6-8 fresh, chopped (optional) for garnish"
+    },
+    {
+      "name": "nutritional yeast flakes",
+      "amount": "1/4 cup",
+      "notes": "for added creaminess and umami flavor"
+    }
+  ],
+  "instructions": [
+    "In a large pot or Dutch oven, combine vegetable stock and low-sodium broth. Add minced garlic, celery pieces, and onions.",
+    "Bring to a boil over medium heat, then reduce the heat to low and simmer for about 20 minutes until the vegetables are soft.",
+    "Blend soup using an immersion blender directly in the pot or transfer half of the mixture to a regular blender. Blend until smooth.",
+    "Return the blended soup to the pot and stir in softened cream cheese and nutritional yeast flakes. Warm gently over low heat, stirring occasionally, until thickened slightly.",
+    "Season with salt and freshly ground black pepper to taste. Garnish with chopped basil leaves if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "creamy",
+    "norwegian",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 3,
+    "carbs": 28,
+    "fat": 6
+  },
+  "slug": "creamy-garlic-norwegian-soup",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-garlic-norwegian-soup",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T00:58:15Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "creamy",
+    "mood": "energizing",
+    "technique": "fold",
+    "primaryIngredient": "vegetable stock",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Garlic",
+    "descriptor": "Creamy",
+    "dishForm": "Soup"
+  }
+}
