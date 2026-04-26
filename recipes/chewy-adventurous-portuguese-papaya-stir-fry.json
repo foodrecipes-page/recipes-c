@@ -1,0 +1,83 @@
+{
+  "title": "Chewy Adventurous Portuguese Papaya Stir-fry",
+  "description": "This low-calorie-friendly, earthy and adventurous papaya dish features a unique combination of cold water and a tadka to create a chewy texture.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low-calorie",
+    "low-fat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "papaya",
+      "amount": "1 medium"
+    },
+    {
+      "name": "ginger",
+      "amount": "a few slices"
+    },
+    {
+      "name": "coriander leaves",
+      "amount": "handful"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Wash and peel the papaya, then slice it into thin strips.",
+    "In a small bowl, mix soy sauce, lime juice, sesame oil, and salt. Set aside.",
+    "Heat a pan over medium heat, add sesame oil and sauté ginger slices until fragrant.",
+    "Add papaya strips to the pan and cook for about 3-4 minutes or until slightly wilted but still crunchy.",
+    "Drizzle the prepared sauce over the papaya, toss well to coat evenly.",
+    "Remove from heat immediately to preserve its chewy texture. Garnish with coriander leaves before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "papaya-stir-fry",
+    "portuguese-recipe",
+    "low-calorie",
+    "adventurous-food"
+  ],
+  "nutrition": {
+    "calories": 40,
+    "protein": 1,
+    "carbs": 6,
+    "fat": 2
+  },
+  "slug": "chewy-adventurous-portuguese-papaya-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-adventurous-portuguese-papaya-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T04:19:45Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "chewy",
+    "mood": "adventurous",
+    "technique": "tadka",
+    "primaryIngredient": "cold water",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "papaya",
+    "descriptor": "Chewy Adventurous",
+    "dishForm": "Stir-fry"
+  }
+}
