@@ -1,0 +1,85 @@
+{
+  "title": "Crispy Smoky Chickpeas Spanish Stir-fry",
+  "description": "A tangy and dense kid-friendly Spanish dish featuring crispy chickpeas with smoky olive oil as a base, perfect for high-protein meals.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-fat",
+    "high-protein"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "1 can (15 oz) chickpeas",
+      "amount": "drained and rinsed"
+    },
+    {
+      "name": "2 cloves garlic, minced"
+    },
+    {
+      "name": "1 tbsp olive oil (smoked or regular)",
+      "notes": "for smoky flavor"
+    },
+    {
+      "name": "1/4 tsp smoked paprika"
+    },
+    {
+      "name": "1/2 cup cherry tomatoes, halved"
+    },
+    {
+      "name": "1/2 red bell pepper, diced"
+    },
+    {
+      "name": "1/2 cup frozen peas"
+    },
+    {
+      "name": "Juice of 1 lemon"
+    },
+    {
+      "name": "1 tbsp fresh parsley, chopped"
+    },
+    {
+      "name": "Salt and black pepper to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium-high heat. Add chickpeas, garlic, smoked paprika, cherry tomatoes, and red bell pepper.",
+    "Cook for about 5 minutes until the vegetables start to soften. Stir in frozen peas and lemon juice.",
+    "Reduce heat to low, add salt and black pepper to taste. Cook for an additional 2-3 minutes to allow flavors to meld together.",
+    "Garnish with fresh parsley before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy-smoky-chickpeas",
+    "tangy-spanish-dish",
+    "kid-friendly",
+    "smoked-olive-oil"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 9,
+    "fat": 7
+  },
+  "slug": "crispy-smoky-chickpeas-spanish-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-smoky-chickpeas-spanish-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T05:53:49Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "dense",
+    "mood": "kid-friendly",
+    "technique": "reduce",
+    "primaryIngredient": "smoky a oli",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Chickpeas",
+    "descriptor": "Crispy Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
