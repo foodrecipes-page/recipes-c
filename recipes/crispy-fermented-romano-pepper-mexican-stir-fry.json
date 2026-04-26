@@ -1,0 +1,86 @@
+{
+  "title": "Crispy Fermented Romano Pepper Mexican Stir-fry",
+  "description": "A brunch-mood vegan-friendly dish featuring crispy fermented romano pepper mixed with a flavorful sauce and vegetables for an indulgent yet healthy breakfast option.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Fermented Romano Pepper",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Avocado",
+      "amount": "2 ripe avocados"
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "3 bell peppers, sliced"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Cilantro Leaves",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste"
+    },
+    {
+      "name": "Vegan Cheese Sauce Mix",
+      "amount": "1 packet"
+    }
+  ],
+  "instructions": [
+    "Heat the air fryer to 375°F (190°C).",
+    "Add the fermented romano pepper and bell peppers into a bowl, season with salt and cumin seeds. Toss until well coated.",
+    "Spread the seasoned mixture evenly on a baking sheet lined with parchment paper.",
+    "Air-fry for about 20-25 minutes or until crispy, flipping halfway through cooking time.",
+    "In a blender or food processor, combine the avocados, garlic cloves, cilantro leaves, and vegan cheese sauce mix. Blend until smooth.",
+    "Heat oil in a pan over medium heat. Add blended mixture and cook for about 3-5 minutes until heated through.",
+    "Serve hot with crispy fermented romano pepper and garnished with sliced avocado slices."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy-fermented-pepper",
+    "vegan-mexican-stir-fry",
+    "breakfast-dessert"
+  ],
+  "nutrition": {
+    "calories": 523,
+    "protein": 8.4,
+    "carbs": 79.1,
+    "fat": 20.4
+  },
+  "slug": "crispy-fermented-romano-pepper-mexican-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-fermented-romano-pepper-mexican-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T12:10:04Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crispy",
+    "mood": "brunch-mood",
+    "technique": "air-fry",
+    "primaryIngredient": "romano pepper",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Romano Pepper",
+    "descriptor": "Fermented, Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
