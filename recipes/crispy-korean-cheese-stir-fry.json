@@ -1,0 +1,86 @@
+{
+  "title": "Crispy Korean Cheese Stir-fry",
+  "description": "A kid-friendly and umami-rich dish featuring fromage frais for a unique twist on traditional Korean stir-fries, caramelized for an extra savory flavor with a touch of sweetness. This recipe is also fodmap-friendly.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegan",
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fromage frais",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 tablespoons, finely chopped"
+    },
+    {
+      "name": "green onions",
+      "amount": "6 pieces, finely sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "mirin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup, toasted"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 teaspoons"
+    }
+  ],
+  "instructions": [
+    "Prepare fromage frais by gently warming it until smooth. Mix in ginger, soy sauce, mirin, and rice vinegar.",
+    "Heat sesame oil in a wok or large frying pan over medium-high heat. Add finely sliced green onions and stir-fry for about 1 minute.",
+    "Gradually add the prepared fromage frais mixture to the pan. Stir constantly until the cheese has melted and begins to caramelize, about 2-3 minutes.",
+    "Sprinkle toasted sesame seeds on top of the cheese as it cooks. Adjust seasoning with salt if needed.",
+    "Serve hot over steamed vegetables or noodles for a full meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean-stir-fry",
+    "kid-friendly",
+    "fodmap-friendly",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 8
+  },
+  "slug": "crispy-korean-cheese-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-korean-cheese-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T15:36:38Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crispy",
+    "mood": "kid-friendly",
+    "technique": "caramelize",
+    "primaryIngredient": "fromage frais",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Cheese",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
