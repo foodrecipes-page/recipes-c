@@ -1,0 +1,104 @@
+{
+  "title": "Crispy Japanese Ginger Stir-fry",
+  "description": "A fresh, crisp solo-dinner dish featuring cardamom and other Mediterranean-friendly spices for a unique twist on classic stir-fries.",
+  "cuisine": "Japanese",
+  "diet": [
+    "mediterranean",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb boneless chicken breast",
+      "amount": "cut into thin strips",
+      "notes": "Ensure the meat is at room temperature"
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "minced",
+      "notes": ""
+    },
+    {
+      "name": "1 small onion",
+      "amount": "chopped finely",
+      "notes": ""
+    },
+    {
+      "name": "2 bell peppers (any color)",
+      "amount": "chopped",
+      "notes": "Use the sweet varieties for a milder flavor"
+    },
+    {
+      "name": "1 cup snap peas",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup fresh ginger",
+      "amount": "finely chopped",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp sesame oil",
+      "amount": "",
+      "notes": "For a touch of brightness and flavor"
+    },
+    {
+      "name": "1 tsp cardamom powder",
+      "amount": "",
+      "notes": "Add a unique twist with this aromatic spice"
+    },
+    {
+      "name": "1/4 tsp turmeric powder",
+      "amount": "",
+      "notes": "To enhance the vibrant yellow color of the stir-fry"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Season the chicken strips with salt and freshly ground black pepper.",
+    "In a large bowl, toss the chicken with sesame oil until evenly coated. Spread them on a baking sheet lined with parchment paper.",
+    "Bake for about 20 minutes or until fully cooked through. Remove from oven and set aside to cool slightly.",
+    "Meanwhile, in a wok or large skillet, heat 1 tbsp of vegetable oil over medium-high heat.",
+    "Add minced garlic and chopped onions; sauté for about 1 minute until fragrant.",
+    "Add bell peppers and snap peas to the pan. Stir-fry them for another 2 minutes.",
+    "Return the cooked chicken strips to the wok or skillet, add finely chopped ginger and remaining sesame oil.",
+    "Mix in cardamom powder and turmeric powder. Cook for an additional minute until everything is well combined and heated through.",
+    "Serve hot as a solo-dinner dish with steamed rice."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese-ginger-stir-fry",
+    "cardamom-spice-dish",
+    "mediterranean-friendly-dish",
+    "simple-veggie-solo-dinner"
+  ],
+  "nutrition": {
+    "calories": 403,
+    "protein": 29.5,
+    "carbs": 17.6,
+    "fat": 15.8
+  },
+  "slug": "crispy-japanese-ginger-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-japanese-ginger-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T03:46:16Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crisp",
+    "mood": "solo-dinner",
+    "technique": "saute",
+    "primaryIngredient": "cardamom",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "ginger",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
