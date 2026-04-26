@@ -1,0 +1,69 @@
+{
+  "title": "Crunchy Italian Sevaiiya Stir-fry",
+  "description": "A meal-prep friendly, umami-rich dish featuring crispy sevaiiya stir-fried with onions, tomatoes, and garlic in a dash-friendly sauce.",
+  "cuisine": "Italian (Sicilian)",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup",
+      "amount": "sevaiiya"
+    },
+    {
+      "name": "1 small onion",
+      "amount": ""
+    },
+    {
+      "name": "2 medium tomatoes",
+      "amount": "sliced"
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "minced"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 400°F (200°C).",
+    "Cut the sevaiiya into bite-sized pieces and toss them with a bit of olive oil.",
+    "In a pan, sauté the onions until translucent. Add minced garlic and cook for another minute.",
+    "Add the sliced tomatoes to the pan and stir-fry for about 2 minutes or until they start to soften slightly.",
+    "Toss the sevaiiya with the tomato mixture in the pan, drizzle with lemon juice, and toss well.",
+    "Transfer the sevaiiya to your preheated air fryer basket and cook for 10-15 minutes or until crispy on all sides.",
+    "Serve hot as a side dish or over rice.",
+    "prepTimeMin: 15",
+    "cookTimeMin: 20",
+    "totalTimeMin: 35",
+    "servings: 4",
+    "difficulty: "
+  ],
+  "tags": [
+    "crunchy",
+    "umami",
+    "italian",
+    "sevaiiya",
+    "meal-prep",
+    "dash-friendly"
+  ],
+  "slug": "crunchy-italian-sevaiiya-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-italian-sevaiiya-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T01:59:19Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crunchy",
+    "mood": "meal-prep",
+    "technique": "air-fry",
+    "primaryIngredient": "sevaiiya",
+    "diet": "dash",
+    "region": "sicilian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Sevaiiya",
+    "descriptor": "crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
