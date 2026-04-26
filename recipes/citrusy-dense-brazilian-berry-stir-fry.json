@@ -1,0 +1,83 @@
+{
+  "title": "Citrusy Dense Brazilian Berry Stir-fry",
+  "description": "A citrusy and dense Brazilian dish featuring frozen mixed berries, caramelize them with a touch of sweetness for a weeknight meal that caters to pescatarian preferences.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Frozen Mixed Berries",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Almonds, sliced",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Jalapenos, finely chopped",
+      "notes": "adjust quantity based on spice preference"
+    },
+    {
+      "name": "Ginger, minced",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Cumin, ground",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add jalapenos, ginger, and cumin to the pan. Cook for about 1 minute until fragrant.",
+    "Stir in mixed berries and cook for an additional 3-5 minutes or until berries begin to soften and release their juices.",
+    "Fold in sliced almonds and continue cooking for another 2 minutes allowing the flavors to meld together.",
+    "Serve hot as a main course."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian",
+    "citrusy",
+    "dense",
+    "stir-fry",
+    "mixed-berries",
+    "pescatarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 4.5,
+    "carbs": 37,
+    "fat": 8
+  },
+  "slug": "citrusy-dense-brazilian-berry-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-dense-brazilian-berry-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T02:11:29Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "dense",
+    "mood": "weeknight",
+    "technique": "caramelize",
+    "primaryIngredient": "frozen mixed berries",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "berries",
+    "descriptor": "Citrusy Dense",
+    "dishForm": "Stir-fry"
+  }
+}
