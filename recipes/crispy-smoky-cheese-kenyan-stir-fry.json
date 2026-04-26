@@ -1,0 +1,100 @@
+{
+  "title": "Crispy Smoky Cheese Kenyan Stir-fry",
+  "description": "A quick-fix, crispy-smoked dish featuring a blend of low-sodium-friendly, liquid cheese with smoky flavors, ideal for a savory side or light meal.",
+  "cuisine": "Kenyan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "200g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Low-sodium soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Kikuyu (or any other leafy green vegetable)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Low-sodium cooking oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Liquid cheese, low sodium",
+      "amount": "60g"
+    },
+    {
+      "name": "Smoked paprika or paprika",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Wash and chop the chicken breast into bite-sized pieces. Chop onion and garlic.",
+    "Heat oil in a pressure cooker over medium heat. Add onions, cook until translucent.",
+    "Add garlic and cook for another minute. Season with salt and pepper to taste.",
+    "Push vegetables aside on one side of the pot and mix cheese with paprika in a bowl.",
+    "Pour liquid cheese mixture into the pot and stir gently without breaking up the pieces.",
+    "Gently fold in chicken, ensuring that it's well-coated with the sauce. Cover and cook under pressure for 20 minutes or until chicken is fully cooked.",
+    "Once cooked, open the lid of the cooker slowly to prevent steam escaping. Add chopped vegetables back into the pot gently to ensure they stay crispy.",
+    "Cook for an additional 1-2 minutes until vegetables are slightly wilted and the sauce is thickened.",
+    "Serve hot with steamed rice or as a side dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "kenyan",
+    "quick-fix",
+    "smoky",
+    "low-sodium-friendly"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 28,
+    "carbs": 15,
+    "fat": 9
+  },
+  "slug": "crispy-smoky-cheese-kenyan-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-smoky-cheese-kenyan-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T06:20:58Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crisp",
+    "mood": "quick-fix",
+    "technique": "pressure-cook",
+    "primaryIngredient": "liquid cheese",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Cheese",
+    "descriptor": "Crispy Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
