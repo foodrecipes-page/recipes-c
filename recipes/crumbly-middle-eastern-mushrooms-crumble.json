@@ -1,0 +1,93 @@
+{
+  "title": "Crumbly Middle Eastern Wild Mushroom Crockpot Delight",
+  "description": "This herbal crumbly dish is a hearty and flavorful lazy-sunday meal featuring wild mushrooms that are pressure-cooked to perfection in an aromatic blend of herbs.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wild Mushrooms",
+      "amount": "200g",
+      "notes": "Choose fresh wild mushrooms such as boletus or porcini"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": "Chopped finely, optional for flavoring"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/4 tsp",
+      "notes": "For color and to add depth of flavor"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1/2 tsp",
+      "notes": "To enhance the dish's savory notes"
+    },
+    {
+      "name": "Coriander Seeds",
+      "amount": "1/2 tsp",
+      "notes": "For a touch of spice and freshness"
+    },
+    {
+      "name": "Fresh Herbs Bundle (Thyme, Rosemary, Parsley)",
+      "amount": "1",
+      "notes": "Chopped finely for garnish"
+    }
+  ],
+  "instructions": [
+    "Wash the wild mushrooms thoroughly and remove any dirt or debris. Clean them gently under running water.",
+    "Heat olive oil in a pressure cooker over medium heat. Add chopped onion, sauté until translucent (about 3 minutes).",
+    "Add garlic cloves if using, then stir in turmeric powder, cumin seeds, coriander seeds, and fresh herb bundle. Cook for another minute to release flavors.",
+    "Transfer the wild mushrooms into the pressure cooker along with their water from washing, pressing them down slightly to extract juices (if not pre-washed).",
+    "Pour enough water to cover all ingredients in the pressure cooker. Close lid and seal valve as per your pressure cooker's instructions for a high-pressure cooking time of about 10 minutes.",
+    "Once cooking is done, quick release the pressure manually by opening the valve or using an automatic method such as turning off heat, waiting until it naturally releases pressure (this could take up to 20-30 minutes), and then carefully lifting the lid. Allow the mixture to cool slightly before mashing or crumbing.",
+    "Serve with crusty bread or a side salad for a complete meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crumbly-middle-eastern-dish",
+    "herbal-mushroom-crumble",
+    "lazy-sunday-meal",
+    "pressure-cook-friendly",
+    "fodmap-friendly"
+  ],
+  "nutrition": {
+    "calories": 375,
+    "protein": 18,
+    "carbs": 26,
+    "fat": 14
+  },
+  "slug": "crumbly-middle-eastern-mushrooms-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-middle-eastern-mushrooms-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T13:07:03Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crumbly",
+    "mood": "lazy-sunday",
+    "technique": "pressure-cook",
+    "primaryIngredient": "wild mushrooms",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Mushrooms",
+    "descriptor": "Crumbly",
+    "dishForm": "Crumble"
+  }
+}
