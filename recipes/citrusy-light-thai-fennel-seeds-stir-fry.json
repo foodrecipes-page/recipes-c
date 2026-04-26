@@ -1,0 +1,88 @@
+{
+  "title": "Citrusy Light Thai Fennel Seeds Stir-fry",
+  "description": "A light and citrusy Thai-inspired dish featuring fennel seeds in a flavorful bhuna sauce with raw-friendly options.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fennel seeds",
+      "amount": "1 tablespoon",
+      "notes": "lightly toasted for added flavor"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "1 tablespoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup",
+      "notes": "low sodium if preferred"
+    },
+    {
+      "name": "ginger",
+      "amount": "a few slices",
+      "notes": "freshly grated or minced"
+    },
+    {
+      "name": "scallions",
+      "amount": "2-3, finely chopped",
+      "notes": "raw-friendly option for added crunch"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup, finely chopped",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Toast fennel seeds lightly in a dry skillet until fragrant and slightly golden.",
+    "Combine lime juice, tamarind paste, and soy sauce in a small bowl. Stir in toasted fennel seeds.",
+    "Add sliced ginger to the mixture and let it simmer for about 1 minute.",
+    "Stir-fry scallions and chopped cilantro together until wilted but still crisp.",
+    "Taste and adjust seasoning as needed, adding more lime juice or soy sauce if desired.",
+    "Garnish with fresh herbs like cilantro or mint before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "light",
+    "thai",
+    "bhuna",
+    "fennel seeds"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 3,
+    "carbs": 12,
+    "fat": 1
+  },
+  "slug": "citrusy-light-thai-fennel-seeds-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-light-thai-fennel-seeds-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T05:46:48Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "light",
+    "mood": "light",
+    "technique": "bhuna",
+    "primaryIngredient": "fennel seeds",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "fennel seeds",
+    "descriptor": "Citrusy Light",
+    "dishForm": "Stir-fry"
+  }
+}
