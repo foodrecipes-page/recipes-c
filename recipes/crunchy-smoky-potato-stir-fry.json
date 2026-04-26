@@ -1,0 +1,99 @@
+{
+  "title": "Crunchy Smoky Potato Stir-fry",
+  "description": "A full-fat sour cream-based dish with a smoky flavor and crunchy texture, this Norwegian-inspired recipe is jain-friendly and suitable for show-offs.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large potatoes"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/4 cup full-fat sour cream"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "a few for smokiness"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup low-sodium soy sauce"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "tadka seasoning (optional)",
+      "amount": "2 teaspoons"
+    }
+  ],
+  "instructions": [
+    "Peel and cut the potatoes into thin slices or coins.",
+    "In a pan, heat vegetable oil over medium-high heat. Add potato slices and sauté until golden brown, about 5-7 minutes per side.",
+    "Add chopped garlic, chili flakes, salt, pepper, and soy sauce to the pan. Stir well.",
+    "Pour in tomato paste and continue stirring for another minute or so until it thickens slightly.",
+    "Mix in sour cream, and balsamic vinegar. Stir until all ingredients are combined evenly.",
+    "For a tadka variation, heat sesame oil over medium flame, add tadka seasoning, cumin seeds, mustard seeds, and curry leaves. Pour this mixture on the stir-fry potatoes and mix well.",
+    "Reduce heat to low and let it simmer for about 5 minutes to meld all flavors together."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy-smoky-potato-stir-fry",
+    "full-fat-sour-cream",
+    "smoky-norwegian-dish",
+    "jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 264,
+    "protein": 5.8,
+    "carbs": 17.3,
+    "fat": 12.9
+  },
+  "slug": "crunchy-smoky-potato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-smoky-potato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T08:05:49Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crunchy",
+    "mood": "show-off",
+    "technique": "tadka",
+    "primaryIngredient": "full fat sour cream",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Potato",
+    "descriptor": "Smoky Crunchy Show-off",
+    "dishForm": "Stir-fry"
+  }
+}
