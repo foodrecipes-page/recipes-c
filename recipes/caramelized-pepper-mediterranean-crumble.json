@@ -1,0 +1,81 @@
+{
+  "title": "Caramelized Pepper Mediterranean Crumble",
+  "description": "A crunchy, savory dish with a sweet twist, perfect for brunch. This low-calorie-friendly recipe features caramelized peppers and combines them with fresh herbs and spices in a crumbly topping.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Sweet Bell Peppers",
+      "amount": "1 (medium-sized)",
+      "notes": "Halved and seeded"
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "1 cup low-fat",
+      "notes": "Stir in a pinch of cayenne pepper for extra kick"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "Extra-virgin olive oil"
+    },
+    {
+      "name": "Fresh Herbs (Chopped)",
+      "amount": "1 cup total (basil, dill, parsley)",
+      "notes": null
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "amount": "2 tbsp",
+      "notes": "Reduce to 1 tbsp"
+    },
+    {
+      "name": "Minced Garlic",
+      "amount": "3 cloves",
+      "notes": "Sliced thinly"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat, add bell peppers and cook until tender (about 5 minutes). Season with salt.",
+    "Reduce the cooking down to low for an additional 10-15 minutes. Stir occasionally to prevent sticking.",
+    "In another pan, sauté garlic until fragrant, then whisk in red wine vinegar; reduce by half.",
+    "Mix cooked peppers and reduced sauce together thoroughly. Add Greek yogurt and fresh herbs; mix well."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "caramelized-pepper",
+    "crumble",
+    "mediterranean-dish",
+    "reduced-sweet",
+    "sweet-topping"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 12,
+    "fat": 6
+  },
+  "slug": "caramelized-pepper-mediterranean-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/caramelized-pepper-mediterranean-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T04:37:53Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crumbly",
+    "mood": "brunch-mood",
+    "technique": "reduce",
+    "primaryIngredient": "caramel",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "pepper",
+    "descriptor": "Caramelized",
+    "dishForm": "Crumble"
+  }
+}
