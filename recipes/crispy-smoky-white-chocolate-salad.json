@@ -1,0 +1,74 @@
+{
+  "title": "Crispy Smoky White Chocolate Salad",
+  "description": "A fresh and light Norwegian dish featuring crisp white chocolate leaves marinated in smoke for a unique twist on a traditional salad.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "White Chocolate",
+      "amount": "100g"
+    },
+    {
+      "name": "Salted Caramel Syrup",
+      "amount": "50ml"
+    },
+    {
+      "name": "Fresh Herbs (parsley, thyme)",
+      "amount": "Handful"
+    },
+    {
+      "name": "Avocado Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Smoke Flakes",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Prepare the white chocolate leaves by finely chopping it.",
+    "Soak the white chocolate in salted caramel syrup for at least 5 minutes, until fully coated and melted slightly.",
+    "Preheat oven to 200°C (392°F).",
+    "Drizzle a little avocado oil over the soiled white chocolate and sprinkle with smoke flakes.",
+    "Place on preheated baking sheet and bake for about 10-15 minutes, or until crispy. Turn off heat but leave it inside to cool down.",
+    "Gently remove from oven, allowing them to cool slightly before serving in a fresh green salad leaves."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy-white-chocolate-salad",
+    "smoky-white-chocolate",
+    "low-carb-friendliness",
+    "fresh-and-light-norwegian-dish"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 15,
+    "carbs": 2,
+    "fat": 25
+  },
+  "slug": "crispy-smoky-white-chocolate-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-smoky-white-chocolate-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T18:24:56Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "smoke",
+    "primaryIngredient": "white chocolate",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "white chocolate",
+    "descriptor": "Crispy Smoky",
+    "dishForm": "Salad"
+  }
+}
