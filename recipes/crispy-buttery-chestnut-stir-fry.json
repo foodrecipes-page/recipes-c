@@ -1,0 +1,82 @@
+{
+  "title": "Crispy Buttery Chestnut Stir-fry",
+  "description": "A show-off American dish featuring crispy and buttery chestnuts in a savory stir-fry that is keto-friendly.",
+  "cuisine": "American",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chestnuts",
+      "amount": "200g"
+    },
+    {
+      "name": "Egg Whites",
+      "amount": "4 pieces",
+      "notes": "Use room temperature for best results."
+    },
+    {
+      "name": "Avocado Oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Red Pepper Flakes (or Chili Powder)",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C.",
+    "Wrap chestnuts in aluminum foil and bake for 30 minutes until soft.",
+    "While chestnuts are baking, peel garlic cloves and lightly press them with the back of a knife to create an even smaller size.",
+    "Beat egg whites until fluffy using an electric mixer or whisk. Set aside.",
+    "Add oil into a non-stick skillet over medium-high heat. When oil is hot, add garlic and red pepper flakes.",
+    "Add beaten egg whites and mix quickly for about 30 seconds to form ribbons.",
+    "Stir in chestnuts and sesame seeds, tossing well until coated with the egg mixture.",
+    "Reduce heat to low and continue cooking for another minute. Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "buttery",
+    "chestnut",
+    "stir-fry",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 9,
+    "carbs": 4,
+    "fat": 8
+  },
+  "slug": "crispy-buttery-chestnut-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-buttery-chestnut-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T05:55:27Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crispy",
+    "mood": "show-off",
+    "technique": "knead",
+    "primaryIngredient": "chestnuts",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "chestnuts",
+    "descriptor": "buttery crispy show-off",
+    "dishForm": "Stir-fry"
+  }
+}
