@@ -1,0 +1,82 @@
+{
+  "title": "Crunchy Thai Date Crumble",
+  "description": "A graham cracker and date-based dessert that is both crunchy and vegan-friendly for a perfect snack or sweet end to your meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegan",
+    "jain-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Graham Cracker crumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Dates",
+      "amount": "6-8 pieces, pitted and finely chopped"
+    },
+    {
+      "name": "Almond Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Honey or Agave Syrup",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Combine the graham cracker crumbs, chopped dates, almond butter, honey or agave syrup, coconut oil, cinnamon, and a pinch of salt in a mixing bowl.",
+    "Use hands to mix everything until it forms a soft dough. Roll out small balls using your hands, then place them on a baking sheet lined with parchment paper.",
+    "Bake for 10-12 minutes or until the edges start to brown slightly. Let cool completely before serving.",
+    "Optional: Dust with powdered sugar and sprinkle crushed peanuts for an extra crunch."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crumble",
+    "thai",
+    "jain-friendly",
+    "fermented"
+  ],
+  "nutrition": {
+    "calories": 165,
+    "protein": 3,
+    "carbs": 24,
+    "fat": 7
+  },
+  "slug": "crunchy-thai-date-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-thai-date-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T18:15:44Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crunchy",
+    "mood": "date-night",
+    "technique": "fold",
+    "primaryIngredient": "graham cracker crumbs",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Dates",
+    "descriptor": "Crunchy",
+    "dishForm": "Crumble"
+  }
+}
