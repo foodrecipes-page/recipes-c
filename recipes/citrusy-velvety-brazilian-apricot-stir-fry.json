@@ -1,0 +1,79 @@
+{
+  "title": "Citrusy Velvety Brazilian Apricot Stir-fry",
+  "description": "This low-calorie-friendly dish features a rich apricot jam that’s simmered with citrus and served as a velvety side dish for an eye-catching presentation.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Apricot Jam",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Orange Juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "2 teaspoons"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine apricot jam, orange juice, lemon zest, and all-purpose flour.",
+    "Bring to a boil over medium heat, stirring constantly until the mixture thickens slightly.",
+    "Reduce heat to low, add sour cream and stir until well combined.",
+    "Simmer for an additional 2 minutes or until smooth.",
+    "Serve warm as a creamy dessert side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "apricot-jam",
+    "orange-juice",
+    "lemon-zest",
+    "milk-sour-cream",
+    "all-purpose-flour"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 4
+  },
+  "slug": "citrusy-velvety-brazilian-apricot-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-velvety-brazilian-apricot-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T18:00:16Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "velvety",
+    "mood": "crowd-pleaser",
+    "technique": "simmer",
+    "primaryIngredient": "apricot jam",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Apricot",
+    "descriptor": "Citrusy Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
