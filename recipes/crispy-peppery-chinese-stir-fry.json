@@ -1,0 +1,91 @@
+{
+  "title": "Crispy Peppery Chinese Stir-fry",
+  "description": "A monsoon-inspired gluten-free Chinese dish featuring pickled vegetables, caramelized garlic, and a spicy kick.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "green onion",
+      "amount": "2 green onions",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 small",
+      "notes": "julienned"
+    },
+    {
+      "name": "pickled vegetables (such as daikon)",
+      "amount": "60g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "slivered thinly"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large skillet over high heat. Add oil and swirl to coat.",
+    "Add garlic, ginger, and red bell pepper; stir-fry for about 1 minute until fragrant.",
+    "Toss in the carrots and continue cooking for another 2 minutes.",
+    "Sprinkle cornstarch into a small bowl with water, then pour it over vegetables. Stir until thickened.",
+    "Add pickled vegetables, green onion, and soy sauce; stir-fry for an additional minute.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stir-fry",
+    "gluten-free",
+    "peppery",
+    "caramelized"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 9
+  },
+  "slug": "crispy-peppery-chinese-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-peppery-chinese-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T18:17:23Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crisp",
+    "mood": "monsoon",
+    "technique": "caramelize",
+    "primaryIngredient": "pickles",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Pepper",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
