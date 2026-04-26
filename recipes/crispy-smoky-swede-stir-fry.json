@@ -1,0 +1,88 @@
+{
+  "title": "Crispy Smoky Swede Stir-fry",
+  "description": "A cozy Norwegian dish featuring crispy swede (also known as rutabaga) cooked in a smoky sauce with a touch of spice and served as a side or light meal.",
+  "cuisine": "Norwegian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Swede",
+      "amount": "1 medium sized",
+      "notes": "Choose ones that are firm with some sweetness."
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Minced Garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Smoky Sauce Mix (optional)",
+      "amount": "Follow instructions on the packet of sauce or use your favorite blend."
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "To taste"
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "A pinch"
+    },
+    {
+      "name": "Nutritional Yeast",
+      "amount": "1 tablespoon (optional)"
+    },
+    {
+      "name": "Rice Wine Vinegar or Apple Cider Vinegar",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Wash the swede and peel it. Slice into thin strips, about 0.5 cm thick.",
+    "Heat oil in a pan over medium heat. Add swede slices and cook until they start to turn golden brown on one side, then flip them over.",
+    "Add minced garlic to the pan and stir for 30 seconds until fragrant.",
+    "If using a smoky sauce mix, add it now and stir well into the swede mixture. If not, continue with the next step.",
+    "Season with salt, pepper, and chili flakes to taste. Stir again to combine seasoning evenly throughout the dish.",
+    "Add Nutritional Yeast for extra umami flavor if desired.",
+    "Pour in vinegar and stir until the liquid is absorbed by the swede, creating a slightly thicker sauce consistency.",
+    "Remove from heat once all ingredients are fully combined and cooked through. Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "crispy",
+    "norwegian",
+    "cozy",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 2.5,
+    "carbs": 23,
+    "fat": 6
+  },
+  "slug": "crispy-smoky-swede-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-smoky-swede-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T07:26:11Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crispy",
+    "mood": "cozy",
+    "technique": "fold",
+    "primaryIngredient": "swede",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Swede",
+    "descriptor": "Crispy Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
