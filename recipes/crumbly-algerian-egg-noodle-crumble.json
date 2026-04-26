@@ -1,0 +1,96 @@
+{
+  "title": "Crumbly Algerian Egg Noodle Crumble",
+  "description": "A rich and crumbly meal-prep algerian dish featuring egg noodles braised with aromatic spices for a diabetic-friendly option.",
+  "cuisine": "Algerian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Egg Noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced finely"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "15ml"
+    },
+    {
+      "name": "Cumin Seed",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Coriander Seed",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch"
+    },
+    {
+      "name": "Pepper",
+      "amount": "Pinch"
+    },
+    {
+      "name": "Water or Chicken Broth",
+      "amount": "200ml"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a saucepan over medium heat.",
+    "Add chopped onion and minced garlic, sauté for about 3 minutes until softened.",
+    "Stir in tomato paste, cumin seeds, coriander seeds, salt, and pepper. Cook for another minute to meld flavors.",
+    "Gradually add water or chicken broth while stirring continuously to prevent lumps from forming.",
+    "Bring the sauce to a simmer then reduce heat to low.",
+    "Add egg noodles and cook until tender yet still al dente (about 10-12 minutes), tossing occasionally.",
+    "Remove from heat and let sit for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian-dish",
+    "egg-noodle-crumbles",
+    "diabetic-friendly-meal"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 16,
+    "carbs": 72,
+    "fat": 9
+  },
+  "slug": "crumbly-algerian-egg-noodle-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-algerian-egg-noodle-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T07:15:21Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crumbly",
+    "mood": "meal-prep",
+    "technique": "braise",
+    "primaryIngredient": "egg noodles",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "egg noodle",
+    "descriptor": "Crumbly",
+    "dishForm": "Crumble"
+  }
+}
