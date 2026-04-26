@@ -1,0 +1,79 @@
+{
+  "title": "Citrusy Crispy Saudi Oat Crumble",
+  "description": "A kid-friendly and citrusy breakfast dish featuring crispy oats crumbled over a base of saudi arabian spices.",
+  "cuisine": "Saudi Arabian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Oatmeal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Honey or Maple Syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Ground Cinnamon",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Ground Cloves",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "A pinch"
+    },
+    {
+      "name": "Citrus Zest (lemon or orange)",
+      "amount": "3 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl, combine oatmeal, sesame seeds, honey/syrup, ground cinnamon, ground cloves, and salt.",
+    "Stir in the citrus zest until evenly distributed.",
+    "Pour the mixture into an oven-safe dish or skillet lined with parchment paper for easy cleanup.",
+    "Bake at 350°F (175°C) for about 20-25 minutes or until golden brown and crispy on top.",
+    "Let cool slightly before serving, garnished with extra citrus zest if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "crispy",
+    "kiddie-friendly",
+    "saudi-arabian"
+  ],
+  "nutrition": {
+    "calories": 107,
+    "protein": 2.8,
+    "carbs": 16.5,
+    "fat": 4.9
+  },
+  "slug": "citrusy-crispy-saudia-oat-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-crispy-saudia-oat-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T11:59:25Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crispy",
+    "mood": "kid-friendly",
+    "technique": "fold",
+    "primaryIngredient": "oats",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "oat",
+    "descriptor": "Citrusy Crispy",
+    "dishForm": "Crumble"
+  }
+}
