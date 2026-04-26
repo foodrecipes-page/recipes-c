@@ -1,0 +1,75 @@
+{
+  "title": "Crunchy Fermented Treacle Chinese Stir-fry",
+  "description": "A lazy Sunday Chinese (Hunan) dish featuring treacle that's crunchy and flavorful, perfect for a festive meal.",
+  "cuisine": "Chinese (Hunan)",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "50g fermented tofu",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "1/4 cup halal soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "2 tablespoons sesame oil",
+      "amount": "2 Tbsp"
+    },
+    {
+      "name": "1/4 cup finely chopped spring onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "1 tablespoon finely chopped ginger",
+      "amount": "1 Tbsp"
+    },
+    {
+      "name": "1 clove garlic, minced (halal)",
+      "amount": "1 clove"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a wok over medium-high heat.",
+    "Add fermented tofu and cook until golden brown on all sides.",
+    "Reduce heat to low and add halal soy sauce, spring onions, ginger, and garlic. Stir-fry for another minute.",
+    "Remove from heat immediately to maintain crunchiness.",
+    "Serve hot with steamed rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "fermented-tofu",
+    "hunan-chinese",
+    "lazy-sunday"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 9,
+    "carbs": 18,
+    "fat": 6
+  },
+  "slug": "crunchy-fermented-treacle-chinese-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-fermented-treacle-chinese-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T01:24:36Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crunchy",
+    "mood": "lazy-sunday",
+    "technique": "rest",
+    "primaryIngredient": "treacle",
+    "diet": "halal",
+    "region": "hunan",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Treacle",
+    "descriptor": "Fermented Crunchy Lazy-Sunday",
+    "dishForm": "Stir-fry"
+  }
+}
