@@ -1,0 +1,88 @@
+{
+  "title": "Citrusy Crispy American Prawns Salad",
+  "description": "A show-off dish featuring king prawns with a citrusy dressing and crispy texture, perfect for those craving something new and exciting.",
+  "cuisine": "American",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "1 lb (450g) king prawns",
+      "amount": "fresh"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "medium"
+    },
+    {
+      "name": "Juice of 1 orange",
+      "amount": "large"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "large"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "medium"
+    },
+    {
+      "name": "1 teaspoon honey",
+      "notes": "for sweetness, optional"
+    },
+    {
+      "name": "2 tablespoons fresh parsley, chopped",
+      "amount": "small handful"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Clean the prawns thoroughly under cold running water.",
+    "Combine olive oil with citrus juices in a mixing bowl.",
+    "Add honey if using, then stir in chopped parsley.",
+    "Season with salt and pepper to taste.",
+    "Heat a skillet over medium-high heat. Add cleaned prawns.",
+    "Cook for about 1 minute on each side until the outside is golden brown and crispy.",
+    "Remove from heat and pour the citrus dressing over prawns.",
+    "Serve immediately as an appetizer or snack."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 5,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "crispy",
+    "king-prawns",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 261,
+    "protein": 29,
+    "carbs": 7,
+    "fat": 15
+  },
+  "slug": "citrusy-crispy-american-prawns-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-crispy-american-prawns-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T05:28:44Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crispy",
+    "mood": "show-off",
+    "technique": "rest",
+    "primaryIngredient": "king prawns",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Prawns",
+    "descriptor": "Citrusy Crispy",
+    "dishForm": "Salad"
+  }
+}
