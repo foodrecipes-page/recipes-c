@@ -1,0 +1,96 @@
+{
+  "title": "Creamy Midnight Craving Syrian Galangal Stir-fry",
+  "description": "A low-calorie-friendly, creamy and umami-rich dish featuring caramelized galangal, perfect for midnight cravings. This Syrian-inspired dish combines savory flavors with a touch of sweetness.",
+  "cuisine": "Syrian",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup thinly sliced galangal",
+      "amount": "",
+      "notes": "Ensure it's well washed and trimmed."
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "",
+      "notes": "For sautéing and stir-frying."
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "4 garlic cloves, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "",
+      "notes": "To add depth of flavor."
+    },
+    {
+      "name": "1/2 cup unsweetened almond milk or coconut milk",
+      "amount": "",
+      "notes": "For a creamy texture."
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Juice of half a lemon (optional)",
+      "amount": "",
+      "notes": "For acidity and brightness."
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a non-stick skillet over medium heat. Add sliced galangal and sauté until they start to brown, about 5 minutes.",
+    "Add finely chopped onion and minced garlic; cook for an additional 3-4 minutes or until onions become translucent.",
+    "Stir in ground cumin and salt; cook for another minute to let the spices infuse into the vegetables.",
+    "Pour in unsweetened almond milk or coconut milk. Stir gently, bring it to a simmer, then reduce heat to low.",
+    "Cook uncovered for about 10 minutes until the sauce has slightly thickened and galangal is tender.",
+    "If desired, add lemon juice to taste and stir well. Cook for another minute if necessary to meld flavors together.",
+    "Serve hot as a side dish or with rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "midnight",
+    "craving",
+    "galangal",
+    "caramelized",
+    "syrian"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 7,
+    "carbs": 23,
+    "fat": 4
+  },
+  "slug": "creamy-midnight-craving-syrian-galangal-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-midnight-craving-syrian-galangal-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T15:26:40Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "caramelize",
+    "primaryIngredient": "galangal",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Galangal",
+    "descriptor": "Creamy Midnight Craving",
+    "dishForm": "Stir-fry"
+  }
+}
