@@ -1,0 +1,76 @@
+{
+  "title": "Chewy Tangy German Beef Stir-fry with Chimichurri Sauce",
+  "description": "A romantic German dish featuring tender poached beef paired with tangy chimichurri sauce for a high-protein-friendly meal.",
+  "cuisine": "German",
+  "diet": [
+    "high-protein",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef sirloin fillet",
+      "amount": "200g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4"
+    },
+    {
+      "name": "Chimichurri sauce ingredients",
+      "amount": "to taste"
+    },
+    {
+      "name": "Vegetable oil or butter",
+      "amount": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Poach the beef in a small amount of water until cooked through.",
+    "Meanwhile, mince the onion and garlic finely.",
+    "Add minced onions and garlic to the pan with some vegetable oil or butter. Cook for about 5 minutes on medium heat.",
+    "Season the poached beef with salt and pepper.",
+    "Stir in chimichurri sauce (adjust according to taste).",
+    "Mix all ingredients together thoroughly, ensuring the beef is evenly coated.",
+    "Serve hot as a main course or side dish."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "beef",
+    "stir-fry",
+    "high-protein-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "chewy-tangy-german-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-tangy-german-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T19:12:23Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "chewy",
+    "mood": "romantic",
+    "technique": "poach",
+    "primaryIngredient": "chimichurri sauce",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "beef",
+    "descriptor": "Chewy Tangy",
+    "dishForm": "Stir-fry"
+  }
+}
