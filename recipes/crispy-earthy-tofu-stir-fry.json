@@ -1,0 +1,92 @@
+{
+  "title": "Crispy Earthy Tofu Stir-fry",
+  "description": "A cozy Vietnamese dish featuring crispy tofu and earthy flavors from Demerara sugar in a slow-cooked, dash-friendly recipe.",
+  "cuisine": "Vietnamese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 block (200g) extra-firm tofu",
+      "amount": "",
+      "notes": "Press to remove excess water"
+    },
+    {
+      "name": "2 tbsp vegetable oil",
+      "amount": ""
+    },
+    {
+      "name": "1 tsp Demerara sugar",
+      "amount": ""
+    },
+    {
+      "name": "2 garlic cloves, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 small red onion, finely chopped",
+      "amount": ""
+    },
+    {
+      "name": "1 bell pepper (any color), sliced",
+      "amount": ""
+    },
+    {
+      "name": "1 tsp ground coriander seeds",
+      "amount": ""
+    },
+    {
+      "name": "1/2 tsp ground cinnamon",
+      "amount": ""
+    },
+    {
+      "name": "1 bay leaf",
+      "amount": ""
+    },
+    {
+      "name": "Salt to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Press the tofu to remove excess water. Cut into small cubes.",
+    "Heat oil in a wok or large skillet over medium-high heat. Add sugar and cook until golden, stirring constantly for about 1 minute.",
+    "Add garlic, red onion, bell pepper, coriander seeds, cinnamon, bay leaf, and salt. Stir-fry for 2-3 minutes.",
+    "Add tofu cubes to the wok, reduce heat to medium, cover, and simmer for 5-7 minutes or until the tofu is crispy on the outside and soft inside.",
+    "Stir occasionally and adjust seasoning as needed. Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "cozy",
+    "dash-friendly",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 8,
+    "fat": 9
+  },
+  "slug": "crispy-earthy-tofu-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-earthy-tofu-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T19:19:01Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crispy",
+    "mood": "cozy",
+    "technique": "slow-cook",
+    "primaryIngredient": "demerara sugar",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Tofu",
+    "descriptor": "Earthy Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
