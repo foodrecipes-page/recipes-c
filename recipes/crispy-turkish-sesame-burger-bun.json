@@ -1,0 +1,81 @@
+{
+  "title": "Crispy Turkish Sesame Burger Bun",
+  "description": "This high-protein-friendly meal-prep recipe features crispy sesame seed burger buns that are perfect for a quick breakfast or snack.",
+  "cuisine": "Turkish",
+  "diet": [
+    "high-protein",
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "3/4 cup",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat vegetable oil in a large skillet over medium heat.",
+    "In a large mixing bowl, combine flour and baking powder. Add water and mix until dough forms.",
+    "Form the dough into small balls and flatten them slightly using your hands to create bun shapes.",
+    "Fry each bread roll in hot oil for about 1-2 minutes or until golden brown on both sides.",
+    "Remove from heat and let it cool before adding sesame seeds. Toss gently so they stick evenly.",
+    "Serve immediately while still warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "sesame",
+    "buns",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 19,
+    "fat": 5
+  },
+  "slug": "crispy-turkish-sesame-burger-bun",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-turkish-sesame-burger-bun",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T22:09:36Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crisp",
+    "mood": "meal-prep",
+    "technique": "braise",
+    "primaryIngredient": "sesame seed burger buns",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "sesame",
+    "descriptor": "Crispy",
+    "dishForm": "Burger Bun"
+  }
+}
