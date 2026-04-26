@@ -1,0 +1,80 @@
+{
+  "title": "Crunchy Smoky Tamarind Filipino Crumbl",
+  "description": "A light Filipino crumbly dish featuring fermented tamarind paste with a smoky kick from sichuan pepper and served as a savory snack or breakfast treat.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fermented tamarind paste",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "all-purpose flour (for dusting)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sichuan peppercorns",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tamarind concentrate syrup",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Mix all ingredients in a large bowl until smooth and well combined.",
+    "Form the mixture into small balls, about golf ball size, then dust with additional flour on both sides.",
+    "Place the crumbls on a baking sheet lined with parchment paper.",
+    "Broil for 10 minutes or until golden brown.",
+    "Remove from oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "crumbl",
+    "fermented-tamarind",
+    "sichuan-pepper",
+    "light-dish"
+  ],
+  "nutrition": {
+    "calories": 205,
+    "protein": 3.4,
+    "carbs": 26.9,
+    "fat": 1.7
+  },
+  "slug": "crunchy-smoky-tamarind-filipino-crumbl",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-smoky-tamarind-filipino-crumbl",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T21:01:46Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crunchy",
+    "mood": "light",
+    "technique": "broil",
+    "primaryIngredient": "sichuan pepper",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Tamarind",
+    "descriptor": "Crunchy Smoky",
+    "dishForm": "Crumble"
+  }
+}
