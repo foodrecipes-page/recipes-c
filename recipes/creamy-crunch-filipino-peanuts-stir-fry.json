@@ -1,0 +1,87 @@
+{
+  "title": "Creamy Crunch Filipino Peanuts Stir-fry",
+  "description": "A nutty and juicy monsoon dish featuring sherry vinegar, ferment, with a crunchy texture that pairs well with the creamy sauce.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup roasted peanuts",
+      "amount": "cup"
+    },
+    {
+      "name": "3 tablespoons sherry vinegar",
+      "amount": "tbsp"
+    },
+    {
+      "name": "2 tablespoons fermented black beans paste",
+      "amount": "tbsp"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "1/4 cup vegetable oil",
+      "amount": "cup"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "lime juice"
+    },
+    {
+      "name": "1 teaspoon soy sauce (optional)",
+      "amount": "tsp"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a wok or skillet over medium-high heat.",
+    "Add peanuts and cook until they start to turn golden brown, about 2 minutes.",
+    "Add garlic and stir for another minute until fragrant.",
+    "Pour in sherry vinegar and lime juice, reduce heat to low and let it simmer for about 5-7 minutes.",
+    "If desired, add soy sauce and salt. Mix well and cook for an additional minute or two.",
+    "Turn off the heat and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cream",
+    "crunchy",
+    "filipino",
+    "peanuts",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 358,
+    "protein": 6,
+    "carbs": 14,
+    "fat": 10
+  },
+  "slug": "creamy-crunch-filipino-peanuts-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-crunch-filipino-peanuts-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T14:07:49Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "juicy",
+    "mood": "monsoon",
+    "technique": "ferment",
+    "primaryIngredient": "sherry vinegar",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "peanuts",
+    "descriptor": "Creamy Crunch",
+    "dishForm": "Stir-fry"
+  }
+}
