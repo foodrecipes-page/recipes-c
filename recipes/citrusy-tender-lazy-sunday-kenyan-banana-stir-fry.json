@@ -1,0 +1,95 @@
+{
+  "title": "Citrusy Tender Lazy-Sunday Kenyan Banana Stir-fry",
+  "description": "A Mediterranean-friendly, citrusy, tender dish featuring banana in a lazy Sunday style, perfect for a quick and easy meal.",
+  "cuisine": "Kenyan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bananas",
+      "amount": "2 large",
+      "notes": "Firm bananas are best"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 small",
+      "notes": "Chopped finely for easier cooking"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": "Minced to add flavor and aroma"
+    },
+    {
+      "name": "Sour oranges or lemons",
+      "amount": "Juice of 1",
+      "notes": "Citrus enhances the dish but optional for a milder version"
+    },
+    {
+      "name": "Peanuts (optional)",
+      "amount": "2 tablespoons",
+      "notes": "For added crunch and flavor"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": "For stir-frying and sautéing"
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste",
+      "notes": "Can be adjusted to preference"
+    },
+    {
+      "name": "Herbs (optional)",
+      "amount": "A few sprigs of fresh basil or mint, finely chopped",
+      "notes": "For extra flavor and aroma"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a non-stick skillet over medium heat.",
+    "Add chopped onions and sauté until translucent, about 2 minutes.",
+    "Add minced garlic and stir for an additional minute until fragrant.",
+    "Gently add sliced bananas into the skillet. Cook them for about 5-7 minutes, stirring occasionally to prevent sticking.",
+    "If using, add chopped peanuts and cook for another minute until they become golden brown.",
+    "Drizzle the citrus juice over the dish and stir well to evenly distribute flavor.",
+    "Season with salt to taste. If desired, sprinkle fresh herbs on top just before serving.",
+    "Serve hot as a side or main course."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lazy-sunday",
+    "citrusy",
+    "tender",
+    "banananasty",
+    "mediterranean-friendly"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 4,
+    "carbs": 37,
+    "fat": 8
+  },
+  "slug": "citrusy-tender-lazy-sunday-kenyan-banana-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-tender-lazy-sunday-kenyan-banana-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T13:20:26Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "tender",
+    "mood": "lazy-sunday",
+    "technique": "simmer",
+    "primaryIngredient": "banana",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "banana",
+    "descriptor": "citrusy tender lazy-sunday",
+    "dishForm": "Stir-fry"
+  }
+}
