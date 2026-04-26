@@ -1,0 +1,67 @@
+{
+  "title": "Cozy Crunchy Indian Pomegranate Seeds Crumble",
+  "description": "A cozy and crunchy dish featuring pomegranate seeds mixed with extra virgin olive oil for a diabetic-friendly breakfast option.",
+  "cuisine": "Indian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "pomegranate seeds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Rinse the pomegranate seeds and pat them dry with a paper towel.",
+    "In a small bowl, mix the olive oil, salt, and ground cinnamon together until well combined. Add the pomegranate seeds to the mixture and fold gently but thoroughly to ensure all seeds are coated evenly.",
+    "Transfer the crumble into a baking dish or shallow container for serving. The crumble can be served as is or with yogurt or fruit if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "cozy-indian-dish",
+    "crunchy-pomegranate-seeds",
+    "olive-oil-crumble",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 45,
+    "protein": 0,
+    "carbs": 12,
+    "fat": 6
+  },
+  "slug": "cozy-crunchy-indian-pomegranate-seeds-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-crunchy-indian-pomegranate-seeds-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T02:06:00Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crunchy",
+    "mood": "cozy",
+    "technique": "fold",
+    "primaryIngredient": "extra virgin olive oil",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "pomegranate seeds",
+    "descriptor": "Cozy Crunchy",
+    "dishForm": "Crumble"
+  }
+}
