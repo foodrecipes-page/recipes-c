@@ -1,0 +1,104 @@
+{
+  "title": "Creamy Argentinian Beef Stir-fry",
+  "description": "A rich and creamy dish featuring ground cumin, perfect for showing off in a dinner setting. Sugar-free-friendly.",
+  "cuisine": "Argentinean",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "200g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "300ml"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "250ml"
+    },
+    {
+      "name": "Water",
+      "amount": "100ml"
+    },
+    {
+      "name": "Ground Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "½ tsp (optional)"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tbsp (optional, for sweetness adjustment)"
+    }
+  ],
+  "instructions": [
+    "Slice the beef into thin strips and set aside.",
+    "Finely chop the onion and mince the garlic.",
+    "In a large skillet or wok, heat 2 tablespoons of olive oil over medium-high heat.",
+    "Add the chopped onions to the skillet and sauté until translucent.",
+    "Fold in minced garlic and cook for another minute until fragrant.",
+    "Season with ground cumin and red pepper flakes if using. Add a pinch of sugar (for those who prefer a little sweetness) to taste, then toss everything together thoroughly.",
+    "Drain the tomato sauce through a sieve or cheesecloth to remove excess liquid, then add it to the skillet along with 100ml of water.",
+    "Bring the mixture to a boil and let simmer for about 5 minutes until slightly thickened.",
+    "Pour in the heavy cream and stir well. Cook for another 3-4 minutes or until the sauce reaches desired consistency.",
+    "Add the beef strips, reduce heat to low, cover, and cook for an additional 10 minutes until the beef is fully cooked.",
+    "Remove from heat and serve hot over rice or as a side dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinean-beef-stir-fry",
+    "creamy-dish",
+    "ground-cumin",
+    "bhuna-style",
+    "sugar-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 23,
+    "carbs": 28,
+    "fat": 18
+  },
+  "slug": "creamy-argentinian-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-argentinian-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T22:14:58Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "creamy",
+    "mood": "show-off",
+    "technique": "bhuna",
+    "primaryIngredient": "ground cumin",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Beef",
+    "descriptor": "Creamy",
+    "dishForm": "Stir-fry"
+  }
+}
