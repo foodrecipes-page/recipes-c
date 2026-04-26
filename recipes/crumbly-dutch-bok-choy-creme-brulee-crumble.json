@@ -1,0 +1,78 @@
+{
+  "title": "Crumbly Dutch Bok Choy Creme Brulee Crumble",
+  "description": "A fermented and crumbly dutch dish featuring bok choy, served as a dessert with a caramelized sugar topping.",
+  "cuisine": "Dutch",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Bok Choy",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Almond Flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sliced Almonds",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Coconut Sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Maple Syrup",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "a few drops"
+    }
+  ],
+  "instructions": [
+    "Wash and trim the bok choy, then cut it into bite-sized pieces.",
+    "Mix almond flour with sliced almonds in a small bowl.",
+    "Preheat oven to 350°F (175°C).",
+    "Spread the almond mixture evenly on a baking sheet. Bake for 8-10 minutes until lightly toasted and fragrant.",
+    "In a blender, puree bok choy with maple syrup, lemon zest, and a pinch of salt. Pour into ramekins or small oven-safe dishes.",
+    "Gently pour the almond mixture over the top of each dish to create a crumble effect on top of the creme brulee filling.",
+    "Bake for 20-25 minutes until set but still slightly jiggly in the center. Allow to cool before serving.",
+    "For topping, sprinkle coconut sugar on top and return under oven heat briefly (about 1 minute) until caramelized."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crumble",
+    "dutch",
+    "bok-choi",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 5,
+    "carbs": 23,
+    "fat": 7
+  },
+  "slug": "crumbly-dutch-bok-choy-creme-brulee-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-dutch-bok-choy-creme-brulee-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T17:19:05Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crumbly",
+    "mood": "midnight-craving",
+    "technique": "knead",
+    "primaryIngredient": "bok choi",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Bok choy",
+    "descriptor": "Fermented Crumbly Midnight Craving",
+    "dishForm": "Crumble"
+  }
+}
