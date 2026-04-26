@@ -1,0 +1,90 @@
+{
+  "title": "Chewy Earthy Chinese Leaf Stir-fry",
+  "description": "A monsoon Venezuelan dish featuring chewy and earthy Chinese leaf, reduced in a high-protein-friendly sauce with added vegetables for a satisfying meal.",
+  "cuisine": "Chinese-Venezuelan",
+  "diet": [
+    "high-protein",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese Leaf",
+      "amount": "2 cups fresh"
+    },
+    {
+      "name": "Chives",
+      "amount": "1 handful"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium, sliced thinly"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large, finely chopped"
+    },
+    {
+      "name": "Tofu",
+      "amount": "200g firm, cubed"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Water",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Prepare the tofu by pressing it with paper towels to remove excess water. Pat dry.",
+    "Heat oil in a wok or large skillet over medium-high heat. Add chopped onions and cook until translucent, about 3 minutes.",
+    "Add garlic, chives, red bell pepper, and Chinese leaf. Stir-fry for another 2-3 minutes until the vegetables are slightly softened.",
+    "Pour soy sauce and water into the pan. Reduce the mixture by half while stirring continuously to avoid burning. Cook for 1 minute more.",
+    "Toss in cubed tofu and continue to stir-fry until all ingredients are heated through and evenly coated with the sauce, about 2-3 minutes.",
+    "Serve hot as a main dish or side dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chewy-earthy-dish",
+    "high-protein-friendly",
+    "vegan-chinese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 36,
+    "carbs": 14,
+    "fat": 8
+  },
+  "slug": "chewy-earthy-chinese-leaf-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-earthy-chinese-leaf-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T09:15:52Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "chewy",
+    "mood": "monsoon",
+    "technique": "reduce",
+    "primaryIngredient": "chinese leaf",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Earthy",
+    "mainIngredient": "Chinese Leaf",
+    "descriptor": "Chewy",
+    "dishForm": "Stir-fry"
+  }
+}
