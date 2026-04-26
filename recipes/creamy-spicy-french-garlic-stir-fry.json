@@ -1,0 +1,107 @@
+{
+  "title": "Creamy Spicy French Garlic Stir-fry",
+  "description": "A one-pot French garlic stir-fry dish infused with hot smoked paprika and featuring a creamy texture for a low-calorie-friendly meal.",
+  "cuisine": "French",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Low-Sodium Chicken Broth or Water",
+      "amount": "3 cups"
+    },
+    {
+      "name": "Whole Grain Tamari (or Gluten-Free Soy Sauce)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Freshly Grated Parmesan Cheese",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Hot Smoked Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive Oil (for Stir-Frying)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Celery Sticks",
+      "amount": "2 stalks, finely chopped"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Yellow Onion",
+      "amount": "1 large, thinly sliced"
+    },
+    {
+      "name": "Eggplant Slices (optional)",
+      "amount": "6 slices, about 1/4-inch thick"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add garlic and cook until golden brown, about 2 minutes.",
+    "Stir in celery, onion, red bell pepper, and eggplant if using. Cook for an additional 5 minutes or until vegetables soften slightly.",
+    "Pour in low-sodium chicken broth or water and let it come to a boil.",
+    "Reduce heat to medium-low, stir in tamari and smoked paprika, then gently simmer for about 10 minutes until the flavors have melded together.",
+    "In another bowl, mix together grated Parmesan cheese with 2 tbsp of olive oil. Drizzle this mixture over the vegetables.",
+    "Stir well to coat all vegetables evenly with the melted cheese and tamari sauce, cooking for an additional 3-5 minutes until everything is heated through.",
+    "Remove from heat and serve hot with a side salad or crusty bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "garlicky",
+    "creamy",
+    "french",
+    "spicy",
+    "smoked-paprika",
+    "one-pot",
+    "low-calorie-friendly"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 45,
+    "fat": 18
+  },
+  "slug": "creamy-spicy-french-garlic-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-spicy-french-garlic-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T14:49:55Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "creamy",
+    "mood": "one-pot",
+    "technique": "cure",
+    "primaryIngredient": "hot smoked paprika",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Garlic",
+    "descriptor": "Creamy Spicy",
+    "dishForm": "Stir-fry"
+  }
+}
