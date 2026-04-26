@@ -1,0 +1,84 @@
+{
+  "title": "Creamy Fry Egyptian Lentils",
+  "description": "An earthy and creamy meal-prep dish featuring fry lentils made with passata for a vegetarian-friendly option.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup dried Egyptian lentils",
+      "amount": "cup"
+    },
+    {
+      "name": "3 tablespoons olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 onion, diced",
+      "amount": "medium"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "1 can (8 oz) crushed tomatoes",
+      "amount": "can"
+    },
+    {
+      "name": "1 can (6.75 oz) passata",
+      "amount": "can"
+    },
+    {
+      "name": "1/4 cup fresh parsley, chopped",
+      "amount": "cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "Rinse lentils and pick out any debris. Rinse again under cold water.",
+    "In a large pot, combine lentils with 4 cups of water and bring to boil. Reduce heat to low, cover, and simmer until tender, about 20 minutes.",
+    "Add olive oil, onion, garlic, and continue cooking over medium heat for about 5 minutes or until the onions are translucent.",
+    "Stir in crushed tomatoes and passata. Simmer for an additional 10 minutes.",
+    "Fold in parsley and lentils into the sauce, adjust seasoning with salt and pepper to taste. Cook for another minute.",
+    "Transfer lentil mixture to a baking dish. Bake uncovered for about 25-30 minutes or until golden brown on top.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egyptian",
+    "creamy",
+    "meal-prep",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 321,
+    "protein": 14,
+    "carbs": 50,
+    "fat": 8
+  },
+  "slug": "creamy-fry-egyptian-lentils",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-fry-egyptian-lentils",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T09:42:06Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "creamy",
+    "mood": "meal-prep",
+    "technique": "fry",
+    "primaryIngredient": "passata",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Lentils",
+    "descriptor": "Creamy Fry",
+    "dishForm": "Stir-fry"
+  }
+}
