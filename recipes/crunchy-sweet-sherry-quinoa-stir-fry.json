@@ -1,0 +1,96 @@
+{
+  "title": "Crunchy Sweet Sherry Quinoa Stir-fry",
+  "description": "This savory and crunchy dish combines the richness of sweet sherry with fluffy quinoa in a light, romantic twist suitable for vegetarians.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "julienned"
+    },
+    {
+      "name": "celery stalks",
+      "amount": "2",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "onions",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "sherry sauce base",
+      "amount": "4 tablespoons",
+      "notes": "reduced and sweetened with honey or sugar"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat a wok or large skillet over medium-high heat. Add oil and swirl to coat.",
+    "Add onions, garlic, and celery to the hot pan, cooking until softened, about 5 minutes.",
+    "Toss in carrots and continue cooking for another minute until they start to soften but still retain their crunch.",
+    "Pour in sherry sauce base while stirring quickly to prevent burning. Let it reduce slightly, adding salt and pepper to taste.",
+    "Add rinsed quinoa to the pan and stir well with everything else. Cook for about 2 minutes allowing the flavors to meld together.",
+    "Turn off heat and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "sweet",
+    "sherry",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "crunchy-sweet-sherry-quinoa-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-sweet-sherry-quinoa-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T13:12:16Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crunchy",
+    "mood": "romantic",
+    "technique": "reduce",
+    "primaryIngredient": "sweet sherry",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "quinoa",
+    "descriptor": "Crunchy Sweet Sherry",
+    "dishForm": "Stir-fry"
+  }
+}
