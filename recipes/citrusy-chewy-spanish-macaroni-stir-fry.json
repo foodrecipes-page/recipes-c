@@ -1,0 +1,93 @@
+{
+  "title": "Citrusy Chewy Spanish Macaroni Stir-fry",
+  "description": "A kid-friendly and vegetarian-friendly dish featuring chewy macaroni mixed with a flavorful citrus sauce for a delightful meal.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "macaroni",
+      "amount": "1 cup"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "chopped finely"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4",
+      "notes": "minced"
+    },
+    {
+      "name": "oranges",
+      "amount": "2 medium",
+      "notes": "peeled and segmented"
+    },
+    {
+      "name": "lemons",
+      "amount": "2",
+      "notes": "juiced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Bring a pot of salted water to boil. Cook macaroni according to package instructions until al dente, then drain.",
+    "Heat olive oil in a large skillet over medium heat. Add onion and garlic; sauté for about 3 minutes or until fragrant.",
+    "Add zucchini and red bell pepper to the skillet. Stir occasionally for about 5-7 minutes until vegetables are slightly tender.",
+    "Remove from heat, mix in macaroni, and stir well to combine with vegetables.",
+    "In a separate bowl, mix together orange juice, lemon juice, salt, black pepper, and zest of 1 orange; whisk until smooth. Pour this sauce over the macaroni mixture in the skillet.",
+    "Mix well and cook for an additional 2-3 minutes to let flavors meld together. Taste and adjust seasoning if necessary.",
+    "Serve hot with a side salad or on its own as a light meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "citrusy",
+    "chewy",
+    "kid-friendly"
+  ],
+  "nutrition": {
+    "calories": 261,
+    "protein": 9,
+    "carbs": 38,
+    "fat": 5
+  },
+  "slug": "citrusy-chewy-spanish-macaroni-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-chewy-spanish-macaroni-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T13:57:46Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "chewy",
+    "mood": "kid-friendly",
+    "technique": "saute",
+    "primaryIngredient": "macaroni",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "macaroni",
+    "descriptor": "Citrusy Chewy",
+    "dishForm": "Stir-fry"
+  }
+}
