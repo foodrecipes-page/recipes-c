@@ -1,0 +1,100 @@
+{
+  "title": "Crunchy Creamy Italian Pasta Crumble",
+  "description": "A savory, comforting dish featuring creamy sauce, breadcrumbs, and a touch of garlic that is pescatarian-friendly.",
+  "cuisine": "Italian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pasta",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Chopped Fresh Basil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Coarse Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Ground Black Pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Freshly Grated Parmesan Cheese",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Panko Breadcrumbs",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Cook pasta according to package instructions until al dente.",
+    "Meanwhile, in a medium saucepan, combine heavy cream, garlic powder, and 1 tablespoon of basil. Bring to a simmer over medium heat.",
+    "Reduce heat to low, stir in butter, salt, pepper, and flour. Cook for about 2 minutes, stirring constantly, until mixture thickens slightly.",
+    "Add remaining chopped basil, cheese, breadcrumbs, and panko breadcrumbs. Mix well to combine.",
+    "Remove from heat and add cooked pasta, tossing gently to coat with sauce and breadcrumb mixture.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "creamy",
+    "italian",
+    "pasta",
+    "comforting",
+    "polish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 48,
+    "fat": 16
+  },
+  "slug": "crunchy-creamy-italian-pasta-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-creamy-italian-pasta-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T03:53:05Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "creamy",
+    "mood": "comforting",
+    "technique": "boil",
+    "primaryIngredient": "breadcrumbs",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Pasta",
+    "descriptor": "Creamy Crunchy",
+    "dishForm": "Crumble"
+  }
+}
