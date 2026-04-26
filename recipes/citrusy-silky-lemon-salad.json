@@ -1,0 +1,98 @@
+{
+  "title": "Citrusy Silky Lemon Salad",
+  "description": "A citrusy and silky lemon salad featuring unwaxed lemons, toasted almonds, and paleo-friendly ingredients that is a crowd-pleaser for lunch or dinner.",
+  "cuisine": "British",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 unwaxed lemon",
+      "amount": "",
+      "notes": "Choose lemons with yellow rinds and green flesh. Avoid wax."
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "Tbsp",
+      "notes": null
+    },
+    {
+      "name": "Zest of 1 lemon",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "Pinch salt",
+      "amount": "pinch",
+      "notes": null
+    },
+    {
+      "name": "2 large eggs, at room temperature",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "30g unsalted butter, softened",
+      "amount": "Grams",
+      "notes": null
+    },
+    {
+      "name": "15g toasted almonds, coarsely crushed",
+      "amount": "Grams",
+      "notes": null
+    },
+    {
+      "name": "1 bunch microgreens (such as arugula or rocket)",
+      "amount": "",
+      "notes": "Approximately 20-30 leaves"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 175°C (350°F).",
+    "Juice the lemon and set it aside.",
+    "In a bowl, combine the lemon juice with the zest, olive oil, salt, and eggs. Mix well until smooth.",
+    "Add the softened butter into the egg mixture and mix until fully incorporated. Let it sit for 30 minutes.",
+    "Preheat your oven to 150°C (300°F). Place almonds in a shallow baking dish and toast them for about 7-8 minutes, or until fragrant and lightly golden. Remove from heat and let cool slightly before crushing into fine crumbs with the back of a fork.",
+    "Fold the cooled almond crumb into the egg mixture and gently stir to combine.",
+    "Divide the microgreens among four serving plates. Spoon the lemon salad over the greens, adding some crushed almonds as a garnish if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "silky",
+    "british-dish",
+    "unwaxed-lemon",
+    "paleo-friendly",
+    "toast",
+    "microgreens"
+  ],
+  "nutrition": {
+    "calories": 369,
+    "protein": 14.78,
+    "carbs": 25.0,
+    "fat": 14.27
+  },
+  "slug": "citrusy-silky-lemon-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-silky-lemon-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T20:33:07Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "silky",
+    "mood": "crowd-pleaser",
+    "technique": "toast",
+    "primaryIngredient": "unwaxed lemon",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "lemon",
+    "descriptor": "Citrusy Silky",
+    "dishForm": "Salad"
+  }
+}
