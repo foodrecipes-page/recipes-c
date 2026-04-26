@@ -1,0 +1,85 @@
+{
+  "title": "Creamy Fritters Italian Yacon Crumble",
+  "description": "A rich and creamy Italian dish featuring powdered sugar, fried fritters made with a fibrous vegetable called yacon for an energizing meal that is also fodmap-friendly.",
+  "cuisine": [
+    "Italian"
+  ],
+  "diet": [
+    "vegan",
+    "low-carb",
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Yacon",
+      "amount": "250g"
+    },
+    {
+      "name": "Egg Whites",
+      "amount": "100g (3-4 eggs)"
+    },
+    {
+      "name": "Powdered Sugar",
+      "amount": "60g"
+    },
+    {
+      "name": "Flour",
+      "amount": "30g"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Vegetable Oil or Olive Oil",
+      "amount": "80ml"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 160°C.",
+    "Blend Yacon in a high-speed blender until smooth, then slowly add powdered sugar and mix well. Stop the machine when it reaches a creamy consistency, about 2-3 minutes.",
+    "Gently fold in egg whites (if using fresh eggs).",
+    "In a large bowl, combine flour and vanilla extract; gently fold in yacón mixture.",
+    "Heat oil in a non-stick pan over medium heat. When hot, drop spoonfuls of the dough into the pan and press slightly to form shapes.",
+    "Fry until golden brown on both sides, about 3-5 minutes per side. Use tongs for handling them gently.",
+    "Remove from heat, place on a wire rack lined with parchment paper to drain excess oil.",
+    "Once cooled down enough, serve with powdered sugar dusted over it."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fritters",
+    "yacon",
+    "crumble",
+    "energizing"
+  ],
+  "nutrition": {
+    "calories": 269,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 7
+  },
+  "slug": "creamy-fritters-italian-yacon-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-fritters-italian-yacon-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T23:53:42Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "creamy",
+    "mood": "energizing",
+    "technique": "fry",
+    "primaryIngredient": "powdered sugar",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Yacon",
+    "descriptor": "Creamy Fritters",
+    "dishForm": "Crumble"
+  }
+}
