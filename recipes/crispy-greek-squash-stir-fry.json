@@ -1,0 +1,87 @@
+{
+  "title": "Crispy Greek Squash Stir-fry",
+  "description": "An earthy and crispy vegetarian dish featuring squash alongside pickled elements to help cure hangovers.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "Squash",
+      "amount": "1 medium-sized",
+      "notes": "Any variety of squash can be used."
+    },
+    {
+      "name": "Pickled Vegetables",
+      "amount": "1 cup",
+      "notes": "Available at most grocery stores or health food stores."
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3-4 cloves",
+      "notes": "For a milder taste, use garlic powder instead."
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/2 teaspoon",
+      "notes": "To add a bit of spice to the dish."
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tablespoons",
+      "notes": "Any neutral-flavored oil can be used, such as avocado or sunflower oil."
+    },
+    {
+      "name": "Oregano Leaves",
+      "amount": "2-3 sprigs",
+      "notes": "For a more authentic flavor, use dried oregano if fresh is unavailable."
+    },
+    {
+      "name": "Pinch of Salt",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (205°C).",
+    "Cut the squash into thin slices and season with salt. Place them on a baking sheet lined with parchment paper.",
+    "In a pan, heat olive oil over medium-high heat. Add garlic cloves and sauté for about 30 seconds until fragrant.",
+    "Add the squash slices to the pan in a single layer. Cook for approximately 5 minutes or until they start turning golden brown on the edges.",
+    "Remove the squash from the oven and add pickled vegetables, red pepper flakes, oregano leaves, and salt. Toss everything together well until evenly coated with flavors.",
+    "Return the mixture to the oven and bake for an additional 10 minutes or until the squash is tender and crispy on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy-greek",
+    "hangover-cure",
+    "vegetarian-dish"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 7
+  },
+  "slug": "crispy-greek-squash-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-greek-squash-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T15:58:45Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crispy",
+    "mood": "hangover-cure",
+    "technique": "pickle",
+    "primaryIngredient": "squash",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "squash",
+    "descriptor": "crispy",
+    "dishForm": "Stir-fry"
+  }
+}
