@@ -1,0 +1,77 @@
+{
+  "title": "Crispy Savory Cherry Toast",
+  "description": "A savory and crispy brunch dish inspired by Slovakian cuisine featuring fresh cherries in a sugar-free-friendly preparation.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "6 slices of bread",
+      "amount": "6 slices",
+      "notes": "Select a type of bread that will crisp up nicely, such as sourdough or rye."
+    },
+    {
+      "name": "1 cup fresh cherries",
+      "amount": "1 cup",
+      "notes": "Choose ripe but firm cherries for best texture."
+    },
+    {
+      "name": "2 tablespoons honey-free jam",
+      "amount": "2 tbsp",
+      "notes": "Ensure it is sugar-free and low in sodium if possible."
+    },
+    {
+      "name": "3-4 teaspoons unsalted butter, melted",
+      "amount": "3-4 tsp",
+      "notes": "Use a low-fat variety for dietary considerations."
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 200°C (392°F).",
+    "Slice the bread into thin rounds if not already sliced.",
+    "Spread a small amount of honey-free jam on each slice of bread, slightly overlapping but leaving some space for topping.",
+    "Arrange cherry halves in alternating positions around each piece of toast, ensuring they are evenly distributed and visible from both sides of the toast.",
+    "Drizzle melted butter over the cherries to help them adhere better to the toast.",
+    "Place the toasted slices on a baking sheet lined with parchment paper or a silicone mat for easy cleanup.",
+    "Bake in preheated oven for 5-7 minutes, until the edges turn golden brown and the jam is bubbling but not too dark.",
+    "Remove from oven and allow to cool slightly before serving hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "slovakian-toast",
+    "savory-cherry-toast",
+    "crispy-toast",
+    "sugar-free-bread",
+    "brunch-food"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 16,
+    "fat": 8
+  },
+  "slug": "crispy-savory-cherry-toast",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-savory-cherry-toast",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T16:38:07Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crispy",
+    "mood": "brunch-mood",
+    "technique": "toast",
+    "primaryIngredient": "cherry",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Cherry",
+    "descriptor": "savory crispy",
+    "dishForm": "Brunch-mood Slovakian Dish"
+  }
+}
