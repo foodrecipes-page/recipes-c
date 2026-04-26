@@ -1,0 +1,120 @@
+{
+  "title": "Caramelized Greek Pumpkin Stir-fry with Tiger Prawns",
+  "description": "A nutritious and adventurous low-carb-friendly greek dish featuring tiger prawns, pumpkin, and other aromatic vegetables for a delightful nutty and velvety taste.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegan",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pumpkin",
+      "amount": "1 medium (about 300g)",
+      "notes": "Use any kind of pumpkin, but a smaller variety works best."
+    },
+    {
+      "name": "Tiger Prawns",
+      "amount": "20-25",
+      "notes": "Frozen tiger prawns work well and can be defrosted before cooking."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small (about 50g)",
+      "notes": "Use white or yellow onions for the best flavor."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Freshly minced garlic adds a nice punch of flavor."
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 small (about 50g)",
+      "notes": "Use mild varieties for the best texture and taste."
+    },
+    {
+      "name": "Zucchini",
+      "amount": "2 medium (about 100g per piece)",
+      "notes": "Slice into thin rounds."
+    },
+    {
+      "name": "Pomegranate Molasses",
+      "amount": "1 tbsp",
+      "notes": "For added depth of flavor and caramelization."
+    },
+    {
+      "name": "Low-Sodium Chicken Broth",
+      "amount": "250ml",
+      "notes": "Use for a more savory base, or water if vegan option is preferred."
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tbsp",
+      "notes": "For both frying and sautéing."
+    },
+    {
+      "name": "Kalamata Olives",
+      "amount": "10-20 whole (optional)",
+      "notes": "For a touch of Mediterranean flair."
+    },
+    {
+      "name": "Pomegranate Seeds",
+      "amount": "3 tbsp",
+      "notes": "To garnish and enhance the festive look."
+    },
+    {
+      "name": "Fresh Basil Leaves",
+      "amount": "1 handful",
+      "notes": "For both garnishing and adding extra freshness to the dish."
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "Slice pumpkin into thin rounds and lightly spray with olive oil, then place on a baking sheet lined with parchment paper. Roast for about 15 minutes or until tender.",
+    "Wash, peel, and dice onion; mince garlic finely and slice zucchini.",
+    "In a skillet, heat 1 tbsp olive oil over medium-high heat. Add minced garlic, diced onions, and sliced zucchini. Cook for about 5 minutes until vegetables soften slightly.",
+    "Add tiger prawns to the pan with enough space between them so they can cook evenly. Season lightly with salt and cook until opaque and pink, around 2-3 minutes per side.",
+    "Fold in roasted pumpkin slices, drizzle pomegranate molasses over everything, stir well, and let it simmer for about 5 minutes to allow flavors to meld together.",
+    "In a separate pan, fry sliced red bell peppers (if not already cooked), add low-sodium chicken broth or water, bring to a boil, then reduce heat and simmer until liquid is reduced by half.",
+    "Pour the strained broth mixture over the pumpkin-prawn mix in the main pan. Stir well to combine all ingredients evenly.",
+    "Add pomegranate seeds and fresh basil leaves on top of the dish for garnish before serving if desired.",
+    "Serve hot with additional low-carb crackers or bread, if you prefer."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "pumpkin",
+    "stir-fry",
+    "tiger prawns",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 35,
+    "carbs": 28,
+    "fat": 16
+  },
+  "slug": "caramelized-greek-pumpkin-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/caramelized-greek-pumpkin-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T00:21:44Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "velvety",
+    "mood": "adventurous",
+    "technique": "caramelize",
+    "primaryIngredient": "tiger prawns",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "pumpkin",
+    "descriptor": "Caramelized",
+    "dishForm": "Stir-fry"
+  }
+}
