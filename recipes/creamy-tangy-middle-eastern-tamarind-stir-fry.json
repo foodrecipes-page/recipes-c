@@ -1,0 +1,96 @@
+{
+  "title": "Creamy Tangy Middle Eastern Tamarind Stir-fry",
+  "description": "A indulgent middle-eastern dish featuring vine leaves, perfectly balanced with tanginess and creaminess, suitable for Mediterranean-friendly meals.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vine leaves",
+      "amount": "20 pieces"
+    },
+    {
+      "name": "tamarind concentrate",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "onions, finely chopped",
+      "amount": "1 medium onion"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tahini sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth or water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Place the vine leaves in boiling water and cook for about 5 minutes. Drain and set aside.",
+    "In a large skillet, heat olive oil over medium-high heat. Add chopped onions and garlic; sauté until translucent.",
+    "Stir in tamarind concentrate, lemon juice, tahini sauce, salt, ground cumin, paprika, and vegetable broth or water. Bring to a simmer.",
+    "Add the cooked vine leaves to the skillet, cover with a lid, and let cook for about 5 minutes more until the liquid has reduced slightly and the flavor is well integrated into the dish.",
+    "Remove from heat and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creaminess",
+    "tangy",
+    "middle-eastern",
+    "indulgent",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 15,
+    "carbs": 28,
+    "fat": 14
+  },
+  "slug": "creamy-tangy-middle-eastern-tamarind-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-tangy-middle-eastern-tamarind-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T17:27:00Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "creamy",
+    "mood": "indulgent",
+    "technique": "simmer",
+    "primaryIngredient": "vine leaves",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Tamarind",
+    "descriptor": "Creamy Tangy",
+    "dishForm": "Stir-fry"
+  }
+}
