@@ -1,0 +1,89 @@
+{
+  "title": "Citrusy Silky Citrusy Penne Stir-fry",
+  "description": "A citrusy and silky crowd-pleaser Argentine dish featuring penne pasta with a dairy-free-friendly twist.",
+  "cuisine": "Argentine",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup Penne Pasta",
+      "amount": "cup"
+    },
+    {
+      "name": "1 small red onion, finely chopped",
+      "amount": "small"
+    },
+    {
+      "name": "2 garlic cloves, minced",
+      "amount": "piece"
+    },
+    {
+      "name": "1 lemon, juiced and zested",
+      "amount": "one"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "juice of one"
+    },
+    {
+      "name": "1 cup finely diced pickled vegetables (such as carrots or cucumbers)",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to boil. Add the penne pasta and cook according to package instructions until al dente.",
+    "In a separate pan, heat olive oil over medium-high heat. Add finely chopped red onion and minced garlic; sauté for about 3-4 minutes or until onions are translucent and fragrant.",
+    "Add lemon juice, lime juice, zested lemon, salt, and pepper to the pan with the onions and garlic. Let it simmer for a minute or two to release flavors.",
+    "Drain cooked penne pasta, reserving some pasta water. Add the drained pasta into the onion-garlic-lemon mixture in the skillet. Stir well to combine.",
+    "Add finely diced pickled vegetables to the pan with the pasta and sauce. Continue to stir-fry for an additional 1-2 minutes until all ingredients are evenly coated and heated through.",
+    "If desired, add some reserved pasta water to make it more creamy. Taste and adjust seasoning if needed.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "silky",
+    "penne",
+    "pickle",
+    "argentine",
+    "dairy-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 48,
+    "fat": 9
+  },
+  "slug": "citrusy-silky-citrusy-penne-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-silky-citrusy-penne-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T09:53:34Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "silky",
+    "mood": "crowd-pleaser",
+    "technique": "pickle",
+    "primaryIngredient": "penne pasta",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Penne",
+    "descriptor": "Citrusy Silky",
+    "dishForm": "Stir-fry"
+  }
+}
