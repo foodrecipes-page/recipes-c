@@ -1,0 +1,84 @@
+{
+  "title": "Crispy Light British Citrus Salad",
+  "description": "This dish features a citrusy, crispy base made with tandoori seasoning and spring onions, served as a light and refreshing salad.",
+  "cuisine": "British",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Spring Onions",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "Tandoori Seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Citrus Zest (lemon or orange)",
+      "amount": "1 tablespoon each"
+    },
+    {
+      "name": "Peanut Oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Himalayan Salt",
+      "amount": "To taste"
+    },
+    {
+      "name": "Fresh Mint Leaves",
+      "amount": "A few leaves (optional)"
+    },
+    {
+      "name": "Iceberg Lettuce or Spinach",
+      "amount": "As needed for serving"
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl, combine spring onions and tandoori seasoning. Mix well.",
+    "Drizzle peanut oil over the mixture to coat it evenly. Sprinkle with citrus zest and Himalayan salt.",
+    "Heat up your pan or skillet with a thin layer of peanut oil until hot but not smoking.",
+    "Transfer the seasoned spring onion mixture into the heated oil in batches, ensuring it does not stick. Fry for about 1 minute per side until crispy and golden brown.",
+    "Once crispy, remove from heat and let cool slightly before transferring to a plate lined with paper towels to absorb excess oil.",
+    "For serving, arrange crispy spring onions on top of iceberg lettuce or spinach leaves. Garnish with fresh mint leaves if desired.",
+    "Serve immediately as a light snack or side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "citrusy",
+    "crispy",
+    "light",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 40,
+    "protein": 3,
+    "carbs": 6,
+    "fat": 5
+  },
+  "slug": "crispy-light-british-citrus-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-light-british-citrus-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T13:25:10Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "tandoor",
+    "primaryIngredient": "spring onions",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "citrus",
+    "descriptor": "Crispy Light",
+    "dishForm": "Salad"
+  }
+}
