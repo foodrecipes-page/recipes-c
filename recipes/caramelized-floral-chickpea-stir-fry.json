@@ -1,0 +1,96 @@
+{
+  "title": "Caramelized Floral Chickpea Stir-fry",
+  "description": "A whole30-friendly floral and crisp Indian dish featuring dried chillies in a meal-prep format, perfect for a quick dinner or lunch.",
+  "cuisine": "Indian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup chickpeas",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 onion, chopped",
+      "amount": "medium"
+    },
+    {
+      "name": "2 garlic cloves, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "1-inch ginger, grated",
+      "amount": "inch"
+    },
+    {
+      "name": "1 tbsp garam masala powder",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1/4 tsp turmeric powder",
+      "amount": "tsp"
+    },
+    {
+      "name": "1/2 tsp chili flakes (dried)",
+      "amount": "tsp"
+    },
+    {
+      "name": "1 can chickpea curry sauce",
+      "amount": "can"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juice"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add onions, garlic, and ginger. Sauté until soft and translucent.",
+    "Stir in garam masala powder and turmeric powder, cooking for another minute.",
+    "Pour in the chickpea curry sauce and lemon juice. Bring to a boil.",
+    "Reduce heat to low and simmer for 10 minutes to thicken the sauce.",
+    "Add chickpeas to the pot and stir well to coat them evenly with the sauce.",
+    "Simmer until most of the liquid has evaporated, about 5 more minutes.",
+    "Serve hot as a meal-prep dish or as part of a main dinner course."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "caramelized-floral",
+    "crisp",
+    "indian-dish",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 279,
+    "protein": 15,
+    "carbs": 34,
+    "fat": 8
+  },
+  "slug": "caramelized-floral-chickpea-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/caramelized-floral-chickpea-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T15:41:40Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crisp",
+    "mood": "meal-prep",
+    "technique": "braise",
+    "primaryIngredient": "dried chillies",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Chickpea",
+    "descriptor": "Floral Caramelized",
+    "dishForm": "Stir-fry"
+  }
+}
