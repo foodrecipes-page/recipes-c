@@ -1,0 +1,84 @@
+{
+  "title": "Crunchy Malaysian Challot Crumble",
+  "description": "An earthy and crunchy dish perfect for weeknight meals featuring challots reduced with a jain-friendly crumble topping.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 challot",
+      "amount": "1 piece",
+      "notes": "Use unsalted for best taste."
+    },
+    {
+      "name": "Juice of 2 limes",
+      "amount": "juiced",
+      "notes": "Freshly squeezed to maintain flavor intensity."
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "minced",
+      "notes": "To enhance the earthy flavor."
+    },
+    {
+      "name": "1 cup chopped fresh herbs (such as mint or cilantro)",
+      "amount": "cup",
+      "notes": "Choose ingredients that suit your taste and preference."
+    },
+    {
+      "name": "2 tablespoons jaggery or coconut sugar",
+      "amount": "tbsp",
+      "notes": "For a touch of sweetness."
+    },
+    {
+      "name": "1/4 cup unsalted cashews, chopped",
+      "amount": "cup",
+      "notes": "Optional for added crunchiness."
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Slice the challot into thin rounds and place on a baking sheet lined with parchment paper.",
+    "Squeeze the lime juice over the challots, followed by finely mincing the garlic.",
+    "Toss the sliced challots in a mix of chopped herbs and jaggery or coconut sugar until well-coated.",
+    "For the crumble topping, combine cashews with more herbs and spices like turmeric for color if desired. Mix thoroughly to ensure all ingredients are evenly combined.",
+    "Sprinkle the crumble mixture over the coated challots and bake in the preheated oven for 20 minutes or until golden brown.",
+    "Serve warm as a snack or accompaniment to your meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crumble-topping",
+    "challot-snack",
+    "jain-friendly-diet"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 9,
+    "fat": 4
+  },
+  "slug": "crunchy-malaysian-challot-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-malaysian-challot-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T08:30:53Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crunchy",
+    "mood": "weeknight",
+    "technique": "reduce",
+    "primaryIngredient": "challots",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Challots",
+    "descriptor": "Crunchy",
+    "dishForm": "Crumble"
+  }
+}
