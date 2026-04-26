@@ -1,0 +1,88 @@
+{
+  "title": "Caramelized Spanish Chestnut Stir-fry",
+  "description": "A high-protein-friendly dish featuring bitter and crispy cooked chestnuts that are caramelized in a one-pot cooking method, perfect for a quick and easy dinner.",
+  "cuisine": "Spanish",
+  "diet": [
+    "high-protein",
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spanish Chestnuts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chicken Broth or Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Herbs de Provence",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium-high heat.",
+    "Add oil to the skillet and swirl it around to coat evenly. Once hot, add onion and garlic. Stir-fry for about 2-3 minutes until translucent.",
+    "Stir in tomato paste and continue cooking for an additional minute, stirring constantly to prevent burning.",
+    "Gradually pour chicken broth or water into the pan while continuously stirring to create a sauce consistency.",
+    "Season with herbs de provence and salt. Let it simmer for about 5-7 minutes until thickened slightly.",
+    "Gently add chestnuts in batches if necessary, as they can be difficult to stir without breaking. Stir occasionally until evenly caramelized (about 10-12 minutes).",
+    "Remove from heat and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "caramelized",
+    "spanish-chestnut",
+    "stir-fry",
+    "high-protein-friendly"
+  ],
+  "nutrition": {
+    "calories": 321,
+    "protein": 20,
+    "carbs": 45,
+    "fat": 18
+  },
+  "slug": "caramelized-spanish-chestnut-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/caramelized-spanish-chestnut-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T09:02:53Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "caramelize",
+    "primaryIngredient": "cooked chestnut",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chestnut",
+    "descriptor": "Caramelized",
+    "dishForm": "Stir-fry"
+  }
+}
