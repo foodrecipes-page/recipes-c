@@ -1,0 +1,85 @@
+{
+  "title": "Crispy Middle Eastern Garlic Doubanjiang Stir-fry",
+  "description": "A one-pot middle-eastern dish featuring garlic and doubanjiang, with a crisp texture for the whole30-friendly diet.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "chili garlic sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "doubanjiang (fermented bean paste)",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "beef or chicken, sliced thinly",
+      "amount": "100g"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "a few"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt and pepper",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick pan over medium-high heat. Add oil, then add sliced beef.",
+    "Cook until browned on all sides, about 5 minutes.",
+    "Add garlic, chili garlic sauce, and doubanjiang. Stir well to combine and cook for an additional minute.",
+    "Stir in lemon juice and basil leaves, then season with salt and pepper to taste.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlicky",
+    "crisp",
+    "middle-eastern",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 17,
+    "carbs": 2,
+    "fat": 8
+  },
+  "slug": "crispy-middle-eastern-garlic-doubanjiang-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-middle-eastern-garlic-doubanjiang-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T05:15:59Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crisp",
+    "mood": "one-pot",
+    "technique": "steam",
+    "primaryIngredient": "doubanjiang",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "garlic",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
