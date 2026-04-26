@@ -1,0 +1,86 @@
+{
+  "title": "Cozy Gooey Syrian Garlic Stir-fry",
+  "description": "A hearty and flavorful dish featuring mixed grains sautéed in garlic sauce for a cozy, nut-free-friendly meal.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mixed Grains",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "6-8 cloves",
+      "notes": "Use minced garlic for easier preparation."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Vegetable Broth or Water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add minced garlic and sauté for about 1 minute until fragrant, stirring frequently to prevent burning.",
+    "Stir in finely chopped onion and cook for another minute.",
+    "Pour tomato sauce into the skillet with mixed grains, adding salt and pepper to taste. Stir well to combine.",
+    "Simmer for 20 minutes, stirring occasionally, allowing flavors to meld together.",
+    "Add vegetable broth or water and stir until fully incorporated. Reduce heat to low and let simmer for an additional 15-20 minutes or until desired consistency is reached.",
+    "Serve warm as a main course or side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "cozy",
+    "garlicky",
+    "goosey",
+    "nut-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 529,
+    "protein": 18,
+    "carbs": 74,
+    "fat": 18
+  },
+  "slug": "cozy-gooey-syrian-garlic-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-gooey-syrian-garlic-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T08:14:28Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "gooey",
+    "mood": "cozy",
+    "technique": "saute",
+    "primaryIngredient": "mixed grain",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Garlic",
+    "descriptor": "Gooey Cozy",
+    "dishForm": "Stir-fry"
+  }
+}
