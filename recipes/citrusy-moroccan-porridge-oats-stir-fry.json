@@ -1,0 +1,100 @@
+{
+  "title": "Citrusy Moroccan Porridge Oats Stir-fry",
+  "description": "A citrusy and fluffy hangover-cure Moroccan dish featuring porridge oats, stir-fried vegetables with a zesty twist, designed to be both plant-based-friendly and comforting for breakfast.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Oat Porridge",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Rice Bran Oil or Coconut Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic Clove(s), minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Julienned Bell Pepper(s)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Julienned Carrot(s)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Saffron Crocus Threads",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Lebanese Sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Freshly squeezed Lime Juice",
+      "amount": "1 lime"
+    },
+    {
+      "name": "Chopped Fresh Mint Leaves",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large saucepan, bring the oat porridge to a boil and then reduce heat to low. Stir in saffron threads.",
+    "Heat oil in a wok or skillet over medium-high heat. Add onion and garlic; cook until translucent, about 2 minutes.",
+    "Add julienned bell peppers and carrots to the pan, tossing for 5-7 minutes until vegetables are soft but not mushy.",
+    "Mix in saffron-flavored porridge, lemon juice, and chopped fresh mint. Stir well to combine. Let simmer for an additional 2-3 minutes.",
+    "Season with sumac and cayenne pepper to taste. Adjust seasoning based on personal preference.",
+    "Serve hot as a side dish or over rice if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "citrusy",
+    "hangover-cure",
+    "porridge-oats",
+    "stir-fry",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 14,
+    "carbs": 52,
+    "fat": 16
+  },
+  "slug": "citrusy-moroccan-porridge-oats-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-moroccan-porridge-oats-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T04:36:11Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "fluffy",
+    "mood": "hangover-cure",
+    "technique": "stir-fry",
+    "primaryIngredient": "porridge oats",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "porridge oats",
+    "descriptor": "Citrusy",
+    "dishForm": "Stir-fry"
+  }
+}
