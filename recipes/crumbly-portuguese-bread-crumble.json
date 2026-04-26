@@ -1,0 +1,85 @@
+{
+  "title": "Crumbly Portuguese Bread Crumble",
+  "description": "A fresh and crumbly meal-prep dish featuring garlic sauce for a low-sodium-friendly breakfast option.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "French bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4, minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Minced onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "handful, chopped"
+    },
+    {
+      "name": "Low-sodium soy sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Water or Chicken Stock",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Panko breadcrumbs",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Slice French bread into thin rounds and lightly toast until golden.",
+    "In a pan, sauté minced garlic and onion with olive oil for about 2 minutes.",
+    "Add low-sodium soy sauce and water or chicken stock, bring to a simmer. Stir in parsley.",
+    "Spread the mixture evenly over each slice of bread, allowing it to cool slightly before crumbling into pieces.",
+    "Sprinkle panko breadcrumbs on top of the garlic mixtures, then bake for 10-15 minutes until golden brown and crispy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crumbly-portuguese-bread-crumble",
+    "meal-prep",
+    "low-sodium-friendly"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 7,
+    "carbs": 19,
+    "fat": 5
+  },
+  "slug": "crumbly-portuguese-bread-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-portuguese-bread-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T04:18:08Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crumbly",
+    "mood": "meal-prep",
+    "technique": "toast",
+    "primaryIngredient": "garlic sauce",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "bread",
+    "descriptor": "Crumbly",
+    "dishForm": "Crumble"
+  }
+}
