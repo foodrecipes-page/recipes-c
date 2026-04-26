@@ -1,0 +1,79 @@
+{
+  "title": "Chewy Norwegian Sugar Crumble",
+  "description": "A salty, chewy, comforting norwegian dish featuring dark brown soft sugar that caramelizes and pairs well with savory dishes or as a low-carb snack.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Dark Brown Sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Almond Meal",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Baking Powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Sea Salt",
+      "amount": "1/8 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Mix dark brown sugar, coconut oil, vanilla extract until smooth.",
+    "Stir in almond meal and baking powder. Mix well but avoid overmixing as it will make the crumble tough.",
+    "Fold in sea salt gently.",
+    "Transfer mixture to a greased muffin pan (one for each crumble).",
+    "Bake for 10-15 minutes or until golden brown on top.",
+    "Allow to cool slightly before serving."
+  ],
+  "prepTimeMin": 2,
+  "cookTimeMin": 15,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "norwegian",
+    "salty",
+    "chewy",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 5.6,
+    "fat": 8
+  },
+  "slug": "chewy-norwegian-sugar-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-norwegian-sugar-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T13:23:31Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "chewy",
+    "mood": "comforting",
+    "technique": "caramelize",
+    "primaryIngredient": "dark brown soft sugar",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "dark brown soft sugar",
+    "descriptor": "Chewy",
+    "dishForm": "Crumble"
+  }
+}
