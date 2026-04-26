@@ -1,0 +1,79 @@
+{
+  "title": "Chewy Earthy French Sardines Stir-fry",
+  "description": "A vegetarian-friendly show-off dish featuring chewy sardines in a rich and earthy sauce with a tadka base, perfect for any meal.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 can of drained and rinsed chickpeas",
+      "amount": "1 can"
+    },
+    {
+      "name": "1/2 cup fresh flat-leaf parsley, chopped",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "1/4 cup grated parmesan cheese",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "1 large onion, finely chopped",
+      "amount": "1"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "1 can of diced tomatoes (400g)",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a pan over medium heat. Add the chopped onion and sauté until translucent.",
+    "Add minced garlic and cook for another minute, stirring constantly to avoid burning.",
+    "Add chickpeas, tomatoes, parsley, and parmesan cheese to the pan. Stir well to combine all ingredients.",
+    "Season with salt and pepper to taste.",
+    "Simmer on low heat for about 10-15 minutes until the sauce thickens slightly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "earthly",
+    "sardines",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 286,
+    "protein": 10,
+    "carbs": 43,
+    "fat": 7
+  },
+  "slug": "chewy-earthy-french-sardines-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-earthy-french-sardines-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T14:25:28Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "chewy",
+    "mood": "show-off",
+    "technique": "tadka",
+    "primaryIngredient": "sardines",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Sardines",
+    "descriptor": "Earthy Chewy Show-off",
+    "dishForm": "Stir-fry"
+  }
+}
