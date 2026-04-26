@@ -1,0 +1,91 @@
+{
+  "title": "Citrusy Turkish Tomato Stir-fry",
+  "description": "A quick-fix keto-friendly Turkish dish featuring citrusy vine tomatoes and a spicy bhuna sauce, perfect for a meal or snack.",
+  "cuisine": "Turkish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup cherry tomatoes",
+      "amount": "",
+      "notes": "halved"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": ""
+    },
+    {
+      "name": "1 red bell pepper",
+      "amount": "chopped"
+    },
+    {
+      "name": "2 small onions",
+      "amount": "finely chopped"
+    },
+    {
+      "name": "4 cloves garlic",
+      "amount": "minced"
+    },
+    {
+      "name": "1 tsp dried mint",
+      "notes": "or fresh mint leaves, finely chopped"
+    },
+    {
+      "name": "1 tsp dried coriander",
+      "notes": "or fresh coriander (cilantro), finely chopped"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": ""
+    },
+    {
+      "name": "Juice of 1 orange",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium-high heat.",
+    "Add cherry tomatoes and cook until they start to burst, about 3 minutes.",
+    "Stir in red bell pepper, onions, garlic, dried mint, and coriander. Cook for an additional 5-7 minutes until vegetables are softened but not mushy.",
+    "Squeeze lime juice over the mixture.",
+    "Drizzle orange juice over vegetables and stir gently to combine with all other ingredients.",
+    "Serve immediately as a light snack or meal complement."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy-turkish-stir-fry",
+    "quick-fix-dish",
+    "keto-friendly",
+    "crisp-vegetables"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 9,
+    "fat": 6
+  },
+  "slug": "citrusy-turkish-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-turkish-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T15:11:39Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crisp",
+    "mood": "quick-fix",
+    "technique": "bhuna",
+    "primaryIngredient": "vine tomatoes",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Tomato",
+    "descriptor": "Citrusy",
+    "dishForm": "Stir-fry"
+  }
+}
