@@ -1,0 +1,69 @@
+{
+  "title": "Creamy Toasted Tunisian White Flour Crumble",
+  "description": "A delicious and romantic keto-friendly snack that combines creamy flavors with a touch of toasting for an authentic Tunisian taste.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup almond flour",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons coconut oil",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "1/4 cup heavy cream",
+      "amount": "cup"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "In a mixing bowl, combine almond flour and coconut oil. Mix until the mixture is crumbly.",
+    "Add in heavy cream and salt. Stir gently until evenly combined.",
+    "Place the crumble mixture onto a baking sheet lined with parchment paper.",
+    "Bake for 10-12 minutes or until golden brown and crispy on top.",
+    "Serve warm as a snack."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 3,
+  "difficulty": "easy",
+  "tags": [
+    "tunisian",
+    "keto-friendly",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 248,
+    "protein": 7,
+    "carbs": 6,
+    "fat": 15
+  },
+  "slug": "creamy-toasted-tunisian-white-flour-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-toasted-tunisian-white-flour-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T19:45:08Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "toast",
+    "primaryIngredient": "white flour",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "White Flour",
+    "descriptor": "Creamy Toasted",
+    "dishForm": "Crumble"
+  }
+}
