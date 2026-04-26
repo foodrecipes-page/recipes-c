@@ -1,0 +1,112 @@
+{
+  "title": "Citrusy Creamy Korean Mascarpone Stir-fry",
+  "description": "A quick-fix dish featuring mascarpone, citrus flavors, and a touch of caramelization for a creamy yet tangy twist on traditional Korean stir-fries.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Korean sausage",
+      "amount": "100g",
+      "notes": "Use low-sodium or organic sausages if available"
+    },
+    {
+      "name": "Baby bok choy",
+      "amount": "250g",
+      "notes": "Wash and trim the leaves"
+    },
+    {
+      "name": "Canned mandarin oranges",
+      "amount": "1 can (400ml)",
+      "notes": "Ensure it's low-sodium if not specified"
+    },
+    {
+      "name": "Diced onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2-3",
+      "notes": "Minced"
+    },
+    {
+      "name": "Korean green chili pepper",
+      "amount": "2",
+      "notes": "Optional, seeds and membranes removed for less heat"
+    },
+    {
+      "name": "Soy sauce (low-sodium)",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger juice",
+      "amount": "1 tsp",
+      "notes": "From fresh ginger if available"
+    },
+    {
+      "name": "Korean white pepper powder",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Low-sodium soy sauce (for drizzling)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Mascarpone cheese",
+      "amount": "150g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large skillet over medium-high heat. Add the Korean sausage and cook until browned, about 4-5 minutes.",
+    "Add onion, green chili pepper (if using), and garlic to the pan; sauté for an additional 2-3 minutes.",
+    "Stir in mandarin oranges and their juice, lower heat to medium, and let simmer for about 2 minutes.",
+    "Remove from heat. Mix mascarpone cheese with a little of the cooked mixture to help it melt evenly.",
+    "Return sautéed ingredients to the pan. Add soy sauce and ginger juice; stir until all ingredients are well combined and creamy.",
+    "Add low-sodium soy sauce for finishing touch, stirring gently to combine.",
+    "Garnish with sesame seeds or chopped green onions if desired. Serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "creamy",
+    "korean",
+    "stir-fry",
+    "mascarpone",
+    "low-sodium"
+  ],
+  "nutrition": {
+    "calories": 325,
+    "protein": 16,
+    "carbs": 40,
+    "fat": 9
+  },
+  "slug": "citrusy-creamy-korean-mascarpone-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-creamy-korean-mascarpone-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T19:57:33Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "creamy",
+    "mood": "quick-fix",
+    "technique": "caramelize",
+    "primaryIngredient": "mascarpone",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Mascarpone",
+    "descriptor": "Citrusy Creamy",
+    "dishForm": "Stir-fry"
+  }
+}
