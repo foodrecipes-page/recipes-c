@@ -1,0 +1,103 @@
+{
+  "title": "Caramelized Thai Beef Stir-fry",
+  "description": "A tangy and dense weeknight dish featuring caramelized beef with a spicy kick, perfect for keto-friendly meals.",
+  "cuisine": "Thai",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef flank steak",
+      "amount": "200g"
+    },
+    {
+      "name": "Kaffir lime leaves",
+      "amount": "6-8 pieces",
+      "notes": "For added flavor and aroma"
+    },
+    {
+      "name": "Minced ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Coconut aminos",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1.5 tablespoons"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Season the beef with salt and pepper on both sides.",
+    "Heat a tablespoon of oil in a cast-iron skillet over medium-high heat. Add the beef, cooking until browned on all sides (about 2 minutes per side). Remove from pan and set aside.",
+    "In the same skillet, add minced ginger, Thai red curry paste, coconut aminos, fish sauce, lime juice, sugar, and paprika. Stir well to combine and scrape up any brown bits from the bottom of the pan.",
+    "Place the beef back in the skillet with the sauce mixture, along with kaffir lime leaves. Cover the skillet and bake for 10-15 minutes or until the beef is tender and caramelized on top.",
+    "While the beef is baking, chop the red bell pepper into small pieces and lightly sauté it with some sesame seeds in a separate pan until softened (about 3 minutes).",
+    "After removing the beef from the oven, stir in the sautéed red bell pepper mixture. Let everything cook together for another 2-3 minutes to meld flavors.",
+    "Remove kaffir lime leaves and garnish with additional sesame seeds if desired.",
+    "Serve hot with steamed rice or as a side dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caramelized",
+    "thai",
+    "stir-fry",
+    "keto-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 36,
+    "carbs": 12,
+    "fat": 27
+  },
+  "slug": "caramelized-thai-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/caramelized-thai-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T05:52:10Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "dense",
+    "mood": "weeknight",
+    "technique": "saute",
+    "primaryIngredient": "caramel",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "beef",
+    "descriptor": "Caramelized",
+    "dishForm": "Stir-fry"
+  }
+}
