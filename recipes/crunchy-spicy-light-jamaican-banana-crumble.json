@@ -1,0 +1,95 @@
+{
+  "title": "Crunchy Spicy Light Jamaican Banana Crumble",
+  "description": "This dish combines the sweet and spicy flavors of a traditional Jamaican banana crumble with a touch of golden syrup for a light and crispy texture suitable for a keto diet.",
+  "cuisine": [
+    "Jamaican",
+    "Keto"
+  ],
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Bananas",
+      "amount": "2"
+    },
+    {
+      "name": "Golden Syrup (or Maple Syrup for non-keto)",
+      "amount": "1/4 cup",
+      "notes": "For keto, use a keto-friendly golden syrup or honey"
+    },
+    {
+      "name": "Cure (cinnamon sugar mixture)",
+      "amount": "3 tablespoons",
+      "notes": "Equal parts cinnamon and brown sugar, plus a pinch of salt"
+    },
+    {
+      "name": "Almond Flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Egg Whites",
+      "amount": "6"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a bowl, mix the golden syrup with the cure until well combined.",
+    "Core and slice the bananas into thin rounds. Place them in a baking dish lined with parchment paper.",
+    "Spread half of the spice mixture over the bottom layer of bananas, followed by another layer of sliced bananas.",
+    "Whisk egg whites separately until stiff peaks form. Gradually fold in almond flour and cinnamon. Add coconut oil and vanilla extract for added flavor.",
+    "Spoon the remaining spice mixture evenly on top of the banana layers.",
+    "Bake in preheated oven for 30-35 minutes or until golden brown.",
+    "Let it cool slightly before serving. Serve warm with a dollop of whipped cream (optional) for an extra touch."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "spicy",
+    "jamaican",
+    "light",
+    "banana",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 13,
+    "carbs": 9,
+    "fat": 8
+  },
+  "slug": "crunchy-spicy-light-jamaican-banana-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-spicy-light-jamaican-banana-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T21:57:57Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crunchy",
+    "mood": "light",
+    "technique": "cure",
+    "primaryIngredient": "golden syrup",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "banana",
+    "descriptor": "Spicy Crunchy Light",
+    "dishForm": "Crumble"
+  }
+}
