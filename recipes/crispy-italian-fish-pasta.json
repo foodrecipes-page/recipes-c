@@ -1,0 +1,99 @@
+{
+  "title": "Crispy Italian Fish Pasta",
+  "description": "This sweet and adventurous dish combines grilled fish with a garlicky pasta sauce that's both crisp and savory.",
+  "cuisine": "Italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb (450g) linguine or other long pasta",
+      "amount": "",
+      "notes": "Choose a pasta shape that suits the texture you desire"
+    },
+    {
+      "name": "2 large fish fillets",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "3 tablespoons olive oil",
+      "amount": ""
+    },
+    {
+      "name": "6 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 cup (240ml) white wine or dry vermouth",
+      "amount": ""
+    },
+    {
+      "name": "1/2 cup (120ml) chicken or vegetable broth",
+      "amount": ""
+    },
+    {
+      "name": "1 can (8 oz/225g) crushed tomatoes",
+      "amount": ""
+    },
+    {
+      "name": "1 tablespoon fresh lemon juice, or to taste",
+      "amount": ""
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "amount": ""
+    },
+    {
+      "name": "Optional: Fresh herbs like basil or parsley for garnish",
+      "amount": "",
+      "notes": "Chopped finely"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (205°C).",
+    "Coat the fish fillets with a light coating of olive oil, salt and pepper.",
+    "Arrange the fish on a baking sheet lined with parchment paper. Drizzle with white wine or vermouth and bake for about 10-12 minutes or until golden brown.",
+    "While the fish is cooking, prepare the pasta sauce. Heat the olive oil in a large skillet over medium heat. Add garlic and sauté until fragrant but not browned. Pour in the broth, crushed tomatoes, lemon juice, salt and pepper. Simmer for about 10 minutes to blend flavors.",
+    "Cook the pasta according to package instructions until al dente. Drain well and return it to the pot with the sauce.",
+    "Toss the pasta gently with the sauce, allowing it to coat evenly but not overmix or flatten the pasta shapes too much.",
+    "Transfer the cooked pasta onto a baking sheet lined with parchment paper. Bake in preheated oven for 10-15 minutes, tossing occasionally to achieve a crispy exterior and golden-brown edges on the pasta.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pasta",
+    "grilled",
+    "sweet",
+    "adventurous",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 24,
+    "carbs": 68,
+    "fat": 18
+  },
+  "slug": "crispy-italian-fish-pasta",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-italian-fish-pasta",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T06:56:55Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crisp",
+    "mood": "adventurous",
+    "technique": "grill",
+    "primaryIngredient": "garlic sauce",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Fish",
+    "descriptor": "Crispy",
+    "dishForm": "Pasta"
+  }
+}
