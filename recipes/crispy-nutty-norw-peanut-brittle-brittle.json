@@ -1,0 +1,83 @@
+{
+  "title": "Crispy Nutty Norw脆 peanut brittle",
+  "description": "A whole30-friendly snack featuring fermented peanuts and other whole foods for a crunchy, nutty taste with minimal carbs.",
+  "cuisine": "neatly disguised as Norwegian dish",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pitted salted peanuts",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dried mango powder",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "hulled sesame seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fermented rice vinegar (Koji wine vinegar)",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1/3 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "1/4 cup (optional for extra nuttiness)"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 275°F.",
+    "Combine peanuts, dried mango powder, sesame seeds, vinegar, maple syrup, and vanilla in a large mixing bowl.",
+    "Gently fold in peanut butter if using.",
+    "Spread the mixture evenly on a baking sheet lined with parchment paper. Use the back of a spoon or spatula to spread it out to about 1/4 inch thick.",
+    "Bake for 20 minutes, then reduce heat to 250°F and continue baking until firm enough to handle but still pliable when pulled (about 30-60 minutes).",
+    "Let cool completely before breaking into pieces. Serve immediately or store in an airtight container.",
+    "Enjoy this energizing snack as part of your whole30 journey!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 95,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "crisp",
+    "energizing",
+    "norwegian-dish"
+  ],
+  "nutrition": {
+    "calories": 412,
+    "protein": 13,
+    "carbs": 6,
+    "fat": 30
+  },
+  "slug": "crispy-nutty-norw-peanut-brittle-brittle",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-nutty-norw-peanut-brittle-brittle",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T11:51:13Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crisp",
+    "mood": "energizing",
+    "technique": "ferment",
+    "primaryIngredient": "peanut brittle",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "peanut brittle",
+    "descriptor": "nutty crisp energizing",
+    "dishForm": "Crumble"
+  }
+}
