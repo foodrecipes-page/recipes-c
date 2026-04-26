@@ -1,0 +1,97 @@
+{
+  "title": "Crunchy Tunisian Bean Sprout Salad",
+  "description": "This umami-rich dish features crunchy bean sprouts and a mediterranean twist with tandoor flavors for a perfect brunch option.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "Bean Sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tandoori Seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sun-Dried Tomatoes",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/4 cup, finely chopped"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "6 oz, crumbled"
+    },
+    {
+      "name": "Almonds",
+      "amount": "30g, slivered"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 can (15oz), drained and rinsed"
+    }
+  ],
+  "instructions": [
+    "Combine bean sprouts with tandoori seasoning in a large bowl.",
+    "Add garlic, lemon zest, sun-dried tomatoes, red onion, parsley, feta cheese, almonds, and chickpeas. Mix well.",
+    "Drizzle olive oil over the mixture and toss until all ingredients are evenly coated.",
+    "Serve chilled as a side dish or on top of toast for a delicious brunch treat."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tunisian",
+    "umami",
+    "crunchy",
+    "bean-sprout",
+    "mediterranean",
+    "brunch-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 26,
+    "fat": 14
+  },
+  "slug": "crunchy-tunisian-bean-sprout-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-tunisian-bean-sprout-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T22:39:14Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crunchy",
+    "mood": "brunch-mood",
+    "technique": "tandoor",
+    "primaryIngredient": "bean sprouts",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Bean Sprouts",
+    "descriptor": "Crunchy",
+    "dishForm": "Salad"
+  }
+}
