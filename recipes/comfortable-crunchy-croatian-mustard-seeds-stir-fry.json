@@ -1,0 +1,86 @@
+{
+  "title": "Comfortable Crunchy Croatian Mustard Seeds Stir-fry",
+  "description": "A comforting and tangy dish featuring mustard powder, knead and jain-friendly, perfect for a quick meal.",
+  "cuisine": "Croatian",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mustard Powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Sunflower Seeds",
+      "amount": "3 tablespoons",
+      "notes": "Knead until the seeds are coated with powder"
+    },
+    {
+      "name": "Jaggery (Gur)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Fresh Mint Leaves",
+      "amount": "6-8 fresh leaves"
+    },
+    {
+      "name": "Coriander (Cilantro) Leaves",
+      "amount": "few sprigs"
+    },
+    {
+      "name": "Crushed Red Chili Peppers",
+      "amount": "1-2, to taste"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil and vegetable oil in a pan over medium heat.",
+    "Add mustard powder and knead until the seeds are well coated.",
+    "Pour in jaggery and mix thoroughly until it melts into the mixture.",
+    "Stir in mint leaves, coriander leaves, and crushed red chili peppers. Cook for an additional minute.",
+    "Serve hot with a side of rice or bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "mustard-seeds",
+    "knead",
+    "comfortable-crispy",
+    "jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 60,
+    "protein": 3,
+    "carbs": 7,
+    "fat": 1
+  },
+  "slug": "comfortable-crunchy-croatian-mustard-seeds-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/comfortable-crunchy-croatian-mustard-seeds-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T18:35:22Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "chewy",
+    "mood": "comforting",
+    "technique": "knead",
+    "primaryIngredient": "mustard powder",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Mustard Seeds",
+    "descriptor": "Comfortable Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
