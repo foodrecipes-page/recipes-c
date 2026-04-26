@@ -1,0 +1,90 @@
+{
+  "title": "Crispy Herbal Herbs Stir-fry",
+  "description": "This crispy herbal herbs stir-fry is a crowd-pleasing Portuguese dish featuring mustard powder and other keto-friendly ingredients for a satisfying meal.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mustard Powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Kale, chopped",
+      "amount": "40g",
+      "notes": "Fresh or frozen can be used."
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Chopped Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Keto-friendly Soy Sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Sea Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Oreily, for serving",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a skillet over medium-high heat.",
+    "Add chopped garlic and sauté for about 30 seconds or until fragrant.",
+    "Stir in mustard powder and turmeric powder, cooking for another 1 minute to activate flavors.",
+    "Add chopped kale and sprinkle with sea salt and black pepper. Stir-fry for 2-3 minutes or until the kale is wilted but still slightly crisp.",
+    "Drizzle with keto-friendly soy sauce and stir again for about a minute to allow flavors to meld together.",
+    "Serve hot, drizzled with extra olive oil if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto-friendly",
+    "crispy",
+    "herbal"
+  ],
+  "nutrition": {
+    "calories": 208,
+    "protein": 13,
+    "carbs": 6,
+    "fat": 9
+  },
+  "slug": "crispy-herbal-herbs-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-herbal-herbs-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T13:33:20Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crispy",
+    "mood": "crowd-pleaser",
+    "technique": "toast",
+    "primaryIngredient": "mustard powder",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Herbs",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
