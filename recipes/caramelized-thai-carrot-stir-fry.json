@@ -1,0 +1,83 @@
+{
+  "title": "Caramelized Thai Carrot Stir-fry",
+  "description": "An earthy and adventurous Thai dish featuring tender carrots caramelized with dark brown sugar, a whole30-friendly option.",
+  "cuisine": "Thai",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "1 large",
+      "notes": "preferably peeled and cut into thin strips"
+    },
+    {
+      "name": "dark brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "organic, preferably"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4",
+      "notes": "minced"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 green onion, thinly sliced",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon",
+      "notes": "optional for acidity balance"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 teaspoon",
+      "notes": "to taste, optional"
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large skillet over medium-high heat. Add dark brown sugar and stir until it melts and becomes golden brown.",
+    "Add minced garlic to the melted brown sugar and cook for about 30 seconds, stirring occasionally, until fragrant but not burnt.",
+    "Increase heat to high. Add carrot strips and toss them in the hot mixture for about 5 minutes or until they become tender.",
+    "Remove from heat and add lemon juice and fish sauce (if using) to balance flavors. Toss to coat evenly.",
+    "Serve immediately with a side of rice, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "caramelized",
+    "thai",
+    "carrot",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 18,
+    "fat": 4
+  },
+  "slug": "caramelized-thai-carrot-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/caramelized-thai-carrot-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T11:37:26Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "tender",
+    "mood": "adventurous",
+    "technique": "caramelize",
+    "primaryIngredient": "dark brown sugar",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "carrot",
+    "descriptor": "Caramelized",
+    "dishForm": "Stir-fry"
+  }
+}
