@@ -1,0 +1,79 @@
+{
+  "title": "Chewy Argentinian Pepper Stir-fry",
+  "description": "A fresh and chewy Argentine-inspired dish featuring sweet peppadew peppers in a simple stir-fry that’s perfect for weeknight meals.",
+  "cuisine": "Argentine",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 bell peppers",
+      "amount": "large"
+    },
+    {
+      "name": "1 red onion",
+      "amount": "medium"
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "sliced"
+    },
+    {
+      "name": "1 cup cherry tomatoes",
+      "amount": "halved"
+    },
+    {
+      "name": "10 sweet peppadew peppers",
+      "amount": "sliced"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium-high heat.",
+    "Add sliced bell peppers, onions, garlic, and tomatoes. Stir-fry for about 5 minutes.",
+    "Add sliced peppadew peppers to the stir-fry. Cook for an additional 2-3 minutes until the peppers are slightly softened but still firm.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately as a light and flavorful meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chewy-pepper-stir-fry",
+    "sweet-peppadew-peppers",
+    "argentine-dinner",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 23,
+    "fat": 7
+  },
+  "slug": "chewy-argentinian-pepper-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-argentinian-pepper-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T05:15:24Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "chewy",
+    "mood": "weeknight",
+    "technique": "stir-fry",
+    "primaryIngredient": "sweet peppadew peppers",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Pepper",
+    "descriptor": "Chewy",
+    "dishForm": "Stir-fry"
+  }
+}
