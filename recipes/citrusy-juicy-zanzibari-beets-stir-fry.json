@@ -1,0 +1,88 @@
+{
+  "title": "Citrusy Juicy Zanzibari Beets Stir-fry",
+  "description": "A kid-friendly, citrus-infused stir-fry featuring beets that are gently cooked to retain their natural sweetness and vibrant color.",
+  "cuisine": "kenyan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "2 large"
+    },
+    {
+      "name": "scallions",
+      "amount": "4 small"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "handful"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame paste",
+      "amount": "2 teaspoons"
+    }
+  ],
+  "instructions": [
+    "Wash and peel beets. Cut into thin strips.",
+    "Peel scallions, cut in half lengthwise then slice thinly.",
+    "Mince ginger for the sauce.",
+    "Combine soy sauce, vinegar, and a pinch of salt in a small bowl to make the sauce.",
+    "In a large wok or skillet, heat sesame oil over medium-high heat. Add beets and stir-fry until slightly softened, about 5 minutes.",
+    "Add scallions and ginger. Stir-fry for another minute.",
+    "Pour in the sauce and toss everything together to combine. Cook for an additional 2-3 minutes or until beets are tender but still crisp.",
+    "Sprinkle with sesame seeds before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "juicy",
+    "kid-friendly",
+    "zanzibari",
+    "beets",
+    "kosher"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 22,
+    "fat": 4
+  },
+  "slug": "citrusy-juicy-zanzibari-beets-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-juicy-zanzibari-beets-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T23:01:19Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "broil",
+    "primaryIngredient": "beets",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Zanzibari",
+    "mainIngredient": "beets",
+    "descriptor": "Citrusy Juicy",
+    "dishForm": "Stir-fry"
+  }
+}
