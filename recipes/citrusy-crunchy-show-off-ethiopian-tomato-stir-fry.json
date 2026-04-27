@@ -1,0 +1,100 @@
+{
+  "title": "Citrusy Crunchy Show-off Ethiopian Tomato Stir-fry",
+  "description": "This Citrusy Crunchy Show-off Ethiopian Tomato Stir-fry features pineapple juice and bhuna spices for a unique twist on traditional tomato-based dishes, suitable for jain-friendly diets.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup cherry tomatoes",
+      "amount": "cup",
+      "notes": "halved"
+    },
+    {
+      "name": "1 small red onion",
+      "amount": "piece",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "2 tablespoons curry paste",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "1/4 cup pineapple juice",
+      "amount": "cup"
+    },
+    {
+      "name": "3 tablespoons bhuna masala powder",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "1/2 teaspoon red chili powder",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "1/4 cup vegetable oil",
+      "amount": "cup"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh cilantro for garnish",
+      "amount": "fresh, as needed"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the finely chopped red onion and minced garlic to the heated oil. Sauté until fragrant, about 2 minutes.",
+    "Add curry paste and stir-fry for an additional minute, ensuring it does not burn.",
+    "Fold in cherry tomatoes and sprinkle with pineapple juice, stirring occasionally.",
+    "Reduce heat to medium-low and add bhuna masala powder, red chili powder, and salt. Stir well until evenly distributed.",
+    "Continue cooking for about 5-7 minutes or until the sauce thickens slightly and the tomatoes are soft but still retain some bite.",
+    "Garnish with fresh cilantro before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "crunchy",
+    "show-off",
+    "ethiopian",
+    "pineapple-juice",
+    "bhuna"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 48,
+    "fat": 9
+  },
+  "slug": "citrusy-crunchy-show-off-ethiopian-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-crunchy-show-off-ethiopian-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T13:41:26Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crunchy",
+    "mood": "show-off",
+    "technique": "bhuna",
+    "primaryIngredient": "pineapple juice",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Tomato",
+    "descriptor": "Citrusy Crunchy Show-off",
+    "dishForm": "Stir-fry"
+  }
+}
