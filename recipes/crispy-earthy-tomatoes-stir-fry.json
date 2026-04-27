@@ -1,0 +1,74 @@
+{
+  "title": "Crispy Earthy Tomatoes Stir-fry",
+  "description": "This show-off Russian dish features plum tomatoes that are sautéed to a crispy texture with Mediterranean-friendly flavors and earthy undertones.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegan",
+    "pescatarian"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "1 cup plum tomatoes",
+      "amount": "",
+      "notes": "halved"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "minced"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": ""
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": ""
+    },
+    {
+      "name": "4 tablespoons olive oil",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium heat. Add half of the olive oil.",
+    "Add halved plum tomatoes and minced garlic to the hot skillet, tossing gently until they begin to release their juices and start to brown slightly.",
+    "Sprinkle with salt and pour in lemon juice while ensuring the mixture is evenly coated with the oil. Stir-fry for about 3-5 minutes or until desired crispness is achieved.",
+    "Remove from heat immediately to prevent overcooking which can make them mushy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tomato",
+    "garlic",
+    "lemon",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 2,
+    "carbs": 16,
+    "fat": 5
+  },
+  "slug": "crispy-earthy-tomatoes-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-earthy-tomatoes-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T09:59:53Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crisp",
+    "mood": "show-off",
+    "technique": "saute",
+    "primaryIngredient": "plum tomatoes",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Tomato",
+    "descriptor": "Earthy Crisp",
+    "dishForm": "Stir-fry"
+  }
+}
