@@ -1,0 +1,82 @@
+{
+  "title": "Crumbly Chinese Penne Crumble",
+  "description": "A rich and crumbly post-workout dish featuring penne pasta mixed with a savory sauce that's easy to digest.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegan",
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "200g Penne Pasta",
+      "amount": "medium size cup"
+    },
+    {
+      "name": "150ml Olive Oil",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "80g Shredded Parmesan Cheese",
+      "notes": "optional for topping"
+    },
+    {
+      "name": "2 Garlic Cloves",
+      "amount": "minced"
+    },
+    {
+      "name": "1 Teaspoon Soy Sauce",
+      "notes": "for a richer flavor"
+    },
+    {
+      "name": "1 Tablespoon Sesame Seeds",
+      "notes": "finely ground for topping"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (180°C). Rinse the pasta under cold water.",
+    "In a large mixing bowl, combine the olive oil, minced garlic, soy sauce, salt, and pepper. Mix well.",
+    "Add the Parmesan cheese if using, and mix it in gently so you don't break up the crumbly texture of the cheese.",
+    "Toss the pasta with the marinade until evenly coated. Spread the pasta out on a baking sheet lined with parchment paper.",
+    "Sprinkle sesame seeds over the top for added texture and flavor. Bake for 10-12 minutes or until golden brown and crunchy.",
+    "Serve warm as a quick snack during or after your workout."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crumbly",
+    "post-workout",
+    "chinese-penne"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 9,
+    "carbs": 17,
+    "fat": 8
+  },
+  "slug": "crumbly-chinese-penne-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-chinese-penne-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T22:28:39Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crumbly",
+    "mood": "post-workout",
+    "technique": "cure",
+    "primaryIngredient": "penne pasta",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Penne",
+    "descriptor": "Crumbly",
+    "dishForm": "Crumble"
+  }
+}
