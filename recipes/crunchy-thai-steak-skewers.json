@@ -1,0 +1,87 @@
+{
+  "title": "Floral Thai Steak Skewers",
+  "description": "These crunchy Thai steak skewers combine floral notes with a monsoon-inspired sweetness and are sugar-free-friendly for a delightful summer meal.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "1 lb (450g) skirt steak",
+      "amount": "2 slices per skewer"
+    },
+    {
+      "name": "1/4 cup (60ml) soy sauce",
+      "notes": "can be mixed with a bit of lemon juice for added brightness"
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "notes": "ensure you don’t overmince to prevent bitterness"
+    },
+    {
+      "name": "2 tsp fish sauce",
+      "notes": "adjust based on your preference for saltiness"
+    },
+    {
+      "name": "1/4 cup (60ml) lime juice",
+      "notes": "freshly squeezed for best flavor"
+    },
+    {
+      "name": "1 tbsp honey or maple syrup",
+      "notes": "use sparingly to maintain sugar-free status"
+    },
+    {
+      "name": "2-inch piece fresh lemongrass, minced",
+      "notes": "trim the tough outer layer and use only the inside white part"
+    },
+    {
+      "name": "1/4 cup (60ml) water",
+      "notes": "ensures a flavorful marinade"
+    },
+    {
+      "name": "Pinch of red pepper flakes",
+      "notes": "for some heat, adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Combine soy sauce, fish sauce, lime juice, honey/maple syrup, minced garlic, lemongrass, and water in a blender or food processor. Blend until smooth.",
+    "Pour the marinade over the skirt steak slices. Place on skewers and refrigerate for at least 2 hours, turning occasionally.",
+    "Preheat grill to medium-high heat (400°F). Thread the marinated steak onto metal skewers, ensuring they are secure so that they do not fall off during grilling.",
+    "Grill the skewers until well-charred on all sides and cooked through (internal temperature reaches 135°F for medium-rare), about 12-15 minutes. Avoid burning by keeping an eye on them as they cook.",
+    "Remove from heat, allow to rest for a few minutes before serving with lime wedges, fresh herbs, or your choice of dipping sauces."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "thai-steak-skewers",
+    "floral-dish",
+    "monsoon-inspired",
+    "sugar-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 321,
+    "protein": 28,
+    "carbs": 5,
+    "fat": 14
+  },
+  "slug": "crunchy-thai-steak-skewers",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-thai-steak-skewers",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T07:31:00Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crunchy",
+    "mood": "monsoon",
+    "technique": "knead",
+    "primaryIngredient": "skirty steak",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Steak",
+    "descriptor": "Crunchy",
+    "dishForm": "Skewers"
+  }
+}
