@@ -1,0 +1,91 @@
+{
+  "title": "Crispy Bhuna Redcurrant Stir-fry",
+  "description": "A savory and crunchy Spanish dish featuring redcurrants that can help cure hangovers, served as a breakfast option.",
+  "cuisine": "Spanish",
+  "diet": [
+    "sugar-free-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 cup fresh redcurrants",
+      "amount": "",
+      "notes": "Use only the juice from the redcurrants"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "4 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 bell pepper, sliced",
+      "amount": "",
+      "notes": "Red or yellow"
+    },
+    {
+      "name": "1 cup shredded cheddar cheese (optional)",
+      "amount": "",
+      "notes": "For added flavor and texture"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, simmer the redcurrant juice over medium heat until reduced by half. Remove from heat and set aside.",
+    "Heat olive oil in a large skillet over medium-high heat. Add garlic and onion; sauté for about 1 minute or until fragrant.",
+    "Add bell pepper to the pan with garlic and onion, stirring occasionally for about 5 minutes until softened.",
+    "Gently fold redcurrant juice into the vegetable mixture. Reduce heat to low and simmer for another 2-3 minutes allowing flavors to meld together.",
+    "If using shredded cheese, sprinkle it over the top of the stir-fry just before serving. Season with salt and pepper to taste.",
+    "Serve hot as a side dish or on a wrap as a light breakfast option."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "bhuna",
+    "redcurrant",
+    "hangover-cure",
+    "spanish-dish",
+    "sugar-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 7,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "crispy-bhuna-redcurrant-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-bhuna-redcurrant-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T16:41:23Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crunchy",
+    "mood": "hangover-cure",
+    "technique": "bhuna",
+    "primaryIngredient": "redcurrants",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Redcurrants",
+    "descriptor": "Crispy Bhuna",
+    "dishForm": "Stir-fry"
+  }
+}
