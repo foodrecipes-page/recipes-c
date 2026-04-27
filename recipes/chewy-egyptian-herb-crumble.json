@@ -1,0 +1,85 @@
+{
+  "title": "Chewy Egyptian Herb Crumble",
+  "description": "A vegan-friendly and chewy herbal crumble that is perfect for a weeknight dinner featuring shredded Mexican cheese.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "coconut flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chia seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "unsweetened shredded Mexican cheese",
+      "amount": "4 oz"
+    },
+    {
+      "name": "honey or maple syrup",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a mixing bowl, combine coconut flour, chia seeds, shredded cheese, honey or maple syrup, apple cider vinegar, salt, ground coriander, and paprika.",
+    "Mix well until the mixture is crumbly but holds together when pressed. It should be easily spreadable but slightly chunky.",
+    "Press the mixture into a lined baking dish.",
+    "Bake for 15 minutes or until golden brown on top. Let cool before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egyptian",
+    "herbal",
+    "chewy",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 15,
+    "carbs": 38,
+    "fat": 9
+  },
+  "slug": "chewy-egyptian-herb-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-egyptian-herb-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T13:30:45Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "chewy",
+    "mood": "weeknight",
+    "technique": "fold",
+    "primaryIngredient": "shredded mexican cheese",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "herb",
+    "descriptor": "Chewy",
+    "dishForm": "Crumble"
+  }
+}
