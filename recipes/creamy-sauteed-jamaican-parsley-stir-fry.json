@@ -1,0 +1,91 @@
+{
+  "title": "Creamy Sauteed Jamaican Parsley Stir-fry",
+  "description": "A creamy and fermented jamaican dish featuring freshly chopped parsley, sautéed in a dairy-free-friendly sauce for a solo-dinner option.",
+  "cuisine": "Jamaican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup fresh parsley",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup nutritional yeast",
+      "amount": "",
+      "notes": "A dairy-free alternative to cheese."
+    },
+    {
+      "name": "1/4 cup tahini (sesame seed paste)",
+      "amount": "",
+      "notes": "Provides creaminess and nuttiness."
+    },
+    {
+      "name": "2 tablespoons apple cider vinegar",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Pinch of smoked paprika",
+      "amount": "",
+      "notes": "Adds depth to the sauce."
+    },
+    {
+      "name": "1/4 teaspoon ground turmeric",
+      "amount": "",
+      "notes": "For a hint of earthiness and color."
+    },
+    {
+      "name": "3 cups water (or more as needed for consistency)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring water to a boil in a medium saucepan.",
+    "Add minced garlic, nutritional yeast, tahini, apple cider vinegar, smoked paprika, and turmeric. Stir continuously until the mixture reaches desired thickness (like creamy dressing).",
+    "Reduce heat to low and let simmer for 10 minutes.",
+    "Stir in fresh parsley and continue cooking for an additional 5 minutes or until wilted but still crisp.",
+    "Remove from heat and serve immediately over rice, quinoa, or as a side dish with fish or tofu."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "jamaican-parsley-stir-fry",
+    "creamy-sauce",
+    "dairy-free-friendly",
+    "fermented-jamaican-dish"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 9
+  },
+  "slug": "creamy-sauteed-jamaican-parsley-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-sauteed-jamaican-parsley-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T01:07:57Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "creamy",
+    "mood": "solo-dinner",
+    "technique": "saute",
+    "primaryIngredient": "freshly chopped parsley",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Parsley",
+    "descriptor": "Creamy Sauteed",
+    "dishForm": "Stir-fry"
+  }
+}
