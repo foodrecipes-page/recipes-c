@@ -1,0 +1,83 @@
+{
+  "title": "Creamy British Yeast Extract Stir-fry",
+  "description": "A salty and gooey weeknight dish featuring a fusion of chilli sauce, fermented flavors, and gluten-free-friendly ingredients.",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gluten-Free Soy Sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Chilli Sauce",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Creamy British Yeast Extract",
+      "amount": "1 oz"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Green Onions, chopped",
+      "amount": "1 stalk"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Gluten-Free Gluten-Free Spices (optional)",
+      "notes": "To enhance the dish with subtle flavors"
+    }
+  ],
+  "instructions": [
+    "Heat a pan over medium heat and add oil.",
+    "Add minced garlic, cook for about 30 seconds until fragrant.",
+    "Stir in chilli sauce, let it simmer for about 1 minute to release its flavor.",
+    "Pour in the creamy British yeast extract. Stir quickly as it tends to foam.",
+    "If using gluten-free spices, add them now and stir well.",
+    "Add chopped green onions, continue stirring until evenly coated with sauce mixture.",
+    "Adjust seasoning if needed, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british-dish",
+    "weeknight-meal",
+    "salty-gooey",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 18,
+    "fat": 7
+  },
+  "slug": "creamy-british-yeast-extract-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-british-yeast-extract-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T03:12:25Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "gooey",
+    "mood": "weeknight",
+    "technique": "ferment",
+    "primaryIngredient": "chilli sauce",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Yeast Extract",
+    "descriptor": "Creamy",
+    "dishForm": "Stir-fry"
+  }
+}
