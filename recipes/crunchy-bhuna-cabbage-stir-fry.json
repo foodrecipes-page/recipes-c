@@ -1,0 +1,108 @@
+{
+  "title": "Crunchy Bhuna Cabbage Stir-fry",
+  "description": "A rich, crunchy, meal-prep Ethiopian dish featuring cabbage leaves with a mediterranean-friendly bhuna sauce.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cabbage",
+      "amount": "2 medium-sized",
+      "notes": "Use the outer leaves for added crunch"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chop finely"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium-sized",
+      "notes": "Juiced and chopped into small pieces"
+    },
+    {
+      "name": "Green Peppers",
+      "amount": "1 large",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Red Chillies",
+      "amount": "4-6 seeds from a chilli pod",
+      "notes": "Deseeded, finely chopped"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1 tsp",
+      "notes": "Optional for added flavor and color"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1 tbsp",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Coriander Powder",
+      "amount": "1/2 tsp",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste",
+      "notes": "Adjust to your preference"
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tbsp",
+      "notes": "Any neutral oil can be used, such as sunflower or vegetable"
+    }
+  ],
+  "instructions": [
+    "Wash and cut the cabbage into large leaves. Rinse in cold water and squeeze out excess moisture.",
+    "Heat oil in a pan over medium-high heat. Add cumin seeds and let them splutter for about 15 seconds, then add onion and garlic. Sauté until onions are translucent.",
+    "Add tomatoes, green peppers, red chillies, turmeric powder (if using), coriander powder, and salt to the pan. Mix well and cook for another minute.",
+    "Arrange cabbage leaves in a non-stick wok or large skillet. Pour the tomato mixture over them evenly. Cover with a lid if available, otherwise let it sit without covering for 5 minutes.",
+    "Gently flip the cabbage to coat all sides and ensure even cooking. If using a wok, move the ingredients around frequently to prevent burning.",
+    "Once all sides of the cabbage are cooked to your liking, serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "bhuna",
+    "cabbage",
+    "mediterranean-friendly",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 215,
+    "protein": 9,
+    "carbs": 28,
+    "fat": 7
+  },
+  "slug": "crunchy-bhuna-cabbage-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-bhuna-cabbage-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T01:11:33Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crunchy",
+    "mood": "meal-prep",
+    "technique": "bhuna",
+    "primaryIngredient": "cabbage leaves",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Cabbage",
+    "descriptor": "Crunchy Bhuna",
+    "dishForm": "Stir-fry"
+  }
+}
