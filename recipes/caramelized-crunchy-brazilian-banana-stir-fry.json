@@ -1,0 +1,75 @@
+{
+  "title": "Caramelized Crunchy Brazilian Banana Stir-fry",
+  "description": "A salty and chewy one-pot Brazilian dish featuring fried ripe bananas, caramelized to perfection in a single pot.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ripe banana",
+      "amount": "2 medium"
+    },
+    {
+      "name": "baking soda",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a skillet over medium heat. Halve and slice the bananas into thin rounds.",
+    "In a small bowl, mix baking soda with 1 tablespoon of water to make an alkaline solution for neutralizing the natural starches in the banana skins.",
+    "Coat half of the banana slices lightly with butter on both sides and place them in the skillet. Brush them gently with the baking soda solution.",
+    "Cook until golden brown, about 2 minutes per side. Flip and brush with more baking soda solution if needed to get a nice caramelized exterior.",
+    "Once all banana rounds are fried, remove from heat. In the same pan, melt remaining butter over medium-low heat.",
+    "Stir in brown sugar until completely melted and dissolved. Add the cooked banana slices back into the skillet, toss well with the caramel sauce, and cook for an additional 1 minute or until fully coated.",
+    "Remove from heat and transfer to a serving plate. Garnish with extra salt if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "caramelized",
+    "banana",
+    "stir-fry",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 9
+  },
+  "slug": "caramelized-crunchy-brazilian-banana-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/caramelized-crunchy-brazilian-banana-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T19:36:36Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "chewy",
+    "mood": "one-pot",
+    "technique": "caramelize",
+    "primaryIngredient": "fried ripe bananas",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Banana",
+    "descriptor": "Caramelized Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
