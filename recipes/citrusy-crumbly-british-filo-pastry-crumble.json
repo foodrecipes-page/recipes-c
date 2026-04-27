@@ -1,0 +1,78 @@
+{
+  "title": "Citrusy Crumbly British Filo Pastry Crock",
+  "description": "This dairy-free-friendly citrusy crumbly pastry dish is perfect for a hangover cure with its tender filo crust and zesty topping.",
+  "cuisine": "British",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Filo Pastry Sheets",
+      "amount": "20 sheets"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Julienned Citrus Zest (e.g. Orange or Lemon)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Coconut Cream",
+      "amount": "200ml",
+      "notes": "Use coconut milk for a dairy-free alternative"
+    },
+    {
+      "name": "Filo-Crumble Ingredients",
+      "amount": "-to taste-",
+      "notes": "Includes sugars, spices (optional), and nuts as per personal preference"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 180°C.",
+    "Brush the filo pastry sheets with olive oil on both sides.",
+    "Spread a thin layer of coconut cream over each sheet, ensuring all surfaces are covered.",
+    "Sprinkle julienned citrus zest evenly across the top of the coconut cream layer.",
+    "In a separate bowl, mix together your preferred crumble ingredients (sugars, spices, and nuts if using).",
+    "Carefully place the filo sheets on a baking sheet lined with parchment paper. Place the crumble mixture in dollops over the top of the citrus zest.",
+    "Bake for 20-25 minutes or until golden brown and crisp.",
+    "Remove from oven and let cool slightly before serving. Optionally, garnish with fresh fruit slices or mint leaves if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "citrusy",
+    "crumbly",
+    "hangover-cure"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 7,
+    "carbs": 51,
+    "fat": 24
+  },
+  "slug": "citrusy-crumbly-british-filo-pastry-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-crumbly-british-filo-pastry-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T13:07:34Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crumbly",
+    "mood": "hangover-cure",
+    "technique": "bake",
+    "primaryIngredient": "filo pastry",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Filo Pastry",
+    "descriptor": "Citrusy Crumbly",
+    "dishForm": "Crumble"
+  }
+}
