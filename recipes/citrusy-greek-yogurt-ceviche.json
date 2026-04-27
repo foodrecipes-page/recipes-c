@@ -1,0 +1,84 @@
+{
+  "title": "Citrusy Greek Yogurt Ceviche",
+  "description": "This refreshing citrusy Greek yogurt ceviche features white vinegar and fluffs up with a whisk to create a unique low-sodium-friendly dish perfect for sick-day meals.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegan",
+    "low-sodium"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "3 cups Greek yogurt",
+      "amount": "cup",
+      "notes": "plain, low-fat"
+    },
+    {
+      "name": "1/4 cup fresh lemon juice or lime juice (about 2 lemons/limes)",
+      "amount": ""
+    },
+    {
+      "name": "1/8 teaspoon fine sea salt or equivalent amount of pink Himalayan salt",
+      "amount": ""
+    },
+    {
+      "name": "1 tablespoon finely grated orange zest",
+      "amount": "tablespoon"
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "Pinch of black pepper",
+      "notes": "freshly ground or crushed"
+    },
+    {
+      "name": "2 tablespoons finely chopped fresh dill (like parsley)",
+      "amount": "tablespoon"
+    },
+    {
+      "name": "1 tablespoon freshly squeezed orange juice",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, combine the Greek yogurt, lemon or lime juice, salt, orange zest, garlic, pepper, and dill.",
+    "Gently whisk the mixture to blend it together without overmixing. Add the freshly squeezed orange juice and mix again gently.",
+    "Fold in the chopped fresh dill with a spatula for a fluffy texture.",
+    "Cover and refrigerate for at least 30 minutes before serving, shaking gently every 15 minutes to ensure even distribution of flavors."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy-greek-yogurt-ceviche",
+    "low-sodium-friendly"
+  ],
+  "nutrition": {
+    "calories": 125,
+    "protein": 8,
+    "carbs": 9,
+    "fat": 0
+  },
+  "slug": "citrusy-greek-yogurt-ceviche",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-greek-yogurt-ceviche",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T18:23:41Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "fluffy",
+    "mood": "sick-day",
+    "technique": "whisk",
+    "primaryIngredient": "white vinegar",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Yogurt",
+    "descriptor": "Citrusy",
+    "dishForm": "Ceviche"
+  }
+}
