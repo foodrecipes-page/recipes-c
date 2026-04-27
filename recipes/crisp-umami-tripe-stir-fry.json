@@ -1,0 +1,103 @@
+{
+  "title": "Crisp Umami Tripe Stir-fry",
+  "description": "A low-carb-friendly Algerian dish featuring crispy tripe stir-fried with a blend of umami-rich spices and bhuna-style sauce to help ease hangovers.",
+  "cuisine": [
+    "Algerian"
+  ],
+  "diet": [
+    "low-carb",
+    "alcohol-detox"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tripe",
+      "amount": "1 kg",
+      "notes": "ensure it is fresh and properly cleaned"
+    },
+    {
+      "name": "onion",
+      "amount": "2",
+      "notes": "chopped finely"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "200ml",
+      "notes": "adjust to taste with water or vegetable broth"
+    },
+    {
+      "name": "bhuna spices blend",
+      "amount": "2 tsp",
+      "notes": "blend of cumin, coriander, turmeric, and other preferred spices"
+    },
+    {
+      "name": "tahini sauce",
+      "amount": "1/4 cup",
+      "notes": "adjust to taste with water or lemon juice for a creamy texture"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "optional for tanginess and color enhancement"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "use sea salt for better flavor"
+    }
+  ],
+  "instructions": [
+    "Rinse tripe under cold water, then soak it in a solution of white vinegar and warm water to remove any impurities. Pat dry.",
+    "Heat a large skillet over medium heat. Sauté chopped onion and minced garlic until translucent and golden brown.",
+    "Add grated ginger along with bhuna spices blend and stir-fry for 1-2 minutes, allowing the spices to release their flavors into the oil.",
+    "Push aside the vegetable mixture and add tripe directly into the hot skillet. Cook in a single layer without overcrowding; this helps achieve crispy texture.",
+    "Stir in tomato puree, salt, and lemon juice (optional). Allow the sauce to simmer for about 5-7 minutes until it starts thickening slightly.",
+    "Gradually incorporate tahini sauce while stirring continuously to ensure even cooking of tripe. Adjust seasoning with additional salt or vinegar if necessary.",
+    "Once done, remove from heat and serve hot as a light lunch dish. Garnish with fresh herbs for added freshness."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "umami",
+    "crisp",
+    "hangover-cure",
+    "algerian"
+  ],
+  "nutrition": {
+    "calories": 370,
+    "protein": 21,
+    "carbs": 6,
+    "fat": 24
+  },
+  "slug": "crisp-umami-tripe-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-umami-tripe-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T00:33:44Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crisp",
+    "mood": "hangover-cure",
+    "technique": "bhuna",
+    "primaryIngredient": "tripe",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Tripe",
+    "descriptor": "Umami Crisp",
+    "dishForm": "Stir-fry"
+  }
+}
