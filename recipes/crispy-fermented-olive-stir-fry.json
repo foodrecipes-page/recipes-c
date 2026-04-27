@@ -1,0 +1,87 @@
+{
+  "title": "Crispy Fermented Olive Stir-fry",
+  "description": "An adventurous greek dish featuring crispy fermented olives in a mediterranean-friendly stir-fry with warm water and tempering techniques.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4-6 pieces",
+      "notes": "minced"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fermented olives",
+      "amount": "1 cup packed",
+      "notes": "crispy, brined and fermented for 3 weeks or more"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "warm water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "temperer",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix together olive oil and minced garlic cloves. Heat the mixture over medium heat.",
+    "Add red pepper flakes to the heated mixture and stir for about 30 seconds until fragrant.",
+    "Drain fermented olives well and add them into the pan with the garlic mixture. Stir gently to combine and coat olives evenly.",
+    "Slowly drizzle in warm water while constantly stirring, starting from the side of the pan opposite the heat source to prevent splattering.",
+    "Continue adding warm water gradually, using a spoon or spatula as needed to incorporate it into the olives without overworking them. Use temperer and salt to taste as you stir.",
+    "When all water is incorporated, remove from heat immediately. Serve hot with crusty bread for dipping."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "fermented",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 9,
+    "carbs": 15,
+    "fat": 7
+  },
+  "slug": "crispy-fermented-olive-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-fermented-olive-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T21:37:41Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crispy",
+    "mood": "adventurous",
+    "technique": "temper",
+    "primaryIngredient": "warm water",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Olive",
+    "descriptor": "Fermented Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
