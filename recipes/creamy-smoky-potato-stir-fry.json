@@ -1,0 +1,99 @@
+{
+  "title": "Creamy Smoky Potato Stir-fry",
+  "description": "A quick and easy weeknight dish featuring creamy potatoes cooked in a smoky vegetable shortening sauce, perfect for those looking to reduce their fat intake while maintaining the authentic Indian (Punjabi) flavors.",
+  "cuisine": "Indian (Punjabi)",
+  "diet": [
+    "low-fat-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 medium"
+    },
+    {
+      "name": "vegetable shortening",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped onions",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/8 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "curry leaves",
+      "amount": "5-6, fresh or 1 tablespoon dried"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "water",
+      "amount": "enough to make a paste with sugar and cayenne pepper"
+    }
+  ],
+  "instructions": [
+    "Boil the potatoes in water until tender. Drain and set aside.",
+    "In a small bowl, mix the water, sugar, cayenne pepper, and salt to form a smooth paste.",
+    "Heat vegetable shortening in a pan over medium heat. Add onions and sauté until translucent, then add garlic and cook for another minute.",
+    "Stir in cumin seeds, coriander powder, curry leaves, and the sugar-cayenne pepper water mixture. Simmer for 2-3 minutes to allow flavors to meld.",
+    "Add boiled potatoes to the pan with a little bit of the cooking liquid from the potatoes, tossing them around so they are evenly coated with sauce.",
+    "Simmer for another minute until the potatoes absorb the sauce and are tender.",
+    "Serve hot as a side dish or over rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "creamy",
+    "smoky",
+    "potato",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 169,
+    "protein": 7,
+    "carbs": 26,
+    "fat": 5
+  },
+  "slug": "creamy-smoky-potato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-smoky-potato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T03:56:57Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "creamy",
+    "mood": "weeknight",
+    "technique": "whisk",
+    "primaryIngredient": "vegetable shortening",
+    "diet": "low-fat",
+    "region": "punjabi",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "potato",
+    "descriptor": "Creamy Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
