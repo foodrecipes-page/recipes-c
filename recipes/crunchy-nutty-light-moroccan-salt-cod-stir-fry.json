@@ -1,0 +1,93 @@
+{
+  "title": "Crunchy Nutty Light Moroccan Salt Cod Stir-fry",
+  "description": "A light and flavorful Moroccan dish featuring crispy salt cod with a nutty and crunchy texture, served as a snack or light meal.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Salt Cod",
+      "amount": "200g"
+    },
+    {
+      "name": "Almonds",
+      "amount": "50g"
+    },
+    {
+      "name": "Pecans",
+      "amount": "30g"
+    },
+    {
+      "name": "Sunflower Seeds",
+      "amount": "100g"
+    },
+    {
+      "name": "Red Peppers",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "for frying and cooking"
+    }
+  ],
+  "instructions": [
+    "Clean the salt cod, pat dry with paper towels, and cut into small cubes.",
+    "Toast almonds and pecans in a dry pan until fragrant. Cool before chopping finely.",
+    "Soak sunflower seeds in water for 10 minutes to soften slightly.",
+    "Cut red peppers into thin strips and sauté them in olive oil over medium heat until tender, then add the garlic and cook briefly.",
+    "Add salt cod cubes to the pan with the peppers. Season with turmeric powder and cumin powder, cooking until the liquid evaporates and the fish turns golden brown on all sides.",
+    "Stir in toasted almonds and pecans, followed by sunflower seeds, cooking for another minute or two.",
+    "Transfer to a serving dish, garnish with fresh mint leaves if available, serve hot as a snack."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy-nutty",
+    "light-moroccan",
+    "salt-cod-stir-fry",
+    "egg-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 18,
+    "fat": 16
+  },
+  "slug": "crunchy-nutty-light-moroccan-salt-cod-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-nutty-light-moroccan-salt-cod-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T12:48:11Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crunchy",
+    "mood": "light",
+    "technique": "temper",
+    "primaryIngredient": "salt cod",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Salt Cod",
+    "descriptor": "Nutty Crunchy Light",
+    "dishForm": "Stir-fry"
+  }
+}
