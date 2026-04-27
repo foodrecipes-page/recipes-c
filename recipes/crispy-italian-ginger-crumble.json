@@ -1,0 +1,78 @@
+{
+  "title": "Crispy Italian Ginger Crumble",
+  "description": "A savory and crispy low-carb-friendly kid-friendly dish featuring ground ginger in a marinade that makes the perfect topping for zucchini or sweet potato rounds.",
+  "cuisine": "Italian (Sicilian)",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 cups grated zucchini"
+    },
+    {
+      "name": "1/4 cup almond flour"
+    },
+    {
+      "name": "Juice of 3 lemons"
+    },
+    {
+      "name": "Juice of 1 orange"
+    },
+    {
+      "name": "1 tablespoon honey"
+    },
+    {
+      "name": "2 tablespoons olive oil"
+    },
+    {
+      "name": "2 tablespoons grated lemon zest"
+    },
+    {
+      "name": "1/4 teaspoon ground ginger"
+    },
+    {
+      "name": "Pinch of salt"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, mix the zucchini, almond flour, lemon juice, orange juice, honey, olive oil, lemon zest, ground ginger, and salt.",
+    "Line baking sheets with parchment paper. Place mixture on prepared pans and bake for about 25 minutes or until golden brown.",
+    "Serve warm as a snack or side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "low-carb",
+    "gourmet"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 4,
+    "carbs": 6,
+    "fat": 3
+  },
+  "slug": "crispy-italian-ginger-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-italian-ginger-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T12:27:14Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crispy",
+    "mood": "kid-friendly",
+    "technique": "marinate",
+    "primaryIngredient": "ground ginger",
+    "diet": "low-carb",
+    "region": "sicilian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Ginger",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
