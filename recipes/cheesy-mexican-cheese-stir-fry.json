@@ -1,0 +1,96 @@
+{
+  "title": "Cheesy Mexican Cheese Stir-fry",
+  "description": "A buttery, dense Venezuelan dish with a midnight-craving twist featuring buttermilk and bhuna spices, nut-free-friendly.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegan",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Buttermilk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Red pepper flakes (optional)",
+      "amount": "a few pinch"
+    },
+    {
+      "name": "Bhuna masala powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Cheddar cheese, grated",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Peanut butter (for added richness - optional but recommended)",
+      "amount": "a few tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onions and garlic; sauté until translucent.",
+    "Stir in tomato paste, salt, and red pepper flakes. Cook for about 2 minutes.",
+    "Mix Bhuna masala powder into the sauce to create a fragrant aroma and flavor.",
+    "Pour in buttermilk and stir well.",
+    "Garnish with grated cheese and if desired, add a few tablespoons of peanut butter for added richness and creaminess.",
+    "Stir until cheese is melted and everything combines nicely.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "stir-fry",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 719,
+    "protein": 16.4,
+    "carbs": 50.2,
+    "fat": 38.9
+  },
+  "slug": "cheesy-mexican-cheese-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cheesy-mexican-cheese-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T16:27:52Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "dense",
+    "mood": "midnight-craving",
+    "technique": "bhuna",
+    "primaryIngredient": "buttermilk",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "cheese",
+    "descriptor": "Cheesy",
+    "dishForm": "Stir-fry"
+  }
+}
