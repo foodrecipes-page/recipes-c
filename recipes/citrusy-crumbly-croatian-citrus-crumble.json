@@ -1,0 +1,109 @@
+{
+  "title": "Citrusy Crumbly Croatian Citrus Crumble",
+  "description": "A lazy-sunday treat featuring a citrusy crumbly topping with star anise and sous-vide technique for egg-free-friendly dessert.",
+  "cuisine": "Croatian",
+  "diet": [
+    "ovo-free",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Sour Cherries (or any sour fruit of choice)",
+      "amount": "1 cup",
+      "notes": "For tartness"
+    },
+    {
+      "name": "Fresh Lemon Zest",
+      "amount": "1/4 cup",
+      "notes": "For flavoring"
+    },
+    {
+      "name": "Star Anise (grounded)",
+      "amount": "1 tsp",
+      "notes": "For unique citrusy aroma and taste"
+    },
+    {
+      "name": "Saffron Threads",
+      "amount": "2 threads",
+      "notes": "For color and depth of flavor"
+    },
+    {
+      "name": "Vanilla Bean, split lengthwise",
+      "amount": "1 piece",
+      "notes": "To enhance the citrusy profile"
+    },
+    {
+      "name": "Lemon Juice (freshly squeezed)",
+      "amount": "1/2 cup",
+      "notes": "For acidity and brightness"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "3/4 cup",
+      "notes": "For sweetness"
+    },
+    {
+      "name": "Almond Meal or All-Purpose Flour",
+      "amount": "1 cup",
+      "notes": "For the crumbly topping"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": "For binding and moisture retention"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "3 tablespoons",
+      "notes": "For garnishing and aroma"
+    }
+  ],
+  "instructions": [
+    "Place sour cherries, lemon zest, star anise, saffron threads, vanilla bean, and lemon juice in a large zip-top bag. Seal tightly and marinate at room temperature for about 2 hours.",
+    "Preheat your sous-vide machine to 71°C (160°F) and place the marinade-filled bag in it for about 30 minutes to tenderize the fruit while infusing flavors.",
+    "Transfer the mixture to a large pot, add granulated sugar and bring to a boil over medium heat. Stir until the sugar dissolves completely, then remove from heat.",
+    "Add almond meal or flour, vegetable oil, and lemon zest to the pot. Mix well until you achieve a crumbly texture, being careful not to overmix as it might affect the consistency of the topping.",
+    "Transfer the warm mixture to a clean surface, let it cool slightly. Gently fold in any additional ingredients like seeds or nuts for an extra burst of flavor if desired.",
+    "Preheat your oven to 150°C (300°F). Spoon the crumbly mixture over the fruit and spread evenly on a baking sheet lined with parchment paper.",
+    "Bake in the preheated oven for about 20-25 minutes or until golden brown. Allow it to cool slightly before serving garnished with extra lemon zest if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "crumbly",
+    "lazy-sunday",
+    "croatian",
+    "star-anise",
+    "sous-vide",
+    "egg-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 45,
+    "fat": 8
+  },
+  "slug": "citrusy-crumbly-croatian-citrus-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-crumbly-croatian-citrus-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T04:14:32Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crumbly",
+    "mood": "lazy-sunday",
+    "technique": "sous-vide",
+    "primaryIngredient": "star anise",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Citrus",
+    "descriptor": "Citrusy Crumbly",
+    "dishForm": "Crumble"
+  }
+}
