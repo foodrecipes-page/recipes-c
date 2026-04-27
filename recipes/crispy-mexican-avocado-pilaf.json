@@ -1,0 +1,83 @@
+{
+  "title": "Crispy Mexican Avocado Pilaf with Dark Chocolate Chips",
+  "description": "A herbal and crisp date-night dish featuring dark chocolate chips in a slow-cooked avocado pilaf that's nut-free-friendly.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegan",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup ripe avocados",
+      "amount": "",
+      "notes": "Sliced into small pieces"
+    },
+    {
+      "name": "2 cups diced onion"
+    },
+    {
+      "name": "1 can black beans, rinsed and drained"
+    },
+    {
+      "name": "1/4 cup chopped fresh cilantro"
+    },
+    {
+      "name": "Pinch of salt"
+    },
+    {
+      "name": "Pinch of cayenne pepper"
+    },
+    {
+      "name": "1 tbsp olive oil"
+    },
+    {
+      "name": "6-8 dried herbs (e.g. thyme, oregano)"
+    },
+    {
+      "name": "3 dates",
+      "notes": "pitted and finely chopped"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add sliced avocados and diced onions to the pan, cook for about 5 minutes until softened.",
+    "Stir in rinsed black beans, salt, cayenne pepper, dried herbs, and chopped dates. Cook for an additional 3-4 minutes allowing everything to combine well.",
+    "Transfer mixture into a slow cooker (or use high heat if preferred), stir in dark chocolate chips before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy-mexican-avocado-pilaf",
+    "date-night-dish",
+    "herbal-date-night",
+    "slow-cooker-dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 38,
+    "fat": 10
+  },
+  "slug": "crispy-mexican-avocado-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-mexican-avocado-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T15:27:55Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crisp",
+    "mood": "date-night",
+    "technique": "slow-cook",
+    "primaryIngredient": "dark chocolate chips",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "avocado",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
