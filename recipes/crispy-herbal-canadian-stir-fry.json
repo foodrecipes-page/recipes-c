@@ -1,0 +1,95 @@
+{
+  "title": "Crispy Herbal Canadian Stir-fry",
+  "description": "A cozy herbal dish featuring pecorino cheese in a crispy and Paleo-friendly stir-fry.",
+  "cuisine": "Canadian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pecorino cheese",
+      "amount": "1/4 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "boneless chicken breast",
+      "amount": "2 pieces",
+      "notes": "skin-on and cut into bite-sized pieces"
+    },
+    {
+      "name": "italian herb blend",
+      "amount": "1 tablespoon",
+      "notes": "such as oregano, basil, thyme"
+    },
+    {
+      "name": "sweet bell pepper",
+      "amount": "2 cups",
+      "notes": "diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "sliced into thin rounds"
+    },
+    {
+      "name": "egg whites",
+      "amount": "3",
+      "notes": "for crispy coating"
+    },
+    {
+      "name": "paleo-friendly soy sauce or tamari",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Mix the pecorino cheese with a pinch of salt and pepper to taste.",
+    "Dip chicken pieces in the cheese mixture, then coat evenly with egg whites for crispy texture when fried.",
+    "Heat oil in a pan over medium-high heat. Add chicken pieces and fry until golden brown on both sides (approximately 6 minutes per side).",
+    "Remove chicken from pan and set aside. Heat remaining oil in the same pan if needed, add bell peppers, onions, and zucchini. Stir-fry for about 5 minutes.",
+    "Return chicken to the pan along with a few spoonfuls of paleo-friendly soy sauce or tamari. Mix well until all ingredients are coated evenly.",
+    "Serve hot as an accompaniment to any Paleo meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "herbal",
+    "cozy",
+    "canadian",
+    "stir-fry",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 607,
+    "protein": 35,
+    "carbs": 14,
+    "fat": 29
+  },
+  "slug": "crispy-herbal-canadian-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-herbal-canadian-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T13:13:06Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crispy",
+    "mood": "cozy",
+    "technique": "fry",
+    "primaryIngredient": "pecorino",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Herb",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
