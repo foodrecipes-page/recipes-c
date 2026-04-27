@@ -1,0 +1,75 @@
+{
+  "title": "Citrusy Silky Feta Grilled Cubes",
+  "description": "A monsoon-inspired Slovakian dish featuring grilled cubed feta cheese infused with citrus for a silky and tangy flavor.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Feta Cheese",
+      "amount": "1 cup crumbled"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh Lemon Zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Orange Zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "Pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to medium-high heat.",
+    "Mix together the crumbled feta cheese, olive oil, lemon zest, orange zest, salt, and black pepper in a large bowl.",
+    "Shape the mixture into small cubes (about 1 inch each).",
+    "Place the cube-shaped feta pieces on the preheated grill and cook for about 2-3 minutes per side or until golden brown and crispy.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 6,
+  "totalTimeMin": 11,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "feta",
+    "grilled",
+    "citrusy",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 9,
+    "fat": 14
+  },
+  "slug": "citrusy-silky-feta-grilled-cubes",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-silky-feta-grilled-cubes",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T15:26:18Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "silky",
+    "mood": "monsoon",
+    "technique": "grill",
+    "primaryIngredient": "cubed feta cheese",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "feta cheese",
+    "descriptor": "Citrusy Silky",
+    "dishForm": "Grilled Cubes"
+  }
+}
