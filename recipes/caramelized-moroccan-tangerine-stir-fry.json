@@ -1,0 +1,92 @@
+{
+  "title": "Caramelized Moroccan Tangerine Stir-fry",
+  "description": "A tangy and creamy crowd-pleaser featuring Thai green curry paste, caramelize the tangerines for a unique twist that's raw-friendly.",
+  "cuisine": "Moroccan with Thai influences",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Thai green curry paste",
+      "amount": "1 tablespoon",
+      "notes": "Make sure it's vegan"
+    },
+    {
+      "name": "Ground beef or tofu for protein",
+      "amount": "100 grams",
+      "notes": "Use a high-quality protein source that aligns with dietary preferences"
+    },
+    {
+      "name": "Canned tangerines (optional)",
+      "amount": "2 cans",
+      "notes": "Choose unsweetened and low-sodium versions, if available"
+    },
+    {
+      "name": "Water or vegetable broth",
+      "amount": "1 cup",
+      "notes": "For best results use non-dairy alternatives for a vegan option"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "Ensure it's safe to consume raw"
+    },
+    {
+      "name": "Red bell pepper, sliced",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Green onion, finely chopped",
+      "amount": "3-4",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (180°C).",
+    "Prepare the tangerines by washing them and halving. Use a spoon to scrape out the seeds and membranes.",
+    "Place the tangerine halves in a shallow baking dish. Drizzle with oil, cover with foil, and bake for about 15 minutes or until they are caramelized.",
+    "Meanwhile, mix all curry paste ingredients (except those mentioned earlier) in a bowl. Heat oil in a large skillet over medium-high heat.",
+    "Add the protein and sauté until browned. Then add bell pepper and chopped green onions to the pan for 2-3 minutes or until softened.",
+    "Pour in the tangerine juice, stir curry paste mixture into the pan with all ingredients. Simmer for about 5 minutes until thickened.",
+    "Garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "tangy",
+    "caramelized",
+    "raw-friendly",
+    "thai-green-curry-paste"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 25,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "caramelized-moroccan-tangerine-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/caramelized-moroccan-tangerine-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T17:28:40Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "creamy",
+    "mood": "crowd-pleaser",
+    "technique": "caramelize",
+    "primaryIngredient": "thai green curry paste",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Tangerine",
+    "descriptor": "Caramelized",
+    "dishForm": "Stir-fry"
+  }
+}
