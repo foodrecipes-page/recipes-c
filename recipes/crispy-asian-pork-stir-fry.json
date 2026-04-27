@@ -1,0 +1,114 @@
+{
+  "title": "Crispy Asian Pork Stir-fry",
+  "description": "A rich and comforting Polish dish featuring crispy pork slices in a blend of pineapple juice and other aromatic seasonings, perfect for a light dinner that's both low-fat-friendly and satisfying.",
+  "cuisine": "Polish",
+  "diet": [
+    "low-fat",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork loin",
+      "amount": "200g",
+      "notes": "boneless"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp",
+      "notes": "fresh, minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "pork chop marinade",
+      "amount": "2 tsp",
+      "notes": "including soy sauce, rice vinegar, and sesame oil"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tbsp",
+      "notes": "for dredging pork chops in a light batter"
+    },
+    {
+      "name": "cooking spray or olive oil",
+      "amount": null
+    },
+    {
+      "name": "pork stock",
+      "amount": "1 cup",
+      "notes": "low-sodium, optional for extra flavor"
+    },
+    {
+      "name": "pineapple chunks",
+      "amount": "2 cups",
+      "notes": "chopped and drained of juice"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "3 tbsp",
+      "notes": "low-sodium if available"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": "for caramelizing pineapple"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced, or 1 tbsp garlic paste"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Mix pork chop marinade in a bowl. Season the pork loin with salt and coat each piece lightly with cornstarch.",
+    "Heat cooking spray or olive oil over medium-high heat in a wok or large skillet. Add pineapple chunks, garlic, and sugar, sautéing until caramelized (about 5 minutes).",
+    "Add marinated pork to the skillet. Let cook for about 2-3 minutes on each side until golden brown.",
+    "Deglaze the pan with pork stock and pour in a cup of pineapple juice. Stir well to combine all ingredients, adding more pineapple juice if necessary for desired consistency.",
+    "Bring to a boil, reduce heat, cover, and simmer for 5-7 minutes or until sauce thickens slightly.",
+    "Add chopped green onions just before serving. Garnish with additional green onions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy-pork-stir-fry",
+    "pork-chop-marination",
+    "low-fat-friendly-dish",
+    "rich-and-comforting"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 31,
+    "carbs": 37,
+    "fat": 18
+  },
+  "slug": "crispy-asian-pork-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-asian-pork-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T02:55:38Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crisp",
+    "mood": "comforting",
+    "technique": "roast",
+    "primaryIngredient": "pineapple juice",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Asian",
+    "mainIngredient": "pork",
+    "descriptor": "Richly Crispy Roasted",
+    "dishForm": "Stir-fry"
+  }
+}
