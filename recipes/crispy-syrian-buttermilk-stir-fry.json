@@ -1,0 +1,84 @@
+{
+  "title": "Crispy Syrian Buttermilk Stir-Fry",
+  "description": "A floral, crispy Syrian dish featuring buttermilk, served as a hangover-cure and paleo-friendly option.",
+  "cuisine": "Syrian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Buttermilk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Ground Cumin",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Ground Coriander",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "1 crushed"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Pistachio Nuts",
+      "amount": "a handful, roughly chopped"
+    }
+  ],
+  "instructions": [
+    "Place the buttermilk in a shallow dish and add ground cumin, coriander, turmeric powder, salt, crushed garlic clove, onion, and chopped pistachios. Mix well to combine.",
+    "Sous-vide the mixture at 160°F for about 3 hours to create a crispy texture without oil.",
+    "Once sous-vived, remove from the bag and mix thoroughly with your hands until fully combined.",
+    "Serve immediately as a snack or hangover cure."
+  ],
+  "prepTimeMin": 2,
+  "cookTimeMin": 180,
+  "totalTimeMin": 180,
+  "servings": 3,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "hangover",
+    "syrian",
+    "floral"
+  ],
+  "nutrition": {
+    "calories": 254,
+    "protein": 8.9,
+    "carbs": 16,
+    "fat": 3.7
+  },
+  "slug": "crispy-syrian-buttermilk-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-syrian-buttermilk-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T23:25:23Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crispy",
+    "mood": "hangover-cure",
+    "technique": "sous-vide",
+    "primaryIngredient": "buttermilk",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Buttermilk",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
