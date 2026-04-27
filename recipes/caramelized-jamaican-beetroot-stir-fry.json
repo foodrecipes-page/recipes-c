@@ -1,0 +1,85 @@
+{
+  "title": "Caramelized Jamaican Beetroot Stir-fry",
+  "description": "An energizing earthy dish featuring crispy cooked beetroot, deglazed with a touch of sweetness to complement the natural earthiness of the root vegetable.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Beetroot",
+      "amount": "2 medium beetroot"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Salt",
+      "amount": "A pinch"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "A pinch"
+    },
+    {
+      "name": "Paprika",
+      "amount": "A pinch"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tbsp (optional)"
+    },
+    {
+      "name": "Almond Butter",
+      "amount": "2 tsp (substitute with coconut oil for a non-paleo option)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Wash and peel the beetroot, then slice them into thin rounds or julienne strips.",
+    "In a large skillet, heat vegetable oil over medium-high heat. Add beetroot slices, garlic, a pinch of salt, black pepper, and paprika. Stir-fry until the beetroot is lightly charred and tender, about 5-7 minutes.",
+    "Deglaze the pan with lemon juice and almond butter (or coconut oil). Cook for an additional minute to reduce slightly and intensify flavors.",
+    "Serve immediately as a snack or side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beetroot-stir-fry",
+    "paleo-friendly",
+    "earthly-dish",
+    "crisp-and-energizing"
+  ],
+  "nutrition": {
+    "calories": 130,
+    "protein": 2,
+    "carbs": 14,
+    "fat": 6
+  },
+  "slug": "caramelized-jamaican-beetroot-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/caramelized-jamaican-beetroot-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T15:43:57Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crisp",
+    "mood": "energizing",
+    "technique": "deglaze",
+    "primaryIngredient": "cooked beetroot",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "beetroot",
+    "descriptor": "Earthy Caramelized",
+    "dishForm": "Stir-fry"
+  }
+}
