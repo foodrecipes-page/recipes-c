@@ -1,0 +1,84 @@
+{
+  "title": "Caramelized Malaysian Lamb Stir-Fry",
+  "description": "A herbal, dense dish featuring lamb mince in a low-fat-friendly caramelization style, perfect for post-workout recovery.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "low-fat",
+    "post-workout"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "lamb mince",
+      "amount": "150g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp, peeled and julienned"
+    },
+    {
+      "name": "coriander leaves",
+      "amount": "20g, for garnish"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok over medium-high heat.",
+    "Add onion and garlic; sauté until translucent, about 3 minutes.",
+    "Stir in lamb mince and cook until browned, breaking it up into small pieces with a spoon, about 5 minutes.",
+    "Toss in julienned ginger and continue cooking for an additional 2 minutes.",
+    "Drizzle soy sauce evenly over the mixture and stir to coat.",
+    "Add lime juice and mix well.",
+    "Stir in chopped coriander leaves just before serving.",
+    "Serve immediately while still hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "caramelized",
+    "stir-fry",
+    "malaysian"
+  ],
+  "nutrition": {
+    "calories": 419,
+    "protein": 28,
+    "carbs": 6,
+    "fat": 13
+  },
+  "slug": "caramelized-malaysian-lamb-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/caramelized-malaysian-lamb-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T20:48:22Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "dense",
+    "mood": "post-workout",
+    "technique": "caramelize",
+    "primaryIngredient": "lamb mince",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "lamb",
+    "descriptor": "Caramelized",
+    "dishForm": "Stir-fry"
+  }
+}
