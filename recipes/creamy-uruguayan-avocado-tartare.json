@@ -1,0 +1,85 @@
+{
+  "title": "Creamy Uruguayan Avocado Tartare",
+  "description": "This tangy, gooey dish features lemon juice and is both energizing and plant-based-friendly.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "avocado",
+      "amount": "2 ripe avocados"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup fresh lemon juice"
+    },
+    {
+      "name": "capers",
+      "amount": "30 grams small, finely chopped"
+    },
+    {
+      "name": "shallot",
+      "amount": "1 medium shallot, finely chopped"
+    },
+    {
+      "name": "cilantro leaves",
+      "amount": "6 sprigs fresh cilantro, roughly chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons extra virgin olive oil"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Prepare the avocado by removing it from its skin and pitting. Scoop out about half of the flesh into a mixing bowl.",
+    "Add lemon juice, finely chopped shallot, capers, and salt to the avocado mixture. Mix well.",
+    "Fold in roughly chopped cilantro leaves until combined evenly.",
+    "Slowly add olive oil while continuously mixing with a whisk or fork to create a smooth, creamy sauce.",
+    "Transfer the mixture into a serving dish, ensuring it’s evenly spread out.",
+    "Drizzle more olive oil over the top for added shine and flavor. Garnish with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "cream",
+    "tartare",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 74,
+    "protein": 3,
+    "carbs": 9,
+    "fat": 8
+  },
+  "slug": "creamy-uruguayan-avocado-tartare",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-uruguayan-avocado-tartare",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T16:13:56Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "gooey",
+    "mood": "energizing",
+    "technique": "broil",
+    "primaryIngredient": "lemon juice",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Avocado",
+    "descriptor": "Creamy",
+    "dishForm": "Tartare"
+  }
+}
