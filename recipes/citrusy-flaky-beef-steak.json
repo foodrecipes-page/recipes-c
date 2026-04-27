@@ -1,0 +1,95 @@
+{
+  "title": "Citrusy Flaky Beef Steak",
+  "description": "A savory and citrus-infused dish featuring a tender beef fillet served for date night with Ukrainian flavors, suitable for low-fat diets.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef fillet",
+      "amount": "150g",
+      "notes": "skinless and boneless"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "2 tablespoons",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "dill sprigs",
+      "amount": "2-3",
+      "notes": "for added freshness"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced for a mild garlic flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "fresh dill leaves",
+      "amount": "1 tablespoon",
+      "notes": "for garnish"
+    },
+    {
+      "name": "orange wedges",
+      "amount": "4-6",
+      "notes": "juiced for extra citrus flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (392°F).",
+    "Trim any excess fat from the beef fillet.",
+    "Rub both sides of the beef with olive oil, salt, and freshly ground black pepper.",
+    "Place the beef on a baking sheet lined with parchment paper.",
+    "In a small bowl, mix lemon zest, minced garlic, orange juice, fresh dill leaves, and a pinch of salt together to create the marinade. Drizzle this mixture over the seasoned beef fillet.",
+    "Bake in the preheated oven for 15 minutes or until cooked through (internal temperature reaches 63°C or above).",
+    "Remove from oven and let rest for about 5 minutes before slicing thinly across the grain to serve with citrus wedges and fresh dill."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef-steak",
+    "citrus-flavor",
+    "low-fat-friendly",
+    "date-night"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 15,
+    "fat": 9
+  },
+  "slug": "citrusy-flaky-beef-steak",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-flaky-beef-steak",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T15:06:24Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "flaky",
+    "mood": "date-night",
+    "technique": "smoke",
+    "primaryIngredient": "beef fillet",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "beef",
+    "descriptor": "Citrusy Flaky",
+    "dishForm": "Steak"
+  }
+}
