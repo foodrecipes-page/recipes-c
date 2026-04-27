@@ -1,0 +1,84 @@
+{
+  "title": "Crumbly Turkish Dates Crumble",
+  "description": "An earthy and crumbly date-night dish featuring toasted dates, lemongrass stalks, and a sweet and spicy topping suitable for kosher-friendly cooking.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "1 cup"
+    },
+    {
+      "name": "flaxseeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "almond meal or almond flour",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "cinnamon powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cedar wood chips or lemongrass stalks (optional)",
+      "notes": "for added flavor and aroma"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (392°F).",
+    "Toast dates in a pan until they're soft and fragrant, about 5 minutes.",
+    "Mix flaxseeds with sugar and set aside for easier handling.",
+    "In another bowl, mix almond meal or flour, sesame seeds, butter, and cinnamon powder. Combine well and stir in toasted dates and optional lemongrass.",
+    "Press mixture evenly onto the bottom of a baking dish lined with parchment paper.",
+    "Bake for 20-25 minutes until golden brown. Let cool before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crumbly",
+    "turkish",
+    "date-night",
+    "kosher-friendly"
+  ],
+  "nutrition": {
+    "calories": 519,
+    "protein": 7.6,
+    "carbs": 53.2,
+    "fat": 14
+  },
+  "slug": "crumbly-turkish-dates-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-turkish-dates-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T11:58:38Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crumbly",
+    "mood": "date-night",
+    "technique": "broil",
+    "primaryIngredient": "lemongrass stalks",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Dates",
+    "descriptor": "Crumbly",
+    "dishForm": "Crumble"
+  }
+}
