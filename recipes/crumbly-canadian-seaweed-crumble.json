@@ -1,0 +1,84 @@
+{
+  "title": "Crumbly Canadian Seaweed Crumble",
+  "description": "A fermented and crumbly seaweed dish with a mixture powder that is pescatarian-friendly, perfect for adventurous palates.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Seaweed Powder",
+      "amount": "1 tbsp",
+      "notes": "Use a non-fermented variety as per pescatarian diet"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp",
+      "notes": "Opt for MCT oil or other low-medium heat safe oils"
+    },
+    {
+      "name": "Almond Flour",
+      "amount": "1/4 cup",
+      "notes": "Use gluten-free almond flour if necessary"
+    },
+    {
+      "name": "Coconut Sugar",
+      "amount": "2 tbsp",
+      "notes": "Adjust sweetness based on taste preference"
+    },
+    {
+      "name": "Vanilla Bean Powder",
+      "amount": "Pinch",
+      "notes": "For extra depth of flavor"
+    },
+    {
+      "name": "Fermented Miso Paste",
+      "amount": "1/4 tsp",
+      "notes": "Optional for fermented taste, pescatarian option"
+    },
+    {
+      "name": "Water or Vegan Milk",
+      "amount": "3 tbsp",
+      "notes": "For binding and moisture addition"
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl, combine seaweed powder, coconut oil, almond flour, coconut sugar, vanilla bean powder, and fermented miso paste (if using). Stir well to ensure all ingredients are evenly distributed.",
+    "Slowly add water or vegan milk while continuously stirring until you achieve a crumbly consistency that can be spread thinly. This may require some kneading for better texture.",
+    "Transfer the mixture onto a baking sheet lined with parchment paper. Use a spoon or spatula to create layers, making sure each layer is evenly distributed and thin.",
+    "Bake at 180°C (350°F) for about 20-25 minutes or until golden brown on top. Keep an eye as it can easily burn. Let cool completely before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crumbly-canadian",
+    "fermented-seaweed",
+    "pescatarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 8
+  },
+  "slug": "crumbly-canadian-seaweed-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-canadian-seaweed-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T19:56:12Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crumbly",
+    "mood": "adventurous",
+    "technique": "rest",
+    "primaryIngredient": "mixture powder",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Seaweed",
+    "descriptor": "Crumbly",
+    "dishForm": "Crumble"
+  }
+}
