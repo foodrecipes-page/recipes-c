@@ -1,0 +1,82 @@
+{
+  "title": "Crispy Slovakian Butter Stir-fry",
+  "description": "A low-sodium-friendly, buttery and crisp solo-dinner dish featuring dark soy sauce to complement the flavors of dark bread.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dark Soy Sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Low-Sodium Chicken Broth",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Dark Bread Cubes",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Minced Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Low-Sodium Chicken Broth",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt and Pepper",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, combine dark soy sauce, low-sodium chicken broth, olive oil, sour cream, minced garlic, salt, and pepper. Bring to a simmer.",
+    "Heat the stove to medium-high. Add dark bread cubes into the hot oil until they are crispy and golden brown on all sides.",
+    "Once the bread is done, add it to the saucepan with the marinade mixture. Mix well until evenly coated.",
+    "Serve warm as an appetizer or side dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "slovakian",
+    "buttery",
+    "crispy",
+    "dark_soy_sauce"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 13,
+    "carbs": 32,
+    "fat": 7
+  },
+  "slug": "crispy-slovakian-butter-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-slovakian-butter-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T10:06:18Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crisp",
+    "mood": "solo-dinner",
+    "technique": "whisk",
+    "primaryIngredient": "dark soy sauce",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Butter",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
