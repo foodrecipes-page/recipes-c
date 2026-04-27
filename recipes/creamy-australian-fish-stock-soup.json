@@ -1,0 +1,95 @@
+{
+  "title": "Creamy Australian Fish Stock Soup",
+  "description": "A herbal and creamy soup featuring fish stock with a touch of nut-free-friendly herbs to help cure hangovers.",
+  "cuisine": "Australian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish Stock",
+      "amount": "2 cups",
+      "notes": "Ensure it is shelf-stable and ready-to-use"
+    },
+    {
+      "name": "Butternut Squash",
+      "amount": "1 medium",
+      "notes": "Peel, seed, and dice into chunks"
+    },
+    {
+      "name": "Leeks",
+      "amount": "2",
+      "notes": "Wash and finely chop"
+    },
+    {
+      "name": "Thyme Sprigs",
+      "amount": "2",
+      "notes": "Fresh or dried, optional for flavoring"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Worcestershire Sauce",
+      "amount": "1 tsp",
+      "notes": "Use to add depth and umami"
+    },
+    {
+      "name": "Cream (Nut-Free Option)",
+      "amount": "2 cups",
+      "notes": "Replace with coconut cream or almond milk if needed"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a pot over medium heat and add the fish stock. Bring to a simmer.",
+    "Add finely chopped leeks, diced butternut squash, thyme sprigs, and onion to the pot. Season with salt and black pepper to taste.",
+    "Simmer for about 20 minutes until all vegetables are tender. Remove from heat and discard thyme sprigs if using.",
+    "Stir in Worcestershire sauce and then add the cream (nut-free option). Stir well to combine ingredients.",
+    "Allow the soup to come back to a gentle simmer. Let it cook for an additional 5 minutes, stirring occasionally to prevent burning.",
+    "Ladle into bowls and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "creamy-australian-soup",
+    "hangover-cure",
+    "fish-stock",
+    "nut-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 47,
+    "fat": 9
+  },
+  "slug": "creamy-australian-fish-stock-soup",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-australian-fish-stock-soup",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T14:31:58Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "creamy",
+    "mood": "hangover-cure",
+    "technique": "cure",
+    "primaryIngredient": "fish stock",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Fish",
+    "descriptor": "Creamy",
+    "dishForm": "Soup"
+  }
+}
