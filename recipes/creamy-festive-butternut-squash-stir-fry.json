@@ -1,0 +1,103 @@
+{
+  "title": "Creamy Festive Butternut Squash Stir-fry",
+  "description": "A peppery and creamy festive argentinian dish featuring butternut squash, baked in a paleo-friendly twist.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Butternut Squash",
+      "amount": "1 (medium) piece"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Minced Garlic",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "handful, chopped"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "1/4 tsp (optional)"
+    },
+    {
+      "name": "Boneless Skinless Chicken Breast Fillet",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium piece, sliced"
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "2 small, any color, finely chopped"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Cut butternut squash into thin slices, brush with olive oil and season with salt.",
+    "In a skillet, heat olive oil over medium-high heat. Add minced garlic and sauté for about 1 minute.",
+    "Add chicken fillets to the skillet, skin side down, cook until golden brown (about 4-5 minutes). Remove from pan and set aside.",
+    "Drain excess water from butternut squash slices, arrange in a baking dish. Add zucchini and bell peppers over them.",
+    "Pour coconut milk over all ingredients, then add lemon juice and paprika. Bake for about 20-25 minutes or until vegetables are tender.",
+    "Stir in Cayenne Pepper if desired. Return chicken fillets to the pan with vegetables, toss gently to combine, adding extra paprika if needed.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "butternut-squash",
+    "paleo-friendly",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 316,
+    "protein": 28,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "creamy-festive-butternut-squash-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-festive-butternut-squash-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T20:38:34Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "creamy",
+    "mood": "festive",
+    "technique": "bake",
+    "primaryIngredient": "butternut squash",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Butternut Squash",
+    "descriptor": "Peppery Creamy Festive",
+    "dishForm": "Stir-fry"
+  }
+}
