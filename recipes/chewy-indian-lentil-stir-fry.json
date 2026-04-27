@@ -1,0 +1,96 @@
+{
+  "title": "Chewy Indian Lentil Stir-fry",
+  "description": "A hearty and flavorful herbal stir-fry made with French lentils that provides a comforting meal during sick days.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegan",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup French green lentils",
+      "amount": "cup",
+      "notes": "Washed and drained"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "piece",
+      "notes": "Chopped"
+    },
+    {
+      "name": "1-inch piece ginger root",
+      "amount": "inch",
+      "notes": "Grated"
+    },
+    {
+      "name": "1 red bell pepper",
+      "amount": "medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "1 yellow onion",
+      "amount": "piece",
+      "notes": "Chopped"
+    },
+    {
+      "name": "3 cups mixed vegetables (e.g., carrots, zucchini)",
+      "amount": "cup",
+      "notes": "Washed and thinly sliced"
+    },
+    {
+      "name": "2 tablespoons curry powder",
+      "amount": "tbsp",
+      "notes": "Optional for extra flavor"
+    },
+    {
+      "name": "1/4 cup vegetable broth or water",
+      "amount": "dash",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a tablespoon of oil in a wok over medium-high heat.",
+    "Add the chopped garlic and grated ginger, sauté for about 30 seconds until fragrant.",
+    "Gradually add the lentils, mixed vegetables, and red bell pepper. Stir-fry for 5 minutes or until the vegetables start to soften.",
+    "If using curry powder, add it now and stir well to coat all ingredients evenly.",
+    "Add the chopped onion and continue stirring for another minute.",
+    "Pour in the vegetable broth or water, cover with a lid, reduce heat to low, and simmer for 5-7 minutes or until the lentils are tender.",
+    "Turn off heat and let it sit covered for an additional 2 minutes to ensure all flavors meld together.",
+    "Garnish with fresh cilantro if desired before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french-lentils",
+    "herbal-stir-fry",
+    "sick-day-dish"
+  ],
+  "nutrition": {
+    "calories": 215,
+    "protein": 7,
+    "carbs": 36,
+    "fat": 4
+  },
+  "slug": "chewy-indian-lentil-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-indian-lentil-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T15:33:47Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "chewy",
+    "mood": "sick-day",
+    "technique": "blanch",
+    "primaryIngredient": "french lentils",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "lentils",
+    "descriptor": "Chewy",
+    "dishForm": "Stir-fry"
+  }
+}
