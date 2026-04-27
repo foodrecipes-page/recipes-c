@@ -1,0 +1,87 @@
+{
+  "title": "Chewy Moroccan Galangal Stir-fry",
+  "description": "A fresh, chewy post-workout dish featuring galangal paste in a low-fat-friendly recipe.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "galangal paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sweet potatoes",
+      "amount": "1 cup, cubed"
+    },
+    {
+      "name": "broccoli florets",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4 cloves, minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp, grated"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat broiler to high.",
+    "In a large bowl, mix galangal paste with olive oil and lemon juice. Add cubed sweet potatoes and broccoli florets; toss until evenly coated.",
+    "Spread the coated vegetables on a baking sheet lined with parchment paper.",
+    "Roast in preheated oven at 450°F for 12-15 minutes, stirring halfway through cooking time.",
+    "Meanwhile, sauté minced garlic and grated ginger in 1 tbsp of olive oil until fragrant. Add tomato sauce to the pan, stir well and reduce by half.",
+    "Add roasted vegetables back into the pan with the tomato sauce mixture, tossing gently.",
+    "Season with salt and pepper to taste. Remove from heat and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "galangal",
+    "moroccan",
+    "stir-fry",
+    "low-fat"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 5,
+    "carbs": 36,
+    "fat": 8
+  },
+  "slug": "chewy-moroccan-galangal-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-moroccan-galangal-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T11:05:56Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "chewy",
+    "mood": "post-workout",
+    "technique": "broil",
+    "primaryIngredient": "galangal paste",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Galangal",
+    "descriptor": "Chewy",
+    "dishForm": "Stir-fry"
+  }
+}
