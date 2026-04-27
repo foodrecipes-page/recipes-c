@@ -1,0 +1,83 @@
+{
+  "title": "Crunchy Sweet and Nostalgic Walnut Crumble",
+  "description": "A sweet and gooey Turkish dish featuring dry white wine, toast, egg-free-friendly with a crunchy walnut crumble topping.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "60g walnuts",
+      "amount": "grams"
+    },
+    {
+      "name": "150ml dry white wine",
+      "amount": "milliliters"
+    },
+    {
+      "name": "150g dates",
+      "amount": "grams",
+      "notes": "pitted and chopped"
+    },
+    {
+      "name": "150g figs",
+      "amount": "grams",
+      "notes": "chopped"
+    },
+    {
+      "name": "40g unsalted butter, melted",
+      "amount": "grams",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "30ml honey or agave syrup",
+      "amount": "milliliters",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Toast walnuts in a dry pan over medium heat until golden brown, about 4 minutes.",
+    "In a bowl, mix walnuts with chopped dates and figs. Add white wine, honey or agave syrup, and melted butter; toss to combine.",
+    "Press walnut mixture firmly into the bottom of a greased dish (18x12cm).",
+    "Bake for 15 minutes until golden and crisp on top.",
+    "Serve warm as a dessert. Store leftovers in an airtight container in the fridge for up to 3 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "crumble",
+    "walnut",
+    "sweet",
+    "nostalgic"
+  ],
+  "nutrition": {
+    "calories": 451,
+    "protein": 7.2,
+    "carbs": 80.6,
+    "fat": 18.3
+  },
+  "slug": "crunchy-sweet-and-nostalgic-walnut-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-sweet-and-nostalgic-walnut-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T03:06:19Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "gooey",
+    "mood": "nostalgic",
+    "technique": "toast",
+    "primaryIngredient": "dry white wine",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Walnut",
+    "descriptor": "Sweet and Nostalgic Crunchy",
+    "dishForm": "Crumble"
+  }
+}
