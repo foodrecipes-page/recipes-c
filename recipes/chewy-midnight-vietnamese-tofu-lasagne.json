@@ -1,0 +1,78 @@
+{
+  "title": "Chewy Midnight Vietnamese Tofu Lasagne",
+  "description": "A midnight craving dish featuring chewy tofu lasagne sheets, marinated in tangy spices and served as a whole30-friendly meal.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (250g)",
+      "notes": "Select firm tofu for best results."
+    },
+    {
+      "name": "Marinade",
+      "amount": "1/4 cup soy sauce, 1 tablespoon fish sauce, juice of half a lime, and chopped fresh herbs"
+    },
+    {
+      "name": "Tofu Lasagne Sheets",
+      "amount": "8 sheets (200g)"
+    },
+    {
+      "name": "Veggies for Crumbs (optional)",
+      "amount": "2 handfuls of mixed vegetables finely diced or thinly sliced"
+    },
+    {
+      "name": "Bakuchiol Oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Drain and squeeze excess water from tofu, pat dry with paper towels.",
+    "Mix marinade ingredients in a bowl. Season lightly with salt and pepper if needed. Gently fold tofu into the marinade for at least an hour or refrigerate overnight to infuse flavors.",
+    "Preheat oven to 375°F (190°C).",
+    "If using vegetables for crumbs, mix finely with Bakuchiol Oil until crumbly and slightly golden in color. Set aside.",
+    "Place tofu sheets on a baking sheet and press lightly with the veggie crumbles if adding. Bake at 375°F (190°C) for about 8-10 minutes or until crispy.",
+    "Meanwhile, prepare a simple sauce by mixing equal parts of water and vinegar, add a pinch of sugar to balance flavors, and set aside.",
+    "Layer tofu lasagne sheets with sauce, crumbled veggies if using, and more layers of tofu slices. Finish with a drizzle of the sauce mixture over top of each layer in the oven-safe dish.",
+    "Bake for about 25 minutes until filling is hot and cheese is bubbly golden. Serve immediately to enjoy its midnight-craving vibes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chewy",
+    "midnight",
+    "vietnamese",
+    "tangy",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 28,
+    "carbs": 48,
+    "fat": 18
+  },
+  "slug": "chewy-midnight-vietnamese-tofu-lasagne",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-midnight-vietnamese-tofu-lasagne",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T02:16:53Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "chewy",
+    "mood": "midnight-craving",
+    "technique": "marinate",
+    "primaryIngredient": "lasagne sheets",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Tofu",
+    "descriptor": "Chewy Midnight",
+    "dishForm": "Lasagne"
+  }
+}
