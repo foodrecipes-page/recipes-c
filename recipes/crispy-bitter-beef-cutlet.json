@@ -1,0 +1,77 @@
+{
+  "title": "Crispy Bitter Beef Cutlet",
+  "description": "A monsoon-inspired dish featuring tender beef cutlets seasoned with bitter flavors and a crispy exterior, perfect for the paleo diet.",
+  "cuisine": "Irish",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef cubed meat",
+      "amount": "1 lb"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "bitter ingredients (e.g., bitter orange or green tea extract)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (205°C).",
+    "Season the beef cubes with salt, black pepper, bitter ingredients, and ginger juice.",
+    "Dip each cubed meat in coconut oil before placing it on a baking sheet lined with parchment paper.",
+    "Bake for 18-20 minutes or until golden brown and crispy. Turn halfway through cooking time to ensure even browning.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef",
+    "cubed",
+    "crispy",
+    "bitter"
+  ],
+  "nutrition": {
+    "calories": 456,
+    "protein": 29,
+    "carbs": 0,
+    "fat": 31
+  },
+  "slug": "crispy-bitter-beef-cutlet",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-bitter-beef-cutlet",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T16:15:25Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crisp",
+    "mood": "monsoon",
+    "technique": "dum",
+    "primaryIngredient": "beef cutlet",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Beef",
+    "descriptor": "Bitter Crisp",
+    "dishForm": "Cutlet"
+  }
+}
