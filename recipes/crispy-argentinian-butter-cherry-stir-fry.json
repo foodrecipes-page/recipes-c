@@ -1,0 +1,86 @@
+{
+  "title": "Crispy Argentinian Butter Cherry Stir-fry",
+  "description": "A quick-fix Argentine dish featuring dried cherries in a buttery sauce with a crispy texture, perfect for a light meal.",
+  "cuisine": "Argentine",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dried Cherries",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "6 tablespoons"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Cayenne Pepper (optional)",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a non-stick skillet over medium heat.",
+    "Add finely chopped onion and minced garlic, sauté until translucent.",
+    "Stir in dried cherries, salt, sugar, and optional cayenne pepper. Cook for about 2 minutes.",
+    "Fold in melted butter and stir well to coat the cherries evenly with the butter mixture.",
+    "Cook for an additional minute or two until the cherries are tender and slightly caramelized.",
+    "Serve hot as a side dish or alongside grilled meats."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentine",
+    "stir-fry",
+    "cherries",
+    "butter"
+  ],
+  "nutrition": {
+    "calories": 207,
+    "protein": 3.9,
+    "carbs": 15.8,
+    "fat": 12.4
+  },
+  "slug": "crispy-argentinian-butter-cherry-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-argentinian-butter-cherry-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T23:43:09Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crispy",
+    "mood": "quick-fix",
+    "technique": "slow-cook",
+    "primaryIngredient": "dried cherries",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Butter",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
