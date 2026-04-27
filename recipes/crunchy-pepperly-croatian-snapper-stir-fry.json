@@ -1,0 +1,99 @@
+{
+  "title": "Crunchy Pepperly Croatian Snapper Stir-fry",
+  "description": "A romantic croatian dish featuring snapper fish with a spicy and crunchy twist, perfect for an evening meal.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Snapper Fish Fillets",
+      "amount": "200g",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Red Peppers",
+      "amount": "1 large, diced",
+      "notes": "Peeled and deseeded for a spicy kick"
+    },
+    {
+      "name": "Green Peppers",
+      "amount": "1 medium, diced",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3, minced",
+      "notes": ""
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/4 cup, finely chopped",
+      "notes": ""
+    },
+    {
+      "name": "Basil Leaves",
+      "amount": "2 tbsp, chopped fresh",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For stir-frying"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "To taste",
+      "notes": "Seasoning for the fish and vegetables"
+    },
+    {
+      "name": "Spices",
+      "amount": "1 tsp, ground red pepper flakes (or to taste)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "Season the snapper fish fillets with salt and pepper on both sides.",
+    "In a large skillet or wok, heat olive oil over medium-high heat. Add chopped onions and garlic; sauté for about 3 minutes until translucent.",
+    "Add diced red peppers and green peppers to the skillet. Cook for an additional 2-3 minutes until they start to soften.",
+    "Gently lay the snapper fish fillets in the skillet, skin side down. Pour in enough water to cover half of the fish fillets. Place the skillet into a preheated oven for about 15-20 minutes or until cooked through.",
+    "While the fish cooks, chop fresh basil leaves and set aside.",
+    "When done cooking, remove the snapper fish from the skillet onto a plate. Let it rest while you prepare the pepper mixture.",
+    "Pour off any excess water from the skillet and add ground red pepper flakes to the remaining oil in the skillet. Stir well until fragrant.",
+    "Add chopped basil leaves into the skillet with the peppers, mixing gently for about 1-2 minutes. The heat should be low at this stage to avoid burning.",
+    "Return the cooked snapper fish fillets back into their pan and stir it through the mixed vegetables and peppers.",
+    "Serve hot as a side dish or main course, garnished with extra basil leaves if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy-pepperly-croatian-snapper-stir-fry"
+  ],
+  "nutrition": {
+    "calories": 298,
+    "protein": 36,
+    "carbs": 10,
+    "fat": 5
+  },
+  "slug": "crunchy-pepperly-croatian-snapper-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-pepperly-croatian-snapper-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T21:26:12Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crunchy",
+    "mood": "romantic",
+    "technique": "slow-cook",
+    "primaryIngredient": "snapper fish",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "snapper",
+    "descriptor": "peppery crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
