@@ -1,0 +1,90 @@
+{
+  "title": "Cozy Dense Vietnamese Oat Stir-fry",
+  "description": "A cozy and dense vegan dish featuring roasted oats with umami flavors, perfect for a satisfying breakfast or light lunch.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 cup quick-cooking oat groats",
+      "amount": "cup",
+      "notes": "Soaked in hot water for at least 30 minutes"
+    },
+    {
+      "name": "2 tablespoons soy sauce (use low-sodium)",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 tablespoon fish sauce (optional, use vegan alternative if needed)",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 clove garlic, minced",
+      "amount": "clove"
+    },
+    {
+      "name": "1/2 teaspoon ground black pepper",
+      "amount": "tsp"
+    },
+    {
+      "name": "1/4 cup fresh cilantro leaves, chopped (optional)",
+      "amount": ""
+    },
+    {
+      "name": "1 small carrot, julienned",
+      "amount": "piece"
+    },
+    {
+      "name": "1 green onion, thinly sliced",
+      "amount": "slice"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (205°C). Rinse oat groats and soak them in hot water for at least 30 minutes.",
+    "Drain and pat dry. In a bowl, mix oat groats with soy sauce and fish sauce (if using), then spread evenly on a baking sheet lined with parchment paper.",
+    "Roast in the preheated oven for about 20-25 minutes or until golden brown and crispy. Remove from oven and let cool slightly.",
+    "In a large skillet, heat some vegetable oil over medium-high heat. Add roasted oat groats to the pan, tossing gently with tongs to coat evenly.",
+    "Add minced garlic and black pepper to the skillet. Stir-fry for about 1 minute until fragrant.",
+    "Gently fold in julienned carrot and sliced green onion into the oat mixture. Cook for an additional 2 minutes or until vegetables are tender.",
+    "Remove from heat, stir in chopped cilantro leaves if using. Serve warm as a breakfast dish with scrambled tofu, poached eggs, or any other complementary ingredients.",
+    "For vegan cheese or sour cream topping, blend cashew halves with lemon juice and nutritional yeast to achieve desired consistency."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cozy-dense",
+    "umami",
+    "dense-vietnamese",
+    "oat-stir-fry",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 312,
+    "protein": 7,
+    "carbs": 40,
+    "fat": 9
+  },
+  "slug": "cozy-dense-vietnamese-oat-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-dense-vietnamese-oat-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T02:01:21Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "dense",
+    "mood": "cozy",
+    "technique": "roast",
+    "primaryIngredient": "oats",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "oats",
+    "descriptor": "dense cozy",
+    "dishForm": "Stir-fry"
+  }
+}
