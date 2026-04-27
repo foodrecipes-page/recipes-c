@@ -1,0 +1,79 @@
+{
+  "title": "Crumbly Russian Jam N Ib Rico Creme Crumble",
+  "description": "A comforting fermented dish featuring jam and ib rico crumble, perfect for a keto-friendly breakfast.",
+  "cuisine": "Russian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "jam",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ib rico",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a mixing bowl, combine jam, ib rico, coconut flour, vanilla extract, salt, and baking powder.",
+    "Mix until well combined but still crumbly in texture.",
+    "Transfer the mixture onto a parchment-lined baking sheet and spread it out evenly.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Cool before serving as desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crumbly",
+    "comforting",
+    "russian",
+    "fermented",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 382,
+    "protein": 15,
+    "carbs": 97,
+    "fat": 14
+  },
+  "slug": "crumbly-russian-jam-n-ib-rico-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-russian-jam-n-ib-rico-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T13:39:30Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crumbly",
+    "mood": "comforting",
+    "technique": "toast",
+    "primaryIngredient": "jam n ib rico",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "jam n ib rico",
+    "descriptor": "Crumbly",
+    "dishForm": "Crumble"
+  }
+}
