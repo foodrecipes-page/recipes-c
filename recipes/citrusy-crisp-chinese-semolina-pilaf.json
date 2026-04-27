@@ -1,0 +1,96 @@
+{
+  "title": "Citrusy Crisp Chinese Semolina Pilaf",
+  "description": "This citrusy, crisp, cozy Chinese (Shandong) dish features semolina cooked with an air-fryer for a delightful texture and flavor profile.",
+  "cuisine": "Chinese (Shandong)",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Semolina",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Water or Chicken Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ginger Paste",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Red Pepper Flakes (optional)",
+      "amount": "A pinch"
+    },
+    {
+      "name": "Squeeze of Fresh Citrus Juice (like Tangerine or Lime)",
+      "amount": "3 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine semolina with soy sauce and water. Stir until semolina is fully submerged.",
+    "Cook over medium heat, stirring frequently to prevent sticking, for about 8 minutes or until the liquid has evaporated slightly, creating a thicker consistency.",
+    "Remove from heat, stir in vegetable oil, ginger paste, garlic powder, sesame seeds, salt, paprika, and red pepper flakes (if using).",
+    "Transfer mixture into an air fryer basket. Drizzle with fresh citrus juice evenly over the top of the pilaf.",
+    "Air-fry at 200°C for about 8-10 minutes or until golden brown and crispy on the outside.",
+    "Let it cool slightly before serving. Garnish with extra sesame seeds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "semolina",
+    "air-fryer",
+    "citrusy",
+    "crisp"
+  ],
+  "nutrition": {
+    "calories": 279,
+    "protein": 6,
+    "carbs": 38,
+    "fat": 5
+  },
+  "slug": "citrusy-crisp-chinese-semolina-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-crisp-chinese-semolina-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T10:45:28Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crisp",
+    "mood": "cozy",
+    "technique": "air-fry",
+    "primaryIngredient": "semolina",
+    "diet": "egg-free",
+    "region": "shandong",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Semolina",
+    "descriptor": "Citrusy Crisp",
+    "dishForm": "Pilaf"
+  }
+}
