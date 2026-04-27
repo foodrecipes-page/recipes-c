@@ -1,0 +1,93 @@
+{
+  "title": "Cozy Smoky Juicy Pepper Stir-fry",
+  "description": "A low-sodium-friendly, cozy Brazilian dish featuring smoky flavor from passata and caramelized peppers.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "passata",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "2 medium, diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small, finely chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add bell peppers and onions, sautéing until softened about 5 minutes.",
+    "Stir in minced garlic for another minute until fragrant.",
+    "Pour in passata and low-sodium soy sauce. Stir well to combine all ingredients.",
+    "Increase heat to high, allowing the mixture to come to a simmer.",
+    "Sprinkle smoked paprika and cumin seeds on top of the mixture.",
+    "Reduce heat back to medium-low and let it cook for 10-15 minutes until slightly reduced and thickened.",
+    "Season with salt and pepper to taste. Stir well before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cozy-smoky-pepper-stir-fry",
+    "smoky-juicy-dish",
+    "caramelized-peppers"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 14,
+    "carbs": 36,
+    "fat": 8
+  },
+  "slug": "cozy-smoky-juicy-pepper-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-smoky-juicy-pepper-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T22:47:03Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "juicy",
+    "mood": "cozy",
+    "technique": "caramelize",
+    "primaryIngredient": "passata",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "pepper",
+    "descriptor": "Smoky Juicy Cozy",
+    "dishForm": "Stir-fry"
+  }
+}
