@@ -1,0 +1,90 @@
+{
+  "title": "Crunchy Garlic Korean Stir-fry",
+  "description": "A comforting gluten-free-friendly dish featuring crispy garlic and extra virgin olive oil, perfect for a quick lunch or dinner.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "6-8 cloves, minced"
+    },
+    {
+      "name": "Korean Chili Flakes (gochugaru)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 medium, julienned"
+    },
+    {
+      "name": "Onions",
+      "amount": "2 small, thinly sliced"
+    },
+    {
+      "name": "Green Peppers",
+      "amount": "1 large, thinly sliced"
+    },
+    {
+      "name": "Shredded Tofu",
+      "amount": "100g, extra firm and cubed"
+    },
+    {
+      "name": "Glutinous Rice Vinegar",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium-high heat.",
+    "Add minced garlic and gochugaru. Sauté for about 30 seconds until fragrant.",
+    "Toss in julienned carrots, thinly sliced onions, and green peppers. Stir-fry for about 5 minutes or until vegetables start to soften.",
+    "Stir in cubed tofu cubes. Continue stir-frying for another 2-3 minutes until the tofu is lightly browned on all sides.",
+    "Drizzle glutinous rice vinegar over the dish and mix well. Cook for an additional minute to allow flavors to meld together.",
+    "Serve hot as a side dish or main course with steamed white rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "garlicky",
+    "comforting",
+    "korean",
+    "stir-fry",
+    "extra-virgin-olive-oil",
+    "bake",
+    "gluten-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 306,
+    "protein": 12.75,
+    "carbs": 14.98,
+    "fat": 16.8
+  },
+  "slug": "crunchy-garlic-korean-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-garlic-korean-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T05:30:20Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crunchy",
+    "mood": "comforting",
+    "technique": "braise",
+    "primaryIngredient": "extra virgin olive oil",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "garlic",
+    "descriptor": "Garlicky Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
