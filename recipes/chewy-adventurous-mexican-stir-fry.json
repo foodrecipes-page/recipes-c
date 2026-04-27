@@ -1,0 +1,84 @@
+{
+  "title": "Chewy Adventurous Mexican Stir-fry",
+  "description": "A sour and chewy mexican dish featuring frozen seafood mix in a nut-free-friendly stir-fry with reduced sauce for an adventurous twist.",
+  "cuisine": "Mexican",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Frozen Shrimp Mix",
+      "amount": "12 oz"
+    },
+    {
+      "name": "Pumpkin Puree",
+      "amount": "6 tbsp"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Hot Sauce (adjust to taste)",
+      "amount": "3-4 tbsp"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "¼ tsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Red Chili Flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fish Sauce (optional)",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok over medium-high heat.",
+    "Add pumpkin puree, garlic powder, hot sauce, cayenne pepper, paprika, and red chili flakes. Stir-fry for about 2 minutes until fragrant.",
+    "Fold in frozen shrimp mix and fish sauce if using. Cook for an additional 3-4 minutes or until fully cooked but still chewy.",
+    "Reduce heat to medium-low and simmer for another 5 minutes to allow flavors to meld together."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chewy",
+    "adventurous",
+    "mexican",
+    "sour"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 37,
+    "fat": 14
+  },
+  "slug": "chewy-adventurous-mexican-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-adventurous-mexican-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T21:01:24Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "chewy",
+    "mood": "adventurous",
+    "technique": "reduce",
+    "primaryIngredient": "frozen seafood mix",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Frozen Seafood Mix",
+    "descriptor": "Chewy Adventurous",
+    "dishForm": "Stir-fry"
+  }
+}
