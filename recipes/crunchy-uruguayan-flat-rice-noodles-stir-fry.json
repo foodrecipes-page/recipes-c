@@ -1,0 +1,90 @@
+{
+  "title": "Crunchy Uruguayan Flat Rice Noodles Stir-fry",
+  "description": "This dish is a solo dinner option featuring earthy and crunchy flavors of Uruguay with a nut-free twist.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flat rice noodles",
+      "amount": "200g",
+      "notes": "Cooked according to package instructions"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4-6 pieces",
+      "notes": "Mince finely"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1/4 cup",
+      "notes": "Sliced thinly"
+    },
+    {
+      "name": "Green onions",
+      "amount": "3-5 pieces",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Cilantro leaves",
+      "amount": "2 tbsp",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a wok or large skillet, heat some oil over medium-high heat.",
+    "Add minced garlic and onions. Sauté until the garlic is golden brown and onion softens.",
+    "Push the vegetables to one side of the pan and add flat rice noodles on the other side. Stir-fry for 1-2 minutes, then mix everything together evenly.",
+    "Add sliced green bell pepper and stir-fry for an additional minute.",
+    "Stir in chopped cilantro leaves and a pinch each of salt and black pepper. Mix well to combine.",
+    "Serve hot as a solo dinner dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "earthly",
+    "nut-free",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 9,
+    "carbs": 38,
+    "fat": 7
+  },
+  "slug": "crunchy-uruguayan-flat-rice-noodles-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-uruguayan-flat-rice-noodles-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T18:35:46Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crunchy",
+    "mood": "solo-dinner",
+    "technique": "bake",
+    "primaryIngredient": "flat rice noodles",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Flat Rice Noodles",
+    "descriptor": "Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
