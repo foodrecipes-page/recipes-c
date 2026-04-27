@@ -1,0 +1,96 @@
+{
+  "title": "Crunchy Light Algerian Tofu Stir-fry",
+  "description": "This earthy and crunchy dish features marinated tofu that is air-fried for a light, quick meal suitable for those following a fodmap-friendly diet.",
+  "cuisine": "African (Algerian)",
+  "diet": [
+    "vegetarian",
+    "low-fat",
+    "low-sodium"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Green pepper",
+      "amount": "1 small"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "a few pinch"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Herbes de Provence",
+      "amount": "3-4 teaspoons"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "a few sprinkles"
+    }
+  ],
+  "instructions": [
+    "Marinate tofu in lemon juice, garlic, and herbes de provence for about 15 minutes.",
+    "Preheat air fryer to 200°C (390°F).",
+    "Remove tofu from marinade. Pat dry with paper towels and slice into thin strips if not already sliced.",
+    "Season tofu slices lightly with red pepper flakes, salt, and black pepper.",
+    "Place marinated tofu in a single layer on air fryer tray and cook for 7-10 minutes until golden brown.",
+    "Meanwhile, chop onion finely and green pepper into matchsticks. Sauté onions and peppers in olive oil until soft.",
+    "Stir-fry the sautéed vegetables with sliced tofu and sesame seeds for an additional minute to coat.",
+    "Serve immediately with a side of fresh cucumber slices and lemon wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "light",
+    "algerian",
+    "stir-fry",
+    "vegan-friendly",
+    "fried-vegetables"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 15,
+    "carbs": 6,
+    "fat": 8
+  },
+  "slug": "crunchy-light-algerian-tofu-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-light-algerian-tofu-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T10:11:33Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crunchy",
+    "mood": "light",
+    "technique": "air-fry",
+    "primaryIngredient": "marinated tofu",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Tofu",
+    "descriptor": "Crunchy Light",
+    "dishForm": "Stir-fry"
+  }
+}
