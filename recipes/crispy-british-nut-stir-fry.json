@@ -1,0 +1,91 @@
+{
+  "title": "Crispy British Nut Stir-fry",
+  "description": "A romantic and nutty dish featuring chicken thighs in a crispy sauce with vegetables, all cooked quickly using the pressure cooker method.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken Thighs",
+      "amount": "4 pieces",
+      "notes": "Skin-on for added flavor and crispiness."
+    },
+    {
+      "name": "Green Peppers",
+      "amount": "1 medium",
+      "notes": "For a vibrant color and crunch."
+    },
+    {
+      "name": "Onions",
+      "amount": "2 pieces",
+      "notes": "Sweet onion works best, about 3 inches in diameter."
+    },
+    {
+      "name": "Broccoli Florets",
+      "amount": "1 cup",
+      "notes": "To add some crunch and nutrients."
+    },
+    {
+      "name": "Pecans",
+      "amount": "1/4 cup chopped",
+      "notes": "For a nutty flavor and texture."
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "Use low-sodium soy sauce if preferred."
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tablespoons",
+      "notes": "To coat the ingredients for better crispy texture."
+    }
+  ],
+  "instructions": [
+    "Season chicken thighs with salt and pepper on both sides.",
+    "Heat 1 tablespoon of olive oil in a pressure cooker over medium heat. Add onions and cook until translucent, about 2 minutes.",
+    "Add green peppers and continue to sauté for another 2-3 minutes or until they start to soften slightly.",
+    "Push the vegetables to one side and add remaining 2 tablespoons of olive oil. Place chicken thighs in the pressure cooker; season with a little salt and pepper on both sides.",
+    "Once the chicken is browned, push it to one side as well, leaving any excess fat or juices behind. Add pecans to the empty cooking area.",
+    "Pour in soy sauce over all ingredients and stir gently for about 1 minute to combine flavors.",
+    "Push vegetables and chicken back into the pressure cooker; cover and cook on high pressure for 3 minutes if using a multi-stage pressure cooker, or slightly longer for non-multi stage.",
+    "Let the steam release naturally by itself for about 5 minutes before carefully releasing any remaining pressure manually. Taste and adjust seasoning as needed.",
+    "Serve hot with additional chopped pecans on top to garnish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "nutty",
+    "crispy",
+    "stir-fry",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 36,
+    "carbs": 18,
+    "fat": 7
+  },
+  "slug": "crispy-british-nut-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-british-nut-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T16:20:55Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crisp",
+    "mood": "romantic",
+    "technique": "pressure-cook",
+    "primaryIngredient": "chicken thighs",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Nut",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
