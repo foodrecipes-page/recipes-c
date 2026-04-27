@@ -1,0 +1,95 @@
+{
+  "title": "Citrusy Velvety Peruvian Celery Soup",
+  "description": "A citrusy and velvety soup featuring vegan-friendly celery salt that can be a hangover-cure option.",
+  "cuisine": "Peruvian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "celery",
+      "amount": "1 medium bunch"
+    },
+    {
+      "name": "onions",
+      "amount": "2 (slices)"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 (medium sliced)"
+    },
+    {
+      "name": "celery salt",
+      "amount": "3 teaspoons"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "4 cups"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece (grated)"
+    },
+    {
+      "name": "cilantro leaves",
+      "amount": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (205°C).",
+    "Cut celery into chunks and toss with butter. Roast until tender, about 10 minutes.",
+    "In a large pot, sauté onions and carrots in olive oil until soft, about 5 minutes.",
+    "Add roasted celery, lemon juice, orange juice, ginger, and stock. Bring to boil then reduce heat and simmer for 20 minutes.",
+    "Blend soup with an immersion blender or transfer to a blender, blending in batches until smooth.",
+    "Reheat the soup gently over medium-low heat. Taste for seasoning, adding more citrus juices if needed.",
+    "Serve hot, garnished with cilantro leaves."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "velvety",
+    "peruvian",
+    "celery-salt",
+    "hangover-cure",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 42,
+    "fat": 12
+  },
+  "slug": "citrusy-velvety-peruvian-celery-soup",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-velvety-peruvian-celery-soup",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T09:54:39Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "velvety",
+    "mood": "hangover-cure",
+    "technique": "blanch",
+    "primaryIngredient": "celery salt",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Celery",
+    "descriptor": "Citrusy Velvety",
+    "dishForm": "Soup"
+  }
+}
