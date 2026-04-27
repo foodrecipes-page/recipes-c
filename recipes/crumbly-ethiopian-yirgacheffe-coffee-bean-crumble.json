@@ -1,0 +1,71 @@
+{
+  "title": "Crumbly Ethiopian Yirgacheffe Coffee Bean Crumble",
+  "description": "This herbal crumbly dish features whole milk sauteed with raw-friendly coffee beans for a solo-dinner treat.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "whole milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Yirgacheffe coffee beans",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "fresh herbs (thyme, rosemary)",
+      "amount": "1 teaspoon each"
+    }
+  ],
+  "instructions": [
+    "Heat the whole milk in a saucepan over medium heat.",
+    "In another pan, melt the butter over low heat. Add Yirgacheffe coffee beans and sauté for about 2 minutes until fragrant.",
+    "Pour the milk into the coffee bean mixture and stir well to combine. Let it simmer gently for about 5-7 minutes until thickened.",
+    "Remove from heat, add salt and herbs, and mix thoroughly. Allow it to cool slightly before serving.",
+    "Serve warm as a crumble or sprinkle with extra fresh herbs for garnish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crumbly",
+    "herbal",
+    "raw-friendly",
+    "solo-dinner"
+  ],
+  "nutrition": {
+    "calories": 265,
+    "protein": 10,
+    "carbs": 39,
+    "fat": 7
+  },
+  "slug": "crumbly-ethiopian-yirgacheffe-coffee-bean-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-ethiopian-yirgacheffe-coffee-bean-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T19:14:23Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crumbly",
+    "mood": "solo-dinner",
+    "technique": "saute",
+    "primaryIngredient": "whole milk",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Yirgacheffe coffee beans",
+    "descriptor": "Crumbly",
+    "dishForm": "Crumble"
+  }
+}
