@@ -1,0 +1,76 @@
+{
+  "title": "Crumbly Brazilian Rice Noodles Crockpot Crumble",
+  "description": "A fresh and kid-friendly low-carb-friendly dish featuring air-fried flat rice noodles with a touch of tanginess from jicama.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-carb",
+    "kids-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flat rice noodles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Jicama",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Soak rice noodles in cold water for about 10 minutes.",
+    "Drain and rinse the noodles, then pat dry with paper towels.",
+    "In a large bowl, mix the drained noodles, jicama, tomato sauce, olive oil, and salt. Toss well to combine.",
+    "Spread the mixture evenly on a baking sheet lined with parchment paper.",
+    "Bake in preheated oven for 15 minutes or until edges are golden brown and top is crispy.",
+    "Let it cool before crumbing into small pieces."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crumble",
+    "brazilian",
+    "kid-friendly",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "crumbly-brazilian-rice-noodles-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-brazilian-rice-noodles-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T01:28:17Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crumbly",
+    "mood": "kid-friendly",
+    "technique": "air-fry",
+    "primaryIngredient": "flat rice noodles",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Rice Noodles",
+    "descriptor": "Crumbly",
+    "dishForm": "Crumble"
+  }
+}
