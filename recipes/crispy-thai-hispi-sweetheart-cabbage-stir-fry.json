@@ -1,0 +1,89 @@
+{
+  "title": "Crispy Thai Hispi Sweetheart Cabbage Stir-fry",
+  "description": "A tangy and crispy date-night Thai dish featuring hispi sweetheart cabbage stir-fried with a touch of sweetness to complement its crunch.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Hispi Sweetheart Cabbage",
+      "amount": "1 cup thinly sliced",
+      "notes": "Frozen Hispi Sweetheart Cabbage can be used."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": "Use fresh garlic for maximum flavor."
+    },
+    {
+      "name": "Thai Chili Peppers",
+      "amount": "1-2, finely chopped",
+      "notes": "Adjust to taste for spiciness."
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "1/4 cup",
+      "notes": "Fresh lime juice is recommended for best flavor."
+    },
+    {
+      "name": "Sriracha Sauce",
+      "amount": "2 teaspoons",
+      "notes": "For added heat, use more or less to taste."
+    },
+    {
+      "name": "Coconut Sugar",
+      "amount": "1 tablespoon",
+      "notes": "Optional, used for a hint of sweetness."
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": "For frying the cabbage and adding flavor."
+    }
+  ],
+  "instructions": [
+    "Prepare hispi sweetheart cabbage by slicing it thinly. Rinse under cold water to remove any dirt.",
+    "In a small bowl, mix lime juice and Sriracha sauce; set aside.",
+    "Heat oil in a wok or large skillet over medium-high heat. Add the finely chopped Thai chili peppers and cook until fragrant and slightly softened (about 2 minutes).",
+    "Add sliced Hispi Sweetheart Cabbage to the pan and stir-fry for about 5-7 minutes, until they start to turn golden brown.",
+    "Stir in the minced garlic and mix well with the cabbage. Pour in the lime-sriracha mixture and cook for an additional minute.",
+    "If using coconut sugar, add it near the end of cooking and stir to combine evenly.",
+    "Serve immediately while still crisp."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "thai",
+    "sweetheart",
+    "stir-fry",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 14,
+    "fat": 3
+  },
+  "slug": "crispy-thai-hispi-sweetheart-cabbage-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-thai-hispi-sweetheart-cabbage-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T22:33:36Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crispy",
+    "mood": "date-night",
+    "technique": "stir-fry",
+    "primaryIngredient": "hispi sweetheart cabbage",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "hispi sweetheart cabbage",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
