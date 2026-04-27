@@ -1,0 +1,77 @@
+{
+  "title": "Buttery Crispy Tofu Vietnamese Stir-fry",
+  "description": "This dish features a crispy tofu and tomato juice combination that is perfect for showcasing your culinary skills with a touch of vegan flair.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "crispy fried tofu",
+      "amount": "200g"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "tomato juice",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "2 slices"
+    },
+    {
+      "name": "oil for frying tofu and stir-fry",
+      "amount": "3 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat. Add sliced green onions to the pan, cooking until they soften slightly.",
+    "Add diced ginger into the pan with green onions and cook for an additional minute."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy-tofu",
+    "buttery-vietnamese",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 15,
+    "carbs": 9,
+    "fat": 8
+  },
+  "slug": "crispy-tofu-vietnamese-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-tofu-vietnamese-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T07:46:50Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crisp",
+    "mood": "show-off",
+    "technique": "boil",
+    "primaryIngredient": "tomato juice",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "tofu",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
