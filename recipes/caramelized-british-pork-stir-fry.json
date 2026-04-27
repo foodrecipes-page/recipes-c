@@ -1,0 +1,92 @@
+{
+  "title": "Caramelized British Pork Stir-Fry",
+  "description": "A fresh and chewy post-workout dish featuring caramelized pork with cherry tomatoes, perfect for a paleo-friendly meal.",
+  "cuisine": "British",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb (450g)",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup (fresh)"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch piece"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Prepare the pork by slicing it into thin strips.",
+    "In a pan, heat olive oil over medium-high heat. Add sliced garlic and ginger; sauté for about 30 seconds until fragrant.",
+    "Add chicken to the pan, season with salt and pepper, and cook until golden brown on all sides. Remove from pan and set aside.",
+    "In the same pan, add tomato paste followed by sugar. Stir continuously until a thick caramel sauce forms.",
+    "Return the chicken to the pan, allowing it to soak in the caramel sauce for about 2 minutes.",
+    "Add cherry tomatoes to the pan and cook for another minute or two, ensuring they are slightly softened but not mushy.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caramelized",
+    "british",
+    "paleo-friendly",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 516,
+    "protein": 38,
+    "carbs": 41,
+    "fat": 20
+  },
+  "slug": "caramelized-british-pork-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/caramelized-british-pork-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T10:21:26Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "chewy",
+    "mood": "post-workout",
+    "technique": "caramelize",
+    "primaryIngredient": "cherry tomatoes",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "pork",
+    "descriptor": "Caramelized",
+    "dishForm": "Stir-fry"
+  }
+}
