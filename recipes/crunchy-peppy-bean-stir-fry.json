@@ -1,0 +1,70 @@
+{
+  "title": "Crunchy Peppy Bean Stir-fry",
+  "description": "A nostalgic Turkish dish featuring green beans that are boiled, stir-fried with a touch of heat for a crunchy texture and peppery flavor, suitable for halal.",
+  "cuisine": "Turkish",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Green Beans",
+      "amount": "250g"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Red Chili Pepper",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large frying pan over medium-high heat.",
+    "Add chopped garlic and sauté until fragrant, about 1 minute.",
+    "Include finely chopped onion and red chili pepper; cook for another minute.",
+    "Toss in the washed green beans and stir-fry them thoroughly.",
+    "Sprinkle with salt to taste and serve hot.",
+    "Optional: Serve with a side of rice or naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy-peppy-bean-stir-fry",
+    "peppery-green-beans",
+    "turkish-dish",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 7,
+    "carbs": 38,
+    "fat": 5
+  },
+  "slug": "crunchy-peppy-bean-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-peppy-bean-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T07:41:32Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crunchy",
+    "mood": "nostalgic",
+    "technique": "boil",
+    "primaryIngredient": "green beans",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Green Beans",
+    "descriptor": "Peppery Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
