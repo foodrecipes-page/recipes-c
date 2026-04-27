@@ -1,0 +1,87 @@
+{
+  "title": "Citrusy Crunchy Canadian Coconut Stir-fry",
+  "description": "A nostalgic dish featuring unsweetened coconut milk, citrus flavors, and crunchy elements for a low-sodium-friendly meal.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "uncooked quinoa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted unsweetened coconut milk",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup fresh"
+    },
+    {
+      "name": "ginger",
+      "amount": "a few slices"
+    },
+    {
+      "name": "green onions",
+      "amount": "2-3, finely chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon low-sodium"
+    },
+    {
+      "name": "white pepper",
+      "amount": "pinch"
+    },
+    {
+      "name": "lime zest",
+      "amount": "1/4 cup fresh"
+    }
+  ],
+  "instructions": [
+    "Rinse quinoa and soak it in water for at least 30 minutes, then drain.",
+    "Drain and rinse quinoa thoroughly. Add to a pot with 2 cups of water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer until all the water is absorbed and quinoa is tender (about 15-20 minutes).",
+    "Stir in coconut milk, lime juice, ginger, green onions, soy sauce, and white pepper. Simmer for an additional 5 minutes.",
+    "Remove from heat and stir in lime zest.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "crunchy",
+    "canadian",
+    "coconut",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 13,
+    "carbs": 45,
+    "fat": 6
+  },
+  "slug": "citrusy-crunchy-canadian-coconut-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-crunchy-canadian-coconut-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T18:55:20Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crunchy",
+    "mood": "nostalgic",
+    "technique": "steam",
+    "primaryIngredient": "unsweetened coconut milk",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Coconut",
+    "descriptor": "Citrusy Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
