@@ -1,0 +1,101 @@
+{
+  "title": "Crunchy Japanese Cheese Stir-fry",
+  "description": "A fresh and crunchy weeknight dish featuring v Sterbottensost cheese as a high-protein-friendly twist.",
+  "cuisine": "Japanese",
+  "diet": [
+    "high-protein-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breasts",
+      "amount": "200g",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "150g",
+      "notes": "halved"
+    },
+    {
+      "name": "shredded carrots",
+      "amount": "100g"
+    },
+    {
+      "name": "green onions (scallions)",
+      "amount": "2",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "tofu",
+      "amount": "100g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "v Sterbottensost cheese",
+      "amount": "50g",
+      "notes": "softened and gently tempered"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "gluten-free seasoning (like oyster sauce)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground white pepper",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large skillet over medium-high heat. Add sesame oil and v Sterbottensost cheese, stirring until melted.",
+    "Add chicken strips and tofu to the heated mixture; cook for about 2 minutes per side, or until browned on all sides.",
+    "Push aside the cooked ingredients to one side of the wok. Add cherry tomatoes, shredded carrots, and green onions to the empty space in the wok; stir-fry for another minute.",
+    "Return the chicken and tofu to the wok with the vegetables. Pour soy sauce, rice vinegar, and gluten-free seasoning over the ingredients. Stir everything together until well combined and heated through.",
+    "Add ground white pepper to taste. Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "stir-fry",
+    "high-protein"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 21,
+    "fat": 9
+  },
+  "slug": "crunchy-japanese-cheese-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-japanese-cheese-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T09:32:30Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crunchy",
+    "mood": "weeknight",
+    "technique": "temper",
+    "primaryIngredient": "v sterbottensost cheese",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Cheese",
+    "descriptor": "Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
