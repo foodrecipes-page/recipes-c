@@ -1,0 +1,95 @@
+{
+  "title": "Crispy Italian Lamb Stir-fry",
+  "description": "A kid-friendly Italian dish featuring sweet and crispy lamb loin chops, suitable for pescatarian diets.",
+  "cuisine": "Italian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Loin Chops",
+      "amount": "8 pieces",
+      "notes": "About 1-inch thick"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing on chops and stir-fry sauce"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "2 tablespoons",
+      "notes": "To coat lamb chops"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Italian Herbs (Oregano, Basil)",
+      "amount": "1/2 teaspoon each",
+      "notes": "For seasoning the lamb and stir-fry sauce"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "4 tablespoons",
+      "notes": "To flavor the dish"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "1/2 cup",
+      "notes": "For making the stir-fry sauce"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Pat lamb chops dry with paper towels.",
+    "Season both sides of the chops lightly with salt and pepper, then coat them evenly in flour.",
+    "In a medium bowl, mix together garlic powder, Italian herbs, soy sauce, vegetable oil, and chicken broth to make stir-fry sauce. Brush half of the marinade onto each lamb chop for greasing.",
+    "Place seasoned chops on a baking sheet lined with parchment paper and drizzle remaining marinade over them. Bake in preheated oven for 12-15 minutes or until internal temperature reaches 145°F (63°C).",
+    "While the lamb cooks, prepare the stir-fry sauce by combining all ingredients in a medium saucepan and bring to a simmer.",
+    "When chops are done, spoon half of the hot marinade over each chop before serving. Garnish with fresh herbs like parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "sweet",
+    "italian",
+    "kid-friendly"
+  ],
+  "nutrition": {
+    "calories": 378,
+    "protein": 29,
+    "carbs": 15,
+    "fat": 14
+  },
+  "slug": "crispy-italian-lamb-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-italian-lamb-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T03:40:39Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crispy",
+    "mood": "kid-friendly",
+    "technique": "bake",
+    "primaryIngredient": "lamb loin chops",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "lamb",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
