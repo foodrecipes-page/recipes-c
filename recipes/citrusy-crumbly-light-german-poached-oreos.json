@@ -1,0 +1,79 @@
+{
+  "title": "Citrusy Crumbly Light German Poached Oreos",
+  "description": "A light and refreshing German-style poaching infused with citrus zest, featuring low-calorie-friendly Oreo cream biscuits, making it an ideal snack or dessert option.",
+  "cuisine": "German",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Oreo cookies",
+      "amount": "10"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "150ml"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": ""
+    },
+    {
+      "name": "Freshly grated orange zest",
+      "amount": ""
+    },
+    {
+      "name": "Low-calorie sugar substitute",
+      "amount": "3 teaspoons"
+    }
+  ],
+  "instructions": [
+    "Gently simmer the heavy cream, sour cream, lemon juice, and freshly grated orange zest in a saucepan over low heat for about 5 minutes.",
+    "Stir in the low-calorie sugar substitute until fully dissolved.",
+    "Pour the mixture into a large mixing bowl or container. Allow it to cool slightly before adding crushed Oreo cookies gently using a spoon or spatula.",
+    "Mix thoroughly until the mixture reaches a crumbly consistency that can be spread evenly.",
+    "Transfer the mixture to serving dishes, garnish with extra citrus zest and finely chopped Oreo cookies if desired.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "crumbly",
+    "light-german-dish",
+    "oreo-cream-biscuits",
+    "poached-dessert"
+  ],
+  "nutrition": {
+    "calories": 100,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 3
+  },
+  "slug": "citrusy-crumbly-light-german-poached-oreos",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-crumbly-light-german-poached-oreos",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T12:25:47Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crumbly",
+    "mood": "light",
+    "technique": "poach",
+    "primaryIngredient": "oreo cream biscuits",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Oreo",
+    "descriptor": "Citrusy Crumbly Light",
+    "dishForm": "Poached"
+  }
+}
