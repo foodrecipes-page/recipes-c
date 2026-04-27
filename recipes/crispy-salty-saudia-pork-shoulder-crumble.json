@@ -1,0 +1,74 @@
+{
+  "title": "Crispy Salted Saudi Pork Shoulder Crumble",
+  "description": "This dish features a crispy and salty pork shoulder topped with a crunchy crumble that is both diabetic-friendly and perfect for weeknight meals.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "500g",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "crushed nuts (almonds or walnuts)",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sugar-free jaggery syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "paleo-friendly breadcrumbs",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Season pork shoulder generously with salt.",
+    "Wrap the meat in aluminum foil and place it on a baking sheet. Roast for 4 hours or until internal temperature reaches 165°F (75°C).",
+    "In a mixing bowl, combine crushed nuts, jaggery syrup, and paleo-friendly breadcrumbs. Mix well to create a crumble.",
+    "Once the pork shoulder is cooked, remove from oven and let it rest for about 10 minutes. Transfer meat onto a cutting board and slice into bite-sized pieces.",
+    "Drizzle sliced pork with remaining crumbs on top before serving."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 40,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "saudi-arabian-dish",
+    "crispy-salty-pork-shoulder",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 40,
+    "carbs": 50,
+    "fat": 20
+  },
+  "slug": "crispy-salty-saudia-pork-shoulder-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-salty-saudia-pork-shoulder-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T07:18:19Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crunchy",
+    "mood": "weeknight",
+    "technique": "fold",
+    "primaryIngredient": "pork shoulder",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "pork shoulder",
+    "descriptor": "crispy salty",
+    "dishForm": "Crumble"
+  }
+}
