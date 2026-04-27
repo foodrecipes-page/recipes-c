@@ -1,0 +1,95 @@
+{
+  "title": "Crispy Nostalgic Saudia Sesame Stir-fry",
+  "description": "A flavorful and crispy dish featuring sesame butter with a touch of umami, perfect for those looking to enjoy a nostalgic taste of Saudi Arabia while following a fodmap-friendly diet.",
+  "cuisine": "Saudia Arabic",
+  "diet": [
+    "low-carb",
+    "sauces-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sesame seeds",
+      "amount": "2 tablespoons",
+      "notes": "preferably toasted"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tablespoon",
+      "notes": "adjust to taste for sweetness"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "regular soy sauce is recommended for umami flavor"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/2 teaspoon",
+      "notes": "optional, for extra heat"
+    },
+    {
+      "name": "ginger puree",
+      "amount": "2 teaspoons",
+      "notes": "freshly grated ginger can be used instead"
+    },
+    {
+      "name": "oil",
+      "amount": "3 tablespoons",
+      "notes": "extra virgin olive oil is recommended for crispiness"
+    },
+    {
+      "name": "garlic paste",
+      "amount": "1 teaspoon",
+      "notes": "minced garlic works well too"
+    },
+    {
+      "name": "soaked vermicelli noodles",
+      "amount": "2 tablespoons",
+      "notes": "adjust quantity based on serving size"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 40°C (320°F).",
+    "In a small bowl, mix together sesame seeds with palm sugar and soy sauce. If using chili flakes, add them now as well.",
+    "Stir in ginger puree, garlic paste, and soaked vermicelli noodles until well combined. Adjust seasoning to taste if needed.",
+    "Heat oil in a large skillet over medium heat. Once hot, pour the sesame seed mixture into the pan and cook for about 5 minutes or until the sauce thickens and coats the noodles evenly.",
+    "Transfer the stir-fried dish onto a baking sheet lined with parchment paper. Bake at 40°C (320°F) for 1 hour. Flip occasionally to ensure even cooking.",
+    "Remove from oven once golden brown and crispy, then return to skillet to keep warm before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 60,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "saudia-arabic",
+    "nostalgic-dish",
+    "crispy-fried",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 28,
+    "fat": 12
+  },
+  "slug": "crispy-nostalgic-saudia-sesame-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-nostalgic-saudia-sesame-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T03:37:10Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crispy",
+    "mood": "nostalgic",
+    "technique": "sous-vide",
+    "primaryIngredient": "sesame butter",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "sesame",
+    "descriptor": "Crispy Nostalgic",
+    "dishForm": "Stir-fry"
+  }
+}
