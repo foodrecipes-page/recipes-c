@@ -1,0 +1,83 @@
+{
+  "title": "Crispy Saudia Crustaceans Stir-fry",
+  "description": "This salty and crispy dish features saudi arabian crustaceans that are both vegetarian-friendly and perfect for brunch.",
+  "cuisine": "Saudi Arabian",
+  "diet": null,
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "20 pieces"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4-6 cloves, minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 medium, finely chopped"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a non-stick skillet over medium-high heat.",
+    "Add the minced garlic and onions, cooking until translucent and golden brown, about 5 minutes.",
+    "Add cumin seeds and turmeric powder. Cook for another minute.",
+    "Carefully add the shrimp to the pan. Do not overcrowd the pan as this could reduce heat and affect browning.",
+    "Season with salt and pepper to taste. Stir-fry until the crustaceans turn golden brown on all sides, about 3-5 minutes.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "saudi",
+    "crustaceans",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 587,
+    "protein": 26,
+    "carbs": 15,
+    "fat": 29
+  },
+  "slug": "crispy-saudia-crustaceans-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-saudia-crustaceans-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T15:36:57Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crispy",
+    "mood": "brunch-mood",
+    "technique": "cure",
+    "primaryIngredient": "crustaceans",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "Crustaceans",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
