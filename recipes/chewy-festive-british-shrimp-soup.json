@@ -1,0 +1,76 @@
+{
+  "title": "Chewy Festive British Shrimp Soup",
+  "description": "A dairy-free and festive take on traditional shrimp soup featuring a bitter yet chewy flavor profile.",
+  "cuisine": "British",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "soup",
+  "ingredients": [
+    {
+      "name": "Shrimp Stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Bitter Orange Slices",
+      "amount": "6 pieces"
+    },
+    {
+      "name": "Chopped Chives",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Parsley, Freshly Chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring shrimp stock and water to a boil in a pot.",
+    "Add bitter orange slices and chopped chives. Simmer for about 5 minutes.",
+    "Stir in lemon zest, ensuring everything is well combined.",
+    "Serve hot with additional fresh parsley garnish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "festive",
+    "british",
+    "shrimp",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 3
+  },
+  "slug": "chewy-festive-british-shrimp-soup",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-festive-british-shrimp-soup",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T05:38:42Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "chewy",
+    "mood": "festive",
+    "technique": "deglaze",
+    "primaryIngredient": "shrimp stock",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Shrimp",
+    "descriptor": "Chewy Festive",
+    "dishForm": "Soup"
+  }
+}
