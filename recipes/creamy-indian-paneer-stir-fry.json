@@ -1,0 +1,90 @@
+{
+  "title": "Creamy Indian Paneer Stir-Fry",
+  "description": "A lazy Sunday savory dish featuring creamy paneer and ready-to-roll shortcrust pastry for a whole30-friendly twist on traditional Rajasthani cuisine.",
+  "cuisine": "Indian (Rajasthani)",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Paneer",
+      "amount": "200g"
+    },
+    {
+      "name": "Ready-to-roll shortcrust pastry sheets",
+      "amount": "1 sheet per person (optional)"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4, minced"
+    },
+    {
+      "name": "Tomato puree or fresh tomatoes",
+      "amount": "200ml (approx. 2 ripe tomatoes)"
+    },
+    {
+      "name": "Makhani masala powder (or garam masala)",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Curry leaves",
+      "amount": "5-6, finely chopped for garnish (optional)"
+    },
+    {
+      "name": "Water or vegetable broth",
+      "amount": "200ml"
+    },
+    {
+      "name": "Salt to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 180°C.",
+    "If using shortcrust pastry, preheat the oven and have it ready at this temperature. If not using, skip this step.",
+    "Heat a pan over medium heat with a tablespoon of oil. Add finely chopped onions and sauté until translucent.",
+    "Add minced garlic and cook for another minute or two until fragrant. Stir in tomato puree, makhani masala powder (or garam masala), salt, and water/vegetable broth.",
+    "Bring the mixture to a simmer, then reduce heat to low and let it thicken slightly. Simmer gently for about 5-7 minutes.",
+    "Fold in cooked paneer cubes with the sauce. Add curry leaves if using and mix well.",
+    "If you're not serving immediately, transfer the pan to your oven-safe dish and bake until the paneer is golden brown on top (about 10-12 minutes). If baking, place the dish directly under the preheated oven for best results."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "creamysavory",
+    "whole30friendly",
+    "lazymonday"
+  ],
+  "nutrition": {
+    "calories": 287,
+    "protein": 15,
+    "carbs": 49,
+    "fat": 6
+  },
+  "slug": "creamy-indian-paneer-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-indian-paneer-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T13:59:37Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "creamy",
+    "mood": "lazy-sunday",
+    "technique": "deglaze",
+    "primaryIngredient": "ready rolled shortcrust pastry",
+    "diet": "whole30",
+    "region": "rajasthani",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "paneer",
+    "descriptor": "Creamy",
+    "dishForm": "Stir-fry"
+  }
+}
