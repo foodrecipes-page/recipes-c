@@ -1,0 +1,85 @@
+{
+  "title": "Crispy Filipino Tapioca Stir-fry",
+  "description": "A buttery and crispy brunch-mood dish featuring red pepper flakes, sautéed with sweet-tangy tapioca pearls for a delightful snack or appetizer.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tapioca pearls",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3 pieces"
+    },
+    {
+      "name": "Scallions",
+      "amount": "2 pieces",
+      "notes": "green part only"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse tapioca pearls under cold water and soak them in warm water for at least 30 minutes.",
+    "In a large pot, combine the soaked tapioca pearls with 2 cups of water. Bring to a boil then reduce heat to low and simmer until they are soft but not falling apart, about 15-20 minutes.",
+    "Drain the tapioca pearls and set aside. In a wok or frying pan, heat sesame oil over medium-high heat. Add garlic cloves and red pepper flakes; sauté for about 30 seconds.",
+    "Add drained tapioca pearls to the wok with salt, stir well until evenly coated with flavors from spices. Adjust seasoning if needed.",
+    "To make it crispy, you can sprinkle a bit of cornstarch over the top before serving or after adding more oil and tossing the mixture in.",
+    "Serve hot as an appetizer for brunch."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "buttery",
+    "casserole",
+    "filipino"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 2,
+    "carbs": 12,
+    "fat": 3
+  },
+  "slug": "crispy-filipino-tapioca-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-filipino-tapioca-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T11:17:00Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crispy",
+    "mood": "brunch-mood",
+    "technique": "saute",
+    "primaryIngredient": "red pepper flakes",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Tapioca",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
