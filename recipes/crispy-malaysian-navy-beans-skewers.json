@@ -1,0 +1,79 @@
+{
+  "title": "Crispy Malaysian Navy Beans Skewers",
+  "description": "A festive dish featuring grilled dried white navy beans with a tangy glaze for a high-protein-friendly snack.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup dried navy beans",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 cup soy sauce (dark or regular)",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons lemon juice",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 tablespoon sugar (or to taste)",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 small red chili, finely chopped (optional)",
+      "amount": "small"
+    }
+  ],
+  "instructions": [
+    "Soak the dried navy beans in water for at least 6 hours or overnight.",
+    "Drain and rinse the beans. Add them to a pot with enough water to cover and bring to a boil.",
+    "Reduce heat, partially cover, and simmer until the beans are tender (about 1 hour).",
+    "Preheat your grill to medium-high heat.",
+    "Gently mix the drained soy sauce, lemon juice, and sugar in a small bowl. Taste for desired tartness and adjust if needed.",
+    "Slice the soaked beans lengthwise into sticks about 2 cm wide.",
+    "Brush each bean slice with the glaze mixture, making sure they are evenly coated.",
+    "Thread the glazed navy beans onto skewers, leaving space between each to ensure even cooking.",
+    "Grill for about 5-10 minutes or until the outer layer is crispy and golden brown. Flip occasionally for even cooking.",
+    "Serve hot as a snack with friends."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "navigable",
+    "glazed",
+    "navy-beans",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 147,
+    "protein": 6,
+    "carbs": 13,
+    "fat": 2
+  },
+  "slug": "crispy-malaysian-navy-beans-skewers",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-malaysian-navy-beans-skewers",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T05:50:13Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crisp",
+    "mood": "festive",
+    "technique": "grill",
+    "primaryIngredient": "dried white navy beans",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Navy Beans",
+    "descriptor": "Crispy",
+    "dishForm": "Skewers"
+  }
+}
