@@ -1,0 +1,90 @@
+{
+  "title": "Crispy Smoky Saudia Pappardelle Stir-fry",
+  "description": "A steam-cooked pappardelle pasta dish with a smoky and crispy texture, inspired by traditional Saudi Arabian cuisine. This jain-friendly recipe is perfect for those seeking an indulgent yet healthy meal option.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup pappardelle pasta",
+      "amount": "cup"
+    },
+    {
+      "name": "1/2 teaspoon garam masala",
+      "notes": "A blend of spices commonly used in Middle Eastern cooking."
+    },
+    {
+      "name": "1/4 teaspoon cumin powder",
+      "notes": "Adds a warm, earthy flavor to the dish."
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "notes": "For added depth and flavor."
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "notes": "To provide a tangy kick to the dish."
+    },
+    {
+      "name": "1/4 cup olive oil",
+      "amount": "cup"
+    },
+    {
+      "name": "Vegetable or vegetable stock, to taste",
+      "notes": "For added moisture and flavor."
+    },
+    {
+      "name": "1 teaspoon smoked paprika",
+      "notes": "For a smoky, charred flavor."
+    }
+  ],
+  "instructions": [
+    "Bring water to a boil in a pot with salt. Add pappardelle pasta and cook until al dente.",
+    "While pasta cooks, heat olive oil in a non-stick skillet over medium-high heat. Add minced garlic and sauté for about 30 seconds or until fragrant.",
+    "Add smoked paprika to the pan and stir well to coat the garlic evenly with the spice blend. Continue cooking for another minute, allowing the spices to infuse into the oil.",
+    "Drain cooked pasta and add it directly into the skillet with the sautéed garlic and smoked paprika mixture. Toss gently to combine all ingredients until most of the liquid has been absorbed by the pasta.",
+    "Pour in lemon juice while stirring constantly for about 1 minute. This will help in reducing the moisture from the dish, making it crispier when served.",
+    "Adjust seasoning with salt as needed. Serve hot and enjoy your crispy smoky Saudia Pappardelle Stir-fry."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pasta",
+    "stir-fry",
+    "smoky",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "crispy-smoky-saudia-pappardelle-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-smoky-saudia-pappardelle-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T19:23:25Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crisp",
+    "mood": "indulgent",
+    "technique": "steam",
+    "primaryIngredient": "pappardelle pasta",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "Pappardelle",
+    "descriptor": "Crispy Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
