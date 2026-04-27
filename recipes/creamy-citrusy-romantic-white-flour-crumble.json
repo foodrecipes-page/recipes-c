@@ -1,0 +1,102 @@
+{
+  "title": "Creamy Citrusy Romantic White Flour Crumble",
+  "description": "A low-calorie-friendly romantic Irish dish featuring strong white flour and a creamy citrus sauce to complement the bread-like texture.",
+  "cuisine": "Irish",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup (200g) all-purpose flour",
+      "amount": "cup",
+      "notes": "Use for the crumble topping"
+    },
+    {
+      "name": "1/4 cup (60ml) unsalted butter, melted",
+      "amount": "cup",
+      "notes": "For the crumble topping"
+    },
+    {
+      "name": "1/2 cup (95g) granulated sugar",
+      "amount": "cup",
+      "notes": "To sweeten the white flour mixture"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "",
+      "notes": "Freshly squeezed for a natural citrus flavor"
+    },
+    {
+      "name": "Zest of 1 lemon",
+      "amount": "",
+      "notes": "For added zestiness"
+    },
+    {
+      "name": "1/2 cup (120ml) whole milk or low-fat milk",
+      "amount": "cup",
+      "notes": "To create the creamy sauce"
+    },
+    {
+      "name": "1/4 teaspoon ground cinnamon",
+      "amount": "",
+      "notes": "For enhanced flavor"
+    },
+    {
+      "name": "Pinch of salt to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a medium bowl, mix together the flour, sugar, melted butter, and pinch of salt until well combined.",
+    "Fold in lemon juice and zest into the flour mixture to create a crumble dough.",
+    "Pour milk and cinnamon into a saucepan over medium heat. Stir until it comes to a simmer.",
+    "Reduce heat to low and stir continuously for about 30 seconds or until thickened slightly, then remove from heat.",
+    "Pour the creamy sauce over the crumbled mixture in the bowl and gently mix using a fork to coat evenly.",
+    "Press the crumble dough into a greased baking dish (approx. 8x8 inches).",
+    "Bake for about 20 minutes or until golden brown and set. Serve warm with a dollop of whipped cream if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "creamy",
+    "citrusy",
+    "romantic",
+    "irish",
+    "white-flour-crumble"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 14,
+    "fat": 5
+  },
+  "slug": "creamy-citrusy-romantic-white-flour-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-citrusy-romantic-white-flour-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T10:54:24Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "bake",
+    "primaryIngredient": "strong white flour",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "White Flour",
+    "descriptor": "Citrusy Creamy Romantic",
+    "dishForm": "Crumble"
+  }
+}
