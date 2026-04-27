@@ -1,0 +1,114 @@
+{
+  "title": "Crispy Nutty Sevaiiya Stir-fry",
+  "description": "A monsoon Egyptian dish featuring crispy and nutty sevaiiya stir-fried with aromatic spices and vegetables for a hearty meal.",
+  "cuisine": "Egyptian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup Sevaiya (Kuttu), rinsed",
+      "amount": "",
+      "notes": "Wash thoroughly and drain well"
+    },
+    {
+      "name": "2 tablespoons Olive Oil",
+      "amount": "",
+      "notes": "Ensure it's cold-pressed for a healthier option"
+    },
+    {
+      "name": "1 small Onion, finely chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "3 cloves Garlic, minced",
+      "amount": "",
+      "notes": "Crush lightly to release more flavor"
+    },
+    {
+      "name": "2-inch piece of Ginger, grated",
+      "amount": "",
+      "notes": "Grate ginger using a Microplane or Mandoline for finer texture"
+    },
+    {
+      "name": "1 tablespoon Sesame Seeds (optional)",
+      "amount": "",
+      "notes": "For extra crunch"
+    },
+    {
+      "name": "A handful of Coriander Leaves (Dhania), finely chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons Coconut Milk or Water for thinning the sauce",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon Salt to taste",
+      "amount": "",
+      "notes": "Adjust based on preference"
+    },
+    {
+      "name": "1/4 cup Cashew Nuts, coarsely chopped (optional)",
+      "amount": "",
+      "notes": "For added crunch and flavor"
+    },
+    {
+      "name": "A pinch of Red Chili Powder for extra heat (optional)",
+      "amount": "",
+      "notes": "Use sparingly"
+    },
+    {
+      "name": "Vegetable Oil, for stir-frying",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a wok or large skillet over medium-high heat. Add onion and sauté until translucent.",
+    "Add garlic and ginger; cook for another minute until fragrant but not browned.",
+    "Stir in the sevaiya, sesame seeds (if using), salt, and cashew nuts. Toss well to coat evenly with oil and spices.",
+    "Cook for about 10 minutes or until they start to get crispy on the edges. If the pan gets too dry, add a splash of coconut milk or water to prevent sticking.",
+    "Gently fold in chopped coriander leaves and cook for an additional minute, allowing flavors to meld together.",
+    "Adjust seasoning if needed, then serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "crispy",
+    "stir-fry",
+    "monsoon",
+    "egyptian",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 9
+  },
+  "slug": "crispy-nutty-sevaiiya-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-nutty-sevaiiya-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T03:01:02Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crisp",
+    "mood": "monsoon",
+    "technique": "boil",
+    "primaryIngredient": "sevaiiya",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Sevaiiya",
+    "descriptor": "Nutty Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
