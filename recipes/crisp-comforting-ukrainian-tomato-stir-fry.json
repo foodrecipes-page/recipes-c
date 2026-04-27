@@ -1,0 +1,92 @@
+{
+  "title": "Floral Crisp Comforting Ukrainian Tomato Stir-fry",
+  "description": "A floral and comforting Ukrainian dish featuring smoky paprika in a low-fat-friendly preparation with crisp textures.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ukraine-style tomatoes",
+      "amount": "1 cup halved",
+      "notes": "Fresh or canned, preferably not overly ripe"
+    },
+    {
+      "name": "Low-sodium tomato sauce",
+      "amount": "1/2 cup",
+      "notes": "For a reduced-fat version, use low-fat alternatives"
+    },
+    {
+      "name": "Low-sodium chicken broth",
+      "amount": "4 oz",
+      "notes": "Ensure it’s not overly salty"
+    },
+    {
+      "name": "Fresh garlic cloves",
+      "amount": "2-3",
+      "notes": "Chopped finely for maximum flavor"
+    },
+    {
+      "name": "Ukrainian paprika flakes or smoked paprika",
+      "amount": "1/4 tsp",
+      "notes": "For a mild smokiness"
+    },
+    {
+      "name": "Dijon mustard paste or vinegar alternative",
+      "amount": "1 tbsp",
+      "notes": "To enhance the dish without adding too much fat"
+    },
+    {
+      "name": "Low-fat milk or yogurt",
+      "amount": "2-3 tbsp",
+      "notes": "For a creamy texture, optional"
+    },
+    {
+      "name": "Chopped fresh parsley and dill",
+      "amount": "1/4 cup",
+      "notes": "To add freshness to the dish"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick skillet over medium heat.",
+    "Add garlic cloves and minced paprika, cooking until fragrant but not browned.",
+    "Pour in tomato sauce, broth, and mustard paste. Stir well.",
+    "Add halved tomatoes, bringing the mixture to a simmer. Cook for about 5 minutes.",
+    "If desired, add milk or yogurt for a rich finish; stir gently once added.",
+    "Stir in chopped herbs (parsley and dill) last, until just wilted and well-combined with the sauce.",
+    "Turn off heat immediately to maintain its floral freshness. Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian-dish",
+    "floral-simmering",
+    "comfortable-meal"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 6,
+    "carbs": 25,
+    "fat": 4
+  },
+  "slug": "crisp-comforting-ukrainian-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-comforting-ukrainian-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T08:54:24Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crisp",
+    "mood": "comforting",
+    "technique": "whisk",
+    "primaryIngredient": "smoky paprika",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Tomato",
+    "descriptor": "Crisp Comforting",
+    "dishForm": "Stir-fry"
+  }
+}
