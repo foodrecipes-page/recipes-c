@@ -1,0 +1,76 @@
+{
+  "title": "Crispy Garlic Australian Onion Stir-fry",
+  "description": "A festive vegetarian-friendly dish featuring crispy onions braised with garlic for a savory and crisp texture.",
+  "cuisine": "Australian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3-4 cloves",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "A pinch",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "A pinch",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a wok or large skillet over medium-high heat.",
+    "Add chopped garlic and sauté for about 30 seconds until fragrant, making sure to stir frequently to prevent burning.",
+    "Increase heat to high, then add the chopped onions. Stir-fry continuously for about 8-10 minutes until the onions are translucent and golden brown.",
+    "Season with a pinch of salt and pepper to taste.",
+    "Remove from heat immediately after seasoning for best crispness."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlicky",
+    "crispy",
+    "festive",
+    "australian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 65,
+    "protein": 1,
+    "carbs": 10,
+    "fat": 2
+  },
+  "slug": "crispy-garlic-australian-onion-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-garlic-australian-onion-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T14:34:55Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crisp",
+    "mood": "festive",
+    "technique": "braise",
+    "primaryIngredient": "chopped onion",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Onion",
+    "descriptor": "Garlicky, Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
