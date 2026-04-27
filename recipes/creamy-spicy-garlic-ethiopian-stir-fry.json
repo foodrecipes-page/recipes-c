@@ -1,0 +1,95 @@
+{
+  "title": "Creamy Spicy Garlic Ethiopian Stir-fry",
+  "description": "This savory and creamy Ethiopian dish features birds-eye chili peppers for a spicy kick, perfect as a solo dinner option that's also fodmap-friendly.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "sauery",
+    "creamy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "garlic cloves",
+      "amount": "2-3",
+      "notes": "crushed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "butter or vegan butter alternative",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "water or vegetable broth",
+      "amount": "200ml"
+    },
+    {
+      "name": "spices (turmeric, cumin)",
+      "amount": "to taste"
+    },
+    {
+      "name": "birds-eye chili peppers",
+      "amount": "4-5",
+      "notes": "chopped finely"
+    },
+    {
+      "name": "pasta or pasta-like texture of choice",
+      "amount": "as needed"
+    },
+    {
+      "name": "nutritional yeast (optional)",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil and butter in a pan over medium heat.",
+    "Add garlic and chili peppers, sautéing for about 2 minutes until fragrant but not browned.",
+    "Stir in tomato paste and cook for another minute.",
+    "Gradually add water or broth while stirring to avoid lumps. Add spices as per preference.",
+    "Reduce heat to low and let the sauce simmer for around 5-7 minutes, allowing flavors to meld.",
+    "Add pasta or other starchy ingredient of choice if using, and stir until evenly coated in the sauce.",
+    "Season with salt to taste and garnish with nutritional yeast if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "creamy-spicy-garlic",
+    "ethiopian-dish",
+    "birds-eye-chili",
+    "stir-fry",
+    "fodmap-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 9,
+    "carbs": 40,
+    "fat": 13
+  },
+  "slug": "creamy-spicy-garlic-ethiopian-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-spicy-garlic-ethiopian-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T11:53:28Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "creamy",
+    "mood": "solo-dinner",
+    "technique": "braise",
+    "primaryIngredient": "birds-eye chillies",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Garlic",
+    "descriptor": "Creamy Spicy",
+    "dishForm": "Stir-fry"
+  }
+}
