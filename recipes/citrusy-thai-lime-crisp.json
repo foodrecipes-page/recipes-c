@@ -1,0 +1,88 @@
+{
+  "title": "Citrusy Thai Lime Crisp",
+  "description": "This meal-prep Thai dish combines citrus zest with rum and an air-fried base for a festive, dairy-free dessert.",
+  "cuisine": "Thai",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Lime Juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Rum",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Oats, rolled",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Coconut Milk Powder (optional)",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Almond Flour",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch"
+    }
+  ],
+  "instructions": [
+    "Combine lime juice, rum, coconut milk powder (if using), and sugar in a bowl. Mix well.",
+    "Add oats and cinnamon to the mixture. Stir until evenly combined with the liquid components.",
+    "Fold in almond flour just before serving if desired for added texture. Ensure no lumps remain.",
+    "Line an air fryer basket with parchment paper. Spoon the crisp mixture into the basket.",
+    "Air-fry at 350°F (175°C) for about 20 minutes, or until golden brown and crispy on top."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "fluffy",
+    "meal-prep",
+    "thai",
+    "dish",
+    "rum-friendly",
+    "air-fry"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 4,
+    "carbs": 18,
+    "fat": 5
+  },
+  "slug": "citrusy-thai-lime-crisp",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-thai-lime-crisp",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T09:10:22Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "fluffy",
+    "mood": "meal-prep",
+    "technique": "air-fry",
+    "primaryIngredient": "rum",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "lime",
+    "descriptor": "Citrusy",
+    "dishForm": "Stir-fry"
+  }
+}
