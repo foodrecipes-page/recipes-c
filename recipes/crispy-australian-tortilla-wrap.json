@@ -1,0 +1,70 @@
+{
+  "title": "Crispy Australian Tortilla Wrap",
+  "description": "A light and salty dairy-free dish featuring tortillas that are caramelized for an extra crispy texture.",
+  "cuisine": "Australian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 large tortilla",
+      "amount": "1 piece"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame seeds, for topping (optional)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "-"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Heat vegetable oil in a pan over medium heat.",
+    "Carefully place the tortilla into the hot oil, swirling to coat evenly. Cook for about 2-3 minutes on each side or until golden brown and crispy.",
+    "If using sesame seeds, sprinkle them on top of the cooked tortilla before serving.",
+    "Season with salt to taste.",
+    "Serve immediately as a snack or meal accompaniment."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "australian-tortilla-wrap",
+    "caramelized-tortilla",
+    "salty-dairy-free",
+    "light-australian-dish"
+  ],
+  "nutrition": {
+    "calories": 50,
+    "protein": 1,
+    "carbs": 9,
+    "fat": 2
+  },
+  "slug": "crispy-australian-tortilla-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-australian-tortilla-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T12:43:13Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "light",
+    "mood": "light",
+    "technique": "caramelize",
+    "primaryIngredient": "tortillas",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Tortilla",
+    "descriptor": "Crispy",
+    "dishForm": "Wrap"
+  }
+}
