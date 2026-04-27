@@ -1,0 +1,97 @@
+{
+  "title": "Citrusy Silky American Chicken Stir-fry",
+  "description": "A low-calorie-friendly citrusy and silky crowd-pleaser featuring chicken with a blend of fresh citrus flavors.",
+  "cuisine": "American",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken breasts",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "grated orange zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt and pepper",
+      "notes": "to taste"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "chili flakes (optional)",
+      "amount": "a few pinches"
+    }
+  ],
+  "instructions": [
+    "Whisk together lime juice, lemon juice, orange zest, soy sauce, rice vinegar, and sesame oil in a bowl.",
+    "Add salt and pepper to taste. Mix well until the flavors are fully combined.",
+    "Season chicken breasts on both sides with salt and pepper.",
+    "Heat a large skillet over medium-high heat. Add chicken pieces and cook for 5-6 minutes per side or until golden brown, flipping occasionally.",
+    "Remove chicken from skillet and set aside. Lower heat to medium, add green onions to the skillet without oil.",
+    "Pour the sauce mixture over the cooked chicken in the skillet, stir gently to coat all pieces evenly with the sauce.",
+    "Stir in chili flakes if using, then return the chicken to the skillet along with any leftover marinade from the bowl. Cook for an additional minute until heated through and most of the liquid has evaporated.",
+    "Serve hot garnished with extra green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "silky",
+    "american",
+    "stir-fry",
+    "low-calorie-friendly"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 28,
+    "carbs": 12,
+    "fat": 7
+  },
+  "slug": "citrusy-silky-american-chicken-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-silky-american-chicken-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T14:05:12Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "silky",
+    "mood": "crowd-pleaser",
+    "technique": "steam",
+    "primaryIngredient": "chicken",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Chicken",
+    "descriptor": "Citrusy Silky",
+    "dishForm": "Stir-fry"
+  }
+}
