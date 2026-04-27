@@ -1,0 +1,71 @@
+{
+  "title": "Crispy Filipino Orange Crumble",
+  "description": "A fresh and light crumbly dish featuring crispy fried oranges in a paleo-friendly recipe that is perfect for breakfast.",
+  "cuisine": "Filipino",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 orange",
+      "amount": "medium-sized",
+      "notes": "skin and flesh separated"
+    },
+    {
+      "name": "1 tbsp coconut oil",
+      "amount": "",
+      "notes": "for frying"
+    },
+    {
+      "name": "Pinch of sea salt",
+      "amount": "",
+      "notes": "optional for flavoring"
+    }
+  ],
+  "instructions": [
+    "Wash the medium-sized orange thoroughly.",
+    "Cut each orange into slices, keeping skin and flesh separated as they will be fried separately.",
+    "In a small bowl, mix coconut oil with pinch of sea salt if using. Heat enough oil in a deep fryer or large pot to reach 350°F (175°C).",
+    "When the oil reaches temperature, add orange slices skin side down first and then flesh side up. Fry for about 2-3 minutes on each side until golden brown.",
+    "Drain excess grease from fried skin and flesh separately on paper towels.",
+    "Combine fried orange skin pieces in a bowl with any additional ingredients or seasonings if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "paleo-friendly",
+    "crisp",
+    "light",
+    "filipino",
+    "orange",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 24,
+    "fat": 7
+  },
+  "slug": "crispy-filipino-orange-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-filipino-orange-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T00:35:15Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crumbly",
+    "mood": "light",
+    "technique": "fry",
+    "primaryIngredient": "oranges",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "orange",
+    "descriptor": "Crispy",
+    "dishForm": "Crumble"
+  }
+}
