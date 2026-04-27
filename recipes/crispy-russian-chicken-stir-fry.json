@@ -1,0 +1,92 @@
+{
+  "title": "Crispy Russian Chicken Stir-fry",
+  "description": "A spicy and crispy post-workout dish featuring sweet chili sauce, high in protein, perfect for muscle recovery.",
+  "cuisine": "Chinese",
+  "diet": [
+    "high-protein-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "200g",
+      "notes": "skinless and boneless"
+    },
+    {
+      "name": "sweet chili sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "scallions (green onions)",
+      "amount": "4 slices",
+      "notes": "white part only, chopped"
+    },
+    {
+      "name": "celery stalks",
+      "amount": "1 medium",
+      "notes": "finely sliced"
+    },
+    {
+      "name": "bell pepper slices",
+      "amount": "2 tbsp",
+      "notes": "any color variety"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (205°C). Pat chicken dry with paper towels.",
+    "Season chicken with soy sauce, ginger paste, and a pinch of salt. Toss gently to coat evenly.",
+    "Place seasoned chicken on a baking sheet lined with parchment paper. Bake for 18-20 minutes until fully cooked and golden brown.",
+    "While chicken bakes, mix together sweet chili sauce and peanut oil in a bowl; set aside.",
+    "Wipe out the pan used for frying if needed. Heat oil over medium-high heat. Add scallions, celery, and bell pepper slices. Stir-fry for about 3 minutes or until vegetables are crisp-tender.",
+    "Add prepped chicken to the pan and toss with sauce mixture. Cook for another 1-2 minutes allowing flavors to meld together.",
+    "Serve hot as a main course with steamed rice or noodles."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "spicy",
+    "russian",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 369,
+    "protein": 31,
+    "carbs": 20,
+    "fat": 7
+  },
+  "slug": "crispy-russian-chicken-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-russian-chicken-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T15:31:55Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crispy",
+    "mood": "post-workout",
+    "technique": "knead",
+    "primaryIngredient": "sweet chilli sauce",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
