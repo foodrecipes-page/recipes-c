@@ -1,0 +1,67 @@
+{
+  "title": "Crispy Poached Garlic Japanese Stir-fry",
+  "description": "A paleo-friendly Japanese dish featuring a crispy poaching technique for a garlicky and post-workout treat.",
+  "cuisine": "Japanese",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 tbsp coconut oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "10 garlic cloves, minced",
+      "amount": null
+    },
+    {
+      "name": "1 cup shredded unsweetened coconut",
+      "amount": "cup"
+    },
+    {
+      "name": "Pinch of sea salt",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a non-stick skillet over medium-high heat.",
+    "Add minced garlic to the hot oil and cook for about 2 minutes until fragrant.",
+    "Gently fold in shredded coconut, tossing until well combined.",
+    "Season with a pinch of sea salt. Remove from heat immediately to prevent burning and maintain crispiness."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "garlicky",
+    "crispy",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 40,
+    "protein": 1,
+    "carbs": 5,
+    "fat": 3
+  },
+  "slug": "crispy-poached-garlic-japanese-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-poached-garlic-japanese-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T10:01:14Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crisp",
+    "mood": "post-workout",
+    "technique": "poach",
+    "primaryIngredient": "shredded coconut",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "garlic",
+    "descriptor": "Crispy Poached",
+    "dishForm": "Stir-fry"
+  }
+}
