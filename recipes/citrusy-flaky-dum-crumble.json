@@ -1,0 +1,83 @@
+{
+  "title": "Citrusy Flaky Dum Crumble",
+  "description": "A nostalgic Korean dish featuring mint-infused dumplings with a light citrus crust that's both delightful and easy to prepare.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dumplings",
+      "amount": "10 pieces",
+      "notes": "Use low-fat dumplings for a healthier option."
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "May be swapped with almond or coconut flour for additional flavor and texture."
+    },
+    {
+      "name": "Coconut oil or melted butter",
+      "amount": "1 tablespoon",
+      "notes": "For a low-fat option, use liquid plant-based oil instead of coconut oil/butter."
+    },
+    {
+      "name": "Mint leaves",
+      "amount": "2 tablespoons fresh",
+      "notes": "Can be finely chopped for better distribution in the crust."
+    },
+    {
+      "name": "Julienned citrus zest",
+      "amount": "1 tablespoon",
+      "notes": "Use zest from a single lemon or orange, finely grated to ensure even spread in the dish."
+    },
+    {
+      "name": "Honey",
+      "amount": "2 teaspoons",
+      "notes": "Can be omitted for a more natural flavor profile if desired."
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Mix all-purpose flour, coconut oil/butter, and a pinch of salt in a large bowl until well combined.",
+    "Fold in mint leaves and citrus zest into the flour mixture. The mixture should be crumbly but hold together when pressed.",
+    "Place dumplings evenly on a baking sheet lined with parchment paper or silicone mat.",
+    "Spread the flaky dough mixture over each dumpling, ensuring an even layer covering half of the surface area.",
+    "Bake in preheated oven for 15 minutes, then reduce heat to 320°F (160°C) and bake for another 10-15 minutes or until golden brown on top and crisp around the edges.",
+    "Remove from oven and let cool slightly before serving. Garnish with extra mint leaves if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dumpling",
+    "citrusy",
+    "mint",
+    "flaky"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 9,
+    "fat": 8
+  },
+  "slug": "citrusy-flaky-dum-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-flaky-dum-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T23:13:14Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "flaky",
+    "mood": "nostalgic",
+    "technique": "dum",
+    "primaryIngredient": "mint",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "dum",
+    "descriptor": "Citrusy Flaky",
+    "dishForm": "Crumble"
+  }
+}
