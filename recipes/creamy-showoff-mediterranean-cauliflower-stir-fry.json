@@ -1,0 +1,107 @@
+{
+  "title": "Creamy Showoff Mediterranean Cauliflower Stir-fry",
+  "description": "A herbal and creamy show-off mediterranean dish featuring cauliflower and dairy-free-friendly ingredients.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup fresh cauliflower florets",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "tbsp",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup diced red onion",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 clove garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp lemon juice",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 1/2 lemon",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup nutritional yeast",
+      "amount": "",
+      "notes": "Optional for extra creaminess and umami flavor."
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tbsp chopped fresh herbs (thyme, parsley, oregano)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "200ml vegan milk or almond milk",
+      "amount": "ml",
+      "notes": "Any plant-based milk can be used for creamy consistency."
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (205°C).",
+    "Toss cauliflower florets with olive oil, salt and pepper on a baking sheet. Roast for about 30 minutes or until golden brown.",
+    "While cauliflower roasts, heat olive oil in a large skillet over medium-high heat. Add red onion and garlic; sauté for about 5 minutes or until softened.",
+    "Add roasted cauliflower to the skillet with onions. Pour in lemon juice and nutritional yeast (if using). Stir well to combine all ingredients.",
+    "Reduce heat to low, add vegan milk or almond milk. Simmer mixture for a few more minutes to thicken sauce.",
+    "Stir in fresh herbs and seasonings. Cook until liquid is absorbed into the cauliflower.",
+    "Serve hot as a side dish with your favorite grains or over quinoa."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "show-off",
+    "mediterranean",
+    "herbal",
+    "dairy-free"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 7,
+    "carbs": 36,
+    "fat": 14
+  },
+  "slug": "creamy-showoff-mediterranean-cauliflower-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-showoff-mediterranean-cauliflower-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T22:52:27Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "creamy",
+    "mood": "show-off",
+    "technique": "dum",
+    "primaryIngredient": "cauliflower",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Cauliflower",
+    "descriptor": "Creamy Showoff",
+    "dishForm": "Stir-fry"
+  }
+}
