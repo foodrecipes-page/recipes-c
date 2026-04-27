@@ -1,0 +1,94 @@
+{
+  "title": "Crispy Roasted Peruvian Chicken Stir-fry",
+  "description": "This savory, crispy dish features chicken legs roasted until perfectly golden and served in a flavorful sauce with crunchy vegetables.",
+  "cuisine": "Peruvian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken legs",
+      "amount": "4",
+      "notes": "Skin-on, bone-in"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Coarse ground cumin",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Coarse ground coriander",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Jalapeno pepper, finely chopped (optional)",
+      "notes": "For a milder dish, omit or use a smaller amount"
+    },
+    {
+      "name": "Coarse sea salt flakes",
+      "amount": "for garnish"
+    },
+    {
+      "name": "Fresh cilantro leaves",
+      "amount": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (218°C).",
+    "Season chicken with olive oil, salt, pepper, cumin, coriander, and garlic. Mix well.",
+    "Place seasoned chicken on a roasting rack in a shallow roasting pan or baking dish.",
+    "Roast for about 30-35 minutes until internal temperature reaches 165°F (74°C) and the skin is crispy.",
+    "While chicken roasts, chop jalapeno pepper finely if using, to serve as desired.",
+    "Drizzle roasted chicken with olive oil and sprinkle with salt flakes and chopped cilantro leaves before serving.",
+    "For an extra crunch, toss vegetables like bell peppers, onions, and carrots in a little bit of olive oil before adding them to the pan during the last 10 minutes of chicken roasting time."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 35,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "stir-fry",
+    "savory",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 358,
+    "protein": 26,
+    "carbs": 17,
+    "fat": 14
+  },
+  "slug": "crispy-roasted-peruvian-chicken-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-roasted-peruvian-chicken-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T02:25:49Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "roast",
+    "primaryIngredient": "chicken legs",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Crispy Roasted",
+    "dishForm": "Stir-fry"
+  }
+}
