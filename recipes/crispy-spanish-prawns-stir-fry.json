@@ -1,0 +1,97 @@
+{
+  "title": "Crispy Spanish Prawns Stir-fry",
+  "description": "A sweet and crispy keto-friendly dish featuring prawns that are blanched and served with a tangy sauce for a cozy and flavorful meal.",
+  "cuisine": "Spanish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Prawns",
+      "amount": "200g",
+      "notes": "Gently rinse under cold water to remove any excess moisture"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Choose a mild flavored olive oil for this recipe"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "Optional, add more to taste"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4, minced",
+      "notes": "For added flavor and crunch"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning the prawns and sauce"
+    },
+    {
+      "name": "Water or Chicken Stock",
+      "amount": "1/2 cup",
+      "notes": "To blanch the prawns"
+    },
+    {
+      "name": "Red wine vinegar",
+      "amount": "2 tablespoons",
+      "notes": "To make the sauce"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": "For sweetness in the sauce"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "Prepare the prawns by rinsing them and patting them dry with paper towels. Season each shrimp lightly with salt.",
+    "In a small saucepan, combine water or chicken stock, red wine vinegar, sugar, olive oil, garlic, and red pepper flakes if using. Bring to a boil over medium-high heat.",
+    "Add the prawns to the boiling liquid and blanch for about 1 minute until they turn bright pink and are still firm. Remove from heat immediately.",
+    "While the prawns are blanching, mix together the sauce ingredients in another pan with olive oil. Heat over medium-high heat until the mixture is bubbling but not smoking hot.",
+    "Place the prawns on a baking sheet lined with parchment paper or aluminum foil and drizzle them lightly with olive oil. Season generously with salt.",
+    "Sear the prawns for about 30 seconds per side, turning carefully to coat evenly in the sauce. Reduce heat to medium-low if they start to burn.",
+    "When done, remove from the oven and let rest for a few minutes before serving warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "spanish",
+    "stir-fry",
+    "sweet",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 198,
+    "protein": 20,
+    "carbs": 7,
+    "fat": 13
+  },
+  "slug": "crispy-spanish-prawns-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-spanish-prawns-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T03:46:14Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crisp",
+    "mood": "cozy",
+    "technique": "blanch",
+    "primaryIngredient": "prawns",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Prawns",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
