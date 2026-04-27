@@ -1,0 +1,77 @@
+{
+  "title": "Crunchy Spicy Moroccan Dates Stir-fry",
+  "description": "This salty and crunchy date-night dish features spicy dates cooked with red wine vinegar for a unique twist on traditional Moroccan cuisine.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "pescatarian-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Dates",
+      "amount": "1 cup pitted dates"
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4 cloves, minced"
+    },
+    {
+      "name": "Red Chili Flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Pinch of Salt",
+      "amount": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Mix the dates, garlic, chili flakes, salt, and red wine vinegar in a bowl until evenly coated.",
+    "Arrange the date mixture on a baking sheet lined with parchment paper. Drizzle with olive oil over the top of the dates.",
+    "Bake for about 20-25 minutes or until golden brown and crispy. Stir occasionally to ensure even cooking.",
+    "Remove from oven and let cool before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 3,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "spicy",
+    "moroccan",
+    "date-night"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 28,
+    "fat": 6
+  },
+  "slug": "crunchy-spicy-moroccan-dates-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-spicy-moroccan-dates-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T21:55:53Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crunchy",
+    "mood": "date-night",
+    "technique": "knead",
+    "primaryIngredient": "red wine vinegar",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Dates",
+    "descriptor": "Crunchy Spicy",
+    "dishForm": "Stir-fry"
+  }
+}
