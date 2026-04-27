@@ -1,0 +1,79 @@
+{
+  "title": "Citrusy Velvety Citrusy Porridge Oats",
+  "description": "A paleo-friendly meal-prep Argentinian dish featuring citrusy velvety porridge oats that are tender and bursting with flavors.",
+  "cuisine": "Argentine",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "almond milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "buckwheat groats",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "lime zest",
+      "notes": "fresh"
+    },
+    {
+      "name": "orange zest",
+      "notes": "fresh"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "agave nectar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Combine almond milk, buckwheat groats, and a pinch of salt in a medium saucepan. Bring to a boil over high heat.",
+    "Reduce heat to low, cover, and simmer for about 20-30 minutes or until the oats are tender and have absorbed most of the liquid.",
+    "In a small bowl, mix lime zest, orange zest, lemon juice, agave nectar, and vanilla extract. Stir into the porridge gently to avoid breaking up the oats.",
+    "Let the porridge sit for about 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "porridge",
+    "oats",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 185,
+    "protein": 6,
+    "carbs": 27,
+    "fat": 3
+  },
+  "slug": "citrusy-velvety-citrusy-porridge-oats",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-velvety-citrusy-porridge-oats",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T06:33:10Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "velvety",
+    "mood": "meal-prep",
+    "technique": "braise",
+    "primaryIngredient": "porridge oats",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "oats",
+    "descriptor": "Citrusy Velvety",
+    "dishForm": "Porridge"
+  }
+}
