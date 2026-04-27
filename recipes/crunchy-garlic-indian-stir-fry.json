@@ -1,0 +1,83 @@
+{
+  "title": "Crunchy Garlic Indian Stir-fry",
+  "description": "A gluten-free and easy-to-make dish featuring a garlicky, crunchy texture with the addition of chives to add more depth of flavor and aroma.",
+  "cuisine": "Indian (South)",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 tbsp gluten-free soy sauce"
+    },
+    {
+      "name": "1 tbsp olive oil"
+    },
+    {
+      "name": "3 cloves garlic, minced"
+    },
+    {
+      "name": "2 cups mixed vegetables (e.g., bell peppers, carrots, onions), sliced"
+    },
+    {
+      "name": "2 scallions, chopped"
+    },
+    {
+      "name": "2 green chilies, finely chopped"
+    },
+    {
+      "name": "1 tsp grated ginger"
+    },
+    {
+      "name": "3 tbsp gluten-free yogurt or sour cream (optional)"
+    },
+    {
+      "name": "Handful of fresh chives, thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok over medium-high heat.",
+    "Add minced garlic and sauté for about 1 minute until fragrant but not browned.",
+    "Add mixed vegetables and green chilies. Stir-fry for another 5 minutes, or until the vegetables are just tender-crisp.",
+    "Stir in grated ginger, soy sauce, and chopped scallions. Let it simmer for a minute.",
+    "Pour in gluten-free yogurt (if using) to create a creamy sauce. Mix well.",
+    "Garnish with sliced chives before serving hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "garlic",
+    "indian",
+    "stir-fry",
+    "south-american",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "crunchy-garlic-indian-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-garlic-indian-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T08:30:07Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crunchy",
+    "mood": "solo-dinner",
+    "technique": "tandoor",
+    "primaryIngredient": "chives",
+    "diet": "gluten-free",
+    "region": "south",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Garlic",
+    "descriptor": "Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
