@@ -1,0 +1,74 @@
+{
+  "title": "Crunchy Raw-Friendly Australian Shiitake Mushrooms Stir-fry",
+  "description": "An earthy and crunchy weeknight dish featuring raw-friendly Australian shiitake mushrooms, seasoned with traditional bhuna spices for a delightful flavor combination.",
+  "cuisine": "Australian",
+  "diet": [
+    "raw-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shiitake mushrooms",
+      "amount": "1 cup fresh"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp minced"
+    },
+    {
+      "name": "bhuna spices mix (tomato paste, chili powder, cumin, coriander seeds, turmeric)",
+      "amount": "1 tsp each"
+    }
+  ],
+  "instructions": [
+    "Clean and thinly slice the shiitake mushrooms. Finely chop the onion and mince the garlic and ginger.",
+    "Heat a small amount of oil in a pan over medium heat. Add the sliced shiitake mushrooms, cook until they turn golden brown.",
+    "Add finely chopped onions to the pan and sauté for 2-3 minutes. Stir in minced garlic and ginger with a pinch of salt.",
+    "Stir in the bhuna spices mix and continue to stir-fry for another minute until fragrant.",
+    "Transfer the mixture to a plate, leaving any excess oil in the pan. Serve immediately as a raw-friendly meal or as part of a larger dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "shiitake mushrooms",
+    "bhuna spices",
+    "australian cuisine",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 9,
+    "carbs": 36,
+    "fat": 14
+  },
+  "slug": "crunchy-raw-friendly-australian-shiitake-mushrooms-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-raw-friendly-australian-shiitake-mushrooms-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T11:29:03Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crunchy",
+    "mood": "weeknight",
+    "technique": "bhuna",
+    "primaryIngredient": "shiitake mushrooms",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "shiitake mushrooms",
+    "descriptor": "crunchy raw-friendly",
+    "dishForm": "Stir-fry"
+  }
+}
