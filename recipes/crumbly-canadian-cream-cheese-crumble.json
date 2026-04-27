@@ -1,0 +1,82 @@
+{
+  "title": "Crumbly Canadian Cream Cheese Crumble",
+  "description": "A sweet and crowd-pleasing Canadian dish featuring double cream for a decadent dessert that's perfect for any time of the day.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Canadian Cream Cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "3 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Nut-Free Rolled Oats",
+      "amount": "2/3 cup",
+      "notes": ""
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "In a mixing bowl, combine the Canadian Cream Cheese, Heavy Cream, Sugar, and Vanilla Extract. Mix until fully combined.",
+    "Add in the Rolled Oats and Flour, stirring continuously until well incorporated.",
+    "Transfer the mixture into an oven-safe dish or tin pan. Press down firmly to form a solid layer on top of your dessert or whatever you're serving it with.",
+    "Bake for 12-15 minutes or until golden brown.",
+    "Remove from the oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crumbly-crumble",
+    "sweet-dessert",
+    "canadian-cream-cheese",
+    "nut-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 275,
+    "protein": 10,
+    "carbs": 43,
+    "fat": 12
+  },
+  "slug": "crumbly-canadian-cream-cheese-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-canadian-cream-cheese-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T10:02:52Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crumbly",
+    "mood": "crowd-pleaser",
+    "technique": "pressure-cook",
+    "primaryIngredient": "double cream",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Cream Cheese",
+    "descriptor": "crumbly",
+    "dishForm": "Crumble"
+  }
+}
