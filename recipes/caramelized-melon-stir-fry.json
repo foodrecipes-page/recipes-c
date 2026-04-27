@@ -1,0 +1,72 @@
+{
+  "title": "Caramelized Melon Stir-fry",
+  "description": "A fresh and creamy Japanese-inspired dish featuring caramelize melons suitable for date nights or any casual meal time.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Cantaloupe",
+      "amount": "1 (6 inch) piece"
+    },
+    {
+      "name": "Honey syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "¼ cup"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 pinch"
+    }
+  ],
+  "instructions": [
+    "Wash and slice the cantaloupe into thin rounds.",
+    "In a small bowl, mix honey syrup and vanilla extract until well combined.",
+    "Heat coconut milk in a pan over medium heat. Remove from heat when it starts to simmer.",
+    "Brush each melon round with the honey-vanilla mixture and place on a preheated skillet drizzled with a little oil.",
+    "Add red pepper flakes if desired for an extra kick of flavor. Cook for about 2-3 minutes per side until caramelized and slightly charred.",
+    "Remove from heat, garnish with sliced fresh mint leaves, and serve warm or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "caramelized-melon",
+    "date-night-dish",
+    "fresh-creaminess",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 96,
+    "protein": 1.2,
+    "carbs": 15,
+    "fat": 0
+  },
+  "slug": "caramelized-melon-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/caramelized-melon-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T09:24:05Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "creamy",
+    "mood": "date-night",
+    "technique": "caramelize",
+    "primaryIngredient": "melons",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Melon",
+    "descriptor": "Caramelized",
+    "dishForm": "Stir-fry"
+  }
+}
