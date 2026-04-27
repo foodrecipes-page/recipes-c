@@ -1,0 +1,90 @@
+{
+  "title": "Crunchy Show-off Tunisian Paneer Stir-fry",
+  "description": "A sweet and crunchy twist on a traditional Tunisian dish featuring paneer, with added toast for texture and sweetness. Whole30-friendly and suitable for those following specific dietary restrictions.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 cups paneer cubes",
+      "amount": "",
+      "notes": "Ensure not to exceed recommended cooking temperatures for cheese"
+    },
+    {
+      "name": "1/4 cup unsalted butter",
+      "amount": "at room temperature"
+    },
+    {
+      "name": "1 medium onion, finely chopped",
+      "amount": ""
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 bell pepper, thinly sliced",
+      "amount": ""
+    },
+    {
+      "name": "20 fresh mint leaves",
+      "amount": "",
+      "notes": "Chopped"
+    },
+    {
+      "name": "2 tablespoons honey or simple syrup",
+      "amount": ""
+    },
+    {
+      "name": "Pinch of cayenne pepper (optional)",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F.",
+    "Spread the paneer cubes on a baking sheet and lightly toast them in the preheated oven for about 10-12 minutes until golden brown, flipping halfway through. Remove from oven and set aside.",
+    "In a large skillet over medium heat, melt the unsalted butter and sauté the chopped onion until translucent and soft.",
+    "Add minced garlic to the skillet and cook for an additional minute, stirring frequently.",
+    "Toss in thinly sliced bell peppers and continue cooking for about 5 minutes or until peppers are slightly softened but still crisp.",
+    "Fold in mint leaves and honey (or simple syrup), adjusting sweetness according to your taste preference. Stir well to combine all ingredients.",
+    "Increase heat to medium-high, pour the toasted paneer cubes into the skillet, mixing them in with the bell pepper mixture for 2-3 minutes until heated through.",
+    "Season with a pinch of cayenne pepper if desired and serve immediately.",
+    "Serve alongside a side of whole grain bread or quinoa salad for a complete meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy-show-off",
+    "tunisian-paneer",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 479,
+    "protein": 21,
+    "carbs": 16,
+    "fat": 28
+  },
+  "slug": "crunchy-show-off-tunisian-paneer-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-show-off-tunisian-paneer-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T05:32:15Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crunchy",
+    "mood": "show-off",
+    "technique": "toast",
+    "primaryIngredient": "paneer",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Paneer",
+    "descriptor": "crunchy show-off",
+    "dishForm": "Stir-fry"
+  }
+}
