@@ -1,0 +1,71 @@
+{
+  "title": "Crispy Fermented Knafeh Meal-Prep",
+  "description": "This sugar-free-friendly meal-prep dish combines fermented cheese with crispy layers of phyllo dough in a Venezuelan-inspired creation.",
+  "cuisine": "Venezuelan",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "phyllo dough",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "fermented cheese",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sugar-free syrup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "a few drops"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Lay a phyllo sheet on a flat surface and brush with olive oil.",
+    "Spread the fermented cheese over half of the phyllo, leaving a small border for sealing.",
+    "Drizzle sugar-free syrup evenly over the cheese.",
+    "Fold the other half of the phyllo onto the cheese to enclose it tightly.",
+    "Place seam-side down in a baking dish and brush with olive oil on top.",
+    "Bake for 20 minutes or until golden brown. Serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "fermented",
+    "crispy",
+    "meal-prep",
+    "venezuelan",
+    "dish",
+    "smoke"
+  ],
+  "nutrition": {
+    "calories": 70,
+    "protein": 2.5,
+    "carbs": 9,
+    "fat": 3
+  },
+  "slug": "crispy-fermented-knafeh-meal-prep",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-fermented-knafeh-meal-prep",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T04:34:11Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crispy",
+    "mood": "meal-prep",
+    "technique": "smoke",
+    "primaryIngredient": "knafeh",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Venezulan",
+    "mainIngredient": "Knafeh",
+    "descriptor": "Fermented Crispy",
+    "dishForm": "Meal-Prep"
+  }
+}
