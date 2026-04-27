@@ -1,0 +1,74 @@
+{
+  "title": "Citrusy Tender Light Trout Salad",
+  "description": "A refreshing Ukrainian dish featuring tender rainbow trout baked lightly with citrus accents for a raw-friendly meal.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rainbow Trout Fillets",
+      "amount": "2 pieces",
+      "notes": "Fresh and filleted"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1 tablespoon",
+      "notes": "Freshly grated from a whole lemon"
+    },
+    {
+      "name": "Orange Slices",
+      "amount": "4 slices",
+      "notes": "Juicy, fresh oranges"
+    },
+    {
+      "name": "Garnish (optional)",
+      "amount": "-",
+      "notes": "Fresh mint leaves and edible flowers for decoration"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Prepare the trout fillets by lightly brushing with olive oil, lemon zest, and orange slices.",
+    "Place the trout on a baking sheet lined with parchment paper. Bake for about 8-10 minutes or until cooked through but still delicate in texture.",
+    "While the trout is baking, prepare your garnish of fresh mint leaves and edible flowers if desired.",
+    "Once done, remove from oven and let it rest for about 2 minutes before serving to allow the juices to settle.",
+    "Serve immediately over a bed of mixed greens or a light vinaigrette dressing as per your preference."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "tender",
+    "light",
+    "ukrainian",
+    "baked",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 12,
+    "fat": 9
+  },
+  "slug": "citrusy-tender-light-trout-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-tender-light-trout-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T12:17:18Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "tender",
+    "mood": "light",
+    "technique": "bake",
+    "primaryIngredient": "rainbow trout",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Trout",
+    "descriptor": "Citrusy Tender Light",
+    "dishForm": "Salad"
+  }
+}
