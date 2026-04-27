@@ -1,0 +1,82 @@
+{
+  "title": "Crunchy Warm Australian Dum Pilaf",
+  "description": "A fresh and crunchy comfort dish featuring a blend of dumplings, palm sugar, and dairy-free friendly ingredients for an authentic taste of Australia.",
+  "cuisine": "Australian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Palm sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Dumplings",
+      "amount": "200g"
+    },
+    {
+      "name": "Broccoli florets",
+      "amount": "150g"
+    },
+    {
+      "name": "Cilantro (coriander)",
+      "amount": "1 handful"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Water",
+      "amount": "100ml"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "In a medium bowl, mix palm sugar and water until dissolved. Set aside.",
+    "Heat olive oil in a pan over medium heat. Add dumplings and cook until golden brown on all sides.",
+    "Add broccoli florets and sprinkle with cilantro. Pour the sugar syrup mixture over the vegetables. Stir gently to combine.",
+    "Transfer dumpling-vegetable mixture to an oven-safe dish. Sprinkle sesame seeds evenly over the top.",
+    "Bake for 15 minutes or until the tops are golden brown. Serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "crunchy",
+    "comfort",
+    "dairy-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 15,
+    "carbs": 37,
+    "fat": 9
+  },
+  "slug": "crunchy-warm-australian-dum-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-warm-australian-dum-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T15:13:16Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crunchy",
+    "mood": "comforting",
+    "technique": "dum",
+    "primaryIngredient": "palm sugar",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "dum",
+    "descriptor": "Crunchy Warm",
+    "dishForm": "Pilaf"
+  }
+}
