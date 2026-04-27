@@ -1,0 +1,106 @@
+{
+  "title": "Crumbly Middle Eastern Sea Bass Crumble",
+  "description": "A herbal crumbly Middle Eastern-inspired dish featuring sea bass fillets steamed to perfection in a bed of aromatic herbs and spices for a romantic twist that's also vegetarian-friendly.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sea Bass Fillets",
+      "amount": "2",
+      "notes": "Fresh, skin-on"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp",
+      "notes": "For sautéing herbs and spices"
+    },
+    {
+      "name": "Minced Onion",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Dill Leaves",
+      "amount": "2 tsp",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Fresh Cilantro Leaves",
+      "amount": "2 tsp",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Fresh Mint Leaves",
+      "amount": "1 tbsp",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/8 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garam Masala",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Pat dry the sea bass fillets with paper towels and season them lightly on both sides with salt and pepper.",
+    "In a small skillet, heat olive oil over medium heat. Add minced onion, dill, cilantro, mint, turmeric, and garam masala. Cook for 2-3 minutes until fragrant.",
+    "Place the seasoned sea bass fillets in a baking dish. Spoon the herb mixture evenly on top of each fillet.",
+    "Pour enough water into the baking dish to reach about half-way up the sides of the fish fillets (about 1/4 inch).",
+    "Cover with aluminum foil and bake for 20 minutes. Remove the foil, brush the top with olive oil, and bake for an additional 5-7 minutes or until the fish flakes easily with a fork.",
+    "Remove from oven and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crumbly",
+    "middle-eastern",
+    "herbal",
+    "romantic",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 428,
+    "protein": 37,
+    "carbs": 16,
+    "fat": 20
+  },
+  "slug": "crumbly-middle-eastern-sea-bass-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-middle-eastern-sea-bass-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T02:23:58Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crumbly",
+    "mood": "romantic",
+    "technique": "steam",
+    "primaryIngredient": "sea bass fillets",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "sea bass",
+    "descriptor": "Crumbly",
+    "dishForm": "Crumble"
+  }
+}
