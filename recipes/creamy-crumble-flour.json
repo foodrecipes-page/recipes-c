@@ -1,0 +1,77 @@
+{
+  "title": "Creamy Crumble Flour",
+  "description": "A savory and creamy Venezuelan dish featuring flour that is kid-friendly and raw-friendly.",
+  "cuisine": "Venezuelan",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Cream of Mushroom Soup Mix (optional)",
+      "amount": "1 packet"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F.",
+    "In a large bowl, mix the flour with salt and pepper.",
+    "Add heavy cream and butter to the bowl. Stir until it becomes a crumbly dough.",
+    "If using Cream of Mushroom Soup Mix, combine it into the mixture before adding the soup base instructions.",
+    "Transfer the mixture onto an ungreased baking sheet. Press down evenly.",
+    "Bake in preheated oven for 15-20 minutes or until golden brown and crispy on top.",
+    "Allow to cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "creamy",
+    "crumble",
+    "flour",
+    "oven"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 12,
+    "carbs": 68,
+    "fat": 25
+  },
+  "slug": "creamy-crumble-flour",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-crumble-flour",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T12:38:33Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "creamy",
+    "mood": "kid-friendly",
+    "technique": "broil",
+    "primaryIngredient": "flour",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Venezulan",
+    "mainIngredient": "Flour",
+    "descriptor": "Creamy",
+    "dishForm": "Crumble"
+  }
+}
