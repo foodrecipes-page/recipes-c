@@ -1,0 +1,100 @@
+{
+  "title": "Chewy Show-off Canadian Garlic Apple Crumble",
+  "description": "A show-off dish featuring a unique blend of braeburn apples, garlic, and a gluten-free crumble topping that is both chewy and garlic-infused.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup gluten-free oats",
+      "amount": "cup"
+    },
+    {
+      "name": "3/4 cup almond flour",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons tapioca starch",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "1/4 cup coconut oil, melted",
+      "amount": "cup"
+    },
+    {
+      "name": "3 tablespoons honey or maple syrup",
+      "amount": "tablespoon"
+    },
+    {
+      "name": "2 teaspoons apple cider vinegar",
+      "amount": "teaspoons"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "1 cup braeburn apples, peeled and sliced",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 teaspoon ground cinnamon",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "Pinch of nutmeg",
+      "amount": null
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juice"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a mixing bowl, combine gluten-free oats, almond flour, tapioca starch, and salt.",
+    "Add melted coconut oil, honey or maple syrup, apple cider vinegar, minced garlic, ground cinnamon, nutmeg, and lemon juice. Stir until the mixture forms a thick dough-like consistency.",
+    "Spread the apple slices evenly on a baking sheet lined with parchment paper, then sprinkle crumble mixture over the apples.",
+    "Bake for 30-40 minutes or until golden brown and crisp around the edges.",
+    "Serve warm as dessert."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "chewy",
+    "canadian-apple",
+    "garlic-infused"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 4,
+    "carbs": 28,
+    "fat": 9
+  },
+  "slug": "chewy-show-off-canadian-garlic-apple-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-show-off-canadian-garlic-apple-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T18:32:33Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "chewy",
+    "mood": "show-off",
+    "technique": "fold",
+    "primaryIngredient": "braeburn apples",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Garlic",
+    "descriptor": "Chewy Show-off",
+    "dishForm": "Crumble"
+  }
+}
