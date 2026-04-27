@@ -1,0 +1,78 @@
+{
+  "title": "Crispy Tangy Japanese Bacon Stir-fry",
+  "description": "This adventurous whole30-friendly dish combines crispy bacon lardon with a tangy sauce for an irresistible meal that's perfect for any craving.",
+  "cuisine": "Japanese",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "16 oz bacon, diced",
+      "amount": ""
+    },
+    {
+      "name": "1 tbsp soy sauce",
+      "amount": "",
+      "notes": "use low sodium if available"
+    },
+    {
+      "name": "1 tbsp lemon juice",
+      "amount": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup chopped fresh parsley",
+      "amount": ""
+    },
+    {
+      "name": "1/4 tsp black pepper",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large skillet over medium-high heat. Add diced bacon and cook until crispy, about 5 minutes.",
+    "Remove bacon from the pan and set aside on a paper towel-lined plate. Leave some grease in the pan for flavoring.",
+    "In the same pan, add soy sauce, lemon juice, and minced garlic. Stir to combine and bring to a simmer. Reduce heat to low.",
+    "Add back the crispy bacon into the pan with the sauce. Toss everything together until evenly coated and heated through.",
+    "Garnish with chopped parsley and black pepper before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "tangy",
+    "japanese",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 308,
+    "protein": 16,
+    "carbs": 5,
+    "fat": 24
+  },
+  "slug": "crispy-tangy-japanese-bacon-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-tangy-japanese-bacon-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T09:52:53Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crisp",
+    "mood": "adventurous",
+    "technique": "reduce",
+    "primaryIngredient": "bacon lardon",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Bacon",
+    "descriptor": "Tangy Crisp Whole30-friendly",
+    "dishForm": "Stir-fry"
+  }
+}
