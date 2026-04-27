@@ -1,0 +1,99 @@
+{
+  "title": "Crunch Avocado American Salad",
+  "description": "A savory and creamy solo-dinner dish featuring avocado as the star ingredient with a dairy-free-friendly sauce.",
+  "cuisine": "American",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "avocado",
+      "amount": "1 medium"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "2 pieces (skin removed)"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4 cup, thinly sliced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp fresh"
+    },
+    {
+      "name": "tomato sauce (tomato paste)",
+      "amount": "3 tsp"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "unsweetened shredded coconut",
+      "amount": "1/4 cup, for topping"
+    },
+    {
+      "name": "lime zest",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Prepare the avocado by peeling and removing the stone. Cut into slices about 1 cm thick.",
+    "Rub salt and pepper on both sides of chicken breasts and let sit for at least 20 minutes to allow flavors to penetrate.",
+    "Meanwhile, in a mixing bowl, combine lime juice, tomato sauce (tomato paste), dijon mustard, olive oil, unsweetened shredded coconut, and zest. Mix well to create the dressing.",
+    "After marinating chicken breasts, cut them into wedges about 1 cm thick.",
+    "To assemble: place slices of avocado on a serving plate. Top with sliced red onion. Arrange chicken pieces on top of avocado. Drizzle dressing over all and sprinkle with coconut. Serve immediately.",
+    "Broil the salad for an additional 2-3 minutes until crispy, watching carefully to avoid burning."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy-avocado-salad",
+    "savory-dinner-recipe",
+    "american-creamy",
+    "dairy-free",
+    "low-calorie-salad"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 26,
+    "carbs": 18,
+    "fat": 9
+  },
+  "slug": "crunch-avocado-american-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunch-avocado-american-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T16:31:21Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "creamy",
+    "mood": "solo-dinner",
+    "technique": "broil",
+    "primaryIngredient": "sauce",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "avocado",
+    "descriptor": "Creamy Crunch",
+    "dishForm": "Salad"
+  }
+}
