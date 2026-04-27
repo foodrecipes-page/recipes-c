@@ -1,0 +1,104 @@
+{
+  "title": "Citrusy Lime Filipino Stir-fry",
+  "description": "A dense citrusy dish featuring green olives and bhuna spices in a creamy sauce for brunch time.",
+  "cuisine": "Filipino",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "1 cup of green olives",
+      "amount": "cup",
+      "notes": "pitted and chopped"
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "pieces",
+      "notes": "minced"
+    },
+    {
+      "name": "1 onion",
+      "amount": "piece",
+      "notes": "chopped"
+    },
+    {
+      "name": "2 bell peppers, green and red",
+      "amount": "pieces",
+      "notes": "sliced"
+    },
+    {
+      "name": "1 can of coconut milk",
+      "amount": "can",
+      "notes": "full can"
+    },
+    {
+      "name": "3 tablespoons of lime juice",
+      "amount": "tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons of olive oil",
+      "amount": "tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon of bhuna spices mix",
+      "amount": "teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "1 cup of water",
+      "amount": "cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a wok or skillet over medium heat.",
+    "Add minced garlic, chopped onion, and sliced bell peppers. Stir-fry for about 2 minutes until onions are translucent.",
+    "Stir in green olives and lime juice. Cook for another minute to allow flavors to meld together.",
+    "Pour the coconut milk into the wok while stirring continuously. Add bhuna spices mix and water.",
+    "Bring the mixture to a boil, then reduce heat and simmer for 5 minutes until thickened slightly.",
+    "Season with salt and pepper to taste before serving hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino-stir-fry",
+    "green-olives",
+    "bhuna-spices",
+    "citrusy-dish"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 15,
+    "carbs": 28,
+    "fat": 6
+  },
+  "slug": "citrusy-lime-filipino-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-lime-filipino-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T20:31:44Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "dense",
+    "mood": "brunch-mood",
+    "technique": "bhuna",
+    "primaryIngredient": "green olives",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "lime",
+    "descriptor": "Citrusy",
+    "dishForm": "Stir-fry"
+  }
+}
