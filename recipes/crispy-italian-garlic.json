@@ -1,0 +1,76 @@
+{
+  "title": "Crispy Italian Garlic with Lemongrass",
+  "description": "This crowd-pleasing Tuscan dish features a spicy, crispy texture and a blend of lemongrass for added zest, perfect for a keto-friendly meal.",
+  "cuisine": "Tuscan",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Kosher Salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemongrass",
+      "amount": "1 stalk"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "a few grinds"
+    }
+  ],
+  "instructions": [
+    "Slice the garlic head into thin slices.",
+    "Sprinkle a pinch of salt over the sliced garlic and let it rest for about 5 minutes.",
+    "Drizzle each slice with olive oil, making sure they're evenly coated.",
+    "Gently knead the salted garlic slices to infuse them with flavor. Let rest another 10 minutes before using.",
+    "Cut lemongrass into thin strips and add it to a pan of boiling water for about 30 seconds.",
+    "Drain well, chop finely and mix thoroughly with the salted garlic slices.",
+    "Season with freshly ground black pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "italian",
+    "tuscan",
+    "spicy",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 7,
+    "carbs": 3,
+    "fat": 12
+  },
+  "slug": "crispy-italian-garlic",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-italian-garlic",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T05:16:56Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crisp",
+    "mood": "crowd-pleaser",
+    "technique": "knead",
+    "primaryIngredient": "lemongrass",
+    "diet": "keto",
+    "region": "tuscan",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "garlic",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
