@@ -1,0 +1,76 @@
+{
+  "title": "Crispy Uruguayan Citrus Skewers",
+  "description": "A light and citrusy dish featuring basil leaves grilled to perfection with a touch of crunch. Egg-free-friendly for those who need it.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "1 lemon",
+      "amount": "1 piece"
+    },
+    {
+      "name": "2 limes",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "1 bunch basil leaves",
+      "amount": "about 50 grams",
+      "notes": "ensure they are fresh and not wilted"
+    },
+    {
+      "name": "Pinch salt",
+      "amount": "a small pinch",
+      "notes": "use sea salt for better flavor"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Wash the basil leaves and pat them dry with a clean towel. Slice lemons and limes into thin wedges.",
+    "Mix lemon, lime, olive oil, salt, and cut basil leaves together in a large bowl until evenly coated.",
+    "Prepare skewers by alternating slices of citrus and basil leaves on each one. Securely attach them to the skewer using toothpicks or by gently pressing them onto the surface.",
+    "Preheat grill pan or gas/charcoal grill over medium-high heat for about 5 minutes, allowing it to get hot enough for searing but not burning.",
+    "Gently place the prepared skewers on the heated grill. Cover and cook until the citrus slices are golden brown and crispy around the edges (about 3-4 minutes), flipping once halfway through cooking time.",
+    "Remove from heat when done, let cool slightly before serving to allow for maximum crispiness."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "uruguayan",
+    "citrus",
+    "grilled",
+    "basil"
+  ],
+  "nutrition": {
+    "calories": 68,
+    "protein": 1.7,
+    "carbs": 9.2,
+    "fat": 3
+  },
+  "slug": "crispy-uruguayan-citrus-skewers",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-uruguayan-citrus-skewers",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T16:12:19Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crisp",
+    "mood": "light",
+    "technique": "grill",
+    "primaryIngredient": "basil leaves",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Citrus",
+    "descriptor": "Crispy",
+    "dishForm": "Skewers"
+  }
+}
