@@ -1,0 +1,79 @@
+{
+  "title": "Crunchy Herbal Chive Crumble",
+  "description": "A low-fat-friendly brunch dish featuring roasted chives in a crunchy texture, perfect for adding some herbal flair to your meal.",
+  "cuisine": "Dutch",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "1 cup chopped fresh chive",
+      "amount": "cup",
+      "notes": "Chop finely to enhance flavor and texture."
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "amount": null
+    },
+    {
+      "name": "1/4 cup low-fat sour cream",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 cup grated Parmesan cheese",
+      "amount": "cup"
+    },
+    {
+      "name": "Dash of hot sauce (optional)",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "In a mixing bowl, combine the chopped chive with olive oil and salt and pepper. Mix well until evenly coated.",
+    "Spread the mixture on a lined baking sheet, ensuring even coverage and a thin layer for better crispiness after roasting.",
+    "Place in preheated oven and roast for about 20-25 minutes or until crispy but not burnt.",
+    "Remove from oven and let it cool slightly before adding sour cream and grated Parmesan cheese. Mix gently to combine ingredients.",
+    "Serve the chive crumble warm on toast, bagels, or as a side dish with eggs or pancakes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chive",
+    "crumble",
+    "herbal",
+    "dutch"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 2,
+    "carbs": 7,
+    "fat": 9
+  },
+  "slug": "crunchy-herbal-chive-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-herbal-chive-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T08:28:30Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crunchy",
+    "mood": "brunch-mood",
+    "technique": "roast",
+    "primaryIngredient": "chopped chive",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Herbal",
+    "mainIngredient": "Chive",
+    "descriptor": "Crunchy",
+    "dishForm": "Crumble"
+  }
+}
