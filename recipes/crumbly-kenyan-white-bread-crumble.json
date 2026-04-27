@@ -1,0 +1,77 @@
+{
+  "title": "Rich Crumbly Kenyan White Bread Crumble",
+  "description": "A post-workout friendly dish featuring a rich and crumbly blend of white bread mix that can be enjoyed as a snack or small meal.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "White Bread Mix",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Mashed Potatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Fresh Herbs (like parsley or cilantro)",
+      "amount": "handful"
+    },
+    {
+      "name": "Salt and Pepper",
+      "notes": "to taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F.",
+    "Mix White Bread Mix, Mashed Potatoes, Chicken Broth, Fresh Herbs, Salt, and Pepper in a bowl until combined well.",
+    "Transfer the mixture into an oven-safe dish.",
+    "Drizzle olive oil over top for added flavor.",
+    "Bake for 25 minutes or until golden brown on top.",
+    "Remove from heat and let cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crumbly-kenyan-white-bread-crumble",
+    "post-workout-food",
+    "pescatarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 36,
+    "fat": 9
+  },
+  "slug": "crumbly-kenyan-white-bread-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-kenyan-white-bread-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T21:18:45Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crumbly",
+    "mood": "post-workout",
+    "technique": "braise",
+    "primaryIngredient": "white bread mix",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "White Bread",
+    "descriptor": "Crumbly",
+    "dishForm": "Crumble"
+  }
+}
