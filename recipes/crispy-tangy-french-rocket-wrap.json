@@ -1,0 +1,86 @@
+{
+  "title": "Crispy Tangy French Rocket Wrap",
+  "description": "A tangy, crunchy, indulgent French dish featuring rocket lettuce wrapped in a tandoori-style crust for a low-sodium-friendly meal.",
+  "cuisine": "French",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Romaine lettuce",
+      "amount": "8 large leaves"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Tandoori spice blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Low-sodium soy sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Whisk flour, water, and tandoori spice blend to form a thick batter. Brush vegetable oil onto lettuce leaves.",
+    "Dip each leaf into the tandoori dough mixture until coated evenly. Allow to sit for 30 seconds.",
+    "Fry in a shallow pan over medium heat until golden brown on both sides, about 1 minute per side.",
+    "Combine low-sodium soy sauce and lemon juice in a small bowl, season with black pepper, then drizzle over warm wraps."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "tangy",
+    "indulgent",
+    "french",
+    "lettuce-wrap",
+    "low-sodium"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 14,
+    "fat": 6
+  },
+  "slug": "crispy-tangy-french-rocket-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-tangy-french-rocket-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T02:28:56Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crunchy",
+    "mood": "indulgent",
+    "technique": "tandoor",
+    "primaryIngredient": "rocket",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Rocket",
+    "descriptor": "Tangy Crispy",
+    "dishForm": "Wrap"
+  }
+}
