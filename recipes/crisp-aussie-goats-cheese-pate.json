@@ -1,0 +1,84 @@
+{
+  "title": "Crisp Aussie Goats Cheese Pate",
+  "description": "An earthy and crisp dish featuring goats cheese, cured meats, and other halal-friendly ingredients that will impress your guests with its unique blend of flavors.",
+  "cuisine": "Australian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Aussie Goats Cheese",
+      "amount": "200g"
+    },
+    {
+      "name": "Chopped Pecorino Romano Cheese",
+      "amount": "30g"
+    },
+    {
+      "name": "Dried Cranberries",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Pitted Kalamata Olives",
+      "amount": "15-20 pieces"
+    },
+    {
+      "name": "Crumbled Italian Hard Salami",
+      "amount": "30g"
+    },
+    {
+      "name": "Fresh Garlic Clove",
+      "amount": "1"
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Pancetta, diced",
+      "amount": "25g"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Combine all ingredients in a mixing bowl and stir well until evenly combined.",
+    "Transfer the mixture into an oven-safe ramekin or small casserole dish. Bake for 20 minutes, then reduce heat to 160°C (320°F) and bake further for another 25-30 minutes until golden brown on top and crispy around the edges.",
+    "Remove from oven and let it cool before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "goats cheese",
+    "pate",
+    "australian dish",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 398,
+    "protein": 17,
+    "carbs": 16,
+    "fat": 22
+  },
+  "slug": "crisp-aussie-goats-cheese-pate",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-aussie-goats-cheese-pate",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T18:06:37Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crisp",
+    "mood": "show-off",
+    "technique": "cure",
+    "primaryIngredient": "goats cheese",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Aussie",
+    "mainIngredient": "Goats cheese",
+    "descriptor": "Crisp",
+    "dishForm": "Pate"
+  }
+}
