@@ -1,0 +1,79 @@
+{
+  "title": "Creamy Midnight Ethiopian Snapper Fish Stir-fry",
+  "description": "A fresh and creamy dish featuring snapper fish, inspired by traditional Ethiopian cuisine with a touch of midnight craving for something special.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Snapper Fish fillets",
+      "amount": "1 lb (450g)"
+    },
+    {
+      "name": "Almond Milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Cream Cheese",
+      "amount": "1/2 cup, softened"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4-6 cloves"
+    },
+    {
+      "name": "Garam Masala",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Season the fish with salt and pepper. Heat olive oil in a large skillet over medium-high heat.",
+    "Add garlic cloves, diced green onions, and cayenne pepper. Sauté until fragrant and slightly golden.",
+    "Pour in almond milk and bring to a boil. Reduce heat to low, add cream cheese, and stir well until the mixture thickens.",
+    "Gently place fish fillets into the skillet, ensuring they are not overcrowded. Cover and cook for about 5-7 minutes on each side or until fully cooked.",
+    "Serve hot with additional garnishes of green onions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "midnight"
+  ],
+  "nutrition": {
+    "calories": 786,
+    "protein": 29.9,
+    "carbs": 21.5,
+    "fat": 32.4
+  },
+  "slug": "creamy-midnight-ethiopian-snapper-fish-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-midnight-ethiopian-snapper-fish-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T18:30:43Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "braise",
+    "primaryIngredient": "snapper fish",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Snapper Fish",
+    "descriptor": "Creamy Midnight",
+    "dishForm": "Stir-fry"
+  }
+}
