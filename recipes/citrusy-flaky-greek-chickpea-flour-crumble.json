@@ -1,0 +1,84 @@
+{
+  "title": "Citrusy Flaky Greek Chickpea Flour Crumble",
+  "description": "This light and citrusy dish combines chickpea flour with a touch of sweetness from honey for an easy breakfast or snack option that's perfect for those watching their sugar intake.",
+  "cuisine": "Greek",
+  "diet": [
+    "sugar-free-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup Greek yogurt",
+      "amount": "cup"
+    },
+    {
+      "name": "1/2 cup chickpea flour (also known as gram flour or besan)",
+      "amount": "cup"
+    },
+    {
+      "name": "1 tablespoon grated fresh orange zest",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon finely ground cinnamon",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "Pinch of sea salt",
+      "amount": ""
+    },
+    {
+      "name": "2 tablespoons honey or stevia (optional)",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "1/4 cup freshly squeezed orange juice",
+      "amount": "cup"
+    }
+  ],
+  "instructions": [
+    "In a bowl, mix together the Greek yogurt, chickpea flour, orange zest, cinnamon, and salt.",
+    "Add honey or stevia to taste if using (optional).",
+    "Stir in the freshly squeezed orange juice until well combined.",
+    "Transfer the mixture onto a baking sheet lined with parchment paper.",
+    "Bake at 350°F for 12-15 minutes, or until golden and crispy on top. Keep an eye to prevent burning.",
+    "Let cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "flaky",
+    "greek",
+    "chickpea-flour",
+    "light",
+    "sugar-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 2.5,
+    "carbs": 14,
+    "fat": 0
+  },
+  "slug": "citrusy-flaky-greek-chickpea-flour-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-flaky-greek-chickpea-flour-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T21:32:43Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "flaky",
+    "mood": "light",
+    "technique": "reduce",
+    "primaryIngredient": "chickpea flour",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Chickpea Flour",
+    "descriptor": "Citrusy",
+    "dishForm": "Crumble"
+  }
+}
