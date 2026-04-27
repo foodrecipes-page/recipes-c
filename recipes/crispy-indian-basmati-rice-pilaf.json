@@ -1,0 +1,80 @@
+{
+  "title": "Crispy Indian Basmati Rice Pilaf",
+  "description": "This umami-rich and crisp Indian basmati rice pilaf features a savory tadka base, perfect for adding to meals throughout the day.",
+  "cuisine": "Indian (Gujarati)",
+  "diet": [
+    "low-sodium-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Basmati Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Low-Sodium Chicken Broth",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "Garam Masala Powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Curry Leaves",
+      "notes": "a few fresh leaves, for garnish"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Fenugreek Seeds",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the basmati rice under cold water and drain. In a medium saucepan, bring 2 cups of water to boil with 3/4 cup low-sodium chicken broth.",
+    "Add the rinsed rice into the pot along with 1 tablespoon garam masala powder. Simmer on low heat for about 15-20 minutes until all liquid is absorbed and rice is cooked.",
+    "Heat a non-stick skillet over medium-high heat, add cumin seeds and fenugreek seeds. When they start to splutter, add the curry leaves.",
+    "Drain any excess water from the rice and transfer it into the hot skillet. Toss gently with the tadka mixture until well combined and evenly coated in spices.",
+    "Let the pilaf sit for a couple of minutes before serving warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy-rice",
+    "tadka-base",
+    "garnished"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 12,
+    "carbs": 38,
+    "fat": 6
+  },
+  "slug": "crispy-indian-basmati-rice-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-indian-basmati-rice-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T01:51:26Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crisp",
+    "mood": "monsoon",
+    "technique": "tadka",
+    "primaryIngredient": "basmati rice",
+    "diet": "low-sodium",
+    "region": "gujarati",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "basmati rice",
+    "descriptor": "Crispy",
+    "dishForm": "Pilaf"
+  }
+}
