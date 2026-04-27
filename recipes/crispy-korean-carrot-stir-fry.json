@@ -1,0 +1,85 @@
+{
+  "title": "Crispy Korean Carrot Stir-fry",
+  "description": "A quick and easy meal-prep dish featuring crispy carrots cooked in a tangy sauce made with tahini paste for a savory twist, perfect for those following a keto-friendly diet.",
+  "cuisine": "Korean",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup shredded carrots",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tbsp tahini paste",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Juice of 1 lemon (about 1/4 cup)",
+      "amount": "cup"
+    },
+    {
+      "name": "1/2 tsp salt",
+      "amount": ""
+    },
+    {
+      "name": "Pinch black pepper",
+      "amount": ""
+    },
+    {
+      "name": "1 tbsp apple cider vinegar",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 tbsp nutritional yeast",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1/4 cup unsweetened almond milk or coconut water",
+      "amount": "cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the tahini paste, lemon juice, salt, black pepper, apple cider vinegar, and nutritional yeast. Stir in the unsweetened almond milk until smooth.",
+    "Add the shredded carrots to the marinade and toss well to coat evenly.",
+    "Let the mixture sit for at least 15 minutes or up to overnight for better flavor absorption."
+  ],
+  "prepTimeMin": 3,
+  "cookTimeMin": 8,
+  "totalTimeMin": 11,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy-carrot",
+    "korean-stir-fry",
+    "tahini-paste",
+    "meal-prep",
+    "sour-sauce",
+    "salty-dairy-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 14,
+    "fat": 5
+  },
+  "slug": "crispy-korean-carrot-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-korean-carrot-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T09:03:59Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crispy",
+    "mood": "meal-prep",
+    "technique": "cure",
+    "primaryIngredient": "tahini paste",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "carrot",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
