@@ -1,0 +1,79 @@
+{
+  "title": "Cozy Citrusy Gooey Syrian Chinese Long Beans Stir-fry",
+  "description": "A low-sodium-friendly, cozy dish featuring citrusy and gooey flavors from Syrian cuisine, made with tender Chinese long beans.",
+  "cuisine": "Syrian-Chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese long beans",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1/4 cup (low-sodium)"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Zest and juice of 2 lemons",
+      "notes": "For added zestiness"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium-high heat.",
+    "Add minced garlic and chili flakes, stir for 30 seconds until fragrant.",
+    "Toss in Chinese long beans and chicken broth, cover to steam for 5 minutes.",
+    "Pour in lemon juice and zest, reduce heat to low, let simmer for another minute.",
+    "Drizzle with soy sauce to taste (adjust quantity as needed).",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "gooey",
+    "cozy-syrian"
+  ],
+  "nutrition": {
+    "calories": 375,
+    "protein": 18,
+    "carbs": 39,
+    "fat": 12
+  },
+  "slug": "cozy-citrusy-gooey-syrian-chinese-long-beans-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-citrusy-gooey-syrian-chinese-long-beans-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T00:39:16Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "gooey",
+    "mood": "cozy",
+    "technique": "temper",
+    "primaryIngredient": "chinese long beans",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Chinese Long Beans",
+    "descriptor": "Citrusy Gooey Cozy",
+    "dishForm": "Stir-fry"
+  }
+}
