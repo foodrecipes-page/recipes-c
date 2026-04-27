@@ -1,0 +1,69 @@
+{
+  "title": "Crunchy German Rye Roll",
+  "description": "A sweet and indulgent German dish featuring wholegrain mustard, prepared with sous-vide for optimal texture and flavor, perfect as a sugar-free-friendly breakfast option.",
+  "cuisine": "German",
+  "diet": [
+    "sugar-free-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Wholegrain Rye Bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Wholegrain Mustard",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Maple Syrup or Honey",
+      "amount": "1-2 tsp"
+    },
+    {
+      "name": "Sour Cream (optional)",
+      "amount": "a few drops for dipping"
+    }
+  ],
+  "instructions": [
+    "Preheat your sous-vide machine to 57°C.",
+    "Slice the wholegrain rye bread into rounds.",
+    "In a small bowl, mix together the wholegrain mustard and maple syrup or honey until well combined.",
+    "Submerge the slices of wholegrain rye in the mustard mixture for about 10-20 seconds to coat evenly. Remove immediately and let sit for a minute before serving.",
+    "For an extra indulgent touch, drizzle sour cream over the mustard-coated rolls."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy-german-rye-roll",
+    "sous-vide",
+    "wholegrain-mustard",
+    "sweet-indulgent-dish"
+  ],
+  "nutrition": {
+    "calories": 50,
+    "protein": 2,
+    "carbs": 9,
+    "fat": 1
+  },
+  "slug": "crunchy-german-rye-roll",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-german-rye-roll",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T00:16:56Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crunchy",
+    "mood": "indulgent",
+    "technique": "sous-vide",
+    "primaryIngredient": "wholegrain mustard",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Rye",
+    "descriptor": "Crunchy",
+    "dishForm": "Roll"
+  }
+}
