@@ -1,0 +1,71 @@
+{
+  "title": "Crispy Midnight Craving Turkish Dates Stir-fry",
+  "description": "An earthy and crispy midnight-craving dish featuring ground sugar and dates, perfect for a dessert or snack.",
+  "cuisine": "Turkish",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dates",
+      "amount": "1 cup pitted"
+    },
+    {
+      "name": "Ground Sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "In a bowl, mix dates with ground sugar and water.",
+    "Heat the vegetable oil in a pan over medium heat. Pour the date mixture into the pan and stir-fry until it thickens and forms small crispy pieces.",
+    "Transfer the crispy mixture to an oven-safe dish. Bake for 10 minutes or until golden brown.",
+    "Serve warm as a dessert or snack."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 5,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "midnight",
+    "turkish",
+    "dates",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 206,
+    "protein": 3.8,
+    "carbs": 29.4,
+    "fat": 11
+  },
+  "slug": "crispy-midnight-craving-turkish-dates-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-midnight-craving-turkish-dates-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T09:08:43Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crispy",
+    "mood": "midnight-craving",
+    "technique": "dum",
+    "primaryIngredient": "ground sugar",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "dates",
+    "descriptor": "Crispy Midnight Craving",
+    "dishForm": "Stir-fry"
+  }
+}
