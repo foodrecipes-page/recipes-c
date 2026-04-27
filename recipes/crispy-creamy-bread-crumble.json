@@ -1,0 +1,80 @@
+{
+  "title": "Crispy Creamy Bread Crumble",
+  "description": "A floral and creamy one-pot French dish featuring breadcrumbs baked until crispy with a touch of creaminess, perfect as an easy dessert or snack.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Bread crumbs",
+      "amount": "1 cup",
+      "notes": "Use stale bread for better texture"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "½ cup"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch"
+    },
+    {
+      "name": "Fresh herbs (optional)",
+      "amount": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a mixing bowl, combine bread crumbs, cream, sugar, flour, vanilla extract, and salt. Mix well until breadcrumbs are coated evenly.",
+    "Add fresh herbs if using, mix gently into the batter.",
+    "Transfer mixture to an oven-safe dish and bake for 20-30 minutes or until golden brown and crispy on top.",
+    "Serve warm as a dessert or enjoy it as a light snack."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "floral",
+    "creamy",
+    "one-pot",
+    "bread-crumb"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 4
+  },
+  "slug": "crispy-creamy-bread-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-creamy-bread-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T12:05:18Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "creamy",
+    "mood": "one-pot",
+    "technique": "rest",
+    "primaryIngredient": "breadcrumbs",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Bread",
+    "descriptor": "Creamy Crispy",
+    "dishForm": "Crumble"
+  }
+}
