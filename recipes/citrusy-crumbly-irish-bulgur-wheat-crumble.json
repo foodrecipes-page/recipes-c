@@ -1,0 +1,86 @@
+{
+  "title": "Citrusy Crumbly Irish Bulgur Wheat Crumble",
+  "description": "A high-protein-friendly citrusy crowd-pleaser featuring smoked salmon and bulgur wheat for a unique twist on traditional crumbles.",
+  "cuisine": "Irish",
+  "diet": [
+    "high-protein",
+    "smoke-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup bulgur wheat",
+      "amount": "cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juice of 1 lemon"
+    },
+    {
+      "name": "1/4 cup fresh orange zest",
+      "amount": "cup",
+      "notes": "from about 3 oranges"
+    },
+    {
+      "name": "Pinch salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "2 cups smoked salmon, finely chopped",
+      "amount": "cups"
+    },
+    {
+      "name": "1/4 cup fresh parsley, finely chopped",
+      "amount": "cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Mix olive oil, lemon juice, orange zest, and salt in a large bowl.",
+    "Add rinsed and drained bulgur wheat into the mixture.",
+    "Fold in finely chopped smoked salmon and chopped parsley.",
+    "Transfer the mixture into a greased baking dish.",
+    "Bake for 30 minutes or until golden brown and bubbly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "crumbly",
+    "irish",
+    "bulgur-wheat",
+    "smoked-salmon"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 9
+  },
+  "slug": "citrusy-crumbly-irish-bulgur-wheat-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-crumbly-irish-bulgur-wheat-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T09:36:09Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crumbly",
+    "mood": "crowd-pleaser",
+    "technique": "smoke",
+    "primaryIngredient": "bulgur wheat",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Bulgur Wheat",
+    "descriptor": "Citrusy Crumbly",
+    "dishForm": "Crumble"
+  }
+}
