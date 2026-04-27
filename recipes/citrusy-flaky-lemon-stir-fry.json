@@ -1,0 +1,78 @@
+{
+  "title": "Citrusy Flaky Lemon Stir-fry",
+  "description": "A one-pot paleo-friendly Slovakian dish featuring citrusy lemons and a flaky texture, perfect for breakfast.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "1 medium"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 cup fresh"
+    },
+    {
+      "name": "almond flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Wash and chop zucchini into thin slices.",
+    "Chop spinach leaves finely.",
+    "In a large pan, heat almond flour until it forms a thick crust on the bottom of the pan (about 2 minutes).",
+    "Add lemon juice to the hot flour base, stirring continuously until the mixture starts to thicken slightly but not fully cooked.",
+    "Reduce heat and add zucchini slices. Cook for about 3-4 minutes or until they start turning golden brown.",
+    "Toss in chopped spinach and stir well to combine. Adjust seasoning with salt and pepper if needed.",
+    "Serve hot, garnished with fresh lemon zest."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "flaky",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 185,
+    "protein": 7,
+    "carbs": 9,
+    "fat": 9
+  },
+  "slug": "citrusy-flaky-lemon-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-flaky-lemon-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T23:21:55Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "flaky",
+    "mood": "one-pot",
+    "technique": "fold",
+    "primaryIngredient": "lemon",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "lemon",
+    "descriptor": "citrusy flaky",
+    "dishForm": "Stir-fry"
+  }
+}
