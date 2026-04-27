@@ -1,0 +1,81 @@
+{
+  "title": "Crispy Jamaican Peel Fold",
+  "description": "A savory and crispy dish featuring candied peel, high in protein for a cozy and comforting meal.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "high-protein-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Candied Orange Peel",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Peanut Butter",
+      "amount": "3 tbsp (or to taste)"
+    },
+    {
+      "name": "Coconut Flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Almond Meal",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 325°F (160°C).",
+    "Mix together the candied orange peel, garlic powder, all-purpose flour, peanut butter, coconut flakes, and almond meal until well combined.",
+    "Divide mixture into small portions, about 1 inch in diameter each.",
+    "Form each portion into a cone shape using your hands. Press gently to create a slight indent at the bottom for easy flipping.",
+    "Lightly dust the tops of the cones with more all-purpose flour or almond meal to prevent sticking and help achieve a crispy exterior during frying.",
+    "Heat about 2 inches (5 cm) of vegetable oil in a deep fryer or large pot until it reaches 375°F (190°C).",
+    "Gently place each cone into the hot oil, making sure not to overcrowd the pan. Fry for about 2-4 minutes on one side until golden brown and puffed up.",
+    "Using a slotted spoon, carefully transfer each folded peel fold to a paper towel-lined plate to drain excess oil. Repeat frying process with remaining portions if necessary.",
+    "Serve warm or at room temperature as a snack or appetizer. Enjoy the rich flavors of Jamaica in every bite."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "jamaican-peel-fold",
+    "crispy-folding",
+    "high-protein-friendly",
+    "savory-snack"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 23,
+    "carbs": 16,
+    "fat": 17
+  },
+  "slug": "crispy-jamaican-peel-fold",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-jamaican-peel-fold",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T17:42:45Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crisp",
+    "mood": "cozy",
+    "technique": "fold",
+    "primaryIngredient": "candied peel",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Peel",
+    "descriptor": "Crispy",
+    "dishForm": "Fold"
+  }
+}
