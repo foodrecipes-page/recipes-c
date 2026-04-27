@@ -1,0 +1,79 @@
+{
+  "title": "Crisp Spanish Beans Stir-fry",
+  "description": "An earthy and comforting dish featuring crisp Spanish beans drizzled with a low-carb-friendly Chinese sesame sauce.",
+  "cuisine": "Chinese",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "main-course",
+  "ingredients": [
+    {
+      "name": "Spanish Beans",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Chinese Sesame Sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Dumplings",
+      "amount": "8"
+    },
+    {
+      "name": "Water Chestnuts",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Trim the Spanish beans and slice them into thin strips.",
+    "Clean and chop the garlic finely.",
+    "In a large skillet, heat sesame oil over medium-high heat. Add sliced beans and cook until crispy, about 5 minutes.",
+    "Add chopped garlic to the skillet and stir for an additional minute.",
+    "Stir in Chinese Sesame Sauce, ensuring it coats the beans evenly.",
+    "Fold in dumplings and water chestnuts.",
+    "Cook everything together for another 2-3 minutes or until dumplings are fully cooked.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crisp-spanish-beans",
+    "chinese-sesame-sauce",
+    "low-carb-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 7,
+    "carbs": 3,
+    "fat": 9
+  },
+  "slug": "crisp-spanish-beans-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-spanish-beans-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T06:58:19Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crisp",
+    "mood": "comforting",
+    "technique": "dum",
+    "primaryIngredient": "chinese sesame sauce",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "beans",
+    "descriptor": "Crisp",
+    "dishForm": "Stir-fry"
+  }
+}
