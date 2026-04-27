@@ -1,0 +1,75 @@
+{
+  "title": "Crumbly Lazy-Sunday Brazilian Beef Creme Brulee",
+  "description": "This fresh, crumbly Brazilian dish features lean minced beef, dum, and is whole30-friendly for a lazy Sunday meal.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "lean minced beef",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dum",
+      "amount": "1 can (5 oz)"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "sugar",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Combine all ingredients in a saucepan. Bring to a boil then reduce heat and simmer for about 30 minutes, stirring occasionally.",
+    "Turn off the heat and let it cool completely before transferring to individual dishes or glasses. Chill in fridge for at least 4 hours."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 30,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "crumbly",
+    "lazy-sunday",
+    "brazilian",
+    "beef",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 15,
+    "carbs": 42,
+    "fat": 6
+  },
+  "slug": "crumbly-lazy-sunday-brazilian-beef-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-lazy-sunday-brazilian-beef-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T03:10:50Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crumbly",
+    "mood": "lazy-sunday",
+    "technique": "dum",
+    "primaryIngredient": "lean minced beef",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Beef",
+    "descriptor": "crumbly lazy-sunday",
+    "dishForm": "Crumble"
+  }
+}
