@@ -1,0 +1,86 @@
+{
+  "title": "Crispy Fresh Lettuce Stir-fry",
+  "description": "This refreshing and easy-to-make dish is perfect for a lazy Sunday in the kitchen. It features crispy baby lettuce leaves that are stir-fried with fresh vegetables, creating a vibrant and satisfying plant-based meal.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Baby Lettuce Leaves",
+      "amount": "1 head",
+      "notes": "Wash thoroughly to remove any dirt."
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves",
+      "notes": "Minced for added flavor."
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1 teaspoon",
+      "notes": "Optional, to taste."
+    },
+    {
+      "name": "Fresh Herbs (e.g., Parsley)",
+      "amount": "2 tablespoons",
+      "notes": "Chopped for garnish."
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "To taste"
+    },
+    {
+      "name": "Soy Sauce or Tamari (for non-vegan option)",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Wash the baby lettuce leaves thoroughly, pat dry with paper towels.",
+    "Heat vegetable oil in a wok or large skillet over medium-high heat until hot. Add minced garlic and chili flakes if using.",
+    "Once the garlic is fragrant, add the washed and dried lettuce leaves to the pan. Fry for about 2-3 minutes per side, turning occasionally, until crispy on all sides.",
+    "Add salt and pepper to taste, then sprinkle with fresh herbs before serving.",
+    "Optional: For a non-vegan dish, stir in soy sauce or tamari during the last minute of cooking."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fresh",
+    "crispy",
+    "lazy-sunday",
+    "ukrainian",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 75,
+    "protein": 3,
+    "carbs": 9,
+    "fat": 4
+  },
+  "slug": "crispy-fresh-lettuce-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-fresh-lettuce-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T07:52:02Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crispy",
+    "mood": "lazy-sunday",
+    "technique": "pressure-cook",
+    "primaryIngredient": "baby lettuce leaves",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "lettuce",
+    "descriptor": "fresh crispy lazy sunday",
+    "dishForm": "Stir-fry"
+  }
+}
