@@ -1,0 +1,86 @@
+{
+  "title": "Crunchy German Kale Stir-Fry",
+  "description": "This savory, crunchy dish features kale, sauerkraut, and a touch of spice for a low-fat-friendly date-night Dutch meal.",
+  "cuisine": "German",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kale",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sauerkraut",
+      "amount": "¼ cup"
+    },
+    {
+      "name": "Chopped Onion",
+      "amount": "½ cup"
+    },
+    {
+      "name": "Garlic Clove(s)",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Low-Sodium Soy Sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Water or Low-Fat Stock",
+      "amount": "¼ cup"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Red Pepper Flakes (optional)",
+      "amount": "¼ tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a pan over medium heat.",
+    "Add sautéed chopped onion and minced garlic to the pan until softened.",
+    "Stir in turmeric powder and red pepper flakes if using, then add kale and sauerkraut.",
+    "Pour in water or low-fat stock. Bring to simmer for 5 minutes.",
+    "Reduce heat and season with soy sauce and red pepper flakes to taste.",
+    "Serve hot as a side dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "german",
+    "kale",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 6,
+    "carbs": 9,
+    "fat": 4
+  },
+  "slug": "crunchy-german-kale-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-german-kale-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T10:16:25Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crunchy",
+    "mood": "date-night",
+    "technique": "temper",
+    "primaryIngredient": "sauerkraut",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "kale",
+    "descriptor": "Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
