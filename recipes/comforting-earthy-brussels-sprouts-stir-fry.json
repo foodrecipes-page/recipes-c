@@ -1,0 +1,95 @@
+{
+  "title": "Comforting Earthy Brussels Sprouts Stir-fry",
+  "description": "This dish is a comforting and dense Filipino-style side that features brussels sprouts cooked in a flavorful earthy sauce with garlic, onion, and coconut milk to make it kosher-friendly.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "side-dish",
+  "ingredients": [
+    {
+      "name": "1 pound Brussels sprouts",
+      "amount": "medium",
+      "notes": "Trim off the stem and remove any loose leaves."
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "piece(s)",
+      "notes": "Chopped finely."
+    },
+    {
+      "name": "1 medium onion",
+      "amount": "piece",
+      "notes": "Sliced thinly."
+    },
+    {
+      "name": "2 cups coconut milk",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 cup fish sauce (or soy sauce for non-fish version)",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 teaspoon ground black pepper",
+      "amount": "tsp"
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "tsp"
+    },
+    {
+      "name": "2 tablespoons cornstarch (optional for thickening)",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Fresh cilantro, chopped (for garnish)"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F. Wash and trim the Brussels sprouts.",
+    "Toss the trimmed Brussels sprouts with olive oil, garlic, onion, salt, black pepper, and a splash of water until evenly coated.",
+    "Spread them in a single layer on a baking sheet lined with parchment paper.",
+    "Roast for about 20-25 minutes or until they are tender but still have some crunch.",
+    "In a medium saucepan, heat coconut milk over medium heat. Stir in fish sauce (or soy sauce), ground black pepper, and cornstarch if using to make the sauce thicker.",
+    "Bring it to a simmer and cook for 2-3 minutes until slightly thickened.",
+    "Remove roasted Brussels sprouts from oven and add them to the saucepan, tossing to coat evenly with the sauce. Continue cooking for another minute or two until the brussels sprouts are fully coated.",
+    "Serve hot as a side dish garnished with fresh cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brussels-sprouts",
+    "cooking-tools-pressure-cooker",
+    "kosher-friendly"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 6,
+    "carbs": 24,
+    "fat": 7
+  },
+  "slug": "comforting-earthy-brussels-sprouts-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/comforting-earthy-brussels-sprouts-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T17:20:10Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "dense",
+    "mood": "comforting",
+    "technique": "pressure-cook",
+    "primaryIngredient": "brussels sprouts",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "earthly",
+    "mainIngredient": "brussels sprouts",
+    "descriptor": "Comforting",
+    "dishForm": "Stir-fry"
+  }
+}
