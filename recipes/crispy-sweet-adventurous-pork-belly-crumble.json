@@ -1,0 +1,94 @@
+{
+  "title": "Crispy Sweet Adventurous Pork Belly Crumble",
+  "description": "A sweet and crispy Filipino dish featuring pork belly slices combined with toast and a dash of adventurous flavors.",
+  "cuisine": "Philippine",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pork Belly",
+      "amount": "100g",
+      "notes": "Skin-on, sliced thinly"
+    },
+    {
+      "name": "Toast",
+      "amount": "2 slices",
+      "notes": "Dense bread"
+    },
+    {
+      "name": "Sweetened Condensed Milk",
+      "amount": "1/4 cup",
+      "notes": "For sweetening and thickening"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tsp",
+      "notes": "For crispiness"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "2 tbsp",
+      "notes": "To coat pork belly for crisping"
+    },
+    {
+      "name": "Peanuts",
+      "amount": "2 tbsp",
+      "notes": "Crushed or chopped, for added texture and flavor"
+    },
+    {
+      "name": "Dijon Mustard",
+      "amount": "1 tsp",
+      "notes": "For a touch of tanginess"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/2 tsp",
+      "notes": "To enhance the savory profile"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Mix all ingredients except pork belly in a small bowl until well combined.",
+    "Coat both sides of sliced pork belly with flour mixture and set aside.",
+    "Place slices on a baking sheet lined with parchment paper, brush evenly with sweetened condensed milk.",
+    "Bake for 20 minutes at 400°F (200°C).",
+    "Meanwhile, spread sweetened condensed milk onto toasted bread slices. Arrange coated pork belly slices on top of toast.",
+    "Sprinkle peanuts and dijon mustard over the pork belly slices.",
+    "Bake for an additional 15-20 minutes or until golden brown and crispy.",
+    "Serve warm as a snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "pork-belly",
+    "sweet-spice",
+    "adventurous-dish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 42,
+    "fat": 20
+  },
+  "slug": "crispy-sweet-adventurous-pork-belly-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-sweet-adventurous-pork-belly-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T00:47:05Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crispy",
+    "mood": "adventurous",
+    "technique": "toast",
+    "primaryIngredient": "pork belly slices",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "pork belly",
+    "descriptor": "sweet crispy adventurous",
+    "dishForm": "Crumble"
+  }
+}
