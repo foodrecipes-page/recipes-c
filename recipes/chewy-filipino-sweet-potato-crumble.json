@@ -1,0 +1,77 @@
+{
+  "title": "Chewy Filipino Sweet Potato Crumble",
+  "description": "A savory weeknight dish featuring dark brown soft sugar and air-fried for a diabetic-friendly option.",
+  "cuisine": "Filipino",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sweet potato",
+      "amount": "1 (medium-sized)",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "dark brown soft sugar",
+      "amount": "3 tablespoons",
+      "notes": "coarsely ground to ensure crunchiness"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "unsweetened shredded coconut",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 375°F (190°C).",
+    "In a mixing bowl, combine the sweet potato cubes with the dark brown soft sugar and vanilla extract.",
+    "Stir in the flour and coconut until well combined. Mix until there are no loose chunks left.",
+    "Transfer the mixture into an air fryer basket lined with parchment paper or a silicone mat for non-stick cooking.",
+    "Air-fry the sweet potato crumble mixture at 375°F (190°C) for about 12-15 minutes, stirring halfway through.",
+    "Remove from heat and let it cool slightly before serving. Serve warm with a drizzle of dark brown soft sugar if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "sweet-potato",
+    "crumble",
+    "air-fried",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 4
+  },
+  "slug": "chewy-filipino-sweet-potato-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-filipino-sweet-potato-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T07:48:27Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "chewy",
+    "mood": "weeknight",
+    "technique": "air-fry",
+    "primaryIngredient": "dark brown soft sugar",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "sweet potato",
+    "descriptor": "Chewy",
+    "dishForm": "Crumble"
+  }
+}
