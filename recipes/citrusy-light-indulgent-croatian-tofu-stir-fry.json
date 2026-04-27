@@ -1,0 +1,93 @@
+{
+  "title": "Citrusy Light Indulgent Croatian Tofu Stir-fry",
+  "description": "A light and indulgent citrusy dish featuring air-fried tofu with a dash-friendly combination of herbs and spices to complement its smooth texture.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (150g)",
+      "notes": "Air-fry for 7-9 minutes at 200°C"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "A pinch"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Juice of 2 lemons",
+      "amount": "Half cup"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "Handful, chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Prepare the tofu by air-frying until golden brown and crispy.",
+    "Dice the onion into small pieces and mince the garlic.",
+    "Add olive oil to a pan over medium heat, then add diced onion. Sauté for about 3 minutes or until softened.",
+    "Stir in minced garlic and red pepper flakes, cooking for another minute.",
+    "Add fresh lemon juice, lemon zest, and chopped cilantro. Stir well to combine all ingredients evenly.",
+    "Pour in the half cup of lemon juice from the block of tofu, mix thoroughly, and bring to a simmer.",
+    "Fold in the air-fried tofu cubes, ensuring they are fully coated with the sauce mixture.",
+    "Simmer for 2-3 minutes until thickened and nicely absorbed by the tofu. Taste and adjust seasoning if necessary."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "light",
+    "indulgent",
+    "croatian",
+    "tofu",
+    "air-fried"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 7,
+    "carbs": 5,
+    "fat": 4
+  },
+  "slug": "citrusy-light-indulgent-croatian-tofu-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-light-indulgent-croatian-tofu-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T20:11:28Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "light",
+    "mood": "indulgent",
+    "technique": "air-fry",
+    "primaryIngredient": "tofu",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Tofu",
+    "descriptor": "Citrusy Light Indulgent",
+    "dishForm": "Stir-fry"
+  }
+}
