@@ -1,0 +1,73 @@
+{
+  "title": "Crispy Earthy Peas Stir-fry",
+  "description": "A meal-prep Chinese (Zhejiang) dish featuring peas, poached in a light garlic and ginger broth to achieve an earthy flavor with a crisp texture.",
+  "cuisine": "Chinese (Zhejiang)",
+  "diet": [
+    "low-fat-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Peas",
+      "amount": "2 cups",
+      "notes": "Rinse and pick through to remove any debris"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "6 cloves",
+      "notes": "Mince finely"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Peel and grate into small pieces"
+    },
+    {
+      "name": "Water or Low-Sodium Broth",
+      "amount": "4 cups",
+      "notes": "Use filtered for better taste"
+    }
+  ],
+  "instructions": [
+    "Rinse peas, pick through for any debris, then set aside.",
+    "In a large saucepan, combine water (or low-sodium broth), minced garlic cloves, grated ginger, and salt to taste. Bring to a boil.",
+    "Add the rinsed peas and reduce heat to simmer for 15 minutes or until tender but still crisp.",
+    "Serve with additional fresh herbs like cilantro for garnish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "earthy",
+    "peas",
+    "stir-fry",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 6,
+    "carbs": 3,
+    "fat": 1
+  },
+  "slug": "crispy-earthy-peas-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-earthy-peas-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T07:07:07Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crisp",
+    "mood": "meal-prep",
+    "technique": "poach",
+    "primaryIngredient": "peas",
+    "diet": "low-fat",
+    "region": "zhejiang",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "peas",
+    "descriptor": "earthly crisp",
+    "dishForm": "Stir-fry"
+  }
+}
