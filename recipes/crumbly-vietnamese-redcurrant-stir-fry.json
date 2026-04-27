@@ -1,0 +1,84 @@
+{
+  "title": "Crumbly Vietnamese Redcurrant Stir-fry",
+  "description": "A quick and easy gluten-free dish featuring sour redcurrants, perfect for a simple lunch or snack.",
+  "cuisine": "Vietnamese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "redcurrant jelly",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ground pork",
+      "amount": "30 grams"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4, minced"
+    },
+    {
+      "name": "mixed vegetables (e.g. bell peppers)",
+      "amount": "2 tablespoons, sliced"
+    }
+  ],
+  "instructions": [
+    "Combine redcurrant jelly, ginger paste, soy sauce, rice vinegar, and sesame oil in a bowl.",
+    "Add ground pork and garlic to the mixture; mix well until evenly distributed.",
+    "Heat vegetable oil in a pan over medium-high heat. Add mixed vegetables and cook for about 3-5 minutes or until they start to soften.",
+    "Drizzle the redcurrant mixture onto the vegetables, stirring quickly to coat them evenly.",
+    "Cook for an additional 1-2 minutes or until all ingredients are heated through and well combined."
+  ],
+  "prepTimeMin": 7,
+  "cookTimeMin": 8,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crumbly",
+    "quick-fix",
+    "sour",
+    "vietnamese",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 16,
+    "carbs": 30,
+    "fat": 9
+  },
+  "slug": "crumbly-vietnamese-redcurrant-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-vietnamese-redcurrant-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T16:53:10Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crumbly",
+    "mood": "quick-fix",
+    "technique": "slow-cook",
+    "primaryIngredient": "redcurrants",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "redcurrants",
+    "descriptor": "crumbly",
+    "dishForm": "Stir-fry"
+  }
+}
