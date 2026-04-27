@@ -1,0 +1,96 @@
+{
+  "title": "Crispy Garlic Jamaican Stir-fry",
+  "description": "A light and crispy dish with a bold garlicky kick and the distinct flavors of ras el hanout, perfect for those on a Paleo diet.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork belly",
+      "amount": "100g",
+      "notes": "Sliced into thin strips"
+    },
+    {
+      "name": "Ras el hanout spice blend",
+      "amount": "1 tsp",
+      "notes": "For flavoring the pork and creating a distinctive taste"
+    },
+    {
+      "name": "Paleo-friendly soy sauce or tamari",
+      "amount": "2 tbsp",
+      "notes": "Used for marinating and cooking"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "5-6",
+      "notes": "Minced finely to enhance the garlic flavor"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup",
+      "notes": "For adding moisture during cooking"
+    },
+    {
+      "name": "Paleo-friendly vegetable stock or water",
+      "amount": "2 tbsp",
+      "notes": "Used for making a light sauce to drizzle over the dish"
+    },
+    {
+      "name": "Lightly toasted sesame seeds",
+      "amount": "1/4 cup",
+      "notes": "For garnishing and adding crunchiness"
+    },
+    {
+      "name": "Paleo-friendly olive oil or coconut oil",
+      "amount": "2 tbsp",
+      "notes": "Used for stir-frying the ingredients and making a crispy texture"
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl, combine the pork slices with ras el hanout spice blend. Mix well to ensure even coating.",
+    "Place the mixture in the refrigerator for at least 30 minutes to marinate and allow flavors to infuse into the meat.",
+    "Preheat your wok or skillet over medium-high heat until very hot (around 160°C/320°F). Add oil, then add the garlic cloves.",
+    "Add the marinated pork slices to the pan. Cook for about 5 minutes on each side, until golden and crispy but not dry. Remove from heat immediately after cooking.",
+    "Combine the paleo-friendly soy sauce or tamari with the water in a small bowl. Heat over medium-high flame until hot. Pour this mixture into the wok with the cooked pork.",
+    "Stir-fry for about 2 minutes, allowing the liquid to slightly reduce and thicken slightly. If needed, add more water or stock to adjust consistency.",
+    "Fold in the lightly toasted sesame seeds before serving. Drizzle over a paleo-friendly sauce (made from light vegetable stock) if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "paleo-friendly",
+    "crispy",
+    "garlic",
+    "jamaican",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 275,
+    "protein": 30,
+    "carbs": 18,
+    "fat": 10
+  },
+  "slug": "crispy-garlic-jamaican-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-garlic-jamaican-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T06:41:55Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "temper",
+    "primaryIngredient": "ras el hanout",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "garlic",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
