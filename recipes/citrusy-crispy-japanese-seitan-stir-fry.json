@@ -1,0 +1,96 @@
+{
+  "title": "Citrusy Crispy Japanese Seitan Stir-fry",
+  "description": "A post-workout dish featuring a citrusy and crispy seitan stir-fry with dried oregano, ready in under 30 minutes.",
+  "cuisine": "Japanese",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Seitan",
+      "amount": "1 block"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Rice Wine Vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Dried Oregano",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1/8 tsp (optional)"
+    },
+    {
+      "name": "Orange Slices",
+      "amount": "6-8 slices"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "3-4 slices"
+    }
+  ],
+  "instructions": [
+    "Preheat your wok or frying pan over high heat. Add olive oil and heat until shimmering.",
+    "Slice the seitan into thin strips, season with garlic powder, chili flakes (if using), and salt to taste.",
+    "Add seitan to the hot pan; stir-fry for about 5 minutes, flipping occasionally until golden brown on all sides.",
+    "Drizzle rice wine vinegar over seitan. Add soy sauce, sugar, and oregano. Stir well to combine.",
+    "Stir in orange slices. Cover with a lid or tin foil and cook for another minute or until the oranges soften slightly.",
+    "Remove from heat and garnish with green onions before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "crispy",
+    "post-workout",
+    "japanese",
+    "stir-fry",
+    "plant-based-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 19,
+    "fat": 7
+  },
+  "slug": "citrusy-crispy-japanese-seitan-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-crispy-japanese-seitan-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T17:58:02Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crispy",
+    "mood": "post-workout",
+    "technique": "pressure-cook",
+    "primaryIngredient": "dried oregano",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Seitan",
+    "descriptor": "Citrusy Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
