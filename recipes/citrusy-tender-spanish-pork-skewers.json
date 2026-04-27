@@ -1,0 +1,84 @@
+{
+  "title": "Citrusy Tender Spanish Pork Skewers",
+  "description": "These kid-friendly Spanish pork skewers are tender and flavorful with a burst of citrus zest, perfect for any meal but especially appetizing as a light dinner option.",
+  "cuisine": "Spanish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 lbs"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "fresh orange juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "6, minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1/4 medium, finely chopped"
+    },
+    {
+      "name": "cilantro leaves",
+      "amount": "2-3 sprigs, roughly chopped"
+    }
+  ],
+  "instructions": [
+    "Place pork in a large bowl. Add salt and pepper to taste.",
+    "Mix in lemon juice, orange juice, garlic, onion, and cilantro with your hands until all ingredients are evenly distributed.",
+    "Line up skewers or metal sticks on a plate. Divide the mixture among them, filling each skewer approximately 3/4 full.",
+    "Preheat grill to medium-high heat. Place pork skewers on the grill and cook for about 10-15 minutes per side until internal temperature reaches at least 145°F (63°C) when checked with a meat thermometer.",
+    "Once cooked, let rest for 5-10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "spanish-pork-skewers",
+    "tender",
+    "kid-friendly",
+    "grilled",
+    "halal"
+  ],
+  "nutrition": {
+    "calories": 410,
+    "protein": 29,
+    "carbs": 35,
+    "fat": 16
+  },
+  "slug": "citrusy-tender-spanish-pork-skewers",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-tender-spanish-pork-skewers",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T13:48:19Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "tender",
+    "mood": "kid-friendly",
+    "technique": "grill",
+    "primaryIngredient": "minced pork",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "pork",
+    "descriptor": "Citrusy Tender",
+    "dishForm": "Grilled Skewers"
+  }
+}
