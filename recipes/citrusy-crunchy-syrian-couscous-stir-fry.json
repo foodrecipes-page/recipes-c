@@ -1,0 +1,87 @@
+{
+  "title": "Citrusy Crunchy Syrian Couscous Stir-fry",
+  "description": "A whole30-friendly sick-day Syrian dish featuring citrusy and crunchy elements in a couscous stir-fry that's perfect for those days when you're feeling under the weather.",
+  "cuisine": "Syrian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Couscous",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "2, minced"
+    },
+    {
+      "name": "Red Chili Flakes",
+      "amount": "½ teaspoon"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "¼ cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "handful, chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your grill or a pan over medium-high heat.",
+    "In a small bowl, mix together lemon juice and olive oil. Set aside.",
+    "Heat the remaining olive oil in the prepared pan or on the grill. Add onions and garlic; cook until translucent, about 5 minutes.",
+    "Add couscous to the pan and stir for another minute.",
+    "Fold in chili flakes, salt, and the lemon-olive oil mixture. Stir well until everything is evenly coated and heated through.",
+    "Stir in chopped parsley just before serving.",
+    "Serve hot as a lunch dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "crunchy",
+    "sick-day-syrian-dish",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 14,
+    "carbs": 36,
+    "fat": 9
+  },
+  "slug": "citrusy-crunchy-syrian-couscous-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-crunchy-syrian-couscous-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T09:19:18Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crunchy",
+    "mood": "sick-day",
+    "technique": "grill",
+    "primaryIngredient": "couscous",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Couscous",
+    "descriptor": "Citrusy Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
