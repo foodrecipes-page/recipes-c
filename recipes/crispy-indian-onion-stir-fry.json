@@ -1,0 +1,86 @@
+{
+  "title": "Crispy Indian Onion Stir-Fry",
+  "description": "A savory and crisp one-pot Vietnamese dish featuring garam masala, rich in flavor without added sugar.",
+  "cuisine": "Indian-Vietnamese fusion",
+  "diet": [
+    "sugar-free-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4"
+    },
+    {
+      "name": "Green chili peppers",
+      "amount": "2-3"
+    },
+    {
+      "name": "Fresh cilantro leaves",
+      "amount": "handful"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garam masala powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Oil",
+      "amount": "3 tbsp"
+    }
+  ],
+  "instructions": [
+    "Chop the onion, garlic cloves into small pieces and green chili peppers finely.",
+    "Heat oil in a pan over medium heat. Add chopped onions and fry until golden brown.",
+    "Add garlic, turmeric powder, and garam masala to the pan. Stir well for about 30 seconds.",
+    "Include sliced green chili peppers and continue cooking until they turn slightly translucent.",
+    "Sprinkle sesame seeds evenly over the mixture in the pan. Stir gently to combine.",
+    "Stir in fresh cilantro leaves and mix everything together for another minute or two, ensuring all ingredients are coated with spices and oil.",
+    "Remove from heat immediately after adding cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "indian-onion-stir-fry",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 7,
+    "carbs": 12,
+    "fat": 5
+  },
+  "slug": "crispy-indian-onion-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-indian-onion-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T01:12:04Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crisp",
+    "mood": "one-pot",
+    "technique": "fry",
+    "primaryIngredient": "garam masala",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Onion",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
