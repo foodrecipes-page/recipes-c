@@ -1,0 +1,82 @@
+{
+  "title": "Creamy Midnight Lemon Stir-fry",
+  "description": "A savory and creamy Indian dish that satisfies a midnight craving with the tang of unwaxed lemon, perfect for a dairy-free meal.",
+  "cuisine": "Indian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Unwaxed lemons",
+      "amount": "2"
+    },
+    {
+      "name": "Tofu or silken tofu (firm)",
+      "amount": "1 block"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Garam masala powder",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Chopped garlic cloves (6-8 pieces)",
+      "amount": ""
+    },
+    {
+      "name": "Fresh cilantro leaves (for garnish)",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Wash the lemons and slice them into thin rounds. Use only the grated zest from each lemon.",
+    "Press tofu or silken tofu to remove excess liquid, then chop into small cubes.",
+    "In a large pot or wok, heat vegetable broth over medium heat. Add garam masala and turmeric powder; stir until fragrant.",
+    "Add sliced lemons, chopped garlic, and the cubed tofu. Stir everything together well.",
+    "Simmer for about 10 minutes, allowing flavors to meld together. Taste and adjust seasoning if needed.",
+    "Garnish with fresh cilantro leaves before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cream",
+    "stir-fry",
+    "midnight",
+    "creamy-lemon"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 18,
+    "carbs": 9,
+    "fat": 5
+  },
+  "slug": "creamy-midnight-lemon-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-midnight-lemon-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T18:03:33Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "whisk",
+    "primaryIngredient": "unwaxed lemon",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Lemon",
+    "descriptor": "Creamy Midnight",
+    "dishForm": "Stir-fry"
+  }
+}
