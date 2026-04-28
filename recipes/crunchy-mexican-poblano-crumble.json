@@ -1,0 +1,88 @@
+{
+  "title": "Crunchy Mexican Poblano Crumble",
+  "description": "This adventurous mexican dish features sweet red peppers braised in a savory sauce with fermented spices for an egg-free-friendly option.",
+  "cuisine": "Mexican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 poblano peppers",
+      "amount": "each",
+      "notes": "Ensure they are fully cooked and slightly softened before use"
+    },
+    {
+      "name": "1 small onion",
+      "amount": "one",
+      "notes": "Chopped finely for added depth of flavor"
+    },
+    {
+      "name": "4 cloves garlic",
+      "amount": "several",
+      "notes": "Minced or lightly smashed for a nice texture"
+    },
+    {
+      "name": "2 cups heavy cream",
+      "notes": "Heated and reduced to thicken the sauce"
+    },
+    {
+      "name": "1 tsp smoked paprika",
+      "amount": "one teaspoon"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "half a cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning the final dish"
+    },
+    {
+      "name": "Cayenne pepper flakes",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C). Rinse and pat dry poblano peppers. Score each with a knife in several places.",
+    "Sauté onions, garlic, and cayenne pepper in heavy cream until softened and slightly caramelized.",
+    "Add chopped poblano peppers along with smoked paprika and lime juice; simmer for 10 minutes.",
+    "Season to taste with salt. Let the mixture cool before dividing into small crumbles to serve.",
+    "Serve hot as a topping for toast, eggs, or any other savory dish."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "mexican",
+    "poblano",
+    "fermented",
+    "adventurous"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 18,
+    "fat": 10
+  },
+  "slug": "crunchy-mexican-poblano-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-mexican-poblano-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T01:44:41Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crumbly",
+    "mood": "adventurous",
+    "technique": "braise",
+    "primaryIngredient": "sweet red peppers",
+    "diet": "egg-free",
+    "region": "poblano",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Poblano Pepper",
+    "descriptor": "Fermented Crunchy",
+    "dishForm": "Crumble"
+  }
+}
