@@ -1,0 +1,76 @@
+{
+  "title": "Crispy Garlic Korean Stir-fry",
+  "description": "A vibrant and aromatic brunch dish featuring a blend of crispy garlic and fresh parsley in a Korean-inspired stir-fry.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "1 lb ground beef",
+      "amount": "1 lb",
+      "notes": "Use halal-certified meat for this recipe."
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "1/4 cup soy sauce (low-sodium)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "1 tbsp sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "1 red bell pepper, julienned",
+      "amount": "1 medium"
+    },
+    {
+      "name": "1 yellow onion, sliced",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large skillet over high heat. Add sesame oil and wait until it shimmers.",
+    "Add ground beef to the hot pan and cook for about 3-4 minutes, breaking into small pieces as needed. Remove from pan.",
+    "In the same pan, add minced garlic and stir-fry for about 1 minute until fragrant.",
+    "Add red bell pepper and onion; stir-fry for another 2-3 minutes or until vegetables are just tender.",
+    "Return ground beef to the pan with vegetables, then pour in soy sauce. Stir everything together well.",
+    "Garnish with chopped parsley on top before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy-garlic",
+    "halal-friendly",
+    "korean-stir-fry"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 15,
+    "carbs": 15,
+    "fat": 9
+  },
+  "slug": "crispy-garlic-korean-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-garlic-korean-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T03:25:56Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crisp",
+    "mood": "brunch-mood",
+    "technique": "fold",
+    "primaryIngredient": "chopped parsley",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Garlic",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
