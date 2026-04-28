@@ -1,0 +1,80 @@
+{
+  "title": "Crispy Fermented Dumpling Crumble",
+  "description": "A quick-fix dish featuring sour, crispy dumplings made with chilled butter and Mediterranean-friendly ingredients for a satisfying breakfast or snack.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "sodium-free",
+    "low-fat",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "4 oz"
+    },
+    {
+      "name": "Fermented Dashi (optional)",
+      "notes": "For a sour flavor, use miso paste and rice vinegar for an authentic touch."
+    },
+    {
+      "name": "Chilled Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Mix yogurt with fermented dashi and salt.",
+    "Add chilled oil to the yogurt mixture until evenly combined.",
+    "Roll butter into small balls, dust with sesame seeds if desired.",
+    "Dip each ball of rolled butter into yogurt mixture until coated completely.",
+    "Place coated butters on a baking sheet lined with parchment paper.",
+    "Bake at 350°F for about 12-15 minutes or until golden brown and crispy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quick-fix",
+    "saudiarabian",
+    "sour",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 16
+  },
+  "slug": "crispy-fermented-dumpling-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-fermented-dumpling-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T18:43:04Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crispy",
+    "mood": "quick-fix",
+    "technique": "ferment",
+    "primaryIngredient": "chilled butter",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "dumpling",
+    "descriptor": "Crispy Fermented",
+    "dishForm": "Crumble"
+  }
+}
