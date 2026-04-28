@@ -1,0 +1,86 @@
+{
+  "title": "Crunchy Mediterranean Almonds Crumbe",
+  "description": "This sour and crumbly Mediterranean almond dish is festive, featuring mint for a refreshing touch and infused with a delightful citrus marinade, making it perfect for whole30 diets.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup blanched almonds",
+      "amount": "",
+      "notes": "soaked in water overnight"
+    },
+    {
+      "name": "Juice of 2 fresh oranges",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "2 tablespoons fresh mint leaves, chopped",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "Zest of 1 orange",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Drain the almonds and place them in a food processor with the citrus juices, garlic, mint, orange zest, and a pinch of salt.",
+    "Blend until the mixture is crumbly but still holds together slightly. If it's too moist, add more almonds for better texture.",
+    "Press the mixture into an 8x8 inch baking dish or tray lined with parchment paper.",
+    "Bake at 170°C (325°F) for about 30 minutes until lightly golden and crispy on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy-mediterranean-almonds-crumbe",
+    "whole30-friendly",
+    "festive-dish"
+  ],
+  "nutrition": {
+    "calories": 256,
+    "protein": 7.8,
+    "carbs": 14.6,
+    "fat": 21.2
+  },
+  "slug": "crunchy-mediterranean-almonds-crumbe",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-mediterranean-almonds-crumbe",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T16:38:08Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crumbly",
+    "mood": "festive",
+    "technique": "marinate",
+    "primaryIngredient": "mint",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "almonds",
+    "descriptor": "Crunchy",
+    "dishForm": "Crumble"
+  }
+}
