@@ -1,0 +1,71 @@
+{
+  "title": "Crumbly Spicy Egg Crevage",
+  "description": "A spicy Korean dish featuring free-range eggs beaten and boiled for a sick-day treat, perfect for those days when you're not feeling well.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Free-range egg",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "Palm sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Gochujang (Korean chili paste)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Water",
+      "amount": "Enough to cover eggs"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch"
+    }
+  ],
+  "instructions": [
+    "Bring a pot of water to boil. Add the eggs and cook for about 3 minutes.",
+    "Drain the boiled eggs, let them cool slightly, then peel them and chop into small pieces.",
+    "In a mixing bowl, mix together the palm sugar, gochujang, and salt until well combined.",
+    "Add the egg pieces to the mixture and stir to combine evenly.",
+    "Serve immediately as a crumbly spicy snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 3,
+  "totalTimeMin": 13,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "crumbly",
+    "spicy",
+    "sick-day",
+    "korean"
+  ],
+  "nutrition": {
+    "calories": 60,
+    "protein": 7,
+    "carbs": 14,
+    "fat": 2
+  },
+  "slug": "crumbly-spicy-egg-crevage",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-spicy-egg-crevage",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T07:55:11Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "boil",
+    "primaryIngredient": "free-range egg beaten",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "egg",
+    "descriptor": "Spicy Crumbly",
+    "dishForm": "Crumble"
+  }
+}
