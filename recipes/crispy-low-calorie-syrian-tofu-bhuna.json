@@ -1,0 +1,96 @@
+{
+  "title": "Crispy Low Calorie Syrian Tofu Bhuna",
+  "description": "This herbal, crispy, comforting Syrian dish features marinated tofu cooked in a spicy bhuna sauce, perfect for those looking to enjoy a low-calorie-friendly meal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegan",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (170g)",
+      "notes": "Extra firm tofu"
+    },
+    {
+      "name": "Spices (for marinade)",
+      "amount": "To taste",
+      "notes": "Including cumin, coriander, turmeric, and a pinch of red pepper flakes"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4",
+      "notes": "For the marinade"
+    },
+    {
+      "name": "Onions (sliced)",
+      "amount": "1 medium",
+      "notes": "For the bhuna sauce"
+    },
+    {
+      "name": "Red bell peppers (chopped)",
+      "amount": "1 small",
+      "notes": "For the bhuna sauce"
+    },
+    {
+      "name": "Tomatoes (diced)",
+      "amount": "2 medium",
+      "notes": "For the bhuna sauce"
+    },
+    {
+      "name": "Water or vegetable broth",
+      "amount": "A few tablespoons",
+      "notes": "To thin out the bhuna sauce if needed"
+    },
+    {
+      "name": "Coconut milk (optional for a creamy flavor)",
+      "amount": "1/4 cup",
+      "notes": "If you prefer"
+    }
+  ],
+  "instructions": [
+    "Marinate tofu in a mixture of spices, garlic, and water or vegetable broth for at least an hour. Drain excess liquid.",
+    "Heat oil in a pan over medium heat until shimmering. Sauté onions and red bell peppers until softened.",
+    "Add chopped tomatoes to the pan along with coconut milk (if using). Simmer for about 10 minutes to let flavors meld together.",
+    "Gently place marinated tofu cubes into the bhuna sauce mixture, reduce heat to low, cover, and simmer for approximately 20-25 minutes until tofu is tender and slightly crispy on the outside.",
+    "Serve hot with a side of naan bread or as a standalone snack."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "herbal",
+    "comforting",
+    "syrian",
+    "tofu",
+    "bhuna"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 8,
+    "carbs": 4,
+    "fat": 2
+  },
+  "slug": "crispy-low-calorie-syrian-tofu-bhuna",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-low-calorie-syrian-tofu-bhuna",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T02:38:12Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crisp",
+    "mood": "comforting",
+    "technique": "bhuna",
+    "primaryIngredient": "marinated tofu",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Tofu",
+    "descriptor": "Crispy Low Calorie",
+    "dishForm": "Stir-fry"
+  }
+}
