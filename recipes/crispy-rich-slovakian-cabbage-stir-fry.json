@@ -1,0 +1,83 @@
+{
+  "title": "Crispy Rich Slovakian Cabbage Stir-fry",
+  "description": "A weeknight dish featuring a rich and crunchy cabbage stir-fry, perfect for pescatarians seeking a deliciously simple meal.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cabbage",
+      "amount": "1 large head"
+    },
+    {
+      "name": "Dumplings (optional)",
+      "amount": "30"
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Tomato Sauce or Tomato Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Peppers (any color)",
+      "amount": "1-2"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Chop the cabbage into strips, onions finely and peppers roughly.",
+    "If using dumplings, boil them until tender. If not, sauté the onion in olive oil until translucent.",
+    "Add garlic cloves to the pan, cooking until fragrant. Then add diced cabbage, stirring well to combine with the aromatics.",
+    "Pour tomato sauce or paste over the vegetables and cook for 2-3 minutes to allow it to absorb flavors.",
+    "If using peppers, add them now; stir occasionally as they begin to soften.",
+    "When all ingredients are combined and the sauce is thickened slightly, taste and adjust seasoning if needed. Optionally sprinkle with salt.",
+    "Serve hot. You can garnish with fresh herbs like parsley or chives for a pop of color."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "slovakian",
+    "rich",
+    "crunchy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 9
+  },
+  "slug": "crispy-rich-slovakian-cabbage-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-rich-slovakian-cabbage-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T10:54:47Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crunchy",
+    "mood": "weeknight",
+    "technique": "dum",
+    "primaryIngredient": "cabbage",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Cabbage",
+    "descriptor": "Rich Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
