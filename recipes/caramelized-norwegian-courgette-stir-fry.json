@@ -1,0 +1,73 @@
+{
+  "title": "Caramelized Norwegian Courgette Stir-fry",
+  "description": "A fresh and tender weeknight dish featuring courgettes caramelized to perfection in a sugar-free-friendly stir-fry.",
+  "cuisine": "Norwegian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Courgettes",
+      "amount": "4 medium-sized",
+      "notes": "Use any variety of courgette"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2-3",
+      "notes": "Minced"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "Optional, for added crunch and flavor"
+    },
+    {
+      "name": "Olive oil or avocado oil",
+      "amount": "2 tablespoons",
+      "notes": "For frying and sautéing"
+    }
+  ],
+  "instructions": [
+    "Wash the courgettes thoroughly and cut them into thin, bite-sized pieces.",
+    "In a wok or large skillet, heat 1 tablespoon of olive oil over medium-high heat. Add minced garlic and sesame seeds if using.",
+    "When the garlic turns golden brown, add the courgette slices and cook until they start to caramelize on one side (about 2-3 minutes).",
+    "Stir continuously to prevent burning, then flip the courgettes to caramelize them evenly. Cook for another 2-3 minutes.",
+    "Deglaze with a splash of water or white wine if desired, scraping up any browned bits from the bottom of the pan that will add extra depth of flavor and caramelization.",
+    "Once the mixture is well-coated in your cooking liquid, reduce the heat to low-medium. Continue to cook until all moisture has evaporated, leaving a slightly sticky, caramelized texture on the courgettes.",
+    "Serve hot as a side dish or main course with a protein of your choice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "courgette",
+    "stir-fry",
+    "norwegian",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 168,
+    "protein": 7,
+    "carbs": 30,
+    "fat": 9
+  },
+  "slug": "caramelized-norwegian-courgette-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/caramelized-norwegian-courgette-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T03:29:32Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "tender",
+    "mood": "weeknight",
+    "technique": "deglaze",
+    "primaryIngredient": "courgettes",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Courgette",
+    "descriptor": "Caramelized",
+    "dishForm": "Stir-fry"
+  }
+}
