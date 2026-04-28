@@ -1,0 +1,86 @@
+{
+  "title": "Cozy Gooey Algerian Sevaiiya Stir-fry",
+  "description": "This keto-friendly umami and gooey dish features sevaiiya that are caramelized to perfection for a cozy algerian flavor.",
+  "cuisine": "Algerian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup almond flour",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tsp garlic powder",
+      "amount": "tsp"
+    },
+    {
+      "name": "1/4 cup nutritional yeast",
+      "amount": "cup"
+    },
+    {
+      "name": "Pinch salt",
+      "notes": "kosher or sea salt can be used"
+    },
+    {
+      "name": "1/2 cup chicken broth",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 cup cooked sevaiiya",
+      "amount": "cup"
+    },
+    {
+      "name": "Fresh parsley, chopped (optional)",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Mix almond flour, garlic powder, nutritional yeast, and a pinch of salt in a small bowl.",
+    "Add chicken broth to the mixture until it forms a smooth paste. Drizzle olive oil over the top of the paste to prevent clumping.",
+    "Pour the mixture evenly onto the sevaiiya, tossing gently to coat thoroughly.",
+    "Transfer coated sevaiiya to an oven-safe baking dish and bake for 10 minutes or until golden brown and bubbly on top.",
+    "Garnish with fresh parsley if desired. Serve hot as a side or main course.",
+    "Let it cool slightly before serving to avoid burning your tongue."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cozy-algerian-dish",
+    "umami",
+    "gooey-sevaiiya"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 15,
+    "carbs": 4,
+    "fat": 12
+  },
+  "slug": "cozy-gooey-algerian-sevaiiya-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-gooey-algerian-sevaiiya-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T12:28:39Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "gooey",
+    "mood": "cozy",
+    "technique": "caramelize",
+    "primaryIngredient": "sevaiiya",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Sevaiiya",
+    "descriptor": "Gooey Cozy",
+    "dishForm": "Stir-fry"
+  }
+}
