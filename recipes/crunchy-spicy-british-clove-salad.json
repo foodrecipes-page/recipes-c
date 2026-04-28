@@ -1,0 +1,76 @@
+{
+  "title": "Crunchy Spicy British Clove Salad",
+  "description": "This paleo-friendly dish is a spicy and crunchy sick-day favorite, perfect for adding some excitement to your meal.",
+  "cuisine": "British",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Kosher salt",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "6, minced"
+    },
+    {
+      "name": "Clove pods",
+      "amount": "4 whole"
+    },
+    {
+      "name": "Green onions (scallions)",
+      "amount": "2, sliced thinly"
+    },
+    {
+      "name": "Pistachios",
+      "amount": "1/4 cup, roasted and coarsely chopped"
+    },
+    {
+      "name": "Pinch of cayenne pepper",
+      "notes": "For added heat"
+    }
+  ],
+  "instructions": [
+    "Place the minced garlic cloves, whole clove pods, and kosher salt in a small saucepan. Add enough water to cover by about an inch.",
+    "Bring to a boil over medium-high heat, then reduce to low and let simmer for at least 1 hour until the liquids have reduced significantly. Allow to cool completely before using.",
+    "Combine cooled clove mixture with green onions, roasted pistachios, and cayenne pepper in a large mixing bowl.",
+    "Gently fold together ingredients until well combined. Taste and adjust seasonings as needed."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy-spicy",
+    "british-clove-salad",
+    "sick-day-favorite",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 9,
+    "fat": 6
+  },
+  "slug": "crunchy-spicy-british-clove-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-spicy-british-clove-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T20:31:11Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crunchy",
+    "mood": "sick-day",
+    "technique": "slow-cook",
+    "primaryIngredient": "kosher salt",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Clove",
+    "descriptor": "Crunchy Spicy",
+    "dishForm": "Salad"
+  }
+}
