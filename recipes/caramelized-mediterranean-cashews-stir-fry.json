@@ -1,0 +1,93 @@
+{
+  "title": "Caramelized Mediterranean Cashews Stir-fry",
+  "description": "This sweet and light mediterranean dish features cashews caramelized with heavy cream in a vibrant sauce that pairs well with a variety of dishes.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cashews",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Red Peppers",
+      "amount": "1 medium (finely chopped)"
+    },
+    {
+      "name": "Green Peppers",
+      "amount": "1 medium (finely chopped)"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "White Wine or Vermouth",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "handful (chopped), for garnish"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "additional for brushing on cashews if needed"
+    }
+  ],
+  "instructions": [
+    "Place the cashews in a saucepan with salt and enough water to cover them.",
+    "Boil until soft, about 10 minutes. Drain and set aside.",
+    "In another pan, heat olive oil over medium-high heat. Add chopped garlic and red and green peppers. Sauté for 2-3 minutes or until the peppers are slightly softened but still crisp.",
+    "Pour in heavy cream and bring to a simmer. Reduce by half (about 5 minutes), stirring occasionally.",
+    "Add drained cashews and white wine/vermouth. Stir well, allowing the sauce to thicken further.",
+    "Garnish with chopped fresh parsley before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "caramelized",
+    "mediterranean",
+    "sweet",
+    "light"
+  ],
+  "nutrition": {
+    "calories": 279,
+    "protein": 3.5,
+    "carbs": 16,
+    "fat": 7
+  },
+  "slug": "caramelized-mediterranean-cashews-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/caramelized-mediterranean-cashews-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T05:16:44Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "light",
+    "mood": "light",
+    "technique": "caramelize",
+    "primaryIngredient": "heavy cream",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Cashews",
+    "descriptor": "Caramelized",
+    "dishForm": "Stir-fry"
+  }
+}
