@@ -1,0 +1,103 @@
+{
+  "title": "Crispy Herbs Argentinean Stir-Fry",
+  "description": "A meal-prep Argentinian dish featuring crispy herbs with fettuccine noodles and braise for a halal-friendly option.",
+  "cuisine": "Argentinean",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fettuccine",
+      "amount": "200g"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "4 slices",
+      "notes": "ensure halal certified"
+    },
+    {
+      "name": "green bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "200g can"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "a handful"
+    },
+    {
+      "name": "thyme leaves",
+      "amount": "a handful"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pan over medium heat.",
+    "Add garlic and sauté until fragrant, about 1 minute.",
+    "Add chicken slices to the pan and brown on both sides, around 5 minutes per side.",
+    "Remove chicken from the pan and set aside.",
+    "In the same pan, add chopped green bell peppers and onions. Sauté for about 3-4 minutes until softened.",
+    "Return chicken to the pan with vegetables. Add cherry tomatoes, basil leaves, thyme leaves, and salt and pepper to taste.",
+    "Bring to a simmer and let it cook for an additional 5 minutes.",
+    "Meanwhile, boil fettuccine according to package instructions. Drain well and toss in the pan along with chicken mixture.",
+    "Serve hot as a main course.",
+    "Optional: garnish with more fresh herbs or serve with quinoa or rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinean-stir-fry",
+    "meal-prep",
+    "crispy-herbs",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 510,
+    "protein": 43,
+    "carbs": 62,
+    "fat": 19
+  },
+  "slug": "crispy-herbs-argentinian-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-herbs-argentinian-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T00:04:51Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crispy",
+    "mood": "meal-prep",
+    "technique": "braise",
+    "primaryIngredient": "fettuccine",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Herbs",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
