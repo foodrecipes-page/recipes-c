@@ -1,0 +1,73 @@
+{
+  "title": "Crispy German Herb Salad",
+  "description": "A low-fat-friendly, herbal, crisp autumn dish featuring five spice powder and caramelized elements for a monsoon-season twist.",
+  "cuisine": "German",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "salad",
+  "ingredients": [
+    {
+      "name": "Crispy German Herb Salad Mix",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh Herbs (parsley, chives, dill)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For dressing"
+    },
+    {
+      "name": "Five Spice Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Caramelized Onions (optional)",
+      "amount": "1/4 cup",
+      "notes": "Pre-made or fresh, optional for added depth of flavor"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine Crispy German Herb Salad Mix and Fresh Herbs. Add Five Spice Powder.",
+    "Drizzle Olive Oil over the mixture to help bind ingredients together.",
+    "For caramelized onions, if using: Slice an onion thinly and sauté in olive oil until golden brown and deeply caramelized. Set aside.",
+    "If you have caramelized onions ready, mix them into the salad with Five Spice Powder and Olive Oil for a sweet, smoky flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "herb-salad",
+    "caramelized-onions",
+    "five-spice"
+  ],
+  "nutrition": {
+    "calories": 95,
+    "protein": 3,
+    "carbs": 7,
+    "fat": 2
+  },
+  "slug": "crispy-german-herb-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-german-herb-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T03:24:19Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crisp",
+    "mood": "monsoon",
+    "technique": "caramelize",
+    "primaryIngredient": "five spice powder",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Herb",
+    "descriptor": "Crispy",
+    "dishForm": "Salad"
+  }
+}
