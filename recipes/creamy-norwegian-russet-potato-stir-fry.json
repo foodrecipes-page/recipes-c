@@ -1,0 +1,81 @@
+{
+  "title": "Creamy Norwegian Russet Potato Stir-fry",
+  "description": "A fresh and creamy dish featuring baked russet potatoes as a hangover cure, low-carb friendly with a touch of garlic and cream.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-carb",
+    "flexitarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Russet Potatoes",
+      "amount": "4 medium"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "for garnish",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (205°C).",
+    "Slice the russet potatoes into rounds about 1/8-inch thick.",
+    "Sprinkle salt and pepper over both sides of the potato slices, then toss lightly with a fork or your hands until coated evenly.",
+    "Arrange the seasoned potato slices on a baking sheet lined with parchment paper. Brush each slice lightly with olive oil.",
+    "Bake in preheated oven for 25 minutes or until golden brown and crispy.",
+    "In a separate skillet, heat a bit of olive oil over medium-high heat. Add minced garlic and sauté for about 1 minute until fragrant.",
+    "Pour in the heavy cream, reduce heat to low-medium, and stir occasionally until mixture thickens into a creamy sauce (about 5 minutes).",
+    "Remove potatoes from oven and let cool slightly. Gently fold cooked cream sauce over potato slices. Garnish with fresh parsley before serving.",
+    "Serve warm as a quick snack or light meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "norwegian",
+    "stir-fry",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 6,
+    "carbs": 18,
+    "fat": 9
+  },
+  "slug": "creamy-norwegian-russet-potato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-norwegian-russet-potato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T02:16:08Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "creamy",
+    "mood": "hangover-cure",
+    "technique": "bake",
+    "primaryIngredient": "russet potato",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Russet Potato",
+    "descriptor": "Creamy",
+    "dishForm": "Stir-fry"
+  }
+}
