@@ -1,0 +1,92 @@
+{
+  "title": "Creamy Festive Fig Stir-fry",
+  "description": "A peppery, creamy festive Slovakian dish featuring figs, toast and jain-friendly ingredients.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "figs",
+      "amount": "2 medium",
+      "notes": "use fresh or dried if available"
+    },
+    {
+      "name": "toast crumbs",
+      "amount": "1/4 cup",
+      "notes": "ensure gluten-free if required"
+    },
+    {
+      "name": "pepper flakes",
+      "amount": "to taste",
+      "notes": "for a spicy kick"
+    },
+    {
+      "name": "cream cheese",
+      "amount": "1/2 cup",
+      "notes": "plain or flavored with garlic and herbs"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4 pieces",
+      "notes": "minced for added flavor"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small",
+      "notes": "finely chopped for color and texture"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "a handful",
+      "notes": "for a fresh finish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Toast toast crumbs in the oven for about 5 minutes or until golden brown.",
+    "In a skillet, sauté garlic and red onion over medium heat until softened.",
+    "Add figs and continue cooking until soft. Mince them if not already done.",
+    "Blend cream cheese with minced figs and any additional ingredients like pepper flakes, herbs (if using), to taste.",
+    "Stir in the toasted toast crumbs into the creamy mixture.",
+    "Cook for 10-15 minutes, stirring occasionally until everything is heated through and well combined."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "figs",
+    "toast",
+    "creamy",
+    "festive",
+    "spicy",
+    "jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 15,
+    "carbs": 28,
+    "fat": 9
+  },
+  "slug": "creamy-festive-fig-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-festive-fig-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T16:10:34Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "creamy",
+    "mood": "festive",
+    "technique": "toast",
+    "primaryIngredient": "figs",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "figs",
+    "descriptor": "Peppery Creamy Festive",
+    "dishForm": "Stir-fry"
+  }
+}
