@@ -1,0 +1,76 @@
+{
+  "title": "Creamy German Seafood Stir-fry",
+  "description": "A herbal and creamy German dish featuring frozen seafood mix, air-fried to perfection for a whole30-friendly show-off meal.",
+  "cuisine": "German",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Frozen Seafood Mix",
+      "amount": "1 bag"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Chives, chopped (optional)",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 400°F.",
+    "In a large bowl, mix the frozen seafood with garlic powder and olive oil until evenly coated.",
+    "Arrange the coated seafood in an even layer inside the air fryer basket.",
+    "Air-fry for about 12 minutes or until fully cooked. Toss occasionally during cooking.",
+    "Drain any excess grease from the seafood into a small saucepan, leaving the oil.",
+    "In the same pan over medium heat, add heavy cream and bring to a gentle simmer.",
+    "Stir in the garlic powder mixture once it's incorporated well.",
+    "Garnish with chopped chives before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "seafood",
+    "stir-fry",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 18,
+    "fat": 16
+  },
+  "slug": "creamy-german-seafood-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-german-seafood-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T20:14:08Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "creamy",
+    "mood": "show-off",
+    "technique": "air-fry",
+    "primaryIngredient": "frozen seafood mix",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Seafood",
+    "descriptor": "Creamy",
+    "dishForm": "Stir-fry"
+  }
+}
