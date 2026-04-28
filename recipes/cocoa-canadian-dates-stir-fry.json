@@ -1,0 +1,82 @@
+{
+  "title": "Cocoa Canadian Dates Stir-fry",
+  "description": "A savory and light date-night dish featuring cocoa, sautéed with whole30-friendly Canadian dates in a quick and easy preparation.",
+  "cuisine": "American",
+  "diet": [
+    "whole30",
+    "light"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Canadian Dates",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cocoa Powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Almond Oil or Avocado Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Fresh Rosemary Sprigs",
+      "amount": "a few"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Soak the Canadian Dates in hot water for about 20 minutes.",
+    "Drain and rinse the soaked dates, then chop them into small pieces.",
+    "Place chopped dates on a baking sheet lined with parchment paper. Roast in the preheated oven for about 10-15 minutes until they are caramelized and slightly browned.",
+    "While dates are roasting, heat almond oil or avocado oil in a non-stick skillet over medium-high heat.",
+    "Add chopped dates to the skillet, along with cocoa powder. Stir well until everything is evenly coated with cocoa powder.",
+    "Pour balsamic vinegar into the skillet and continue stirring for another 2-3 minutes until the mixture thickens slightly.",
+    "Remove from heat, add rosemary sprigs and a pinch of salt and pepper to taste, and mix thoroughly.",
+    "Let the dish cool down slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 7,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cocoa",
+    "dates",
+    "canadian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 29,
+    "fat": 7
+  },
+  "slug": "cocoa-canadian-dates-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cocoa-canadian-dates-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T04:17:15Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "light",
+    "mood": "date-night",
+    "technique": "saute",
+    "primaryIngredient": "cocoa",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "dates",
+    "descriptor": "Cocoa",
+    "dishForm": "Stir-fry"
+  }
+}
