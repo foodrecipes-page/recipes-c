@@ -1,0 +1,90 @@
+{
+  "title": "Citrusy Crunchy Mediterranean Coconut Cookies",
+  "description": "These post-workout mediterranean cookies are citrusy and crunchy, perfect for a high-protein-friendly snack to fuel your next workout.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "high-protein",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Coconut Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Almond Butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Honey or Stevia",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ground Almonds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Pinch of Salt",
+      "notes": "for added flavor and texture"
+    },
+    {
+      "name": "Grated Lemon Zest",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Fresh Orange Juice",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 325°F (160°C).",
+    "In a bowl, mix together coconut flour, almond butter, honey, sesame seeds, ground almonds, salt, lemon zest, orange juice, and Greek yogurt until well combined.",
+    "Shape dough into cookies of desired size on an ungreased baking sheet. Bake for 20-25 minutes or until golden brown.",
+    "Allow to cool completely before storing in an airtight container at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "citrus",
+    "crunchy",
+    "mediterranean",
+    "cookies",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 5,
+    "fat": 8
+  },
+  "slug": "citrusy-crunchy-mediterranean-coconut-cookies",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-crunchy-mediterranean-coconut-cookies",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T07:36:25Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crunchy",
+    "mood": "post-workout",
+    "technique": "grill",
+    "primaryIngredient": "cookies",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Coconut",
+    "descriptor": "Citrusy Crunchy",
+    "dishForm": "Cookies"
+  }
+}
