@@ -1,0 +1,115 @@
+{
+  "title": "Creamy Vietnamese Peanut Stir-fry",
+  "description": "A tangy and creamy vegan-friendly dish featuring roasted peanuts, pickled vegetables, and aromatic spices in a rich sauce.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Peanuts",
+      "amount": "1/2 cup",
+      "notes": "Roasted"
+    },
+    {
+      "name": "Bean sprouts",
+      "amount": "1 cup",
+      "notes": "Fresh, roughly chopped"
+    },
+    {
+      "name": "Pickled vegetables (such as ginger and garlic), finely chopped",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "2 tbsp",
+      "notes": "Chopped for garnish"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tsp",
+      "notes": "For thickening the sauce"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "3 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce (optional)",
+      "amount": "1 tbsp",
+      "notes": "To add umami flavor, optional"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil or vegan butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": "For sweetness"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil or vegan butter in a wok or large skillet over medium-high heat.",
+    "Add peanuts and stir-fry for about 2 minutes until lightly browned.",
+    "Add green onions, pickled vegetables, soy sauce, fish sauce (if using), rice vinegar, sugar, garlic powder, and black pepper. Stir well to combine.",
+    "Stir in cornstarch dissolved in a little water to thicken the sauce.",
+    "Gently fold in bean sprouts and stir until they start to wilt slightly but are still crisp-tender.",
+    "Serve hot garnished with more green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "vietnamese",
+    "stir-fry",
+    "vegan",
+    "tangy"
+  ],
+  "nutrition": {
+    "calories": 375,
+    "protein": 10,
+    "carbs": 46,
+    "fat": 23
+  },
+  "slug": "creamy-vietnamese-peanut-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-vietnamese-peanut-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T11:58:07Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "pickle",
+    "primaryIngredient": "roasted peanut",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "peanut",
+    "descriptor": "Creamy",
+    "dishForm": "Stir-fry"
+  }
+}
