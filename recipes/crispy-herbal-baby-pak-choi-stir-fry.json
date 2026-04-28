@@ -1,0 +1,70 @@
+{
+  "title": "Crispy Herbal Baby Pak Choi Stir-fry",
+  "description": "A low-calorie-friendly herbal stir-fry featuring baby pak choi, marinated in a tangy sauce before cooking for a crispy texture and nostalgic Jamaican twist.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-carb",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Baby pak choi",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tangy marinade (soy sauce, vinegar, ginger)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Oil for stir-frying",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame seeds or crushed nuts (optional)",
+      "amount": "A small handful"
+    }
+  ],
+  "instructions": [
+    "Wash baby pak choi thoroughly and cut into bite-sized pieces.",
+    "Mix marinade ingredients in a bowl. Add the washed baby pak choi, ensuring each piece is coated evenly with the sauce. Let it marinate for at least 30 minutes (or longer if you have time).",
+    "Preheat your wok or skillet over medium-high heat and add oil. Once hot, carefully add the marinated baby pak choi to the pan.",
+    "Cook until the pak choi is wilted but still has a slight crunch, about 3-5 minutes. You can stir occasionally for even cooking.",
+    "Sprinkle sesame seeds or crushed nuts over the top if desired and serve immediately while hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "baby pak choi",
+    "crispy",
+    "herbal",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 45,
+    "protein": 1,
+    "carbs": 8,
+    "fat": 3
+  },
+  "slug": "crispy-herbal-baby-pak-choi-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-herbal-baby-pak-choi-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T17:31:16Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crispy",
+    "mood": "nostalgic",
+    "technique": "marinate",
+    "primaryIngredient": "baby pak koi",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Herbal",
+    "mainIngredient": "Baby Pak Choi",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
