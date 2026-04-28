@@ -1,0 +1,92 @@
+{
+  "title": "Crispy Mediterranean Pistachio Salad",
+  "description": "A nutty and crisp salad featuring meringue nests in a Mediterranean-friendly dish that is perfect for breakfast or snack time.",
+  "cuisine": "Mediterranean, Filipino",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pistachios",
+      "amount": "1/2 cup",
+      "notes": "Freshly roasted for best flavor"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1 medium",
+      "notes": "Halved and pitted"
+    },
+    {
+      "name": "Capers",
+      "amount": "1 oz (30g)",
+      "notes": "For added brininess"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/4 cup, finely chopped",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For dressing"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1 tbsp, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Pistachio Meringue Nests",
+      "amount": "4 pieces",
+      "notes": "Pre-made for convenience"
+    }
+  ],
+  "instructions": [
+    "Combine all ingredients except meringue nests in a bowl and mix well.",
+    "Arrange the salad components on a plate, top with pistachio meringue nests.",
+    "Drizzle olive oil and balsamic vinegar over the salad. Toss gently to combine.",
+    "Serve immediately for best texture."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pistachio",
+    "mediterranean",
+    "snack",
+    "crispy",
+    "avocado",
+    "filipino"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 9
+  },
+  "slug": "crispy-mediterranean-pistachio-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-mediterranean-pistachio-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T19:10:57Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crisp",
+    "mood": "monsoon",
+    "technique": "pressure-cook",
+    "primaryIngredient": "meringue nests",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Pistachios",
+    "descriptor": "Crispy",
+    "dishForm": "Salad"
+  }
+}
