@@ -1,0 +1,95 @@
+{
+  "title": "Crunchy Spanish Soya Bean Stir-fry",
+  "description": "A sour, crunchy midnight craving dish featuring soya beans that is high-protein-friendly and perfect for a light dinner or snack.",
+  "cuisine": "Spanish",
+  "diet": [
+    "high-protein",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "soybeans",
+      "amount": "200g"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4-5"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 (small)"
+    },
+    {
+      "name": "chili peppers",
+      "amount": "3-4, chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "oil",
+      "amount": "olive oil, for cooking"
+    }
+  ],
+  "instructions": [
+    "Steam the soybeans until tender. Chop the onions and garlic finely.",
+    "Heat olive oil in a pan over medium heat. Add chopped onions and cook until translucent.",
+    "Add minced garlic to the pan and sauté for another minute.",
+    "Stir in soy sauce, vinegar, sesame seeds, salt, and cooked soybeans. Simmer for 5 minutes.",
+    "Garnish with finely chopped tomatoes and chili peppers just before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "spanish",
+    "soya-bean",
+    "stir-fry",
+    "midnight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 21,
+    "carbs": 8,
+    "fat": 9
+  },
+  "slug": "crunchy-spanish-soya-bean-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-spanish-soya-bean-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T04:15:35Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crunchy",
+    "mood": "midnight-craving",
+    "technique": "steam",
+    "primaryIngredient": "soya bean",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Soya Bean",
+    "descriptor": "crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
