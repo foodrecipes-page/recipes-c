@@ -1,0 +1,103 @@
+{
+  "title": "Crunchy Show-off Cheddar Stir-fry",
+  "description": "An earthy and crunchy Spanish-style dish featuring mature cheddar cheese in a bhuna spice blend, perfect for showing off your culinary skills with a keto-friendly twist.",
+  "cuisine": [
+    "Spanish",
+    "Keto"
+  ],
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mature Cheddar Cheese",
+      "amount": "120g"
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "4 medium"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "6 medium"
+    },
+    {
+      "name": "Paprika (Spanish Ketchup Mix)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ginger Paste",
+      "amount": "3 tsp"
+    },
+    {
+      "name": "Red Chili Paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Salt to taste"
+    },
+    {
+      "name": "Coconut Oil or Olive Oil",
+      "amount": "50ml"
+    }
+  ],
+  "instructions": [
+    "Chop the mature cheddar cheese into small cubes.",
+    "Peel and finely chop the bell peppers, onions, and tomatoes.",
+    "Mix all spices together in a bowl to make the bhuna spice blend.",
+    "Heat coconut oil or olive oil in a pan over medium heat. Add paprika (Spanish Ketchup Mix) and sauté for 1 minute until fragrant.",
+    "Add the cheddar cubes to the pan and cook until they turn golden brown, about 3-4 minutes.",
+    "Stir in the bhuna spice blend and gently toss to combine.",
+    "Fold in the finely chopped bell peppers, onions, and tomatoes. Toss well until the vegetables are heated through.",
+    "Garnish with fresh cilantro if desired and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "show-off",
+    "spanish",
+    "cheese",
+    "bhuna"
+  ],
+  "nutrition": {
+    "calories": 687,
+    "protein": 21,
+    "carbs": 50,
+    "fat": 34
+  },
+  "slug": "crunchy-show-off-cheddar-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-show-off-cheddar-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T16:48:06Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crunchy",
+    "mood": "show-off",
+    "technique": "bhuna",
+    "primaryIngredient": "mature cheddar",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "cheddar",
+    "descriptor": "Crunchy Show-off",
+    "dishForm": "Stir-fry"
+  }
+}
