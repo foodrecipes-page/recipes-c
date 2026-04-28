@@ -1,0 +1,96 @@
+{
+  "title": "Crunchy Nostalgic Egyptian Beef Kidney Stir-fry",
+  "description": "A hearty and herbal stir-fry featuring tender beef kidneys seasoned with a mix of traditional Egyptian spices to create a nostalgic dish that is both crunchy and flavorful.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef kidney",
+      "amount": "200g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 small, sliced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "handful, chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a wok or large skillet over medium-high heat.",
+    "Add cumin seeds and sauté until fragrant, about 30 seconds.",
+    "Add sliced onions and cook until translucent, about 5 minutes.",
+    "Chop garlic cloves and add to the wok. Sauté for another minute.",
+    "Add beef kidneys and continue cooking until they become golden brown, approximately 10 minutes.",
+    "Stir in turmeric powder and lemon juice. Season with salt as needed and mix well.",
+    "Gently stir in bell peppers and cilantro. Cook for an additional 2-3 minutes or until vegetables are just tender.",
+    "Serve hot with steamed basmati rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egyptian",
+    "beef-kidney",
+    "stir-fry",
+    "herbal"
+  ],
+  "nutrition": {
+    "calories": 378,
+    "protein": 26,
+    "carbs": 19,
+    "fat": 9
+  },
+  "slug": "crunchy-nostalgic-egyptian-beef-kidney-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-nostalgic-egyptian-beef-kidney-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T09:21:32Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crunchy",
+    "mood": "nostalgic",
+    "technique": "whisk",
+    "primaryIngredient": "beef kidney",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "beef kidney",
+    "descriptor": "Crunchy Nostalgic",
+    "dishForm": "Stir-fry"
+  }
+}
