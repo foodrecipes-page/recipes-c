@@ -1,0 +1,81 @@
+{
+  "title": "Citrusy Creamy Ketchup Stir-fry",
+  "description": "A comforting citrusy and creamy Jamaican dish featuring ketchup alongside toast for a flavorful and satisfying breakfast or snack option.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "kosher-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ketchup",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Citrus juice (lemon or orange)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Butter",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Toasted bread slices (optional, for serving)",
+      "amount": "as desired"
+    }
+  ],
+  "instructions": [
+    "Mix the ketchup with mayonnaise and citrus juice in a bowl.",
+    "Heat butter in a pan over medium heat.",
+    "Add salt and pepper to taste, then pour the ketchup mixture into the hot buttered pan.",
+    "Stir gently until well combined and heated through. Serve warm with toasted bread slices if desired.",
+    "prepTimeMin: 5",
+    "cookTimeMin: 10",
+    "totalTimeMin: 15",
+    "servings: 2-4",
+    "difficulty: "
+  ],
+  "tags": [
+    "citrusy",
+    "creamy",
+    "ketchup",
+    "jamaican",
+    "comforting"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 7
+  },
+  "slug": "citrusy-creamy-ketchup-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-creamy-ketchup-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T21:21:08Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "creamy",
+    "mood": "comforting",
+    "technique": "toast",
+    "primaryIngredient": "ketchup",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Ketchup",
+    "descriptor": "Citrusy Creamy",
+    "dishForm": "Stir-fry"
+  }
+}
