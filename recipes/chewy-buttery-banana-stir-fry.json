@@ -1,0 +1,86 @@
+{
+  "title": "Chewy Buttery Banana Stir-fry",
+  "description": "A cozy Filipino dish featuring banana slices cooked with butter, orange blossom water, and spices for a unique twist on traditional recipes.",
+  "cuisine": "Filipino",
+  "diet": [
+    "butter-free",
+    "bhuna-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Banana",
+      "amount": "2 medium bananas",
+      "notes": "Use ripe but not overripe bananas for best results."
+    },
+    {
+      "name": "Butter",
+      "amount": "50g unsalted, softened",
+      "notes": "Ensure it's at room temperature to prevent clumping."
+    },
+    {
+      "name": "Orange blossom water",
+      "amount": "2 tbsp",
+      "notes": "For a touch of floral flavor without added sugar."
+    },
+    {
+      "name": "Fhanda powder (or substitute with paprika)",
+      "amount": "1 tsp",
+      "notes": "To add spiciness, adjust to taste."
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1/4 cup",
+      "notes": "Optional for a creamier texture."
+    },
+    {
+      "name": "Salt",
+      "amount": "A pinch",
+      "notes": "For better flavor integration."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (392°F).",
+    "Halve and slice the bananas into thin rounds.",
+    "Melt the butter in a non-stick skillet over medium heat. Add the banana slices and sprinkle with orange blossom water, pinch of salt, and a few drops of coconut milk if using.",
+    "Cook until golden brown on both sides, about 2-3 minutes per side.",
+    "Add the fhanda powder (or paprika) and continue cooking for an additional minute to allow it to infuse into the banana slices.",
+    "Remove from heat and serve hot. Optionally drizzle with extra orange blossom water or serve with a side of plain yogurt."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "bhuna-friendly",
+    "butter-free",
+    "cozy-filipino",
+    "dessert-snack",
+    "fhanda-powder-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 31,
+    "fat": 9
+  },
+  "slug": "chewy-buttery-banana-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-buttery-banana-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T06:36:20Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "chewy",
+    "mood": "cozy",
+    "technique": "bhuna",
+    "primaryIngredient": "orange blossom water",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "banana",
+    "descriptor": "buttery chewy cozy",
+    "dishForm": "Stir-fry"
+  }
+}
