@@ -1,0 +1,72 @@
+{
+  "title": "Crispy Savory Soy Milk Stir-fry",
+  "description": "A savory and crisp dish featuring soy milk, steamed with a touch of savory sauce to make it perfect for any meal.",
+  "cuisine": "norwegian",
+  "diet": [
+    "savory",
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "soy milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ginger",
+      "amount": "a pinch"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "a small amount"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Combine soy milk, ginger, and lemon zest in a pan. Cook over medium heat until it reaches the desired consistency.",
+    "Add sesame seeds to the mixture and cook for an additional minute.",
+    "Season with salt according to your taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "savory",
+    "stir-fry",
+    "soy-milk"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 2,
+    "carbs": 13,
+    "fat": 4
+  },
+  "slug": "crispy-savory-soy-milk-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-savory-soy-milk-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T23:15:44Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crisp",
+    "mood": "romantic",
+    "technique": "steam",
+    "primaryIngredient": "soy milk",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "soy milk",
+    "descriptor": "savory crisp",
+    "dishForm": "Stir-fry"
+  }
+}
