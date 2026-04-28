@@ -1,0 +1,84 @@
+{
+  "title": "Citrusy Crisp Italian Redcurrant Stir-fry",
+  "description": "A citrusy and crisp paleo-friendly Italian dish featuring redcurrants that can be enjoyed as a snack or light meal.",
+  "cuisine": "Italian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "paleo-friendly bread crumbs",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "redcurrants, halved",
+      "amount": "40 grams (about 1/8 cup)"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "orange juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat your broiler.",
+    "Mix bread crumbs with olive oil, orange zest, orange juice, sesame seeds, and garlic powder until well combined. The mixture should be slightly wet.",
+    "Spread the redcurrants in a single layer on a baking sheet lined with parchment paper.",
+    "Press the breadcrumb mixture onto each redcurrant half, ensuring they are evenly coated.",
+    "Place under the preheated broiler for 2-3 minutes or until golden brown. Watch carefully to avoid burning.",
+    "Remove from heat and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "crisp",
+    "nostalgic",
+    "italian",
+    "redcurrant",
+    "paleo"
+  ],
+  "nutrition": {
+    "calories": 168,
+    "protein": 4.2,
+    "carbs": 13.5,
+    "fat": 7.4
+  },
+  "slug": "citrusy-crisp-italian-redcurrant-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-crisp-italian-redcurrant-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T08:43:43Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crisp",
+    "mood": "nostalgic",
+    "technique": "broil",
+    "primaryIngredient": "redcurrants",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Redcurrants",
+    "descriptor": "Citrusy Crisp",
+    "dishForm": "Stir-fry"
+  }
+}
