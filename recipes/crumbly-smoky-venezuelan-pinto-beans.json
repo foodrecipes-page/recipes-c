@@ -1,0 +1,79 @@
+{
+  "title": "Crumbly Smoky Venezuelan Pinto Beans",
+  "description": "This energizing dish features crumbly smoked pinto beans seasoned with smoky flavors and low-sodium spices to make a delicious accompaniment for your meals.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pinto beans",
+      "amount": "1 cup canned",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "salt-free smoked paprika",
+      "amount": "2 tbsp",
+      "notes": "smoked paprika with no added salt"
+    },
+    {
+      "name": "smoked chipotle peppers in adobo",
+      "amount": "1-2 pieces",
+      "notes": "remove seeds for milder flavor, or keep whole and crush lightly before adding"
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 lime juiced",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a large mixing bowl, combine pinto beans, smoked paprika, and adobo-pepper.",
+    "Add soy sauce and lime juice. Stir until well combined, ensuring all beans are evenly coated with the mixture.",
+    "Transfer the bean mixture to an oven-safe baking dish and distribute it evenly.",
+    "Bake for 15 minutes or until golden brown and slightly crispy.",
+    "Remove from oven and allow to cool before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crumbly-smoky",
+    "energizing",
+    "venezuelan-dish",
+    "pinto-beans"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 16,
+    "fat": 3
+  },
+  "slug": "crumbly-smoky-venezuelan-pinto-beans",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-smoky-venezuelan-pinto-beans",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T21:14:22Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crumbly",
+    "mood": "energizing",
+    "technique": "smoke",
+    "primaryIngredient": "pinto beans",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "pinto beans",
+    "descriptor": "smoky crumbly energizing",
+    "dishForm": "Crumble"
+  }
+}
