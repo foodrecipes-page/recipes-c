@@ -1,0 +1,80 @@
+{
+  "title": "Crumbly Korean Radish Crumble",
+  "description": "A rich, crumbly dish featuring spicy peppers and radishes, perfect for those sick-day cravings. Low-sodium-friendly.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 cups thinly sliced radishes",
+      "amount": "",
+      "notes": "Use daikon or Korean radish for authentic flavor"
+    },
+    {
+      "name": "1 medium red bell pepper, finely chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup low-sodium soy sauce",
+      "amount": "",
+      "notes": "Opt for a reduced sodium variety if available"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "",
+      "notes": "Use bottled or freshly squeezed, depending on availability"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Dash of ground black pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine radishes and bell pepper in a mixing bowl.",
+    "Add soy sauce, lime juice, and garlic. Mix well.",
+    "Season with black pepper to taste.",
+    "Garnish with additional chopped fresh herbs like cilantro or mint for extra flavor."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crumbly",
+    "korean radish crumble",
+    "sick-day dish",
+    "low-sodium-friendly"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 2,
+    "carbs": 36,
+    "fat": 5
+  },
+  "slug": "crumbly-korean-radish-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-korean-radish-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T15:03:30Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "fold",
+    "primaryIngredient": "peppers",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Radish",
+    "descriptor": "Crumbly",
+    "dishForm": "Crumble"
+  }
+}
