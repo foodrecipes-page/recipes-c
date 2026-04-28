@@ -1,0 +1,92 @@
+{
+  "title": "Crispy Indian Orange Peel Stir-fry",
+  "description": "A tangy and crispy vegetarian dish inspired by the flavors of tandoor cuisine, featuring orange blossom water for a unique twist.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Orange Peels",
+      "amount": "2 pcs",
+      "notes": "Freshly peeled and thinly sliced"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Coriander Powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Saffron Water",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Orange Blossom Water",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch"
+    },
+    {
+      "name": "Chili Powder",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add cumin seeds and sauté until they start to pop, then add garlic powder and cook for another minute.",
+    "Add orange peel slices and toss for about 2 minutes or until slightly softened.",
+    "Stir in coriander powder, salt, and chili powder. Mix well.",
+    "Drizzle with orange blossom water and saffron water alternately, mixing each addition thoroughly.",
+    "Cook over medium-high heat for an additional 3-4 minutes to achieve desired crispiness.",
+    "Serve immediately while hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "indian",
+    "orange-peel",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 35,
+    "protein": 0.5,
+    "carbs": 6,
+    "fat": 2
+  },
+  "slug": "crispy-indian-orange-peel-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-indian-orange-peel-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T01:39:29Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crispy",
+    "mood": "midnight-craving",
+    "technique": "tandoor",
+    "primaryIngredient": "orange blossom water",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "orange peel",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
