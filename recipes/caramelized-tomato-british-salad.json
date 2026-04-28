@@ -1,0 +1,89 @@
+{
+  "title": "Caramelized Tomato British Salad",
+  "description": "This savory and crowd-pleasing salad features vine tomatoes caramelized in a tangy dressing for a sweet and sour flavor profile that's both comforting and refreshing.",
+  "cuisine": "British",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "salad",
+  "ingredients": [
+    {
+      "name": "vine tomatoes",
+      "amount": "2 medium",
+      "notes": "fresh, vine-ripened"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coarse sea salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "unsalted cashews",
+      "amount": "50g",
+      "notes": "soaked and drained for 30 minutes"
+    },
+    {
+      "name": "thyme leaves",
+      "amount": "2-3 sprigs"
+    },
+    {
+      "name": "balsamic glaze",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "Slice the tomatoes into wedges and place them on a baking sheet lined with parchment paper.",
+    "Drizzle olive oil over the tomatoes, sprinkle with salt and gently toss until evenly coated.",
+    "Roast in the preheated oven for about 15-20 minutes or until the edges are slightly charred and caramelized. Remove from heat and set aside to cool slightly.",
+    "In a small bowl, mix together white wine vinegar and balsamic glaze; stir gently with a whisk to dissolve any lumps.",
+    "When tomatoes have cooled enough, slice them in half lengthwise using kitchen shears or a sharp knife. Add the caramelized tomato wedges back onto the baking sheet.",
+    "To assemble: place slices of soaked cashews and thyme leaves on top of the tomatoes, drizzle with the dressing mixture, and gently toss to combine evenly.",
+    "Serve immediately or chill in the refrigerator for up to 1 hour before serving. The flavors will meld better as they rest.",
+    "Optional garnish with additional thyme leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "caramelized-tomato",
+    "british-salad",
+    "sour-and-crispy",
+    "vine-ripened",
+    "cashew-friendly",
+    "thyme-enhanced"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 7,
+    "fat": 5
+  },
+  "slug": "caramelized-tomato-british-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/caramelized-tomato-british-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T05:11:51Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crispy",
+    "mood": "crowd-pleaser",
+    "technique": "caramelize",
+    "primaryIngredient": "vine tomatoes",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Tomato",
+    "descriptor": "Caramelized",
+    "dishForm": "Salad"
+  }
+}
