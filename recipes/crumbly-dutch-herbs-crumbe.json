@@ -1,0 +1,94 @@
+{
+  "title": "Crumbly Dutch Herbs Crumbe",
+  "description": "A cozy dutch dish featuring fresh basil and other herbs that is simple to prepare with warm spices for a delightful herbal experience.",
+  "cuisine": "Dutch",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup almond flour",
+      "amount": "",
+      "notes": "Use gluten-free or regular"
+    },
+    {
+      "name": "1/4 cup grated Parmesan cheese",
+      "amount": "",
+      "notes": "Optional for extra flavor"
+    },
+    {
+      "name": "2 tablespoons butter, melted",
+      "amount": "",
+      "notes": "Can be replaced with olive oil for a heartier texture"
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": "",
+      "notes": "Use half if making a smaller batch"
+    },
+    {
+      "name": "1 clove garlic, minced",
+      "notes": ""
+    },
+    {
+      "name": "2 cups fresh basil leaves",
+      "amount": "",
+      "notes": "Chopped finely for added flavor and texture"
+    },
+    {
+      "name": "1/4 teaspoon salt",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "1/8 teaspoon black pepper",
+      "amount": "",
+      "notes": "For a slight kick of spice"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a mixing bowl, combine almond flour and optional Parmesan cheese. Mix well.",
+    "Stir in melted butter or oil, onion, garlic, fresh basil, salt, and black pepper. Combine thoroughly until no lumps remain.",
+    "Line a baking sheet with parchment paper for easy cleanup.",
+    "Transfer the crumb mixture onto the prepared baking sheet evenly spaced out. Use fingers to press down gently so it forms small compacted shapes resembling breadcrumbs (crumbe).",
+    "Bake in preheated oven for 10-12 minutes or until golden brown on top and crisp around the edges.",
+    "Let cool slightly before serving as a snack or appetizer."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "herbal",
+    "crumbly",
+    "cozy",
+    "dutch",
+    "simmer",
+    "dash-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 8,
+    "fat": 7
+  },
+  "slug": "crumbly-dutch-herbs-crumbe",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-dutch-herbs-crumbe",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T07:25:20Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crumbly",
+    "mood": "cozy",
+    "technique": "simmer",
+    "primaryIngredient": "fresh basil",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Herbs",
+    "descriptor": "Crumbly",
+    "dishForm": "Crumble"
+  }
+}
