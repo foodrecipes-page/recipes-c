@@ -1,0 +1,78 @@
+{
+  "title": "Crispy Savory German Collards Stir-fry",
+  "description": "A savory and crispy dish featuring German collards, kneaded gently to avoid burning, suitable for midnight cravings with a Jain-friendly twist.",
+  "cuisine": "German",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "German Collards",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "1, minced"
+    },
+    {
+      "name": "Onion Slices",
+      "amount": "1 small, finely chopped"
+    },
+    {
+      "name": "Jalepeño Slices (optional)",
+      "amount": "1 small, thinly sliced"
+    },
+    {
+      "name": "Salt",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Wash and roughly tear German Collards into bite-sized pieces.",
+    "Heat oil in a pan over medium-high heat. Add garlic and onion slices; sauté until fragrant but not browned, about 2 minutes.",
+    "Add collards to the pan and toss gently with tongs or spatula for 1-2 minutes until slightly wilted.",
+    "Optional: Add jalepeño slices if using, tossing them in with the collards. Stir-fry for another minute to distribute the flavors evenly.",
+    "Remove from heat immediately after adding collards. Let cool briefly before kneading gently for about a minute until crispy.",
+    "Serve hot as a snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "stir-fry",
+    "crispy",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "crispy-savory-german-collards-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-savory-german-collards-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T18:08:33Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crispy",
+    "mood": "midnight-craving",
+    "technique": "knead",
+    "primaryIngredient": "collards",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Collards",
+    "descriptor": "savory crispy",
+    "dishForm": "Stir-fry"
+  }
+}
