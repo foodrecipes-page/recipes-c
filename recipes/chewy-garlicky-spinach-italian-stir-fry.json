@@ -1,0 +1,84 @@
+{
+  "title": "Chewy Garlicky Spinach Italian Stir-fry",
+  "description": "This dish combines the savory flavors of Italy with a twist of garlickiness and chewiness in a spinach-centric recipe that’s perfect for a romantic dinner or snack.",
+  "cuisine": "Italian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Sous-vide bag",
+      "amount": "",
+      "notes": "Pre-soaked in water for sous-vide cooking"
+    },
+    {
+      "name": "Fresh spinach leaves",
+      "amount": "200g (about 1 cup)"
+    },
+    {
+      "name": "Chopped garlic cloves",
+      "amount": "3-4 cloves, finely minced"
+    },
+    {
+      "name": "Sliced almonds",
+      "amount": "50g (about a tablespoon)"
+    },
+    {
+      "name": "Crumbled feta cheese",
+      "amount": "2 tbsp",
+      "notes": "Optional for added richness and texture"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp",
+      "notes": "Low sodium if preferred"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the sous-vide bag in a water bath at 70°C (158°F) for about 30 minutes.",
+    "While the sous-vide bag is cooking, chop the garlic finely and set aside. Remove the bag from the water bath and allow it to cool slightly.",
+    "Remove spinach from the sous-vide bag and gently squeeze out excess liquid. Cut into bite-sized pieces if needed.",
+    "In a pan over medium heat, add 1 tablespoon of olive oil. Once hot, add the chopped garlic and cook until fragrant, about 30 seconds.",
+    "Add the cooled sous-vide spinach to the pan. Stir-fry for about 2 minutes or until the leaves start to wilt slightly but remain chewy.",
+    "Stir in the soy sauce and sliced almonds. Season with salt if desired.",
+    "Fold in crumbled feta cheese if using, stirring gently so as not to break up the spinach too much."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 3,
+  "difficulty": "easy",
+  "tags": [
+    "sous-vide",
+    "garlicky",
+    "chewy",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 256,
+    "protein": 14,
+    "carbs": 9,
+    "fat": 13
+  },
+  "slug": "chewy-garlicky-spinach-italian-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-garlicky-spinach-italian-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T10:19:58Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "chewy",
+    "mood": "romantic",
+    "technique": "sous-vide",
+    "primaryIngredient": "spinach",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Spinach",
+    "descriptor": "Garlicky Chewy Romantic",
+    "dishForm": "Stir-fry"
+  }
+}
