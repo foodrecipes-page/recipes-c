@@ -1,0 +1,98 @@
+{
+  "title": "Crispy American Shrimp Stir-fry",
+  "description": "A savory, crisp dish featuring dried shrimp and other aromatic ingredients suitable for a lazy Sunday meal.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Dried Shrimp",
+      "amount": "4 oz (use about 2 tablespoons of the liquid extract)"
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "Onions",
+      "amount": "2 large"
+    },
+    {
+      "name": "Scallions",
+      "amount": "3 green onions, chopped"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Oyster Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Peanuts",
+      "amount": "3 oz, chopped"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt and Pepper",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Combine cornstarch with a bit of water to make a slurry.",
+    "Wash and chop shrimp. Soak dried shrimp in water for about half an hour, then drain and chop.",
+    "Peel onions and scallions; finely dice the garlic, then slice the onions into rounds.",
+    "In a wok or large frying pan, heat oil over medium-high heat (around 360°F). Add chopped onions and cook until they are golden brown.",
+    "Add sliced garlic and stir for about 1 minute. Then add shrimp and dried shrimp to the pan; toss until fragrant and slightly translucent.",
+    "Pour in soy sauce, oyster sauce, and slurry made from cornstarch and water. Stir well to combine, then cook until thickened and bubbly.",
+    "Toss in chopped peanuts and scallion greens over medium-high heat for about 2 minutes.",
+    "Season with salt and pepper to taste. Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "stir-fry",
+    "shrimp",
+    "lazy-sunday"
+  ],
+  "nutrition": {
+    "calories": 897,
+    "protein": 32.1,
+    "carbs": 40.5,
+    "fat": 16.5
+  },
+  "slug": "crispy-american-shrimp-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-american-shrimp-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T04:54:45Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crisp",
+    "mood": "lazy-sunday",
+    "technique": "knead",
+    "primaryIngredient": "dried shrimp",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Shrimp",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
