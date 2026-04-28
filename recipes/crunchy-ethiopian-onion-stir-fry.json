@@ -1,0 +1,77 @@
+{
+  "title": "Crunchy Ethiopian Onion Stir-fry",
+  "description": "This weeknight dish combines the umami flavors of chives with crispy onions in a gluten-free-friendly recipe that’s perfect for any evening.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chopped green onion",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "green chives",
+      "amount": "1 cup fresh, chopped"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a wok or large skillet over medium-high heat.",
+    "Add chopped green onion and green chives, stir for about 2 minutes until they start to soften.",
+    "Stir in ginger paste and soy sauce, reduce heat to low-medium and simmer for 5 minutes, allowing flavors to meld together.",
+    "Pour in water while stirring continuously to create a creamy consistency.",
+    "Simmer for an additional 10-15 minutes or until the sauce thickens slightly.",
+    "Taste and adjust seasonings as needed. Serve hot over rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy-ethiopian-onion-stir-fry",
+    "umami-flavored-dish",
+    "weeknight-gluten-free-meal"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 48,
+    "fat": 16
+  },
+  "slug": "crunchy-ethiopian-onion-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-ethiopian-onion-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T07:10:36Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crunchy",
+    "mood": "weeknight",
+    "technique": "simmer",
+    "primaryIngredient": "chopped chive",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Onion",
+    "descriptor": "crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
