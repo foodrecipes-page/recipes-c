@@ -1,0 +1,99 @@
+{
+  "title": "Citrusy Velvety Light Polish Dish",
+  "description": "A light and flavorful dish featuring a citrusy velvety sauce infused with ginger cordial for an aromatic twist, perfect as a breakfast or snack option.",
+  "cuisine": "Polish",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ginger Cordial",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Garlic Clove(s)",
+      "amount": "3-4, minced"
+    },
+    {
+      "name": "Peanut Butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Cilantro (fresh)",
+      "amount": "1 tbsp, roughly chopped"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Ginger Powder (freshly grated ginger)",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a saucepan over medium heat. Add onion and garlic, sauté until translucent.",
+    "Stir in peanut butter, soy sauce, lemon zest, lime juice, turmeric powder, and freshly grated ginger (Ginger Powder).",
+    "Simmer for about 5 minutes, stirring occasionally to prevent sticking.",
+    "Blend mixture until smooth using an immersion blender. If blending in a regular blender, do it in batches to avoid overflowing the container.",
+    "Return to heat, reduce temperature to low, and add Ginger Cordial. Simmer for another minute or two until well combined and slightly thickened.",
+    "Serve with your favorite crackers or as a dip for veggies."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "polish",
+    "citrusy",
+    "velvety",
+    "light",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 281,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 14
+  },
+  "slug": "citrusy-velvety-light-polish-dish",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-velvety-light-polish-dish",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T18:58:35Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "velvety",
+    "mood": "light",
+    "technique": "deglaze",
+    "primaryIngredient": "ginger cordial",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Zanzibari",
+    "mainIngredient": "orange",
+    "descriptor": "Citrusy Velvety Light",
+    "dishForm": "Polish Dish"
+  }
+}
