@@ -1,0 +1,89 @@
+{
+  "title": "Crumbly Algerian Tahini Crumble",
+  "description": "A herbal, crumbly dish featuring tahini, perfect for a lazy Sunday and suitable for plant-based diets.",
+  "cuisine": "Algerian",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1/2 cup tahini",
+      "amount": "cup",
+      "notes": "use natural, unflavored tahini"
+    },
+    {
+      "name": "3 tablespoons lemon juice",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 clove garlic",
+      "amount": "clove"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "2 cups crushed walnuts or almonds",
+      "amount": "cups"
+    },
+    {
+      "name": "3 tablespoons olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1/4 cup chopped fresh herbs (such as parsley, mint, and dill)",
+      "amount": "cup"
+    },
+    {
+      "name": "Pinch of red pepper flakes",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a blender or food processor, combine tahini, lemon juice, garlic, and salt. Blend until smooth.",
+    "Pour the tahini mixture into a mixing bowl. Add olive oil and herbs; stir well.",
+    "Stir in crushed nuts and red pepper flakes. Mix until evenly distributed.",
+    "Transfer the crumble to a baking dish lined with parchment paper or cooking spray.",
+    "Bake for 15-20 minutes, stirring halfway through, until golden brown and crispy on top.",
+    "Remove from oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "crumble",
+    "herbal",
+    "lazy-sunday",
+    "tahini"
+  ],
+  "nutrition": {
+    "calories": 237,
+    "protein": 10,
+    "carbs": 9,
+    "fat": 14
+  },
+  "slug": "crumbly-algerian-tahini-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-algerian-tahini-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T02:33:20Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crumbly",
+    "mood": "lazy-sunday",
+    "technique": "roast",
+    "primaryIngredient": "tahini",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Tahini",
+    "descriptor": "Crumbly",
+    "dishForm": "Crumble"
+  }
+}
