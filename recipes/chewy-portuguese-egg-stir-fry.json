@@ -1,0 +1,73 @@
+{
+  "title": "Chewy Portuguese Egg Stir-fry",
+  "description": "A sour and chewy date-night dish featuring free-range eggs beaten to high-protein-friendly proportions for a perfect accompaniment to your favorite snacks or as an appetizer.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "high-protein",
+    "low-sodium"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Free-range egg whites",
+      "amount": "10 eggs"
+    },
+    {
+      "name": "Pinenuts (or walnuts)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sour cherry preserves",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Water chestnut slices",
+      "amount": "5-6 pieces"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "A pinch"
+    }
+  ],
+  "instructions": [
+    "Beat the egg whites until frothy, then fold in sour cherry preserves and red pepper flakes.",
+    "Heat a pan over medium heat. Add pinenuts to toast lightly.",
+    "Add water chestnut slices to the pan with toasted pinenuts, cook for about 1 minute.",
+    "Pour beaten eggs onto the pan, spreading evenly while still hot.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "portuguese",
+    "egg-stir-fry",
+    "sour-cherry"
+  ],
+  "nutrition": {
+    "calories": 95,
+    "protein": 10,
+    "carbs": 3,
+    "fat": 2
+  },
+  "slug": "chewy-portuguese-egg-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-portuguese-egg-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T20:52:04Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "chewy",
+    "mood": "date-night",
+    "technique": "saute",
+    "primaryIngredient": "free-range egg beaten",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Eggs",
+    "descriptor": "Chewy",
+    "dishForm": "Stir-fry"
+  }
+}
