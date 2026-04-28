@@ -1,0 +1,85 @@
+{
+  "title": "Crunchy Filipino Swede Stir-fry",
+  "description": "This sick-day-friendly dish combines sweet and crunchy flavors with swede, a nutritious root vegetable that's perfect for the cooler months.",
+  "cuisine": "Filipino",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Swede",
+      "amount": "1 medium",
+      "notes": "Can be substituted with another root vegetable like carrots if needed."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4 finely minced"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fish Sauce (optional)",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch"
+    }
+  ],
+  "instructions": [
+    "Trim the swede and peel it. Cut into small cubes.",
+    "Chop the onion into fine pieces, finely mince the garlic cloves.",
+    "Heat vegetable oil in a pan over medium heat. Add onion and sauté until translucent.",
+    "Add minced garlic to the pan, stirring frequently for about 1 minute until fragrant.",
+    "Add swede cubes to the pan. Season with salt and cook until slightly softened but still crisp, around 5-7 minutes.",
+    "If using fish sauce, add it now and stir well. If not, just mix in soy sauce.",
+    "Cook for an additional 2-3 minutes until all ingredients are evenly cooked and the swede is tender yet crispy.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy-filipino",
+    "sweet-savory",
+    "swede-dish",
+    "pescatarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 15,
+    "fat": 8
+  },
+  "slug": "crunchy-filipino-swede-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-filipino-swede-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T16:08:48Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crunchy",
+    "mood": "sick-day",
+    "technique": "knead",
+    "primaryIngredient": "swede",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Swede",
+    "descriptor": "Sick-day Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
