@@ -1,0 +1,83 @@
+{
+  "title": "Crunchy Spicy Mediterranean Parsley Stir-fry",
+  "description": "A cozy mediterranean dish featuring freshly chopped parsley, pickled vegetables, and a spicy kick for a jain-friendly meal.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Parsley",
+      "amount": "1 cup fresh parsley, chopped finely"
+    },
+    {
+      "name": "Pickled Vegetables (e.g., Gochujang pickles)",
+      "amount": "2 tablespoons",
+      "notes": "Use vegetarian-friendly brands or make your own with non-animal ingredients."
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "1 clove, minced"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/2 teaspoon",
+      "notes": "For added crunch and flavor."
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium heat.",
+    "Add minced garlic and red pepper flakes, cooking until fragrant and slightly golden.",
+    "Stir in chopped parsley and pickled vegetables. Cook for about 1 minute to combine flavors.",
+    "Pour in tomato sauce and stir well to combine all ingredients.",
+    "Reduce heat to low, cover the pan and let simmer for another 2-3 minutes.",
+    "Serve hot as a snack or light meal."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 7,
+  "totalTimeMin": 12,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "spicy",
+    "cozy",
+    "mediterranean",
+    "parsley",
+    "pickled",
+    "jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 2,
+    "carbs": 7,
+    "fat": 4
+  },
+  "slug": "crunchy-spicy-mediterranean-parsley-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-spicy-mediterranean-parsley-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T16:58:42Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crunchy",
+    "mood": "cozy",
+    "technique": "pickle",
+    "primaryIngredient": "freshly chopped parsley",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Parsley",
+    "descriptor": "Spicy Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
