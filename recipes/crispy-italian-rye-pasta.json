@@ -1,0 +1,85 @@
+{
+  "title": "Crispy Italian Rye Pasta",
+  "description": "A crowd-pleasing, umami-rich pasta dish featuring rye flour for a unique twist, crispy outside and chewy inside, perfect as a savory snack or light meal.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rye Pasta",
+      "amount": "1 cup (cooked)"
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Italian Seasoning Blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Red Pepper Flakes (optional)",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Parmesan Cheese, Grated",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Baking Powder",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Combine cooked Rye Pasta and Tomato Sauce in a mixing bowl.",
+    "Add Garlic Powder, Italian Seasoning Blend, Red Pepper Flakes (if using), and Parmesan Cheese. Mix well.",
+    "In another small bowl, mix Olive Oil with Baking Powder until smooth. Drizzle over the pasta mixture and toss gently to coat evenly.",
+    "Preheat air fryer to 400°F (200°C). Place the coated pasta on a baking sheet lined with parchment paper or cooking spray.",
+    "Cook for about 15-20 minutes, shaking every 7 minutes, until golden brown and crispy. Toss with more olive oil if needed before serving."
+  ],
+  "prepTimeMin": 3,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "rye pasta",
+    "crispy",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "crispy-italian-rye-pasta",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-italian-rye-pasta",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T05:22:04Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crisp",
+    "mood": "crowd-pleaser",
+    "technique": "air-fry",
+    "primaryIngredient": "rye",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "rye",
+    "descriptor": "Crispy",
+    "dishForm": "Pasta"
+  }
+}
