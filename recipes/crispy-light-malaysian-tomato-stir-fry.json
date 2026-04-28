@@ -1,0 +1,85 @@
+{
+  "title": "Crispy Light Malaysian Tomato Stir-fry",
+  "description": "An earthy and crispy dish featuring plum tomatoes in a light Malaysian sauce made with just vegetables for a sugar-free-friendly meal.",
+  "cuisine": "Malaysian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Plum Tomatoes",
+      "amount": "1 cup (halved)",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1/4 cup, finely chopped",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Spring Onions (Scallions)",
+      "amount": "2 pieces, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium heat.",
+    "Add onion and garlic, sauté for about 3 minutes until fragrant.",
+    "Add halved plum tomatoes to the pan. Cook for another 5 minutes on low-medium heat.",
+    "Drizzle soy sauce and fish sauce evenly over the vegetables and cook for an additional minute.",
+    "Serve hot with steamed rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "malaysian-stir-fry",
+    "light-diet",
+    "sugar-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 6,
+    "carbs": 22,
+    "fat": 3
+  },
+  "slug": "crispy-light-malaysian-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-light-malaysian-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T06:32:59Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "pressure-cook",
+    "primaryIngredient": "plum tomatoes",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Tomato",
+    "descriptor": "Crispy Light",
+    "dishForm": "Stir-fry"
+  }
+}
