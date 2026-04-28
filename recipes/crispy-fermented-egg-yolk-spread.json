@@ -1,0 +1,88 @@
+{
+  "title": "Crispy Fermented Egg Yolk Spread",
+  "description": "A Mediterranean-inspired spread that combines fermented egg yolks with crispy textures for a unique and nutritious treat suitable for egg-free diets.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fermented Coconut Powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Fermented Black Sesame Paste",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Fermented Peanut Butter",
+      "amount": "3 teaspoons"
+    },
+    {
+      "name": "Dairy-Free Yogurt",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Hemp Seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Fermented Tofu Crisps",
+      "amount": "6 crumbles"
+    },
+    {
+      "name": "Pinch of Salt",
+      "notes": "Optional, for taste adjustment"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C).",
+    "In a mixing bowl, combine all ingredients and mix well until evenly distributed.",
+    "Transfer the mixture onto baking sheets lined with parchment paper or silicone mats.",
+    "Sprinkle additional Hemp Seeds on top of each spread for a crunchy texture if desired.",
+    "Broil in the preheated oven for about 5 minutes, or until golden brown and crispy.",
+    "Remove from the oven and let it cool slightly before serving.",
+    "Store any leftovers in an airtight container at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 3,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "fermented",
+    "egg-free-friendly",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 6,
+    "fat": 9
+  },
+  "slug": "crispy-fermented-egg-yolk-spread",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-fermented-egg-yolk-spread",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T09:14:04Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crispy",
+    "mood": "romantic",
+    "technique": "broil",
+    "primaryIngredient": "egg yolks",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Egg Yolk",
+    "descriptor": "Fermented Crispy",
+    "dishForm": "Spread"
+  }
+}
