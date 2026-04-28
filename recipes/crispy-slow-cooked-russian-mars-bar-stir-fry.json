@@ -1,0 +1,81 @@
+{
+  "title": "Crispy Slow-Cooked Russian Mars Bar Stir-fry",
+  "description": "A fresh and crisp brunch-mood dish featuring crispy Mars bars cooked at a low temperature to preserve the raw-friendly nature of this snack.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mars bars",
+      "amount": "6-8 pieces",
+      "notes": "Choose chocolate covered cashews or other non-dairy options if needed."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4-5 pieces",
+      "notes": "For a raw-friendly version, use raw garlic instead of cooked."
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "a few sprigs",
+      "notes": "Chopped for garnish."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 200°F (93°C).",
+    "Slice the Mars bars into thin pieces.",
+    "Place the sliced Mars bars on a baking sheet lined with parchment paper or silicone mat.",
+    "Drizzle olive oil over the Mars bars and sprinkle with salt and black pepper. Toss gently to coat evenly.",
+    "Roast in the preheated oven for about 1 hour, flipping once halfway through cooking.",
+    "After an hour, remove from the oven and allow to cool slightly before slicing into smaller pieces if necessary.",
+    "Sauté minced garlic in a pan with a bit more olive oil until fragrant but not browned.",
+    "Add cooled Mars bar slices to the pan and stir fry for about 5 minutes, ensuring they are crispy and golden brown on all sides.",
+    "Garnish with chopped parsley before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy-mars-bar",
+    "slow-cooked-russian-dish",
+    "raw-friendly-dessert"
+  ],
+  "nutrition": {
+    "calories": 305,
+    "protein": 13.9,
+    "carbs": 27.8,
+    "fat": 14.6
+  },
+  "slug": "crispy-slow-cooked-russian-mars-bar-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-slow-cooked-russian-mars-bar-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T10:03:02Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crisp",
+    "mood": "brunch-mood",
+    "technique": "slow-cook",
+    "primaryIngredient": "mars bar",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Mars Bar",
+    "descriptor": "Crispy Slow-Cooked",
+    "dishForm": "Stir-fry"
+  }
+}
