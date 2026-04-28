@@ -1,0 +1,76 @@
+{
+  "title": "Creamy Argentinian Masarepa Pilaf",
+  "description": "A savory and creamy midnight-craving Argentinean dish featuring yellow masa reseca, cooked with broiling for added depth of flavor.",
+  "cuisine": "Argentinean",
+  "diet": [
+    "paleo-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yellow Masarepa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Butternut Squash (peeled and diced)",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Broccoli florets",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2, minced"
+    },
+    {
+      "name": "Chopped Fresh Herbs (parsley, cilantro, mint)",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Spread masarepa on a baking sheet lined with parchment paper.",
+    "Broil for about 5 minutes until golden brown and crispy.",
+    "In a skillet, sauté garlic, butternut squash, and broccoli florets over medium heat. Season with salt and pepper to taste.",
+    "Add broiled masarepa to the skillet, tossing gently to coat evenly.",
+    "Stir in chopped fresh herbs for added freshness.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinean-cuisine",
+    "paleo-friendly-diet",
+    "savory-dessert-like",
+    "creamy-pilaf",
+    "midnight-craving"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 48,
+    "fat": 7
+  },
+  "slug": "creamy-argentinian-masarepa-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-argentinian-masarepa-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T04:43:00Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "broil",
+    "primaryIngredient": "yellow masarepa",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Masarepa",
+    "descriptor": "Creamy",
+    "dishForm": "Pilaf"
+  }
+}
