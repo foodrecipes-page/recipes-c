@@ -1,0 +1,78 @@
+{
+  "title": "Crispy Malaysian Citrus Stir-fry",
+  "description": "A dairy-free and citrusy dish that combines crispy bread with a flavorful citrus zest, perfect for quick weeknight meals.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rye Bread Slices",
+      "amount": "8 slices"
+    },
+    {
+      "name": "Orange Zest",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cilantro Leaves",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Minced Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 375°F (190°C).",
+    "Slice the rye bread into rounds and place them on a baking sheet lined with parchment paper.",
+    "Drizzle the olive oil over the slices and bake for about 8 minutes or until golden brown, flipping halfway through.",
+    "While the bread is cooking, mix together orange zest, lemon zest, minced garlic, sesame seeds, and a pinch of salt. Stir well to combine.",
+    "Once the bread is done, remove from the air fryer and drizzle with olive oil before spreading the citrus mixture evenly over both sides of each slice.",
+    "Let it cool for a few minutes and serve as a snack or appetizer."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy-malaysian",
+    "citrusy",
+    "air-fryer-friendly",
+    "dessert-snack"
+  ],
+  "nutrition": {
+    "calories": 130,
+    "protein": 2,
+    "carbs": 8,
+    "fat": 6
+  },
+  "slug": "crispy-malaysian-citrus-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-malaysian-citrus-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T03:44:56Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crisp",
+    "mood": "weeknight",
+    "technique": "air-fry",
+    "primaryIngredient": "rye bread",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "citrus",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
