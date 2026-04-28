@@ -1,0 +1,79 @@
+{
+  "title": "Crunchy Steamy Saudia Monkfish Soup",
+  "description": "A low-calorie-friendly, salty, and crunchy savory dish featuring monkfish, steamed in a blend of aromatic herbs and vegetables to provide hangover-cure benefits.",
+  "cuisine": "Saudia (African)",
+  "diet": [
+    "low-calorie",
+    "salty"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Monkfish fillets",
+      "amount": "200g"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium piece"
+    },
+    {
+      "name": "Chili peppers",
+      "amount": "2-3 mild pieces"
+    },
+    {
+      "name": "Leaves of Bay leafs",
+      "amount": "few"
+    },
+    {
+      "name": "Cilantro (coriander) leaves",
+      "amount": "optional garnish, a handful"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 200°C (392°F).",
+    "In a mixing bowl, chop the onion and garlic into small pieces.",
+    "Add chopped monkfish fillets, minced chili peppers, and fresh bay leaves. Season with salt and pepper to taste.",
+    "Mix all ingredients together until evenly distributed.",
+    "Transfer the mixture into an oven-safe dish or baking tray. Make sure there are no excess liquid.",
+    "Bake in the preheated oven for 15-20 minutes on medium heat, or until monkfish is cooked through and crispy.",
+    "Remove from the oven and let it cool slightly before serving with fresh cilantro leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "monkfish",
+    "sauadia",
+    "hangover-cure"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 20,
+    "carbs": 6,
+    "fat": 8
+  },
+  "slug": "crunchy-steamy-saudia-monkfish-soup",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-steamy-saudia-monkfish-soup",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T16:07:05Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crunchy",
+    "mood": "hangover-cure",
+    "technique": "steam",
+    "primaryIngredient": "monkfish",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "Monkfish",
+    "descriptor": "Steamy Crunchy",
+    "dishForm": "Soup"
+  }
+}
