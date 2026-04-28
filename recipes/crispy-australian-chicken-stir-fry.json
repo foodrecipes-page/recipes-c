@@ -1,0 +1,70 @@
+{
+  "title": "Crispy Australian Chicken Stir-fry",
+  "description": "A sour and crispy dish with a cozy twist featuring chicken, vegetables, and a homemade sauce that's sugar-free-friendly.",
+  "cuisine": "Australian",
+  "diet": [
+    "sugar-free",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Onions",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F.",
+    "Wash and slice the chicken into bite-sized pieces. Season with salt and pepper.",
+    "Slice the carrots thinly, and chop the onions finely.",
+    "In a bowl, mix together 2 tablespoons of soy sauce and 1 tablespoon of sesame oil. Marinate the chicken for at least 30 minutes.",
+    "Sauté marinated chicken in a wok or large pan with 2 tablespoons of vegetable oil until golden brown on both sides.",
+    "Remove the chicken from the pan and set aside. In the same pan, add more oil if needed and sauté sliced carrots and onions until they become soft but not mushy.",
+    "Deglaze the pan with a little water or chicken broth to reduce any stuck bits at the bottom of the wok. Stir in 1 teaspoon of sugar-free soy sauce for a touch of sweetness (or omitted).",
+    "Return the marinated chicken to the pan, add fresh herbs like coriander (cilantro) and basil to enhance flavor.",
+    "Mix all ingredients together until well combined and serve with steamed rice or noodles."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "stir-fry",
+    "sour",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 283,
+    "protein": 29,
+    "carbs": 10,
+    "fat": 6
+  },
+  "slug": "crispy-australian-chicken-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-australian-chicken-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T13:17:54Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crispy",
+    "mood": "cozy",
+    "technique": "deglaze",
+    "primaryIngredient": "bouquet garni",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
