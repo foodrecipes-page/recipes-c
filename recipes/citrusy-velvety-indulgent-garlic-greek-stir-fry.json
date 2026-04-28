@@ -1,0 +1,87 @@
+{
+  "title": "Citrusy Velvety Indulgent Garlic Greek Stir-fry",
+  "description": "A citrusy and velvety garlic Greek dish featuring an air-fried garlic bulb with low-fat-friendly accompaniments.",
+  "cuisine": "Greek",
+  "diet": [
+    "low-fat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Garlic bulb",
+      "amount": "1 medium",
+      "notes": "preferably garlic cloves without the papery skin"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "3 tablespoons fresh squeezed"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup non-fat"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "handful, chopped"
+    },
+    {
+      "name": "Dill weed",
+      "amount": "pinch"
+    },
+    {
+      "name": "Red pepper flakes (optional)",
+      "amount": "a few threads"
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 375°F.",
+    "Slice the garlic bulb into thin slices and place them in a large bowl. Add olive oil, lemon juice, and red pepper flakes (if using) over the garlic slices.",
+    "Mix well until evenly coated with the marinade. Let it marinate for about 10 minutes.",
+    "Transfer the sliced garlic to the air fryer basket. Cook for 7-8 minutes or until golden brown and crispy on all sides. Remove from air fryer, let cool slightly.",
+    "In a mixing bowl, combine the cooked garlic with Greek yogurt, fresh parsley, and dill weed. Mix well to create a smooth mixture.",
+    "Serve immediately as a topping over your favorite dishes such as grilled meats or vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "velvety",
+    "indulgent",
+    "garlic",
+    "greek",
+    "stir-fry",
+    "air-fried"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 9,
+    "carbs": 6,
+    "fat": 7
+  },
+  "slug": "citrusy-velvety-indulgent-garlic-greek-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-velvety-indulgent-garlic-greek-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T05:51:02Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "velvety",
+    "mood": "indulgent",
+    "technique": "air-fry",
+    "primaryIngredient": "garlic bulb",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Garlic",
+    "descriptor": "Citrusy Velvety Indulgent",
+    "dishForm": "Stir-fry"
+  }
+}
