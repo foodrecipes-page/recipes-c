@@ -1,0 +1,87 @@
+{
+  "title": "Crumbly Italian Almond Crumble",
+  "description": "A nutty and crumbly brunch-mood Italian dish featuring birds-eye chilies and a paleo-friendly twist, perfect for adding some heat to your meals.",
+  "cuisine": "Italian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "pitted almonds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "birds-eye chilies",
+      "amount": "5-6 pieces",
+      "notes": "finely chopped for heat"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "lime zest",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Toast almonds in a small pan until golden, then chop into smaller pieces.",
+    "Mix toasted almonds with other ingredients in a bowl. Combine them gently to ensure a cohesive texture.",
+    "Transfer almond mixture onto a greased baking sheet.",
+    "Bake for 20 minutes or until lightly browned and crisp on top. Serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crumble",
+    "italian",
+    "nutty",
+    "paleo-friendly",
+    "brunch"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 12,
+    "fat": 20
+  },
+  "slug": "crumbly-italian-almond-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-italian-almond-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T10:08:47Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crumbly",
+    "mood": "brunch-mood",
+    "technique": "steam",
+    "primaryIngredient": "birds-eye chillies",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "almonds",
+    "descriptor": "crumbly",
+    "dishForm": "Crumble"
+  }
+}
