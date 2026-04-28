@@ -1,0 +1,74 @@
+{
+  "title": "Crisp Filipino Garlic Stir-fry",
+  "description": "A floral and crisp Filipino dish featuring garlic granules for a post-workout meal with low-sodium options.",
+  "cuisine": "Filipino",
+  "diet": [
+    "low-sodium",
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Garlic Granules",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Mixed Greens",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Low-Sodium Soy Sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Low-Sodium Sesame Oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Pepper",
+      "amount": "A few grinds of black pepper"
+    }
+  ],
+  "instructions": [
+    "Preheat your broiler to high.",
+    "Toss mixed greens with garlic granules and a pinch of salt for flavoring.",
+    "Spread the green mixture evenly on a baking sheet.",
+    "Drizzle mixed greens lightly with low-sodium soy sauce and sesame oil, ensuring even coverage.",
+    "Broil in the preheated oven until the leaves are just tender and crisp, about 3-5 minutes.",
+    "Remove from broiler and add pepper to taste before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "crisp-filipino",
+    "garlic-stir-fry",
+    "low-sodium"
+  ],
+  "nutrition": {
+    "calories": 60,
+    "protein": 4,
+    "carbs": 12,
+    "fat": 3
+  },
+  "slug": "crisp-filipino-garlic-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-filipino-garlic-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T08:56:14Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crisp",
+    "mood": "post-workout",
+    "technique": "broil",
+    "primaryIngredient": "garlic granules",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Garlic",
+    "descriptor": "Crisp",
+    "dishForm": "Stir-fry"
+  }
+}
