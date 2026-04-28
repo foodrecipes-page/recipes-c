@@ -1,0 +1,94 @@
+{
+  "title": "Cozy Sour Creamy American Beef Flank Stir-fry",
+  "description": "A low-carb-friendly and cozy dish featuring tender beef flank steak cooked in a creamy sauce with sour cream for added depth of flavor.",
+  "cuisine": "American",
+  "diet": [
+    "low-carb",
+    "sour",
+    "creamy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Flank Steak",
+      "amount": "1 (8-10 ounce) piece"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Green Onions (Chopped)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Fresh Chives (Chopped)",
+      "amount": "2 teaspoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F.",
+    "Season the beef with salt, pepper, and garlic powder. Grill or pan-sear the steak on high heat for about 5 minutes per side until medium-rare (internal temperature should be around 135°F).",
+    "In a small saucepan, combine heavy cream, cumin powder, olive oil, green onions, fresh chives, and pepper. Stir well to combine.",
+    "Reduce the heat to low and let the sauce simmer for about 10 minutes until slightly thickened.",
+    "Slice the steak against the grain into thin strips and place in a serving dish.",
+    "Pour the creamy sauce over the beef slices and mix well.",
+    "Serve hot as a side or main dish."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 10,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cozy",
+    "american",
+    "beef_flank",
+    "stir-fry",
+    "low_carb"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 26,
+    "carbs": 9,
+    "fat": 14
+  },
+  "slug": "cozy-sour-creamy-american-beef-flank-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-sour-creamy-american-beef-flank-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T14:19:40Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "creamy",
+    "mood": "cozy",
+    "technique": "boil",
+    "primaryIngredient": "beef flank steak",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Beef Flank Steak",
+    "descriptor": "Cozy Sour Creamy",
+    "dishForm": "Stir-fry"
+  }
+}
