@@ -1,0 +1,91 @@
+{
+  "title": "Crunchy Portuguese Rice Crumble",
+  "description": "A herbal and crunchy light portuguese dish featuring rice, whisked with herbs to create a delightful crumble that is nut-free-friendly.",
+  "cuisine": "Portuguese",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "Long-grain white rice"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": "For coating the rice and for making a crispy exterior"
+    },
+    {
+      "name": "Butter",
+      "amount": "3 tablespoons",
+      "notes": "To provide richness and creaminess to the crumble"
+    },
+    {
+      "name": "Cream Cheese",
+      "amount": "1/2 cup",
+      "notes": "For a smooth, creamy texture"
+    },
+    {
+      "name": "Herbs (e.g. parsley, chives, dill)",
+      "amount": "Handful",
+      "notes": "Freshly chopped for herbal flavor"
+    },
+    {
+      "name": "Milk or Heavy Cream",
+      "amount": "1/2 cup",
+      "notes": "For a creamy base of the crumble"
+    },
+    {
+      "name": "Vanilla Extract (optional)",
+      "amount": "1 teaspoon",
+      "notes": "To enhance the flavors"
+    },
+    {
+      "name": "Salt and Pepper to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the rice under cold water until the running water is clear, then drain.",
+    "Combine the rice with vegetable oil in a large mixing bowl. Mix well until all grains are evenly coated.",
+    "Spread the coated rice on a baking sheet and bake at 350°F (175°C) for about 10-12 minutes or until golden brown and crispy.",
+    "In another mixing bowl, combine butter with cream cheese, herbs, milk, and salt. Mix well to ensure all ingredients are evenly combined.",
+    "Pour the creamy mixture over the baked rice, then return it to the oven and bake for an additional 5-7 minutes until heated through and slightly golden.",
+    "Remove from the oven and let it cool before serving. Garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy-portuguese-dish",
+    "whisked-rice-crumble",
+    "nut-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "crunchy-portuguese-rice-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-portuguese-rice-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T06:58:02Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crunchy",
+    "mood": "light",
+    "technique": "whisk",
+    "primaryIngredient": "rice",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Rice",
+    "descriptor": "Crunchy",
+    "dishForm": "Crumble"
+  }
+}
