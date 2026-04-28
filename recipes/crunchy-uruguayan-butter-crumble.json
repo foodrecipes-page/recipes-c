@@ -1,0 +1,66 @@
+{
+  "title": "Crunchy Uruguayan Butter Crumble",
+  "description": "A post-workout dish featuring green olives, reduced in liquid to create a crunchy texture and enhanced with a dash of salt for extra flavor.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Green Olives",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Reduced Beef Broth",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Minced Garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Salt",
+      "amount": "dash"
+    }
+  ],
+  "instructions": [
+    "Mix the reduced beef broth, minced garlic, and a dash of salt in a small bowl.",
+    "Add green olives to the mixture and gently fold everything together until all pieces are coated with the liquid.",
+    "Transfer the mixture to a baking dish or shallow pan.",
+    "Place in preheated oven at 350°F (175°C) for approximately 20 minutes, or until the top is golden brown and crispy."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "uruguayan",
+    "dish",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 163,
+    "protein": 5.9,
+    "carbs": 8.7,
+    "fat": 4.2
+  },
+  "slug": "crunchy-uruguayan-butter-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-uruguayan-butter-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T01:23:46Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crunchy",
+    "mood": "post-workout",
+    "technique": "reduce",
+    "primaryIngredient": "green olives",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Butter",
+    "descriptor": "Crunchy",
+    "dishForm": "Crumble"
+  }
+}
