@@ -1,0 +1,78 @@
+{
+  "title": "Caramelized Crunchy American Carrot Crumble",
+  "description": "A rich and crunchy vegan treat featuring caramelized carrots with a touch of white wine vinegar for extra depth.",
+  "cuisine": "American",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 pound baby carrots",
+      "amount": "all"
+    },
+    {
+      "name": "2 tablespoons vegan butter",
+      "amount": "all"
+    },
+    {
+      "name": "¼ cup granulated sugar",
+      "amount": "all"
+    },
+    {
+      "name": "Pinch salt",
+      "amount": "all"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "all"
+    },
+    {
+      "name": "2 tablespoons white wine vinegar",
+      "amount": "all"
+    }
+  ],
+  "instructions": [
+    "Wash and peel the baby carrots. Halve them lengthwise if desired, but leave them whole for a rustic look.",
+    "Preheat your oven to 350°F (175°C). Grease a baking sheet with vegan butter.",
+    "Arrange the carrot halves on the prepared sheet. Drizzle each half with lemon juice and sprinkle evenly with granulated sugar and salt.",
+    "Drizzle additional vegan butter over the carrots, ensuring they are all coated. Sprinkle more white wine vinegar on top of the butter coating for caramelization.",
+    "Bake in the preheated oven for about 20 minutes or until golden brown and the edges start to crisp up. Carefully flip each half and bake an additional 15 minutes.",
+    "Remove from oven, let cool slightly before serving. The carvets can be served warm as a side dish or cooled to room temperature and enjoyed on its own for a crunchy treat.",
+    "Optional: Serve with a dollop of vegan whipped cream or coconut yogurt for added richness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "caramelized-carrots",
+    "crunchy-dessert",
+    "vegan-butter"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 1,
+    "carbs": 16,
+    "fat": 5
+  },
+  "slug": "caramelized-crunchy-american-carrot-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/caramelized-crunchy-american-carrot-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T00:25:35Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crunchy",
+    "mood": "crowd-pleaser",
+    "technique": "caramelize",
+    "primaryIngredient": "vegan white wine vinegar",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Carrot",
+    "descriptor": "Caramelized",
+    "dishForm": "Crumble"
+  }
+}
