@@ -1,0 +1,93 @@
+{
+  "title": "Creamy Greek Quinoa Stir-fry",
+  "description": "A kid-friendly vegan dish featuring creamy quinoa and self-raising flour, combined with umami flavors for a perfect blend of textures and tastes.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water or vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "self-raising flour (for gluten-free option)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "oil for stir-frying",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4, minced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large, finely chopped"
+    },
+    {
+      "name": "bell peppers (red and yellow)",
+      "amount": "1 cup each, diced"
+    },
+    {
+      "name": "zucchini slices or diced zucchini",
+      "amount": "2 cups"
+    },
+    {
+      "name": "basil leaves for garnish",
+      "amount": "a few, fresh"
+    }
+  ],
+  "instructions": [
+    "Cook quinoa as per package instructions. Rinse under cold water and set aside.",
+    "In a pot, combine quinoa with water or vegetable broth, salt, and self-raising flour if using gluten-free option. Bring to a boil, reduce heat to low, cover, and simmer for about 15 minutes until liquid is absorbed.",
+    "While quinoa cooks, heat oil in a large skillet over medium-high heat. Add minced garlic and onions, sautéing until translucent. Stir in bell peppers and zucchini slices/zucchini chunks.",
+    "Deglaze the pan with 2 tablespoons of water or vegetable broth to release any browned bits from the bottom of the pan. Mix in cooked quinoa and cook for another minute, stirring occasionally until well combined.",
+    "Stir in fresh basil leaves for garnish. Serve warm as a side dish or main course."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "creamy",
+    "greek",
+    "kid-friendly",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 9,
+    "carbs": 36,
+    "fat": 10
+  },
+  "slug": "creamy-greek-quinoa-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-greek-quinoa-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T01:22:23Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "creamy",
+    "mood": "kid-friendly",
+    "technique": "deglaze",
+    "primaryIngredient": "self-raising flour",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "quinoa",
+    "descriptor": "Creamy",
+    "dishForm": "Stir-fry"
+  }
+}
