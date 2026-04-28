@@ -1,0 +1,103 @@
+{
+  "title": "Creamy Filipino Tofu Stir-fry",
+  "description": "A rich and creamy Filipino tofu dish that's perfect for a weeknight meal, featuring pink food coloring to add color and fermenting for added depth of flavor.",
+  "cuisine": "Filipino",
+  "diet": [
+    "high-protein-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "200 grams"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "150 ml"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "100 ml"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "canned tomatoes",
+      "amount": "240 grams"
+    },
+    {
+      "name": "pink food coloring",
+      "amount": "1-2 drops"
+    }
+  ],
+  "instructions": [
+    "Dice the tofu into small cubes.",
+    "Chop the onion and garlic finely. Peel and grate the ginger.",
+    "Heat oil in a wok or large frying pan over medium heat. Add the diced onion, minced garlic, and grated ginger; stir-fry for about 2 minutes until fragrant and slightly softened.",
+    "Add the tomato sauce, soy sauce, water, salt, pepper, and pink food coloring to the pan. Stir well until combined, then let simmer for a minute or two.",
+    "Add the diced tomatoes, tofu cubes, and enough water to cover the ingredients by about 1 inch (2.5 cm). Bring it to a boil, then reduce heat to low and let cook for about 10 minutes, covered, stirring occasionally.",
+    "Adjust seasoning if necessary; add more salt or pepper as needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "filipino",
+    "stir-fry",
+    "rich",
+    "high-protein-friendly"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 25,
+    "carbs": 15,
+    "fat": 9
+  },
+  "slug": "creamy-filipino-tofu-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-filipino-tofu-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T15:54:47Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "creamy",
+    "mood": "weeknight",
+    "technique": "ferment",
+    "primaryIngredient": "pink food colouring",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Tofu",
+    "descriptor": "Creamy",
+    "dishForm": "Stir-fry"
+  }
+}
