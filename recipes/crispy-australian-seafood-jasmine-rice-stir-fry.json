@@ -1,0 +1,95 @@
+{
+  "title": "Crispy Australian Seafood Jasmine Rice Stir-fry",
+  "description": "A succulent and crispy stir-fry featuring aromatic jasmine rice as a side dish, with a touch of umami flavor to complement the fresh seafood.",
+  "cuisine": "Australian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jasmine Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Prawns",
+      "amount": "200g"
+    },
+    {
+      "name": "Scallops",
+      "amount": "8 pieces"
+    },
+    {
+      "name": "Egg Whites",
+      "amount": "3 eggs"
+    },
+    {
+      "name": "Broccoli Florets",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "to taste"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "for garnish"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Shrimp Paste",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Corn Starch",
+      "amount": "to coat prawns and scallops"
+    },
+    {
+      "name": "Oil",
+      "amount": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Rinse jasmine rice and soak in water for about 30 minutes. Cook according to package instructions.",
+    "Prepare the seafood by seasoning prawns with salt, pepper, and corn starch; scallops with salt, pepper, and corn starch. Set aside.",
+    "Heat oil in a wok or large skillet over medium-high heat. Add prawns and scallops. Stir-fry until golden brown, about 2 minutes. Remove from pan.",
+    "In the same pan, add chili flakes and fish sauce. Sauté for about 30 seconds. Return prawns and scallops to the pan, then stir in broccoli florets and shrimp paste. Cook until vegetables are tender, about 5 minutes.",
+    "Stir egg whites into a bowl with 1 tablespoon of water. Pour over seafood mixture. Stir-fry quickly to set the eggs. Add cooked jasmine rice and mix well.",
+    "Garnish with sesame seeds before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy-australian",
+    "umami-solo-dinner",
+    "pescatarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 52,
+    "fat": 18
+  },
+  "slug": "crispy-australian-seafood-jasmine-rice-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-australian-seafood-jasmine-rice-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T02:46:57Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crispy",
+    "mood": "solo-dinner",
+    "technique": "rest",
+    "primaryIngredient": "jasmine rice",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "seafood",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
