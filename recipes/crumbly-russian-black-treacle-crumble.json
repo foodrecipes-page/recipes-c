@@ -1,0 +1,69 @@
+{
+  "title": "Crumbly Russian Black Treacle Crumble",
+  "description": "A herbal, crumbly Russian dish featuring black treacle, perfect for a breakfast snack that's both energizing and plant-based-friendly.",
+  "cuisine": "Russian",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "almond meal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "black treacle",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "chocolate chips (optional)",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F). Grease a baking dish.",
+    "Mix almond meal and black treacle until well combined. If using chocolate chips, fold them into the mixture now.",
+    "Pour the crumble mixture evenly onto the prepared dish. Use your fingers or a fork to create small crumbly pieces.",
+    "Bake for 15-20 minutes, or until golden brown and crisp on top.",
+    "Remove from oven and let cool slightly before serving with fresh berries if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crumbly-russian",
+    "black-treacle-crumble",
+    "herbal-dish",
+    "energizing-snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 18,
+    "fat": 7
+  },
+  "slug": "crumbly-russian-black-treacle-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-russian-black-treacle-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T08:47:15Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crumbly",
+    "mood": "energizing",
+    "technique": "broil",
+    "primaryIngredient": "black treacle",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "black treacle",
+    "descriptor": "crumbly",
+    "dishForm": "Crumble"
+  }
+}
