@@ -1,0 +1,94 @@
+{
+  "title": "Crispy Nutty Coconut Stir-fry",
+  "description": "A quick and easy weeknight Argentinean dish featuring unsweetened coconut milk, sous-vide cooked nuts, and a touch of crispy texture to satisfy any craving.",
+  "cuisine": "Argentine",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "unsweetened coconut milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "sesame oil or vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sliced almonds or peanuts (unsalted)",
+      "amount": "3/4 cup",
+      "notes": "soaked and dried in the fridge for 2 hours before sous-vide cooking at 160°C for 45 minutes, then cooled to room temperature"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "1 tablespoon (use fresh ginger if unavailable)"
+    },
+    {
+      "name": "garlic paste or minced garlic cloves",
+      "amount": "3 cloves",
+      "notes": "about a teaspoon of finely chopped garlic"
+    },
+    {
+      "name": "sugar (optional for sweetness)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt to taste",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh cilantro, chopped (for garnish)",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat your sous-vide machine to 160°C and prepare the nuts by soaking them in water for about 2 hours, then drying them and cooking as per instructions.",
+    "In a large skillet or wok over medium-high heat, add the sesame oil. Once it's hot, add the sliced almonds (or peanuts) and stir-fry until lightly golden brown, about 3-5 minutes.",
+    "Add unsalted butter to the pan and let it melt. Stir in ginger paste, garlic paste, and sugar if using. Cook for about a minute until fragrant and slightly reduced.",
+    "Pour in coconut milk into the pan and bring to a simmer. Adjust seasoning with salt as needed. Allow the mixture to cook down by half or until you get your desired consistency.",
+    "Stir-fry the nutty-coconut mixture over medium-high heat for about 5-7 minutes, stirring occasionally to prevent sticking. You can also transfer this step to a wok if you prefer a more traditional stir-fry look and feel.",
+    "Remove from heat and immediately serve hot with fresh cilantro on top as a garnish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "nutty",
+    "coconut",
+    "stir-fry",
+    "unsweetened",
+    "argentinean",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 304,
+    "protein": 6.5,
+    "carbs": 27.9,
+    "fat": 18.3
+  },
+  "slug": "crispy-nutty-coconut-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-nutty-coconut-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T22:13:07Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crispy",
+    "mood": "weeknight",
+    "technique": "sous-vide",
+    "primaryIngredient": "unsweetened coconut milk",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Coconut",
+    "descriptor": "Nutty Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
