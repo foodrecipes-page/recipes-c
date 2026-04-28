@@ -1,0 +1,81 @@
+{
+  "title": "Chewy Indulgent Citrusy Uruguayan Stir-fry",
+  "description": "A unique and indulgent dish featuring citrusy flavors with a chewy texture, incorporating oregano for depth in this egg-free-friendly Uruguayan recipe.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 can of sweet corn",
+      "amount": "one can"
+    },
+    {
+      "name": "2 medium ripe avocados",
+      "amount": "two"
+    },
+    {
+      "name": "4 tablespoons of lemon juice",
+      "amount": "four tablespoons"
+    },
+    {
+      "name": "3 cloves of garlic, minced",
+      "amount": "three cloves"
+    },
+    {
+      "name": "1/2 cup of fresh parsley leaves",
+      "amount": "half a cup"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Oregano for garnish (optional)",
+      "notes": "Fresh or dried, use sparingly"
+    }
+  ],
+  "instructions": [
+    "Peel the avocados and cut them into cubes.",
+    "Mince the garlic cloves.",
+    "In a mixing bowl, combine the avocado cubes with lemon juice, minced garlic, and salt and pepper to taste. Mix thoroughly until well combined.",
+    "Add the sweet corn can into the bowl with the avocados, mix again.",
+    "Fold in fresh parsley leaves gently without overmixing to maintain texture.",
+    "Garnish with fresh oregano if desired.",
+    "Serve immediately or store refrigerated for up to 24 hours."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "uruguayan",
+    "citrusy",
+    "indulgent",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 208,
+    "protein": 3,
+    "carbs": 36.1,
+    "fat": 14.7
+  },
+  "slug": "chewy-indulgent-citrusy-uruguayan-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-indulgent-citrusy-uruguayan-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T14:49:49Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "chewy",
+    "mood": "indulgent",
+    "technique": "boil",
+    "primaryIngredient": "oregano",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Citrus Peel",
+    "descriptor": "Chewy Indulgent",
+    "dishForm": "Stir-fry"
+  }
+}
