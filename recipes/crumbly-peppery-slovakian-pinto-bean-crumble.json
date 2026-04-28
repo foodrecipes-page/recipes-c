@@ -1,0 +1,102 @@
+{
+  "title": "Crumbly Peppery Slovakian Pinto Bean Crumble",
+  "description": "This adventurous plant-based dish features pinto beans marinated in a peppery sauce for an added depth of flavor, topped with a crumbly crust.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup pinto beans",
+      "amount": "cup"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "cloves"
+    },
+    {
+      "name": "1 red pepper, diced",
+      "amount": "medium"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juice"
+    },
+    {
+      "name": "Salt to taste",
+      "notes": "to season the marinade and crumble"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": ""
+    },
+    {
+      "name": "Vegetable oil for frying",
+      "amount": "as needed"
+    },
+    {
+      "name": "1/2 cup breadcrumbs",
+      "amount": "cup"
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": "medium"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "juice"
+    },
+    {
+      "name": "3 tablespoons vegan butter or margarine",
+      "amount": "tablespoons"
+    }
+  ],
+  "instructions": [
+    "Soak pinto beans overnight and cook until tender. Drain and set aside.",
+    "In a blender, combine cooked pinto beans, garlic, diced red pepper, lemon juice, salt, freshly ground black pepper, and enough water to reach desired consistency for marinade.",
+    "Marinate the beans in this mixture for at least 2 hours or overnight.",
+    "Preheat vegetable oil in a frying pan over medium heat. Add finely chopped onion and sauté until translucent.",
+    "Stir in the crumbled breadcrumbs, lime juice, and vegan butter/margarine. Cook until well combined and golden brown, stirring frequently to prevent burning.",
+    "Spread the pinto bean mixture evenly on a baking dish lined with parchment paper. Pour the breadcrumb mixture over the top.",
+    "Bake at 375°F (190°C) for about 20 minutes or until the topping is crisp and golden.",
+    "Serve warm as a side dish or appetizer."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 20,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crumbly-peppery",
+    "slovakian-dish",
+    "pinto-beans",
+    "marinate",
+    "plant-based-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 32,
+    "fat": 12
+  },
+  "slug": "crumbly-peppery-slovakian-pinto-bean-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-peppery-slovakian-pinto-bean-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T04:27:59Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crumbly",
+    "mood": "adventurous",
+    "technique": "marinate",
+    "primaryIngredient": "pinto beans",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Pinto Beans",
+    "descriptor": "Peppery Crumbly Adventurous",
+    "dishForm": "Crumble"
+  }
+}
