@@ -1,0 +1,90 @@
+{
+  "title": "Crumbly British Cocoa Crumble",
+  "description": "A fresh and crumbly weeknight dish featuring cocoa in a jain-friendly version.",
+  "cuisine": "British",
+  "diet": [
+    "vegan",
+    "jain-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/3 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fine sea salt",
+      "amount": "1/8 tsp"
+    },
+    {
+      "name": "pitted prunes or dates",
+      "amount": "20-30 pieces (adjust based on preference)"
+    },
+    {
+      "name": "coarse oat flour or crushed gluten-free oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "almond meal",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a bowl, mix coconut oil and cocoa powder until well combined.",
+    "Stir in brown sugar, flour, and salt. Mix well until the mixture is crumbly.",
+    "Fold in prunes or dates, making sure they are evenly distributed throughout the mixture.",
+    "Gently fold in oat flour and almond meal to create a thick, crumbly texture.",
+    "Transfer the crumble mix into a greased 8x8 inch baking dish.",
+    "Bake for about 25-30 minutes or until golden brown and crisp on top.",
+    "Let it cool before serving. Serve warm with whipped coconut cream if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "crumble",
+    "british",
+    "dessert",
+    "vegan",
+    "jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 172,
+    "protein": 2.4,
+    "carbs": 18.4,
+    "fat": 10
+  },
+  "slug": "crumbly-british-cocoa-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-british-cocoa-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T09:12:18Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crumbly",
+    "mood": "weeknight",
+    "technique": "pickle",
+    "primaryIngredient": "cocoa",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Cocoa",
+    "descriptor": "Crumbly",
+    "dishForm": "Crumble"
+  }
+}
