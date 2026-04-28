@@ -1,0 +1,102 @@
+{
+  "title": "Crumbly Spicy Date Thai Crumble",
+  "description": "A delectable date-night Thai dish featuring a blend of spiced dates and crunchy spices for a unique crumbly texture suitable for any craving.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup pitted Medjool dates",
+      "amount": "",
+      "notes": "preferably organic and dried"
+    },
+    {
+      "name": "2 tablespoons grated fresh ginger",
+      "amount": "",
+      "notes": "freshly peeled for best flavor"
+    },
+    {
+      "name": "1/4 cup finely chopped roasted red bell pepper",
+      "amount": "",
+      "notes": "optional, adds nice sweetness without overpowering the spices"
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "",
+      "notes": "for depth and warmth"
+    },
+    {
+      "name": "1/2 teaspoon smoked paprika",
+      "amount": "",
+      "notes": "add a touch of smokiness"
+    },
+    {
+      "name": "1/4 teaspoon ground cloves",
+      "amount": "",
+      "notes": "traditional Thai spice, adds complexity to the dish"
+    },
+    {
+      "name": "1/8 teaspoon cayenne pepper (adjustable for heat preference)",
+      "amount": "",
+      "notes": "to add some heat and crunch"
+    },
+    {
+      "name": "1/2 cup unsweetened coconut milk",
+      "amount": "",
+      "notes": "ensure it is full-fat for better texture"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "",
+      "notes": "balances the spices"
+    },
+    {
+      "name": "A few twists of fresh lime juice (optional)",
+      "amount": "",
+      "notes": "for freshness, optional but recommended"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F.",
+    "In a small saucepan, combine dates with ginger, red bell pepper, cumin, smoked paprika, cloves, and cayenne pepper. Mix well until combined.",
+    "Add coconut milk and stir until the mixture reaches an emulsion state. Taste for seasoning; add salt if necessary.",
+    "Transfer the mixture to a baking dish lined with parchment paper or sprayed lightly with cooking spray.",
+    "Bake in preheated oven for 20 minutes, stirring once halfway through.",
+    "Once done, remove from heat and let it cool down slightly before spreading evenly over a serving plate. Sprinkle lime juice on top if desired to enhance the flavors."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crumbly-date-crumble",
+    "spicy-ingredients",
+    "date-night-dish",
+    "sugar-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 27,
+    "fat": 6
+  },
+  "slug": "crumbly-spicy-date-thai-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-spicy-date-thai-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T17:55:11Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crumbly",
+    "mood": "date-night",
+    "technique": "temper",
+    "primaryIngredient": "dried red chillies",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Date",
+    "descriptor": "Spicy Crumbly",
+    "dishForm": "Crumble"
+  }
+}
