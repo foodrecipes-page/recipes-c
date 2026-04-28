@@ -1,0 +1,73 @@
+{
+  "title": "Crispy Tunisian Onion Stir-fry",
+  "description": "A festive nut-free-friendly dish featuring umami flavors and crispy onion pieces in a quick stir-fry.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "1 red bell pepper",
+      "amount": "1 piece"
+    },
+    {
+      "name": "4 large onions",
+      "amount": "2 pieces per person"
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "minced"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juiced"
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "notes": "Adjust seasoning as needed"
+    }
+  ],
+  "instructions": [
+    "Heat a large non-stick skillet over medium-high heat. Add sliced onions and sauté until golden brown, about 5-7 minutes per side.",
+    "Add minced garlic and cook for an additional minute, stirring constantly to avoid burning.",
+    "Push the onions to one side of the pan and add lemon juice to the other side. Allow it to reduce slightly, about 1-2 minutes.",
+    "Return the onions to the non-lemon side and toss everything together for a few more seconds to meld the flavors.",
+    "Season with salt and pepper to taste before serving hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tunisian-onion-stir-fry",
+    "crispy-vegetables",
+    "umami-dish",
+    "nut-free"
+  ],
+  "nutrition": {
+    "calories": 208,
+    "protein": 5.6,
+    "carbs": 34,
+    "fat": 7
+  },
+  "slug": "crispy-tunisian-onion-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-tunisian-onion-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T10:28:37Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crispy",
+    "mood": "festive",
+    "technique": "reduce",
+    "primaryIngredient": "stir-fry vegetables",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Onion",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
