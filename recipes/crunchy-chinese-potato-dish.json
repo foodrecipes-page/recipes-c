@@ -1,0 +1,76 @@
+{
+  "title": "Floral Crunchy Chinese Potato Dish",
+  "description": "A crispy and flavorful dish made with new potatoes for a nostalgic Polish-inspired snack that's also low in fodmap content.",
+  "cuisine": "Polish",
+  "diet": [
+    "low-fodmap"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "New Potatoes",
+      "amount": "2 pounds",
+      "notes": "Approximately 1.8kg"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "3 tablespoons",
+      "notes": "Alternatively use a non-fodmap neutral oil like avocado or safflower oil"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves",
+      "notes": "Mince finely after peeling and chopping into halves"
+    },
+    {
+      "name": "Chives (Scallions)",
+      "amount": "1 bunch",
+      "notes": "Approx. 80g fresh chives, chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 425°F (220°C). Rinse the new potatoes under cold water and pat dry with paper towels.",
+    "In a large mixing bowl, combine olive oil, minced garlic, and chopped chives. Mix thoroughly until evenly distributed in the dressing.",
+    "Gently add the peeled and halved new potatoes to the dressing, ensuring they are well coated with the mixture. Toss gently but firmly so all of them absorb the seasoning.",
+    "Transfer the seasoned potatoes onto a baking sheet lined with parchment paper for easy clean-up. Arrange them in a single layer to ensure even cooking.",
+    "Broil the dish for about 12 minutes, or until they reach a golden-brown crust on top and are crispy throughout. Flip occasionally during the broiling process to ensure consistent browning.",
+    "Remove from oven once ready. Let it rest for a couple of minutes before serving hot as a snack with your favorite accompaniments."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "floral",
+    "crunchy",
+    "nachos",
+    "paleo",
+    "low-carb",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 315,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "crunchy-chinese-potato-dish",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-chinese-potato-dish",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T08:17:45Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crunchy",
+    "mood": "nostalgic",
+    "technique": "broil",
+    "primaryIngredient": "new potatoes",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "potato",
+    "descriptor": "crunchy",
+    "dishForm": "Dish"
+  }
+}
