@@ -1,0 +1,78 @@
+{
+  "title": "Creamy Mexican Chocolate Stir-fry",
+  "description": "A dense, salty date-night Venezuelan dish featuring white vinegar and diabetic-friendly friendly flavors.",
+  "cuisine": "Mexican",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1/2 cup dark chocolate chips",
+      "amount": "cup",
+      "notes": "For a richer taste"
+    },
+    {
+      "name": "3 tablespoons all-purpose flour",
+      "amount": "tablespoons",
+      "notes": "To thicken the sauce"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch",
+      "notes": "Add to taste"
+    },
+    {
+      "name": "1/4 cup white vinegar",
+      "amount": "cup",
+      "notes": "For a tangy flavor"
+    },
+    {
+      "name": "2 tablespoons unsalted butter",
+      "amount": "tablespoons",
+      "notes": "To melt and sauté the chocolate"
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, combine dark chocolate chips with white vinegar and all-purpose flour. Stir until smooth.",
+    "Over medium heat, add unsalted butter to the saucepan and stir until fully melted.",
+    "Increase heat to medium-high and cook mixture for about 2 minutes or until slightly thickened.",
+    "Remove from heat and adjust seasoning with additional salt if needed.",
+    "Serve immediately as a snack or appetizer."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "creamy",
+    "mexican",
+    "chocolate",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 3,
+    "carbs": 8,
+    "fat": 4
+  },
+  "slug": "creamy-mexican-chocolate-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-mexican-chocolate-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T17:43:05Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "simmer",
+    "primaryIngredient": "white vinegar",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chocolate",
+    "descriptor": "Creamy",
+    "dishForm": "Stir-fry"
+  }
+}
