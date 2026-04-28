@@ -1,0 +1,100 @@
+{
+  "title": "Crunchy Herbal Tofu Stir-fry",
+  "description": "A show-off Croatian dish featuring marinated tofu, infused with herbs and served as a vegetarian-friendly meal.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Extra-firm Tofu",
+      "amount": "2 blocks (about 1kg total)",
+      "notes": "Marinated and cubed"
+    },
+    {
+      "name": "Watercress leaves",
+      "amount": "3 handfuls",
+      "notes": "Fresh and young for crunchiness"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4-6 cloves, minced",
+      "notes": "For flavoring"
+    },
+    {
+      "name": "Shallots",
+      "amount": "2-3 small shallot slices",
+      "notes": "Halved or finely chopped"
+    },
+    {
+      "name": "Paprika powder",
+      "amount": "1/2 teaspoon",
+      "notes": "To add a touch of heat and color"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For stir-frying and marinating"
+    },
+    {
+      "name": "Water (for soaking tofu)",
+      "amount": "-",
+      "notes": "Necessary to soften the tofu before use"
+    },
+    {
+      "name": "Bok Choy stalks",
+      "amount": "1-2 large, finely chopped",
+      "notes": "For a green pop and extra crunch"
+    }
+  ],
+  "instructions": [
+    "Soak the tofu in water for about 30 minutes. Drain and cube it.",
+    "Marinate the cubed tofu with olive oil, paprika powder, salt (to taste), and any other desired herbs or spices like thyme, basil, or dill.",
+    "Preheat a wok or large skillet over high heat. Add olive oil to coat the bottom of the pan.",
+    "Once hot, add shallot slices to the pan. Cook until they start to brown and release their flavors (about 2-3 minutes).",
+    "Add minced garlic and cook for another minute until fragrant.",
+    "Gently fold in the marinated tofu cubes, allowing them to sit and absorb some of the oil and flavor from the shallots and garlic.",
+    "Season with salt and pepper based on your preference. Stir well to combine all ingredients evenly distributed.",
+    "Once cooked through, remove tofu from the pan and set aside.",
+    "In the same pan, add chopped bok choy if using. Cook until just wilted (about 2-3 minutes).",
+    "Return the tofu cubes back into the pan with the bok choy. Toss everything together ensuring a well-coordinated stir-fry process to meld all flavors.",
+    "Serve hot and garnish with fresh watercress leaves if desired for additional crunchiness."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy-herbal-tofu-stir-fry",
+    "show-off-croatian-dish",
+    "marinated-tofu",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 375,
+    "protein": 21,
+    "carbs": 6,
+    "fat": 20
+  },
+  "slug": "crunchy-herbal-tofu-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-herbal-tofu-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T13:36:44Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crunchy",
+    "mood": "show-off",
+    "technique": "deglaze",
+    "primaryIngredient": "marinated tofu",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Herbal",
+    "mainIngredient": "Tofu",
+    "descriptor": "Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
