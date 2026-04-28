@@ -1,0 +1,98 @@
+{
+  "title": "Citrusy Creamy Indulgent Apricot Stir-fry",
+  "description": "A delightful and indulgent Korean-inspired dish featuring apricot jam in a creamy sauce over tender vegetables or noodles.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Apricot Jam",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "Tapioca Flour (or Cornstarch)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2-3, julienned"
+    },
+    {
+      "name": "Broccoli florets",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Noodles (optional)",
+      "amount": "-"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "a sprinkle for garnish"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "-"
+    }
+  ],
+  "instructions": [
+    "Preheat a pan over medium heat. Add apricot jam, vegetable broth, tapioca flour/water mixture, garlic, and onion to the pan.",
+    "Stir until the mixture thickens slightly, about 2-3 minutes.",
+    "Add carrots and broccoli florets to the saucepan. Stir occasionally for 5-7 minutes or until vegetables are tender but still crisp.",
+    "For noodles, bring water to a boil, add noodles, and cook according to package instructions. Drain well.",
+    "Toss cooked noodles into the pan with vegetable mixture, adding salt and pepper to taste.",
+    "Sprinkle sesame seeds on top if desired. Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "creamy",
+    "indulgent",
+    "korean",
+    "apricot_jam",
+    "plant_based"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 7,
+    "carbs": 39,
+    "fat": 6
+  },
+  "slug": "citrusy-creamy-indulgent-apricot-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-creamy-indulgent-apricot-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T18:35:52Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "creamy",
+    "mood": "indulgent",
+    "technique": "rest",
+    "primaryIngredient": "apricot jam",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Apricot",
+    "descriptor": "Citrusy Creamy Indulgent",
+    "dishForm": "Stir-fry"
+  }
+}
