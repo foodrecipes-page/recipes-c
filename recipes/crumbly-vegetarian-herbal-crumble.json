@@ -1,0 +1,97 @@
+{
+  "title": "Crumbly Vegetarian Herbal Crumble",
+  "description": "A decadent and indulgent Venezuelan dish featuring a blend of herbs, yellow peppers, and other vegetables in a crumbly texture that's perfect for breakfast or as a side.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "yellow pepper",
+      "amount": "1 medium",
+      "notes": "seeded and finely chopped"
+    },
+    {
+      "name": "spinach",
+      "amount": "2 cups fresh, washed and chopped"
+    },
+    {
+      "name": "avocado",
+      "amount": "1 ripe, diced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp fresh"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch, finely grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 tsp ground"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "10 whole, lightly toasted and crushed"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "aloe vera gel",
+      "amount": "2 tbsp (for texture only, not required for flavor)"
+    },
+    {
+      "name": "pecans",
+      "amount": "1/4 cup, finely chopped"
+    }
+  ],
+  "instructions": [
+    "Combine all ingredients except pecans in a mixing bowl.",
+    "Mix well until all vegetables are fully coated with the herb mixture.",
+    "Fold in pecans last for added texture and crunch.",
+    "Transfer to an oven-safe dish and bake at 350°F (175°C) for about 25-30 minutes or until golden brown and crispy on top.",
+    "Serve warm as a dessert, side dish, or snack."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crumbly-vegetarian",
+    "indulgent-venezuelan",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 6,
+    "carbs": 14,
+    "fat": 18
+  },
+  "slug": "crumbly-vegetarian-herbal-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-vegetarian-herbal-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T06:53:02Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crumbly",
+    "mood": "indulgent",
+    "technique": "fold",
+    "primaryIngredient": "yellow pepper",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Vegetarian",
+    "mainIngredient": "Herbs",
+    "descriptor": "crumbly",
+    "dishForm": "Crumble"
+  }
+}
