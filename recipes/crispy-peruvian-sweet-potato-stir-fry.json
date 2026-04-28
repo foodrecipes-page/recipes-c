@@ -1,0 +1,94 @@
+{
+  "title": "Crispy Peruvian Sweet Potato Stir-fry",
+  "description": "A fresh and adventurous peruvian dish featuring crispy sweet potatoes drizzled with dark soft brown sugar, seasoned for a touch of sweetness and spice, perfect as a diabetic-friendly snack.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sweet potato",
+      "amount": "2 medium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3 finely chopped",
+      "notes": "about half a teaspoon of garlic powder can be used as a substitute for the fresh ones"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "a pinch"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "a pinch"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "dark soft brown sugar",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "salt to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (205°C).",
+    "Wash the sweet potatoes and scrub off any dirt. Cut them into thin slices, about 1/8-inch thick.",
+    "In a shallow dish, toss the potato slices with olive oil, salt, and finely chopped garlic. Toss well to coat evenly.",
+    "Spread the coated potato slices in a single layer on a baking sheet lined with parchment paper.",
+    "Roast for about 20 minutes or until golden brown and crispy, stirring halfway through cooking time.",
+    "In another small saucepan over medium heat, melt the dark soft brown sugar with red chili flakes. Stir continuously to prevent burning.",
+    "Once the sweet potatoes are roasted and cool enough to handle, stir in the caramelized sugar mixture evenly across all slices.",
+    "Garnish with fresh cilantro before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "sweet-potato",
+    "crispy",
+    "adventurous",
+    "snack",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 38,
+    "fat": 7
+  },
+  "slug": "crispy-peruvian-sweet-potato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-peruvian-sweet-potato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T06:20:33Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crisp",
+    "mood": "adventurous",
+    "technique": "grill",
+    "primaryIngredient": "dark soft brown sugar",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "sweet potato",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
