@@ -1,0 +1,83 @@
+{
+  "title": "Crunchy Light German Herbs Stir-fry",
+  "description": "A light and crunchy dish featuring ketchup as a unique ingredient, combined with gluten-free-friendly herbs for a refreshing meal.",
+  "cuisine": "German",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ketchup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Gluten-Free Tamari Sauce (or Gluten-Free Soy Sauce)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks, finely chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 medium carrot, julienned"
+    },
+    {
+      "name": "Lettuce (for garnish)",
+      "amount": "5-6 leaves, shredded"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Herbs (e.g., parsley, dill)",
+      "amount": "1 tablespoon dried or 2 tablespoons fresh, chopped"
+    },
+    {
+      "name": "Sesame Seeds (optional for garnish)",
+      "amount": "a few sprinkles"
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, heat ketchup and tamari to warm.",
+    "Add garlic, celery, carrots, herbs, and sesame seeds if using. Stir well.",
+    "Gently cook the mixture for about 3 minutes until all vegetables are tender but not mushy.",
+    "Serve hot with lettuce leaves as a garnish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy-german-herbs-stir-fry",
+    "light-ketchup-dish",
+    "gluten-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 3
+  },
+  "slug": "crunchy-light-german-herbs-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-light-german-herbs-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T21:53:36Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crunchy",
+    "mood": "light",
+    "technique": "temper",
+    "primaryIngredient": "ketchup",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Herbs",
+    "descriptor": "Crunchy Light",
+    "dishForm": "Stir-fry"
+  }
+}
