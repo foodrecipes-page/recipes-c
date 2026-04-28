@@ -1,0 +1,78 @@
+{
+  "title": "Crumbly Show-off French Stir-fry",
+  "description": "A low-calorie-friendly garlicky crumbly show-off French dish featuring jasmine rice in a quick stir-fry.",
+  "cuisine": "French",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "jasmine rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "6"
+    },
+    {
+      "name": "chopped bell peppers",
+      "amount": "2 cups"
+    },
+    {
+      "name": "chopped celery stalks",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp"
+    }
+  ],
+  "instructions": [
+    "Rinse and cook jasmine rice according to package directions.",
+    "Mince garlic cloves. Heat olive oil in a large skillet over medium-high heat.",
+    "Add minced garlic, bell peppers, and celery stalks to the skillet. Cook for about 5 minutes or until vegetables are crisp-tender.",
+    "Stir in tomato sauce and cook for an additional minute. Add cooked jasmine rice and mix well.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crumbly-show-off-french-dish",
+    "garlicky",
+    "low-calorie-friendly",
+    "japanese-american"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "crumbly-show-off-french-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-show-off-french-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T15:38:02Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crumbly",
+    "mood": "show-off",
+    "technique": "saute",
+    "primaryIngredient": "jasmine rice",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Garlic",
+    "descriptor": "Crumbly Show-off",
+    "dishForm": "Stir-fry"
+  }
+}
