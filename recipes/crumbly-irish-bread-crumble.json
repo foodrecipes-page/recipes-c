@@ -1,0 +1,89 @@
+{
+  "title": "Crumbly Irish Bread Crock-Pot Caramel Sauce Hangover Cure",
+  "description": "A hearty Irish dish featuring crumbly bread, caramel sauce, and a gentle braise to help cure hangovers, perfect for breakfast or snack time.",
+  "cuisine": "Irish",
+  "diet": [
+    "low-carb",
+    "ketogenic",
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 slices bread",
+      "amount": "1 loaf",
+      "notes": "Use any type of bread, but whole grain is recommended."
+    },
+    {
+      "name": "2 tablespoons butter",
+      "amount": "softened"
+    },
+    {
+      "name": "1/4 cup heavy cream",
+      "amount": "freshly whipped"
+    },
+    {
+      "name": "1 teaspoon ground cinnamon",
+      "amount": "optional for extra flavor"
+    },
+    {
+      "name": "Pinch salt and pepper",
+      "notes": "to taste"
+    },
+    {
+      "name": "1/2 cup granulated sugar",
+      "amount": "for caramel sauce"
+    },
+    {
+      "name": "3 tablespoons corn syrup or honey (as sweetener)",
+      "amount": "or substitute of choice"
+    },
+    {
+      "name": "1/4 cup water",
+      "amount": "boiling for caramel sauce"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 325°F (160°C).",
+    "Cut bread into bite-sized pieces and place them in a small, heat-safe container.",
+    "Melt the softened butter with cinnamon and salt/pepper mix on low heat, stirring frequently until fully melted. Pour this mixture over the bread pieces, gently tossing to coat evenly.",
+    "Cover the container tightly with foil or plastic wrap and place it in the oven for 45 minutes or until tender but still crumbly.",
+    "Meanwhile, in a small saucepan, combine sugar, corn syrup, water, and optional sweetener. Heat over medium-high heat until thickened like caramel sauce (carefully removing from heat when done to prevent scorching).",
+    "Gently spoon the hot caramel over the bread pieces, distributing evenly while hot.",
+    "Allow to cool before serving with a side of yogurt or berries for added nutrients."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "crumbly",
+    "irish-bread",
+    "hangover-cure"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 20
+  },
+  "slug": "crumbly-irish-bread-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-irish-bread-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T03:53:55Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crumbly",
+    "mood": "hangover-cure",
+    "technique": "braise",
+    "primaryIngredient": "caramel sauce",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Bread",
+    "descriptor": "Crumbly",
+    "dishForm": "Crumble"
+  }
+}
