@@ -1,0 +1,102 @@
+{
+  "title": "Citrusy Crispy Moroccan Braeburn Apple Stir-fry",
+  "description": "A low-calorie-friendly citrusy and crispy Moroccan dish featuring Braeburn apples marinated in a tangy sauce before being stir-fried with aromatic spices to create a crowd-pleaser.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "Braeburn apples",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Minced garlic cloves",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Thyme leaves",
+      "amount": "a few sprigs (optional)"
+    },
+    {
+      "name": "Pomegranate molasses",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Fennel seeds",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Baking soda",
+      "amount": "a pinch (for crispy texture)"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Wash and core the apples. Slice them into thin rounds.",
+    "In a mixing bowl, combine olive oil, minced garlic, lemon juice, dijon mustard, thyme leaves (if using), pomegranate molasses, cumin seeds, fennel seeds, salt, pepper, and baking soda. Mix well to create the marinade.",
+    "Add sliced apples to the marinade and mix thoroughly. Let them marinate for at least 30 minutes or up to an hour in the fridge for best flavor.",
+    "Heat a non-stick skillet over medium heat. Once hot, add a tablespoon of olive oil followed by a generous amount of apple slices. Sprinkle paprika on top of each slice and cook until golden brown and crispy around the edges.",
+    "Drizzle with additional lemon juice to enhance the citrusy flavor and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "crispy",
+    "moroccan",
+    "apple",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 130,
+    "protein": 2,
+    "carbs": 24,
+    "fat": 5
+  },
+  "slug": "citrusy-crispy-moroccan-braeburn-apple-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-crispy-moroccan-braeburn-apple-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T08:23:13Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crispy",
+    "mood": "crowd-pleaser",
+    "technique": "marinate",
+    "primaryIngredient": "braeburn apples",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Braeburn Apple",
+    "descriptor": "Citrusy Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
