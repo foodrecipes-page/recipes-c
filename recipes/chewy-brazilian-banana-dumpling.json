@@ -1,0 +1,77 @@
+{
+  "title": "Floral Chewy Banana Dumpling",
+  "description": "A whole30-friendly dessert that combines bananas and other fruits to create a chewy base with floral notes suitable for hangover-cures.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ripe bananas",
+      "amount": "2 medium"
+    },
+    {
+      "name": "dates",
+      "amount": "10 medium",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "chopped nuts (almond, cashew)",
+      "amount": "2 tablespoons each",
+      "notes": "for added texture and flavor"
+    },
+    {
+      "name": "coconut flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "maple syrup or honey",
+      "amount": "3 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Mash bananas in a bowl with dates, soaking nuts, coconut flakes, and maple syrup until smooth.",
+    "Fold in mashed bananas mixture into the dates mixture until evenly combined.",
+    "Shape the mixture into small dumplings using your hands or a cookie scoop.",
+    "Place dumplings on a baking sheet lined with parchment paper.",
+    "Bake at 350°F (175°C) for about 20 minutes, or until golden brown.",
+    "Allow to cool and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "banana",
+    "dates",
+    "dumpling",
+    "whole30",
+    "hangover"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 27,
+    "fat": 6
+  },
+  "slug": "chewy-brazilian-banana-dumpling",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-brazilian-banana-dumpling",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T22:25:39Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "chewy",
+    "mood": "hangover-cure",
+    "technique": "dum",
+    "primaryIngredient": "fruit mix",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "banana",
+    "descriptor": "Chewy Whole30-friendly",
+    "dishForm": "Dumpling"
+  }
+}
