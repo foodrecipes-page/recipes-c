@@ -1,0 +1,109 @@
+{
+  "title": "Crispy Citrus Slovakian Stir-fry",
+  "description": "This citrusy, crispy dish features truffle oil, deglazing with balsamic vinegar, and Mediterranean-friendly flavors.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Romaine lettuce",
+      "amount": "4 cups",
+      "notes": "Includes leaves and stems"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 cup halved",
+      "notes": "Use cherry tomatoes for added pop of color"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tablespoons",
+      "notes": "Extra virgin olive oil for added flavor and health benefits"
+    },
+    {
+      "name": "White wine vinegar",
+      "amount": "2 tablespoons",
+      "notes": "To deglaze the pan, making a quick reduction for extra depth of flavor"
+    },
+    {
+      "name": "Balsamic vinegar",
+      "amount": "1 tablespoon",
+      "notes": "For added tang and to deglaze the pan"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "To finish, adding a touch more for that golden-brown color and flavor"
+    },
+    {
+      "name": "Pecorino romano cheese",
+      "amount": "1/4 cup finely grated",
+      "notes": "For added tangy richness"
+    },
+    {
+      "name": "Truffle oil",
+      "amount": "2 teaspoons",
+      "notes": "To elevate the dish with a subtle, earthy flavor"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3 medium, minced",
+      "notes": "Enhances the flavors of both tomatoes and truffle oil"
+    },
+    {
+      "name": "Fresh dill sprigs",
+      "amount": "1/4 cup chopped",
+      "notes": "For a fresh, herbaceous finish"
+    },
+    {
+      "name": "Paprika",
+      "amount": "A pinch to taste",
+      "notes": "To add color and slightly spicy notes"
+    }
+  ],
+  "instructions": [
+    "In a large skillet, heat the olive oil over medium-high heat. Add the minced garlic and cook until fragrant, about 30 seconds.",
+    "Add cherry tomatoes and balsamic vinegar to deglaze the pan and reduce by half. Simmer for another minute or two till slightly thickened.",
+    "Stir in truffle oil just before adding the reduced tomato sauce back into the skillet. Toss well to combine.",
+    "Add Romaine leaves, tossing with the cherry tomato reduction until they wilt slightly but retain their crunch and color.",
+    "Top the wilting Romaine with finely grated Pecorino Romano cheese. Let it melt gently in the heat of the skillet.",
+    "Sprinkle fresh dill on top for garnish and a pop of freshness. Finish with a pinch of paprika to enhance its colors and subtle spiciness.",
+    "Serve hot, alongside crusty bread or as a side dish for your dinner party to impress everyone."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrus",
+    "crispy",
+    "slovakian",
+    "stir-fry",
+    "truffle oil"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 7,
+    "carbs": 43,
+    "fat": 15
+  },
+  "slug": "crispy-citrus-slovakian-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-citrus-slovakian-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T23:47:49Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crispy",
+    "mood": "show-off",
+    "technique": "deglaze",
+    "primaryIngredient": "truffle oil",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Citrus",
+    "descriptor": "crispy",
+    "dishForm": "Stir-fry"
+  }
+}
