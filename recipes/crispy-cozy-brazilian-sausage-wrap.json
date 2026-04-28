@@ -1,0 +1,89 @@
+{
+  "title": "Crispy Cozy Brazilian Sausage Wrap",
+  "description": "An earthy and cozy dish featuring crispy sausages folded into a wrap, low in calories, perfect for a quick lunch.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Whole wheat tortilla",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "Low-fat sausage links",
+      "amount": "4 links",
+      "notes": "Cooked according to package instructions."
+    },
+    {
+      "name": "Mixed greens",
+      "amount": "1 cup fresh or 2 tbsp chopped frozen"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1/4 avocado, diced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 small, finely chopped"
+    },
+    {
+      "name": "Fresh cilantro leaves",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Low-fat mayonnaise or mustard spread",
+      "amount": "2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick skillet over medium heat. Break the tortillas into quarters and lightly toast each quarter for about 1 minute on each side.",
+    "In a small bowl, mix together lemon juice and mayonnaise or mustard spread to make the dressing.",
+    "Slice the sausages in half crosswise and cook them until they are nicely browned and slightly crispy, around 5-7 minutes total. Let cool before assembling.",
+    "On each tortilla quarter, place a few mixed greens leaves, tomato slices, avocado cubes, onion slivers, cilantro leaves, and dollop with the dressing mixture.",
+    "Top with cooked sausage halves and roll up tightly to serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cozy",
+    "crispy",
+    "brazilian"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 8,
+    "carbs": 23,
+    "fat": 9
+  },
+  "slug": "crispy-cozy-brazilian-sausage-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-cozy-brazilian-sausage-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T01:25:31Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crispy",
+    "mood": "cozy",
+    "technique": "fold",
+    "primaryIngredient": "sausages",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Sausage",
+    "descriptor": "Crispy Cozy",
+    "dishForm": "Wrap"
+  }
+}
