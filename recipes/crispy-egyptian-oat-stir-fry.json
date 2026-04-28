@@ -1,0 +1,86 @@
+{
+  "title": "Crispy Egyptian Oat Stir-fry",
+  "description": "An earthy and crispy solo-dinner egyptian dish featuring oat milk in a pescatarian-friendly steam-cooked recipe.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oat milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mixed vegetables (e.g., carrots, bell peppers)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3 cloves"
+    }
+  ],
+  "instructions": [
+    "Combine oat milk, mixed vegetables, and soy sauce in a bowl.",
+    "Steam the mixture for about 5 minutes until all vegetables are tender.",
+    "In a separate pan, lightly toast pine nuts and sesame seeds for added crunchiness.",
+    "Add minced garlic and ginger to the steamed vegetables. Stir well.",
+    "Toss with toasted pine nuts and sesame seeds.",
+    "Drizzle lemon juice over the stir-fry to enhance flavors and add brightness."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 5,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "stir-fry",
+    "oat-milk",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 8
+  },
+  "slug": "crispy-egyptian-oat-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-egyptian-oat-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T01:51:54Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crispy",
+    "mood": "solo-dinner",
+    "technique": "steam",
+    "primaryIngredient": "oat milk",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Oats",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
