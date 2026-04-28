@@ -1,0 +1,102 @@
+{
+  "title": "Citrusy Velvety Lemon Turkish Stir-fry",
+  "description": "A low-calorie-friendly, citrusy and velvety post-workout dish featuring cinnamon to enhance the flavors of lemon in a traditional Turkish style.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb lean ground beef",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Juice of 3 lemons",
+      "amount": "6 oz (170g) juice"
+    },
+    {
+      "name": "4 cloves garlic, minced",
+      "amount": "TBD"
+    },
+    {
+      "name": "2 medium onions, finely chopped",
+      "amount": "1 cup"
+    },
+    {
+      "name": "1 red bell pepper, thinly sliced",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "1 yellow onion, finely chopped",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Pinch of cumin",
+      "amount": "TBD pinch"
+    },
+    {
+      "name": "Pinch of cinnamon powder",
+      "amount": "TBD pinches"
+    },
+    {
+      "name": "1 can (8 oz) low-sodium chicken broth",
+      "amount": "1 can"
+    },
+    {
+      "name": "Juice of 2 limes",
+      "amount": "4 oz (115g) juice"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "TBD pinch"
+    },
+    {
+      "name": "Pinch of black pepper",
+      "amount": "TBD pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat broiler. Season ground beef with salt and pepper.",
+    "Sauté minced garlic in a large skillet until fragrant, about 1 minute.",
+    "Add onions, bell peppers, and cinnamon; stir-fry for 5 minutes or until the vegetables are translucent.",
+    "Mix in ground beef, lemon juice from all lemons (6 oz), chicken broth, lime juice, salt, and pepper. Stir well to combine.",
+    "Bring the mixture to a simmer. Reduce heat to medium-low and let it cook uncovered, stirring occasionally, for 15-20 minutes or until slightly thickened.",
+    "Serve hot as a main dish with whole grain bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "velvety",
+    "post-workout",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 287,
+    "protein": 21,
+    "carbs": 24,
+    "fat": 9
+  },
+  "slug": "citrusy-velvety-lemon-turkish-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-velvety-lemon-turkish-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T15:11:07Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "velvety",
+    "mood": "post-workout",
+    "technique": "broil",
+    "primaryIngredient": "cinnamon",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lemon",
+    "descriptor": "Citrusy Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
