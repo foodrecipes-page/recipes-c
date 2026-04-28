@@ -1,0 +1,85 @@
+{
+  "title": "Creamy Garlic Syrian Stir-fry",
+  "description": "A romantic and flavorful dish featuring a creamy garlic salsa with pescatarian-friendly options.",
+  "cuisine": "Syrian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4",
+      "notes": "For best flavor, use fresh garlic"
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "1 cup",
+      "notes": "Any mild tomato-based sauce can be used"
+    },
+    {
+      "name": "Greek yogurt or coconut cream",
+      "amount": "1/2 cup",
+      "notes": "For a creamy texture"
+    },
+    {
+      "name": "Red pepper flakes (optional)",
+      "amount": "a few twists",
+      "notes": "To add heat, if desired"
+    },
+    {
+      "name": "Fresh parsley or cilantro leaves",
+      "amount": "handful",
+      "notes": "For garnish and color"
+    },
+    {
+      "name": "Watercress or spinach (optional)",
+      "amount": "1 cup fresh",
+      "notes": "To add freshness and texture, if preferred"
+    }
+  ],
+  "instructions": [
+    "Heat a pan with olive oil over medium heat.",
+    "Add minced garlic and cook until fragrant but not browned.",
+    "Stir in tomato sauce and red pepper flakes (if using).",
+    "Reduce the mixture to a thick consistency by simmering for about 5 minutes.",
+    "Fold in Greek yogurt or coconut cream while stirring continuously.",
+    "Let cool slightly before serving. Add fresh watercress or spinach if desired.",
+    "Garnish with parsley or cilantro leaves."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlic",
+    "creamy",
+    "stir-fry",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "creamy-garlic-syrian-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-garlic-syrian-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T02:24:28Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "fold",
+    "primaryIngredient": "salsa",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Garlic",
+    "descriptor": "Creamy",
+    "dishForm": "Stir-fry"
+  }
+}
