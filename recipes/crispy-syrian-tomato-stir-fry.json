@@ -1,0 +1,83 @@
+{
+  "title": "Crispy Syrian Tomato Stir-fry",
+  "description": "A comforting low-carb-friendly sour dish featuring tomatoes that are caramelized to perfection and served crispy on top.",
+  "cuisine": "Syrian",
+  "diet": [
+    "low-carb",
+    "sour"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "4 medium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4 cloves"
+    },
+    {
+      "name": "onion, finely chopped",
+      "amount": "1"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "a pinch"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "lemon juice or vinegar",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Cut the tomatoes into wedges and place them in a mixing bowl.",
+    "Slice the onions thinly, mince the garlic cloves finely, and lightly crush red pepper flakes.",
+    "Heat olive oil in a wok or large skillet over medium-high heat. Add the crushed garlic and onion, cooking until translucent (about 2 minutes).",
+    "Add salt and lemon juice/vinegar to taste, stirring well to combine.",
+    "Toss tomatoes with the sauce mixture, ensuring they are evenly coated. Cook for about a minute on each side, or until slightly softened but still crisp.",
+    "Sprinkle red pepper flakes over the tomatoes and toss again to distribute evenly. Remove from heat immediately after adding red pepper flakes to prevent burning.",
+    "Serve hot as a side dish with pita bread or hummus."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "sour",
+    "syrian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 6,
+    "carbs": 8,
+    "fat": 7
+  },
+  "slug": "crispy-syrian-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-syrian-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T08:10:28Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crispy",
+    "mood": "comforting",
+    "technique": "caramelize",
+    "primaryIngredient": "tomatoes",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "tomato",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
