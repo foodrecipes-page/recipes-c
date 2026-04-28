@@ -1,0 +1,83 @@
+{
+  "title": "Crunchy Smoky Tomato Stir-fry",
+  "description": "A savory and crunchy Venezuelan dish featuring hot smoked paprika in a whole30-friendly recipe that's perfect for sick days.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "onions",
+      "amount": "1 small"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4-6"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "hot smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "unsweetened pineapple juice or water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat a pan over medium heat.",
+    "Add chopped onions and sauté until translucent, about 5 minutes.",
+    "Add minced garlic and cook for an additional minute.",
+    "Add halved tomatoes to the pan. Cover with pineapple juice or water and bring to a simmer.",
+    "Stir in hot smoked paprika and season with salt and pepper to taste.",
+    "Simmer for about 10-15 minutes, stirring occasionally until tomatoes are tender but still have some texture.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "smoky",
+    "tomato",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 6,
+    "carbs": 25,
+    "fat": 7
+  },
+  "slug": "crunchy-smoky-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-smoky-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T03:14:18Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crunchy",
+    "mood": "sick-day",
+    "technique": "knead",
+    "primaryIngredient": "hot smoked paprika",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "tomato",
+    "descriptor": "Crunchy Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
