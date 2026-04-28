@@ -1,0 +1,88 @@
+{
+  "title": "Chewy Medivial Mediterranean Pomegranate Stir-fry",
+  "description": "A rich, chewy, romantic Polish dish featuring Szechuan peppercorns and pomegranates in a mediterranean-friendly twist, perfect for adding a delightful twist to your dinner table.",
+  "cuisine": "Polish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 pound ground beef",
+      "amount": "lb"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 large onion, finely chopped",
+      "amount": ""
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 (14.5 oz) can diced tomatoes",
+      "amount": "can"
+    },
+    {
+      "name": "2 cups pomegranate arils",
+      "amount": "cup"
+    },
+    {
+      "name": "1 tablespoon grated fresh ginger",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon Szechuan peppercorns",
+      "amount": ""
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add ground beef to the skillet and cook until browned, breaking it into small pieces as it cooks. Season with salt and pepper.",
+    "Add onion and garlic to the skillet; sauté for about 5 minutes or until softened.",
+    "Stir in diced tomatoes along with their juice, ginger, Szechuan peppercorns, and a splash of water (about 1/4 cup). Let it simmer for about 10 minutes.",
+    "Increase heat to high and add pomegranate arils. Stir well to combine and cook for an additional 5-7 minutes or until the sauce thickens slightly and all ingredients are heated through.",
+    "Serve hot as a main dish, garnished with extra pomegranate arils if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish-dinner",
+    "mediterranean-friendly",
+    "szechuan-peppercorn",
+    "romantic-recipe"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 24,
+    "carbs": 15,
+    "fat": 16
+  },
+  "slug": "chewy-medivial-mediterranean-pomegranate-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-medivial-mediterranean-pomegranate-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T20:50:36Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "chewy",
+    "mood": "romantic",
+    "technique": "bake",
+    "primaryIngredient": "szechuan peppercorns",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "pomegranate",
+    "descriptor": "Chewy Medivial",
+    "dishForm": "Stir-fry"
+  }
+}
