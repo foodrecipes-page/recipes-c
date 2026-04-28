@@ -1,0 +1,76 @@
+{
+  "title": "Crispy Spanish Pepper Stir-fry",
+  "description": "A quick-fix spicy Spanish dish featuring whole black peppercorns and flaky texture from a light sear.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "whole black peppercorns",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "2 medium"
+    },
+    {
+      "name": "green bell pepper",
+      "amount": "2 medium"
+    },
+    {
+      "name": "jalapeno peppers",
+      "amount": "3-5 (depending on spice level)"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4-6"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add whole black peppercorns and garlic, sautéing for about 2 minutes until fragrant.",
+    "Cut the bell peppers into bite-sized pieces and add to the skillet. Sauté for an additional 3-5 minutes.",
+    "Increase heat to high, add jalapeno peppers and continue cooking for another 1-2 minutes until slightly charred on edges.",
+    "Remove from heat and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy-spanish-pepper-stir-fry",
+    "spicy-flaky-dish"
+  ],
+  "nutrition": {
+    "calories": 130,
+    "protein": 2,
+    "carbs": 8,
+    "fat": 5
+  },
+  "slug": "crispy-spanish-pepper-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-spanish-pepper-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T23:32:14Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "flaky",
+    "mood": "quick-fix",
+    "technique": "steam",
+    "primaryIngredient": "whole black peppercorns",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Pepper",
+    "descriptor": "Spicy Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
