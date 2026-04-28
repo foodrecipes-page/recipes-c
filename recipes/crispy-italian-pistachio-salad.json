@@ -1,0 +1,94 @@
+{
+  "title": "Crispy Italian Pistachio Salad",
+  "description": "A floral, crispy, monsoon-inspired vegetarian dish featuring cardamom, grilled elements and pistachios.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "Pistachio Nuts",
+      "amount": "1/2 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Green Bell Pepper",
+      "amount": "1 medium",
+      "notes": "Sliced thinly"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Pistachios",
+      "amount": "2/3 cup",
+      "notes": "Chopped and toasted lightly"
+    },
+    {
+      "name": "Grilled Zucchini",
+      "amount": "4 oz",
+      "notes": "Sliced and grilled with a sprinkle of salt and pepper"
+    },
+    {
+      "name": "Grilled Shish Tare Carrots",
+      "amount": "2 medium",
+      "notes": "Grilled, coated in a sweet soy glaze"
+    },
+    {
+      "name": "Pistachio Vinaigrette Dressing",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill or use indoor oven to reach about 375°F (190°C).",
+    "Toast pistachios in a dry pan over medium heat until fragrant and lightly golden, about 2 minutes.",
+    "Slice green bell pepper and onion thinly. Grill vegetables until tender but slightly charred on edges, about 4-6 minutes per side for each vegetable.",
+    "Toast sliced zucchini lightly in a skillet with salt and pepper, ensuring they get just a bit of color without burning.",
+    "Place grilled vegetables on a plate to cool down before assembly.",
+    "In a separate bowl, mix together pistachio nuts, toasted pistachios, and 1/4 cup vinaigrette dressing. Toss well until evenly coated.",
+    "Assemble the salad by layering grilled vegetables and pistachio mixture in a decorative fashion on a platter.",
+    "Drizzle additional vinaigrette over top for extra flavor and garnish with chopped fresh mint leaves if available."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "italian",
+    "pistachio",
+    "vegetarian",
+    "monsoon",
+    "cardamom",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 18
+  },
+  "slug": "crispy-italian-pistachio-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-italian-pistachio-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T16:26:03Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crispy",
+    "mood": "monsoon",
+    "technique": "grill",
+    "primaryIngredient": "cardamom",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Pistachio",
+    "descriptor": "Crispy",
+    "dishForm": "Salad"
+  }
+}
