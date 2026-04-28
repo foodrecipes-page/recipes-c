@@ -1,0 +1,76 @@
+{
+  "title": "Chilled Butter Irish Crumble",
+  "description": "A fresh and dense brunch dish featuring chilled butter, sous-vide cooked eggs, and a paleo-friendly crust made from almond flour.",
+  "cuisine": "Irish",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 sticks (150g)"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "paleo-friendly crumble topping mix",
+      "notes": "homemade or store-bought, optional"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1/4 cup (optional for drizzling)"
+    }
+  ],
+  "instructions": [
+    "Preheat your sous-vide machine to 32°C.",
+    "Separate the egg yolks from the whites and whisk the yolks until pale and fluffy. Add a splash of milk or cream, if desired, and continue whisking until thickened. Season with salt and pepper as needed.",
+    "In a medium bowl, combine almond flour with a pinch of salt. Set aside.",
+    "Sous-vide the egg whites at 32°C for about 2 hours (or according to your sous-vider instructions). Let them cool slightly before using the eggs in this recipe.",
+    "In a pan over low heat, melt the butter and gently fold it into the yolks. Once melted but not hot enough to scramble, slowly add the cooled egg whites and mix thoroughly.",
+    "Pour the egg mixture evenly onto a baking sheet lined with parchment paper. If using a paleo-friendly crumble topping mix, sprinkle that on top now as well.",
+    "Bake in a preheated oven at 180°C for about 25 minutes or until golden brown and crispy around the edges. The dish is best served immediately chilled but can be made ahead of time and stored.",
+    "Serve with maple syrup drizzled over the top if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "crumble",
+    "paleo-friendly",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 368,
+    "protein": 20.8,
+    "carbs": 9.1,
+    "fat": 21.7
+  },
+  "slug": "chilled-butter-irish-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chilled-butter-irish-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T23:52:56Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "dense",
+    "mood": "brunch-mood",
+    "technique": "sous-vide",
+    "primaryIngredient": "chilled butter",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Butter",
+    "descriptor": "Chilled",
+    "dishForm": "Stir-fry"
+  }
+}
