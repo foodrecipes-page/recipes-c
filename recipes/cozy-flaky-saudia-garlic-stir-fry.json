@@ -1,0 +1,88 @@
+{
+  "title": "Cozy Flaky Saudia Garlic Stir-fry",
+  "description": "A cozy and high-protein-friendly dish featuring garlic-infused canned tomatoes and a flaky texture.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "high-protein",
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Canned tomatoes",
+      "amount": "1 can (28oz)",
+      "notes": "Drained and crushed"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4-6 pieces",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Protein source (chicken or tofu)",
+      "amount": "100g",
+      "notes": "Chopped if chicken, cubed if tofu"
+    },
+    {
+      "name": "Sautéed onion",
+      "amount": "1 medium",
+      "notes": "Optional for added flavor and texture"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing and drizzling over the top"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 tablespoon",
+      "notes": "Chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add garlic and onion if using, sauté until fragrant (about 2 minutes).",
+    "Add canned tomatoes and stir to release juices. Cover and simmer gently for about 10-15 minutes, stirring occasionally.",
+    "Fold in protein source and continue to cook until heated through and sauce is slightly reduced.",
+    "Season with salt to taste.",
+    "Serve hot as a side dish or over rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cozy-flaky-saudia-garlic-stir-fry",
+    "high-protein-friendly"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 35,
+    "carbs": 16,
+    "fat": 14
+  },
+  "slug": "cozy-flaky-saudia-garlic-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-flaky-saudia-garlic-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T06:39:40Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "fluffy",
+    "mood": "cozy",
+    "technique": "simmer",
+    "primaryIngredient": "canned tomatoes",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "Garlic",
+    "descriptor": "Flaky Cozy",
+    "dishForm": "Stir-fry"
+  }
+}
