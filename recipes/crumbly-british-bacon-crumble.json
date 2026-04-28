@@ -1,0 +1,69 @@
+{
+  "title": "Rich Crumbly Bacon Crumble",
+  "description": "A high-protein-friendly British dish perfect for post-workout meals featuring garlic powder and baked to perfection.",
+  "cuisine": "British",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bacon",
+      "amount": "8 slices"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Place the bacon slices on a baking sheet lined with parchment paper.",
+    "Rub each slice with garlic powder, salt, and pepper. Season generously as desired.",
+    "Bake for about 8-10 minutes or until crispy and golden brown.",
+    "Let it cool slightly before crumbling into smaller pieces."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crumbly-bacon",
+    "post-workout-dish",
+    "british-cuisine",
+    "high-protein-friendly"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 9,
+    "carbs": 2,
+    "fat": 8
+  },
+  "slug": "crumbly-british-bacon-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-british-bacon-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T09:51:49Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crumbly",
+    "mood": "post-workout",
+    "technique": "bake",
+    "primaryIngredient": "garlic powder",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "bacon",
+    "descriptor": "Crumbly",
+    "dishForm": "Crumble"
+  }
+}
