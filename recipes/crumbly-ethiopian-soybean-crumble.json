@@ -1,0 +1,89 @@
+{
+  "title": "Crumbly Ethiopian Soybean Crumble",
+  "description": "A tangy, crumbly dish featuring soy sauce and other seasonings for a post-workout meal that's also fodmap-friendly.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "soybeans",
+      "amount": "2 cups"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "oil",
+      "amount": "3 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Rinse and soak soybeans in water for at least 6 hours. Drain well.",
+    "In a large pot, heat oil over medium heat. Add soybeans and cook until they start to brown, about 5 minutes.",
+    "Add chili powder, ginger paste, cumin seeds, black pepper, and salt. Stir well to combine with the beans for about 2-3 minutes.",
+    "Pour in coconut milk. Bring to a simmer, then reduce heat and let it thicken slightly (about 10-15 minutes).",
+    "Once thickened, use an immersion blender or transfer half of the mixture to a regular blender and puree until smooth. Return to pot.",
+    "Season with more salt if needed and serve warm."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "crumbly",
+    "ethiopian",
+    "tangy",
+    "post-workout",
+    "soybean",
+    "fodmap-friendly"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 15,
+    "carbs": 8,
+    "fat": 9
+  },
+  "slug": "crumbly-ethiopian-soybean-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-ethiopian-soybean-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T17:44:48Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crumbly",
+    "mood": "post-workout",
+    "technique": "fold",
+    "primaryIngredient": "soy sauce",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Soybeans",
+    "descriptor": "Crumbly",
+    "dishForm": "Crumble"
+  }
+}
