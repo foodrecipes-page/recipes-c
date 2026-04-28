@@ -1,0 +1,88 @@
+{
+  "title": "Crunchy Spicy Peruvian Chickpeas Stir-fry",
+  "description": "A savory and crunchy quick-fix dish featuring black cardamom pods, perfect for Mediterranean-friendly meals.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chickpeas",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Black Cardamom Pods",
+      "amount": "5",
+      "notes": "Soaked in water for 10 minutes"
+    },
+    {
+      "name": "Red Chili Peppers",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Paprika Powder",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat and add olive oil.",
+    "Add onions, minced garlic, black cardamom pods (soaked), red chili peppers, paprika powder, salt, and cook for about 5 minutes until the onions are translucent.",
+    "Stir in chickpeas and continue to stir fry for another 2-3 minutes until heated through.",
+    "Remove from heat and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "spicy",
+    "peruvian",
+    "mediterranean-friendly"
+  ],
+  "nutrition": {
+    "calories": 376,
+    "protein": 10,
+    "carbs": 27,
+    "fat": 9
+  },
+  "slug": "crunchy-spicy-peruvian-chickpeas-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-spicy-peruvian-chickpeas-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T02:19:32Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crunchy",
+    "mood": "quick-fix",
+    "technique": "whisk",
+    "primaryIngredient": "black cardamom pods",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Chickpeas",
+    "descriptor": "Crunchy Spicy",
+    "dishForm": "Stir-fry"
+  }
+}
