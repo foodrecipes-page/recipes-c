@@ -1,0 +1,86 @@
+{
+  "title": "Citrusy Crisp Corn Tortilla",
+  "description": "A nostalgic Slovakian dish featuring corn tortillas, with a citrus twist and suitable for those following a FODMAP-friendly diet.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Corn Tortilla",
+      "amount": "4",
+      "notes": "Use corn tortillas that are fermentable for a FODMAP-friendly option"
+    },
+    {
+      "name": "Freshly squeezed orange juice",
+      "amount": "1/2 cup",
+      "notes": "For best flavor, use freshly squeezed juice to avoid additives in store-bought citrus products"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tablespoon",
+      "notes": "Lightly grated lemon peel for a zesty citrus kick"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking and flavoring the tortillas"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "To taste, adjust to personal preference"
+    },
+    {
+      "name": "Freshly squeezed lime juice (optional)",
+      "amount": "1 tablespoon",
+      "notes": "For a slight tangy note and more citrus flavor"
+    }
+  ],
+  "instructions": [
+    "Wash your hands thoroughly with soap.",
+    "Preheat a skillet over medium heat. Add olive oil to the skillet and warm it up.",
+    "Place the corn tortillas in the skillet one by one. Cook for about 30-45 seconds on each side until golden brown and crispy, stirring occasionally.",
+    "Remove from the skillet and set aside.",
+    "In a small bowl, mix together freshly squeezed orange juice, lemon zest, salt, and optional lime juice. Stir well to combine.",
+    "Pour the citrus mixture over the tortillas and sprinkle with additional grated lemon peel if desired. Serve immediately as a snack or appetizer.",
+    "Enjoy your Citrusy Crisp Corn Tortilla."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "corn-tortillas",
+    "citrusy",
+    "crisp",
+    "slovakian-dish",
+    "fodmap-friendly"
+  ],
+  "nutrition": {
+    "calories": 105,
+    "protein": 2.8,
+    "carbs": 7,
+    "fat": 6
+  },
+  "slug": "citrusy-crisp-corn-tortilla",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-crisp-corn-tortilla",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T05:27:28Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crisp",
+    "mood": "nostalgic",
+    "technique": "ferment",
+    "primaryIngredient": "corn tortillas",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Corn",
+    "descriptor": "Citrusy",
+    "dishForm": "Tortilla"
+  }
+}
