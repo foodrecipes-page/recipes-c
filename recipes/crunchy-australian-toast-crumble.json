@@ -1,0 +1,82 @@
+{
+  "title": "Crunchy Australian Toast Crumble with Milk Chocolate",
+  "description": "This spicy weeknight dish combines low-carb-friendly elements to create a crunchy and indulgent breakfast option featuring toast, milk chocolate, and aromatic spices.",
+  "cuisine": "Australian",
+  "diet": [
+    "low-carb",
+    "spicy"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Toasted Bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Milk Chocolate Chips",
+      "amount": "30g"
+    },
+    {
+      "name": "Spices (Cinnamon, Ground Cumin)",
+      "amount": "pinch each"
+    },
+    {
+      "name": "Coconut Flour",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 eggs"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Nuts (Almonds, Walnuts)",
+      "amount": "a handful"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Place bread slices on a baking sheet and bake for about 2 minutes or until lightly toasted.",
+    "In a mixing bowl, combine toasted bread crumbs with chopped nuts, spices, coconut flour, milk chocolate chips, eggs, and yogurt. Mix well to form a crumble mixture.",
+    "Press the crumble mixture onto each slice of toast and bake in oven for an additional 5-7 minutes or until golden brown.",
+    "Serve hot as a breakfast dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "spicy",
+    "crumble",
+    "milk-chocolate"
+  ],
+  "nutrition": {
+    "calories": 185,
+    "protein": 6,
+    "carbs": 4,
+    "fat": 9
+  },
+  "slug": "crunchy-australian-toast-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-australian-toast-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T20:10:49Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crunchy",
+    "mood": "weeknight",
+    "technique": "toast",
+    "primaryIngredient": "milk chocolate",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Toast",
+    "descriptor": "Crunchy",
+    "dishForm": "Crumble"
+  }
+}
