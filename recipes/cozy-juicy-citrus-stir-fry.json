@@ -1,0 +1,106 @@
+{
+  "title": "Cozy Juicy Citrus Stir-fry",
+  "description": "A dairy-free-friendly, citrusy and juicy Thai-inspired dish featuring bacon lardon, ready in no time with a pressure cooker.",
+  "cuisine": "Thai",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 small onion",
+      "amount": "halved"
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "minced"
+    },
+    {
+      "name": "2 tablespoons soy sauce (or tamari for gluten-free option)",
+      "notes": "use gluten-free tamari if necessary"
+    },
+    {
+      "name": "2 teaspoons grated fresh ginger",
+      "notes": "freshly grated for best flavor"
+    },
+    {
+      "name": "1 cup diced baby carrots",
+      "notes": "about 3-4 medium-sized"
+    },
+    {
+      "name": "1/2 cup chopped fresh cilantro (cilantro lime juice for garnish if desired)",
+      "notes": "optional"
+    },
+    {
+      "name": "1 can (15 oz) mandarin oranges, drained and halved",
+      "notes": "for added zest and juice"
+    },
+    {
+      "name": "1/4 cup finely diced red bell pepper",
+      "notes": "any color will work for a more vibrant dish"
+    },
+    {
+      "name": "2 tablespoons vegetable oil",
+      "notes": "high smoke point to prevent burning"
+    },
+    {
+      "name": "Pinch of black pepper",
+      "notes": "to taste, optional"
+    },
+    {
+      "name": "1/2 cup thinly sliced bacon lardon (or substitute with tofu or tempeh for a vegetarian option)",
+      "notes": "ensure crispy and evenly cooked"
+    }
+  ],
+  "instructions": [
+    "Preheat your pressure cooker according to manufacturer’s instructions.",
+    "In the bottom of the hot pot, heat oil over medium-high heat.",
+    "Add onion, garlic, ginger, and red bell pepper. Stir-fry for about 2 minutes until fragrant.",
+    "Add baby carrots, orange halves, soy sauce, and black pepper (if using). Stir to combine all ingredients.",
+    "Bring the mixture to a simmer and cook for an additional minute.",
+    "Add bacon lardon or substitute to the pot. Ensure it is evenly distributed in the pot.",
+    "Lock the lid on and pressure cook at high pressure for 10 minutes, following your cooker’s specific instructions after reaching full power (usually a few more minutes).",
+    "Let the pressure release naturally according to manufacturer’s instructions (this will take about 15-20 minutes), then carefully open the lid.",
+    "Fold in cilantro if using and mix well. Serve hot with steamed jasmine rice or as a side dish for your next meal.",
+    "Garnish with fresh citrus juice from the mandarin oranges, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cozy",
+    "citrusy",
+    "juicy",
+    "thai",
+    "dish",
+    "pressure-cooked",
+    "bland-free",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 14,
+    "carbs": 32,
+    "fat": 9
+  },
+  "slug": "cozy-juicy-citrus-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-juicy-citrus-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T07:09:02Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "juicy",
+    "mood": "cozy",
+    "technique": "pressure-cook",
+    "primaryIngredient": "bacon lardon",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Citrus",
+    "descriptor": "Juicy Cozy",
+    "dishForm": "Stir-fry"
+  }
+}
