@@ -1,0 +1,77 @@
+{
+  "title": "Crumbly Indian Cheese Crumble",
+  "description": "A savory, crumbly festive Goan dish featuring cheese slices that are air-fried to perfection, perfect for a low-carb-friendly snack or light meal.",
+  "cuisine": "Indian (Goan)",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "goat's cheese",
+      "amount": "200 grams",
+      "notes": "crumbled and sliced thinly"
+    },
+    {
+      "name": "flour",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "pepper",
+      "amount": "a pinch"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 teaspoons",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 180°C (350°F).",
+    "In a small bowl, mix together the crumbled cheese, flour, salt, and pepper. Stir gently until the mixture becomes crumbly.",
+    "Spread half of the crumbly cheese mixture evenly onto a lightly floured baking sheet or flat surface.",
+    "Gently press down on the cheese mixture to create an even layer about 0.5 cm thick.",
+    "Drizzle sesame seeds over the top of the cheese mixture, pressing them into the mixture slightly with your fingers or a fork.",
+    "Air fry for approximately 6-7 minutes, until golden brown and crisp.",
+    "Remove from air fryer to cool slightly, then break apart any large pieces that haven't fully crisped up. Serve warm as a snack or light meal."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 6,
+  "totalTimeMin": 12,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "goan",
+    "air-fried",
+    "cheese-crumble",
+    "low-carb-friendly"
+  ],
+  "nutrition": {
+    "calories": 85,
+    "protein": 3.5,
+    "carbs": 1.0,
+    "fat": 4.5
+  },
+  "slug": "crumbly-indian-cheese-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-indian-cheese-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T18:22:08Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crumbly",
+    "mood": "festive",
+    "technique": "air-fry",
+    "primaryIngredient": "cheese slices",
+    "diet": "low-carb",
+    "region": "goan",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "cheese",
+    "descriptor": "crumbly",
+    "dishForm": "Crumble"
+  }
+}
