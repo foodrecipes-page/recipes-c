@@ -1,0 +1,77 @@
+{
+  "title": "Crunchy Fermented British Seaweed Salad",
+  "description": "A savory and crispy dish featuring fermented seaweed mixed with bay leaves for a unique flavor profile that pairs well as a solo-dinner option.",
+  "cuisine": "British",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fermented Seaweed",
+      "amount": "1 cup",
+      "notes": "Use plant-based fermented seaweed available in health food stores."
+    },
+    {
+      "name": "Bay Leaves",
+      "amount": "4-6 leaves",
+      "notes": "Fresh or dried can be used. Fresh is recommended for optimal flavor."
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste",
+      "notes": "Use a light hand to maintain plant-based integrity."
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup",
+      "notes": "Optional, helps soften seaweed slightly if necessary."
+    }
+  ],
+  "instructions": [
+    "Rinse the fermented seaweed under cold water and pat dry with a clean kitchen towel.",
+    "Place the fermented seaweed on a cutting board. If using fresh bay leaves, tear them into smaller pieces for better distribution.",
+    "Sprinkle salt evenly over the seaweed, then place the bay leaves directly onto it.",
+    "Cover the entire mixture with cold water and let sit at room temperature for 10-15 minutes to soften any firmness in the seaweed.",
+    "Drain off excess water and gently shake out any remaining moisture from the seaweed. Break apart into smaller pieces if needed.",
+    "Gently mix all ingredients together until evenly distributed and the salt has fully incorporated into the seaweed.",
+    "Transfer to a serving dish and serve immediately for best texture."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "fermented",
+    "british",
+    "seaweed",
+    "salty",
+    "bay-leaves"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 2,
+    "fat": 3
+  },
+  "slug": "crunchy-fermented-british-seaweed-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-fermented-british-seaweed-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T18:28:50Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crispy",
+    "mood": "solo-dinner",
+    "technique": "ferment",
+    "primaryIngredient": "bay leaves",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Seaweed",
+    "descriptor": "Crunchy Fermented",
+    "dishForm": "Salad"
+  }
+}
