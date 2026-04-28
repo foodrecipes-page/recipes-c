@@ -1,0 +1,87 @@
+{
+  "title": "Crispy Savory Slovakian Vegetable Stir-fry",
+  "description": "A kid-friendly and crispy savory dish featuring vegetables in a flavorful sauce with the addition of sake to enhance its depth of flavor.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "1 medium",
+      "notes": "peeled and sliced thinly"
+    },
+    {
+      "name": "celery stalks",
+      "amount": "2 large",
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "onions",
+      "amount": "1 small",
+      "notes": "chopped finely"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sake",
+      "amount": "1 oz"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt and pepper to taste"
+    }
+  ],
+  "instructions": [
+    "In a large skillet, heat the peanut oil over medium-high heat.",
+    "Add the onions, garlic, carrots, and celery. Stir-fry for about 5 minutes until the vegetables start to soften but still have some crunch.",
+    "Pour in the soy sauce and sake, stirring well to combine.",
+    "Increase the heat to high, bring the mixture to a boil, then reduce the heat to low and let it simmer for about 10 minutes or until the liquid is reduced slightly, allowing flavors to meld together.",
+    "Taste and adjust seasoning with salt and pepper. Stir occasionally to prevent sticking.",
+    "Serve hot as a side dish or over rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "savory",
+    "slovakian",
+    "vegetable-stir-fry"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "crispy-savory-slovakian-vegetable-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-savory-slovakian-vegetable-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T01:58:49Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crispy",
+    "mood": "kid-friendly",
+    "technique": "reduce",
+    "primaryIngredient": "sake",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Vegetables",
+    "descriptor": "savory crispy",
+    "dishForm": "Stir-fry"
+  }
+}
