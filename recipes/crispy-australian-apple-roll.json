@@ -1,0 +1,73 @@
+{
+  "title": "Crispy Australian Apple Roll",
+  "description": "A rich and crispy dish perfect for date nights featuring a low-sodium-friendly twist with mustard in an American grill method.",
+  "cuisine": "Australian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Grilled Apples",
+      "amount": "2 medium apples",
+      "notes": "Washed and cut into rounds"
+    },
+    {
+      "name": "Low-Sodium Mustard Paste",
+      "amount": "3 tbsp",
+      "notes": "Use prepared low-sodium mustard"
+    },
+    {
+      "name": "Low-Sodium Honey Glaze",
+      "amount": "1/4 cup",
+      "notes": "Mix with 1 tsp lemon juice and a pinch of salt"
+    },
+    {
+      "name": "Panko Breadcrumbs",
+      "amount": "2 tbsp",
+      "notes": "For coating the apples"
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to medium-high heat.",
+    "Wash and cut 2 medium-sized apples into rounds. Season them with a little bit of salt on both sides.",
+    "Grill each apple round for about 4 minutes per side, until they are nicely caramelized but not burnt.",
+    "In a small bowl, mix low-sodium mustard paste, honey glaze, and a pinch of salt to make the filling. Spread it evenly inside grilled apples.",
+    "Dust the apples with panko breadcrumbs for extra crunchiness.",
+    "Serve hot as an appetizer or dessert."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled-apple-roll",
+    "australian-dish",
+    "mustard-glaze"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 7
+  },
+  "slug": "crispy-australian-apple-roll",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-australian-apple-roll",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T15:26:18Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crispy",
+    "mood": "date-night",
+    "technique": "grill",
+    "primaryIngredient": "mustard",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "apple",
+    "descriptor": "Crispy",
+    "dishForm": "Roll"
+  }
+}
