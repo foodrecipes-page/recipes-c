@@ -1,0 +1,93 @@
+{
+  "title": "Cinnamon Crunch Canadian Sweet Potato Pancake",
+  "description": "A low-carb friendly, salty and crispy breakfast dish featuring sweet potatoes cooked in a cinnamon-infused batter.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "sweet potato",
+      "amount": "1 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "eggs",
+      "amount": "3 large",
+      "notes": "beaten with a pinch of salt and black pepper"
+    },
+    {
+      "name": "flaxseed meal or chia seeds",
+      "amount": "2 tablespoons",
+      "notes": "for binding and added crunch"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "a few drops"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon",
+      "notes": "for greasing the pan"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "2 teaspoons",
+      "notes": "mixed with a pinch of sea salt for flavoring"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon",
+      "notes": "for leavening"
+    },
+    {
+      "name": "water or almond milk",
+      "amount": "4 tablespoons",
+      "notes": "to reach desired consistency"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "In a mixing bowl, combine the sweet potato, eggs, flaxseed meal or chia seeds, vanilla extract, salt, and cinnamon. Stir well until all ingredients are evenly distributed.",
+    "Slowly add water or almond milk while stirring continuously to achieve the desired batter consistency (should be similar to pancake batter).",
+    "Heat a non-stick pan over medium heat. Add 1 tablespoon of coconut oil for every 2 pancakes you plan to make. Ensure the pan is sufficiently heated by dropping in a small amount of water; it should sizzle if ready.",
+    "Using about ¼ cup of batter per pancake, spoon or pour onto the hot pan. Cook until bubbles form on top and sides start to turn golden brown (about 2-3 minutes).",
+    "Once done, flip with a spatula and cook for another minute or two on the other side. Remove from heat immediately.",
+    "Serve warm with your favorite toppings such as fresh fruit, maple syrup, whipped cream or a drizzle of honey. Enjoy as an indulgent yet healthy brunch option!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cinnamon-crunch-canadian-sweet-potato-pancake",
+    "salty-crispy-brunch-mood-dish",
+    "low-carb-friendly"
+  ],
+  "nutrition": {
+    "calories": 278,
+    "protein": 10,
+    "carbs": 34,
+    "fat": 12
+  },
+  "slug": "cinnamon-crunch-canadian-sweet-potato-pancake",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cinnamon-crunch-canadian-sweet-potato-pancake",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T22:51:14Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crispy",
+    "mood": "brunch-mood",
+    "technique": "steam",
+    "primaryIngredient": "cinnamon",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Sweet Potato",
+    "descriptor": "Cinnamon Crunch",
+    "dishForm": "Pancake"
+  }
+}
