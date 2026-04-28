@@ -1,0 +1,105 @@
+{
+  "title": "Creamy Smoky Tomato Spanish Stir-fry",
+  "description": "A spicy and creamy date-night dish featuring beer-infused tomatoes, perfect for a light dinner or snack.",
+  "cuisine": "Spanish",
+  "diet": [
+    "alcohol-free",
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tomato paste",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "chopped tomatoes",
+      "amount": "2 cups fresh or 4 cans"
+    },
+    {
+      "name": "pitted kalamata olives",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "shredded vegan cheese (optional)",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "dry white wine (if desired, for flavoring)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "beers",
+      "amount": "1 bottle of non-alcoholic beer or 1/4 cup dry white wine"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a large skillet over medium-high heat.",
+    "Add onions and garlic, sauté until translucent, about 3 minutes.",
+    "Stir in smoked paprika and red pepper flakes, cook for another minute.",
+    "Pour in tomatoes and simmer for 5-7 minutes or until slightly thickened.",
+    "Gently fold in olives and vegan cheese (if using).",
+    "Reduce heat to low, add beer. Stir occasionally until the sauce has reduced to your desired consistency, about 10 minutes.",
+    "Serve hot with crusty bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "creamy-smoky-tomato-spanish-stir-fry",
+    "date-night-dinner",
+    "alcohol-free",
+    "gluten-free",
+    "nut-free",
+    "smoked-paprika",
+    "red-pepper-flakes"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "creamy-smoky-tomato-spanish-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-smoky-tomato-spanish-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T04:38:06Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "creamy",
+    "mood": "date-night",
+    "technique": "boil",
+    "primaryIngredient": "beer",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Tomato",
+    "descriptor": "Creamy Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
