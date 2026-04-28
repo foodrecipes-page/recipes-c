@@ -1,0 +1,86 @@
+{
+  "title": "Crispy Bitter Eggplant Stir-fry",
+  "description": "A festive Uruguayan dish featuring crispy and bitter eggplant prepared with a touch of low-fat-friendly elements for a satisfying meal.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "1 large"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1/4 cup (freshly squeezed)"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Wash and slice the eggplant into thin strips.",
+    "Slice the onion, finely chop the garlic, and mince red pepper flakes if using.",
+    "Heat oil in a non-stick skillet over medium-high heat. Add sliced onion and sauté until translucent, about 5 minutes.",
+    "Add minced garlic to the pan and cook for another minute. Stir in tomato paste and cook until fragrant, around 1-2 minutes.",
+    "Fold in salt and lemon juice, then add eggplant strips evenly over the mixture. Ensure all slices are coated with the sauce.",
+    "Sprinkle red pepper flakes if desired and stir well to combine all ingredients.",
+    "Cook for about 3-4 minutes until the eggplant is tender-crispy on the outside but still firm in the center.",
+    "Remove from heat, garnish with fresh herbs (if available) or lemon wedges, then serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "bitter",
+    "festive",
+    "eggplant",
+    "low-fat-friendly",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 6,
+    "carbs": 15,
+    "fat": 3
+  },
+  "slug": "crispy-bitter-eggplant-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-bitter-eggplant-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T03:12:45Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crispy",
+    "mood": "festive",
+    "technique": "pressure-cook",
+    "primaryIngredient": "eggplant",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Eggplant",
+    "descriptor": "Bitter Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
