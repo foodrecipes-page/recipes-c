@@ -1,0 +1,87 @@
+{
+  "title": "Crispy Adventurous Norwegian Herb Stir-fry",
+  "description": "A dijon mustard and herb-infused stir-fry that's crispy on the outside with a delicate herbal flavor for an adventurous take on traditional dishes.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dijon Mustard",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/4 cup, finely chopped"
+    },
+    {
+      "name": "Peppers (bell peppers and/or sweet red peppers)",
+      "amount": "6-8, sliced thinly"
+    },
+    {
+      "name": "Pork or Pesto (substitute for plant-based option if needed)",
+      "amount": "2 oz (60g), finely chopped"
+    },
+    {
+      "name": "Norwegian Herbs (like Norwegian Tarragon and Norwegion Parsley)",
+      "amount": "1 tbsp, roughly chopped"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt and Pepper to taste",
+      "notes": "For seasoning the dish"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix Dijon mustard with finely chopped garlic.",
+    "Heat oil in a wok or large skillet over medium-high heat. Add chopped onion and peppers; sauté for about 2 minutes until slightly softened.",
+    "Add minced pork (or pesto substitute), Norwegian herbs, and salt/pepper to taste. Stir-fry for about 5-7 minutes until the vegetables are tender-crisp and meat is cooked through.",
+    "Stir in the mustard mixture and toss everything together well for a minute or so to meld flavors.",
+    "Serve hot with crusty bread if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "adventurous",
+    "norwegian",
+    "herb",
+    "stir-fry",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 201,
+    "protein": 9.3,
+    "carbs": 7.5,
+    "fat": 6.8
+  },
+  "slug": "crispy-adventurous-norwegian-herb-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-adventurous-norwegian-herb-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T21:26:16Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crispy",
+    "mood": "adventurous",
+    "technique": "knead",
+    "primaryIngredient": "dijon mustard",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "herbs",
+    "descriptor": "Crispy Adventurous",
+    "dishForm": "Stir-fry"
+  }
+}
