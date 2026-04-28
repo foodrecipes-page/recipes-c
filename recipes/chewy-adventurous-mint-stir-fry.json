@@ -1,0 +1,96 @@
+{
+  "title": "Chewy Adventurous Mint Stir-fry",
+  "description": "A chewy and adventurous Korean dish featuring dried mint, seasoned with umami elements for a unique flavor profile that caters to Jain-friendly dietary practices.",
+  "cuisine": "Korean",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "200g"
+    },
+    {
+      "name": "dried mint",
+      "amount": "1 tsp (around 5-6 leaves)"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp (grated)"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large, finely chopped"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 small, sliced"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a wok or frying pan over medium heat.",
+    "Add minced garlic and grated ginger. Sauté for about 30 seconds until fragrant.",
+    "Add red pepper flakes and stir-fry for another 20 seconds.",
+    "Push the garlic mixture to one side of the pan, add dried mint leaves on the other side. Stir-fry for about a minute until mint is slightly wilted but not fully cooked.",
+    "Return the garlic mixture back to the pan, then add chicken breast pieces and soy sauce. Toss together, allowing it to cook through at medium heat (around 180°F-200°F).",
+    "Add diced carrots, finely chopped onions, and sliced zucchini. Stir-fry for about 5 minutes until all vegetables are cooked but still retain their crunch.",
+    "Season with salt as needed and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "umami",
+    "adventurous",
+    "korean",
+    "jain-friendly",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 258,
+    "protein": 31,
+    "carbs": 19,
+    "fat": 7
+  },
+  "slug": "chewy-adventurous-mint-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-adventurous-mint-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T03:11:01Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "chewy",
+    "mood": "adventurous",
+    "technique": "slow-cook",
+    "primaryIngredient": "dried mint",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "dried mint",
+    "descriptor": "Adventurous Chewy",
+    "dishForm": "Stir-fry"
+  }
+}
