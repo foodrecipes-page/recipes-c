@@ -1,0 +1,79 @@
+{
+  "title": "Crispy Irish Oreo Biscuit",
+  "description": "A citrusy, crisp Irish dish featuring Oreos with a Mediterranean-friendly twist, perfect for romantic gatherings.",
+  "cuisine": "Irish",
+  "diet": [
+    "mediterranean"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Oreo cookies",
+      "amount": "10"
+    },
+    {
+      "name": "Orange juice concentrate",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Eggs",
+      "amount": "3 eggs, beaten"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (205°C).",
+    "Soak Oreo cookies in orange juice concentrate for about 2 hours.",
+    "Drain excess liquid from soaked Oreos and mix with lemon juice, sour cream, and sugar until well combined.",
+    "Gently fold in beaten eggs a couple of at a time.",
+    "Spoon mixture into prepared mini muffin tins (about 1 tablespoon per cookie).",
+    "Bake for 8-10 minutes or until edges are golden brown.",
+    "Allow to cool slightly before removing from pan and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "irish",
+    "oreo",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 12,
+    "carbs": 28,
+    "fat": 7
+  },
+  "slug": "crispy-irish-oreo-biscuit",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-irish-oreo-biscuit",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T21:22:40Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crisp",
+    "mood": "romantic",
+    "technique": "temper",
+    "primaryIngredient": "oreo cream biscuits",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Oreo",
+    "descriptor": "Crispy",
+    "dishForm": "Biscuit"
+  }
+}
