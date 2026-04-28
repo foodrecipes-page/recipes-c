@@ -1,0 +1,93 @@
+{
+  "title": "Crispy Mediterranean Pork Knuckle Stir-fry",
+  "description": "A comforting mediterranean dish featuring crispy pork knuckle with umami flavors and a touch of sweetness from roasted garlic and lemon.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork Knuckle",
+      "amount": "1 piece",
+      "notes": "Ensure it is kosher and cooked to an internal temperature of at least 145°F (63°C)"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Roast with the pork for added flavor"
+    },
+    {
+      "name": "Lemon",
+      "amount": "1 medium",
+      "notes": "Juice and zest to add tanginess"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For frying and cooking purposes"
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 tablespoon",
+      "notes": "For extra flavoring"
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste",
+      "notes": "Optional for seasoning the pork, adjust based on preference"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "A few grains",
+      "notes": "For adding a bit of spiciness and depth to the dish"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (205°C).",
+    "Season the pork knuckle with salt, pepper, thyme, and olive oil. Place it in a roasting pan.",
+    "Roast the garlic cloves and lemon slices along with the pork for about 1 hour until fully cooked. Check internal temperature using a meat thermometer;",
+    "While waiting, slice the roasted garlic cloves and zest the lemon.",
+    "Heat some more olive oil in a wok or frying pan over medium heat.",
+    "Add sliced onions (optional for color and sweetness) to sauté before adding the pork. Cook until golden brown on all sides.",
+    "Stir-fry with the chopped roasted garlic, lemon juice, salt, black pepper, and thyme if desired. Adjust seasoning based on taste.",
+    "Serve hot with any preferred side dishes like Greek salad or crusty bread."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 60,
+  "totalTimeMin": 85,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pork-knuckle",
+    "crispy",
+    "mediterranean-dish",
+    "umami",
+    "kosher-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 14,
+    "fat": 17
+  },
+  "slug": "crispy-mediterranean-pork-knuckle-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-mediterranean-pork-knuckle-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T23:19:26Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crispy",
+    "mood": "comforting",
+    "technique": "roast",
+    "primaryIngredient": "pork knuckle",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "pork knuckle",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
