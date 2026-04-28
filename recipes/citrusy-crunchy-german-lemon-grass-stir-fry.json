@@ -1,0 +1,81 @@
+{
+  "title": "Citrusy Crunchy German Lemon Grass Stir-fry",
+  "description": "A refreshing weeknight meal that combines the brightness of lemongrass with the crunchiness of pickled vegetables and a touch of lemon zest for an extra citrus kick, perfect as a side dish or light main course.",
+  "cuisine": "German",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lemon grass",
+      "amount": "2-3 stalks"
+    },
+    {
+      "name": "Pickled vegetables (e.g. gherkins or pickled carrots)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Minced garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Chinese white pepper",
+      "amount": "1 tsp (optional)"
+    },
+    {
+      "name": "Fresh lemon zest",
+      "amount": "1-2 tablespoons"
+    },
+    {
+      "name": "Salt and black pepper",
+      "amount": "To taste"
+    }
+  ],
+  "instructions": [
+    "Wash the lemon grass thoroughly, cut off any hard parts, then finely chop it.",
+    "In a wok or large skillet, heat oil over medium-high heat. Add garlic and stir-fry for about 30 seconds until fragrant.",
+    "Add lemon grass to the wok and stir for another minute.",
+    "Gently fold in pickled vegetables and sprinkle with Chinese white pepper if using. Stir well.",
+    "Season with salt, black pepper, and fresh lemon zest. Mix thoroughly to ensure all ingredients are evenly coated with flavors.",
+    "Cook for an additional 2-3 minutes until the mixture is heated through and the pickles are just tender but still crisp.",
+    "Serve hot as a side dish or garnish over noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "crunchy",
+    "german",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 3,
+    "carbs": 14,
+    "fat": 5
+  },
+  "slug": "citrusy-crunchy-german-lemon-grass-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-crunchy-german-lemon-grass-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T01:55:22Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crunchy",
+    "mood": "weeknight",
+    "technique": "pickle",
+    "primaryIngredient": "lemongrass",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Lemon Grass",
+    "descriptor": "Citrusy Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
