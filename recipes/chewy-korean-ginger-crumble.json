@@ -1,0 +1,73 @@
+{
+  "title": "Chewy Korean Ginger Crumble",
+  "description": "This raw-friendly meal-prep dish features chewy ginger crumbles made with buttermilk and air-fried for a Korean twist, perfect for breakfast or snack.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 cups grated raw ginger",
+      "amount": "",
+      "notes": "Use fresh or frozen ginger"
+    },
+    {
+      "name": "1 cup buttermilk",
+      "amount": "",
+      "notes": "At least 3.25% milkfat"
+    },
+    {
+      "name": "1/4 cup rice flour (optional for texture)",
+      "amount": "",
+      "notes": "To make crumbles less sticky"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine grated ginger and buttermilk in a mixing bowl.",
+    "Stir in rice flour (if using) to help crumble form better.",
+    "Season with a pinch of salt, if desired.",
+    "Transfer the mixture to an air fryer basket lined with parchment paper.",
+    "Air-fry at 300°F for about 12-15 minutes or until lightly golden and crisp.",
+    "Remove from air fryer and allow to cool completely before portioning out."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "raw-friendly",
+    "korean-ginger",
+    "meal-prep",
+    "herbal",
+    "chewy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 7,
+    "fat": 3
+  },
+  "slug": "chewy-korean-ginger-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-korean-ginger-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T04:46:03Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "chewy",
+    "mood": "meal-prep",
+    "technique": "air-fry",
+    "primaryIngredient": "buttermilk",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Ginger",
+    "descriptor": "Chewy",
+    "dishForm": "Crumble"
+  }
+}
