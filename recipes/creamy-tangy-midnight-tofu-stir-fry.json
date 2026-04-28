@@ -1,0 +1,89 @@
+{
+  "title": "Creamy Tangy Midnight Tofu Stir-fry",
+  "description": "A midnight craving Uruguayan dish featuring creamy tofu with a tangy flavor profile, ideal for whole30-friendly meals.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (about 200g)",
+      "notes": "Select firm tofu for best results."
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "2 tablespoons",
+      "notes": "Use roasted sesame seeds for added depth of flavor."
+    },
+    {
+      "name": "Chili peppers",
+      "amount": "1-2",
+      "notes": "Add more if you prefer a spicier dish."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Finely minced for maximum aroma and flavor."
+    },
+    {
+      "name": "Sesame seed oil",
+      "amount": "2 tablespoons",
+      "notes": "Use high smoke point to prevent burning during stir-frying."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": "For initial cooking to release the flavors of tofu and sesame seeds."
+    }
+  ],
+  "instructions": [
+    "Preheat your wok or large skillet over medium-high heat. Add olive oil and sesame seed oil, swirling to coat.",
+    "Crack open chili peppers and remove seeds if preferred. Finely chop garlic and finely grind sesame seeds.",
+    "Gently press the tofu with a paper towel on both sides to absorb excess water. Cut into small cubes.",
+    "Add tofu cubes to hot pan, sprinkle over minced garlic, add chopped chili peppers (with seeds removed), and pour in olive oil mixture. Stir-fry for 3-5 minutes or until tofu is golden brown on all sides.",
+    "Pour in sesame seed oil, stir well and continue cooking until the tofu is crispy and golden.",
+    "In a separate pan, whisk together soy sauce and water to create a light glaze. Pour over the tofu and chili mixture, tossing gently to coat evenly.",
+    "Reduce heat to low and let simmer for 1-2 minutes until most of the liquid evaporates, allowing flavors to meld together.",
+    "Serve hot as is or with your preferred side dishes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tangy",
+    "creamy",
+    "midnight",
+    "uruguayan",
+    "tofu",
+    "stir-fry",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 26,
+    "carbs": 39,
+    "fat": 18
+  },
+  "slug": "creamy-tangy-midnight-tofu-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-tangy-midnight-tofu-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T00:34:24Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "saute",
+    "primaryIngredient": "sesame seed oil",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Tofu",
+    "descriptor": "Creamy Tangy Midnight",
+    "dishForm": "Stir-fry"
+  }
+}
