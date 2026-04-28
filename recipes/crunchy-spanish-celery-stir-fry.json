@@ -1,0 +1,81 @@
+{
+  "title": "Crunchy Spanish Celery Stir-fry",
+  "description": "A herbal and crunchy meal-prep dish featuring celery salt, gluten-free-friendly with a touch of warmth from herbs.",
+  "cuisine": "Spanish",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "celery",
+      "amount": "1 medium stalk"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "celery salt",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Clean the celery stalks and cut into thin slices.",
+    "Mince the garlic cloves and finely grate or julienne the ginger.",
+    "Heat oil in a non-stick pan over medium heat. Add butter and sauté garlic and ginger until fragrant, about 1 minute.",
+    "Add the celery slices to the pan and stir-fry for about 5 minutes, ensuring they do not burn.",
+    "Season with celery salt and pepper to taste.",
+    "Serve immediately as a light snack or meal-prep portion."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 3,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "spanish",
+    "celery-stir-fry",
+    "herbal",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 9
+  },
+  "slug": "crunchy-spanish-celery-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-spanish-celery-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T14:05:24Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crunchy",
+    "mood": "meal-prep",
+    "technique": "temper",
+    "primaryIngredient": "celery salt",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Celery",
+    "descriptor": "Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
