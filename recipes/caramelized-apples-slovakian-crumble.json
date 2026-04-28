@@ -1,0 +1,89 @@
+{
+  "title": "Caramelized Apples Slovakian Crumble",
+  "description": "An earthy and flaky brunch dish featuring caramelize apples with a low-calorie-friendly crumble topping made from oat flour.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Oat Flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Unsweetened Apple Sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Almond Flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Walnut Pieces",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Eggs",
+      "amount": "3, lightly beaten"
+    },
+    {
+      "name": "Grated Apple",
+      "amount": "6 apples"
+    },
+    {
+      "name": "Cider Vinegar",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (205°C). Grease a baking dish.",
+    "Mix oat flour, honey, apple sauce, cinnamon, and almond flour in a bowl. Stir in lightly beaten eggs and grated apples.",
+    "Pour mixture into the prepared baking dish. Sprinkle walnut pieces on top.",
+    "Combine cider vinegar with unsweetened apple sauce to make a glaze. Drizzle over crumble.",
+    "Bake for 25-30 minutes, until golden brown and set.",
+    "Let cool before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "caramelized-apples",
+    "slovakian-dish",
+    "low-calorie-friendly"
+  ],
+  "nutrition": {
+    "calories": 123,
+    "protein": 3.9,
+    "carbs": 18.7,
+    "fat": 0.5
+  },
+  "slug": "caramelized-apples-slovakian-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/caramelized-apples-slovakian-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T13:45:42Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "flaky",
+    "mood": "brunch-mood",
+    "technique": "caramelize",
+    "primaryIngredient": "cider",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Apples",
+    "descriptor": "Caramelized",
+    "dishForm": "Crumble"
+  }
+}
