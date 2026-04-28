@@ -1,0 +1,88 @@
+{
+  "title": "Creamy Indulgent Herbal Stir-fry",
+  "description": "A Mediterranean-friendly herbal stir-fry with juniper berries, fermented herbs and spices for a creamy indulgent Canadian dish.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Juniper Berries",
+      "amount": "1/4 cup fresh or 2 tbsp dried"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1 medium onion"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Pistachios, crushed",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Herbes de Provence (optional)",
+      "notes": "1 tablespoon"
+    },
+    {
+      "name": "Fermented Herbs Mix (herb paste mix with fermented herbs and spices)",
+      "amount": "3/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a skillet over medium heat.",
+    "Add finely chopped onion and garlic, sauté until translucent.",
+    "Stir in tomato sauce, cooked for about 5 minutes to reduce slightly.",
+    "Fold in the crushed pistachios and herbes de Provence (if using).",
+    "Combine with fermented herbs mix, stir well and cook for another minute.",
+    "Adjust seasoning if needed and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "herbal",
+    "indulgent",
+    "canadian",
+    "fermented",
+    "mediterranean-friendly"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "creamy-indulgent-herbal-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-indulgent-herbal-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T17:22:34Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "creamy",
+    "mood": "indulgent",
+    "technique": "ferment",
+    "primaryIngredient": "juniper berries",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Herbs",
+    "descriptor": "Creamy Indulgent",
+    "dishForm": "Stir-fry"
+  }
+}
