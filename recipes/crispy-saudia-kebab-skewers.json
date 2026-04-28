@@ -1,0 +1,84 @@
+{
+  "title": "Crispy Saudia Kebab Skewers",
+  "description": "A festive saudi arabian dish featuring corned beef on crispy skewers for a tangy and festive treat that is halal-friendly.",
+  "cuisine": "Saudi Arabian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Corned Beef",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Lemon Wedges",
+      "amount": "6"
+    }
+  ],
+  "instructions": [
+    "In a shallow bowl, combine corned beef with lemon juice, olive oil, paprika, cayenne pepper, and salt. Marinate for at least 2 hours.",
+    "Preheat grill to medium-high heat (around 375°F or 190°C).",
+    "On skewers, alternate pieces of marinated corned beef with slices of fresh parsley.",
+    "Grill skewers until nicely charred and beef is cooked through, about 8-12 minutes per side. Watch for doneness as marinade can affect cooking time slightly.",
+    "Once done, remove from grill and place lemon wedges on top for a burst of freshness."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "saudi-arabian",
+    "kebab-skewers",
+    "crispy",
+    "tangy",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 34,
+    "carbs": 10,
+    "fat": 36
+  },
+  "slug": "crispy-saudia-kebab-skewers",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-saudia-kebab-skewers",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T04:25:57Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crispy",
+    "mood": "festive",
+    "technique": "grill",
+    "primaryIngredient": "corned beef",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "Kebab",
+    "descriptor": "Crispy",
+    "dishForm": "Skewers"
+  }
+}
