@@ -1,0 +1,90 @@
+{
+  "title": "Cozy Crunchy Greek Cornstarch Stir-fry",
+  "description": "A rich, crunchy, cozy greek dish featuring cornstarch, poached in a flavorful sauce with vegetables for a heartwarming meal.",
+  "cuisine": "Greek",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup diced bell peppers",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup finely chopped onions",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 can (14 oz) diced tomatoes",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp dried oregano",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 tsp paprika",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp cornstarch",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup chicken or vegetable broth",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a saucepan, combine diced tomatoes with bell peppers and onions.",
+    "Stir in cornstarch, oregano, paprika, lemon juice, and chicken broth. Bring to a simmer.",
+    "Reduce heat and let cook for about 10 minutes until thickened.",
+    "Serve hot as a snack or appetizer."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "cozy",
+    "crunchy",
+    "greek",
+    "cornstarch"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 5
+  },
+  "slug": "cozy-crunchy-greek-cornstarch-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-crunchy-greek-cornstarch-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T05:07:59Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crunchy",
+    "mood": "cozy",
+    "technique": "poach",
+    "primaryIngredient": "cornstarch",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Cornstarch",
+    "descriptor": "Crunchy Cozy",
+    "dishForm": "Stir-fry"
+  }
+}
