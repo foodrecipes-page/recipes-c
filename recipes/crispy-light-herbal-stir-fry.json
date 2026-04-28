@@ -1,0 +1,83 @@
+{
+  "title": "Crispy Light Herbal Stir-fry",
+  "description": "A light and crisp Brazilian dish featuring capers, bhuna spices, and a touch of freshness to make it pescatarian-friendly.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup broccoli florets",
+      "amount": "medium"
+    },
+    {
+      "name": "1 small red onion, thinly sliced",
+      "amount": "medium"
+    },
+    {
+      "name": "8 oz (225g) tofu cubes",
+      "amount": "medium-large"
+    },
+    {
+      "name": "1/4 cup fresh parsley leaves",
+      "amount": "small bunch"
+    },
+    {
+      "name": "1 tbsp capers, rinsed and drained",
+      "amount": "small spoon"
+    },
+    {
+      "name": "1 tsp bhuna spice blend (or 1 tsp chili powder + 1 tsp coriander seeds)",
+      "amount": "pinch"
+    },
+    {
+      "name": "1/4 cup soy sauce",
+      "amount": "large spoon"
+    },
+    {
+      "name": "1 tbsp lemon juice",
+      "amount": "medium spoon"
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large skillet over medium-high heat. Add tofu and cook until golden, about 5 minutes.",
+    "Add onion slices and broccoli florets to the pan. Stir-fry for another 2-3 minutes until vegetables start to soften slightly.",
+    "Remove tofu from the pan and set aside. In the same pan, add capers and bhuna spice blend (or chili powder + coriander seeds). Cook for about 1 minute to toast spices slightly.",
+    "Return the tofu to the pan with a few tablespoons of soy sauce. Pour in lemon juice and stir well to combine all ingredients.",
+    "Finish by sprinkling parsley over everything before serving hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "herbal",
+    "stir-fry",
+    "pescatarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 327,
+    "protein": 19,
+    "carbs": 14,
+    "fat": 5
+  },
+  "slug": "crispy-light-herbal-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-light-herbal-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T11:35:34Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crisp",
+    "mood": "light",
+    "technique": "bhuna",
+    "primaryIngredient": "capers",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Herbs",
+    "descriptor": "Crispy Light",
+    "dishForm": "Stir-fry"
+  }
+}
