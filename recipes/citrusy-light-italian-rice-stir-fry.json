@@ -1,0 +1,101 @@
+{
+  "title": "Citrusy Light Italian Rice Stir-Fry",
+  "description": "A light and refreshing Roman dish featuring seasoned rice vinegar as a key ingredient to create a zesty citrus flavor that pairs well with tenderized rice.",
+  "cuisine": "Italian",
+  "diet": [
+    "monsoon-friendly",
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chicken Breast",
+      "amount": "2 pieces",
+      "notes": "about 6 oz each"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic Clove(s)",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "Red Chili Pepper",
+      "amount": "1 small",
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Seasoned Rice Vinegar",
+      "amount": "2 tablespoons",
+      "notes": "use 5% rice vinegar and sugar to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice thoroughly in cold water until the water runs clear. Soak it for at least 30 minutes to remove excess starch.",
+    "Cook the rice as per package instructions, ensuring that it is fluffy and well-cooked but not overcooked.",
+    "While the rice cooks, prepare the chicken by slicing it into thin strips. Season with salt and pepper.",
+    "In a pan or wok, heat 1 tablespoon of oil over medium-high heat. Add onions and garlic; sauté until fragrant and translucent.",
+    "Add chicken pieces to the pan. Cook for about 5 minutes on each side until golden brown. Remove from the pan and set aside.",
+    "Return the pan to the stove with another tablespoon of oil if needed, then add chili pepper slices. Sauté until slightly softened.",
+    "Stir in the rice into the pan along with the seasoned rice vinegar, salt, and pepper. Mix well until evenly coated with the liquid mixture.",
+    "Once everything is combined, return the chicken to the pan. Stir gently to combine all ingredients and ensure everything is heated through.",
+    "Serve immediately while hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "light",
+    "italian",
+    "roman",
+    "stir-fry",
+    "fodmap-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "citrusy-light-italian-rice-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-light-italian-rice-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T06:24:24Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "light",
+    "mood": "monsoon",
+    "technique": "reduce",
+    "primaryIngredient": "seasoned rice vinegar",
+    "diet": "fodmap",
+    "region": "roman",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Rice",
+    "descriptor": "Citrusy Light",
+    "dishForm": "Stir-fry"
+  }
+}
