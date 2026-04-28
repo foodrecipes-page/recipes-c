@@ -1,0 +1,71 @@
+{
+  "title": "Crispy Nostalgic Tunisian Dates Stir-fry",
+  "description": "A tangy and crispy dish featuring clear honey caramelized with dates for a jain-friendly snack that brings back nostalgic memories.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "200g",
+      "notes": "use clear dates for best clarity"
+    },
+    {
+      "name": "honey",
+      "amount": "50ml",
+      "notes": "use clear honey to enhance the flavor without adding sweetness"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F). Rinse and de-seed the dates, then cut them into bite-sized pieces.",
+    "Arrange date slices on a baking tray lined with parchment paper. Drizzle honey over the top of each slice evenly. Sprinkle salt for flavoring.",
+    "Roast in preheated oven for 15-20 minutes or until golden brown and caramelized, turning halfway through cooking time to ensure even browning.",
+    "Remove from oven and let cool slightly before stirring into a large pan with vegetable oil over medium heat. Cook until crispy on the edges and lightly golden, about 3-5 more minutes.",
+    "Serve immediately as a snack or garnish with fresh mint leaves for added freshness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "nostalgic",
+    "tunisian",
+    "crispy",
+    "dates"
+  ],
+  "nutrition": {
+    "calories": 193,
+    "protein": 2.4,
+    "carbs": 28.6,
+    "fat": 0
+  },
+  "slug": "crispy-nostalgic-tunisian-dates-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-nostalgic-tunisian-dates-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T13:23:08Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crispy",
+    "mood": "nostalgic",
+    "technique": "caramelize",
+    "primaryIngredient": "clear honey",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "dates",
+    "descriptor": "Crispy Nostalgic",
+    "dishForm": "Stir-fry"
+  }
+}
