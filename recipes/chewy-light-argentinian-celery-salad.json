@@ -1,0 +1,68 @@
+{
+  "title": "Chewy Light Argentinian Celery Salad",
+  "description": "This earthy and chewy salad features celery salted before poaching in a dairy-free friendly dressing to create a light and vibrant dish with an Argentine twist.",
+  "cuisine": "Argentine",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "Celery",
+      "amount": "1 medium stalks"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Chop the celery into thin pieces.",
+    "In a small bowl, combine olive oil and lemon zest with salt. Mix well until all salt is dissolved.",
+    "Submerge celery in the olive oil mixture and marinate at room temperature for about 30 minutes to 1 hour.",
+    "Drain excess liquid from celery, retaining some of the dressing as a finishing touch.",
+    "Serve chilled or at room temperature with extra drizzle of olive oil if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 60,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "argentine-salad",
+    "celery-poached",
+    "light-dressing"
+  ],
+  "nutrition": {
+    "calories": 40,
+    "protein": 1,
+    "carbs": 8,
+    "fat": 2
+  },
+  "slug": "chewy-light-argentinian-celery-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-light-argentinian-celery-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T18:44:30Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "chewy",
+    "mood": "light",
+    "technique": "poach",
+    "primaryIngredient": "celery salt",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "celery",
+    "descriptor": "Chewy Light",
+    "dishForm": "Salad"
+  }
+}
