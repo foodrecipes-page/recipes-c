@@ -1,0 +1,84 @@
+{
+  "title": "Caramelized Chinese Dates Stir-fry",
+  "description": "This rich and crispy date-night dish features a caramelized sugar sauce that pairs perfectly with tender dates and crunchy almonds for a raw-friendly appetizer.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "12 pieces",
+      "notes": "ripe and pitted"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "a few drops",
+      "notes": "for flavoring"
+    },
+    {
+      "name": "ginger",
+      "amount": "a small piece",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons",
+      "notes": "raw for a raw-friendly touch"
+    },
+    {
+      "name": "almonds",
+      "amount": "3 tablespoons",
+      "notes": "chopped and toasted lightly"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a pan over medium-high heat.",
+    "Add ginger and sauté for about 30 seconds, until fragrant but not browned.",
+    "Remove from heat, add dates to the pan and stir-fry them with salt until they release their juice.",
+    "Pour in sugar and immediately bring to a boil. Stir constantly to prevent burning and let it caramelize slightly.",
+    "Once the mixture starts thickening, reduce heat to medium-low and slowly fold in toasted almonds.",
+    "Cook for an additional 2-3 minutes or until the dates are fully coated with the caramelized sauce and lightly crispy on the edges.",
+    "Serve immediately while hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "caramelized",
+    "stir-fry",
+    "chinese",
+    "snack",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 1,
+    "carbs": 9,
+    "fat": 4
+  },
+  "slug": "caramelized-chinese-dates-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/caramelized-chinese-dates-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T01:42:56Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crispy",
+    "mood": "date-night",
+    "technique": "simmer",
+    "primaryIngredient": "caramelized sugar sauce",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "dates",
+    "descriptor": "Caramelized",
+    "dishForm": "Stir-fry"
+  }
+}
