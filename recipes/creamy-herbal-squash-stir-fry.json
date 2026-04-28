@@ -1,0 +1,84 @@
+{
+  "title": "Creamy Herbal Squash Stir-fry",
+  "description": "This Paleo-friendly Creamy Herbal Squash Stir-fry is a nutritious and satisfying meal-prep option featuring tender chunks of butternut squash, a blend of aromatic herbs, and a creamy sauce made with coconut milk.",
+  "cuisine": "Paleo",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Butternut Squash",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Herbs (such as thyme, rosemary)",
+      "amount": "2 tbsp fresh leaves"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Soy Sauce or Coconut Aminos (optional for non-paleo)",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Clean and peel butternut squash, then cut into bite-sized pieces.",
+    "Heat olive oil in a large skillet over medium-high heat. Add the garlic and cook until fragrant, about 1 minute.",
+    "Add the cubed butternut squash to the pan with herbs and soy sauce or coconut aminos (if using).",
+    "Deglaze the pan with 1/4 cup of coconut milk, scraping up any browned bits from the bottom of the pan.",
+    "Continue cooking for about 5-7 minutes until most of the liquid has been absorbed and the squash is tender. Season with salt and pepper to taste.",
+    "Increase heat to high, add remaining coconut milk and cook for an additional 2-3 minutes or until the mixture thickens slightly.",
+    "Serve hot as a side dish or over a bed of greens."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "squash",
+    "herbs",
+    "creamy",
+    "paleo"
+  ],
+  "nutrition": {
+    "calories": 356,
+    "protein": 7.2,
+    "carbs": 59.8,
+    "fat": 14.2
+  },
+  "slug": "creamy-herbal-squash-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-herbal-squash-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T15:07:16Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "creamy",
+    "mood": "meal-prep",
+    "technique": "deglaze",
+    "primaryIngredient": "squash",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Herbal",
+    "mainIngredient": "Squash",
+    "descriptor": "Creamy",
+    "dishForm": "Stir-fry"
+  }
+}
