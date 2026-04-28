@@ -1,0 +1,84 @@
+{
+  "title": "Comforting Roasted British Potato Stir-fry",
+  "description": "A comforting keto-friendly stir-fry featuring roasted potatoes and other vegetables that are tender and lightly seasoned.",
+  "cuisine": "British",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "preferably organic"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 medium",
+      "notes": "can be cut into chunks"
+    },
+    {
+      "name": "onions",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4",
+      "notes": "minced"
+    },
+    {
+      "name": "sauce mix (optional)",
+      "amount": "2 tbsp",
+      "notes": "combine with coconut aminos for low-carb option"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C.",
+    "Wash and peel potatoes, carrots, and onions. Slice the potatoes into rounds about 5 mm thick.",
+    "Trim the tops of the carrots slightly, slice them lengthwise into thin rounds, then cut these rounds in half diagonally.",
+    "In a bowl, mix minced garlic with the sauce mix (if using). Season lightly with salt and pepper.",
+    "Place all prepared vegetables on a baking sheet lined with parchment paper. Drizzle with some oil, if desired, and spread evenly.",
+    "Roast in preheated oven for about 30 minutes until golden brown and tender.",
+    "While the veggies are roasting, heat a pan over medium-high heat and add the seasoned garlic mixture to the pan.",
+    "Add onions when vegetables start to sweat lightly. Cook until fragrant and translucent.",
+    "Toss cooked vegetables with onions and any remaining sauce in the pan for a quick stir-fry.",
+    "Serve hot as a side dish or over keto-friendly greens for a main course."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comforting",
+    "british",
+    "potato",
+    "stir-fry",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 185,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 6
+  },
+  "slug": "comforting-roasted-british-potato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/comforting-roasted-british-potato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T09:01:46Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "tender",
+    "mood": "comforting",
+    "technique": "sous-vide",
+    "primaryIngredient": "roasted vegetables",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Potato",
+    "descriptor": "Comforting Roasted",
+    "dishForm": "Stir-fry"
+  }
+}
