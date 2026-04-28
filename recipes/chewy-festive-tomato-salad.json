@@ -1,0 +1,93 @@
+{
+  "title": "Chewy Festive Tomato Salad",
+  "description": "A fresh and chewy French-inspired dish featuring ripe tomatoes, toasted nuts, and festive touches for a delightful appetizer or snack.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ripe tomatoes",
+      "amount": "2 cups halved",
+      "notes": "Ensure they are fresh and juicy"
+    },
+    {
+      "name": "Toasted sliced almonds",
+      "amount": "1/4 cup",
+      "notes": "Use a food processor or knife to crush into smaller pieces if preferred"
+    },
+    {
+      "name": "Fresh parsley leaves",
+      "amount": "1 handful",
+      "notes": "Chopped for added freshness and color"
+    },
+    {
+      "name": "Crushed red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For dressing"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black olives",
+      "amount": "1/4 cup pitted and halved",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons fresh, or 1 tablespoon bottled lemon juice",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Toast sliced almonds in a dry skillet over medium heat until golden brown. Allow to cool and then crush into smaller pieces using a food processor or knife.",
+    "Halve the tomatoes and sprinkle with salt; let sit for about 10 minutes before discarding the excess water.",
+    "In a large bowl, combine halved tomatoes, crushed red pepper flakes, olive oil, lemon juice, and toasted almonds. Mix gently to coat evenly.",
+    "Fold in chopped parsley leaves and black olives. Adjust seasoning with more salt if needed.",
+    "Serve immediately for best texture and flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "festive",
+    "tomato",
+    "salad",
+    "fruity",
+    "savory",
+    "light"
+  ],
+  "nutrition": {
+    "calories": 85,
+    "protein": 3,
+    "carbs": 9,
+    "fat": 4
+  },
+  "slug": "chewy-festive-tomato-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-festive-tomato-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T16:39:55Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "chewy",
+    "mood": "festive",
+    "technique": "toast",
+    "primaryIngredient": "tomatoes",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Tomato",
+    "descriptor": "Chewy Festive",
+    "dishForm": "Salad"
+  }
+}
