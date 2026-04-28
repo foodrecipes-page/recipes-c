@@ -1,0 +1,83 @@
+{
+  "title": "Crispy Australian Rolled Oats Stir-fry",
+  "description": "A savory and crispy weeknight dish featuring rolled oats, sugar-free-friendly for those with dietary restrictions.",
+  "cuisine": "Australian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rolled Oats",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "Pork or Chicken meat, thinly sliced (for protein source)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Water or Coconut Milk for steaming and binding (optional)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sugar-free Honey or Stevia for sweetening (if desired)",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Combine the rolled oats and water in a pot, bringing to a boil then reducing heat and simmering until thickened, about 10 minutes.",
+    "In a pan with oil, sauté diced onion and minced garlic until translucent, adding sliced meat if using.",
+    "Add the steamed oats mixture into the pan, mixing well to incorporate all ingredients. Add soy sauce, sugar-free sweetener (if using), and any additional liquid for binding.",
+    "Simmer gently, ensuring the dish is heated through and reaches your desired consistency. Adjust seasoning as needed.",
+    "Serve hot with additional vegetables or on its own as a savory side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian-dish",
+    "savory-stir-fry",
+    "crispy-rolled-oats",
+    "sugar-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 18,
+    "carbs": 35,
+    "fat": 9
+  },
+  "slug": "crispy-australian-rolled-oats-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-australian-rolled-oats-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T05:54:36Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crispy",
+    "mood": "weeknight",
+    "technique": "boil",
+    "primaryIngredient": "rolled oats",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "rolled oats",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
