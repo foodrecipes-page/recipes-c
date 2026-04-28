@@ -1,0 +1,100 @@
+{
+  "title": "Citrusy Chewy Fermented Kimchi Stir-fry",
+  "description": "A cozy Korean dish featuring a blend of fermented kimchi, raw-friendly elements, and citrus for a refreshing twist.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fermented Kimchi",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chopped Scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Freshly Squeezed Lime Juice",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Coconut Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Red Pepper Flakes (Kochujang)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "4 green onions, finely chopped"
+    },
+    {
+      "name": "Tahini Sauce",
+      "amount": "1 tablespoon (optional)"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat your wok or skillet over medium-high heat.",
+    "Add sesame oil and sauté garlic and green onions until fragrant.",
+    "Mix in the fermented kimchi, chopped scallions, red pepper flakes (kochujang), lime juice, coconut sugar, and rice vinegar. Stir-fry for 2 minutes.",
+    "Increase heat to high, then add tahini sauce and continue stirring until the mixture has a consistent consistency.",
+    "Add additional sesame seeds during the last minute of cooking.",
+    "Serve hot as a snack or appetizer."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "chewy",
+    "fermented-vegetable-dish",
+    "raw-friendly",
+    "korean-recipe"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 8
+  },
+  "slug": "citrusy-chewy-fermented-kimchi-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-chewy-fermented-kimchi-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T05:30:55Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "chewy",
+    "mood": "cozy",
+    "technique": "ferment",
+    "primaryIngredient": "pepper",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Kimchi",
+    "descriptor": "Citrusy Chewy Fermented Raw",
+    "dishForm": "Stir-fry"
+  }
+}
