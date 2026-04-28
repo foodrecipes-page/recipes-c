@@ -1,0 +1,83 @@
+{
+  "title": "Crispy Middle Eastern Squash Stir-fry",
+  "description": "A kid-friendly, dairy-free, and crispy Middle Eastern dish featuring grilled ancho chili squash with a touch of tanginess from lemon juice.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Grilled Squash",
+      "amount": "1 medium (peeled, seeded)"
+    },
+    {
+      "name": "Ancho Chili",
+      "amount": "2"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "1"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Mint Leaves",
+      "amount": "handful"
+    }
+  ],
+  "instructions": [
+    "Preheat your grill or use a pan for grilling the squash. Season with salt and grilled until tender but still crisp.",
+    "While the squash is grilling, finely chop the garlic and ancho chili.",
+    "In a small bowl, mix olive oil and lemon juice to create a dressing.",
+    "Once the squash is done, remove from heat and let it cool slightly before slicing into strips.",
+    "Combine grilled squash with chopped garlic, chili, and dressing in a large mixing bowl. Stir until evenly coated.",
+    "Add mint leaves and toss gently to combine.",
+    "Serve immediately as a snack or appetizer."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "kid-friendly",
+    "middle-eastern",
+    "ancho-chili"
+  ],
+  "nutrition": {
+    "calories": 96,
+    "protein": 2.7,
+    "carbs": 15.8,
+    "fat": 4.4
+  },
+  "slug": "crispy-middle-eastern-squash-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-middle-eastern-squash-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T02:07:19Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crispy",
+    "mood": "kid-friendly",
+    "technique": "grill",
+    "primaryIngredient": "ancho chillies",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "squash",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
