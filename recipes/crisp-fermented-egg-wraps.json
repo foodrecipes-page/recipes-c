@@ -1,0 +1,70 @@
+{
+  "title": "Crisp Fermented Egg Wraps",
+  "description": "This dish is a sugar-free-friendly fermented egg wrap that can be enjoyed as a breakfast item on lazy Sunday mornings in Uruguay.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fermentation Starter (optional)",
+      "notes": "Provides beneficial bacteria to start the fermentation process"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "A few drops for frying if needed"
+    }
+  ],
+  "instructions": [
+    "Mix eggs and water in a mixing bowl. Add optional fermentation starter.",
+    "Cover the mixture and leave at room temperature overnight (12-24 hours).",
+    "In a small pan, heat vegetable oil until hot. Carefully pour egg mixture into the hot oil to form wraps.",
+    "Fry until golden brown on both sides or until fully cooked.",
+    "Serve warm or at room temperature with any desired toppings."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "crisp",
+    "fermented",
+    "egg",
+    "lazy-sunday",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 100,
+    "protein": 8,
+    "carbs": 5,
+    "fat": 4
+  },
+  "slug": "crisp-fermented-egg-wraps",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-fermented-egg-wraps",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T14:54:38Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crisp",
+    "mood": "lazy-sunday",
+    "technique": "grill",
+    "primaryIngredient": "egg",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "egg",
+    "descriptor": "fermented crisp",
+    "dishForm": "Wraps"
+  }
+}
