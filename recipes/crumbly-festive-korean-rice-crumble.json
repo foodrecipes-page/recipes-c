@@ -1,0 +1,64 @@
+{
+  "title": "Crumbly Festive Korean Rice Crumble",
+  "description": "A fresh and crumbly festive dish featuring caster sugar caramelized to perfection, perfect for a quick snack or dessert.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "caster sugar",
+      "amount": "2 tablespoons",
+      "notes": "coarsely ground"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "a few drops",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, mix the uncooked rice with the coarsely ground caster sugar and a few drops of vanilla extract.",
+    "Cook over medium heat until the mixture caramelizes and turns golden brown, stirring occasionally to prevent burning.",
+    "Once fully caramelized, remove from heat and cool slightly before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "crumbly",
+    "festive",
+    "korean",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 40,
+    "protein": 1,
+    "carbs": 7,
+    "fat": 0
+  },
+  "slug": "crumbly-festive-korean-rice-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-festive-korean-rice-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T14:12:23Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crumbly",
+    "mood": "festive",
+    "technique": "caramelize",
+    "primaryIngredient": "caster sugar",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Rice",
+    "descriptor": "crumbly festive",
+    "dishForm": "Crumble"
+  }
+}
