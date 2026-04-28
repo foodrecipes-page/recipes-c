@@ -1,0 +1,83 @@
+{
+  "title": "Crunchy Spicy Philippine Sausage Stir-fry",
+  "description": "A low-carb, spicy Filipino dish featuring crispy sausage stir-fried with a tangy sauce and vegetables for a satisfying solo dinner.",
+  "cuisine": "Philippine",
+  "diet": [
+    "low-carb",
+    "spicy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "3 slices of Filipino chorizo or similar sausage",
+      "amount": "",
+      "notes": "Use low-sodium variety"
+    },
+    {
+      "name": "1 large bell pepper, sliced thinly",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 cup broccoli florets",
+      "amount": ""
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your broiler to high heat.",
+    "Heat a non-stick skillet over medium-high heat. Add sausage slices and cook until crispy, about 3 minutes per side.",
+    "Remove sausage from pan and set aside. Increase heat to very high.",
+    "Add bell pepper slices and onion to the hot pan with some oil. Stir-fry for 2-3 minutes or until softened.",
+    "Add garlic and broccoli; stir well and cook for another minute.",
+    "Pour in lime juice, stir quickly to combine all ingredients.",
+    "Return cooked sausage to the pan, toss everything together, and broil for about 1 minute or until everything is heated through and slightly crispy.",
+    "Serve hot as a light dinner."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "spicy",
+    "filipino",
+    "solo-dinner"
+  ],
+  "nutrition": {
+    "calories": 301,
+    "protein": 26,
+    "carbs": 5,
+    "fat": 21
+  },
+  "slug": "crunchy-spicy-philippine-sausage-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-spicy-philippine-sausage-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T21:00:14Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crunchy",
+    "mood": "solo-dinner",
+    "technique": "broil",
+    "primaryIngredient": "sausage",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Philippine",
+    "mainIngredient": "Sausage",
+    "descriptor": "Spicy Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
