@@ -1,0 +1,91 @@
+{
+  "title": "Citrusy Chewy Korean Quinoa Stir-fry",
+  "description": "A citrusy and chewy solo-dinner dish with high-protein-friendly quinoa as the base, served as a satisfying side or main course.",
+  "cuisine": "Korean",
+  "diet": [
+    "high-protein",
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Quinoa",
+      "amount": "1 cup",
+      "notes": "Pre-rinsed and soaked for at least 30 minutes"
+    },
+    {
+      "name": "Korean Quercetin Citrus Powder",
+      "amount": "1 tablespoon",
+      "notes": "Available in health food stores or online"
+    },
+    {
+      "name": "Water",
+      "amount": "Enough to cover the quinoa and for soaking"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Sliced thinly"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 medium",
+      "notes": "Chopped into matchsticks"
+    },
+    {
+      "name": "Peppers (bell or red), optional",
+      "amount": "2-3, finely chopped",
+      "notes": "For extra crunch and flavor"
+    },
+    {
+      "name": "Korean Chili Garlic Sauce",
+      "amount": "1 tablespoon",
+      "notes": "Mayonnaise-based for a creamy texture"
+    }
+  ],
+  "instructions": [
+    "Boil the quinoa in enough water to cover it, then let it soak for at least 30 minutes.",
+    "Drain and rinse the quinoa. In a wok or large frying pan, heat some oil over medium-high heat.",
+    "Add garlic and sauté until fragrant (about 1 minute).",
+    "Add carrots and peppers if using, stirring to combine well with the garlic mixture for about 2 minutes.",
+    "Pour in the Korean Quercetin Citrus Powder and stir for a couple of seconds.",
+    "Slowly pour in the boiled quinoa, ensuring it is fully coated with the citrus powder. Stir until evenly mixed and heated through.",
+    "Add Korean Chili Garlic Sauce and continue to stir-fry for another 2 minutes until the mixture is hot and well combined.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "korean",
+    "chewy",
+    "high-protein-friendly"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 9,
+    "carbs": 25,
+    "fat": 4
+  },
+  "slug": "citrusy-chewy-korean-quinoa-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-chewy-korean-quinoa-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T12:00:09Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "chewy",
+    "mood": "solo-dinner",
+    "technique": "blanch",
+    "primaryIngredient": "boiling water",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "quinoa",
+    "descriptor": "Citrusy Chewy",
+    "dishForm": "Stir-fry"
+  }
+}
