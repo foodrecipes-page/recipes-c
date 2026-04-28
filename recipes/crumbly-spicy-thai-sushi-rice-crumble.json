@@ -1,0 +1,92 @@
+{
+  "title": "Spicy Gluten-Free Thai Sushi Rice Crumble",
+  "description": "This comforting dish features a crumbly texture made from sushi rice combined with spices and simmered to perfection, ideal for breakfast or snack time.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 cups sushi rice",
+      "amount": "",
+      "notes": "Use gluten-free sushi rice if needed."
+    },
+    {
+      "name": "1 tablespoon gluten-free tamari sauce",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup coconut cream",
+      "amount": "",
+      "notes": "For a creamy texture."
+    },
+    {
+      "name": "1/4 teaspoon ground cumin",
+      "amount": "",
+      "notes": "Adds a warm, earthy flavor."
+    },
+    {
+      "name": "1/4 teaspoon smoked paprika",
+      "amount": "",
+      "notes": "Enhances the spiciness and smokiness."
+    },
+    {
+      "name": "1/8 teaspoon red pepper flakes (adjust to taste)",
+      "amount": "",
+      "notes": "Provides a kick of spice."
+    },
+    {
+      "name": "1/2 cup chopped fresh cilantro",
+      "amount": "",
+      "notes": "For garnish."
+    },
+    {
+      "name": "1 tablespoon lime juice",
+      "amount": "",
+      "notes": "Freshly squeezed for bright acidity."
+    }
+  ],
+  "instructions": [
+    "Rinse the sushi rice under cold water until the water runs clear. Transfer to a pot and cover with water.",
+    "Add salt, ground cumin, smoked paprika, and red pepper flakes. Bring to a boil, then reduce heat to low and simmer for about 20 minutes or until water is absorbed, fluffing gently with a fork after every few minutes.",
+    "Once cooled slightly, mix in the tamari sauce, coconut cream, and lime juice until well combined. Stir in chopped fresh cilantro just before serving.",
+    "Serve chilled as a snack, topping toasted nuts like walnuts or almonds for added crunch."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crumbly",
+    "spicy",
+    "thai",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 41,
+    "fat": 8
+  },
+  "slug": "crumbly-spicy-thai-sushi-rice-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-spicy-thai-sushi-rice-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T06:02:47Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crumbly",
+    "mood": "comforting",
+    "technique": "simmer",
+    "primaryIngredient": "sushi rice",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Sushi Rice",
+    "descriptor": "Spicy Crumbly",
+    "dishForm": "Crumble"
+  }
+}
