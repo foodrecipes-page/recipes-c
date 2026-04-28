@@ -1,0 +1,86 @@
+{
+  "title": "Citrusy Crumbly Mustard Crumble",
+  "description": "A midnight-craving Portuguese dish featuring citrus, mustard, and poached elements in a whole30-friendly crumble.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup almond flour",
+      "amount": "",
+      "notes": "For gluten-free option, use coconut flour instead."
+    },
+    {
+      "name": "1/4 cup unsweetened shredded coconut",
+      "amount": ""
+    },
+    {
+      "name": "2 tablespoons honey or maple syrup (optional)",
+      "amount": ""
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": ""
+    },
+    {
+      "name": "Juice of 1 orange",
+      "amount": ""
+    },
+    {
+      "name": "4 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "2 teaspoons Dijon mustard",
+      "amount": ""
+    },
+    {
+      "name": "Pinch of sea salt",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C). In a medium bowl, mix almond flour and shredded coconut. If using honey or maple syrup, add it now and stir well.",
+    "In a separate pan over medium heat, sauté minced garlic until fragrant, about 2 minutes.",
+    "Add lemon and orange juices to the garlic mixture along with mustard and salt. Cook for another minute.",
+    "Pour the citrusy mustard mixture into the almond flour bowl. Mix until combined thoroughly.",
+    "Press mixture evenly onto a parchment-lined baking sheet or directly on a cookie tray if you prefer a crumbly texture. Bake for 15-20 minutes or until golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "mustard",
+    "citrus",
+    "crumble",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 2,
+    "carbs": 6,
+    "fat": 5
+  },
+  "slug": "citrusy-crumbly-mustard-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-crumbly-mustard-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T13:01:09Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crumbly",
+    "mood": "midnight-craving",
+    "technique": "poach",
+    "primaryIngredient": "mustard",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Mustard",
+    "descriptor": "Citrusy Crumbly Midnight",
+    "dishForm": "Crumble"
+  }
+}
