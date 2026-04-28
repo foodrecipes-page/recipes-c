@@ -1,0 +1,85 @@
+{
+  "title": "Citrusy Crunchy Algerian Olive Stir-fry",
+  "description": "This dish features a blend of tangy citrus and crunchy olives, served as a keto-friendly meal.",
+  "cuisine": "Algerian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4, minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/8 teaspoon"
+    },
+    {
+      "name": "almonds, sliced",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "green olives",
+      "amount": "6-8, halved"
+    },
+    {
+      "name": "parsley",
+      "amount": "2 tablespoons, chopped"
+    },
+    {
+      "name": "onion, finely diced",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium-high heat.",
+    "Add minced garlic and red pepper flakes. Sauté for about 30 seconds until fragrant.",
+    "Pour in lemon juice while stirring continuously to avoid burning.",
+    "Toss in halved green olives, sliced almonds, and finely diced onion. Stir-fry for another minute or so.",
+    "Garnish with chopped parsley before serving.",
+    "Serve immediately as a side dish or main course."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "algerian",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 8,
+    "carbs": 15,
+    "fat": 14
+  },
+  "slug": "citrusy-crunchy-algerian-olive-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-crunchy-algerian-olive-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T19:03:51Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crunchy",
+    "mood": "show-off",
+    "technique": "braise",
+    "primaryIngredient": "olives",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Olive",
+    "descriptor": "Citrusy Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
