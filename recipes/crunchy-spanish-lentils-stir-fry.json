@@ -1,0 +1,94 @@
+{
+  "title": "Crunchy Spanish Lentils Stir-fry",
+  "description": "A salty and crunchy solo-dinner dish featuring green and red lentils in a nut-free stir-fry.",
+  "cuisine": "Spanish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup green lentils",
+      "amount": "cup",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "1 cup red lentils",
+      "amount": "cup",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 onion, finely chopped",
+      "amount": "piece"
+    },
+    {
+      "name": "4 garlic cloves, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "1 red pepper, diced",
+      "amount": "piece"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juice"
+    },
+    {
+      "name": "Salt and black pepper to taste",
+      "amount": null
+    },
+    {
+      "name": "2 tablespoons fresh parsley, chopped (optional)",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Freshly grated nutmeg (optional)",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium-high heat.",
+    "Add onions and garlic, sauté until soft and translucent.",
+    "Stir in red peppers and cook for another minute.",
+    "Drain the soaked lentils (reserving soaking liquid), then add to the pan along with 1/4 cup of reserved soaking water. Stir well to combine.",
+    "Pour in lemon juice, season with salt, black pepper, and nutmeg if using.",
+    "Cook for an additional 5-7 minutes until lentils are tender but still crunchy on top (do not overcook).",
+    "Garnish with fresh parsley before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy-spanish-lentils-stir-fry",
+    "salty-vegan-dish",
+    "nut-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 13,
+    "carbs": 40,
+    "fat": 7
+  },
+  "slug": "crunchy-spanish-lentils-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-spanish-lentils-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T00:22:04Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crunchy",
+    "mood": "solo-dinner",
+    "technique": "whisk",
+    "primaryIngredient": "green red lentils",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Lentils",
+    "descriptor": "Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
