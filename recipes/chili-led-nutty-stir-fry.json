@@ -1,0 +1,99 @@
+{
+  "title": "Chili Led Nutty Stir-Fry",
+  "description": "A spicy and savory dish that combines nuttiness with a touch of adventure, featuring a special chilli sauce to create a unique Russian-flavored meal.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chili flakes",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "peanuts",
+      "amount": "30g (shelled)"
+    },
+    {
+      "name": "almonds",
+      "amount": "15g (chopped)"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp, grated"
+    },
+    {
+      "name": "chili sauce",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "tapioca pearls",
+      "amount": "50g"
+    },
+    {
+      "name": "water",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large frying pan over medium-high heat.",
+    "Add chili flakes, garlic, ginger, and peanuts to the pan; stir-fry for about 1 minute until fragrant.",
+    "Pour in soy sauce, rice vinegar, brown sugar, and chili sauce. Bring to a boil.",
+    "Reduce heat to low-medium and simmer for another 5 minutes while stirring occasionally.",
+    "Taste and adjust seasoning as needed (add more salt if preferred).",
+    "Add tapioca pearls to the pan; stir-fry for about 2-3 minutes until they start to swell.",
+    "Fold in almonds, mix well and let cook for an additional minute.",
+    "Serve hot immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "silky",
+    "adventurous",
+    "russian",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 38,
+    "fat": 14
+  },
+  "slug": "chili-led-nutty-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chili-led-nutty-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T04:32:57Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "silky",
+    "mood": "adventurous",
+    "technique": "boil",
+    "primaryIngredient": "chilli sauce",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "nuts",
+    "descriptor": "Chili-Led",
+    "dishForm": "Stir-fry"
+  }
+}
