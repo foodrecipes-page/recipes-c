@@ -1,0 +1,81 @@
+{
+  "title": "Citrusy Dense Japanese Chickpea Stir-fry",
+  "description": "A diabetic-friendly and low-carb date-night dish featuring citrusy chickpeas that are dense and packed with flavor.",
+  "cuisine": "Japanese",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "2 cups"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a wok over medium-high heat.",
+    "Add chickpeas and cook until golden brown, about 5 minutes.",
+    "Stir-fry green onions and ginger until fragrant, about 1 minute.",
+    "Mix lemon juice, soy sauce, and rice vinegar. Pour the mixture into the chickpeas.",
+    "Cook for an additional 2-3 minutes or until all ingredients are heated through.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "dense",
+    "japanese-chickpea-stir-fry"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 7
+  },
+  "slug": "citrusy-dense-japanese-chickpea-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-dense-japanese-chickpea-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T04:51:15Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "rest",
+    "primaryIngredient": "chickpeas",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Chickpeas",
+    "descriptor": "Citrusy Dense",
+    "dishForm": "Stir-fry"
+  }
+}
