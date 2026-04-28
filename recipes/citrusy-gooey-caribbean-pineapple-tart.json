@@ -1,0 +1,96 @@
+{
+  "title": "Citrusy Gooey Caribbean Pineapple Tart",
+  "description": "An adventurous Venezuelan dish featuring citrusy, gooey layers with a hint of maple syrup sweetness for an elevated dessert that's also high-protein-friendly.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pineapple",
+      "amount": "1 can (14 oz), drained and sliced"
+    },
+    {
+      "name": "Maple Syrup",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large, separated"
+    },
+    {
+      "name": "Butter",
+      "amount": "8 tbsp, melted"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 cup, granulated"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Peanut Butter Powder (Optional)",
+      "amount": "to taste, for added protein and texture"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C). Grease a tart pan.",
+    "Combine maple syrup, egg yolks, melted butter, sugar, vanilla extract, cornstarch, flour, and cayenne pepper in a bowl. Mix until smooth.",
+    "Pour the mixture into the prepared tart pan. Place 1 cup of pineapple slices on top.",
+    "Beat egg whites with a pinch of salt to stiff peaks. Fold into the topping batter gently to combine.",
+    "Bake for 25-30 minutes or until golden brown and set in center. Let cool before adding peanut butter powder if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "gooey",
+    "caribbean",
+    "pineapple",
+    "maple-syrup",
+    "tart",
+    "high-protein-friendly"
+  ],
+  "nutrition": {
+    "calories": 408,
+    "protein": 15,
+    "carbs": 39,
+    "fat": 18
+  },
+  "slug": "citrusy-gooey-caribbean-pineapple-tart",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-gooey-caribbean-pineapple-tart",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T00:44:19Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "gooey",
+    "mood": "adventurous",
+    "technique": "bake",
+    "primaryIngredient": "maple syrup",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Caribbean",
+    "mainIngredient": "pineapple",
+    "descriptor": "Citrusy Gooey",
+    "dishForm": "Tart"
+  }
+}
