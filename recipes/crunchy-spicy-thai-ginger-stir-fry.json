@@ -1,0 +1,88 @@
+{
+  "title": "Crunchy Spicy Thai Ginger Stir-fry",
+  "description": "A sweet and spicy Thai ginger stir-fry with a touch of creaminess made from whole30-friendly ingredients.",
+  "cuisine": "Thai",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 can coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "2 tablespoons butter",
+      "amount": "2 tbsp",
+      "notes": "Ensure it's unsalted if dietary restrictions apply."
+    },
+    {
+      "name": "4 cloves garlic",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "1 thumb ginger",
+      "amount": "1 piece whole"
+    },
+    {
+      "name": "1 can lite coconut cream",
+      "amount": "1 can"
+    },
+    {
+      "name": "2 tablespoons soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "30g cornstarch",
+      "amount": "30g",
+      "notes": "For thickening the sauce"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "To sprinkle",
+      "notes": "Optional garnish for crunchiness"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix cornstarch with 1 tablespoon of water to create a slurry.",
+    "Heat butter in a wok or large skillet over medium heat. Add garlic and ginger; stir-fry until fragrant and slightly browned.",
+    "Pour coconut milk into the pan while stirring continuously for about 5 minutes. Reduce heat to low and add soy sauce, lite coconut cream, and cornstarch slurry mixture.",
+    "Cook for another 10 minutes or until thickened. Stir in sesame seeds if using.",
+    "Serve hot over steamed rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "sweet",
+    "spicy",
+    "thai"
+  ],
+  "nutrition": {
+    "calories": 387,
+    "protein": 12,
+    "carbs": 50,
+    "fat": 24
+  },
+  "slug": "crunchy-spicy-thai-ginger-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-spicy-thai-ginger-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T04:11:48Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crunchy",
+    "mood": "hangover-cure",
+    "technique": "slow-cook",
+    "primaryIngredient": "butter",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "ginger",
+    "descriptor": "Spicy Crunchy Whole30 Butter Slow Cook",
+    "dishForm": "Stir-fry"
+  }
+}
