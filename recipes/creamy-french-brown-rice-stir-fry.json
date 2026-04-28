@@ -1,0 +1,100 @@
+{
+  "title": "Creamy French Brown Rice Stir-fry",
+  "description": "A sweet and creamy one-pot French dish featuring brown rice, cooked sous-vide to perfection.",
+  "cuisine": "French",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Brown Rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Chicken Breast Slices",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Thyme Sprigs",
+      "amount": "6-8 fresh, optional"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Half-and-Half",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Parsley, Freshly Chopped (Optional)",
+      "amount": "",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat sous-vide to 150°F (65°C). Cook brown rice according to package instructions until tender.",
+    "In a pan over medium heat, sauté onion and garlic until translucent. Add chicken slices and cook until no longer pink; set aside.",
+    "Return the pan with the chicken mixture to medium-high heat. Add sliced mushrooms and cook for 5 minutes.",
+    "Add heavy cream and half-and-half to the pan, stirring to combine. Bring to a simmer, then add cooked rice, thyme sprigs (if using), salt, and pepper. Stir until everything is well combined and heated through.",
+    "Remove from heat; garnish with fresh parsley if desired. Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sous-vide",
+    "sweet",
+    "creamy",
+    "french",
+    "brown-rice-stir-fry",
+    "nut-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "creamy-french-brown-rice-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-french-brown-rice-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T16:32:56Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "creamy",
+    "mood": "one-pot",
+    "technique": "sous-vide",
+    "primaryIngredient": "brown rice",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Brown Rice",
+    "descriptor": "Creamy",
+    "dishForm": "Stir-fry"
+  }
+}
