@@ -1,0 +1,83 @@
+{
+  "title": "Chewy Uruguayan Lamb Stir-fry",
+  "description": "This dish features a fresh and chewy lamb stir-fry with a touch of vegan-friendly ingredients for post-workout recovery.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ulluco Roots",
+      "amount": "1 medium-sized",
+      "notes": "For added texture and flavor"
+    },
+    {
+      "name": "Lentils",
+      "amount": "2 cups cooked",
+      "notes": "Vegan-friendly meat alternative"
+    },
+    {
+      "name": "Broccoli Florets",
+      "amount": "1 cup",
+      "notes": "Stable in high heat, adds crunchiness"
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1 tsp",
+      "notes": "For a spicy kick"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": "To balance flavors and add freshness"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tbsp",
+      "notes": "Used for cooking and dressing"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok over medium-high heat.",
+    "Add chil flakes and stir fry for about 1 minute.",
+    "Add luquillo roots, lentils, broccoli florets to the wok.",
+    "Stir-fry all ingredients together for about 5 minutes or until vegetables are tender-crisp.",
+    "Mix in lemon juice and season with salt if needed.",
+    "Serve hot as a lunch dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lamb-free",
+    "vegan-friendly",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 515,
+    "protein": 27,
+    "carbs": 36,
+    "fat": 18
+  },
+  "slug": "chewy-uruguayan-lamb-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-uruguayan-lamb-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T06:49:38Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "chewy",
+    "mood": "post-workout",
+    "technique": "temper",
+    "primaryIngredient": "lamb stock",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Lamb",
+    "descriptor": "Chewy",
+    "dishForm": "Stir-fry"
+  }
+}
