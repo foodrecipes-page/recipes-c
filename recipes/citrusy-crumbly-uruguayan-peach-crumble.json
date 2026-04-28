@@ -1,0 +1,80 @@
+{
+  "title": "Citrusy Crumbly Uruguayan Peach Crumble",
+  "description": "This paleo-friendly weeknight dish features juicy peaches pressure-cooked with a citrusy crumbly topping for a delicious dessert or snack.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 large ripe peach",
+      "amount": "1 whole"
+    },
+    {
+      "name": "2 tbsp honey or coconut nectar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Zest of 2 lemons",
+      "amount": "From 2 lemons, finely grated"
+    },
+    {
+      "name": "Juice of 2 lemons",
+      "amount": "From 2 lemons, strained"
+    },
+    {
+      "name": "1/4 cup coconut flour or almond flour",
+      "amount": "75g"
+    },
+    {
+      "name": "3 tbsp melted coconut oil or avocado oil",
+      "amount": "60ml"
+    }
+  ],
+  "instructions": [
+    "Preheat your pressure cooker to high heat.",
+    "Wash and halve the peach, removing any pits. Arrange halves in the bottom of the pressure cooker.",
+    "Add honey or nectar, lemons (zest only), and lemon juice to the peach halves. Seal the cooker and cook for 15 minutes on high pressure.",
+    "While the cooker is under pressure, mix coconut flour with melted oil until smooth and creamy.",
+    "Once cooked, let your pressure cooker naturally release steam for about 10 minutes before carefully opening it. Remove peaches and juice from cooker and set aside.",
+    "In a mixing bowl, combine the cooled peach mixture with the coconut crumb mixture until well combined.",
+    "Pour the mixed crumble over the remaining halves of peaches in the pressure cooker or into a baking dish. Smooth out evenly.",
+    "Bake at 350°F (175°C) for about 20 minutes, or until golden and crispy on top. Serve warm as a dessert or snack."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "uruguayan",
+    "citrusy",
+    "crumbly",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 4,
+    "carbs": 28,
+    "fat": 11
+  },
+  "slug": "citrusy-crumbly-uruguayan-peach-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-crumbly-uruguayan-peach-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T17:13:46Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crumbly",
+    "mood": "weeknight",
+    "technique": "pressure-cook",
+    "primaryIngredient": "peaches",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Peach",
+    "descriptor": "Citrusy Crumbly",
+    "dishForm": "Crumble"
+  }
+}
