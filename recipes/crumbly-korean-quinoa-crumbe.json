@@ -1,0 +1,76 @@
+{
+  "title": "Crumbly Korean Quinoa Crumbe",
+  "description": "A fresh, crumbly, light polish dish featuring mixed grains that are crispy and vegan-friendly, perfect for a snack or side dish.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "rice cake crumbs (optional)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "mixed grains (e.g. amaranth, buckwheat, quinoa)",
+      "amount": "3 cups"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Rinse quinoa under cold water and cook according to package instructions until tender. Let it cool.",
+    "Mix cooked quinoa with rice cake crumbs if using, adding a pinch of salt for flavoring.",
+    "Combine mixed grains (amaranth, buckwheat, quinoa) in another bowl.",
+    "Heat sesame oil in a pan over medium heat. Add the mixed grain mixture and cook until lightly toasted.",
+    "Fold cooked quinoa into the mixed grain mixture while hot.",
+    "Transfer to serving plates."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crumbly",
+    "korean",
+    "quinoa",
+    "mixed-grain",
+    "light-polish-dish",
+    "crumbe"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 16,
+    "carbs": 45,
+    "fat": 8
+  },
+  "slug": "crumbly-korean-quinoa-crumbe",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-korean-quinoa-crumbe",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T04:44:31Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crumbly",
+    "mood": "light",
+    "technique": "fry",
+    "primaryIngredient": "mixed grain",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "quinoa",
+    "descriptor": "crumbly",
+    "dishForm": "Crumble"
+  }
+}
