@@ -1,0 +1,89 @@
+{
+  "title": "Creamy British Napa Cabbage Soup",
+  "description": "A kid-friendly and vegan-friendly creamy British soup featuring napa cabbage that is both sour from lemon juice and rich with cream for a comforting meal.",
+  "cuisine": "British",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 large napa cabbage",
+      "amount": "trimmed, chopped finely"
+    },
+    {
+      "name": "4 cups vegetable broth",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "3 tablespoons olive oil",
+      "notes": "plus extra for tossing"
+    },
+    {
+      "name": "2 medium onions",
+      "amount": "chopped"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "minced"
+    },
+    {
+      "name": "1 cup heavy cream or plant-based milk (such as almond or soy milk)",
+      "notes": "use to achieve a creamy texture"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "notes": "plus extra for garnish"
+    },
+    {
+      "name": "Salt and pepper, to taste"
+    },
+    {
+      "name": "Optional: Fresh herbs like parsley or dill (chopped), optional garnish"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat. Add onions and garlic, sauté until soft and translucent.",
+    "Add napa cabbage to the pot. Stir occasionally for about 5 minutes until softened but still slightly crisp.",
+    "Pour in vegetable broth, bring to a simmer. Reduce heat to low, cover pot, and let cook for about 20-30 minutes or until cabbage is very tender.",
+    "In another small saucepan, whisk together heavy cream or plant-based milk with lemon juice and a pinch of salt. Heat gently over medium-low heat until warm but not boiling.",
+    "Stir the heated cream mixture into the pot with the cabbage. Taste for seasoning, adding more salt and pepper as needed.",
+    "Serve hot. Garnish each bowl with a sprig of fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "creamy",
+    "british",
+    "kid-friendly",
+    "sour",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 4,
+    "carbs": 3,
+    "fat": 8
+  },
+  "slug": "creamy-british-napa-cabbage-soup",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-british-napa-cabbage-soup",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T08:05:22Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "creamy",
+    "mood": "kid-friendly",
+    "technique": "simmer",
+    "primaryIngredient": "napa cabbage",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Napa Cabbage",
+    "descriptor": "Creamy",
+    "dishForm": "Soup"
+  }
+}
