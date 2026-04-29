@@ -1,0 +1,67 @@
+{
+  "title": "Crumbly Moroccan Mature Cheddar Crumble",
+  "description": "A rich and crumbly Moroccan dish featuring mature cheddar cheese, caramelized to perfection with no added sugars.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "sugar-free-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Mature Cheddar Cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Pinch of Salt"
+    },
+    {
+      "name": "Fresh Herbs (Optional)",
+      "notes": "Such as fresh parsley or cilantro for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Gently mix the mature cheddar cheese with heavy cream and a pinch of salt.",
+    "Pour the mixture into an oven-safe dish. Bake in preheated oven for about 20 minutes, or until it starts to brown on top.",
+    "Remove from heat and let cool slightly. Garnish with fresh herbs if desired.",
+    "Serve warm as a dessert."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crumbly",
+    "maturecheddar",
+    "moroccan"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 6,
+    "carbs": 2,
+    "fat": 9
+  },
+  "slug": "crumbly-moroccan-mature-cheddar-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-moroccan-mature-cheddar-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T05:51:01Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crumbly",
+    "mood": "one-pot",
+    "technique": "caramelize",
+    "primaryIngredient": "mature cheddar",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Mature Cheddar",
+    "descriptor": "Crumbly",
+    "dishForm": "Crumble"
+  }
+}
