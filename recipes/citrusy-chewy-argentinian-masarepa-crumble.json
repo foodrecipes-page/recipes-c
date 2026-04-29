@@ -1,0 +1,85 @@
+{
+  "title": "Citrusy Chewy Argentinian Masarepa Crumble",
+  "description": "This Mediterranean-friendly dish features chewy white masarepa crumbled over a citrusy base and is perfect for a monsoon season in Argentina.",
+  "cuisine": "Argentinean",
+  "diet": [
+    "vegetarian",
+    "low-carb"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "2 cups of white masarepa",
+      "amount": "",
+      "notes": "Prepared using water and flour as per traditional methods"
+    },
+    {
+      "name": "1 cup of fresh citrus zest (from limes, oranges, or grapefruits)",
+      "amount": "",
+      "notes": "Zest should be finely chopped"
+    },
+    {
+      "name": "2 tablespoons of honey",
+      "amount": "",
+      "notes": "Use to sweeten the dish"
+    },
+    {
+      "name": "Juice from 1 lemon",
+      "amount": "",
+      "notes": "For added citrus flavor"
+    },
+    {
+      "name": "1/4 cup of coconut oil, melted",
+      "amount": "",
+      "notes": "Helps bind ingredients together and adds a slight tropical touch"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "",
+      "notes": "To enhance the overall taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "In a mixing bowl, combine all ingredients and mix well until a thick crumble forms.",
+    "Transfer the mixture onto an ungreased baking dish. Make sure to spread it evenly for uniform cooking.",
+    "Bake in the preheated oven for 20 minutes or until golden brown and crispy on top.",
+    "Allow the masarepa crumble to cool before serving. It can be enjoyed as a dessert with fresh fruits or yogurt."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "masarepa",
+    "crumble",
+    "citrusy",
+    "argentinian",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 5,
+    "carbs": 37,
+    "fat": 14
+  },
+  "slug": "citrusy-chewy-argentinian-masarepa-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-chewy-argentinian-masarepa-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T12:36:38Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "chewy",
+    "mood": "monsoon",
+    "technique": "reduce",
+    "primaryIngredient": "white masarepa",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "masarepa",
+    "descriptor": "Citrusy Chewy",
+    "dishForm": "Crumble"
+  }
+}
