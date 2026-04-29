@@ -1,0 +1,74 @@
+{
+  "title": "Crispy Garlicky Low-Fat-Friendly Croatian Garlic Stir-fry",
+  "description": "A romantic Croatian dish featuring crispy garlic with a low-fat twist for a healthy twist on traditional dishes.",
+  "cuisine": "Croatian",
+  "diet": [
+    "low-fat",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Garlic cloves",
+      "amount": "10-12 cloves"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Broccoli florets",
+      "amount": "1 cup fresh, chopped"
+    },
+    {
+      "name": "Red bell pepper slices",
+      "amount": "1 small (about 1/4 cup, sliced)"
+    },
+    {
+      "name": "Onion, finely diced",
+      "amount": "1 medium"
+    }
+  ],
+  "instructions": [
+    "Slice the garlic thinly or leave whole cloves for a rustic touch. Thinly slice the red bell pepper and onion.",
+    "Heat oil in a non-stick skillet over medium-high heat until shimmering but not smoking.",
+    "Add the garlic and cook for about 1-2 minutes, stirring frequently to prevent burning.",
+    "Next add the broccoli florets and continue cooking for another 3-4 minutes or until they start to soften slightly.",
+    "Finally, add the red bell pepper slices and onion. Stir-fry for an additional 2-3 minutes or until all vegetables are tender but still crisp.",
+    "Season with salt and pepper to taste, adjust seasoning if necessary."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlic",
+    "crispy",
+    "croatian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 9,
+    "carbs": 18,
+    "fat": 3
+  },
+  "slug": "crispy-garlicky-low-fat-friendly-croatian-garlic-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-garlicky-low-fat-friendly-croatian-garlic-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T00:08:58Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crisp",
+    "mood": "romantic",
+    "technique": "rest",
+    "primaryIngredient": "garlic",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Garlic",
+    "descriptor": "garlicky crisp low-fat-friendly",
+    "dishForm": "Stir-fry"
+  }
+}
