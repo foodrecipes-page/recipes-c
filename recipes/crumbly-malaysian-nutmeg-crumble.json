@@ -1,0 +1,90 @@
+{
+  "title": "Crumbly Malaysian Nutmeg Crumble",
+  "description": "A post-workout Malaysian dish featuring a crumbly fermented base with a bouquet garni and poaching component, suitable for nut-free diets.",
+  "cuisine": "Malaysian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fermented coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fermented green papaya (lauk pauk)",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Powdered sweet potato",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Cocoa powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Fermented lemon juice concentrate",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Oat flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Almond milk or coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Bouquet garni (thyme, bay leaf, fennel seed)",
+      "notes": "For poaching"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Mix all ingredients for the crumble base in a bowl.",
+    "Add the bouquet garni to the almond milk or coconut milk and simmer gently until fragrant, about 10 minutes. Strain into the crumble base.",
+    "Blend the mixture until smooth, then stir in oat flour while hot.",
+    "Pour the crumbly mixture into a baking dish and chill for at least 2 hours before serving.",
+    "Serve chilled with fruit or on its own."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crumble",
+    "mexican-chocolate",
+    "fermented"
+  ],
+  "nutrition": {
+    "calories": 325,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "crumbly-malaysian-nutmeg-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-malaysian-nutmeg-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T00:45:34Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crumbly",
+    "mood": "post-workout",
+    "technique": "poach",
+    "primaryIngredient": "bouquet garni",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Nutmeg",
+    "descriptor": "Crumbly",
+    "dishForm": "Crumble"
+  }
+}
