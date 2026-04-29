@@ -1,0 +1,97 @@
+{
+  "title": "Crispy Garlic Moroccan Stir-fry",
+  "description": "A crispy garlic Moroccan stir-fry featuring red chilli and a tadka flavor profile without the need for eggs. Nostalgic and memorable with its rich spices.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "5-6 cloves"
+    },
+    {
+      "name": "Red Chillies",
+      "amount": "2-3 whole"
+    },
+    {
+      "name": "Tomato puree or chopped fresh tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Coriander powder (Dhania Powder)",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Salt to taste"
+    },
+    {
+      "name": "Red Chillies flakes (for garnish)",
+      "amount": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a non-stick pan over medium heat.",
+    "Add cumin seeds and fry until they splutter, then add chopped garlic and fry for about 2-3 minutes or until fragrant.",
+    "Stir in tomato puree or fresh tomatoes along with salt. Mix well and cook until it thickens slightly.",
+    "Toss in turmeric powder, coriander powder, and garam masala; mix well to ensure no lumps form.",
+    "Slice onions diagonally and add them to the pan. Continue stirring till they start turning golden brown.",
+    "Add red chillies (whole) towards the end of cooking onions. Allow them to cook until their outer layer becomes crispy.",
+    "For extra crunch, sprinkle some red chillies flakes on top just before serving if desired.",
+    "Remove from heat and serve hot with basmati rice or naan bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlicky",
+    "crispy",
+    "moroccan",
+    "nostalgic"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 14
+  },
+  "slug": "crispy-garlic-moroccan-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-garlic-moroccan-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T00:25:23Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crisp",
+    "mood": "nostalgic",
+    "technique": "tadka",
+    "primaryIngredient": "red chilli",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Garlic",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
