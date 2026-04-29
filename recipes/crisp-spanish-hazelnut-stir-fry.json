@@ -1,0 +1,86 @@
+{
+  "title": "Crisp Spanish Hazelnut Stir-fry",
+  "description": "A low-fat-friendly romantic dish featuring marinated hazelnuts that add a nutty umami flavor to the crisp and aromatic stir-fry base.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-calorie",
+    "low-fat"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "hazelnuts",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2 (minced)"
+    },
+    {
+      "name": "red bell pepper strips",
+      "amount": "1 cup"
+    },
+    {
+      "name": "green onions",
+      "amount": "4 (sliced)"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon (for garnish)"
+    }
+  ],
+  "instructions": [
+    "Soak hazelnuts in water for at least 2 hours. Drain and lightly toast them until golden brown, about 3 minutes.",
+    "In a bowl, mix chicken broth, lemon juice, dijon mustard, and garlic. Let it sit for at least an hour to infuse flavors.",
+    "Heat a wok or large skillet over medium-high heat. Add the marinated hazelnuts and stir-fry until they start to get crisp, about 3 minutes.",
+    "Add red bell pepper strips and green onions to the wok. Stir-fry for another minute until vegetables are slightly tender.",
+    "Pour in the marinade mixture and continue stirring until the sauce thickens and coats the hazelnuts and vegetables well, about 2 more minutes.",
+    "Remove from heat and serve garnished with sesame seeds."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crisp-spanish-hazelnut-stir-fry",
+    "low-fat-friendly",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 5,
+    "carbs": 8,
+    "fat": 4
+  },
+  "slug": "crisp-spanish-hazelnut-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-spanish-hazelnut-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T08:40:34Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crisp",
+    "mood": "romantic",
+    "technique": "marinate",
+    "primaryIngredient": "hazlenuts",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "hazelnuts",
+    "descriptor": "Crisp",
+    "dishForm": "Stir-fry"
+  }
+}
