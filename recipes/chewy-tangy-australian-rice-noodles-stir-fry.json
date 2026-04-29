@@ -1,0 +1,89 @@
+{
+  "title": "Chewy Tangy Australian Rice Noodles Stir-fry",
+  "description": "An adventurous tangy and chewy dish featuring rice noodles that pairs perfectly with grilled meats or vegetables.",
+  "cuisine": "Australian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rice Noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4",
+      "notes": "use for flavor and aroma"
+    },
+    {
+      "name": "Red Chili Flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fish Sauce (optional)",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Oyster Sauce (optional)",
+      "amount": "1-2 tbsp"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Grilled Meat or Vegetable for garnish (optional)",
+      "notes": "such as chicken, beef, eggplant, mushrooms"
+    }
+  ],
+  "instructions": [
+    "Rinse and soak the rice noodles in water for about 30 minutes to soften them.",
+    "Heat oil in a pan over medium heat. Add garlic cloves and cook until fragrant but not browned.",
+    "Add soy sauce, lime juice, fish sauce (if using), oyster sauce (if using) to taste. Stir well to combine the flavors.",
+    "Toss the cooked rice noodles into the pan with the sauce mixture, ensuring all the noodles are coated evenly and heated through.",
+    "Serve immediately while warm, garnished with grilled meat or vegetables if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tangy",
+    "chewy",
+    "australian",
+    "stir-fry",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 13,
+    "carbs": 38,
+    "fat": 4
+  },
+  "slug": "chewy-tangy-australian-rice-noodles-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-tangy-australian-rice-noodles-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T13:45:03Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "chewy",
+    "mood": "adventurous",
+    "technique": "grill",
+    "primaryIngredient": "rice noodles",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Rice Noodles",
+    "descriptor": "Tangy Chewy Adventurous",
+    "dishForm": "Stir-fry"
+  }
+}
