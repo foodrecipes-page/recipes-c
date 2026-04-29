@@ -1,0 +1,92 @@
+{
+  "title": "Crispy Spanish Chili Stir-fry",
+  "description": "A dairy-free-friendly weeknight dish featuring umami flavors and crispy textures from the use of chili and bake method.",
+  "cuisine": "Spanish",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chili peppers",
+      "amount": "1 cup",
+      "notes": "red or green, seeded if spicy is desired"
+    },
+    {
+      "name": "aubergine (eggplant)",
+      "amount": "2 medium",
+      "notes": "washed and sliced into thin rounds"
+    },
+    {
+      "name": "baking soda",
+      "amount": "a pinch per 1 cup of beans for crispiness enhancer"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup",
+      "notes": "for seasoning and umami flavor"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "to add a natural sweetness that complements the chili and vegetables"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "6-8 cloves",
+      "notes": "minced for added depth of flavor"
+    },
+    {
+      "name": "ginger root",
+      "amount": "1-inch piece",
+      "notes": "grated or minced finely for umami boost"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (205°C).",
+    "Combine baking soda and soy sauce in a mixing bowl. Add sliced aubergine, toss gently until coated evenly.",
+    "Spread the aubergine slices on a baking sheet lined with parchment paper, making sure they are not touching each other for crispy results.",
+    "Bake for 20-25 minutes or until golden and crispy on both sides. Set aside to cool slightly.",
+    "In a separate pan over medium heat, sauté minced garlic and ginger in oil until fragrant but not browned.",
+    "Add the chili peppers (seeded if needed) to the pan with the vegetables, tossing them around for a few minutes until they start to soften.",
+    "Return the cooled aubergine slices to the pan. Add soy sauce, brown sugar, and remaining cooking liquid from baking pan in a jug.",
+    "Stir everything together well, ensuring all ingredients are evenly coated and heated through. Serve hot as a side dish or over rice or noodles for an additional meal option.",
+    "prepTimeMin: 15",
+    "cookTimeMin: 30",
+    "totalTimeMin: 45",
+    "servings: 4-6",
+    "difficulty: "
+  ],
+  "tags": [
+    "spanish-chili-stir-fry",
+    "crispy-dinner",
+    "umami-friendly",
+    "vegetarian",
+    "low-carb",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 16,
+    "carbs": 9,
+    "fat": 14
+  },
+  "slug": "crispy-spanish-chili-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-spanish-chili-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T06:50:27Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crisp",
+    "mood": "weeknight",
+    "technique": "bake",
+    "primaryIngredient": "chilli",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Chili",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
