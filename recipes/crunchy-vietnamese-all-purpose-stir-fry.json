@@ -1,0 +1,104 @@
+{
+  "title": "Crunchy Vietnamese All-Purpose Stir-fry",
+  "description": "A crowd-pleaser Vietnamese dish featuring all-purpose seasoning, dumplings, and gluten-free-friendly, this spicy stir-fry is perfect for a quick lunch or dinner.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "All-Purpose Seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Dumplings (Gluten-Free)",
+      "amount": "300 grams"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped finely"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 medium",
+      "notes": "julienned"
+    },
+    {
+      "name": "Bean Sprouts",
+      "amount": "200 grams"
+    },
+    {
+      "name": "Red Chili Peppers",
+      "amount": "2-3",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Green Onion",
+      "amount": "1 stalk",
+      "notes": "chopped finely"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a wok or large skillet over medium-high heat. Add minced garlic and chopped onion.",
+    "Sauté for about 1 minute until the onions start to soften.",
+    "Add julienned carrot, finely chopped red chili peppers, and green onion to the pan. Stir-fry for another 2 minutes.",
+    "Stir in all-purpose seasoning and soy sauce. Mix well.",
+    "Gently add dumplings to the stir-fry mixture, cooking until they're fully heated through. This should take about 5-7 minutes.",
+    "Toss with bean sprouts before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "spicy",
+    "vietnamese",
+    "all-purpose-seasoning",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "crunchy-vietnamese-all-purpose-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-vietnamese-all-purpose-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T13:21:37Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crunchy",
+    "mood": "crowd-pleaser",
+    "technique": "dum",
+    "primaryIngredient": "all-purpose seasoning",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "All-Purpose Seasoning",
+    "descriptor": "Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
