@@ -1,0 +1,100 @@
+{
+  "title": "Crunchy Chinese Potato Stir-fry",
+  "description": "A rich and crunchy date-night dish featuring potatoe buns, perfect for a vegetarian or pescatarian meal.",
+  "cuisine": "Chinese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potato rolls",
+      "amount": "12"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp fresh"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "peanuts",
+      "amount": "30g"
+    },
+    {
+      "name": "chili sauce",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your wok or pan over medium-high heat.",
+    "Chop the onion and garlic finely; mince the ginger.",
+    "Heat peanut oil in the wok, then add sliced onions and cook until soft.",
+    "Add minced garlic and ginger, stir-fry for 30 seconds, followed by red pepper flakes.",
+    "Stir in the soy sauce, rice vinegar, sesame oil, salt, and chili sauce. Bring to a simmer.",
+    "Gently fold in potato rolls (ensure not overcooking).",
+    "Toss with peanuts until heated through.",
+    "Serve hot as an appetizer or light meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy-chinese",
+    "potato-buns",
+    "bhuna-style",
+    "date-night-dish"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 25,
+    "carbs": 70,
+    "fat": 30
+  },
+  "slug": "crunchy-chinese-potato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-chinese-potato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T03:51:33Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crunchy",
+    "mood": "date-night",
+    "technique": "bhuna",
+    "primaryIngredient": "potatoe buns",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Potato",
+    "descriptor": "Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
