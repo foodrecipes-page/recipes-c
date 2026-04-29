@@ -1,0 +1,88 @@
+{
+  "title": "Citrusy Dense Crumble Dates",
+  "description": "A delightful date-night Vietnamese dish featuring citrusy flavors and a dense, crumbly texture made with paleo-friendly ingredients.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "1 cup"
+    },
+    {
+      "name": "almond flour or almond meal",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped almonds",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "sugar-free crystallized ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paleo-friendly egg replacer or flax eggs",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Place dates in a blender with almond flour, chopped almonds, sugar-free crystallized ginger, lemon zest, and lime juice. Blend until smooth.",
+    "In a separate bowl, mix paleo-friendly egg replacer or flax eggs with unsalted butter to form a paste.",
+    "Add the paste to the date mixture and blend again until well combined.",
+    "Press the crumbly mixture onto a greased baking dish. Bake for 25 minutes.",
+    "Serve warm as a dessert."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "dense",
+    "dates",
+    "vietnamese",
+    "dessert",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 6,
+    "carbs": 34,
+    "fat": 9
+  },
+  "slug": "citrusy-dense-crumble-dates",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-dense-crumble-dates",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T10:10:32Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "deglaze",
+    "primaryIngredient": "breadcrumbs",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Dates",
+    "descriptor": "Citrusy Dense Crumble",
+    "dishForm": "Crumble"
+  }
+}
