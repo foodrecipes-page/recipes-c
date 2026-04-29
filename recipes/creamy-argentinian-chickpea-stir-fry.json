@@ -1,0 +1,90 @@
+{
+  "title": "Creamy Argentinian Chickpea Stir-Fry",
+  "description": "A savory and tender date-night argentinian dish featuring hummus, temper, and mediterranean-friendly flavors.",
+  "cuisine": "Argentine",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chickpeas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "2 (red, yellow, and green)"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3-4"
+    },
+    {
+      "name": "Hummus",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Temper Sauce",
+      "amount": "as needed"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Leaves of Mint",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Chop the onion and bell peppers into thin strips.",
+    "Slice the garlic cloves thinly.",
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add chickpeas to the pan and fry until golden brown, about 5 minutes.",
+    "Remove from heat and mix with chopped onions, bell peppers, and garlic.",
+    "Drizzle hummus on top of the mixture.",
+    "Season with salt and pepper as needed. Add mint leaves for a pop of freshness.",
+    "Stir in temper sauce to create a creamy consistency.",
+    "Serve hot over quinoa or couscous."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "stir-fry",
+    "vegan",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "creamy-argentinian-chickpea-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-argentinian-chickpea-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T05:26:35Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "tender",
+    "mood": "date-night",
+    "technique": "temper",
+    "primaryIngredient": "hummus",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Chickpea",
+    "descriptor": "Creamy",
+    "dishForm": "Stir-fry"
+  }
+}
