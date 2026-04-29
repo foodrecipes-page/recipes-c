@@ -1,0 +1,83 @@
+{
+  "title": "Keto-Friendly Creamy Savory Cheese Tartlets",
+  "description": "A savory and creamy Ukrainian dish featuring ready rolled shortcrust pastry, perfectly suited for a solo dinner or appetizer.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ready-rolled Shortcrust Pastry Sheets",
+      "amount": "1 sheet per tartlet"
+    },
+    {
+      "name": "Full Fat Heavy Cream",
+      "amount": "200ml"
+    },
+    {
+      "name": "Greek Yogurt (Full Fat)",
+      "amount": "150g"
+    },
+    {
+      "name": "Melted Butter",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "A pinch"
+    },
+    {
+      "name": "Fresh Dill Leaves",
+      "amount": "1 handful"
+    },
+    {
+      "name": "Crushed Black Pepper",
+      "amount": "A few grains"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 200°C (392°F).",
+    "Place the ready-rolled pastry sheet between two sheets of parchment paper.",
+    "Using a small circle cutter or glass, cut out circles from the pastry and place them on a baking tray lined with parchment paper.",
+    "In a mixing bowl, combine the heavy cream, Greek yogurt, melted butter, salt, fresh dill, and black pepper. Mix until well combined.",
+    "Pour the filling mixture evenly over each tartlet circle.",
+    "Place the tartlets in the preheated oven for 15 minutes or until the crust is golden brown.",
+    "Allow to cool slightly before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "creamy",
+    "savory",
+    "keto-friendly",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 4,
+    "fat": 8
+  },
+  "slug": "creamy-savory-cheese-tartlets",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-savory-cheese-tartlets",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T02:50:37Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "creamy",
+    "mood": "solo-dinner",
+    "technique": "knead",
+    "primaryIngredient": "ready rolled shortcrust pastry",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Savory Cheese",
+    "descriptor": "Creamy",
+    "dishForm": "Tartlets"
+  }
+}
