@@ -1,0 +1,105 @@
+{
+  "title": "Crispy Earthy Veal Stir-fry",
+  "description": "A one-pot Uruguayan dish featuring tender veal in a rich, savory sauce that's both earthy and crispy, perfect for a hearty dinner.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "veal steak",
+      "amount": "100g",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "bell peppers, red and yellow",
+      "amount": "2 each",
+      "notes": "chopped finely"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "3-4",
+      "notes": "minced"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "white pepper powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "salt to taste",
+      "amount": null
+    },
+    {
+      "name": "olive oil for brushing",
+      "amount": "a few drops"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium-high heat. Add onion and garlic, sauté until translucent.",
+    "Add veal pieces and brown on all sides, about 5 minutes per side. Remove from pan and set aside.",
+    "In the same pan, add red wine vinegar, tomato paste, lemon zest, salt, pepper powder, and basil leaves. Deglaze by scraping up any browned bits from the bottom of the pan.",
+    "Add bell peppers to the saucepan with the remaining ingredients, stir well, then return veal to the pan, turning to coat evenly in the sauce.",
+    "Cover the pan, reduce heat to low, and simmer for 10-15 minutes until the sauce thickens slightly. Adjust seasoning if needed.",
+    "Sprinkle a few drops of olive oil on top before serving for added crunchiness."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "earthy",
+    "veal",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 638,
+    "protein": 27,
+    "carbs": 14,
+    "fat": 25
+  },
+  "slug": "crispy-earthy-veal-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-earthy-veal-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T10:25:02Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "deglaze",
+    "primaryIngredient": "veal",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "veal",
+    "descriptor": "Earthy Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
