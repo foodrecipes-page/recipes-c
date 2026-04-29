@@ -1,0 +1,84 @@
+{
+  "title": "Caramelized Tangy Sweet Potato Stir-fry",
+  "description": "A comforting Peruvian dish featuring tender sweet potatoes caramelized with a tangy glaze made from rose water. This low-carb-friendly recipe is perfect for dinner.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "preferably purple or orange varieties"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp",
+      "notes": "vegetable oil is recommended for non-stick cooking"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4-6 pieces",
+      "notes": "finely minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "freshly grated or finely chopped"
+    },
+    {
+      "name": "rose water",
+      "amount": "2 tbsp",
+      "notes": "ensure it is fresh and not expired"
+    },
+    {
+      "name": "tangy glaze (optional)",
+      "amount": "4-6 tbsp",
+      "notes": "may include lemon juice, apple cider vinegar or any other tangy alternative"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F.",
+    "Slice the sweet potatoes into thin rounds and place them on a baking sheet lined with parchment paper. Drizzle with oil and season lightly with salt and pepper. Roast in the preheated oven for about 20 minutes until golden brown and tender.",
+    "While the sweet potatoes are roasting, heat 1 tbsp of oil in a skillet over medium-high heat. Add minced garlic and ginger, sautéing for about 1 minute.",
+    "Remove roasted sweet potatoes from the oven, roughly chop them into smaller pieces if needed, and return to the same pan with the garlic and ginger mixture. Toss everything together until well combined.",
+    "Pour in your chosen tangy glaze (if using), stir quickly to combine all ingredients evenly. Cook for an additional 2-3 minutes until syrup has thickened slightly.",
+    "Serve hot as a side dish or use it as a sauce for other dishes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "caramelized",
+    "tangy",
+    "sweet-potato-stir-fry",
+    "peruvian-dish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "caramelized-tangy-sweet-potato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/caramelized-tangy-sweet-potato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T03:58:49Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "tender",
+    "mood": "comforting",
+    "technique": "caramelize",
+    "primaryIngredient": "rose water",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "sweet potato",
+    "descriptor": "Tangy-Caramelized",
+    "dishForm": "Stir-fry"
+  }
+}
