@@ -1,0 +1,97 @@
+{
+  "title": "Crunchy Smoky Canadian Snapper Fish Stir-fry",
+  "description": "A tantalizing combination of smoky flavors and crunchy textures with a touch of sweetness to help cure hangovers, this dish is perfect for a quick and easy dinner.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Canadian snapper fish fillets",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 medium"
+    },
+    {
+      "name": "Bell peppers (red and green)",
+      "amount": "2 each"
+    },
+    {
+      "name": "Kaffir lime leaves",
+      "amount": "few"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "handful"
+    },
+    {
+      "name": "Snaps or fresh spring onions for garnish",
+      "amount": "1-2 pieces"
+    },
+    {
+      "name": "Soy sauce (tamari)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "White pepper",
+      "amount": "pinch"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat your wok or skillet over medium-high heat. Heat olive oil until shimmering.",
+    "Add garlic cloves, onion, and chili flakes to the pan. Stir-fry for about 2 minutes until fragrant.",
+    "Add snapper fish fillets skin-side down. Season with white pepper and soy sauce. Cover partially with a lid and cook for about 3-4 minutes on each side or until cooked through.",
+    "Gently toss in bell peppers, kaffir lime leaves, and snap/spring onions. Continue to stir-fry for another 2 minutes ensuring all vegetables are tender but crisp.",
+    "Finish off by adding cilantro just before serving. Stir well to combine with the fish and vegetables. Serve hot.",
+    "To make it extra crunchy and smoky, you can sprinkle a bit of sesame seeds or smoked paprika on top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "smoky",
+    "cure-hangovers",
+    "canadian-dish",
+    "snapper-fish-stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 29,
+    "carbs": 15,
+    "fat": 8
+  },
+  "slug": "crunchy-smoky-canadian-snapper-fish-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-smoky-canadian-snapper-fish-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T00:54:19Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crunchy",
+    "mood": "hangover-cure",
+    "technique": "tadka",
+    "primaryIngredient": "snapper fish",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Snapper Fish",
+    "descriptor": "Smoky Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
