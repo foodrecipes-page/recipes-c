@@ -1,0 +1,78 @@
+{
+  "title": "Crispy Algerian Dates Pilaf",
+  "description": "A fresh and chewy Algerian dish featuring molasses, broiled dates as a diabetic-friendly side dish for solo dinners.",
+  "cuisine": "Algerian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "molasses",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Prepare dates by removing pits and soaking in water for about 30 minutes.",
+    "Drain dates and pat dry with paper towels. Slice each date into quarters if large or halves if small.",
+    "In a large bowl, combine olive oil, cumin seeds, salt, molasses, and turmeric powder. Mix well until all ingredients are evenly distributed.",
+    "Add sliced dates to the dressing mixture and toss gently to coat all pieces thoroughly.",
+    "Place coated dates on a baking sheet lined with parchment paper. Broil in the preheated oven for 5-7 minutes or until dates turn golden brown and crispy.",
+    "Remove from heat and let sit for about 2 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy-algerian-dates-pilaf",
+    "algerian-side-dish",
+    "diabetic-friendly-dessert"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "crispy-algerian-dates-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-algerian-dates-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T04:27:58Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "chewy",
+    "mood": "solo-dinner",
+    "technique": "broil",
+    "primaryIngredient": "molasses",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Dates",
+    "descriptor": "Juicy Crispy",
+    "dishForm": "Pilaf"
+  }
+}
