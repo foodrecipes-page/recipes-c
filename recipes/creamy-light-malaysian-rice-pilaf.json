@@ -1,0 +1,91 @@
+{
+  "title": "Creamy Light Malaysian Rice Pilaf",
+  "description": "A light and creamy Malaysian rice dish infused with rose water for a touch of elegance and enhanced flavor, suitable for Jain-friendly diets.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "side-dish",
+  "ingredients": [
+    {
+      "name": "1 cup jasmine or basmati rice",
+      "amount": "",
+      "notes": "Rinse the rice well to remove excess starch."
+    },
+    {
+      "name": "2 tablespoons vegetable oil",
+      "amount": ""
+    },
+    {
+      "name": "4 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon ground cumin seeds",
+      "amount": ""
+    },
+    {
+      "name": "Pinch of asafoetida (hing)",
+      "amount": "",
+      "notes": "For a touch of warmth and flavor."
+    },
+    {
+      "name": "1/4 cup heavy cream or coconut milk",
+      "amount": ""
+    },
+    {
+      "name": "1 tablespoon rose water",
+      "amount": ""
+    },
+    {
+      "name": "Salt to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat. Add minced garlic and onion, sauté until translucent.",
+    "Add ground cumin seeds and asafoetida (if using), cook for about 30 seconds until fragrant.",
+    "Gradually add rinsed rice to the pan, spread it evenly, and toast lightly until it turns a golden-brown color. This step is called 'knead'.",
+    "Pour in the cream or coconut milk, stir well, then pour in rose water. Season with salt to taste.",
+    "Simmer for about 10 minutes allowing the rice to absorb the liquids, stirring occasionally.",
+    "Once done, remove from heat and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "creamysource",
+    "malaysianpilaf",
+    "jainfriendliness"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 7
+  },
+  "slug": "creamy-light-malaysian-rice-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-light-malaysian-rice-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T14:30:31Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "knead",
+    "primaryIngredient": "rose water",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Rice",
+    "descriptor": "Creamy Light",
+    "dishForm": "Pilaf"
+  }
+}
