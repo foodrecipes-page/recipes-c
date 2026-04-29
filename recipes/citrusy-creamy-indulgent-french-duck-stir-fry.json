@@ -1,0 +1,113 @@
+{
+  "title": "Citrusy Creamy Indulgent French Duck Stir-fry",
+  "description": "A low-calorie-friendly citrusy and creamy indulgent French dish featuring duck in a bhuna style with vegetables for added flavor and nutrition.",
+  "cuisine": "French",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck breast",
+      "amount": "100g",
+      "notes": "skinless"
+    },
+    {
+      "name": "broad beans",
+      "amount": "50g",
+      "notes": "fresh, trimmed and blanched"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 pcs",
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "onion",
+      "amount": "1 pc",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1/4 thumb",
+      "notes": "grated finely"
+    },
+    {
+      "name": "cilantro",
+      "amount": "2-3 sprigs",
+      "notes": "minced finely"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "100ml",
+      "notes": "full-fat, reduced to low heat"
+    },
+    {
+      "name": "olive oil",
+      "amount": "30ml",
+      "notes": "for cooking and drizzling"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": null
+    },
+    {
+      "name": "nutmeg powder",
+      "amount": null
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 180°C (350°F). Season the duck breast with salt and pepper, and nutmeg powder. Place in a baking dish and cook for 20 minutes.",
+    "While the duck cooks, sauté the onions and bell peppers in olive oil until soft and translucent.",
+    "Add ginger to the pan, stir for about 30 seconds before adding broad beans. Cook for another minute or so.",
+    "In a separate pan over low heat, combine heavy cream with lemon juice. Bring it to simmer without boiling.",
+    "Slice cooked duck breast thinly and arrange on serving plates. Top with the bhuna vegetables, drizzle with the creamy sauce, garnish with cilantro.",
+    "Serve hot as an indulgent yet low-calorie-friendly dinner option."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "creamy",
+    "indulgent",
+    "french",
+    "bhuna",
+    "low-calorie-friendly"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 28,
+    "carbs": 15,
+    "fat": 20
+  },
+  "slug": "citrusy-creamy-indulgent-french-duck-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-creamy-indulgent-french-duck-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T03:27:53Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "creamy",
+    "mood": "indulgent",
+    "technique": "bhuna",
+    "primaryIngredient": "duck",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "duck",
+    "descriptor": "Citrusy Creamy Indulgent",
+    "dishForm": "Stir-fry"
+  }
+}
