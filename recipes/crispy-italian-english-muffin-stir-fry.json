@@ -1,0 +1,98 @@
+{
+  "title": "Crispy Italian English Muffin Stir-fry",
+  "description": "A spicy and crispy weeknight Italian dish featuring nut-free-friendly english muffins in a quick stir-fry recipe.",
+  "cuisine": "Italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "english muffin halves",
+      "amount": "2"
+    },
+    {
+      "name": "ground turkey or chicken",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bell peppers, diced",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion, finely chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3-4"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "low-sodium soy sauce or tamari",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "capers, rinsed and drained (optional)",
+      "amount": "1 oz"
+    },
+    {
+      "name": "cilantro, chopped for garnish (optional)",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "Toast muffin halves in the preheated oven for about 2-3 minutes or until lightly golden brown.",
+    "In a large skillet, heat olive oil over medium-high heat. Add ground turkey or chicken and cook until no longer pink, breaking it up with a spoon.",
+    "Add onion and garlic to the skillet; sauté for about 1 minute, then add bell peppers and stir-fry for an additional 2-3 minutes.",
+    "Pour in soy sauce and mustard, season with red pepper flakes. Stir well until combined.",
+    "Place turkey mixture on top of toasted muffin halves and sprinkle with rinsed capers if using.",
+    "Bake for about 10-15 minutes or until golden brown and heated through.",
+    "Serve hot with a drizzle of extra mustard over the top if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "italian",
+    "spicy",
+    "nut-free"
+  ],
+  "nutrition": {
+    "calories": 372,
+    "protein": 16,
+    "carbs": 41,
+    "fat": 18
+  },
+  "slug": "crispy-italian-english-muffin-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-italian-english-muffin-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T08:26:25Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crisp",
+    "mood": "weeknight",
+    "technique": "stir-fry",
+    "primaryIngredient": "english muffins",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "English muffin",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
