@@ -1,0 +1,88 @@
+{
+  "title": "Crispy Garlic Irish Stir-fry",
+  "description": "A cozy whole30-friendly garlic stir-fry featuring mirin and other savory components, ideal for a quick and tasty dinner.",
+  "cuisine": "Irish & Asian fusion",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "whole wheat spaghetti or gluten-free pasta",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mirin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "scallions (green onions)",
+      "amount": "for garnish",
+      "notes": "chopped finely"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a wok over medium-high heat.",
+    "Add garlic and sliced onions; stir-fry until fragrant and slightly golden, about 2 minutes.",
+    "Pour in mirin, rice vinegar, salt, and pepper. Stir well to combine.",
+    "Gently add pasta (or use rice if preferred) and toss together until heated through.",
+    "Remove from heat and garnish with chopped scallions.",
+    "Serve hot as a meal or side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy-garlic",
+    "whole30-friendly",
+    "cozy-irish",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 275,
+    "protein": 14,
+    "carbs": 40,
+    "fat": 9
+  },
+  "slug": "crispy-garlic-irish-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-garlic-irish-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T13:57:28Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crisp",
+    "mood": "cozy",
+    "technique": "cure",
+    "primaryIngredient": "mirin",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Garlic",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
