@@ -1,0 +1,98 @@
+{
+  "title": "Cozy Crumbly Tunisian Lamb",
+  "description": "An earthy and crumbly lamb dish with a touch of spice, perfect for a cozy dinner that's also halal-friendly.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "500g"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Baking Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "1/8 tsp"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Thyme Leaves",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Rosemary Sprigs",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Season the lamb with salt, pepper, and ground cumin.",
+    "Mix olive oil, flour, baking powder, cayenne pepper, lemon zest, thyme leaves, rosemary sprigs, and remaining spices in a small bowl.",
+    "Dip your fingers into the spice mixture and rub over both sides of each piece of lamb. Place seasoned lamb on a baking sheet lined with parchment paper.",
+    "Roast for 1 hour or until internal temperature reaches 145°F (63°C).",
+    "Rest the lamb under foil for at least 10 minutes before slicing."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cozy-tunisian-dish",
+    "crumbly-lamb",
+    "earthy-flavor",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 508,
+    "protein": 27,
+    "carbs": 6,
+    "fat": 31
+  },
+  "slug": "cozy-crumbly-tunisian-lamb",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-crumbly-tunisian-lamb",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T01:05:05Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crumbly",
+    "mood": "cozy",
+    "technique": "cure",
+    "primaryIngredient": "lamb shoulder",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Lamb",
+    "descriptor": "Crumbly Cozy",
+    "dishForm": "Crumble"
+  }
+}
