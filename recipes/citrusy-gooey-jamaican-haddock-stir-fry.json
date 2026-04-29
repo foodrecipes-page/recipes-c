@@ -1,0 +1,108 @@
+{
+  "title": "Citrusy Gooey Jamaican Haddock Stir-fry",
+  "description": "A date-night favorite that combines the warmth of haddock with the citrusy flavors and gooey texture from tempered cheese for a perfect comfort dish.",
+  "cuisine": "Jamaican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Haddock fillets",
+      "amount": "4 pieces",
+      "notes": "fresh or frozen, skinless"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking and drizzling over the top"
+    },
+    {
+      "name": "Fresh orange zest",
+      "amount": "1 tablespoon",
+      "notes": "or 1/4 of a whole orange for extra citrus flavor"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tablespoon",
+      "notes": "freshly squeezed, to taste"
+    },
+    {
+      "name": "Panko breadcrumbs",
+      "amount": "2 tablespoons",
+      "notes": "for coating the haddock and creating an outer layer of gooeyness"
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "2 ounces",
+      "notes": "cheddar, pre-cooked in a crispy form"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3 pieces",
+      "notes": "minced for flavoring the dish"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Water or chicken broth",
+      "amount": "1/4 cup",
+      "notes": "to bind the sauce together"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for dredging haddock before frying"
+    }
+  ],
+  "instructions": [
+    "Prepare all ingredients and ensure they are at room temperature for better flavor distribution.",
+    "In a large skillet, heat olive oil over medium-high heat. Add minced garlic and cook until fragrant, about 30 seconds.",
+    "Add the haddock fillets to the pan, gently pressing them into the oil so they won’t move around too much. Season with salt and pepper.",
+    "Once golden brown on both sides (about 2-3 minutes per side), remove from heat and set aside.",
+    "In a small mixing bowl, combine panko breadcrumbs and melted cheese to create a cheesy coating for your haddock. Sprinkle this over the tops of the fillets before drizzling with olive oil and fresh orange zest.",
+    "Return the coated haddock to the skillet and add water or chicken broth (if using). Bring to a simmer, cover partially with a lid, and reduce heat to low.",
+    "Let cook for about 5-7 minutes covered until cheese is fully melted and sauce slightly thickened. Stir gently with a spoon so not all pieces of haddock are submerged under the sauce.",
+    "Remove from heat and garnish if desired with additional fresh orange zest or parsley sprigs before serving.",
+    "Serve hot and enjoy your delicious Citrusy Gooey Jamaican Haddock Stir-fry!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican-dish",
+    "date-night-friendly",
+    "citrusy-stir-fry",
+    "haddock-recipe",
+    "tempura-style-cooking",
+    "raw-friendly",
+    "gooey-texture"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 31,
+    "carbs": 25,
+    "fat": 17
+  },
+  "slug": "citrusy-gooey-jamaican-haddock-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-gooey-jamaican-haddock-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T03:55:19Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "gooey",
+    "mood": "date-night",
+    "technique": "temper",
+    "primaryIngredient": "haddock",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Haddock",
+    "descriptor": "Citrusy Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
