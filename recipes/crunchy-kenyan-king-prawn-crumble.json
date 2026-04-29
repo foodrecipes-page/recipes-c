@@ -1,0 +1,74 @@
+{
+  "title": "Crunchy Kenyan King Prawn Crumble",
+  "description": "A post-workout dish featuring raw king prawns and a combination of toasted elements for an umami flavor profile, tailored to be suitable for those following the FODMAP diet.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "low_fodmap"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Raw king prawns",
+      "amount": "12-15 pcs"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Toast crumbs (almond, cashew, and coconut)",
+      "amount": "80g"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4-6 cloves"
+    },
+    {
+      "name": "Fresh coriander leaves",
+      "amount": "2 handfuls"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 170°C (338°F).",
+    "Toast the king prawns on a baking sheet for about 2 minutes or until just cooked.",
+    "Mix toasted crumbs with coconut oil, finely chopped garlic, and coriander leaves. Add salt and pepper to taste.",
+    "Layer raw king prawns over crumb mixture in an oven-proof dish. Bake for 5-7 minutes or until the top is golden brown.",
+    "Serve hot as a snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "crumble",
+    "umami",
+    "raw_prawns",
+    "fodmap"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 25,
+    "carbs": 15,
+    "fat": 8
+  },
+  "slug": "crunchy-kenyan-king-prawn-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-kenyan-king-prawn-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T12:41:51Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crunchy",
+    "mood": "post-workout",
+    "technique": "toast",
+    "primaryIngredient": "raw king prawns",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "King prawns",
+    "descriptor": "Crunchy",
+    "dishForm": "Crumble"
+  }
+}
