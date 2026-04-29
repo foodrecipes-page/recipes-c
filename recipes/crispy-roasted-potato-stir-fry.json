@@ -1,0 +1,89 @@
+{
+  "title": "Crispy Roasted Potato Stir-fry",
+  "description": "A spicy and comforting British dish featuring crispy roasted potatoes mixed with a spicy stir-fry sauce.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "1 lb (450g)",
+      "notes": "preferably smaller for better texture"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "pepper",
+      "amount": "pinch"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Slice potatoes into thin rounds. Toss with cornstarch, salt, pepper, garlic powder, and red pepper flakes.",
+    "Spread evenly on a baking sheet lined with parchment paper. Bake for about 15 minutes or until golden brown and crispy.",
+    "While the potatoes are roasting, prepare the stir-fry sauce by mixing soy sauce and oyster sauce in a small bowl.",
+    "Heat oil in a wok over medium-high heat. Add chopped onions and cook for about 2-3 minutes until translucent. Stir in prepared stir-fry sauce, bring to a boil, then reduce heat to low and let simmer for another minute.",
+    "Add the crispy roasted potatoes to the wok along with any accumulated juices from the baking sheet. Toss well to coat evenly.",
+    "Serve hot as a side dish or over rice for an authentic British experience."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy-potatoes",
+    "spicy-stir-fry",
+    "british-dish"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 5,
+    "carbs": 43,
+    "fat": 11
+  },
+  "slug": "crispy-roasted-potato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-roasted-potato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T04:54:07Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crisp",
+    "mood": "comforting",
+    "technique": "roast",
+    "primaryIngredient": "cornstarch",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Potato",
+    "descriptor": "Crispy Roasted",
+    "dishForm": "Stir-fry"
+  }
+}
