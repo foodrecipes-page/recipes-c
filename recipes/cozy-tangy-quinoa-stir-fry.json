@@ -1,0 +1,87 @@
+{
+  "title": "Cozy Tangy Quinoa Stir-fry",
+  "description": "A tangy and cozy Tunisian dish featuring quinoa in a gluten-free-friendly stir-fry.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup quinoa",
+      "amount": "cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 onion, finely chopped",
+      "amount": "piece"
+    },
+    {
+      "name": "3 garlic cloves, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "1 can (590ml) crushed tomatoes",
+      "amount": "can"
+    },
+    {
+      "name": "2 tablespoons lemon juice",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 tablespoon Dijon mustard",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add onion and garlic, sauté for about 5 minutes until softened.",
+    "Stir in crushed tomatoes, lemon juice, Dijon mustard, salt, and pepper. Bring to a simmer.",
+    "Taste and adjust seasoning as needed.",
+    "Gently incorporate quinoa into the sauce, stirring constantly to avoid clumping.",
+    "Reduce heat to low and let cook for 10 minutes until all liquid is absorbed and quinoa is tender.",
+    "Serve hot with your favorite garnishes or sides."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "quinoa",
+    "tangy",
+    "cozy",
+    "tunisian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 9
+  },
+  "slug": "cozy-tangy-quinoa-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-tangy-quinoa-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T04:50:11Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "dense",
+    "mood": "cozy",
+    "technique": "broil",
+    "primaryIngredient": "quinoa",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Quinoa",
+    "descriptor": "tangy dense cozy",
+    "dishForm": "Stir-fry"
+  }
+}
