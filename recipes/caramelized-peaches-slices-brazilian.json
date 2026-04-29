@@ -1,0 +1,68 @@
+{
+  "title": "Caramelized Peaches Slices Brazilian",
+  "description": "A floral and juicy dessert dish featuring caramel sauce, perfectly suited for a lazy Sunday indulgence in the Brazilian cuisine tradition, this recipe is diabetic-friendly and air-fried for an easy preparation.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Peaches",
+      "amount": "2 medium peaches",
+      "notes": "Choose ripe, juicy peaches."
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/4 cup",
+      "notes": "Use a low-glycemic sweetener like coconut sugar if needed."
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 350°F (175°C). Wash and peel the peaches, then slice them into thin rounds.",
+    "In a small saucepan over medium heat, mix granulated sugar with half of the water until dissolved. Bring mixture to a boil, stirring occasionally.",
+    "Reduce heat to low and slowly add remaining water while continuously stirring to prevent burning. Cook for about 2-3 minutes or until the caramel reaches desired consistency (soft crack stage).",
+    "Carefully place peach slices into the air fryer basket in one layer without overcrowding. Drizzle half of the warm caramel sauce evenly over the peaches and toss gently to coat.",
+    "Cook for 8-10 minutes, shaking pan halfway through cooking time. Remove from heat and serve warm with additional caramel if desired.",
+    "For optimal freshness, consume within a day."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "caramelized-peaches",
+    "floral-juicy-brazilian-dessert",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 2,
+    "carbs": 16,
+    "fat": 3
+  },
+  "slug": "caramelized-peaches-slices-brazilian",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/caramelized-peaches-slices-brazilian",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T12:29:29Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "juicy",
+    "mood": "lazy-sunday",
+    "technique": "air-fry",
+    "primaryIngredient": "caramel",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Peaches",
+    "descriptor": "Caramelized",
+    "dishForm": "Slices"
+  }
+}
