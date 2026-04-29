@@ -1,0 +1,97 @@
+{
+  "title": "Crispy Indian Carrot Stir-fry",
+  "description": "A savory and crispy monsoon-inspired dish featuring cumin as a key spice blend, perfect for a low-carb meal option.",
+  "cuisine": "Indian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Carrots",
+      "amount": "1 lb",
+      "notes": "Grated"
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tablespoons",
+      "notes": "For frying"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1 teaspoon",
+      "notes": "Roasted and ground"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "A few grinds",
+      "notes": ""
+    },
+    {
+      "name": "Red Chili Flakes",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a large skillet over medium-high heat.",
+    "Add grated carrots and stir-fry for about 5 minutes until they start to soften slightly.",
+    "Stir in onion, garlic, cumin seeds, turmeric powder, salt, pepper, and red chili flakes. Cook for an additional 2-3 minutes.",
+    "Reduce heat to low and cover the skillet with a lid. Cook for about 10 more minutes until the carrots are soft and golden brown on top.",
+    "Garnish with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "stir-fry",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 9,
+    "fat": 7
+  },
+  "slug": "crispy-indian-carrot-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-indian-carrot-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T01:32:08Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crispy",
+    "mood": "monsoon",
+    "technique": "stir-fry",
+    "primaryIngredient": "cumin",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Carrot",
+    "descriptor": "Stir-fry",
+    "dishForm": "Stir-fry"
+  }
+}
