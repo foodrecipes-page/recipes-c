@@ -1,0 +1,81 @@
+{
+  "title": "Caramelized Sugar Poached Bean Stir-fry",
+  "description": "A fresh and tender crowd-pleasing Slovakian dish featuring a delightful caramelized sugar sauce that complements the poached beans, making it both visually stunning and deliciously comforting.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Red Pepper Flakes (optional)",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Rinse the beans and pick out any debris. Soak them in water for at least 30 minutes.",
+    "Heat a pan with oil over medium heat, add garlic and sauté until fragrant, about 1 minute.",
+    "Pour the soaked beans into the pan along with enough water to cover them by half. Bring to a boil, then reduce to a simmer.",
+    "Simmer for about 20 minutes or until the beans are tender but still hold their shape.",
+    "While the beans are cooking, in another pan, combine sugar and salt over low heat, stirring until the sugar dissolves. Once dissolved, add a pinch of red pepper flakes if using, and cook for about 5-7 minutes to achieve desired caramelization level.",
+    "Taste the caramel sauce before pouring it over the poached beans. Adjust with more salt or sugar as needed.",
+    "Gently fold the bean mixture into the caramelized sauce until coated evenly.",
+    "Serve hot as a side dish or on its own for a quick and delicious snack."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "slovakian-dish",
+    "caramelized-sugar",
+    "poached-beans"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 15,
+    "fat": 4
+  },
+  "slug": "caramelized-sugar-poached-bean-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/caramelized-sugar-poached-bean-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T00:38:43Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "tender",
+    "mood": "crowd-pleaser",
+    "technique": "poach",
+    "primaryIngredient": "caramelized sugar sauce",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Bean",
+    "descriptor": "Caramelized Sugar Poached",
+    "dishForm": "Stir-fry"
+  }
+}
