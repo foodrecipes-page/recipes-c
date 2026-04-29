@@ -1,0 +1,101 @@
+{
+  "title": "Citrusy Flaky Indulgent Spanish Almond Pilaf",
+  "description": "A citrus-infused and almond-flavored dish, perfect for a breakfast or dessert offering with high-protein elements.",
+  "cuisine": "Spanish",
+  "diet": [
+    "high-protein-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Almonds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Celery",
+      "amount": "1 stalk"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Saffron threads",
+      "amount": "a few strands"
+    },
+    {
+      "name": "Rice pilaf",
+      "amount": "3 cups"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": ""
+    },
+    {
+      "name": "Juice of 2 oranges",
+      "amount": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "a few"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Toast almonds in a dry skillet until lightly golden, set aside.",
+    "Peel and mince garlic; finely chop celery stalks.",
+    "Heat vegetable oil in a pan over medium heat. Add minced garlic and sauté for about 1 minute.",
+    "Add chopped celery to the pan with some salt. Sauté for another 2 minutes until softened.",
+    "Fold in toasted almonds, add coconut milk, lemon juice, orange juice, saffron threads, and sesame seeds. Stir well.",
+    "Bring the mixture to a simmer, then reduce heat to low. Cover and let it cook for about 10-15 minutes or until most liquid is absorbed.",
+    "Preheat your baking sheet or tray at 375°F (190°C). Spread rice pilaf on the hot surface and sprinkle with toasted almonds."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "flaky",
+    "indulgent",
+    "spanish",
+    "almond",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 8,
+    "carbs": 25,
+    "fat": 7
+  },
+  "slug": "citrusy-flaky-indulgent-spanish-almond-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-flaky-indulgent-spanish-almond-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T14:14:06Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "flaky",
+    "mood": "indulgent",
+    "technique": "stir-fry",
+    "primaryIngredient": "almond essence",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "almonds",
+    "descriptor": "Citrusy Flaky Indulgent",
+    "dishForm": "Pilaf"
+  }
+}
