@@ -1,0 +1,96 @@
+{
+  "title": "Chewy Malaysian Herba Noodles",
+  "description": "A quick-fix herbal Malaysian dish featuring chewy noodles made with a paleo-friendly base.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpea pasta",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic paste",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tamarind concentrate",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "coriander leaves",
+      "amount": "2 handfuls (optional, for garnish)"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a wok or large frying pan, heat sesame oil over medium-high heat.",
+    "Add ginger and garlic pastes to the pan and stir until fragrant.",
+    "Pour in tamarind concentrate and sugar. Simmer for about 2-3 minutes until thickened slightly.",
+    "Stir in cumin powder and cook for another minute.",
+    "Gradually add chickpea pasta, salt, and enough water to cover the pasta. Bring to a boil.",
+    "Reduce heat to low, partially cover the pan, and let it simmer for about 10 minutes until the sauce coats the noodles well.",
+    "Once done, remove from heat and mix in fresh coriander leaves (optional). Sprinkle sesame seeds on top before serving.",
+    "Serve hot as a snack or light meal."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chewy",
+    "herbal",
+    "malaysian",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 16,
+    "carbs": 42,
+    "fat": 18
+  },
+  "slug": "chewy-malaysian-herba-noodles",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-malaysian-herba-noodles",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T13:30:29Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "chewy",
+    "mood": "quick-fix",
+    "technique": "tandoor",
+    "primaryIngredient": "noodles",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Herba",
+    "descriptor": "Chewy",
+    "dishForm": "Noodles"
+  }
+}
