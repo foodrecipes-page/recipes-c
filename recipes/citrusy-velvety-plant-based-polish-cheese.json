@@ -1,0 +1,85 @@
+{
+  "title": "Citrusy Velvety Plant-Based Polish Cheese",
+  "description": "A comforting dish featuring a plant-based version of Polish cheese, infused with the freshness of citrus and cheddar cheese, perfect for breakfast or snack time.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegan",
+    "plant-based"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cashews",
+      "amount": "2 cups"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "oranges, juiced",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "unsweetened applesauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegan cheddar cheese substitute (such as Violife)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Blend cashews with orange zest, oranges' juice, lime juice, parsley, and applesauce in a high-powered blender until smooth.",
+    "Add the vegan cheddar cheese substitute and vegetable broth. Blend again until fully combined and creamy.",
+    "Pour the mixture into a saucepan and cook over medium heat for 10-15 minutes or until thickened to your liking."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "plant-based",
+    "comfort food",
+    "velvety",
+    "citrusy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 45,
+    "fat": 16
+  },
+  "slug": "citrusy-velvety-plant-based-polish-cheese",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-velvety-plant-based-polish-cheese",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T09:03:48Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "velvety",
+    "mood": "comforting",
+    "technique": "boil",
+    "primaryIngredient": "cheddar cheese",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Plant-based",
+    "mainIngredient": "Cheese",
+    "descriptor": "Citrusy Velvety",
+    "dishForm": "Polish"
+  }
+}
