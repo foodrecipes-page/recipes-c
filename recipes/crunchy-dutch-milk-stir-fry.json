@@ -1,0 +1,89 @@
+{
+  "title": "Crunchy Dutch Milk Stir-fry",
+  "description": "This spicy and crunchy dutch dish features semi-skimmed milk in a low-sodium friendly recipe that satisfies midnight cravings.",
+  "cuisine": "Dutch",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Semi-skimmed Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chicken Breast",
+      "amount": "4 oz (about 1/2 breast)"
+    },
+    {
+      "name": "Green Peppers",
+      "amount": "2"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/4"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Corn Starch",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Low-Sodium Soy Sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Spices (Peppercorns, Chili Flakes, Cumin)",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Soak green peppers in water for about 30 minutes.",
+    "Prepare a marinade with low-sodium soy sauce and spices. Mix well and marinate chicken breasts for at least an hour.",
+    "Slice chicken into strips, green peppers, onion, and garlic finely.",
+    "Heat sesame seeds in a pan over medium heat until they start to turn golden brown.",
+    "Add sliced vegetables and cook until soft but not mushy.",
+    "Drain soy sauce marinade from chicken and mix cornstarch with 2 tbsp water. Add back to the marinated chicken, toss well and simmer for about 5 minutes.",
+    "Combine stir-fried vegetables, crunchy chicken mixture, and toasted sesame seeds in a bowl. Serve immediately.",
+    "Enjoy your deliciously spicy and crunchy Dutch Milk Stir-fry!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "spicy",
+    "midnight-craving"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 31,
+    "carbs": 25,
+    "fat": 16
+  },
+  "slug": "crunchy-dutch-milk-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-dutch-milk-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T12:03:00Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crunchy",
+    "mood": "midnight-craving",
+    "technique": "simmer",
+    "primaryIngredient": "semi-skimmed milk",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Milk",
+    "descriptor": "Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
