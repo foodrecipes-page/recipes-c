@@ -1,0 +1,87 @@
+{
+  "title": "Crispy Argentinian Pepper Pilaf",
+  "description": "A savory and peppery meal-prep dish featuring a unique blend of grape juice, bhuna spices, and dairy-free-friendly elements to create a crispy texture.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Grape Juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Bhuna Spices Blend (optional)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dried Oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Almond Meal or Quinoa Flakes (for texture)",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Soak the grape juice in water for about an hour to reduce its sweetness.",
+    "In a pan, heat olive oil and add minced garlic. Sauté until fragrant.",
+    "Add Bhuna Spice blend and cumin powder, sautéing briefly before removing from heat.",
+    "Combine reduced grape juice with spices mixture and salt in a blender. Blend until smooth.",
+    "Pour the blended mixture over almond meal or quinoa flakes to coat evenly.",
+    "Spread the coated almond meal or quinoa flakes on a baking sheet lined with parchment paper, ensuring even coverage.",
+    "Bake at 350°F (175°C) for about 20-25 minutes until golden brown and crispy.",
+    "Remove from oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "peppery",
+    "argentinian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "crispy-argentinian-pepper-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-argentinian-pepper-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T09:16:35Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crisp",
+    "mood": "meal-prep",
+    "technique": "bhuna",
+    "primaryIngredient": "grape juice",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Pepper",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
