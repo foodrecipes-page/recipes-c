@@ -1,0 +1,88 @@
+{
+  "title": "Caramelize Malaysian Oxtail Stir-fry",
+  "description": "This kid-friendly and diabetic-friendly dish features oxtail that has been caramelized for a unique twist on traditional Malay cuisine.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dish",
+  "ingredients": [
+    {
+      "name": "oxtail",
+      "amount": "100g",
+      "notes": "preferably lean cut"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ginger",
+      "amount": "1/4 cup, finely chopped"
+    },
+    {
+      "name": "shallots",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "green onions",
+      "amount": "20g, finely sliced"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a wok over medium heat.",
+    "Add oxtail and cook until golden brown, about 5 minutes.",
+    "In a small bowl, mix soy sauce and vinegar. Pour into the wok with ginger and shallots.",
+    "Stir-fry for another 3-4 minutes or until the sauce thickens slightly.",
+    "Season with black pepper to taste.",
+    "Add green onions on top before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "malaysian",
+    "oxtail",
+    "caramelized",
+    "kid-friendly",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 17,
+    "carbs": 9,
+    "fat": 13
+  },
+  "slug": "caramelize-malaysian-oxtail-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/caramelize-malaysian-oxtail-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T04:41:31Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "creamy",
+    "mood": "kid-friendly",
+    "technique": "caramelize",
+    "primaryIngredient": "oxtail",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Oxtail",
+    "descriptor": "Caramelize",
+    "dishForm": "Stir-fry"
+  }
+}
