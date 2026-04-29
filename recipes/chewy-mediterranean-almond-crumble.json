@@ -1,0 +1,76 @@
+{
+  "title": "Chewy Mediterranean Almond Crumble",
+  "description": "A sweet and indulgent mediterranean dish featuring almond flour that's perfect for a dessert or snack option.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "sweets",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup almond flour"
+    },
+    {
+      "name": "1/4 cup honey syrup"
+    },
+    {
+      "name": "1/2 cup water"
+    },
+    {
+      "name": "1/4 cup unsalted butter, melted"
+    },
+    {
+      "name": "1/2 tsp ground cinnamon"
+    },
+    {
+      "name": "pinch salt"
+    },
+    {
+      "name": "1/4 cup finely chopped almonds"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Mix almond flour, honey syrup, water, melted butter, cinnamon, and a pinch of salt together in a mixing bowl.",
+    "Fold in the chopped almonds until well combined.",
+    "Transfer the mixture into an 8x8 inch baking dish lined with parchment paper.",
+    "Bake for about 20-25 minutes or until golden brown and crispy on top.",
+    "Remove from oven and let it cool before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "dessert",
+    "gluten-free",
+    "almond-flour"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 2,
+    "carbs": 9,
+    "fat": 7
+  },
+  "slug": "chewy-mediterranean-almond-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-mediterranean-almond-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T13:06:52Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "chewy",
+    "mood": "indulgent",
+    "technique": "saute",
+    "primaryIngredient": "almond flour",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Almond",
+    "descriptor": "Chewy",
+    "dishForm": "Crumble"
+  }
+}
