@@ -1,0 +1,103 @@
+{
+  "title": "Crisp Earthy Beetroot Stir-fry",
+  "description": "This light and crisp Korean-style dish features balsamic vinegar for a tangy twist, combined with tenderized beetroot in a gluten-free base, making it perfect for a quick lunch or dinner.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beetroot",
+      "amount": "1 medium",
+      "notes": "washed and peeled"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated finely"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "pepper",
+      "amount": "pinch"
+    },
+    {
+      "name": "gluten-free cornstarch",
+      "amount": "a small scoop"
+    },
+    {
+      "name": "rice vinegar (optional)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "to taste"
+    },
+    {
+      "name": "sliced green onions",
+      "amount": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Slice the beetroot into thin rounds using a mandoline or very sharp knife. Sprinkle with salt and let rest for about 30 minutes.",
+    "While resting, prepare the marinade by whisking together balsamic vinegar, sesame oil, rice vinegar (if using), minced garlic, ginger, salt, and pepper in a small bowl until well combined. Stir in cornstarch to make it a paste-like consistency if needed for thicker flavor coating.",
+    "Coat each beetroot slice with the marinade mixture and place them on a baking sheet lined with parchment paper. Bake for about 15 minutes or until golden brown, flipping once during cooking.",
+    "Remove from oven and sprinkle sesame seeds over slices before serving. Garnish with sliced green onions if desired.",
+    "Serve hot as part of your lunch meal.",
+    "This recipe serves 2 people."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "beetroot-stir-fry",
+    "gluten-free",
+    "korean-style",
+    "earthly-flavor",
+    "crisp-dish"
+  ],
+  "nutrition": {
+    "calories": 105,
+    "protein": 3,
+    "carbs": 8,
+    "fat": 2
+  },
+  "slug": "crisp-earthy-beetroot-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-earthy-beetroot-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T04:04:31Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crisp",
+    "mood": "light",
+    "technique": "bake",
+    "primaryIngredient": "balsamic vinegar",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Beetroot",
+    "descriptor": "Earthy Crisp",
+    "dishForm": "Stir-fry"
+  }
+}
