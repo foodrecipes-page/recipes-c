@@ -1,0 +1,85 @@
+{
+  "title": "Cozy Velvety Butter Sherry Vinegar Dish",
+  "description": "A comforting and velvety Polish dish featuring butter, sherry vinegar, and a touch of garlic for a perfect addition to any meal.",
+  "cuisine": "Polish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup heavy cream",
+      "amount": "",
+      "notes": "freshly made or frozen"
+    },
+    {
+      "name": "2 tablespoons unsalted butter",
+      "amount": "",
+      "notes": "melted and softened"
+    },
+    {
+      "name": "4 cloves garlic, minced",
+      "amount": "",
+      "notes": "for added depth of flavor"
+    },
+    {
+      "name": "1/4 cup low-sodium chicken or vegetable broth",
+      "amount": "",
+      "notes": "to help emulsify the sauce"
+    },
+    {
+      "name": "2 tablespoons sherry vinegar",
+      "amount": "",
+      "notes": "high-quality, aged for best results"
+    },
+    {
+      "name": "1 teaspoon Dijon mustard",
+      "amount": "",
+      "notes": "optional, to enhance the flavor profile"
+    },
+    {
+      "name": "Salt and freshly ground black pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Melt the butter in a small saucepan over low heat. Add minced garlic and sauté for about 1 minute until fragrant but not browned.",
+    "Pour in the heavy cream, then gradually add the sherry vinegar while continuously stirring to prevent lumps from forming. Let it simmer gently for about 5 minutes.",
+    "If using Dijon mustard, whisk it into the sauce now and let it cook for an additional minute to allow flavors to meld together.",
+    "Season with salt and pepper as needed. Serve immediately or warm through before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "velvety",
+    "cozy",
+    "polish",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 24
+  },
+  "slug": "cozy-velvety-butter-sherry-vinegar-dish",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-velvety-butter-sherry-vinegar-dish",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T13:23:21Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "velvety",
+    "mood": "cozy",
+    "technique": "cure",
+    "primaryIngredient": "sherry vinegar",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Butter",
+    "descriptor": "Velvety Cozy",
+    "dishForm": "Dish"
+  }
+}
