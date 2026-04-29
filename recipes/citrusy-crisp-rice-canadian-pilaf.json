@@ -1,0 +1,92 @@
+{
+  "title": "Citrusy Crisp Rice Canadian Pilaf",
+  "description": "A meal-prep friendly, citrusy and crisp rice dish featuring rice wine, deglazed with added aromatics for a delicious, low-carb meal.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-carb",
+    "wheat-free",
+    "alcohol-containing"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 cups short grain rice",
+      "amount": "cup",
+      "notes": "preferably glutinous or sushi-grade for a sticky texture"
+    },
+    {
+      "name": "1 cup water",
+      "amount": "cup",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons rice wine",
+      "amount": "tbsp",
+      "notes": "such as Shaoxing Wine"
+    },
+    {
+      "name": "Juice of 3 lemons",
+      "amount": "juice of 3"
+    },
+    {
+      "name": "1/4 cup unsalted butter",
+      "amount": "cup",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the rice in cold water until the water runs clear.",
+    "In a medium saucepan, combine the rinsed rice and water. Bring to a boil, then reduce heat to low, cover, and simmer for about 15 minutes or until liquid is absorbed.",
+    "While the rice cooks, bring rice wine and lemon juice to a boil in a small saucepan over medium-high heat. Add minced garlic and cook for an additional minute to deglaze the pan, scraping up any browned bits.",
+    "Once cooked, mix the rice with its cooking water (about 1/2 cup) into the deglazed wine mixture.",
+    "In another large skillet, melt butter over medium-high heat. Add rice, salt, and remaining lemon juice to the skillet. Cook for about 5 minutes until the rice is crisp but not burnt.",
+    "Serve warm or at room temperature as a side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "crisp",
+    "meal-prep",
+    "canadian",
+    "rice-wine",
+    "wheat-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 7,
+    "carbs": 35,
+    "fat": 9
+  },
+  "slug": "citrusy-crisp-rice-canadian-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-crisp-rice-canadian-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T14:11:57Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crisp",
+    "mood": "meal-prep",
+    "technique": "deglaze",
+    "primaryIngredient": "rice wine",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Rice",
+    "descriptor": "Citrusy",
+    "dishForm": "Pilaf"
+  }
+}
