@@ -1,0 +1,93 @@
+{
+  "title": "Crispy Vegan Portuguese Tripe Stir-fry",
+  "description": "This dish is a fresh and crispy twist on traditional Portuguese tripe, made vegan-friendly with plant-based alternatives.",
+  "cuisine": "Portuguese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vegan Tripe",
+      "amount": "100g",
+      "notes": "Ensure it is fully cooked and cleaned."
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium",
+      "notes": "Chopped finely for the best flavor integration."
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves",
+      "notes": "Finely minced to add depth of flavor."
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "1 tbsp",
+      "notes": "For a sweet and tangy base."
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For sautéing and browning."
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "½ tsp",
+      "notes": "To give the dish a smoky, earthy flavor."
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "¼ tsp",
+      "notes": "To add a touch of heat."
+    },
+    {
+      "name": "Water or Vegetable Stock",
+      "amount": "2 cups",
+      "notes": "For boiling and deglazing the pan."
+    }
+  ],
+  "instructions": [
+    "Boil the Vegan Tripe in water for at least 30 minutes, changing the water a couple times to remove any impurities.",
+    "Drain and set aside. Heat olive oil in a wok or large frying pan over medium heat.",
+    "Add finely chopped onions and minced garlic, sautéing until translucent.",
+    "Pour in tomato paste and let it cook for about 1 minute, stirring continuously.",
+    "Return the boiled tripe to the pan with water/stock. Add cumin powder and red pepper flakes.",
+    "Stir well to coat all pieces evenly, allowing any excess liquid to evaporate slightly.",
+    "Season with salt and pepper according to taste.",
+    "Sauté for another 5 minutes or until the mixture starts to crust on top and forms a golden-brown layer."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "vegan-friendly",
+    "portuguese"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 9,
+    "carbs": 7,
+    "fat": 6
+  },
+  "slug": "crispy-portuguese-tripe-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-portuguese-tripe-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T08:38:49Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crispy",
+    "mood": "romantic",
+    "technique": "boil",
+    "primaryIngredient": "tripe",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "tripe",
+    "descriptor": "crispy",
+    "dishForm": "Stir-fry"
+  }
+}
