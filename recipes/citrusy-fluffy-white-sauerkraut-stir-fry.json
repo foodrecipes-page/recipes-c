@@ -1,0 +1,95 @@
+{
+  "title": "Citrusy Fluffy White Sauerkraut Stir-fry",
+  "description": "This citrusy, fluffy white sauerkraut dish is energizing and features a gluten-free-friendly twist for a delicious Jamaican-inspired breakfast option.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "White Sauerkraut",
+      "amount": "1 cup",
+      "notes": "Squeeze out excess liquid to avoid watery stir-fry"
+    },
+    {
+      "name": "Citrus Zest",
+      "amount": "1/4 lemon, 1 lime",
+      "notes": "Juice from one lemon and zest from two limes for added zing"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "2",
+      "notes": "Minced finely to enhance flavor"
+    },
+    {
+      "name": "Ginger Cubes",
+      "amount": "1 tbsp",
+      "notes": "Freshly grated ginger cubes"
+    },
+    {
+      "name": "Egg Whites",
+      "amount": "4",
+      "notes": "For a fluffier texture and extra protein boost"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "2",
+      "notes": "Chiffonade for garnish, optional"
+    },
+    {
+      "name": "Soy Sauce (Gluten-Free)",
+      "amount": "1 tbsp",
+      "notes": "To add depth of flavor"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick pan over medium heat.",
+    "Add the white sauerkraut, garlic, ginger, and lemon and lime zest. Cook until heated through and slightly crispy, about 5 minutes.",
+    "Beat the egg whites in a small bowl until frothy. Pour into the hot sauerkraut mixture and stir gently to combine, allowing it to cook for another minute.",
+    "Season with salt and pepper, taste as needed. Add green onions on top if desired.",
+    "Serve hot or at room temperature, garnished with extra zest."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "fluffy",
+    "energizing",
+    "jamaican",
+    "white-sauerkraut-stir-fry",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 20,
+    "carbs": 9,
+    "fat": 3
+  },
+  "slug": "citrusy-fluffy-white-sauerkraut-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-fluffy-white-sauerkraut-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T08:05:33Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "fluffy",
+    "mood": "energizing",
+    "technique": "fold",
+    "primaryIngredient": "white sauerkraut",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "White Sauerkraut",
+    "descriptor": "Citrusy Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
