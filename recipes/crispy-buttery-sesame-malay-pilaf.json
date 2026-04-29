@@ -1,0 +1,98 @@
+{
+  "title": "Crispy Buttery Sesame Malay Pilaf",
+  "description": "A crispy and buttery vegetarian-friendly meal prepped dish featuring a blend of aromatic vegetables cooked with sous-vide method for maximum tenderness.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Brown Basmati Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Butternut Squash",
+      "amount": "1 medium (about 200g)"
+    },
+    {
+      "name": "Red Peppers",
+      "amount": "1 large (about 150g)"
+    },
+    {
+      "name": "Green Peppers",
+      "amount": "1 large (about 150g)"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Paprika Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Cilantro Leaves",
+      "amount": "for garnish (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat your sous-vide machine to 68°C.",
+    "Cook the brown basmati rice according to package instructions and let it cool.",
+    "Dice butternut squash, red peppers, and green peppers into uniform pieces. Peel garlic cloves.",
+    "In a pan, heat sesame oil over medium-high heat. Add diced peppers and cook until soft, about 5 minutes. Add garlic and cook for an additional minute.",
+    "Add cooked rice to the pan with peppers and add paprika powder, salt, and stir well to coat evenly.",
+    "Transfer the mixture to your sous-vide bag along with sesame seeds. Seal the bag, place in water bath at 68°C for about 1 hour.",
+    "Once done, remove from water bath, shake off excess water, then transfer the dish onto a baking sheet lined with parchment paper.",
+    "Drizzle the remaining sesame oil over the top and sprinkle the chopped fresh cilantro leaves (optional). Bake in a preheated oven at 200°C for about 15 minutes or until golden brown on top.",
+    "Serve hot as a side dish."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sous-vide",
+    "malaysian",
+    "vegetarian-fried",
+    "crispy-buttery",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 9,
+    "carbs": 52,
+    "fat": 16
+  },
+  "slug": "crispy-buttery-sesame-malay-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-buttery-sesame-malay-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T14:20:57Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crisp",
+    "mood": "meal-prep",
+    "technique": "sous-vide",
+    "primaryIngredient": "sesame butter",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "sesame butter",
+    "descriptor": "buttery crisp",
+    "dishForm": "Pilaf"
+  }
+}
