@@ -1,0 +1,92 @@
+{
+  "title": "Crispy Sweet Adventurous Egg Plant Stir-fry",
+  "description": "A savory and crispy Vietnamese dish featuring egg plants, prepared with high-protein ingredients for a delightful meal.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "high-protein-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 large eggplant",
+      "amount": "1 piece",
+      "notes": "sliced into thin pieces"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "3-4 cloves",
+      "notes": "minced finely"
+    },
+    {
+      "name": "1 red bell pepper",
+      "amount": "1 piece",
+      "notes": "cut into strips"
+    },
+    {
+      "name": "1 yellow onion",
+      "amount": "1/2 piece",
+      "notes": "chopped finely"
+    },
+    {
+      "name": "100g chicken breast",
+      "amount": "100g",
+      "notes": "chopped into small pieces"
+    },
+    {
+      "name": "1 tbsp soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "1 tsp black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large frying pan over medium-high heat. Add the vegetable oil and swirl to coat.",
+    "Add the eggplant slices and sauté for about 5 minutes until they start to brown slightly. Remove from pan and set aside.",
+    "In the same pan, add more oil if needed. Add minced garlic and red bell pepper strips. Sauté for another minute or so until softened.",
+    "Add chopped chicken pieces into the pan. Cook for about 3-4 minutes until fully cooked through, stirring occasionally.",
+    "Return the eggplant slices to the pan along with chopped yellow onion. Mix all ingredients together well.",
+    "Season with soy sauce and black pepper to taste. Stir-fry everything together for another minute or two to meld the flavors.",
+    "Serve hot as a side dish or main course with steamed rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sweet-adventurous",
+    "eggplant-stir-fry",
+    "high-protein-friendly",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 17,
+    "fat": 9
+  },
+  "slug": "crispy-sweet-adventurous-egg-plant-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-sweet-adventurous-egg-plant-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T06:29:01Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crisp",
+    "mood": "adventurous",
+    "technique": "fry",
+    "primaryIngredient": "egg plants",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "egg plant",
+    "descriptor": "sweet crisp adventurous",
+    "dishForm": "Stir-fry"
+  }
+}
