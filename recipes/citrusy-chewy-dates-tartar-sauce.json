@@ -1,0 +1,70 @@
+{
+  "title": "Citrusy Chewy Dates Tartar Sauce",
+  "description": "A citrusy and chewy crowd-pleaser Ethiopian dish featuring a Dutch stroop base, ideal for snacking or as a spread.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "nut-free-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "1 cup pitted"
+    },
+    {
+      "name": "water",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons fresh"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tablespoon finely grated"
+    }
+  ],
+  "instructions": [
+    "Combine dates, water, coconut milk, lemon juice, and orange zest in a medium saucepan. Stir until the mixture reaches simmering point.",
+    "Reduce heat to low and let it simmer for about 20 minutes or until thickened.",
+    "Stir occasionally to prevent sticking. Once done, remove from heat and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 20,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "tartar-sauce",
+    "chewy"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 19,
+    "fat": 2
+  },
+  "slug": "citrusy-chewy-dates-tartar-sauce",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-chewy-dates-tartar-sauce",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T01:09:51Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "chewy",
+    "mood": "crowd-pleaser",
+    "technique": "boil",
+    "primaryIngredient": "dutch stroop",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Dates",
+    "descriptor": "Citrusy Chewy",
+    "dishForm": "Tartar Sauce"
+  }
+}
