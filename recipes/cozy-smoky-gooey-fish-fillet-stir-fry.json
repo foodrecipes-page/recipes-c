@@ -1,0 +1,94 @@
+{
+  "title": "Cozy Smoky Gooey Fish Fillet Stir-fry",
+  "description": "A diabetic-friendly Norwegian dish featuring fish fillets braised in a smoky and gooey sauce for a cozy, comforting meal.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish fillet",
+      "amount": "12 oz"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "diastatic malt syrup (for sweetness)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "pinch, chopped"
+    },
+    {
+      "name": "pepper flakes (for garnish)",
+      "amount": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F.",
+    "Season fish fillets with salt and pepper. Heat olive oil in a pan over medium heat.",
+    "Add minced garlic and cook for about 1 minute until fragrant, do not burn the garlic.",
+    "Stir in red pepper flakes and malt syrup, continue cooking for another 2 minutes to develop flavors.",
+    "Gently place fish fillets skin-side down into the pan. Pour soy sauce over them.",
+    "Braise fish fillets in the oven at 350°F for about 15-20 minutes or until they reach an internal temperature of 145°F (fish is done).",
+    "Remove from heat and allow to rest for a few minutes before serving. Garnish with chopped parsley and additional pepper flakes if desired.",
+    "Serve hot with steamed vegetables as a side dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cozy-smoky-gooey-fish",
+    "norwegian-diet-friendly"
+  ],
+  "nutrition": {
+    "calories": 268,
+    "protein": 20,
+    "carbs": 15,
+    "fat": 9
+  },
+  "slug": "cozy-smoky-gooey-fish-fillet-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-smoky-gooey-fish-fillet-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T07:01:19Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "gooey",
+    "mood": "cozy",
+    "technique": "braise",
+    "primaryIngredient": "fish fillet",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Fish Fillet",
+    "descriptor": "Smoky Gooey Cozy",
+    "dishForm": "Stir-fry"
+  }
+}
