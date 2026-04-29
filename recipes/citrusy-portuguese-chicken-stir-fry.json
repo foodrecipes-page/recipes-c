@@ -1,0 +1,88 @@
+{
+  "title": "Citrusy Portuguese Chicken Stir-Fry",
+  "description": "This Citrusy Portuguese Chicken Stir-Fry is a fluffy weeknight dish featuring chicken thighs marinated in a citrusy blend and served with dumplings for an easy whole30-friendly meal.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 lb"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 tbsp, finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "whole wheat dumplings",
+      "amount": "4"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Mix lemon juice, orange juice, ginger, garlic, and sesame oil in a bowl.",
+    "Season chicken thighs with salt and pepper. Place them on a baking sheet lined with parchment paper.",
+    "Drizzle the marinade over the chicken, then bake for about 25 minutes or until fully cooked (internal temperature reaches 165°F).",
+    "While the chicken is baking, prepare the dumplings according to package instructions.",
+    "In a wok or large skillet, heat sesame oil over medium-high heat. Add chicken and cook for about 3-4 minutes on each side until golden brown.",
+    "Remove chicken from wok and set aside. In the same pan, add more sesame oil if needed. Stir-fry dumplings in hot pan for a few minutes or until they puff up slightly.",
+    "Return cooked chicken to the skillet with the dumplings and serve warm."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "portuguese",
+    "fluffy",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 589,
+    "protein": 37,
+    "carbs": 46,
+    "fat": 24
+  },
+  "slug": "citrusy-portuguese-chicken-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-portuguese-chicken-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T13:50:14Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "fluffy",
+    "mood": "weeknight",
+    "technique": "dum",
+    "primaryIngredient": "chicken thighs",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "chicken",
+    "descriptor": "Citrusy",
+    "dishForm": "Stir-fry"
+  }
+}
