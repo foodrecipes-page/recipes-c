@@ -1,0 +1,86 @@
+{
+  "title": "Crunchy Show-off Algerian Chinese Leaf Stir-fry",
+  "description": "A show-off culinary dish featuring crunchy and herbal flavors with a touch of sautéed raw-friendly elements for an Algerian-Chinese fusion.",
+  "cuisine": "Algerian-Chinese Fusion",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chinese Leaf",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Chili Pepper",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Wash and dry Chinese Leaf. Cut into bite-sized pieces.",
+    "In a large skillet or wok, heat olive oil over medium-high heat. Add garlic, chili pepper, paprika, salt, and pepper. Cook for about 2 minutes until fragrant.",
+    "Add chopped Chinese Leaf to the skillet. Toss well with the cooking liquid from the skillet so that it starts wilting slightly but not fully.",
+    "Drizzle lemon juice over the leaf mix to prevent burning while continuing to stir-fry for another minute. Add red pepper flakes just before serving, adjusting seasoning as necessary.",
+    "Serve immediately while hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian-chinese",
+    "crunchy-fork",
+    "herbal-flavor"
+  ],
+  "nutrition": {
+    "calories": 185,
+    "protein": 3.5,
+    "carbs": 9,
+    "fat": 7
+  },
+  "slug": "crunchy-show-off-algerian-chinese-leaf-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-show-off-algerian-chinese-leaf-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T06:09:22Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crunchy",
+    "mood": "show-off",
+    "technique": "saute",
+    "primaryIngredient": "chinese leaf",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Chinese Leaf",
+    "descriptor": "crunchy show-off",
+    "dishForm": "Stir-fry"
+  }
+}
