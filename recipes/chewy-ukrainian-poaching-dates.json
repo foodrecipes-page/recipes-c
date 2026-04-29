@@ -1,0 +1,83 @@
+{
+  "title": "Chewy Ukrainian Poaching Dates with Dark Chocolate Chips",
+  "description": "This dish combines the chewiness of dates with a salty twist for a unique date-night treat that's gluten-free-friendly.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup pitted Medjool dates",
+      "amount": "",
+      "notes": "Pitted to avoid choking hazards."
+    },
+    {
+      "name": "2 tablespoons dark chocolate chips",
+      "amount": "",
+      "notes": "Minimally sweetened for a savory touch."
+    },
+    {
+      "name": "1/4 cup water or non-dairy milk (optional)",
+      "amount": "",
+      "notes": "Use 10% of the total liquid capacity to prevent scalding."
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Juice of half a lemon, optional for garnish",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup gluten-free all-purpose flour or 1 tablespoon cornstarch (for thickening)",
+      "amount": "",
+      "notes": "Optional to ensure the dish is gluten-free."
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Place pitted dates in a heatproof bowl and drizzle with dark chocolate chips. Drizzle with water or non-dairy milk if needed.",
+    "Bake in the preheated oven for about 20-25 minutes until the dates are soft but not completely melted.",
+    "Remove from the oven, let cool slightly, then crush lightly to create chewy pieces.",
+    "If using gluten-free flour/cornstarch, mix it with water or non-dairy milk in a small bowl to thicken the mixture before adding to the crushed dates.",
+    "Combine the thickened liquid and date-chocolate mixture. Mix well until smooth and creamy.",
+    "Pour into an oven-safe dish and let it cool slightly before serving. You can garnish with lemon juice for extra brightness."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ukrainian",
+    "date-night",
+    "salty-chewy",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 3,
+    "carbs": 26,
+    "fat": 9
+  },
+  "slug": "chewy-ukrainian-poaching-dates",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-ukrainian-poaching-dates",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T03:07:38Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "chewy",
+    "mood": "date-night",
+    "technique": "poach",
+    "primaryIngredient": "dark chocolate chips",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Dates",
+    "descriptor": "Chewy",
+    "dishForm": "Poaching"
+  }
+}
