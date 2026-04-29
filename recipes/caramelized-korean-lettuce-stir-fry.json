@@ -1,0 +1,92 @@
+{
+  "title": "Caramelized Korean Lettuce Stir-fry",
+  "description": "A rich, dense, midnight-craving korean dish featuring crispy lettuce and a sweet caramel sauce that is dash-friendly and perfect for any meal.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lettuce",
+      "amount": "1 head"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon fresh, grated"
+    },
+    {
+      "name": "Korean Red Pepper Flakes (gochugaru)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vegetable Broth (optional)",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "for garnish, 3-4 slices"
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add minced garlic and grated ginger to the hot oil and stir-fry for about 1 minute until fragrant.",
+    "Remove the garlic and ginger from the pan using a slotted spoon. Add Korean red pepper flakes, soy sauce, sugar, and water. Stir well to combine.",
+    "Return the garlic and ginger to the pan and bring the mixture to a boil. Reduce heat to low and simmer for about 2-3 minutes until slightly thickened.",
+    "Add the head of lettuce into the pan and stir-fry for another minute or so, making sure to toss gently so as not to break apart the leaves.",
+    "Stir in optional vegetable broth if desired, then allow the mixture to steam cook until all the water is absorbed by the leaves, about 5-7 minutes.",
+    "Once done, garnish with sliced green onions and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caramelized",
+    "stir-fry",
+    "korean"
+  ],
+  "nutrition": {
+    "calories": 189,
+    "protein": 7,
+    "carbs": 20,
+    "fat": 5
+  },
+  "slug": "caramelized-korean-lettuce-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/caramelized-korean-lettuce-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T09:50:22Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "dense",
+    "mood": "midnight-craving",
+    "technique": "caramelize",
+    "primaryIngredient": "lettuce",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "lettuce",
+    "descriptor": "Caramelized",
+    "dishForm": "Stir-fry"
+  }
+}
