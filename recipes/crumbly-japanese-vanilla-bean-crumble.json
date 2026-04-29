@@ -1,0 +1,88 @@
+{
+  "title": "Crumbly Japanese Vanilla Bean Crumble",
+  "description": "A savory, crumbly Japanese dish featuring vanilla bean paste and smoke, keto-friendly for weeknight meals.",
+  "cuisine": "Japanese",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "vanilla bean paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "honey or stevia to taste",
+      "amount": "as needed"
+    },
+    {
+      "name": "pitted dates",
+      "amount": "6-8"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ground flaxseed",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vanilla bean seeds from 2 whole vanilla beans",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Blend dates until smooth in a food processor or blender.",
+    "In a mixing bowl, combine the blended date paste with vanilla bean seeds, vanilla bean paste, coconut oil, and honey or stevia.",
+    "Mix well until all ingredients are thoroughly combined. The mixture should be spreadable but not runny.",
+    "Add almond flour and ground flaxseed to the mixture. Mix together gently until a crumbly consistency is achieved.",
+    "Spoon the crumble mixture onto a pre-lined baking sheet or plate.",
+    "Bake for 10-12 minutes, stirring once halfway through cooking time. The crumble should be golden brown and crisp on top.",
+    "Remove from oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crumbly japanese",
+    "vanilla bean crumble",
+    "smoked flavor",
+    "keto friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 9
+  },
+  "slug": "crumbly-japanese-vanilla-bean-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-japanese-vanilla-bean-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T13:48:23Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crumbly",
+    "mood": "weeknight",
+    "technique": "smoke",
+    "primaryIngredient": "vanilla bean paste",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Vanilla Bean Paste",
+    "descriptor": "Crumbly",
+    "dishForm": "Crumble"
+  }
+}
