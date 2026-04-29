@@ -1,0 +1,99 @@
+{
+  "title": "Creamy Korean New Potatoes Bake",
+  "description": "An energizing low-carb-friendly dish featuring creamy sauce and earthy new potatoes baked to perfection.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "new potatoes",
+      "amount": "2 lbs"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp, freshly grated"
+    },
+    {
+      "name": "green onion (scallion), chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "gochugaru (Korean chili flakes)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "2 tbsp (for creamy sauce)"
+    },
+    {
+      "name": "cream",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "chopped cilantro (for garnish)",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Quarter new potatoes and rinse.",
+    "Spread quartered potatoes on a baking sheet. Drizzle with sesame oil and set aside.",
+    "In a small saucepan, combine butter, soy sauce, rice vinegar, ginger, green onion, gochugaru, and peanut butter. Stir until smooth.",
+    "Pour the mixture over the potatoes in the baking dish. Bake for 25 minutes.",
+    "Stir in cream and add chopped cilantro just before serving.",
+    "Serve warm as a side dish or main course."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "new potatoes",
+    "bake",
+    "creamy"
+  ],
+  "nutrition": {
+    "calories": 367,
+    "protein": 12.8,
+    "carbs": 19.5,
+    "fat": 18.6
+  },
+  "slug": "creamy-korean-new-potatoes-bake",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-korean-new-potatoes-bake",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T14:32:34Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "creamy",
+    "mood": "energizing",
+    "technique": "bake",
+    "primaryIngredient": "new potatoes",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "New potatoes",
+    "descriptor": "Creamy",
+    "dishForm": "Bake"
+  }
+}
