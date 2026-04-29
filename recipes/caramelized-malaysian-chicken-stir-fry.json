@@ -1,0 +1,99 @@
+{
+  "title": "Caramelized Malaysian Chicken Stir-fry",
+  "description": "A rich and flaky dish featuring chicken thighs cooked in a sweet caramel sauce that's raw-friendly.",
+  "cuisine": "Malaysian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken thighs",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Galangal (fresh or powdered)",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Kecap manis (Indonesian sweet soy sauce)",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "6, minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1, finely chopped"
+    },
+    {
+      "name": "Vegetables (optional)",
+      "amount": "To taste - use of your choice"
+    }
+  ],
+  "instructions": [
+    "In a wok or large frying pan, heat oil over medium-high heat.",
+    "Add minced garlic and chopped onion to the hot oil and cook until fragrant.",
+    "Add chicken thighs and cook for about 5 minutes on each side, or until golden brown.",
+    "Stir in galangal, soy sauce, fish sauce, kecap manis, and water. Bring the mixture to a boil.",
+    "Reduce heat to low, stir in cornstarch, and let it thicken into a smooth caramelized sauce.",
+    "Add vegetables if using (e.g., bell peppers, mushrooms) and cook for another 2-3 minutes until wilted.",
+    "Stir occasionally until chicken is fully cooked through and the sauce has thickened to your desired consistency.",
+    "Serve hot with steamed rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "caramelized",
+    "malaysian",
+    "chicken",
+    "stir-fry",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 702,
+    "protein": 39.6,
+    "carbs": 41.8,
+    "fat": 16.8
+  },
+  "slug": "caramelized-malaysian-chicken-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/caramelized-malaysian-chicken-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T05:49:37Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "flaky",
+    "mood": "one-pot",
+    "technique": "caramelize",
+    "primaryIngredient": "chicken thighs",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "Caramelized",
+    "dishForm": "Stir-fry"
+  }
+}
