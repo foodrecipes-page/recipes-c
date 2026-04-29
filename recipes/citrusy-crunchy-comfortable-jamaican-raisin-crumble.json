@@ -1,0 +1,97 @@
+{
+  "title": "Citrusy Crunchy Comfortable Jamaican Raisin Crumble",
+  "description": "A comforting dish featuring citrus flavors and dried fruit held together by a crunchy crumble topping.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dried apricots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "raisins",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "zest of 1 lemon",
+      "notes": "plus juice"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "honey or maple syrup",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C). Grease a baking dish.",
+    "Mix dried apricots, raisins, flour, cocoa powder, and cinnamon in a bowl until evenly distributed.",
+    "In another bowl, whisk together eggs, lemon zest, vegetable oil, honey or maple syrup. Add to fruit mixture and mix well.",
+    "Stir in unsalted butter chunks until mixture is moist but still crumbly.",
+    "Press the mixture into the prepared baking dish and bake for 25-30 minutes or until edges are golden brown.",
+    "Cool before slicing."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "jamaican",
+    "comfortable",
+    "citrusy",
+    "crunchy",
+    "raisin",
+    "dessert",
+    "jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 8,
+    "carbs": 62,
+    "fat": 17
+  },
+  "slug": "citrusy-crunchy-comfortable-jamaican-raisin-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-crunchy-comfortable-jamaican-raisin-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T06:52:12Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crunchy",
+    "mood": "comforting",
+    "technique": "fold",
+    "primaryIngredient": "dried fruit",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "raisins",
+    "descriptor": "Citrusy Crunchy Comfortable",
+    "dishForm": "Crumble"
+  }
+}
