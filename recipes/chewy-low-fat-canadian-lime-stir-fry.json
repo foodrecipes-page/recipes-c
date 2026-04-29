@@ -1,0 +1,93 @@
+{
+  "title": "Chewy Low Fat Canadian Lime Stir-fry",
+  "description": "A fresh and chewy low-fat dish featuring unwaxed limes, ideal for a quick weeknight meal.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-fat",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "unwaxed lime juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unwaxed lime zest",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp fresh, minced"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "low-fat soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy milk or almond milk",
+      "amount": "30 ml"
+    },
+    {
+      "name": "brown rice noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "mixed vegetables (e.g., carrots, bell peppers)",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Combine lime juice and zest in a blender. Add ginger, garlic, soy sauce, vinegar, sesame oil, and milk into the blender with the lime mixture.",
+    "Heat a wok or large skillet over medium-high heat. Add brown rice noodles to the wok and stir-fry for 2 minutes until heated through.",
+    "Add mixed vegetables to the pan, stir-frying them for an additional 3-4 minutes, or until they start to wilt slightly.",
+    "Pour in the lime mixture and continue to cook stirring constantly for about 5 minutes. The sauce will reduce slightly as it cooks.",
+    "Taste test and adjust seasonings if needed. Serve hot over the rice noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "canadian",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 6,
+    "carbs": 27,
+    "fat": 9
+  },
+  "slug": "chewy-low-fat-canadian-lime-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-low-fat-canadian-lime-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T03:29:36Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "chewy",
+    "mood": "weeknight",
+    "technique": "reduce",
+    "primaryIngredient": "unwaxed lime",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "lime",
+    "descriptor": "Chewy Low Fat",
+    "dishForm": "Stir-fry"
+  }
+}
