@@ -1,0 +1,85 @@
+{
+  "title": "Crispy Show-off Saudic Almond Essence Stir-fry",
+  "description": "A floral and crispy show-off Saudi Arabian dish featuring almond essence, perfectly seasoned for a raw-friendly snack that's both easy to prepare and delectable.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "lacto-ovo",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "almond essence",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "a few pinch"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "3 slices"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "tahini sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt to taste",
+      "notes": "adjust according to preference"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a non-stick pan over medium heat.",
+    "Add almond essence and chili flakes, stirring continuously for about 30 seconds until fragrant but not burnt.",
+    "Mix in ginger paste and scallions. Cook for another minute until the ingredients are well combined and heated through.",
+    "Drizzle with lemon juice to enhance flavors and adjust seasoning with salt if needed.",
+    "Serve immediately as a raw-friendly snack or garnish over fresh greens or crackers."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "almond essence",
+    "saudic dish",
+    "crispy snack"
+  ],
+  "nutrition": {
+    "calories": 36,
+    "protein": 2,
+    "carbs": 1,
+    "fat": 10
+  },
+  "slug": "crispy-show-off-saudic-almond-essence-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-show-off-saudic-almond-essence-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T05:36:48Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crispy",
+    "mood": "show-off",
+    "technique": "boil",
+    "primaryIngredient": "almond essence",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Saudic",
+    "mainIngredient": "almond essence",
+    "descriptor": "Crispy Show-off",
+    "dishForm": "Stir-fry"
+  }
+}
