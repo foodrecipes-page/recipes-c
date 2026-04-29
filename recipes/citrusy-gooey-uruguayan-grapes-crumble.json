@@ -1,0 +1,93 @@
+{
+  "title": "Citrusy Gooey Uruguayan Grapes Crumble",
+  "description": "This jain-friendly citrusy and gooey crumble is perfect for post-workout snacking or as a dessert after meals, featuring grapes baked with spices like cinnamon and cloves to enhance the natural sweetness of the fruit.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "2 cups golden raisins",
+      "amount": "cup",
+      "notes": "soaked in water for 1 hour"
+    },
+    {
+      "name": "1/2 cup fresh orange juice",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 cup fresh lime juice",
+      "amount": "cup"
+    },
+    {
+      "name": "3 cups golden grapes, halved and seeded",
+      "amount": "cups"
+    },
+    {
+      "name": "1 tablespoon ground cinnamon",
+      "amount": "tablespoon"
+    },
+    {
+      "name": "1 teaspoon ground cloves",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "1/2 cup granulated sugar",
+      "amount": "cup"
+    },
+    {
+      "name": "3 tablespoons all-purpose flour",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "1/4 cup unsalted butter, melted",
+      "amount": "cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Soak raisins in water for 1 hour. Drain and set aside.",
+    "Combine orange juice, lime juice, soaked raisins, golden grapes, cinnamon, cloves, sugar, flour, and melted butter in a large mixing bowl. Mix well until the mixture is moist but not too wet.",
+    "Press half of the fruit mixture into an ungreased 8x8 inch baking dish. Pour remaining mixture over it evenly.",
+    "Bake for 20 minutes or until golden brown and bubbly on top. Serve warm as a dessert or snack.",
+    "Let cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "gooey",
+    "uruguayan",
+    "grapes",
+    "bake",
+    "jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 38,
+    "fat": 1
+  },
+  "slug": "citrusy-gooey-uruguayan-grapes-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-gooey-uruguayan-grapes-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T03:09:28Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "gooey",
+    "mood": "post-workout",
+    "technique": "bake",
+    "primaryIngredient": "grapes",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Grapes",
+    "descriptor": "Citrusy Gooey",
+    "dishForm": "Crumble"
+  }
+}
