@@ -1,0 +1,94 @@
+{
+  "title": "Cozy Creamy Tortilla Stir-fry",
+  "description": "An earthy and creamy Argentinian dish featuring halal-friendly tortillas sautéed with aromatic vegetables in a rich cream sauce for a comforting meal.",
+  "cuisine": "Argentinean",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tortillas",
+      "amount": "4-6 pieces",
+      "notes": "Halal-certified tortillas"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2-3",
+      "notes": "Minced finely"
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "1 large (red, yellow or green)",
+      "notes": "Chopped into thin strips"
+    },
+    {
+      "name": "Spinach leaves",
+      "amount": "1 bunch",
+      "notes": "Rinsed and chopped"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": "Quartered"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing vegetables"
+    },
+    {
+      "name": "Heavy Cream or Coconut Milk",
+      "amount": "1 cup",
+      "notes": "Optionally, can use full-fat coconut milk for a creamy texture without dairy"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large skillet over medium heat.",
+    "Add onions and garlic, sautéing until translucent (about 3 minutes).",
+    "Add bell peppers and spinach leaves to the skillet. Cook until vegetables soften (5-7 minutes).",
+    "Remove from heat, transfer mixture to a bowl, cover with aluminum foil to keep warm.",
+    "In the same pan, add tortillas, sprinkle on heavy cream or coconut milk, and stir-fry over medium-high heat for about 2-3 minutes until golden brown spots appear (do not overcook).",
+    "Fold in cooked vegetables back into tortilla mixture, reheat briefly if needed. Serve hot.",
+    "Optional garnish with fresh herbs like cilantro or parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cozy-argentinean",
+    "creamy-tortilla-stir-fry",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 13
+  },
+  "slug": "cozy-creamy-tortilla-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-creamy-tortilla-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T08:01:44Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "creamy",
+    "mood": "cozy",
+    "technique": "saute",
+    "primaryIngredient": "tortillas",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Tortilla",
+    "descriptor": "Creamy Cozy",
+    "dishForm": "Stir-fry"
+  }
+}
