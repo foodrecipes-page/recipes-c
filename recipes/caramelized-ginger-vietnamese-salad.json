@@ -1,0 +1,88 @@
+{
+  "title": "Caramelized Ginger Vietnamese Salad",
+  "description": "A kid-friendly and herbal Vietnamese dish featuring caramelized ginger in a light dressing to enhance the natural sweetness of carrots and julienned cucumbers.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "salad",
+  "ingredients": [
+    {
+      "name": "1 carrot",
+      "amount": "1 whole carrot",
+      "notes": "julienne into thin strips"
+    },
+    {
+      "name": "2 scallions",
+      "amount": "2 scallions, chopped finely",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons ginger",
+      "amount": "2 cloves of fresh ginger, minced",
+      "notes": "ensure it's not too hot for kids to enjoy"
+    },
+    {
+      "name": "1 cup rice vinegar",
+      "amount": "1 cup (500ml) rice vinegar",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup sugar",
+      "amount": "1/4 cup granulated sugar",
+      "notes": "adjust sweetness according to taste"
+    },
+    {
+      "name": "2 tablespoons sesame oil",
+      "amount": "2 tablespoons sesame oil (optional for flavor)"
+    },
+    {
+      "name": "2 tablespoons fresh lime juice",
+      "amount": "2 tablespoons freshly squeezed lime juice",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Wash and julienne the carrots into thin strips. Chop finely the scallions.",
+    "In a small saucepan, combine rice vinegar, sugar, and sesame oil (if using). Bring to a simmer over medium heat and stir until the sugar is dissolved. Let it reduce by half, about 10 minutes.",
+    "Remove from heat and let cool slightly before adding fresh lime juice. Stir well to combine all ingredients.",
+    "In a large bowl, mix together the reduced ginger dressing with carrot strips and chopped scallions.",
+    "Taste and adjust seasoning as needed.",
+    "Serve chilled or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "caramelized-ginger",
+    "vietnamese-salad",
+    "kid-friendly",
+    "herbal"
+  ],
+  "nutrition": {
+    "calories": 70,
+    "protein": 1,
+    "carbs": 8,
+    "fat": 2
+  },
+  "slug": "caramelized-ginger-vietnamese-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/caramelized-ginger-vietnamese-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T14:45:26Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "light",
+    "mood": "kid-friendly",
+    "technique": "reduce",
+    "primaryIngredient": "caramel",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "ginger",
+    "descriptor": "Caramelized",
+    "dishForm": "Salad"
+  }
+}
