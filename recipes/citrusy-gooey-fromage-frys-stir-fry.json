@@ -1,0 +1,100 @@
+{
+  "title": "Citrusy Gooey Fromage Frys Stir-fry",
+  "description": "A low-carb solo-dinner Korean dish featuring citrusy and gooey textures from cheese and smoke infused into a flavorful stir-fry, perfect for those looking to enjoy a satisfying meal without the carbs.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fromage Frys",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 medium"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 small, any color"
+    },
+    {
+      "name": "Broccoli Florets",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "White Pepper Powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Ginger Paste",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Citrus Zest (of 1 orange)",
+      "amount": "optional, for garnish"
+    },
+    {
+      "name": "Smoke Flavor",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F.",
+    "Chop the Fromage Frys into small pieces and set aside. Dice the garlic and onion, slice the bell pepper, and break the broccoli florets.",
+    "In a bowl, mix together the chopped Fromage Frys, diced garlic, onions, salt, white pepper powder, soy sauce, ginger paste, and citrus zest (if using). Toss well to coat evenly.",
+    "Heat 1 tablespoon of vegetable oil in a skillet over medium heat. Add the vegetables and cook until they start to soften and release moisture.",
+    "Pour in the Fromage Frys mixture and stir to combine with all other ingredients. Reduce heat to low, cover with a lid if available, and let it simmer for about 5-7 minutes until the cheese starts to melt and become gooey. You can also add smoke flavor during this time or after.",
+    "Transfer the mixture into a baking dish that has been greased lightly with oil. Bake in the preheated oven for about 10-12 minutes, or until golden brown on top.",
+    "Serve hot as a main course with your preferred side dishes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "gooey",
+    "korean",
+    "fromage-frys",
+    "low-carb-friendly"
+  ],
+  "nutrition": {
+    "calories": 290,
+    "protein": 15,
+    "carbs": 8,
+    "fat": 17
+  },
+  "slug": "citrusy-gooey-fromage-frys-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-gooey-fromage-frys-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T09:22:14Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "gooey",
+    "mood": "solo-dinner",
+    "technique": "smoke",
+    "primaryIngredient": "fromage frais",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "fromage frais",
+    "descriptor": "Citrusy Gooey",
+    "dishForm": "Stir-fry"
+  }
+}
