@@ -1,0 +1,72 @@
+{
+  "title": "Umami Crumbly British Butter Crock",
+  "description": "A weeknight dish featuring umami flavors from red wine and a subtle sweetness that's sugar-free-friendly.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup heavy cream",
+      "amount": "1"
+    },
+    {
+      "name": "2 tablespoons unsalted butter",
+      "amount": "2"
+    },
+    {
+      "name": "Pinch of kosher salt"
+    },
+    {
+      "name": "1/4 cup red wine"
+    },
+    {
+      "name": "3 cloves garlic, minced"
+    },
+    {
+      "name": "Juice of 1 lemon"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "In a mixing bowl, combine the heavy cream and garlic. Mix until smooth.",
+    "Add the unsalted butter, red wine, salt, and lemon juice into the mixture. Stir well until fully combined.",
+    "Transfer the mixture into an oven-safe crockpot or pot.",
+    "Cover with the lid and cook for 30 minutes on high heat or until thickened to your desired consistency.",
+    "Serve hot as a weeknight comfort food."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "crumbly",
+    "british",
+    "umami",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 3,
+    "fat": 9
+  },
+  "slug": "crumbly-british-butter-crock",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-british-butter-crock",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T06:30:28Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crumbly",
+    "mood": "weeknight",
+    "technique": "cure",
+    "primaryIngredient": "red wine",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Butter",
+    "descriptor": "Crumbly",
+    "dishForm": "Crumble"
+  }
+}
