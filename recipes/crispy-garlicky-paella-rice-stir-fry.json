@@ -1,0 +1,94 @@
+{
+  "title": "Crispy Garlic Paella Rice Stir-Fry",
+  "description": "A delicious one-pot dish featuring crispy garlic-infused paella rice marinated in a blend of herbs and spices for added flavor.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup paella rice",
+      "amount": "",
+      "notes": "Use a non-stick pan if necessary to avoid sticking."
+    },
+    {
+      "name": "1 clove garlic, minced",
+      "amount": "",
+      "notes": "Optional for added flavor."
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": ""
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": ""
+    },
+    {
+      "name": "2 tablespoons white wine",
+      "amount": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": ""
+    },
+    {
+      "name": "4 chicken thighs, marinated (optional)",
+      "amount": "",
+      "notes": "For added protein."
+    },
+    {
+      "name": "1 bell pepper, sliced",
+      "amount": ""
+    },
+    {
+      "name": "1 onion, diced",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "In a large bowl, mix the paella rice with minced garlic and olive oil. Season with salt and pepper.",
+    "Fold in lemon juice and white wine into the rice mixture. Toss well to combine evenly.",
+    "Transfer the rice mixture onto an oven-safe baking sheet lined with parchment paper. Spread out evenly.",
+    "Bake in the preheated oven for 20-25 minutes, or until the rice is crispy on top and golden brown underneath.",
+    "While the rice is baking, heat a pan over medium-high heat. Add chicken thighs (if using) and cook for about 8-10 minutes per side until fully cooked.",
+    "Add bell peppers and onions to the same pan with olive oil. Stir-fry for an additional 5 minutes or until vegetables are crisp-tender.",
+    "Garnish with fresh herbs if desired. Serve hot as a main course, alongside any complementary dishes such as salads or roasted vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "garlicky",
+    "paella-rice",
+    "canadian-dish",
+    "kosher-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "crispy-garlicky-paella-rice-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-garlicky-paella-rice-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T08:28:19Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crisp",
+    "mood": "one-pot",
+    "technique": "marinate",
+    "primaryIngredient": "paella rice",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "paella rice",
+    "descriptor": "garlicky crisp",
+    "dishForm": "Stir-fry"
+  }
+}
