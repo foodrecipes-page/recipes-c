@@ -1,0 +1,80 @@
+{
+  "title": "Crumbly Greek Pumpkin Crumble",
+  "description": "A rich and crumbly greek pumpkin dish featuring clear honey, bhuna spices, with a pescatarian-friendly option.",
+  "cuisine": "Greek",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "2 medium ripe pumpkins",
+      "amount": "each"
+    },
+    {
+      "name": "1/4 cup clear honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "3 tablespoons bhuna spice mix",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juice of 1 lemon"
+    },
+    {
+      "name": "1 teaspoon ground cardamom",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Cut pumpkins into slices, remove seeds and fibers.",
+    "In a baking dish coated with cooking spray or oil, layer the pumpkin slices cut side down. Drizzle honey over each slice.",
+    "Combine lemon juice, bhuna spice mix, cardamom, and salt in a bowl. Pour over pumpkin slices evenly.",
+    "Bake for 45 minutes until golden brown and tender. Allow to cool slightly before crumbly topping layering.",
+    "In a mixing bowl combine remaining spices (cinnamon, nutmeg) and softened unsalted butter to make the crumble mixture.",
+    "Top cooled pumpkin with crumble mixture evenly and bake at 350°F (175°C) for an additional 10-15 minutes until golden.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pumpkin",
+    "crumble",
+    "bhuna",
+    "greek",
+    "clear-honey",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 39,
+    "fat": 11
+  },
+  "slug": "crumbly-greek-pumpkin-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-greek-pumpkin-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T12:24:37Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "bhuna",
+    "primaryIngredient": "clear honey",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Pumpkin",
+    "descriptor": "Crumbly",
+    "dishForm": "Crumble"
+  }
+}
