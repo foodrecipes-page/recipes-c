@@ -1,0 +1,100 @@
+{
+  "title": "Crumbly Zanzibari Chicken Crumble",
+  "description": "A nostalgic middle-eastern dish featuring chicken drumsticks in a salty and crumbly sauce for a savory breakfast or snack.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken drumsticks",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2-3"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "¼ cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "½ teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "2-3"
+    },
+    {
+      "name": "olive oil for grilling",
+      "amount": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season chicken drumsticks with salt, ground cumin, turmeric powder, and black pepper.",
+    "Grill the chicken on both sides until golden brown and cooked through, about 12-15 minutes total. Let rest for a few minutes before cutting into strips.",
+    "In a pan, heat olive oil over medium heat. Add onion and sauté until softened. Stir in tomato paste and cook for another minute.",
+    "Add grilled chicken pieces to the pan along with any accumulated juices. Mix well and let it simmer for about 5-7 minutes to meld flavors.",
+    "Stir in saffron threads (soak them in warm water first if they are dried).",
+    "Serve hot as a snack or with bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crumbly",
+    "salty",
+    "zanzibari",
+    "middle-eastern",
+    "chicken",
+    "grilled",
+    "egg-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 310,
+    "protein": 28,
+    "carbs": 9,
+    "fat": 20
+  },
+  "slug": "crumbly-zanzibari-chicken-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-zanzibari-chicken-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T03:41:01Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crumbly",
+    "mood": "nostalgic",
+    "technique": "grill",
+    "primaryIngredient": "chicken drumsticks",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Zanzibari",
+    "mainIngredient": "Chicken",
+    "descriptor": "Crumbly",
+    "dishForm": "Crumble"
+  }
+}
