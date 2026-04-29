@@ -1,0 +1,80 @@
+{
+  "title": "Caramelized Kenyan Dates Stir-fry",
+  "description": "A dense and fermented date-night dish featuring high-protein-friendly ingredients such as caramelized dates, onion salt, and a touch of spices to elevate the flavor profile.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "high-protein",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "clove of garlic",
+      "amount": "1"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1/8 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Wash the dates and place them in a small saucepan.",
+    "Add enough water to cover the dates. Let it simmer for about 10 minutes or until soft.",
+    "Drain the excess water from the dates and chop them into small pieces.",
+    "In a pan, heat olive oil over medium-high heat. Add chopped garlic and coriander seeds. Sauté until fragrant (about 30 seconds).",
+    "Add onion salt and cardamom powder to the pan and stir for another minute.",
+    "Stir in the caramelized dates into the pan and cook for an additional 5 minutes, stirring occasionally until well combined and slightly thickened.",
+    "Transfer to a serving dish. Serve warm as a snack or appetizer."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "dates",
+    "kfc"
+  ],
+  "nutrition": {
+    "calories": 106,
+    "protein": 3.2,
+    "carbs": 9,
+    "fat": 5
+  },
+  "slug": "caramelized-kenyan-dates-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/caramelized-kenyan-dates-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T05:09:40Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "caramelize",
+    "primaryIngredient": "onion salt",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Dates",
+    "descriptor": "Caramelized",
+    "dishForm": "Stir-fry"
+  }
+}
