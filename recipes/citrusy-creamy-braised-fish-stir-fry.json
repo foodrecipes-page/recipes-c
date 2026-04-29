@@ -1,0 +1,103 @@
+{
+  "title": "Citrusy Creamy Braised Fish Stir-fry",
+  "description": "A brunch-mood Filipino dish featuring citrusy, creamy flavors with a touch of sichuan pepper for added depth and heat, suitable for pescatarian diets.",
+  "cuisine": "Filipino",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "Breaded fish fillets",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Fish sauce (Shoarma paste)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Minced ginger",
+      "amount": "1 thumb piece"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Chicken bouillon cubes (optional)",
+      "amount": "2 cubes"
+    },
+    {
+      "name": "Sichuan peppercorns",
+      "amount": "10-15"
+    },
+    {
+      "name": "Fish sauce (for garnish)",
+      "amount": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat. Add minced garlic and ginger, sauté for 2 minutes.",
+    "Add chicken broth, soy sauce, fish sauce, sichuan peppercorns, and 4 cups of water to the pan. Bring to a boil.",
+    "Reduce heat to low and let simmer for about 10 minutes or until slightly reduced. Add cornstarch dissolved in a little water and stir well until thickened.",
+    "Place breaded fish fillets into the sauce and gently cook on each side until golden brown, about 3-4 minutes per side.",
+    "Stir occasionally to ensure even cooking, adding more water if needed to prevent sticking. Adjust seasoning with additional soy sauce or fish sauce as desired.",
+    "Serve hot with garnished with extra fish sauce for a touch of umami and added flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "creamy",
+    "filipino",
+    "stir-fry",
+    "pescatarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 17,
+    "fat": 14
+  },
+  "slug": "citrusy-creamy-braised-fish-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-creamy-braised-fish-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T01:25:31Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "creamy",
+    "mood": "brunch-mood",
+    "technique": "braise",
+    "primaryIngredient": "sichuan pepper",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Fish",
+    "descriptor": "Citrusy Creamy Braised",
+    "dishForm": "Stir-fry"
+  }
+}
