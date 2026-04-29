@@ -1,0 +1,85 @@
+{
+  "title": "Chewy Indulgent Earthy Toor Dal Stir-fry",
+  "description": "A chewy and indulgent American dish featuring toor dal that is earthy in flavor with a touch of richness suitable for kosher meals.",
+  "cuisine": "American",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup Toor Dal (Besan)",
+      "amount": "cup",
+      "notes": "soaked and drained"
+    },
+    {
+      "name": "2 tbsp Olive Oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 small Onion, finely chopped",
+      "amount": "piece"
+    },
+    {
+      "name": "1/4 cup Toasted Flax Seeds",
+      "amount": "cup",
+      "notes": "toasted beforehand"
+    },
+    {
+      "name": "1 tsp Garam Masala (optional for extra flavor)",
+      "amount": "tsp"
+    },
+    {
+      "name": "1 pinch Salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "2 tbsp Water (for soaking dal and cooking the dish)",
+      "amount": "tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add finely chopped onion and cook until translucent.",
+    "Drain soaked toor dal and add it to the pan. Stir well for about 2 minutes.",
+    "Sprinkle garam masala (if using) and salt into the mixture, stirring continuously.",
+    "Stir in toasted flax seeds and water until everything is moistened evenly.",
+    "Reduce heat to low and simmer for another 5-10 minutes or until the dal absorbs all the liquid.",
+    "Adjust seasoning if necessary. Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "toor dal",
+    "earthly",
+    "indulgent",
+    "kashrut"
+  ],
+  "nutrition": {
+    "calories": 198,
+    "protein": 6,
+    "carbs": 27,
+    "fat": 10
+  },
+  "slug": "chewy-indulgent-earthy-toor-dal-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-indulgent-earthy-toor-dal-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T00:32:08Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "chewy",
+    "mood": "indulgent",
+    "technique": "toast",
+    "primaryIngredient": "toor dal",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Toor Dal",
+    "descriptor": "Indulgent Earthy Chewy",
+    "dishForm": "Stir-fry"
+  }
+}
