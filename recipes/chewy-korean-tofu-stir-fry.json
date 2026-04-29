@@ -1,0 +1,83 @@
+{
+  "title": "Chewy Korean Tofu Stir-fry",
+  "description": "A fresh and chewy crowd-pleaser Korean dish featuring massaman curry paste, tadka, raw-friendly ingredients.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "200g",
+      "notes": "Select extra-firm tofu for best results."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chop finely to enhance flavor."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince garlic for maximum aroma and texture."
+    },
+    {
+      "name": "Green Onions (Scallions)",
+      "amount": "2-3 stalks",
+      "notes": "Chiffonade for garnish."
+    },
+    {
+      "name": "Massaman Curry Paste",
+      "amount": "1 tablespoon",
+      "notes": "Use a mild, low-salt variety suitable for stir-frying."
+    },
+    {
+      "name": "Red Chilli Pepper",
+      "amount": "1 small",
+      "notes": "Add to taste for heat, keep whole for tadka."
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large pan over medium-high heat.",
+    "Add onion and garlic; sauté until fragrant and translucent. Stir-fry briefly without burning the ingredients.",
+    "Add tofu cubes to the wok. Cook for about 5 minutes, flipping occasionally, until just golden brown on the edges.",
+    "Sprinkle massaman curry paste over the tofu, stirring well to coat evenly. Simmer for another 2-3 minutes allowing flavors to meld.",
+    "While frying, prepare the tadka: Warm some oil in a small pan, add whole red chilli pepper and a pinch of salt. Stir-fry until fragrant and slightly charred.",
+    "Stir in tadka ingredients into the tofu. Cook for an additional minute ensuring everything is evenly seasoned.",
+    "Fold in green onions just before serving to prevent discoloration. Adjust seasoning if needed, serve hot with steamed rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tofu",
+    "korean",
+    "stir-fry",
+    "massaman"
+  ],
+  "nutrition": {
+    "calories": 317,
+    "protein": 16,
+    "carbs": 20,
+    "fat": 9
+  },
+  "slug": "chewy-korean-tofu-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-korean-tofu-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T00:23:32Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "chewy",
+    "mood": "crowd-pleaser",
+    "technique": "tadka",
+    "primaryIngredient": "massaman curry paste",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Tofu",
+    "descriptor": "Chewy",
+    "dishForm": "Stir-fry"
+  }
+}
