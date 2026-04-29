@@ -1,0 +1,97 @@
+{
+  "title": "Crumbly Indian Lentil Crumble",
+  "description": "A rich and crumbly Indian dish featuring oregano, perfect for adventurous palates and sugar-free friendly.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1, chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece, grated"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/8 tsp"
+    },
+    {
+      "name": "curry leaves",
+      "amount": "a few fresh, chopped"
+    },
+    {
+      "name": "oignon (Indian onion)",
+      "amount": "2 medium, finely chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F.",
+    "In a pan, heat oil over medium heat. Add cumin seeds and sauté until they turn golden brown.",
+    "Add onion and garlic; sauté for about 4-5 minutes until soft.",
+    "Stir in ginger, coriander powder, nutmeg, oignon, salt, and curry leaves. Cook for an additional minute.",
+    "Transfer the mixture to a blender and add lentils. Blend smoothly.",
+    "Pour the blended mixture into an oven-safe dish. Bake in preheated oven for 30 minutes or until golden brown on top.",
+    "Serve warm as a snack."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian-lentil-crumble",
+    "crumbly-indian-dish",
+    "oignon-recipe",
+    "sugar-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 3
+  },
+  "slug": "crumbly-indian-lentil-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-indian-lentil-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T11:45:33Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crumbly",
+    "mood": "adventurous",
+    "technique": "blanch",
+    "primaryIngredient": "oregano",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "lentils",
+    "descriptor": "Crumbly",
+    "dishForm": "Crumble"
+  }
+}
