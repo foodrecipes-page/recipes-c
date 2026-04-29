@@ -1,0 +1,95 @@
+{
+  "title": "Citrusy Crumbly Mexican Trout Crumble",
+  "description": "A lazy Sunday dish featuring vegan rainbow trout blended with citrus flavors and served as a crumbly topping over warm quinoa.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rainbow Trout Fillets",
+      "amount": "4 fillets"
+    },
+    {
+      "name": "Quinoa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Canned Chopped Tomatoes",
+      "amount": "1 can (about 14 oz)"
+    },
+    {
+      "name": "Fresh Lime Juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Minced Onion",
+      "amount": "1 small onion"
+    },
+    {
+      "name": "Sliced Bell Pepper",
+      "amount": "2 bell peppers, any color"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt and Pepper to taste",
+      "notes": "to season the quinoa"
+    }
+  ],
+  "instructions": [
+    "Boil water in a pot and add quinoa according to package instructions.",
+    "In a pan, sauté minced onion and garlic in olive oil until translucent. Add sliced bell peppers and cook for another minute.",
+    "Add drained chicaned tomatoes, fresh lime juice, salt, pepper, and cooked quinoa into the pan mixture. Mix well and let it simmer.",
+    "Meanwhile, season trout fillets with salt and pepper on both sides. Place them in a baking dish and bake at 400°F (205°C) for about 12 minutes or until fully cooked.",
+    "When ready to serve, gently mix the quinoa mixture into blender, add fresh lime juice and blend well till you get a thick but pourable consistency.",
+    "Spread the crumble over the warm trout fillets and garnish with chopped cilantro before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "crumbly",
+    "lazy-sunday",
+    "mexican",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 18,
+    "carbs": 52,
+    "fat": 9
+  },
+  "slug": "citrusy-crumbly-mexican-trout-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-crumbly-mexican-trout-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T10:23:04Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crumbly",
+    "mood": "lazy-sunday",
+    "technique": "blanch",
+    "primaryIngredient": "rainbow trout",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Trout",
+    "descriptor": "Citrusy Crumbly",
+    "dishForm": "Crumble"
+  }
+}
