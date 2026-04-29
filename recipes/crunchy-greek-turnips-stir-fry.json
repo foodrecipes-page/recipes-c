@@ -1,0 +1,75 @@
+{
+  "title": "Crunchy Greek Turnips Stir-fry",
+  "description": "A kid-friendly, salty and crunchy dish featuring baked turnips with a sprinkle of nutritional yeast for added flavor, perfect as a snack or light meal.",
+  "cuisine": "Greek",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Turnips",
+      "amount": "1 large",
+      "notes": "Grated"
+    },
+    {
+      "name": "Nutritional Yeast",
+      "amount": "1 tablespoon",
+      "notes": "For added flavor and crunchiness"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For baking and stir-frying"
+    },
+    {
+      "name": "Salt",
+      "amount": "A pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Grate the turnips into fine pieces.",
+    "In a mixing bowl, combine grated turnips and nutritional yeast. Mix well until evenly coated with nutritional yeast.",
+    "Spread the turnip mixture onto a baking sheet lined with parchment paper.",
+    "Drizzle olive oil over the top of the turnips and spread it evenly.",
+    "Bake for 20-25 minutes or until golden brown and crispy on the outside. Stir occasionally to prevent burning.",
+    "Remove from oven, let cool slightly, then serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "kid-friendly",
+    "greek",
+    "nut-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 16,
+    "fat": 7
+  },
+  "slug": "crunchy-greek-turnips-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-greek-turnips-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T03:48:13Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crunchy",
+    "mood": "kid-friendly",
+    "technique": "bake",
+    "primaryIngredient": "turnips",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Turnips",
+    "descriptor": "Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
