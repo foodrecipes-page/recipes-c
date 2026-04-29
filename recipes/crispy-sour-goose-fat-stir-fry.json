@@ -1,0 +1,77 @@
+{
+  "title": "Crispy Sour Goose Fat Stir-fry",
+  "description": "A crowd-pleasing Portuguese dish featuring crispy goose fat, perfect for a quick and easy dinner that's both savory and slightly tangy.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "kosher-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "goose fat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (205°C).",
+    "Mix together the goose fat, ginger paste, soy sauce, sugar, and vinegar in a bowl until well combined.",
+    "Heat a large skillet over medium-high heat. Add the mixture from step 2 to the skillet and cook for about 3 minutes or until the mixture starts to thicken and turns golden brown.",
+    "Add the salt to taste and mix thoroughly. Remove from heat and let it cool slightly before using as a stir-fry sauce.",
+    "Prepare your vegetables, tofu, or any protein of choice. Heat another skillet over medium-high heat and add 1 tablespoon of the goose fat mixture for each serving.",
+    "Stir fry your prepared ingredients until heated through. Garnish with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "goose fat",
+    "sour",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 6,
+    "carbs": 13,
+    "fat": 12
+  },
+  "slug": "crispy-sour-goose-fat-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-sour-goose-fat-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T12:46:51Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crispy",
+    "mood": "crowd-pleaser",
+    "technique": "bake",
+    "primaryIngredient": "goose fat",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "goose fat",
+    "descriptor": "sour crispy",
+    "dishForm": "Stir-fry"
+  }
+}
