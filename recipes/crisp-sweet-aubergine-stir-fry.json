@@ -1,0 +1,82 @@
+{
+  "title": "Crisp Sweet Aubergine Stir-fry",
+  "description": "A quick-fix Argentine dish featuring aubergines stir-fried in a sweet glaze, perfect for snacking or as a side dish.",
+  "cuisine": "Argentine",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "aubergine",
+      "amount": "2 medium-sized"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon, grated"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Slice the aubergine into thin rounds.",
+    "Heat sesame oil in a pan over medium heat. Add sliced aubergine and sprinkle salt; stir-fry for about 5 minutes or until they start to soften but are still crisp.",
+    "Add garlic cloves, grated ginger, soy sauce, apple cider vinegar, and brown sugar. Stir well to combine all ingredients into a glaze.",
+    "Continue cooking for another minute or two until the aubergine is evenly coated with the sweet glaze. Remove from heat.",
+    "prepTimeMin"
+  ],
+  "cookTimeMin": 10,
+  "totalTimeMin": 12,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cuisine-argentine",
+    "snack",
+    "sweet",
+    "crisp"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 24,
+    "fat": 6
+  },
+  "slug": "crisp-sweet-aubergine-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-sweet-aubergine-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T07:59:49Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crisp",
+    "mood": "quick-fix",
+    "technique": "deglaze",
+    "primaryIngredient": "aubergine",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "aubergine",
+    "descriptor": "sweet crisp",
+    "dishForm": "Stir-fry"
+  }
+}
