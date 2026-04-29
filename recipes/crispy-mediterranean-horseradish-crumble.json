@@ -1,0 +1,85 @@
+{
+  "title": "Crispy Mediterranean Horseradish Crumble",
+  "description": "A fermented, crispy, lazy-sunday Croatian dish featuring horseradish, caramelized elements, and mediterranean-friendly flavors.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Horseradish",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Almond Meal (almond flour)",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "At room temperature"
+    },
+    {
+      "name": "Pecorino Romano Cheese",
+      "amount": "1/4 cup, grated"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Freshly Squeezed Lemon Juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste"
+    },
+    {
+      "name": "Cayenne Pepper or Red Pepper Flakes",
+      "amount": "A pinch"
+    }
+  ],
+  "instructions": [
+    "Mix together horseradish, almond meal, butter, pecorino cheese, olive oil, lemon juice, salt, and cayenne pepper in a bowl until well combined.",
+    "Place the mixture on a baking sheet lined with parchment paper and spread evenly.",
+    "Bake at 350°F (175°C) for about 25 minutes or until golden brown and crispy.",
+    "Remove from oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "lazy-sunday",
+    "fermented",
+    "croatian",
+    "mediterranean-friendly",
+    "horseradish",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 8,
+    "fat": 6
+  },
+  "slug": "crispy-mediterranean-horseradish-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-mediterranean-horseradish-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T00:17:20Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crispy",
+    "mood": "lazy-sunday",
+    "technique": "caramelize",
+    "primaryIngredient": "horseradish",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Horseradish",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
