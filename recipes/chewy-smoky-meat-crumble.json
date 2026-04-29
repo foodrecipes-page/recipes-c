@@ -1,0 +1,85 @@
+{
+  "title": "Chewy Smoky Meat Crumble",
+  "description": "A gluten-free-friendly snack featuring shredded meat, air-fried to a smoky and chewy texture reminiscent of a nostalgic Slovakian dish.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ground turkey",
+      "amount": "250 grams"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "gluten-free breadcrumbs",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "vinegar (apple cider or rice)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried parsley flakes",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 170°C.",
+    "Mix ground turkey, smoked paprika, salt, and pepper in a large bowl until well combined.",
+    "Add olive oil and vinegar to the mixture; stir gently to coat all meat.",
+    "Fold in gluten-free breadcrumbs and dried parsley flakes. Mix evenly.",
+    "Form the mixture into small, round balls (about 1 inch each).",
+    "Place the balls on a parchment-lined baking sheet or silicone mat.",
+    "Air fry for 20-25 minutes or until golden brown and fully cooked, shaking halfway through cooking time to ensure even browning.",
+    "Allow to cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "air-fryer-friendly",
+    "slovakian-dish"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 27,
+    "carbs": 15,
+    "fat": 9
+  },
+  "slug": "chewy-smoky-meat-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-smoky-meat-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T00:57:49Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "chewy",
+    "mood": "nostalgic",
+    "technique": "air-fry",
+    "primaryIngredient": "shredded meat",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Meat",
+    "descriptor": "Smoky Chewy Nostalgic",
+    "dishForm": "Crumble"
+  }
+}
