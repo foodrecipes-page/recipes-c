@@ -1,0 +1,77 @@
+{
+  "title": "Crumbly Spicy Tunisian Pine Nuts",
+  "description": "A savory crumbly dish with a distinctively spicy and nostalgic flavor profile featuring juniper berries, pine nuts, and other aromatic elements that are low-carb-friendly.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pine Nuts",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/8 tsp"
+    },
+    {
+      "name": "Juniper Berries (Fresh or Dried)",
+      "amount": "3-5 pieces"
+    },
+    {
+      "name": "Oregano",
+      "amount": "1 tbsp dried or 2 tsp fresh leaves"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Toast the pine nuts in a dry skillet over medium heat until golden brown and slightly crispy, stirring frequently.",
+    "While the nuts are toasting, grind the oregano with salt and pepper using a mortar and pestle or blender.",
+    "In a small bowl, mix together the ground oregano spice mixture and toasted pine nuts. Add cayenne pepper and juniper berries for an extra depth of flavor and add more spices as desired.",
+    "Once mixed well, allow to cool slightly before serving or storing in an airtight container at room temperature for up to 1 week.",
+    "For best results, sprinkle over salads, soups, or as a snack with some fresh oregano leaves."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 5,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crumbly",
+    "tunisian",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 309,
+    "protein": 16.7,
+    "carbs": 5.2,
+    "fat": 17.8
+  },
+  "slug": "crumbly-spicy-tunisian-pine-nuts",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-spicy-tunisian-pine-nuts",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T01:56:20Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crumbly",
+    "mood": "nostalgic",
+    "technique": "steam",
+    "primaryIngredient": "juniper berries",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Pine Nuts",
+    "descriptor": "Spicy Crumbly",
+    "dishForm": "Crumble"
+  }
+}
