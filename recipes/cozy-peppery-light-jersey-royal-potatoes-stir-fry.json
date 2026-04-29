@@ -1,0 +1,84 @@
+{
+  "title": "Cozy Peppery Light Jersey Royal Potatoes Stir-fry",
+  "description": "A light and cozy German dish featuring Jersey Royal potatoes that are caramelized with a peppery kick in this egg-free-friendly recipe.",
+  "cuisine": "German",
+  "diet": null,
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "Jersey Royal Potatoes",
+      "amount": "1 cup",
+      "notes": "about 6-8 potatoes"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Red Peppers",
+      "amount": "1/4 cup, finely chopped",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Yellow Onion",
+      "amount": "1/2 medium, finely diced"
+    },
+    {
+      "name": "Pepper Corns",
+      "amount": "few, crushed lightly"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3-4, minced"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "optional garnish, 1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C). Halve the potatoes lengthwise and rub with oil.",
+    "Roast in preheated oven for about 15-20 minutes or until golden brown.",
+    "While potatoes are roasting, heat vegetable oil in a pan over medium-high heat.",
+    "Add finely chopped red peppers and yellow onion. Sauté until softened, approximately 4-5 minutes.",
+    "Add minced garlic and crushed pepper corns. Stir well for about 30 seconds to release flavors.",
+    "Stir in roasted potatoes from the oven. Cook together for another minute until potatoes are coated with spices.",
+    "If using, sprinkle sesame seeds over the top before serving as a garnish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "light",
+    "cozy",
+    "german",
+    "jersey-royal-potatoes"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 3,
+    "carbs": 28,
+    "fat": 5
+  },
+  "slug": "cozy-peppery-light-jersey-royal-potatoes-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-peppery-light-jersey-royal-potatoes-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T12:26:23Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "light",
+    "mood": "cozy",
+    "technique": "caramelize",
+    "primaryIngredient": "jersey royal potatoes",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Jersey Royal Potatoes",
+    "descriptor": "Peppery Light Cozy",
+    "dishForm": "Stir-fry"
+  }
+}
