@@ -1,0 +1,80 @@
+{
+  "title": "Citrusy Crispy Onion Stir-fry",
+  "description": "A lazy Sunday Russian dish featuring crispy yellow onions with a touch of citrus and pickle to add a refreshing twist, served as a side or light meal.",
+  "cuisine": "Russian",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "Yellow onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Pickled cucumber",
+      "amount": "1/4 cup",
+      "notes": "Use light or mild pickles to minimize fodmap impact."
+    },
+    {
+      "name": "Chili flakes (optional)",
+      "amount": "a few pinches",
+      "notes": "For added heat, adjust quantity."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4",
+      "notes": "Minced for flavor enhancement."
+    }
+  ],
+  "instructions": [
+    "Slice the yellow onion thinly into rings.",
+    "Finely chop the pickled cucumber and set aside.",
+    "Mince garlic cloves and sprinkle on a plate with chili flakes if using. Set aside as well.",
+    "Heat olive oil in a pan over medium-high heat.",
+    "Add sliced onions to the hot pan, cook for 5-7 minutes or until they start to soften and turn golden brown.",
+    "Add chopped pickled cucumber and minced garlic to the pan, mix evenly with onions.",
+    "Cook for an additional minute, stirring occasionally.",
+    "Adjust seasoning with salt if necessary.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "crispy",
+    "lazy-sunday",
+    "russian-dish"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 7,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "citrusy-crispy-onion-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-crispy-onion-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T12:31:07Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crispy",
+    "mood": "lazy-sunday",
+    "technique": "pickle",
+    "primaryIngredient": "yellow onion",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "onion",
+    "descriptor": "Citrusy Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
