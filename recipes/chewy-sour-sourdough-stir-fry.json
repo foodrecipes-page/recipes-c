@@ -1,0 +1,88 @@
+{
+  "title": "Chewy Sour Sourdough Stir-fry",
+  "description": "A nutritious and flavorful meal-prep Norwegian dish featuring sourdough bread as a base with ground allspice for added depth of flavor.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sourdough Bread",
+      "amount": "1 slice",
+      "notes": "Optional, use whole grain if preferred."
+    },
+    {
+      "name": "Allspice Powder",
+      "amount": "1/2 teaspoon",
+      "notes": "Grind for a more intense flavor."
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "1/4 cup",
+      "notes": "Low sodium or homemade vegetable broth for health and safety."
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/4 teaspoon",
+      "notes": "To enhance the savory taste of the dish."
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed for maximum flavor."
+    },
+    {
+      "name": "Flaxseed Meal",
+      "amount": "1 tablespoon",
+      "notes": "Can be used as a binding agent and to make the dish chewy."
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste"
+    }
+  ],
+  "instructions": [
+    "Soak the sourdough bread in vegetable broth for about 5 minutes, then squeeze out excess liquid.",
+    "In a mixing bowl, combine all ingredients except salt. Mix well until you achieve a thick and savory paste.",
+    "If needed, add a pinch of salt to taste and mix again.",
+    "Heat up a non-stick pan over medium heat and spread the mixture evenly across the pan.",
+    "Cook for about 5-7 minutes on each side or until golden brown spots appear and it's firm to the touch.",
+    "Serve with your favorite vegetables, such as steamed broccoli or roasted carrots."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sourdough",
+    "allspice",
+    "vegan",
+    "nutritious"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 24,
+    "fat": 4
+  },
+  "slug": "chewy-sour-sourdough-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-sour-sourdough-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T12:14:33Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "chewy",
+    "mood": "meal-prep",
+    "technique": "ferment",
+    "primaryIngredient": "ground allspice",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Sour",
+    "mainIngredient": "bean",
+    "descriptor": "Chewy",
+    "dishForm": "Stir-fry"
+  }
+}
