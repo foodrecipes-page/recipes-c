@@ -1,0 +1,78 @@
+{
+  "title": "Crispy Roasted Indian Chocolate Chips Stir-fry",
+  "description": "A bitter, crispy post-workout dish featuring keto-friendly roasted chocolate chips as a unique twist on traditional Indian cuisine.",
+  "cuisine": "Indian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chocolate Chips",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Almond Flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sea Salt",
+      "amount": "1/8 teaspoon"
+    },
+    {
+      "name": "Ground Fennel Seeds",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Melt the coconut oil in a small saucepan over low heat.",
+    "Mix in chocolate chips, almond flour, sea salt, fennel seeds, and black pepper until well combined. Remove from heat and let cool slightly.",
+    "Spread mixture evenly on a baking sheet lined with parchment paper.",
+    "Roast in the preheated oven for 10-12 minutes or until edges turn golden brown.",
+    "Stir-fry roasted chocolate chips in a pan over medium-high heat with a small amount of olive oil, just to warm them up and break down some texture."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chocolate",
+    "roasted",
+    "stir-fry",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 386,
+    "protein": 11,
+    "carbs": 9,
+    "fat": 20
+  },
+  "slug": "crispy-roasted-indian-chocolate-chips-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-roasted-indian-chocolate-chips-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T00:33:41Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crispy",
+    "mood": "post-workout",
+    "technique": "roast",
+    "primaryIngredient": "chocolate chips",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Chocolate Chips",
+    "descriptor": "Crispy Roasted",
+    "dishForm": "Stir-fry"
+  }
+}
