@@ -1,0 +1,80 @@
+{
+  "title": "Crispy Norwegian Carrot Crust",
+  "description": "An earthy and crispy weeknight dish featuring carrots in a bhuna sauce that's perfect for pescatarian diets and can be prepared quickly as a side or main course.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 large carrot",
+      "amount": "sliced"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "minced"
+    },
+    {
+      "name": "3 tbsp bhuna sauce base (ensure it's vegan-friendly)",
+      "amount": "optional, see notes"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "lemon wedges reserved for serving"
+    },
+    {
+      "name": "2 tsp paprika",
+      "amount": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (205°C).",
+    "Sauté minced garlic in a pan until golden brown, about 3 minutes.",
+    "Add carrot slices and sauté for another 5-7 minutes until slightly softened but not mushy.",
+    "If using bhuna sauce base, mix it into the sautéed vegetables. If not, proceed without adding any sauces.",
+    "Toss with paprika, lemon juice (reserve some for later), salt, and pepper to taste.",
+    "Transfer the vegetable mixture onto a greased baking sheet and bake for 20-25 minutes or until golden brown and crispy on top.",
+    "Serve immediately. Garnish with reserved lemon wedges for extra zest."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "carrot",
+    "norwegian",
+    "bhuna",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 7,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "crispy-norwegian-carrot-crust",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-norwegian-carrot-crust",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T04:16:25Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crispy",
+    "mood": "weeknight",
+    "technique": "bhuna",
+    "primaryIngredient": "carrots",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "carrot",
+    "descriptor": "crispy",
+    "dishForm": "Stir-fry"
+  }
+}
