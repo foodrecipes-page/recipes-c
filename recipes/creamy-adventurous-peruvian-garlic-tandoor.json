@@ -1,0 +1,98 @@
+{
+  "title": "Creamy Adventurous Peruvian Garlic Tandoor",
+  "description": "A dairy-free adventurous peruvian dish featuring a creamy base with ground cinnamon and garlic for a unique flavor profile.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cashews",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "6"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cinnamon powder",
+      "amount": "3 tsp"
+    },
+    {
+      "name": "baking soda",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "handful"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "few"
+    }
+  ],
+  "instructions": [
+    "Soak the cashews in water for at least an hour before use.",
+    "In a pan, sauté garlic cloves in olive oil until golden brown. Add chopped tomatoes and cook until softened.",
+    "Blend soaked cashews with flour, water, salt, and cinnamon powder into a creamy base.",
+    "Stir in the tomato mixture and simmer for about 10 minutes to thicken slightly.",
+    "Sauté diced tomatoes briefly before adding them to the creamy base.",
+    "Fold in fresh parsley and basil leaves to garnish the dish."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "creamy-adventurous-peruvian-dish",
+    "garlicky-recipe",
+    "adventurous-flavor-profile",
+    "tandoor-style"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 48,
+    "fat": 12
+  },
+  "slug": "creamy-adventurous-peruvian-garlic-tandoor",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-adventurous-peruvian-garlic-tandoor",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T15:17:16Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "creamy",
+    "mood": "adventurous",
+    "technique": "tandoor",
+    "primaryIngredient": "ground cinnamon",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Garlic",
+    "descriptor": "Creamy Adventurous",
+    "dishForm": "Stir-fry"
+  }
+}
