@@ -1,0 +1,93 @@
+{
+  "title": "Crunchy Romantic Uruguayan Potato Stir-fry",
+  "description": "This spicy and crunchy dish features red potatoes blended with a plant-based friendly marinade to create a romantic twist on traditional Uruguayan potato stir-fry.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red potatoes",
+      "amount": "2 large",
+      "notes": "Washed and peeled"
+    },
+    {
+      "name": "Veggie broth or water",
+      "amount": "1 cup",
+      "notes": "Ensure it's plant-based"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4-6",
+      "notes": "Peel and minced"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 tsp",
+      "notes": "Red pepper flakes or vegan chili flakes can be used"
+    },
+    {
+      "name": "Plant-based vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "Canola, soybean, or any other suitable plant-based oil"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "-",
+      "notes": "For acidity and freshness"
+    },
+    {
+      "name": "Spices (optional)",
+      "amount": "To taste",
+      "notes": "Including paprika for a deeper flavor, or any other spices you prefer"
+    }
+  ],
+  "instructions": [
+    "Blanch the potatoes in boiling water for about 5 minutes until soft.",
+    "Remove the potatoes from the pot and allow to cool. Then cut them into bite-sized pieces.",
+    "In a blender or food processor, blend together the cooled potatoes with lime juice, salt, and spices if using.",
+    "Heat a non-stick pan over medium heat. Add oil and swirl it around the pan.",
+    "Add the garlic and chili flakes to the pan and sauté for about 30 seconds until fragrant.",
+    "Pour in the potato mixture from the blender into the hot pan, stirring quickly with tongs or spatula to form clusters of potatoes (like nuggets).",
+    "Cook for another minute until all the moisture evaporates and the pieces become crispy and golden brown on top.",
+    "prepTimeMin: 15",
+    "cookTimeMin: 20",
+    "totalTimeMin: 35",
+    "servings: 4",
+    "difficulty: "
+  ],
+  "tags": [
+    "crunchy-uruguayan-potato-stir-fry",
+    "romantic-dish",
+    "vegan-friendly",
+    "spicy",
+    "plant-based",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 248,
+    "protein": 5.6,
+    "carbs": 37.1,
+    "fat": 9.3
+  },
+  "slug": "crunchy-romantic-uruguayan-potato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-romantic-uruguayan-potato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T08:46:27Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crunchy",
+    "mood": "romantic",
+    "technique": "whisk",
+    "primaryIngredient": "red potatoes",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Potato",
+    "descriptor": "Spicy Crunchy Romantic",
+    "dishForm": "Stir-fry"
+  }
+}
