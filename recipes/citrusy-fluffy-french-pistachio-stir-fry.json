@@ -1,0 +1,89 @@
+{
+  "title": "Citrusy Fluffy French Pistachio Stir-fry",
+  "description": "A delicious one-pot meal that combines the citrusy flavors of lemons and limes with the crunchiness of pistachios, served as a keto-friendly breakfast or snack.",
+  "cuisine": "French",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "30g almond flour",
+      "amount": "1/4 cup",
+      "notes": "Use in place of eggs for a light, fluffy texture"
+    },
+    {
+      "name": "2 tablespoons grated lemon zest",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons freshly squeezed lemon juice",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup chopped pistachios",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Pinch of red pepper flakes",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Mix almond flour, lemon zest, lemon juice, chopped pistachios, salt, black pepper, and red pepper flakes in a mixing bowl until well combined.",
+    "Pour the mixture onto a baking sheet lined with parchment paper. Spread evenly into a thin layer. Bake for about 10 minutes or until lightly golden brown.",
+    "Remove from oven and let cool slightly before serving.",
+    "Optional: Serve warm as a breakfast snack, or use as a topping for Greek yogurt or avocado toast."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "fluffy",
+    "french",
+    "pistachio",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 6,
+    "fat": 2
+  },
+  "slug": "citrusy-fluffy-french-pistachio-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-fluffy-french-pistachio-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T00:28:44Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "fluffy",
+    "mood": "one-pot",
+    "technique": "reduce",
+    "primaryIngredient": "pistachio",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "pistachio",
+    "descriptor": "Citrusy Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
