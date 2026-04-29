@@ -1,0 +1,86 @@
+{
+  "title": "Crisp Quick Fix Mediterranean Apple Stir-fry",
+  "description": "A tangy and crisp mediterranean dish featuring apple cider vinegar, perfect for a quick lunch or dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 medium apple",
+      "amount": "peeled and sliced"
+    },
+    {
+      "name": "1/4 cup red onion, finely chopped",
+      "amount": "",
+      "notes": "Use white or yellow onion for different textures."
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "",
+      "notes": "Extra virgin olive oil is recommended for flavor and health benefits."
+    },
+    {
+      "name": "1/4 cup red wine vinegar (optional)",
+      "amount": "",
+      "notes": "For a tangier dressing, reduce to 1 tablespoon."
+    },
+    {
+      "name": "Juice of half a lemon",
+      "amount": ""
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium-high heat.",
+    "Add red onion, garlic, and apple slices. Stir-fry for about 5 minutes until onions are translucent and apples have softened slightly.",
+    "Pour vinegar into the pan, reduce to simmer and cook for another minute.",
+    "Stir in lemon juice and season with salt and pepper.",
+    "Serve hot or at room temperature as a side dish or main course."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crisp",
+    "quick-fix",
+    "tangy",
+    "mediterranean",
+    "apple-cider-vinegar"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 32,
+    "fat": 7
+  },
+  "slug": "crisp-quick-fix-mediterranean-apple-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-quick-fix-mediterranean-apple-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T00:05:42Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crisp",
+    "mood": "quick-fix",
+    "technique": "roast",
+    "primaryIngredient": "apple cider vinegar",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "apple",
+    "descriptor": "Crisp Quick Fix",
+    "dishForm": "Stir-fry"
+  }
+}
