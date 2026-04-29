@@ -1,0 +1,96 @@
+{
+  "title": "Creamy Marinated Italian Mushrooms Stir-fry",
+  "description": "A fresh and creamy monsoon-inspired Italian dish featuring mushrooms marinated with demerara sugar, seasoned for a savory twist, and served as a light, keto-friendly side or main course.",
+  "cuisine": "Italian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dish",
+  "ingredients": [
+    {
+      "name": "Mushrooms",
+      "amount": "10 oz / 280g assorted (button, cremini, etc.)",
+      "notes": "Use fresh or frozen mushrooms. Frozen mushrooms are recommended for this dish."
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "Extra virgin olive oil can be used as well but extra virgin is preferred."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "Chopped finely for best texture and flavor."
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "2",
+      "notes": "Minced, for enhancing the dish's aroma and taste."
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/4 tsp",
+      "notes": "For a slight spicy kick. Can be omitted or reduced if you prefer milder flavors."
+    },
+    {
+      "name": "Demerara Sugar",
+      "amount": "2 tbsp",
+      "notes": "To create the creamy texture and balance out savory notes."
+    },
+    {
+      "name": "Thyme Leaves",
+      "amount": "1 tsp",
+      "notes": "Fresh or dried, depending on availability. Adds a subtle herbal note to the dish."
+    },
+    {
+      "name": "Water",
+      "amount": "2 tbsp",
+      "notes": "Used for deglazing and creating the sauce base."
+    }
+  ],
+  "instructions": [
+    "Preheat your oven at 375°F (190°C).",
+    "Slice mushrooms into rounds. Rinse them under cold water, pat dry with a paper towel.",
+    "In a large bowl, combine sliced mushrooms, olive oil, minced onion, garlic clove, red pepper flakes, demerara sugar, thyme leaves, and water. Mix well until all the ingredients are evenly coated in the marinade. Let sit for at least 20 minutes before stir-frying.",
+    "Heat a tablespoon of olive oil in a non-stick skillet over medium-high heat.",
+    "Once hot, add mushrooms to the pan and cook them for about 5-7 minutes or until golden brown on all sides. Use tongs to turn them occasionally to ensure even browning.",
+    "Deglaze the pan by adding water (2 tbsp) into it, scraping up any stuck-on bits from the bottom of the skillet with a wooden spoon. This will help create a flavorful sauce base.",
+    "Reduce heat to medium-low and simmer for about 1-2 minutes or until the sauce thickens slightly but still maintains its creamy consistency.",
+    "Season the stir-fry with salt to taste, then serve immediately while hot. Optionally, you can add fresh herbs like parsley or basil on top of the dish for extra freshness."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cream",
+    "marinated",
+    "stir-fry",
+    "keto"
+  ],
+  "nutrition": {
+    "calories": 189,
+    "protein": 6,
+    "carbs": 9,
+    "fat": 7
+  },
+  "slug": "creamy-marinated-italian-mushrooms-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-marinated-italian-mushrooms-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T15:24:38Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "creamy",
+    "mood": "monsoon",
+    "technique": "deglaze",
+    "primaryIngredient": "demerara sugar",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "mushrooms",
+    "descriptor": "Creamy Marinated",
+    "dishForm": "Stir-fry"
+  }
+}
