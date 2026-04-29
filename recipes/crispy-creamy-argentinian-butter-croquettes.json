@@ -1,0 +1,76 @@
+{
+  "title": "Crispy Creamy Argentinian Butter Croquettes",
+  "description": "These buttery and crispy croquettes are a hangover-cure inspired dish featuring single cream and are diabetic-friendly.",
+  "cuisine": "Argentinean",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "2 large"
+    },
+    {
+      "name": "single cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "for frying"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to broil.",
+    "Mix the flour and kosher salt in a bowl. Add two eggs, one at a time, mixing well after each addition.",
+    "Gradually add single cream until you reach a smooth batter consistency.",
+    "Place a large skillet on medium-high heat with enough oil for frying. Heat up the oil to 350°F (175°C).",
+    "Using your hands or a spoon, form the mixture into small croquette shapes and gently drop them into the hot oil, ensuring they are not touching.",
+    "Fry until golden brown on all sides, about 2-3 minutes per side. Keep an eye on them as you don't want to burn them.",
+    "Once done, transfer onto a plate lined with paper towels to drain excess oil.",
+    "Broil for an additional 10 seconds per side to get the crispy exterior. Remove from oven and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "butter",
+    "croquettes",
+    "creamy"
+  ],
+  "nutrition": {
+    "calories": 317,
+    "protein": 9.8,
+    "carbs": 27.3,
+    "fat": 15.6
+  },
+  "slug": "crispy-creamy-argentinian-butter-croquettes",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-creamy-argentinian-butter-croquettes",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T00:12:47Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crispy",
+    "mood": "hangover-cure",
+    "technique": "broil",
+    "primaryIngredient": "single cream",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "butter",
+    "descriptor": "creamy",
+    "dishForm": "Croquettes"
+  }
+}
