@@ -1,0 +1,72 @@
+{
+  "title": "Citrusy Lime Vietnamese Stir-fry",
+  "description": "A citrusy and crisp Vietnamese dish featuring clotted cream in a stir-fry recipe that is suitable for post-workout meals and follows a low FODMAP diet.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "low_fodmap"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "lime",
+      "amount": "1"
+    },
+    {
+      "name": "clotted cream",
+      "amount": "60g",
+      "notes": "For texture, not for calories"
+    },
+    {
+      "name": "green onions",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "chili pepper",
+      "amount": "half a small"
+    }
+  ],
+  "instructions": [
+    "Slice the lime thinly and finely chop the green onions.",
+    "Dice the chili pepper into thin strips, removing seeds if preferred for milder heat.",
+    "Heat oil in a pan over medium-high heat. Add clotted cream to the pan and let it lightly cook until golden brown spots appear on the surface.",
+    "Add chopped green onions and sliced lime to the pan with the clotted cream, stirring well to combine all ingredients.",
+    "Fold in diced chili pepper strips, adjusting for desired level of spiciness.",
+    "Serve hot immediately as a snack post-workout or any time you need an energizing yet light meal."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "crisp",
+    "vietnamese_stir-fry",
+    "post_workout",
+    "low_fodmap"
+  ],
+  "nutrition": {
+    "calories": 130,
+    "protein": 2.5,
+    "carbs": 17,
+    "fat": 6
+  },
+  "slug": "citrusy-lime-vietnamese-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-lime-vietnamese-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T08:31:41Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crisp",
+    "mood": "post-workout",
+    "technique": "slow-cook",
+    "primaryIngredient": "clotted cream",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "lime",
+    "descriptor": "Citrusy",
+    "dishForm": "Stir-fry"
+  }
+}
