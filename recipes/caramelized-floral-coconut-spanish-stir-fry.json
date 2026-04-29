@@ -1,0 +1,82 @@
+{
+  "title": "Caramelized Floral Coconut Spanish Stir-fry",
+  "description": "A comforting and floral dish featuring coconut milk in a low-sodium friendly preparation with sous-vide technique for crispy texture.",
+  "cuisine": "Spanish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "unsweetened shredded coconut",
+      "amount": "1 cup"
+    },
+    {
+      "name": "floral-infused water or infused olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "low-sodium chicken broth",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sous-vide cooking bag",
+      "amount": "1"
+    },
+    {
+      "name": "medium onion, finely chopped",
+      "amount": "1"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "4"
+    }
+  ],
+  "instructions": [
+    "Prepare a sous-vide bag with floral-infused water or infused olive oil. Seal the bag and place it in your sous-vide machine at 160°F for 3 hours.",
+    "While the vegetables are being cooked, mix low-sodium soy sauce and chicken broth to make a flavorful marinade. Let it sit aside.",
+    "Heat a non-stick pan over medium-high heat, add oil and onions until soft and translucent, about 5 minutes.",
+    "Add minced garlic and cook for another minute until fragrant but not browned.",
+    "Remove the sous-vide bag from the machine, open, and stir in floral-infused water or infused olive oil evenly. Let it come to a boil over medium heat.",
+    "Pour in low-sodium soy sauce and chicken broth marinade into the pan with onions and garlic. Bring to a simmer for 5-7 minutes until slightly thickened.",
+    "Add shredded unsweetened coconut to the pan, stir gently to coat evenly, cook on low heat for an additional 10 minutes or until the coconut becomes caramelized and golden brown.",
+    "Serve hot as a side dish with grilled meats or as a main course with crusty bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caramelized-floral-coconut-spanish-stir-fry",
+    "floral-infused",
+    "sous-vide-friendly",
+    "low-sodium"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 12,
+    "carbs": 56,
+    "fat": 9
+  },
+  "slug": "caramelized-floral-coconut-spanish-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/caramelized-floral-coconut-spanish-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T08:16:11Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crisp",
+    "mood": "comforting",
+    "technique": "sous-vide",
+    "primaryIngredient": "coconut milk",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Coconut",
+    "descriptor": "Floral Caramelized",
+    "dishForm": "Stir-fry"
+  }
+}
