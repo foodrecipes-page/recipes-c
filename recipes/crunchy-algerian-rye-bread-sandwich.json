@@ -1,0 +1,80 @@
+{
+  "title": "Crunchy Algerian Rye Bread Sandwich",
+  "description": "A rich, crunchy, cozy algerian dish featuring a rich blend of flavors in a rye bread sandwich with a side of pickles, all while being plant-based-friendly.",
+  "cuisine": "Algerian",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rye Bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Pickled Vegetables",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Avocado Spread",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Plant-Based Mayonnaise",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh Herbs (Optional)",
+      "amount": "a few sprigs"
+    },
+    {
+      "name": "Lettuce Leaves",
+      "amount": "2-3 leaves"
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "amount": "6-8 pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 180°C (350°F).",
+    "Slice the rye bread and place it on a baking sheet lined with parchment paper.",
+    "Toast the slices in the preheated oven for about 2 minutes or until golden brown. Remove from the oven and let them cool slightly.",
+    "Assemble the sandwich by spreading avocado spread and plant-based mayonnaise on one slice of toasted rye bread, followed by pickled vegetables, fresh herbs (if using), lettuce leaves, cherry tomatoes, and finally the other slice of toasted rye bread.",
+    "For an added crunch, sprinkle some extra crunchy toppings such as seeds or nuts over the assembled sandwich before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 2,
+  "totalTimeMin": 12,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy-algerian",
+    "rich-sandwich",
+    "algerian-plant-based"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "crunchy-algerian-rye-bread-sandwich",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-algerian-rye-bread-sandwich",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T08:12:36Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crunchy",
+    "mood": "cozy",
+    "technique": "pickle",
+    "primaryIngredient": "rye bread",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Rye bread",
+    "descriptor": "Crunchy",
+    "dishForm": "Sandwich"
+  }
+}
