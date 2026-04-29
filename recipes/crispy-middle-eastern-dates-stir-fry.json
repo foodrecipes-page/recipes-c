@@ -1,0 +1,93 @@
+{
+  "title": "Crispy Middle Eastern Dates Stir-fry",
+  "description": "A herbal and crispy dish perfect for date-night enjoyment in the Mediterranean style, featuring a unique blend of chilli sauce, tadka, and aromatic herbs.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ginger, minced",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "cilantro, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "chilli sauce (tadka)",
+      "notes": "For a mild chilli flavor, use 2 tbsp of tandoori masala and 2-3 red chili peppers."
+    },
+    {
+      "name": "basil leaves",
+      "amount": "a few"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 180°C (350°F).",
+    "Toast the dates in a pan with coconut oil for about 4 minutes, until they start caramelizing slightly.",
+    "In another skillet, heat a tadka by adding a bit of oil and sautéing the minced ginger, garlic, and cumin powder for about 1 minute.",
+    "Add the toasted dates to the skillet along with chopped cilantro. Mix well and cook for an additional 2 minutes until most of the moisture evaporates.",
+    "Season with salt and then pour in chilli sauce (tadka), stirring constantly until fully incorporated.",
+    "Sprinkle basil leaves on top for garnishing and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "middle-eastern",
+    "herbal",
+    "date-night",
+    "mediterranean-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 22,
+    "fat": 9
+  },
+  "slug": "crispy-middle-eastern-dates-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-middle-eastern-dates-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T08:09:10Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crispy",
+    "mood": "date-night",
+    "technique": "tadka",
+    "primaryIngredient": "chilli sauce",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Dates",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
