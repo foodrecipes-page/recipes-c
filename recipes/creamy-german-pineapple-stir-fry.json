@@ -1,0 +1,94 @@
+{
+  "title": "Creamy German Pineapple Stir-fry",
+  "description": "A fermented and creamy German-inspired dish featuring pescatarian-friendly elements such as fermented black beans, perfectly balanced with a touch of sweet pineapple.",
+  "cuisine": "German",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fermented Black Beans",
+      "amount": "1/4 cup",
+      "notes": "Use in small quantities for authenticity"
+    },
+    {
+      "name": "Pineapple",
+      "amount": "10 oz canned",
+      "notes": "Thawed if frozen, drained and sliced"
+    },
+    {
+      "name": "Almond Milk",
+      "amount": "1/2 cup",
+      "notes": "Ensure it's unsweetened for this recipe"
+    },
+    {
+      "name": "Honey or Molasses",
+      "amount": "1 tsp",
+      "notes": "To sweeten the dish without using sugar"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp",
+      "notes": "For added depth of flavor"
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1/2 tsp",
+      "notes": "Use sparingly to avoid overpowering the flavors"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For stir-frying and deglazing"
+    },
+    {
+      "name": "Chinese Cooking Wine (optional)",
+      "amount": "1/4 cup",
+      "notes": "To add a touch of umami to the dish, use only if desired"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium-high heat.",
+    "Add pineapple and stir-fry until translucent, about 2 minutes.",
+    "Stir in fermented black beans, garlic powder, chili flakes, and optional cooking wine. Cook for another minute.",
+    "Pour in almond milk and honey/molasses while continuously stirring to prevent sticking.",
+    "Simmer gently for an additional 5 minutes or until the sauce thickens slightly.",
+    "Remove from heat and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "stir-fry",
+    "fermented-beans",
+    "pescatarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 28,
+    "fat": 9
+  },
+  "slug": "creamy-german-pineapple-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-german-pineapple-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T01:58:10Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "creamy",
+    "mood": "show-off",
+    "technique": "pressure-cook",
+    "primaryIngredient": "fermented black beans",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Pineapple",
+    "descriptor": "Creamy",
+    "dishForm": "Stir-fry"
+  }
+}
