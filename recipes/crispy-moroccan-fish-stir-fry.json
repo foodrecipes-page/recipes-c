@@ -1,0 +1,102 @@
+{
+  "title": "Crispy Moroccan Fish Stir-fry",
+  "description": "A tangy and crispy Moroccan dish featuring harissa spice for a weeknight meal that's perfect for pescatarian diets.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish fillets",
+      "amount": "1 lb"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4-6, minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 small, julienned"
+    },
+    {
+      "name": "Green bell peppers",
+      "amount": "1 medium, thinly sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large, finely chopped"
+    },
+    {
+      "name": "Harissa paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3-4 tbsp"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "Pinch"
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 handful, chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 425°F (220°C). Season fish fillets with salt and a pinch of cayenne pepper.",
+    "Dip fish in flour mixture until coated evenly. Set aside.",
+    "Heat olive oil in a large skillet over medium-high heat. Add garlic, onion, carrots, and bell peppers; cook for about 5 minutes or until vegetables start to soften.",
+    "Remove from heat and add harissa paste; mix well for another minute.",
+    "Return fish to the pan with vegetables and stir everything together. Season with salt as needed.",
+    "Transfer the mixture into an oven-safe baking dish, ensuring all pieces are coated evenly in the spices and vegetables.",
+    "Bake in the preheated oven for 15 minutes or until the edges of the fish start to crisp up and become golden brown.",
+    "Serve hot with a sprinkle of fresh parsley over top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "moroccan",
+    "stir-fry",
+    "tangy",
+    "fish",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 18
+  },
+  "slug": "crispy-moroccan-fish-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-moroccan-fish-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T04:02:33Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crisp",
+    "mood": "weeknight",
+    "technique": "temper",
+    "primaryIngredient": "harissa spice",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Fish",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
