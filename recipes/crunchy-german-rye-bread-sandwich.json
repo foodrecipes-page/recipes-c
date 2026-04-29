@@ -1,0 +1,82 @@
+{
+  "title": "Crunchy German Rye Bread Sandwich",
+  "description": "An earthy and crunchy brunch-mood dish featuring star anise for a unique twist on traditional rye bread.",
+  "cuisine": "German",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rye Bread",
+      "amount": "2 slices",
+      "notes": "Select whole grain or multigrain bread"
+    },
+    {
+      "name": "Star Anise",
+      "amount": "1-2 pieces",
+      "notes": "Optional, for added flavor and aroma"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "3 tablespoons",
+      "notes": "To be mixed with star anise if using"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tablespoons",
+      "notes": "For activating the star anise mixture"
+    },
+    {
+      "name": "Nut-Free Spread",
+      "amount": "1/4 cup",
+      "notes": "Such as Nutella or a similar spread"
+    },
+    {
+      "name": "Salt",
+      "amount": "A pinch",
+      "notes": "Optional, for enhancing flavors"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Mix all-purpose flour and star anise in a small bowl. Add water until you get a thin paste.",
+    "Spread the mixture evenly on one slice of bread, pressing gently for even coverage.",
+    "Top with another slice of bread, spread side down.",
+    "Bake in preheated oven for 5-7 minutes or until golden brown and slightly crispy.",
+    "Remove from oven and let cool for a few minutes before serving.",
+    "Serve alongside your favorite nut-free spread as desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy-german-rye-bread-sandwich",
+    "nut-free-friendly",
+    "earthly-dish"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 3,
+    "carbs": 24,
+    "fat": 4
+  },
+  "slug": "crunchy-german-rye-bread-sandwich",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-german-rye-bread-sandwich",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T08:14:18Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crunchy",
+    "mood": "brunch-mood",
+    "technique": "whisk",
+    "primaryIngredient": "star anise",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Rye Bread",
+    "descriptor": "Crunchy",
+    "dishForm": "Sandwich"
+  }
+}
