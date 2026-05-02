@@ -1,0 +1,85 @@
+{
+  "title": "Crispy Polish Mint Pudding",
+  "description": "A light, nutty Polish dessert featuring fresh mint and a crisp base for a low-carb indulgence.",
+  "cuisine": "polish",
+  "diet": [
+    "low-carb",
+    "nutty",
+    "indulgent"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "fresh mint leaves",
+      "amount": "20g",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "almond flour",
+      "amount": "30g",
+      "notes": "unsalted"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "15ml",
+      "notes": "melted"
+    },
+    {
+      "name": "honey",
+      "amount": "15ml",
+      "notes": "raw"
+    },
+    {
+      "name": "sodium bicarbonate",
+      "amount": "5g",
+      "notes": "for crispness"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a small pan over medium heat until melted.",
+    "In a separate bowl, mix mint leaves and honey until combined.",
+    "Add almond flour to the mint-honey mixture and stir until cohesive.",
+    "Drizzle melted coconut oil over the mixture and mix well.",
+    "Add sodium bicarbonate and mix gently to create a crisp texture.",
+    "Spread the mixture on a baking sheet lined with parchment paper.",
+    "Bake at 150°C for 10 minutes until crisp.",
+    "Let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "polish",
+    "mint",
+    "crispy",
+    "lowcarb",
+    "nutty",
+    "indulgent"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 8,
+    "fat": 10
+  },
+  "slug": "crispy-polish-mint-pudding",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-polish-mint-pudding",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-02T21:57:45Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "light",
+    "mood": "indulgent",
+    "technique": "cure",
+    "primaryIngredient": "mint",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "mint",
+    "descriptor": "Crispy",
+    "dishForm": "Pudding"
+  }
+}
