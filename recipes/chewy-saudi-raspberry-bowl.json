@@ -1,0 +1,74 @@
+{
+  "title": "Chewy Saudi Raspberry Bowl",
+  "description": "A savory, chewy, kid-friendly Saudi Arabian dish featuring fresh raspberries and a simple knead technique for diabetic-friendly enjoyment.",
+  "cuisine": "saudi arabian",
+  "diet": [
+    "diabetic-friendly",
+    "kid-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fresh raspberries",
+      "amount": "150g",
+      "notes": "washed and drained"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "100ml",
+      "notes": "unsweetened, full-fat"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1/4 tsp",
+      "notes": "for flavor"
+    },
+    {
+      "name": "a pinch of salt",
+      "amount": "1/8 tsp",
+      "notes": "enhances taste"
+    }
+  ],
+  "instructions": [
+    "Wash raspberries thoroughly under cold water.",
+    "In a small bowl, mix yogurt with cumin powder and a pinch of salt.",
+    "Add raspberries to the yogurt mixture and gently knead for 2 minutes to create a chewy texture.",
+    "Serve immediately for a fresh, diabetic-friendly snack."
+  ],
+  "prepTimeMin": 3,
+  "cookTimeMin": 0,
+  "totalTimeMin": 3,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "saudi",
+    "raspberry",
+    "chewy",
+    "diabetic-friendly",
+    "kid-friendly"
+  ],
+  "nutrition": {
+    "calories": 58,
+    "protein": 3,
+    "carbs": 11,
+    "fat": 0
+  },
+  "slug": "chewy-saudi-raspberry-bowl",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-saudi-raspberry-bowl",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-02T23:57:58Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "chewy",
+    "mood": "kid-friendly",
+    "technique": "knead",
+    "primaryIngredient": "raspberries",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Saudi",
+    "mainIngredient": "raspberries",
+    "descriptor": "Chewy",
+    "dishForm": "Bowl"
+  }
+}
