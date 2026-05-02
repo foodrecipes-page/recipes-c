@@ -1,0 +1,71 @@
+{
+  "title": "Crispy Italian Zucchini Pasta",
+  "description": "A citrusy, flaky post-workout dish featuring slow-cooked zucchini with white wine vinegar and herbs for a light yet satisfying vegetarian meal.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "1 medium (180g)",
+      "notes": "peeled and sliced into 1/4-inch rounds"
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "1 tbsp",
+      "notes": "for acidity and brightness"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      ": ": ", "
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "Toss zucchini slices with 1 tbsp olive oil, 1 tsp salt, and a squeeze of lemon juice.",
+    "Spread zucchini on a baking sheet lined with parchment paper.",
+    "Roast for 20 minutes until tender and crispy on edges.",
+    "Mix in white wine vinegar and fresh basil before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "vegetarian",
+    "zucchini",
+    "crispy",
+    "post-workout",
+    "low-sodium"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 18,
+    "fat": 8
+  },
+  "slug": "crispy-italian-zucchini-pasta",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-italian-zucchini-pasta",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-02T23:40:27Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "flaky",
+    "mood": "post-workout",
+    "technique": "slow-cook",
+    "primaryIngredient": "white wine vinegar",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "zucchini",
+    "descriptor": "Crispy",
+    "dishForm": "Pasta"
+  }
+}
