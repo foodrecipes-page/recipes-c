@@ -1,0 +1,82 @@
+{
+  "title": "Crisp French Meringue Bake",
+  "description": "A floral, crisp meringue nest dish perfect for weeknights, marinated with a light floral note and whole30-friendly.",
+  "cuisine": "francophone",
+  "diet": [
+    "whole30",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "egg whites",
+      "amount": "3 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "sugar",
+      "amount": "60g",
+      "notes": "granulated"
+    },
+    {
+      "name": "butter",
+      "amount": "15g",
+      ": ": "notes"
+    },
+    {
+      "name": "floral essence",
+      "amount": "5ml",
+      "notes": "diluted floral water"
+    },
+    {
+      "name": "cream",
+      "amount": "30ml",
+      "notes": "light cream"
+    }
+  ],
+  "instructions": [
+    "Beat egg whites and sugar until stiff peaks form.",
+    "Fold in floral essence and light cream gently.",
+    "Line a baking dish with parchment paper.",
+    "Spread meringue mixture evenly and bake at 170°C for 15 minutes.",
+    "Let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crisp",
+    "floral",
+    "meringue",
+    "bake",
+    "weeknight",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "crisp-french-meringue-bake",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-french-meringue-bake",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-02T22:54:53Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crisp",
+    "mood": "weeknight",
+    "technique": "marinate",
+    "primaryIngredient": "meringue nests",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "meringue",
+    "descriptor": "Crisp",
+    "dishForm": "Bake"
+  }
+}
