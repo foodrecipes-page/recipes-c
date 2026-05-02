@@ -1,0 +1,105 @@
+{
+  "title": "Creamy Algerian Chickpeas Flatbread",
+  "description": "A tangy, creamy post-workout dish featuring slow-cooked chickpeas and pita bread for a nut-free, high-protein meal.",
+  "cuisine": "algerian",
+  "diet": [
+    "nut-free",
+    "high-protein",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "algerian chickpeas",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "algerian pita bread",
+      "amount": "2 breads",
+      "notes": "thin, whole-grain"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      ": ": "",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra-virgin"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "canned tomatoes",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a small pot, combine rinsed chickpeas, diced tomatoes, garlic, cumin, salt, and 1 tbsp water. Cook over medium heat for 15 minutes until slightly thickened.",
+    "While chickpeas cook, heat 2 tbsp olive oil in a pan and sauté 2 pita breads until golden on both sides.",
+    "Add lemon juice to the chickpea mixture and stir until well combined.",
+    "Fold in chopped parsley and serve immediately over the warm pita breads.",
+    "Adjust seasoning to taste with additional salt or lemon juice if needed."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "chickpeas",
+    "flatbread",
+    "postworkout",
+    "tangy",
+    "creamy",
+    "nutfree",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 14,
+    "carbs": 38,
+    "fat": 12
+  },
+  "slug": "creamy-algerian-chickpeas-flatbread",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-algerian-chickpeas-flatbread",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-02T23:05:04Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "creamy",
+    "mood": "post-workout",
+    "technique": "slow-cook",
+    "primaryIngredient": "pita bread",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "chickpeas",
+    "descriptor": "creamy",
+    "dishForm": "Flatbread"
+  }
+}
