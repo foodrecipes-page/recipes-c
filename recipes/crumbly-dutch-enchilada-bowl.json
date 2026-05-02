@@ -1,0 +1,93 @@
+{
+  "title": "Crumbly Dutch Enchilada Bowl",
+  "description": "A salty, crumbly quick-fix Dutch dish featuring enchilada sauce, marinate, and dash-friendly ingredients for a satisfying meal.",
+  "cuisine": "dutch",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "enchilada sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "cornmeal",
+      "amount": "1/2 cup",
+      "notes": "for crumbly texture"
+    },
+    {
+      "name": "chopped spinach",
+      "amount": "1 cup",
+      ": ": "",
+      "notes": "for freshness"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1/2 cup",
+      "notes": "for acidity"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/8 tsp",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a skillet over medium heat.",
+    "Add cornmeal and stir until golden and crumbly.",
+    "Mix in chopped spinach and diced tomatoes.",
+    "Season with salt and black pepper.",
+    "Pour in enchilada sauce and cook for 2 minutes.",
+    "Serve hot with a dash of salt for extra saltiness."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "dutch",
+    "quick",
+    "lunch",
+    "crumbly",
+    "enchilada",
+    "salty"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "crumbly-dutch-enchilada-bowl",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-dutch-enchilada-bowl",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-02T23:24:35Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crumbly",
+    "mood": "quick-fix",
+    "technique": "marinate",
+    "primaryIngredient": "enchilada sauce",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "enchilada",
+    "descriptor": "crumbly",
+    "dishForm": "Bowl"
+  }
+}
