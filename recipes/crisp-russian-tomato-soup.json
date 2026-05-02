@@ -1,0 +1,70 @@
+{
+  "title": "Crisp Russian Tomato Soup",
+  "description": "A sour, crisp tomato soup with a refreshing finish, perfect for a light lunch or snack. Low-calorie and crowd-pleasing with minimal ingredients.",
+  "cuisine": "russian",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fresh tomatoes",
+      "amount": "2 medium",
+      "notes": "ripe, juicy tomatoes"
+    },
+    {
+      "name": "tomato juice",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "white vinegar",
+      "amount": "1 tsp",
+      ": ": ", "
+    }
+  ],
+  "instructions": [
+    "Blanch tomatoes in boiling water for 30 seconds to remove bitterness and firm texture.",
+    "Strain tomatoes and combine with 1 cup low-sodium tomato juice in a blender.",
+    "Add 1 tsp white vinegar and blend until smooth.",
+    "Chill for 15 minutes to enhance crispness and flavor."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 1,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "russian",
+    "tomato",
+    "soup",
+    "crisp",
+    "lowcalorie",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 35,
+    "protein": 0,
+    "carbs": 7,
+    "fat": 0
+  },
+  "slug": "crisp-russian-tomato-soup",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-russian-tomato-soup",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-02T23:09:44Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crisp",
+    "mood": "crowd-pleaser",
+    "technique": "blanch",
+    "primaryIngredient": "tomato juice",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "tomato",
+    "descriptor": "Crisp",
+    "dishForm": "Soup"
+  }
+}
