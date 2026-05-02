@@ -1,0 +1,83 @@
+{
+  "title": "Crispy Korean Crisp Dates Bowl",
+  "description": "A sweet, crispy solo dinner bowl featuring stoned dates, boiled to perfection, and dash-friendly for a quick Korean-inspired snack.",
+  "cuisine": "korean",
+  "diet": [
+    "dash-friendly",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "150g",
+      "notes": "stoned and chopped"
+    },
+    {
+      "name": "water",
+      "amount": "100ml",
+      "notes": "for boiling"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "15ml",
+      "notes": "for brightness"
+    },
+    {
+      "name": "honey",
+      "amount": "10g",
+      "notes": "for sweetness"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "5ml",
+      "notes": "for crispiness"
+    }
+  ],
+  "instructions": [
+    "Boil 100ml water in a small pot until it reaches a gentle boil.",
+    "Add 150g stoned dates to the boiling water and simmer for 3 minutes until soft.",
+    "Remove from heat and let cool for 2 minutes.",
+    "In a small bowl, mix 15ml rice vinegar, 10g honey, and 5ml sesame oil.",
+    "Add the cooled dates to the vinegar-honey-sesame oil mixture and stir gently.",
+    "Let the bowl sit for 1 minute to allow the dates to absorb the dressing.",
+    "Serve immediately for a crispy, sweet, dash-friendly Korean-inspired dinner."
+  ],
+  "prepTimeMin": 2,
+  "cookTimeMin": 5,
+  ": totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "dash-friendly",
+    "vegan",
+    "crispy",
+    "sweet",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 0.5,
+    "carbs": 28,
+    "fat": 3
+  },
+  "slug": "crispy-korean-crisp-dates-bowl",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-korean-crisp-dates-bowl",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-02T22:45:13Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crispy",
+    "mood": "solo-dinner",
+    "technique": "boil",
+    "primaryIngredient": "stoned dates",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "dates",
+    "descriptor": "Crispy",
+    "dishForm": "Bowl"
+  }
+}
