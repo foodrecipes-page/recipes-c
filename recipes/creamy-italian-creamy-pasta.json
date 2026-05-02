@@ -1,0 +1,88 @@
+{
+  "title": "Creamy Italian Creamy Pasta",
+  "description": "A nostalgic Italian dish featuring fresh pasta, creamy sauce, and sweet chilli sauce for a sweet and savory twist. Grilled to perfection for a paleo-friendly meal.",
+  "cuisine": "italian",
+  "diet": [
+    "paleo",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fresh pasta",
+      "amount": "150g",
+      "notes": "Use tagliatelle or fusilli for best results"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Extra virgin for best flavor"
+    },
+    {
+      ": 1 teaspoon of dried oregano (optional, for authentic touch)  ": "dried oregano",
+      "amount": "1 teaspoon",
+      "notes": "Optional for authentic Italian flavor"
+    },
+    {
+      "name": "sweet chilli sauce",
+      "amount": "1 tablespoon",
+      "notes": "Use a high-quality brand for best results"
+    },
+    {
+      "name": "light cream",
+      "amount": "50ml",
+      "notes": "Full-fat cream for richer flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "Adjust for saltiness"
+    }
+  ],
+  "instructions": [
+    "Cook fresh pasta in salted boiling water until al dente",
+    "In a pan, heat olive oil and add dried oregano (if using)",
+    "Add sweet chilli sauce and light cream to the pan",
+    "Stir in cooked pasta and mix until creamy",
+    "Season with salt to taste",
+    "Grill the pasta on a hot skillet for 2 minutes to caramelize the edges"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "pasta",
+    "creamy",
+    "sweet-chilli",
+    "grilled",
+    "paleo",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 15
+  },
+  "slug": "creamy-italian-creamy-pasta",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-italian-creamy-pasta",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-02T23:47:14Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "creamy",
+    "mood": "nostalgic",
+    "technique": "grill",
+    "primaryIngredient": "sweet chilli sauce",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "pasta",
+    "descriptor": "creamy",
+    "dishForm": "Pasta"
+  }
+}
