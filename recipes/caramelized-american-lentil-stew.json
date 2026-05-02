@@ -1,0 +1,104 @@
+{
+  "title": "Caramelized American Lentil Stew",
+  "description": "A low-fat, chewy lentil stew featuring caramelized lentils for a sweet, earthy flavor without heavy fats. Perfect as a solo dinner.",
+  "cuisine": "american",
+  "diet": [
+    "fermented",
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "french lentils",
+      "amount": "1 cup",
+      "notes": "pre-soaked for 12 hours"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for caramelizing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      ": ": "",
+      "amount": "2 garlic cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 tsp",
+      "notes": "for subtle sweetness"
+    },
+    {
+      "name": "water",
+      "amount": "3 cups",
+      "notes": "bring to a simmer"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a medium pot, heat olive oil over medium heat until shimmering.",
+    "Add onion and garlic; sauté for 3 minutes until translucent.",
+    "Stir in french lentils, carrot, thyme, and cinnamon; cook for 5 minutes.",
+    "Add water and salt; bring to a gentle simmer.",
+    "Reduce heat to low, cover, and simmer for 25 minutes until lentils are tender.",
+    "Remove from heat; let sit covered for 5 minutes to thicken slightly.",
+    "Adjust seasoning with salt and a pinch of sugar if needed."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 25,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "lentil",
+    "stew",
+    "caramelized",
+    "low-fat",
+    "fermented",
+    "solo-dinner"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 15,
+    "carbs": 38,
+    "fat": 6
+  },
+  "slug": "caramelized-american-lentil-stew",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/caramelized-american-lentil-stew",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-02T22:08:36Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "solo-dinner",
+    "technique": "caramelize",
+    "primaryIngredient": "french lentils",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "lentils",
+    "descriptor": "Caramelized",
+    "dishForm": "Stew"
+  }
+}
