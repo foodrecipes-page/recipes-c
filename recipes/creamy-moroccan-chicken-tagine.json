@@ -1,0 +1,112 @@
+{
+  "title": "Creamy Moroccan Chicken Tagine",
+  "description": "A umami-rich, creamy tagine featuring chicken stock concentrate for deep flavor and quick prep. Perfect for meal prepping with raw-friendly ingredients.",
+  "cuisine": "moroccan",
+  "diet": [
+    "vegetarian",
+    "vegetarian-friendly",
+    "gluten-free",
+    "high-protein",
+    "umami"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken stock concentrate",
+      "amount": "2 tbsp",
+      "notes": "use concentrated chicken stock for umami depth; store-bought or homemade"
+    },
+    {
+      "name": "chicken thighs",
+      "amount": "400g",
+      "notes": "bone-in for flavor; cut into bite-sized pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "finely diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp",
+      "notes": "for sweetness and thickness"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "classic Moroccan spice"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 cm",
+      "notes": "fresh ginger for subtle heat"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/4 tsp",
+      "notes": "for color and health benefits"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "3 threads",
+      "notes": "optional but authentic; steep in water first"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a tagine or heavy pot over medium heat.",
+    "Sauté onion and garlic until soft (3-4 minutes).",
+    "Add chicken thighs and cook until browned (5-6 minutes).",
+    "Stir in tomato paste, cumin, ginger, turmeric, and saffron (if using).",
+    "Pour in chicken stock concentrate and 1 cup water; bring to a simmer.",
+    "Cover and cook on low heat for 20 minutes until chicken is tender.",
+    "Adjust seasoning with salt and pepper to taste.",
+    "Serve warm with rice or crusty bread."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 25,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "umami",
+    "creamy",
+    "chicken",
+    "meal-prep",
+    "high-protein"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 12,
+    "fat": 20
+  },
+  "slug": "creamy-moroccan-chicken-tagine",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-moroccan-chicken-tagine",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-02T22:28:56Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "creamy",
+    "mood": "meal-prep",
+    "technique": "blanch",
+    "primaryIngredient": "chicken stock concentrate",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "chicken",
+    "descriptor": "creamy",
+    "dishForm": "Tagine"
+  }
+}
