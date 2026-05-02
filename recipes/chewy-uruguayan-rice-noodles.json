@@ -1,0 +1,89 @@
+{
+  "title": "Chewy Uruguayan Rice Noodles",
+  "description": "A quick, floral-flavored uruguayan rice noodle dish featuring pickled vegetables and high-protein ingredients for a light meal.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "high-protein",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "uruguayan rice noodles",
+      "amount": "150g",
+      "notes": "cooked according to package directions"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "1/4 tsp",
+      "notes": "for floral heat"
+    },
+    {
+      "name": "pickle juice",
+      "amount": "100ml",
+      "notes": "from 200g fermented cabbage"
+    },
+    {
+      "name": "black garlic",
+      "amount": "10g",
+      "notes": "minced"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tbsp",
+      ": ": ", "
+    }
+  ],
+  "instructions": [
+    "Cook uruguayan rice noodles according to package directions (use 150g water for best chew).",
+    "In a small bowl, mix pickle juice, 2 tbsp fresh cilantro, and 1/4 tsp red chili flakes for floral flavor.",
+    "Add cooked noodles to the pickle mixture, gently toss to coat.",
+    "Top with 10g minced black garlic and 1 tbsp toasted sesame seeds for umami depth."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "uruguayan",
+    "rice-noodles",
+    "chewy",
+    "quick-lunch",
+    "high-protein",
+    "vegetarian",
+    "vegan",
+    "pickle",
+    "floral"
+  ],
+  "nutrition": {
+    "calories": 245,
+    "protein": 12,
+    "carbs": 28,
+    "fat": 8
+  },
+  "slug": "chewy-uruguayan-rice-noodles",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-uruguayan-rice-noodles",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-02T22:11:40Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "chewy",
+    "mood": "quick-fix",
+    "technique": "pickle",
+    "primaryIngredient": "rice noodles",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "rice",
+    "descriptor": "chewy",
+    "dishForm": "Noodles"
+  }
+}
