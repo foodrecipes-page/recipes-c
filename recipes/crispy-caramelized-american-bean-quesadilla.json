@@ -1,0 +1,103 @@
+{
+  "title": "Crispy Caramelized American Bean Quesadilla",
+  "description": "A savory, plant-based quesadilla with caramelized beans and a crispy tortilla exterior, perfect for a solo dinner.",
+  "cuisine": "American",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flour tortillas",
+      "amount": "2 large (10-inch)"
+    },
+    {
+      "name": "Cannellini beans",
+      "amount": "1 cup (canned, drained and rinsed)"
+    },
+    {
+      "name": "White onion",
+      "amount": "1 medium, thinly sliced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Nutritional yeast",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "2 tbsp, chopped",
+      "notes": "optional garnish"
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "1 lime, cut into wedges",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Heat a large non‑stick skillet over medium heat. Add 1 tablespoon of olive oil and swirl to coat.",
+    "Add sliced onions, sauté until translucent and slightly golden, about 4‑5 minutes.",
+    "Stir in drained beans, cumin, smoked paprika, and salt. Cook for 2 minutes, letting the spices bloom.",
+    "Pour maple syrup over the bean mixture, stir to coat, and continue cooking, stirring frequently, until the beans are caramelized and thickened, about 6‑8 minutes.",
+    "Warm the tortillas: place each tortilla in a dry skillet for 10‑15 seconds per side, until pliable.",
+    "Spread half of the caramelized bean mixture onto one tortilla, sprinkle nutritional yeast over the beans, and top with the second tortilla.",
+    "Press lightly, then slide the quesadilla back into the skillet. Cook for 2‑3 minutes, or until the bottom is golden and crispy, then flip carefully and cook the other side until golden and the \"cheese\" is melted.",
+    "Remove from skillet, let rest 1 minute, cut into wedges. Garnish with chopped cilantro and lime wedges. Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "plant-based",
+    "american",
+    "quesadilla",
+    "crispy",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 302,
+    "protein": 14.5,
+    "carbs": 70,
+    "fat": 17
+  },
+  "slug": "crispy-caramelized-american-bean-quesadilla",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-caramelized-american-bean-quesadilla",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:26:55Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crispy",
+    "mood": "solo-dinner",
+    "technique": "caramelize",
+    "primaryIngredient": "flour tortilla",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Beans",
+    "descriptor": "Crispy Caramelized",
+    "dishForm": "Quesadilla"
+  }
+}

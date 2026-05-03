@@ -1,0 +1,118 @@
+{
+  "title": "Creamy Malaysian Tofu Curry",
+  "description": "A tangy, creamy, halal-friendly tofu curry packed with szechuan peppercorn flavor, perfect for a cozy date night.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "halal",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "400g",
+      "notes": "cut into 1‑inch cubes and drained"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup (240ml)",
+      "notes": "full‑fat for creaminess"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "szechuan peppercorns",
+      "amount": "1 tsp",
+      "notes": "toasted then ground"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "halal soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "1. Heat the coconut oil in a large skillet over medium heat.",
+    "2. Add the diced onion and sauté until translucent, about 3 minutes.",
+    "3. Stir in the minced garlic, grated ginger, crushed szechuan peppercorns, and tomato paste; cook for 1‑2 minutes until fragrant.",
+    "4. Deglaze the pan with a splash of coconut milk, scraping up any browned bits from the bottom.",
+    "5. Add the remaining coconut milk, tamarind paste, palm sugar, soy sauce, and lime juice; bring to a gentle simmer.",
+    "6. Gently fold in the cubed tofu, ensuring it is coated in the sauce.",
+    "7. Cover and let the curry simmer for 8‑10 minutes, allowing the tofu to absorb the flavors.",
+    "8. Taste and adjust seasoning—add more lime juice for acidity or more palm sugar for sweetness if needed.",
+    "9. Remove from heat and let sit for 2 minutes to thicken slightly.",
+    "10. Garnish with freshly chopped cilantro before serving.",
+    "11. Serve hot over steamed jasmine rice or with warm flatbread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "halal",
+    "vegetarian",
+    "tofu",
+    "curry",
+    "creamy",
+    "date-night"
+  ],
+  "nutrition": {
+    "calories": 700,
+    "protein": 40,
+    "carbs": 25,
+    "fat": 45
+  },
+  "slug": "creamy-malaysian-tofu-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-malaysian-tofu-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:26:39Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "creamy",
+    "mood": "date-night",
+    "technique": "deglaze",
+    "primaryIngredient": "szechuan peppercorns",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "tofu",
+    "descriptor": "Creamy",
+    "dishForm": "Curry"
+  }
+}
