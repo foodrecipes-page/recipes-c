@@ -1,0 +1,90 @@
+{
+  "title": "Crispy Russian Bread Toast",
+  "description": "A kid‑friendly, rich, and crispy Russian toast made by whisking eggs and milk, dipping white bread, and pan‑frying in butter for a golden finish.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "White sandwich bread",
+      "amount": "8 slices",
+      "notes": "Use gluten‑free bread for a gluten‑free version"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large",
+      "notes": "Fresh, room temperature"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": "Whole or 2% for richer taste"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": "Adds sweetness"
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Ground nutmeg",
+      "amount": "1/4 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch",
+      "notes": "Optional"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "For pan‑frying"
+    },
+    {
+      "name": "Honey or jam",
+      "amount": "to taste",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Preheat a large non‑stick skillet over medium heat.",
+    "In a shallow bowl, whisk together eggs, milk, vanilla, brown sugar, cinnamon, nutmeg, and salt until well blended.",
+    "Place butter in the skillet and allow it to melt, coating the surface.",
+    "Dip each slice of bread into the egg mixture, letting excess drip off, then place it in the skillet.",
+    "Cook each slice for 2–3 minutes on each side, or until golden brown and crispy.",
+    "Transfer cooked slices to a plate lined with paper towels to drain excess butter.",
+    "Serve warm with a drizzle of honey or a spoonful of jam.",
+    "Enjoy with milk or a cup of tea for a comforting treat."
+  ],
+  "slug": "crispy-russian-bread-toast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-russian-bread-toast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:06:15Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crispy",
+    "mood": "kid-friendly",
+    "technique": "whisk",
+    "primaryIngredient": "white bread",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "bread",
+    "descriptor": "Crispy",
+    "dishForm": "Toast"
+  }
+}
