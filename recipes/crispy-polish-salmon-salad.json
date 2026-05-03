@@ -1,0 +1,122 @@
+{
+  "title": "Crispy Polish Salmon Salad",
+  "description": "A light, comforting salad featuring air‑fried salmon, crisp greens, and a touch of honey‑mustard dressing—perfect for a sick day or a quick lunch.",
+  "cuisine": "Polish",
+  "diet": [
+    "pescatarian",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Salmon fillet",
+      "amount": "200 g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "¼ tsp"
+    },
+    {
+      "name": "Arugula",
+      "amount": "4 cups (≈100 g)"
+    },
+    {
+      "name": "Radishes",
+      "amount": "5, thinly sliced"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "½, diced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "¼, thinly sliced"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 tsp, chopped",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 200 °C (400 °F).",
+    "Pat the salmon fillet dry with paper towels.",
+    "Brush the salmon with olive oil and season with smoked paprika, salt, and pepper.",
+    "Place the salmon in the air fryer basket and cook for 10–12 minutes, or until the skin is crisp and the flesh flakes easily.",
+    "While the salmon cooks, toss the arugula, radishes, cucumber, and red onion in a large bowl.",
+    "Whisk together the apple cider vinegar, Dijon mustard, honey, and lemon juice to make the dressing.",
+    "Drizzle the dressing over the salad and toss to coat.",
+    "Once the salmon is done, let it rest for 2 minutes, then flake it into large chunks.",
+    "Gently fold the salmon into the salad, taking care not to break the flakes.",
+    "Sprinkle chopped dill over the top for a fresh herb finish.",
+    "Serve the salad immediately, optionally with a side of crusty rye or a light bread roll if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "pescatarian",
+    "polish",
+    "air-fry",
+    "salad",
+    "gluten-free",
+    "low-carb",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 490,
+    "protein": 40,
+    "carbs": 6,
+    "fat": 25
+  },
+  "slug": "crispy-polish-salmon-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-polish-salmon-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:53:06Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "light",
+    "mood": "sick-day",
+    "technique": "air-fry",
+    "primaryIngredient": "sugars",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Salmon",
+    "descriptor": "Crispy",
+    "dishForm": "Salad"
+  }
+}

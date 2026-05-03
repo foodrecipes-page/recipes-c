@@ -1,0 +1,102 @@
+{
+  "title": "Crunchy Tunisian Masarepa Fritters",
+  "description": "A crunchy and energizing Tunisian dish featuring white masarepa, herbs, and spices, perfect for a paleo-friendly snack. These fritters are fried to a golden brown and packed with flavor.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "white masarepa",
+      "amount": "2 cups",
+      "notes": "also known as cornmeal"
+    },
+    {
+      "name": "chicken egg",
+      "amount": "2 large",
+      "notes": "or flax egg for vegan option"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together the masarepa, egg, parsley, cilantro, garlic powder, onion powder, salt, and black pepper until well combined.",
+    "Gradually add water to the mixture, stirring with a fork until the dough comes together and forms a ball.",
+    "Knead the dough for 5-7 minutes until it becomes pliable and smooth.",
+    "Divide the dough into 8-10 equal pieces and shape each piece into a ball.",
+    "Flatten each ball into a disk shape, about 1/2 inch thick.",
+    "Heat the coconut oil in a deep frying pan over medium-high heat until it reaches 350°F.",
+    "Carefully place 2-3 fritters into the hot oil and fry for 3-4 minutes on each side, or until golden brown.",
+    "Remove the fritters from the oil with a slotted spoon and place them on a paper towel-lined plate to drain excess oil.",
+    "Repeat the frying process with the remaining fritters.",
+    "Serve the Crunchy Tunisian Masarepa Fritters hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "tunisian",
+    "masarepa",
+    "fritters",
+    "paleo-friendly",
+    "herbal"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "crunchy-tunisian-masarepa-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-tunisian-masarepa-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T21:52:40Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crunchy",
+    "mood": "energizing",
+    "technique": "fry",
+    "primaryIngredient": "white masarepa",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "masarepa",
+    "descriptor": "Crunchy",
+    "dishForm": "Fritters"
+  }
+}
