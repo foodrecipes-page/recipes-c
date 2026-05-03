@@ -1,0 +1,107 @@
+{
+  "title": "Citrusy Crispy Thai Cassava Curry",
+  "description": "A bright, keto-friendly Thai curry featuring crispy cassava cubes tossed in a zesty coconut sauce with lime, tamarind, and spicy red curry paste.",
+  "cuisine": "Thai",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cassava root",
+      "amount": "200g",
+      "notes": "peeled and diced into 3x3cm cubes"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tamari",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "erythritol",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "full-fat coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red chili (optional)",
+      "amount": "1 sliced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp coconut oil in a large skillet over medium heat. Add cassava cubes and fry until golden and crispy, about 6-8 minutes. Transfer to a plate lined with paper towels to drain excess oil.",
+    "In the same skillet, add the remaining 1 tbsp coconut oil, tamari, lime juice, tamarind paste, erythritol, and fish sauce. Stir to combine and let the mixture simmer for 1 minute to meld flavors.",
+    "Pour in the coconut milk and water, stirring until the sauce is smooth. Bring to a gentle boil, then reduce heat and let it simmer for 5 minutes so the broth thickens slightly.",
+    "Add the Thai red curry paste and stir until fully dissolved. If using, add sliced red chili for heat.",
+    "Return the fried cassava cubes to the skillet, tossing them in the sauce to coat. Simmer for another 2-3 minutes so the cassava absorbs some of the sauce but stays crisp.",
+    "Remove from heat and stir in chopped cilantro.",
+    "Serve hot over cauliflower rice or enjoy on its own for a keto-friendly meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "crispy",
+    "thai",
+    "keto-friendly",
+    "low-carb",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 465,
+    "protein": 5,
+    "carbs": 21,
+    "fat": 38
+  },
+  "slug": "citrusy-crispy-thai-cassava-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-crispy-thai-cassava-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:23:50Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "steam",
+    "primaryIngredient": "cassaba",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "cassava",
+    "descriptor": "Citrusy Crispy",
+    "dishForm": "Curry"
+  }
+}
