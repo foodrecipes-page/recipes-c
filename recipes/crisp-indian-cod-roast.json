@@ -1,0 +1,101 @@
+{
+  "title": "Crisp Indian Cod Roast",
+  "description": "A flavorful and crunchy Indian-inspired cod roast dish, perfect for a brunch gathering. This recipe features fermented cod, roasted to perfection with a blend of Indian spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4 (6 oz each)",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1 cup",
+      "notes": "for marination"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tbsp",
+      "notes": "for fermentation"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together yogurt, lemon juice, garam masala, cumin, smoked paprika, salt, and black pepper.",
+    "Add the cod fillets to the marinade and refrigerate for at least 2 hours or overnight.",
+    "Preheat the oven to 400°F (200°C).",
+    "Remove the cod from the marinade and place it on a baking sheet lined with parchment paper.",
+    "Drizzle the cod with rice vinegar and let it sit at room temperature for 30 minutes to ferment slightly.",
+    "Drizzle the cod with vegetable oil and roast in the preheated oven for 12-15 minutes or until cooked through.",
+    "Increase the oven temperature to broil (high).",
+    "Broil the cod for an additional 2-3 minutes or until the top is crispy and golden brown.",
+    "Remove the cod from the oven and let it rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian-food",
+    "cod-recipes",
+    "brunch-ideas",
+    "fermented-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "crisp-indian-cod-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-indian-cod-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T20:54:47Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crisp",
+    "mood": "brunch-mood",
+    "technique": "roast",
+    "primaryIngredient": "cod",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "cod",
+    "descriptor": "fermented crisp",
+    "dishForm": "Roast"
+  }
+}
