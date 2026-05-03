@@ -1,0 +1,115 @@
+{
+  "title": "Chewy Brazilian Coconut Dumplings",
+  "description": "Nutty, chewy dumplings infused with bright orange juice and high‑protein coconut flavor, perfect for midnight cravings.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cooked brown rice",
+      "amount": "1 cup (195 g)",
+      "notes": "cooked and cooled"
+    },
+    {
+      "name": "coconut flour",
+      "amount": "1/2 cup (60 g)",
+      "notes": "sifted"
+    },
+    {
+      "name": "shredded unsweetened coconut",
+      "amount": "1/4 cup (20 g)",
+      "notes": "freshly shredded"
+    },
+    {
+      "name": "almond butter",
+      "amount": "1/4 cup (64 g)",
+      "notes": "softened"
+    },
+    {
+      "name": "chia seeds",
+      "amount": "2 tbsp (30 g)",
+      "notes": "mixed with 3 tbsp water to form gel"
+    },
+    {
+      "name": "fresh orange juice",
+      "amount": "1/4 cup (60 ml)",
+      "notes": "strained"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tbsp (20 g)",
+      "notes": "light syrup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp (5 g)",
+      "notes": "pure"
+    },
+    {
+      "name": "sea salt",
+      "amount": "pinch",
+      "notes": "to taste"
+    },
+    {
+      "name": "vanilla whey protein powder",
+      "amount": "2 scoops (60 g)",
+      "notes": "unflavored or vanilla"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp (30 g)",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, combine the chia seeds with 3 tbsp water; let sit 5 min to form a gel.",
+    "In a large mixing bowl, whisk together the cooked rice, coconut flour, shredded coconut, protein powder, and sea salt.",
+    "Add the almond butter, maple syrup, vanilla extract, and orange juice to the dry mix; blend until a sticky dough forms.",
+    "Fold in the chia seed gel until fully incorporated; the dough should be pliable but firm.",
+    "Cover and refrigerate the dough for 20 minutes to firm up.",
+    "While the dough is resting, heat 1 tbsp coconut oil in a nonstick skillet over medium heat (about 350°F / 175°C).",
+    "Remove the dough from the fridge and divide it into 8 equal portions; roll each into a ball about 1.5 inches diameter.",
+    "Gently flatten each ball into a disc and insert a small lump of coconut oil in the center, then quickly seal the edges to encase the oil, forming a filled dumpling.",
+    "Fry the dumplings in batches, turning once, until golden brown and puffed, about 2–3 minutes per side.",
+    "Remove from skillet and drain on paper towels; serve warm, optionally dusted with powdered sugar or fresh orange zest for extra brightness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "coconut",
+    "snack",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 193,
+    "protein": 11,
+    "carbs": 17,
+    "fat": 11
+  },
+  "slug": "chewy-brazilian-coconut-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-brazilian-coconut-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:13:10Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "chewy",
+    "mood": "midnight-craving",
+    "technique": "dum",
+    "primaryIngredient": "orange juice",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Coconut",
+    "descriptor": "Chewy",
+    "dishForm": "Dumplings"
+  }
+}

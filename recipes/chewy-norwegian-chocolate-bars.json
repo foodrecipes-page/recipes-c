@@ -1,0 +1,97 @@
+{
+  "title": "Chewy Norwegian Chocolate Bars",
+  "description": "A quick, sugar‑free, chewy bar that packs high energy with plain dark chocolate and wholesome oats, perfect as a Norwegian snack.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Unsweetened dark chocolate (70% cocoa)",
+      "amount": "70 g",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "Cold‑pressed coconut oil",
+      "amount": "60 g",
+      "notes": "cold‑pressed"
+    },
+    {
+      "name": "Erythritol",
+      "amount": "30 g"
+    },
+    {
+      "name": "Rolled oats",
+      "amount": "40 g",
+      "notes": "rolled"
+    },
+    {
+      "name": "Chopped almonds",
+      "amount": "25 g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ground flaxseed",
+      "amount": "10 g",
+      "notes": "ground"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tsp",
+      "notes": "fine"
+    },
+    {
+      "name": "Pure vanilla extract",
+      "amount": "5 mL"
+    }
+  ],
+  "instructions": [
+    "Melt the chocolate and coconut oil together using a double boiler or microwave, stirring until smooth.",
+    "Remove from heat and stir in the erythritol, vanilla extract, and sea salt until dissolved.",
+    "Fold in the rolled oats, chopped almonds, and ground flaxseed until fully incorporated.",
+    "Press the mixture evenly into a lined 8×8 inch pan, smoothing the top with a spatula.",
+    "Place the pan in the refrigerator for at least 30 minutes or freeze for 15 minutes to set.",
+    "Once firm, lift the slab from the pan and cut into 4 equal bars.",
+    "Store the bars in an airtight container in the fridge up to one week or freeze for longer storage."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chocolate-bar",
+    "chewy",
+    "norwegian",
+    "sugar-free",
+    "gluten-free",
+    "snack",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 1390,
+    "protein": 18,
+    "carbs": 47,
+    "fat": 138
+  },
+  "slug": "chewy-norwegian-chocolate-bars",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-norwegian-chocolate-bars",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:12:51Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "chewy",
+    "mood": "energizing",
+    "technique": "rest",
+    "primaryIngredient": "plain chocolate",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Chocolate",
+    "descriptor": "Chewy",
+    "dishForm": "Bars"
+  }
+}
