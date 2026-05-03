@@ -1,0 +1,112 @@
+{
+  "title": "Crispy Resinous Tunisian Fish Brik",
+  "description": "A crispy, lazy-sunday dish featuring molasses and coconut cream, perfect for a pescatarian-friendly lunch.",
+  "cuisine": "tunisian",
+  "diet": [
+    "pescatarian",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Flour",
+      "amount": "2 cups",
+      "notes": "All-purpose flour"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "Room temperature water"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Fine salt"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": "Granulated sugar"
+    },
+    {
+      "name": "Molasses",
+      "amount": "2 tablespoons",
+      "notes": "Dark molasses"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1/4 cup",
+      "notes": "Melted coconut oil"
+    },
+    {
+      "name": "Shredded Coconut",
+      "amount": "1/2 cup",
+      "notes": "Shredded dried coconut"
+    },
+    {
+      "name": "Canned Sardines",
+      "amount": "1 can",
+      "notes": "Drained and chopped sardines"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "Beaten egg"
+    },
+    {
+      "name": "Brik Pastry",
+      "amount": "1 package",
+      "notes": "Frozen brik pastry"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a small pan over medium heat.",
+    "In a large bowl, combine the flour, water, salt, sugar, and molasses. Mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Roll out the dough to a thickness of 1/4 inch.",
+    "Using a cookie cutter or the rim of a glass, cut out circles of dough.",
+    "Place a tablespoon of shredded coconut on one half of each circle.",
+    "Top the coconut with a few pieces of chopped sardines.",
+    "Fold the other half of the dough over the filling, pressing the edges to seal.",
+    "Heat a non-stick pan or griddle over medium heat.",
+    "Cook the brik for 2-3 minutes on each side, until crispy and golden brown.",
+    "Serve the brik hot with a side of yogurt or tahini sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut",
+    "lunch",
+    "molasses",
+    "pescatarian",
+    "tunisian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 14
+  },
+  "slug": "crispy-resinous-tunisian-fish-brik",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-resinous-tunisian-fish-brik",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:27:19Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crispy",
+    "mood": "lazy-sunday",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "molasses",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "fish",
+    "descriptor": "crispy resinous",
+    "dishForm": "Brik"
+  }
+}

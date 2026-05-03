@@ -1,0 +1,103 @@
+{
+  "title": "Creamy Polish Uni Pasta",
+  "description": "A funky and aerated Polish dish featuring uni, deglaze-fond, and low-fat friendly ingredients, this creamy pasta is a crowd-pleaser. It combines the richness of uni with the comfort of pasta.",
+  "cuisine": "Polish",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "spaghetti",
+      "amount": "12 oz",
+      "notes": "dry"
+    },
+    {
+      "name": "uni",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": "unsalted"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "grated parmesan",
+      "amount": "1/2 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the spaghetti according to the package instructions until al dente.",
+    "In a large skillet, melt the butter over medium heat and add the minced garlic, cooking until fragrant.",
+    "Add the chicken broth to the skillet and bring to a simmer, scraping up any browned bits from the bottom of the pan.",
+    "Reduce the heat to low and stir in the heavy cream, cooking until the sauce has thickened slightly.",
+    "Stir in the uni and cook until heated through.",
+    "Add the cooked spaghetti to the skillet, tossing to combine with the uni sauce.",
+    "Season with black pepper to taste.",
+    "Transfer the pasta to a serving dish and top with grated parmesan and chopped parsley.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "low-fat",
+    "one-pan",
+    "pasta",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "creamy-polish-uni-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-polish-uni-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:26:56Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "aerated",
+    "mood": "crowd-pleaser",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "uni",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "uni",
+    "descriptor": "Creamy",
+    "dishForm": "Pasta"
+  }
+}
