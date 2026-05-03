@@ -1,0 +1,108 @@
+{
+  "title": "Crispy Australian Chicken Skewers",
+  "description": "Tangy, low‑fat chicken skewers coated in a sweet‑spicy BBQ glaze, pressure‑cooked for tenderness then finished on the grill for a crispy finish.",
+  "cuisine": "Australian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "skinless chicken breast",
+      "amount": "400g"
+    },
+    {
+      "name": "plain Greek yogurt (low‑fat)",
+      "amount": "2 tbsp",
+      "notes": "helps keep chicken moist"
+    },
+    {
+      "name": "low‑sugar BBQ sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "extra‑virgin olive oil",
+      "amount": "1 tsp",
+      "notes": "minimal amount for grill adhesion"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for pressure cooker"
+    },
+    {
+      "name": "skewers (bamboo or metal)",
+      "amount": "8",
+      "notes": "soak bamboo 30 min if using"
+    }
+  ],
+  "instructions": [
+    "Cut the chicken into 1.5‑inch cubes and place in a bowl.",
+    "Whisk the yogurt, lemon juice, paprika, garlic powder, onion powder, salt, pepper, and olive oil together.\nPour the mixture over the chicken, stir to coat, and refrigerate for 15 minutes to marinate.",
+    "Thread the chicken onto pre‑soaked skewers, packing the pieces tightly.",
+    "Add the water to the pressure cooker, place the skewers on a steaming rack or in a basket, and lock the lid.",
+    "Cook on high pressure for 6 minutes, then perform a quick release.\nRemove the skewers and brush each side with low‑sugar BBQ sauce.",
+    "Preheat a grill or grill pan to medium‑high heat.\nGrill the skewers 3–4 minutes per side, or until the edges are crisp and the internal temperature reaches 165 °F (74 °C).\nLet the skewers rest for 5 minutes before serving.",
+    "Serve hot with extra BBQ sauce on the side and a sprinkle of chopped parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "barbecue",
+    "low-fat",
+    "skewers",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 765,
+    "protein": 126,
+    "carbs": 1,
+    "fat": 17.5
+  },
+  "slug": "crispy-australian-chicken-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-australian-chicken-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:49:10Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crispy",
+    "mood": "festive",
+    "technique": "pressure-cook",
+    "primaryIngredient": "barbeque sauce",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "chicken",
+    "descriptor": "Crispy",
+    "dishForm": "Skewers"
+  }
+}

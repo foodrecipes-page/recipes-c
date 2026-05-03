@@ -1,0 +1,111 @@
+{
+  "title": "Crispy Croatian Corned Beef Croquettes",
+  "description": "Savory, crispy croquettes featuring tender corned beef, fluffy mashed potatoes, and a crunchy breadcrumb coating.",
+  "cuisine": "Croatian",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Corned beef (cooked, shredded)",
+      "amount": "250g",
+      "notes": "use sliced deli corned beef, drained of excess liquid"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "200g",
+      "notes": "boiled, mashed until smooth"
+    },
+    {
+      "name": "Parmesan cheese, grated",
+      "amount": "50g"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1 small"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "¼ tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "50g",
+      "notes": "gluten‑free if preferred"
+    },
+    {
+      "name": "Eggs, beaten",
+      "amount": "2"
+    },
+    {
+      "name": "Flour (or gluten‑free alternative)",
+      "amount": "30g"
+    }
+  ],
+  "instructions": [
+    "Boil the potatoes until fork‑soft, then drain and mash them to a smooth consistency.",
+    "In a large bowl, combine the shredded corned beef, mashed potatoes, grated Parmesan, chopped onion, minced garlic, parsley, paprika, pepper, and salt; mix until well incorporated.",
+    "Shape the mixture into small balls, about 35g each, and place them on a sheet for cooling.",
+    "Dredge each ball in flour, then dip into beaten eggs, and finally roll in breadcrumbs until fully coated.",
+    "Heat 2 tablespoons of olive oil in a large skillet over medium‑high heat. When the oil shimmers, carefully place the croquettes in the pan.",
+    "Fry the croquettes 3–4 minutes per side or until golden brown and crispy. Flip them gently to ensure even browning.",
+    "Transfer the cooked croquettes to a paper‑towel‑lined plate to absorb excess oil.",
+    "Serve hot with a side of mustard or a light yogurt sauce for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "savory",
+    "crispy",
+    "high-protein",
+    "croatian",
+    "corned-beef",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "crispy-croatian-corned-beef-croquettes",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-croatian-corned-beef-croquettes",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:48:18Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crispy",
+    "mood": "energizing",
+    "technique": "ferment",
+    "primaryIngredient": "corned beef",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "corned beef",
+    "descriptor": "Crispy",
+    "dishForm": "Croquettes"
+  }
+}
