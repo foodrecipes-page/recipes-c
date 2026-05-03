@@ -1,0 +1,111 @@
+{
+  "title": "Creamy Greek Zucchini Grill",
+  "description": "A buttery, creamy grilled zucchini dish bursting with fresh herbs, perfect as a Mediterranean hangover cure and keto-friendly meal.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "medium zucchini (courgettes)",
+      "amount": "3",
+      "notes": "sliced into 1/4\" thick rounds"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "for grilling"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": "plain, full-fat"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan over medium-high heat.",
+    "Brush the zucchini rounds with melted butter, season with salt, pepper, oregano, and minced garlic.",
+    "Grill the zucchini, about 3-4 minutes per side, until lightly charred and tender.",
+    "While the zucchini is grilling, whisk together Greek yogurt, crumbled feta, dill, parsley, and a squeeze of lemon juice to make the creamy sauce.",
+    "Transfer the grilled zucchini to a serving platter, drizzle with the creamy sauce, and sprinkle extra dill and parsley on top.",
+    "Serve immediately with lemon wedges on the side for extra brightness.",
+    "Optional: add a pinch of crushed red pepper for heat.",
+    "Enjoy this creamy, buttery zucchini as a refreshing, hangover-friendly Mediterranean dish.",
+    "Store leftovers in an airtight container in the refrigerator for up to 2 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "gluten-free",
+    "greek",
+    "grilled",
+    "vegetarian",
+    "hangover-cure"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 8,
+    "fat": 24
+  },
+  "slug": "creamy-greek-zucchini-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-greek-zucchini-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:40:03Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "creamy",
+    "mood": "hangover-cure",
+    "technique": "broil",
+    "primaryIngredient": "courgettes",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Zucchini",
+    "descriptor": "Creamy",
+    "dishForm": "Grill"
+  }
+}
