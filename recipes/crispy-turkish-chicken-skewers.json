@@ -1,0 +1,98 @@
+{
+  "title": "Crispy Turkish Chicken Skewers",
+  "description": "Fatty yet light, these double-fried chicken skewers are brushed in white wine vinegar and seasoned with smoked paprika, cumin, and oregano, perfect for a romantic Middle Eastern dinner.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into 1.5-inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Marinate chicken cubes in olive oil, white wine vinegar, smoked paprika, cumin, oregano, salt, pepper, lemon juice, and honey; cover and refrigerate 30 minutes.",
+    "Thread marinated chicken onto soaked wooden skewers, spacing evenly.",
+    "Heat oil in a deep pan to 170 C and preheat a second pan to 190 C for double-frying.",
+    "Fry skewers for 3 minutes until golden, then remove and drain on paper towels.",
+    "Increase temperature to 190 C and fry again for 2 minutes to achieve extra crispness.",
+    "Remove skewers, let rest 2 minutes, then sprinkle with additional salt if desired.",
+    "Serve hot with a side of fresh cucumber salad or yogurt dip.",
+    "Store leftovers in an airtight container in the fridge for up to 2 days."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "double-fry",
+    "kfc-style",
+    "meal-prep",
+    "no-garlic",
+    "no-onion",
+    "quick",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 1050,
+    "protein": 140,
+    "carbs": 17,
+    "fat": 43
+  },
+  "slug": "crispy-turkish-chicken-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-turkish-chicken-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:26:14Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "light",
+    "mood": "romantic",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "white wine vinegar",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "chicken",
+    "descriptor": "Crispy",
+    "dishForm": "Skewers"
+  }
+}
