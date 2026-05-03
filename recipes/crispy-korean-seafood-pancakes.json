@@ -1,0 +1,113 @@
+{
+  "title": "Crispy Korean Seafood Pancakes",
+  "description": "A savory, crumbly pancake filled with fresh leeks and mixed seafood, finished with a tangy dipping sauce for a quick, satisfying bite.",
+  "cuisine": "Korean",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "200g"
+    },
+    {
+      "name": "Korean red pepper flakes (gochugaru)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cold water",
+      "amount": "300ml"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "mixed seafood (shrimp, squid, mussels)",
+      "amount": "200g",
+      "notes": "cleaned and cut into bite‑sized pieces"
+    },
+    {
+      "name": "leeks",
+      "amount": "1 bunch",
+      "notes": "thinly sliced into half‑moons"
+    },
+    {
+      "name": "green onions",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 tsp",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Whisk flour, gochugaru, and salt in a large bowl. Gradually whisk in cold water, soy sauce, and sesame oil until the batter is smooth with a few small lumps. Let rest 5–10 minutes.",
+    "While the batter rests, prepare the seafood: cut shrimp into small pieces, slice squid rings, and clean mussels.",
+    "Slice leeks into thin half‑moons and chop green onions, garlic, ginger, and cilantro.",
+    "Heat a non‑stick skillet over medium‑high heat and add 1 tbsp of sesame oil, swirling to coat the surface.",
+    "Pour a ladleful of batter into the skillet, spreading it thin. Sprinkle evenly with seafood, leeks, green onions, garlic, ginger, and cilantro.",
+    "Cook until the edges become crisp and the bottom turns golden brown, about 2–3 minutes. Flip carefully with a spatula and cook the other side until golden and the seafood is cooked through, about 2 minutes.",
+    "Remove the pancake from the skillet and repeat with the remaining batter and ingredients.",
+    "Slice the pancakes into wedges and serve hot with a dipping sauce made from 1 tbsp soy sauce, 1 tsp rice vinegar, 1 tsp gochujang (optional), 1 tsp sesame oil, sliced chili, and chopped scallions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 3,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "seafood",
+    "pancake",
+    "quick",
+    "snack",
+    "crisp",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "crispy-korean-seafood-pancakes",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-korean-seafood-pancakes",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:53:34Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crumbly",
+    "mood": "quick-fix",
+    "technique": "knead",
+    "primaryIngredient": "leek",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Seafood",
+    "descriptor": "Crispy",
+    "dishForm": "Pancakes"
+  }
+}

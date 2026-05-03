@@ -1,0 +1,109 @@
+{
+  "title": "Creamy Mexican Beef Burrito",
+  "description": "A rich, gooey meal‑prep Mexican dish featuring a velvety beef filling, creamy sauce, and fresh unwaxed lemon zest, all wrapped in warm tortillas.",
+  "cuisine": "Mexican",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef (lean, halal)",
+      "amount": "1 lb",
+      "notes": "use halal‑certified beef"
+    },
+    {
+      "name": "flour tortillas",
+      "amount": "4 (8‑inch)"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salsa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cooked rice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "black beans",
+      "amount": "1/2 cup, drained"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice (unwaxed lemon)",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium‑high heat and brown the ground beef, breaking it up with a wooden spoon. Drain any excess fat and check that the internal temperature reaches 165°F (74°C).",
+    "Add cumin, chili powder, garlic powder, salt, and pepper; cook for 1 minute until fragrant.",
+    "Stir in salsa, cooked rice, and black beans, then simmer for 3–4 minutes to combine flavors.",
+    "In a separate bowl, whisk together sour cream, mayonnaise, and lemon juice until smooth.",
+    "Pour the creamy mixture over the beef filling and stir until the filling is evenly coated.",
+    "Warm tortillas: place each on a dry skillet for about 30 seconds per side or microwave for 10 seconds.",
+    "Lay a tortilla flat on a plate, spoon 1/4 of the beef mixture onto the center.",
+    "Sprinkle 1/4 cup of shredded cheese over the filling.",
+    "Fold the sides in and roll tightly, sealing the edges. Optionally tuck in the ends for a tighter burrito.",
+    "Place the assembled burritos in a heat‑proof container for meal prep; refrigerate or reheat as desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "meal-prep",
+    "halal",
+    "mexican",
+    "creamy",
+    "beef",
+    "burrito"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 30
+  },
+  "slug": "creamy-mexican-beef-burrito",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-mexican-beef-burrito",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:53:14Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "gooey",
+    "mood": "meal-prep",
+    "technique": "knead",
+    "primaryIngredient": "unwaxed lemon",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Beef",
+    "descriptor": "Creamy",
+    "dishForm": "Burrito"
+  }
+}
