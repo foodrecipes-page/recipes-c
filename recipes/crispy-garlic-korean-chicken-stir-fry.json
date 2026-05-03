@@ -1,0 +1,99 @@
+{
+  "title": "Crispy Garlic Korean Chicken Stir-fry",
+  "description": "A garlicky, crispy Korean chicken stir-fry that satisfies midnight cravings and is nut‑free.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless skinless chicken thighs",
+      "amount": "500g",
+      "notes": "Cut into bite‑size pieces"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "6 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Gochujang (Korean chili paste)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Light rum",
+      "amount": "30ml"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 teaspoon",
+      "notes": "Optional, for extra crispiness"
+    }
+  ],
+  "instructions": [
+    "In a small bowl whisk together gochujang, soy sauce, rice vinegar, honey, rum, and water to make the sauce.",
+    "Heat 1 tablespoon olive oil in a large skillet over medium‑high heat. Add the chicken pieces and stir‑fry until golden brown and cooked through, about 5–6 minutes.",
+    "Add minced garlic and stir for 30 seconds until fragrant.",
+    "Pour the prepared sauce over the chicken and stir to coat. Cook for another 2 minutes to let the flavors meld.",
+    "If you’d like extra crispiness, sprinkle 1 teaspoon cornstarch over the chicken and stir until the sauce thickens, about 1 minute.",
+    "Remove from heat and serve immediately over steamed rice or sautéed vegetables. Enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "stir-fry",
+    "chicken",
+    "garlic",
+    "rum",
+    "nut-free",
+    "gluten-free",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 115,
+    "carbs": 12,
+    "fat": 44
+  },
+  "slug": "crispy-garlic-korean-chicken-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-garlic-korean-chicken-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:38:21Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crispy",
+    "mood": "midnight-craving",
+    "technique": "stir-fry",
+    "primaryIngredient": "rum",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Chicken",
+    "descriptor": "Crispy Garlic",
+    "dishForm": "Stir-fry"
+  }
+}
