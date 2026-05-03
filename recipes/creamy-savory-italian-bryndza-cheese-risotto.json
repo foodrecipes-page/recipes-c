@@ -1,0 +1,107 @@
+{
+  "title": "Creamy Savory Italian Bryndza Cheese Risotto",
+  "description": "A rich and creamy Italian dish featuring bryndza cheese, perfect for a romantic dinner. This pressure-cooked risotto is a savory delight with a dash of Italian flair.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Arborio rice",
+      "amount": "1 cup",
+      "notes": "high-quality, preferably Italian"
+    },
+    {
+      "name": "Bryndza cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly, sheep's milk cheese"
+    },
+    {
+      "name": "White wine",
+      "amount": "1/2 cup",
+      "notes": "dry, Italian white wine"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": "low-sodium, warmed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra-virgin"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pressure cooker over medium heat.",
+    "Add chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add garlic and cook for an additional minute.",
+    "Add Arborio rice and cook for 1-2 minutes, stirring constantly.",
+    "Add white wine and cook until absorbed, stirring constantly.",
+    "Add warmed vegetable broth, 1/2 cup at a time, stirring constantly and allowing each portion to absorb before adding the next.",
+    "After 20-25 minutes of cooking, stir in bryndza cheese until melted and creamy.",
+    "Season with salt and black pepper to taste.",
+    "Stir in chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "risotto",
+    "bryndza-cheese",
+    "pressure-cooker",
+    "romantic-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "creamy-savory-italian-bryndza-cheese-risotto",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-savory-italian-bryndza-cheese-risotto",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T21:12:29Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "pressure-cook",
+    "primaryIngredient": "bryndza cheese",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "bryndza cheese",
+    "descriptor": "creamy savory",
+    "dishForm": "Risotto"
+  }
+}
