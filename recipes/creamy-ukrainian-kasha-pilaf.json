@@ -1,0 +1,99 @@
+{
+  "title": "Creamy Ukrainian Kasha Pilaf",
+  "description": "A decadent earthy dish featuring dry sherry and gluten-free friendly, this show-off Ukrainian creation is creamy and comforting.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kasha (gluten-free groats)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Dry sherry (gluten-free)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "Butter, softened",
+      "amount": "6 tablespoons"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": null
+    },
+    {
+      "name": "Fresh dill, finely chopped (optional)",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large saucepan over medium heat.",
+    "Add the onion and garlic; sauté until softened.",
+    "Stir in tomato paste, cook for an additional minute.",
+    "Pour in dry sherry, reduce to half of its volume (about 1 tablespoon).",
+    "Gradually add chicken broth, stirring frequently. Let it simmer for about 5 minutes or until the liquid has reduced slightly.",
+    "Add heavy cream and butter; stir well.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh dill if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "ukrainian",
+    "show-off"
+  ],
+  "nutrition": {
+    "calories": 410,
+    "protein": 8,
+    "carbs": 62,
+    "fat": 23
+  },
+  "slug": "creamy-ukrainian-kasha-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-ukrainian-kasha-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T11:12:48Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "creamy",
+    "mood": "show-off",
+    "technique": "temper",
+    "primaryIngredient": "dry sherry",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Kasha",
+    "descriptor": "Creamy",
+    "dishForm": "Pilaf"
+  }
+}
