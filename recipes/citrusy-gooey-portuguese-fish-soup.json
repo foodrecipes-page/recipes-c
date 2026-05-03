@@ -1,0 +1,109 @@
+{
+  "title": "Citrusy Gooey Portuguese Fish Soup",
+  "description": "A bright, citrus-infused Portuguese fish soup with a velvety texture, featuring a fragrant tadka of cumin and mustard seeds.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large, finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove, minced"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Mustard seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fish stock",
+      "amount": "4 cups"
+    },
+    {
+      "name": "White wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Fresh lemon (zest + juice)",
+      "amount": "1 medium (1 tbsp zest, 3 tbsp juice)"
+    },
+    {
+      "name": "Fresh lime (juice)",
+      "amount": "1 medium (2 tbsp juice)"
+    },
+    {
+      "name": "Cod fillets",
+      "amount": "200g, cubed"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "200g, peeled"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tsp of the olive oil in a small pan over medium heat. Add cumin and mustard seeds and let them splutter for about 10 seconds.",
+    "Transfer the tadka to a large soup pot.",
+    "In the same pot, add the remaining olive oil and sauté the chopped onion until translucent, about 5 minutes.",
+    "Add the minced garlic and smoked paprika; cook for 1 minute until fragrant.",
+    "Pour in the white wine to deglaze the pot, scraping up any browned bits, and reduce by half, about 3 minutes.",
+    "Add the fish stock and bring to a gentle simmer.",
+    "Stir in the lemon zest and juices, lime juice, and season with salt and pepper to taste.",
+    "Add the cod cubes and simmer for 4-5 minutes until the fish just cooks through.",
+    "Add the shrimp and cook for an additional 2-3 minutes until pink.",
+    "Taste and adjust seasoning if needed, then serve hot, optionally garnished with fresh herbs."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "gooey",
+    "fish-soup",
+    "pescatarian",
+    "portuguese",
+    "light",
+    "tadka"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 50,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "citrusy-gooey-portuguese-fish-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-gooey-portuguese-fish-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:17:11Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "gooey",
+    "mood": "light",
+    "technique": "tadka",
+    "primaryIngredient": "onion",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Fish",
+    "descriptor": "Citrusy Gooey",
+    "dishForm": "Soup"
+  }
+}
