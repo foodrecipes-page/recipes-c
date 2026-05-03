@@ -1,0 +1,92 @@
+{
+  "title": "Crisp Fermented Norwegian Spring Onions Toast",
+  "description": "A refreshing and tangy Norwegian dish featuring fermented spring onions and crispy toast, perfect for satisfying midnight cravings.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "low-calorie"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Spring onions",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Whole wheat bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Butter or oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Mix spring onions, sugar, and salt in a bowl to create the fermented mixture.",
+    "Pour the mixture into a jar and add water, leaving 1 inch of space at the top.",
+    "Seal the jar and let it ferment at room temperature for 2-3 days.",
+    "Preheat oven to 400°F (200°C).",
+    "Toast the bread slices for 5-7 minutes or until crispy.",
+    "Butter or oil the toasted bread slices.",
+    "Top each slice with a fermented spring onion and a sprinkle of parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "fermented",
+    "low-calorie",
+    "no-oven",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 2
+  },
+  "slug": "crisp-fermented-norwegian-spring-onions-toast",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-fermented-norwegian-spring-onions-toast",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:02:55Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crisp",
+    "mood": "midnight-craving",
+    "technique": "toast",
+    "primaryIngredient": "spring onions",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "spring onions",
+    "descriptor": "crisp fermented",
+    "dishForm": "Toast"
+  }
+}
