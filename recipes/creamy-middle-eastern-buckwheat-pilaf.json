@@ -1,0 +1,77 @@
+{
+  "title": "Creamy Middle-Eastern Buckwheat Pilaf",
+  "description": "A nutty, creamy buckwheat pilaf with aromatic spices and tender vegetables, perfect for a crowd-pleasing meal.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "vegetarian",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "buckwheat",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrot",
+      ": ": ", "
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a medium saucepan over medium heat.",
+    "Sauté onion and garlic until softened, about 3 minutes.",
+    "Add buckwheat and stir to coat in oil.",
+    "Pour in 2 cups water and 1 teaspoon cumin, then bring to a gentle boil.",
+    "Reduce heat to low, cover, and cook for 15 minutes until buckwheat is tender.",
+    "Add 1 cup cooked chickpeas (optional for extra creaminess) and mix well.",
+    "Season with salt and pepper to taste, then serve."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "middle-eastern",
+    "buckwheat",
+    "pilaf",
+    "creamy",
+    "vegetarian",
+    "nut-free"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 9,
+    "carbs": 35,
+    "fat": 5
+  },
+  "slug": "creamy-middle-eastern-buckwheat-pilaf",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-middle-eastern-buckwheat-pilaf",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T07:55:50Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "creamy",
+    "mood": "crowd-pleaser",
+    "technique": "simmer",
+    "primaryIngredient": "buckwheat",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "buckwheat",
+    "descriptor": "creamy",
+    "dishForm": "Pilaf"
+  }
+}
