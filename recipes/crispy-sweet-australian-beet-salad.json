@@ -1,0 +1,101 @@
+{
+  "title": "Crispy Sweet Australian Beet Salad",
+  "description": "A vibrant, sweet and crispy beet salad with a light soda water vinaigrette, perfect for meal‑prep and vegetarian palettes.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Medium beets",
+      "amount": "4 large",
+      "notes": "roasted and sliced into wedges"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Soda water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Extra‑virgin olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Roasted chickpeas",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F). Toss whole beets with a pinch of sea salt and bake on parchment paper for 45‑60 minutes or until tender. Cool, peel, and cut into wedges.",
+    "Whisk together sugar, soda water, olive oil, apple cider vinegar, sea salt, pepper, and smoked paprika in a small bowl until the sugar dissolves.",
+    "Toss the beet wedges with the vinaigrette and refrigerate for at least 20 minutes to allow the flavors to meld.",
+    "While the beets chill, toast the roasted chickpeas in the oven at 200°C for 5 minutes until crisp, then set aside.",
+    "Arrange beet wedges on a serving platter, sprinkle with toasted chickpeas, sesame seeds, and chopped parsley. Drizzle any remaining dressing over the top before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 60,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan-friendly",
+    "meal-prep",
+    "beet",
+    "salad",
+    "soda-water",
+    "sweet",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 4,
+    "carbs": 22,
+    "fat": 15
+  },
+  "slug": "crispy-sweet-australian-beet-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-sweet-australian-beet-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T16:47:05Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crispy",
+    "mood": "meal-prep",
+    "technique": "cure",
+    "primaryIngredient": "soda water",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "beet",
+    "descriptor": "Crispy Sweet",
+    "dishForm": "Salad"
+  }
+}

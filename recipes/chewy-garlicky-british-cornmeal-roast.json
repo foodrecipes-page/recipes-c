@@ -1,0 +1,105 @@
+{
+  "title": "Chewy Garlicky British Cornmeal Roast",
+  "description": "A lazy‑Sunday British roast that's garlicky, chewy, and surprisingly keto‑friendly.",
+  "cuisine": "British",
+  "diet": [
+    "keto",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "white cornmeal",
+      "amount": "1/4 cup (32g)",
+      "notes": "low‑carb variety preferred"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/4 cup (32g)"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried rosemary",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch"
+    },
+    {
+      "name": "melted butter",
+      "amount": "2 tbsp (28g)"
+    },
+    {
+      "name": "warm water",
+      "amount": "1/4 cup (60ml)"
+    },
+    {
+      "name": "large egg",
+      "amount": "1"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/4 cup (30g)",
+      "notes": "optional for extra flavor and chewiness"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200 °C (400 °F) and line a small loaf pan with parchment paper.",
+    "In a medium bowl whisk together the cornmeal, almond flour, baking powder, garlic powder, rosemary, salt, and pepper.",
+    "In a separate bowl beat the egg, then stir in the melted butter and warm water until fully combined.",
+    "Pour the wet mixture into the dry ingredients and stir gently until just incorporated; fold in the grated cheddar if using.",
+    "Transfer the batter to the prepared loaf pan and smooth the top with a spatula.",
+    "Bake for 30–35 minutes, or until the loaf is golden brown and a skewer inserted into the center comes out clean.",
+    "Remove from the oven and let the roast rest in the pan for 10 minutes before slicing.",
+    "Serve warm, optionally with a drizzle of herb butter or a light side salad."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlicky",
+    "chewy",
+    "keto-friendly",
+    "british",
+    "lazy-sunday",
+    "cornmeal"
+  ],
+  "nutrition": {
+    "calories": 173,
+    "protein": 5.7,
+    "carbs": 8.5,
+    "fat": 13
+  },
+  "slug": "chewy-garlicky-british-cornmeal-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-garlicky-british-cornmeal-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T16:46:50Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "chewy",
+    "mood": "lazy-sunday",
+    "technique": "roast",
+    "primaryIngredient": "white cornmeal",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Cornmeal",
+    "descriptor": "Chewy Garlicky",
+    "dishForm": "Roast"
+  }
+}
