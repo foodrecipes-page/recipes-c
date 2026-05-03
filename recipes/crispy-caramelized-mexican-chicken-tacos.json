@@ -1,0 +1,100 @@
+{
+  "title": "Crispy Caramelized Mexican Chicken Tacos",
+  "description": "Floral, flaky, brunch‑mood tacos featuring caramelized chicken in crisp hard shells, a Yucatecan twist that’s low‑FODMAP friendly.",
+  "cuisine": "Mexican",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "skinless boneless chicken thighs",
+      "amount": "800g",
+      "notes": "cut into bite‑size pieces"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for browning the chicken"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tbsp",
+      "notes": "for caramelizing the chicken"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "garlic, finely minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "lime zest",
+      "amount": "zest of 1 lime"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "1 tbsp",
+      "notes": "optional, low‑FODMAP"
+    },
+    {
+      "name": "hard taco shells",
+      "amount": "8 shells",
+      "notes": "preheat at 350°F for 3 min to crisp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C). Place taco shells on a baking sheet and bake for 3 minutes to slightly crisp, then set aside."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "mexican",
+    "fodmap-friendly",
+    "taco",
+    "caramelized",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 10,
+    "carbs": 7,
+    "fat": 8
+  },
+  "slug": "crispy-caramelized-mexican-chicken-tacos",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-caramelized-mexican-chicken-tacos",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:41:22Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "flaky",
+    "mood": "brunch-mood",
+    "technique": "caramelize",
+    "primaryIngredient": "hard taco shells",
+    "diet": "fodmap",
+    "region": "yucatecan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chicken",
+    "descriptor": "Crispy Caramelized",
+    "dishForm": "Tacos"
+  }
+}
