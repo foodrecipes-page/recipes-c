@@ -1,0 +1,130 @@
+{
+  "title": "Creamy Peppery Mediterranean Peppers Stew",
+  "description": "A quick, pressure‑cooked Mediterranean stew bursting with peppery flavor and a velvety Greek yogurt finish, perfect for a sugar‑free, vegetarian dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red bell pepper",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "Yellow bell pepper",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "Green bell pepper",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "Red chili pepper",
+      "amount": "1 small",
+      "notes": "finely chopped (optional)"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Low‑sodium vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Plain Greek yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "2 tablespoons",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the pressure cooker on sauté mode. Add the onion, garlic, and chopped chili; cook until the onion softens, about 3 minutes.",
+    "Add the sliced bell peppers, oregano, smoked paprika, cayenne, salt, and black pepper. Sauté for another 2 minutes to release the peppers' aroma.",
+    "Pour in the vegetable broth and a splash of lemon juice. Seal the lid and cook at high pressure for 10 minutes.",
+    "Quickly release the pressure, stir the stew, then fold in the Greek yogurt until the mixture is smooth and creamy.",
+    "Taste and adjust seasoning if needed. Sprinkle crumbled feta over the top before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "creamy",
+    "mediterranean",
+    "quick",
+    "pressure-cook",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 22
+  },
+  "slug": "creamy-peppery-mediterranean-peppers-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-peppery-mediterranean-peppers-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:48:51Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "creamy",
+    "mood": "quick-fix",
+    "technique": "pressure-cook",
+    "primaryIngredient": "mixed peppers",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "peppers",
+    "descriptor": "Creamy Peppery",
+    "dishForm": "Stew"
+  }
+}
