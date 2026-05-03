@@ -1,0 +1,82 @@
+{
+  "title": "Citrusy Greek Lemon Flatbread",
+  "description": "A citrusy, flaky Greek dish featuring cumin and high-protein-friendly ingredients, perfect for a nostalgic breakfast.",
+  "cuisine": "Greek",
+  "diet": [
+    "high-protein",
+    "low-carb"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "2 cups all-purpose flour"
+    },
+    {
+      "name": "1/4 cup almond flour"
+    },
+    {
+      "name": "1/2 teaspoon cumin"
+    },
+    {
+      "name": "Pinch salt"
+    },
+    {
+      "name": "1 large egg, lightly beaten"
+    },
+    {
+      "name": "1/3 cup water"
+    },
+    {
+      "name": "Juice of 1 lemon (about 1 tablespoon)"
+    },
+    {
+      "name": "Extra virgin olive oil, for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 425°F (220°C).",
+    "In a large bowl, mix together the all-purpose flour, almond flour, cumin, and salt.",
+    "Add in the beaten egg and water. Stir until a dough forms; it will be sticky.",
+    "Transfer the dough onto a floured surface and knead gently for about 1 minute to form a smooth ball of dough.",
+    "Lightly grease a baking sheet with extra virgin olive oil and dust with flour. Place the dough on the prepared pan and press into an even thickness, about 1/4-inch thick.",
+    "Sprinkle lemon juice evenly over the flatbread and brush the top generously with olive oil.",
+    "Bake for 12-15 minutes or until golden brown. Keep in a warm place to crisp up slightly more before serving.",
+    "Serve hot as a breakfast dish with your choice of high-protein toppings like scrambled eggs, hummus, or avocado smash."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "flaky",
+    "greek-dish",
+    "nostalgic",
+    "high-protein-friendly"
+  ],
+  "nutrition": {
+    "calories": 310,
+    "protein": 24,
+    "carbs": 27,
+    "fat": 9
+  },
+  "slug": "citrusy-greek-lemon-flatbread",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-greek-lemon-flatbread",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T17:43:33Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "flaky",
+    "mood": "nostalgic",
+    "technique": "fold",
+    "primaryIngredient": "cumin",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lemon",
+    "descriptor": "Citrusy",
+    "dishForm": "Pancake"
+  }
+}

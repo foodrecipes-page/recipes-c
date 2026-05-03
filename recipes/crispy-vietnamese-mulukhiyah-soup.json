@@ -1,0 +1,89 @@
+{
+  "title": "Crispy Vietnamese Mulukhiyah Soup",
+  "description": "A salty, crisp, kid-friendly Vietnamese soup featuring tender sous‑vide chicken and bright mulukhiyah greens, finished with fish sauce, lime, and a sprinkle of roasted peanuts.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken thighs",
+      "amount": "500 g",
+      "notes": "halal certified"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "shallot, finely sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "ginger, grated",
+      "amount": "1 inch"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "mulukhiyah leaves, fresh",
+      "amount": "200 g"
+    },
+    {
+      "name": "water",
+      "amount": "1.5 L"
+    },
+    {
+      "name": "roasted peanuts, coarsely chopped",
+      "amount": "1/4 cup",
+      "notes": "for crisp garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous‑vide water bath to 65 °C (149 °F).",
+    "Season the chicken thighs with salt, pepper, and 1 tbsp olive oil, then seal in a vacuum bag. Bring the bag to the water bath and cook for 120 min.",
+    "While the chicken cooks, bring the water to a gentle simmer in a large pot. Add minced garlic, sliced shallot, grated ginger, fish sauce, lime juice, and a pinch of sugar. Simmer for 5 min to meld flavors.",
+    "Quickly blanch the mulukhiyah leaves in the simmering broth for 1–2 min, then immediately transfer to a bowl of ice water to retain crispness.",
+    "After 120 min, remove the chicken from the bag, pat dry, and slice into bite‑sized strips. Add the sliced chicken to the pot and let it reheat for 3 min.",
+    "Drain the blanched mulukhiyah and add it to the pot, stirring gently. Taste and adjust seasoning if needed.",
+    "Serve hot, garnished with a handful of roasted peanuts and optional sliced green onions.",
+    "Feel free to add a pinch of red chili flakes for extra heat if desired."
+  ],
+  "slug": "crispy-vietnamese-mulukhiyah-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-vietnamese-mulukhiyah-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:43:25Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crisp",
+    "mood": "kid-friendly",
+    "technique": "sous-vide",
+    "primaryIngredient": "mulukhiyah",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Mulukhiyah",
+    "descriptor": "Crispy",
+    "dishForm": "Soup"
+  }
+}
