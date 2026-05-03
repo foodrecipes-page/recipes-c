@@ -1,0 +1,86 @@
+{
+  "title": "Crisp Venezuelan Garlic Fritters",
+  "description": "A sweet, crisp, light Venezuelan dish featuring garlic cloves, perfect for high-protein-friendly snacks or light meals.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "high protein",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "garlic clove",
+      "amount": "2",
+      "notes": "finely minced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "plus extra for coating"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      ": string, ": " string",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Mince 2 garlic cloves finely",
+    "In a bowl, mix 1 cup all-purpose flour, 2 beaten eggs, 2 tbsp melted butter, and 1/4 tsp salt",
+    "Add minced garlic to the flour mixture and knead lightly until combined",
+    "Heat a small non-stick pan over medium heat",
+    "Drop spoonfuls of the mixture into the pan and cook until crisp and golden (about 2 minutes per side)",
+    "Remove and serve immediately"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "venezuelan",
+    "garlic",
+    "fritters",
+    "snack",
+    "crisp",
+    "high-protein"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "crisp-venezuelan-garlic-fritters",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-venezuelan-garlic-fritters",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T07:39:04Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crisp",
+    "mood": "light",
+    "technique": "knead",
+    "primaryIngredient": "garlic clove",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "garlic",
+    "descriptor": "Crisp",
+    "dishForm": "Fritters"
+  }
+}
