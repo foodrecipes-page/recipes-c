@@ -1,0 +1,86 @@
+{
+  "title": "Crispy British Chicken Curry",
+  "description": "A spicy, crispy chicken curry with a British twist, using Madras paste and a reduction that gives a midnight-craving comfort glow.",
+  "cuisine": "British-Indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Skinless chicken breast",
+      "amount": "500g",
+      "notes": "cut into bite-sized pieces and pat dry for crispiness"
+    },
+    {
+      "name": "Madras curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Plain Greek yogurt",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh coriander",
+      "amount": "1 tbsp",
+      "notes": "chopped, optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Pat the chicken dry with paper towels to help it crisp up.",
+    "Heat 1 tbsp of oil in a large skillet over medium-high heat; add the chicken and sear until golden on all sides, about 5 minutes. Remove and set aside.",
+    "Reduce the heat to medium and add another tbsp of oil to the same skillet. Sauté onion, garlic, and ginger until softened, about 3 minutes.",
+    "Stir in the Madras curry paste and cook for 1 minute until fragrant.",
+    "Return the chicken to the pan and pour in the coconut milk, stirring to combine. Bring to a gentle simmer.",
+    "Reduce the heat to low, cover, and let the curry bubble slowly for 12-15 minutes, or until the chicken reaches an internal temperature of 75°C (165°F).",
+    "Stir in the Greek yogurt and lemon juice, then uncover and simmer for another 2 minutes to thicken slightly.",
+    "Season with salt to taste, sprinkle with fresh coriander, and serve immediately over rice or with a side of crusty bread."
+  ],
+  "slug": "crispy-british-chicken-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-british-chicken-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:01:28Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crisp",
+    "mood": "midnight-craving",
+    "technique": "reduce",
+    "primaryIngredient": "madras paste",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "chicken",
+    "descriptor": "Crispy",
+    "dishForm": "Curry"
+  }
+}
