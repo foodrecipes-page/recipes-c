@@ -1,0 +1,80 @@
+{
+  "title": "Creamy Malaysian Broiled Chicken",
+  "description": "A rich, umami-packed dish featuring broiled chicken with creamy coconut milk sauce, perfect for low-fat meals.",
+  "cuisine": "malaysian",
+  "diet": [
+    "low-fat",
+    "umami"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "150g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200ml",
+      "notes": "full-fat, refrigerated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "15ml",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "200mg",
+      ": ": ", "
+    }
+  ],
+  "instructions": [
+    "Preheat broiler to high heat.",
+    "Season chicken with soy sauce and garlic; broil for 8 minutes until cooked.",
+    "In a bowl, mix coconut milk, soy sauce, and chili flakes until smooth.",
+    "Sauce the broiled chicken with the creamy mixture.",
+    "Let rest for 2 minutes before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "malaysian",
+    "creamy",
+    "broiled",
+    "lowfat",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 25,
+    "carbs": 12,
+    "fat": 15
+  },
+  "slug": "creamy-malaysian-cream-broil",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-malaysian-cream-broil",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T00:41:26Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "creamy",
+    "mood": "indulgent",
+    "technique": "broil",
+    "primaryIngredient": "cream",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "cream",
+    "descriptor": "creamy",
+    "dishForm": "broil"
+  }
+}
