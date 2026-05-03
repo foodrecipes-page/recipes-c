@@ -1,0 +1,109 @@
+{
+  "title": "Creamy British Mushroom Salad",
+  "description": "A fresh, herb‑laden salad featuring sautéed mushrooms tossed in a silky red‑wine‑vinegar cream dressing, perfect for a crowd‑pleasing British lunch.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mixed salad leaves (rocket, spinach, arugula)",
+      "amount": "100 g"
+    },
+    {
+      "name": "Button mushrooms, cleaned and sliced",
+      "amount": "250 g"
+    },
+    {
+      "name": "Shallot, finely diced",
+      "amount": "1 small"
+    },
+    {
+      "name": "Garlic clove, minced",
+      "amount": "1"
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh chives, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Red wine vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Greek yogurt, plain",
+      "amount": "100 g"
+    },
+    {
+      "name": "Fresh thyme, sprigs",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt and freshly ground black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Wash all salad leaves thoroughly and pat dry; place them in a large bowl.",
+    "Clean the mushrooms with a damp paper towel and slice them into even pieces.",
+    "Heat a non‑stick skillet over medium heat and add a splash of olive oil.",
+    "Add the sliced mushrooms, shallot, and garlic; sauté for about 6–7 minutes, stirring occasionally, until the mushrooms are golden and the shallot is translucent.",
+    "Remove from heat and let the mixture cool slightly.",
+    "In a small bowl, whisk together the Greek yogurt, red wine vinegar, Dijon mustard, lemon juice, chopped parsley, chives, thyme, and a pinch of salt and pepper until well combined.",
+    "Fold the sautéed mushrooms into the dressing, ensuring even coating.",
+    "Toss the dressed mushrooms with the prepared salad leaves, season with additional salt and pepper if needed, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british-dish",
+    "mushroom-salad",
+    "creamy-dressing",
+    "nut-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 13,
+    "carbs": 14,
+    "fat": 38
+  },
+  "slug": "creamy-british-mushroom-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-british-mushroom-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:32:48Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "creamy",
+    "mood": "crowd-pleaser",
+    "technique": "saute",
+    "primaryIngredient": "red wine vinegar",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Mushrooms",
+    "descriptor": "Creamy",
+    "dishForm": "Salad"
+  }
+}

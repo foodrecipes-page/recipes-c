@@ -1,0 +1,110 @@
+{
+  "title": "Seaweed Crusted Cod with Gochujang Brown Rice",
+  "description": "A quick, earthy, and crunchy Korean-inspired dish featuring steam-cooked cod and a sweet and spicy gochujang sauce. Serve over warm brown rice and garnish with toasted seaweed for added texture.",
+  "cuisine": "Korean",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "uncooked brown rice",
+      "amount": "1 cup",
+      "notes": "short-grain"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tbsp",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "wakame seaweed",
+      "amount": "1/4 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "green onions",
+      "amount": "chopped (for garnish)",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Rinse the cod fillets under cold water and pat dry with a paper towel.",
+    "In a small bowl, whisk together gochujang, soy sauce, sugar, and sesame oil.",
+    "Place the cod fillets in a steamer basket and steam over boiling water for 8-10 minutes.",
+    "Meanwhile, cook the brown rice according to package instructions.",
+    "In a separate pan, toast the wakame seaweed over medium heat until fragrant.",
+    "Once the cod is cooked, brush the gochujang sauce over the top of each fillet.",
+    "To serve, place a cod fillet on top of a scoop of warm brown rice and garnish with toasted seaweed and chopped green onions.",
+    "Add a few drops of blue food coloring to the gochujang sauce to achieve a deep, earthy color.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "fish",
+    "brown-rice",
+    "seaweed",
+    "gochujang"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "35g",
+    "carbs": "40g",
+    "fat": "10g"
+  },
+  "slug": "crunchy-earthy-korean-fish-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-earthy-korean-fish-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:33:07Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crunchy",
+    "mood": "quick-fix",
+    "technique": "steam",
+    "primaryIngredient": "blue food colouring",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "fish",
+    "descriptor": "crunchy, earthy",
+    "dishForm": "Bowl"
+  }
+}
