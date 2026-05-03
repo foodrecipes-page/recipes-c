@@ -1,0 +1,117 @@
+{
+  "title": "Crispy Malaysian Tofu Soup",
+  "description": "Fresh, crisp, monsoon Malaysian dish featuring a vegetable stock cube, simmered to perfection and high-protein-friendly.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "high-protein"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Extra-firm tofu",
+      "amount": "250g",
+      "notes": "diced and pan‑fried until crisp"
+    },
+    {
+      "name": "Vegetable stock cube",
+      "amount": "1 cube",
+      "notes": "dissolved in 400ml water"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Bean sprouts",
+      "amount": "100g",
+      "notes": "washed"
+    },
+    {
+      "name": "Shiitake mushrooms",
+      "amount": "50g",
+      "notes": "sliced"
+    },
+    {
+      "name": "Green onions",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tsp",
+      "notes": "minced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt & pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a wok or deep pan over medium heat and add 1 tsp sesame oil.",
+    "Add the diced tofu and fry until all sides are golden and crisp, then remove and set aside.",
+    "In the same pan, add minced ginger and garlic, stir until fragrant (about 30s).",
+    "Add sliced carrots and shiitake mushrooms, cook for 2 min until slightly softened.",
+    "Pour in the dissolved vegetable stock, bring to a gentle boil.",
+    "Stir in 1 tbsp soy sauce and 1 tsp lime juice, season with salt and pepper; reduce heat and simmer for 5 min.",
+    "Add bean sprouts and chopped green onions, simmer for another 2 min until sprouts just wilt.",
+    "Return the fried tofu to the pan, heat through for 1 min, then remove from heat.",
+    "Serve hot in bowls, garnishing with extra green onions if desired.",
+    "Enjoy with a side of steamed rice or a light salad if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "high-protein",
+    "malaysian",
+    "quick",
+    "comfort-food",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "crispy-malaysian-tofu-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-malaysian-tofu-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:11:05Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crisp",
+    "mood": "monsoon",
+    "technique": "simmer",
+    "primaryIngredient": "vegetable stock cube",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "tofu",
+    "descriptor": "Crispy",
+    "dishForm": "Soup"
+  }
+}
