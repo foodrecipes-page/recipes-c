@@ -1,0 +1,102 @@
+{
+  "title": "Crispy Spanish Baby Squid Croquettes",
+  "description": "A romantic Spanish dish featuring crispy baby squid, perfect for a special occasion. This dairy-free-friendly recipe combines citrusy flavors with a crunchy exterior and tender interior.",
+  "cuisine": "Spanish",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baby squid",
+      "amount": "1 pound",
+      "notes": "cleaned and chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chickpea flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the chopped baby squid, lemon juice, olive oil, garlic, onion, smoked paprika, salt, and black pepper. Mix well.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "In a separate bowl, whisk together the chickpea flour and water until smooth.",
+    "Add the chickpea flour mixture to the squid mixture and stir until just combined. Be careful not to overmix.",
+    "Using your hands, shape the mixture into small patties, about 1 1/2 inches in diameter and 1/2 inch thick.",
+    "Heat about 1/2 inch of olive oil in a large skillet over medium-high heat until it reaches 350°F.",
+    "Carefully place the patties in the hot oil and fry for about 3-4 minutes on each side, or until golden brown and crispy.",
+    "Remove the croquettes from the oil with a slotted spoon and drain on paper towels.",
+    "Serve the croquettes hot, garnished with lemon wedges and chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "spanish-cuisine",
+    "crispy",
+    "romantic",
+    "dairy-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "crispy-spanish-baby-squid-croquettes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-spanish-baby-squid-croquettes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T22:22:24Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crispy",
+    "mood": "romantic",
+    "technique": "fold",
+    "primaryIngredient": "baby squid",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "baby squid",
+    "descriptor": "citrusy crispy",
+    "dishForm": "Croquettes"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "title": "Crispy Sour Irish Pork Bake",
+  "description": "A comforting Irish-inspired bake featuring seasoned pork chops wrapped in tangy cabbage and sauerkraut, finished with a crisp breadcrumb crust for a touch of crunch.",
+  "cuisine": "Irish",
+  "diet": [
+    "egg-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bone-in pork chops",
+      "amount": "4 (about 1.5 inch thick)"
+    },
+    {
+      "name": "sauerkraut",
+      "amount": "1 cup",
+      "notes": "drained"
+    },
+    {
+      "name": "green or red cabbage",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "½ teaspoon"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "½ cup"
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "½ cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Pat the pork chops dry and season both sides with salt, pepper, and smoked paprika.",
+    "In a shallow dish, whisk the flour with a splash of water to create a thick paste.",
+    "Coat each pork chop in the flour paste, then dredge in panko breadcrumbs, pressing lightly to adhere.",
+    "Heat 1 tablespoon of olive oil in an oven‑proof skillet over medium‑high heat and sear the chops until golden brown, about 2–3 minutes per side.",
+    "Transfer the seared chops to a baking dish and set aside.",
+    "In the same skillet, add the remaining olive oil, then sauté the sauerkraut, cabbage, apple cider vinegar, lemon juice, thyme, and a pinch of salt for 5 minutes, until the vegetables soften.",
+    "Spread the vegetable mixture evenly over the pork chops in the baking dish.",
+    "Bake in the preheated oven for 20–25 minutes, or until the pork reaches an internal temperature of 160°F (71°C) and the breadcrumb topping is crisp.",
+    "Let the bake rest for 5 minutes before serving to allow juices to redistribute.",
+    "Serve warm, optionally garnished with fresh thyme or a squeeze of lemon."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sick-day",
+    "pork",
+    "bake",
+    "crisp",
+    "sour",
+    "egg-free",
+    "dairy-free",
+    "irish"
+  ],
+  "nutrition": {
+    "calories": 487,
+    "protein": 38,
+    "carbs": 25,
+    "fat": 27
+  },
+  "slug": "crispy-sour-irish-pork-bake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-sour-irish-pork-bake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:22:20Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crisp",
+    "mood": "sick-day",
+    "technique": "bake",
+    "primaryIngredient": "pork chops",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "pork",
+    "descriptor": "Crispy Sour",
+    "dishForm": "Bake"
+  }
+}
