@@ -1,0 +1,112 @@
+{
+  "title": "Crunchy Spicy Ukrainian Sweet Potato Bowl",
+  "description": "A sweet, crunchy, post‑workout bowl that blends tender sous‑vide chicken with roasted sweet potatoes and chickpeas, finished with a zesty apple‑cider dressing.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sweet potatoes",
+      "amount": "600g",
+      "notes": "diced"
+    },
+    {
+      "name": "Extra‑virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sweet potatoes"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 cup",
+      "notes": "cooked, drained"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for chickpeas and dressing"
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "350g"
+    },
+    {
+      "name": "Shredded cabbage",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Shredded carrot",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous‑vide water bath to 150°F (65°C).",
+    "Season the chicken breasts with smoked paprika, chili powder, garlic powder, black pepper, and a pinch of salt substitute. Place in a vacuum‑sealed bag with a light drizzle of olive oil and cook sous‑vide for 90 minutes.",
+    "While the chicken cooks, toss the diced sweet potatoes with 2 tbsp of olive oil, smoked paprika, chili powder, garlic powder, black pepper, and salt substitute. Roast in a 425°F (220°C) oven for 25 minutes, turning halfway.",
+    "In a separate bowl, coat the chickpeas with 2 tbsp olive oil, smoked paprika, chili powder, garlic powder, black pepper, and a pinch of salt substitute, then spread on a baking sheet and roast in the same oven for 20 minutes.",
+    "Whisk the apple cider vinegar with 1 tsp olive oil and a pinch of black pepper to make a quick dressing.",
+    "When the chicken is done, remove it from the bag, pat dry, and sear in a hot skillet for 1–2 minutes on each side to develop color.",
+    "Assemble the bowl by layering shredded cabbage, shredded carrot, roasted sweet potatoes, roasted chickpeas, and sliced seared chicken.",
+    "Drizzle the apple‑cider dressing over the bowl, toss gently, and serve immediately. Garnish with fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "post-workout",
+    "low-sodium",
+    "sous-vide",
+    "sweet-potato",
+    "spicy",
+    "crunchy",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 670,
+    "protein": 38,
+    "carbs": 84,
+    "fat": 22
+  },
+  "slug": "crunchy-spicy-ukrainian-sweet-potato-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-spicy-ukrainian-sweet-potato-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:18:26Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crunchy",
+    "mood": "post-workout",
+    "technique": "sous-vide",
+    "primaryIngredient": "hot chilli powder",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Sweet Potato",
+    "descriptor": "Crunchy Spicy",
+    "dishForm": "Bowl"
+  }
+}
