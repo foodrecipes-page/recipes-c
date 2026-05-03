@@ -1,0 +1,107 @@
+{
+  "title": "Crispy Ethiopian Chicken Burger",
+  "description": "A spicy, crispy Ethiopian chicken burger that delivers a salty, molten bite with a double-fry crunch, perfect for a quick weeknight meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "whole30",
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "600g"
+    },
+    {
+      "name": "Berbere spice mix",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "Almond flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Basil leaves",
+      "amount": "handful, chopped"
+    },
+    {
+      "name": "Lettuce leaves",
+      "amount": "4 large"
+    },
+    {
+      "name": "Hot sauce",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "In a bowl, combine chicken, berbere, salt, pepper, garlic powder, and half the olive oil; mash until well mixed.",
+    "Mix egg and remaining olive oil; fold into chicken mixture; then stir in almond flour until thickened.",
+    "Form the mixture into 4 equal patties, about 2 cm thick, and place on a parchment-lined tray.",
+    "Bake the patties for 15 minutes until firm but still slightly pink inside.",
+    "Heat 3 cups of oil in a deep pan to 170°C (340°F); once hot, reduce heat to 150°C (300°F).",
+    "Fry the patty halves for 3 minutes each, then transfer to a paper towel to drain.",
+    "Increase the oil temperature to 190°C (375°F) and fry each patty again for 2 minutes until golden and crispy.",
+    "While the second fry finishes, place the lettuce leaves on plates, top with basil, then add fried patty.",
+    "Drizzle hot sauce over the patty and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "double-fry",
+    "easy",
+    "low-carb",
+    "salty",
+    "weeknight",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 437,
+    "protein": 50,
+    "carbs": 2,
+    "fat": 25
+  },
+  "slug": "crispy-ethiopian-chicken-burger",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-ethiopian-chicken-burger",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:44:59Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "molten",
+    "mood": "weeknight",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "basil leaves",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Crispy",
+    "dishForm": "Burger"
+  }
+}
