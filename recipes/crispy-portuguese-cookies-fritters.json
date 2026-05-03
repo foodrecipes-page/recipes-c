@@ -1,0 +1,102 @@
+{
+  "title": "Crispy Portuguese Cookie Fritters",
+  "description": "Tangy, peppery cookies battered and fried until golden, served hot with a squeeze of lemon for a quick, crispy snack.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "nut-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Fresh paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "Unsalted butter, melted",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 cup (for frying)"
+    }
+  ],
+  "instructions": [
+    "In a bowl, whisk together flour, sugar, baking powder, salt, paprika, and pepper.",
+    "In a separate bowl, beat the egg and stir in the milk and melted butter.",
+    "Pour the wet mixture into the dry ingredients and stir until just combined; the batter should be thick but pourable.",
+    "Heat the oil in a deep skillet or pot over medium-high (around 180°C/350°F) until hot; test with a small drop of batter—it should sizzle immediately.",
+    "Drop heaping teaspoons of batter into the oil, spacing them about 2 inches apart; do not overcrowd.",
+    "Fry for 2–3 minutes on each side until golden brown and crisp; use tongs to flip.",
+    "Remove fritters with a slotted spoon and drain on paper towels.",
+    "Serve hot, optionally dusted with a pinch of sea salt and accompanied by a wedge of lemon.",
+    "Repeat with remaining batter; keep finished fritters warm in a 90°C/200°F oven if desired.",
+    "Enjoy immediately for best crispness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "portuguese",
+    "snack",
+    "fried",
+    "cookie-fritters",
+    "nut-free",
+    "peppery",
+    "crisp"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 6,
+    "carbs": 38,
+    "fat": 10
+  },
+  "slug": "crispy-portuguese-cookies-fritters",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-portuguese-cookies-fritters",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:45:50Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crisp",
+    "mood": "light",
+    "technique": "fry",
+    "primaryIngredient": "cookies",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Cookies",
+    "descriptor": "Crispy",
+    "dishForm": "Fritters"
+  }
+}
