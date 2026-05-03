@@ -1,0 +1,104 @@
+{
+  "title": "Crispy Croatian Potato Hash",
+  "description": "Savory, crispy post‑workout dish with tangy red wine vinegar and crunchy pickles, perfect for a quick lunch or dinner.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Russet potatoes",
+      "amount": "800 g",
+      "notes": "about 4 medium"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "Pickles (cornichons or dill pickles)",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Butter",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Red wine vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "¼ tsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped, optional"
+    }
+  ],
+  "instructions": [
+    "Wash and dice the potatoes into ½‑inch cubes.",
+    "Bring a pot of salted water to a boil and blanch the potatoes for 3 minutes; drain and pat dry with paper towels.",
+    "Heat olive oil and butter in a large skillet over medium‑high heat until hot.",
+    "Add the potatoes to the skillet, cooking for 6‑7 minutes and turning occasionally until golden and crispy.",
+    "Add the diced onion and cook for 3 minutes until translucent.",
+    "Stir in the pickles, smoked paprika, salt, and pepper; cook for another 2 minutes.",
+    "Drizzle the red wine vinegar over the mixture, toss to coat, and cook for 1 more minute.",
+    "Transfer to a serving dish and sprinkle with fresh parsley if desired. Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "croatian",
+    "potato-dish",
+    "post-workout",
+    "crispy",
+    "savory",
+    "quick",
+    "vinegar",
+    "pickles"
+  ],
+  "nutrition": {
+    "calories": 274,
+    "protein": 3,
+    "carbs": 33,
+    "fat": 10
+  },
+  "slug": "crispy-croatian-potato-hash",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-croatian-potato-hash",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:27:21Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crispy",
+    "mood": "post-workout",
+    "technique": "pickle",
+    "primaryIngredient": "red wine vinegar",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "potato",
+    "descriptor": "Crispy",
+    "dishForm": "Hash"
+  }
+}
