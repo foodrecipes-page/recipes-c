@@ -1,0 +1,93 @@
+{
+  "title": "Crisp Italian Pears Pasta",
+  "description": "A sweet, crisp Italian dish featuring braised pears and pasta, low-calorie and perfect for showcasing fresh ingredients.",
+  "cuisine": "italian",
+  "diet": [
+    "low-calorie",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pear",
+      "amount": "1 large (about 200g)",
+      "notes": "ripe, sweet variety like Bartlett"
+    },
+    {
+      "name": "whole wheat pasta",
+      "amount": "150g",
+      "notes": "use for a low-calorie, high-fiber base"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin for flavor"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "1 tbsp",
+      ": ": "notes"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": "for a touch of sweetness"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "a pinch",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Boil 150g whole wheat pasta in salted water until al dente; drain and set aside.",
+    "Dice 1 large pear into small cubes; add to a pan with 2 tbsp olive oil and 1 tbsp balsamic vinegar.",
+    "Braise the pear cubes over medium heat for 5 minutes, stirring occasionally, until tender-crisp.",
+    "Add 1 tsp honey and a pinch of salt and black pepper; cook for 2 minutes more, stirring gently.",
+    "Mix the braised pears with the drained pasta in a bowl; garnish with extra olive oil and a drizzle of balsamic vinegar."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "sweet",
+    "crisp",
+    "low-calorie",
+    "vegan",
+    "pear",
+    "pasta",
+    "braised"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 32,
+    "fat": 10
+  },
+  "slug": "crisp-italian-pears-pasta",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-italian-pears-pasta",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T05:23:48Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crisp",
+    "mood": "show-off",
+    "technique": "braise",
+    "primaryIngredient": "pears",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "pears",
+    "descriptor": "Crisp",
+    "dishForm": "Pasta"
+  }
+}
