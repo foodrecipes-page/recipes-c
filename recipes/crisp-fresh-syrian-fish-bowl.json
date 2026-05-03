@@ -1,0 +1,106 @@
+{
+  "title": "Crisp, Fresh Syrian Fish Bowl",
+  "description": "A rich and crispy weeknight dish from Syria, featuring dill, steam, and low-fat-friendly ingredients.",
+  "cuisine": "Syrian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Firm White Fish (Cod or Tilapia)",
+      "amount": "4 fillets, 6 oz each",
+      "notes": "Skin removed"
+    },
+    {
+      "name": "Dill",
+      "amount": "1/4 cup fresh, chopped",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup fresh, chopped",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced",
+      "notes": "For steaming fish"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp",
+      "notes": "For brushing fish"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Bulghur Wheat",
+      "amount": "1 cup",
+      "notes": "Cooked according to package instructions"
+    },
+    {
+      "name": "Chopped Tomatoes",
+      "amount": "1 cup",
+      "notes": "Canned or fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat steam basket to 160°F (71°C).",
+    "Season fish with salt and black pepper. Brush both sides with olive oil.",
+    "Steam fish for 8-10 minutes, or until cooked through.",
+    "Meanwhile, cook bulghur wheat according to package instructions.",
+    "In a small bowl, mix together lemon juice, garlic, and chopped parsley.",
+    "To assemble the bowls, place a cooked fish fillet on the bottom, followed by a scoop of bulghur wheat, chopped tomatoes, and a drizzle of lemon-garlic sauce.",
+    "Garnish with chopped fresh dill and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "syrian",
+    "low-fat",
+    "fish",
+    "bulghur",
+    "lemon"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "crisp-fresh-syrian-fish-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-fresh-syrian-fish-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:51:57Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crisp",
+    "mood": "weeknight",
+    "technique": "steam",
+    "primaryIngredient": "dill",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Fish",
+    "descriptor": "Crisp, Fresh",
+    "dishForm": "Bowl"
+  }
+}
