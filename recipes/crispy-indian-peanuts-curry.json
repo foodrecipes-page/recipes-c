@@ -1,0 +1,112 @@
+{
+  "title": "Crispy Indian Peanuts Curry",
+  "description": "A dense, salty Andhra-inspired curry packed with roasted peanuts, perfect for a post-workout meal.",
+  "cuisine": "Indian (Andhra)",
+  "diet": [
+    "vegetarian",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Unsalted roasted peanuts",
+      "amount": "200g",
+      "notes": "roasted separately"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Mustard seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1 medium (120g)"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "3 (15g)"
+    },
+    {
+      "name": "Ginger, grated",
+      "amount": "1 tbsp (15g)"
+    },
+    {
+      "name": "Tomato puree",
+      "amount": "200g"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt, to taste",
+      "amount": "~1 tsp"
+    },
+    {
+      "name": "Fresh coriander leaves, chopped",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (392°F). Spread peanuts on a baking sheet and roast for 8 minutes, turning halfway until lightly browned and fragrant. Set aside.",
+    "In a deep pan, heat coconut oil over medium heat. Add mustard and cumin seeds; when they begin to pop, add the chopped onions.",
+    "Cook onions, stirring frequently, until golden brown, about 5-7 minutes.",
+    "Add minced garlic and grated ginger; sauté for another minute until aromatic.",
+    "Stir in tomato puree, turmeric, and coriander powder. Cook, stirring, until the mixture thickens and the oil separates, about 5 minutes.",
+    "Add the roasted peanuts and a splash of water (≈50 ml) to reach desired thickness. Season with salt to taste.",
+    "Simmer the curry gently for 8 minutes, allowing flavors to meld and the peanuts to absorb the spices.",
+    "Stir in the chopped fresh coriander leaves, reserving a few for garnish.",
+    "(Optional) Transfer the hot curry into a preheated tandoor or an oven set to 240°C. Roast for 2 minutes to crisp the tops, or simply sprinkle a drizzle of ghee for extra crunch.",
+    "Serve hot with steamed rice or flatbread, garnished with remaining coriander."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "high-protein",
+    "tandoor",
+    "peanuts",
+    "curry",
+    "dense",
+    "salty",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 26,
+    "carbs": 26,
+    "fat": 63
+  },
+  "slug": "crispy-indian-peanuts-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-indian-peanuts-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:58:56Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "dense",
+    "mood": "post-workout",
+    "technique": "tandoor",
+    "primaryIngredient": "peanuts",
+    "diet": "vegetarian",
+    "region": "andhra",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "peanuts",
+    "descriptor": "Crispy",
+    "dishForm": "Curry"
+  }
+}

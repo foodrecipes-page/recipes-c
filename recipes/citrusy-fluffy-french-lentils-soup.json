@@ -1,0 +1,116 @@
+{
+  "title": "Citrusy Fluffy French Lentils Soup",
+  "description": "A vibrant, Jain-friendly lentil soup infused with lemon and orange, featuring blanched green and red lentils for a fluffy texture.",
+  "cuisine": "French",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green lentils",
+      "amount": "1 cup",
+      "notes": "rinsed"
+    },
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "Jain-friendly"
+    },
+    {
+      "name": "celery stalk",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon",
+      "amount": "1",
+      "notes": "zest and juice"
+    },
+    {
+      "name": "orange",
+      "amount": "1",
+      "notes": "zest and juice"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the green and red lentils under cold water until the water runs clear.",
+    "Bring 2 cups of water to a rapid boil in a medium pot; add the lentils, simmer for 2 minutes to blanch, then drain and set aside.",
+    "Heat the olive oil in the same pot over medium heat; add the chopped celery and sauté for 2 minutes until softened.",
+    "Stir in the cumin, coriander, and turmeric; cook for 30 seconds until fragrant.",
+    "Add the blanched lentils back into the pot and stir for 1 minute to coat with spices.",
+    "Pour in the vegetable broth, bring to a rolling boil, then reduce heat to a gentle simmer; cover and cook for 20 minutes until the lentils are tender.",
+    "Add the lemon zest, orange zest, lemon juice, and orange juice; stir well and let simmer uncovered for 5 minutes to meld flavors.",
+    "Season with salt to taste.",
+    "Remove from heat and use an immersion blender to purée 3/4 of the soup until silky smooth, leaving a quarter still chunky for texture.",
+    "Return the soup to the pot, gently reheat, and adjust seasoning if needed before serving.",
+    "Garnish each bowl with a sprinkle of fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "lentil",
+    "fluffy",
+    "jain-friendly",
+    "vegan",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 45,
+    "fat": 6
+  },
+  "slug": "citrusy-fluffy-french-lentils-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-fluffy-french-lentils-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:58:39Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "fluffy",
+    "mood": "solo-dinner",
+    "technique": "blanch",
+    "primaryIngredient": "green red lentils",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "lentils",
+    "descriptor": "Citrusy Fluffy",
+    "dishForm": "Soup"
+  }
+}
