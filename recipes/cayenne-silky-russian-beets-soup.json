@@ -1,0 +1,120 @@
+{
+  "title": "Cayenne Silky Russian Beets Soup",
+  "description": "A velvety, tangy beet soup with a fiery kick of cayenne, served steaming and vegan-friendly.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "4 medium (≈800 g)",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium (≈100 g)",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "parsnip",
+      "amount": "1 small (≈100 g)",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium (≈100 g)",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups (≈960 ml)"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 Tbsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "¼ tsp"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "2 Tbsp (≈30 ml)"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tsp",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "fresh dill sprigs",
+      "amount": "for garnish",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Steam the diced beets in a medium pot for 15 minutes until tender, then set aside to cool slightly.",
+    "Heat 1 Tbsp of oil in a large pot over medium heat. Sauté onion and garlic until translucent, about 3 minutes.",
+    "Add carrot and parsnip, cooking for 5 minutes until they begin to soften.",
+    "Return the beets to the pot, then pour in vegetable broth and add vinegar, cayenne, salt, and black pepper.",
+    "Bring the mixture to a boil, reduce heat, and simmer for 20 minutes to meld flavors.",
+    "Use an immersion blender to puree the soup until silky smooth. (Alternatively, blend in batches in a blender.)",
+    "Stir in coconut cream and chopped dill, adjusting seasoning if needed.",
+    "Heat through gently, ensuring the soup does not boil to preserve the silky texture.",
+    "Serve hot, garnished with fresh dill sprigs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sour-soup",
+    "cayenne",
+    "silky",
+    "egg-free",
+    "beet",
+    "russian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 9
+  },
+  "slug": "cayenne-silky-russian-beets-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/cayenne-silky-russian-beets-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:24:50Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "silky",
+    "mood": "festive",
+    "technique": "steam",
+    "primaryIngredient": "cayenne pepper",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beets",
+    "descriptor": "Cayenne Silky",
+    "dishForm": "Soup"
+  }
+}
