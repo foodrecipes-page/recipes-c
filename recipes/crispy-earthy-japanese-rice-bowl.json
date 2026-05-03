@@ -1,0 +1,106 @@
+{
+  "title": "Crispy Earthy Japanese Rice Bowl",
+  "description": "A low‑sodium, post‑workout bowl with fluffy rice, sautéed shiitake mushrooms, spinach, and a tangy rice wine glaze, topped with toasted sesame seeds for a crisp finish.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-sodium",
+    "high-protein",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Japanese short‑grain rice",
+      "amount": "1 cup (200 g)"
+    },
+    {
+      "name": "Water",
+      "amount": "1 1/4 cups (250 ml)"
+    },
+    {
+      "name": "Rice wine (mirin)",
+      "amount": "2 tbsp (30 ml)"
+    },
+    {
+      "name": "Low‑sodium soy sauce (tamari)",
+      "amount": "1 tbsp (15 ml)"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp (5 g)"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp (5 ml)"
+    },
+    {
+      "name": "Fresh ginger, minced",
+      "amount": "1 tsp (5 g)"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "1 tsp (5 g)"
+    },
+    {
+      "name": "Shiitake mushrooms, sliced",
+      "amount": "100 g"
+    },
+    {
+      "name": "Fresh spinach",
+      "amount": "1 cup (30 g)"
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "1 tbsp (10 g)"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice under cold water until clear, then drain.",
+    "Combine rice, water, and rice wine in a saucepan. Bring to a boil over medium‑high heat, reduce to low, cover, and simmer for 15 minutes. Remove from heat, let sit covered 10 minutes, then fluff with a fork.",
+    "While the rice cooks, heat sesame oil in a skillet over medium heat. Add minced ginger and garlic, sauté 30 seconds until fragrant.",
+    "Add sliced mushrooms to the skillet, stir‑fry 3‑4 minutes until browned. Stir in soy sauce and sugar, cooking another minute.",
+    "Fold in the spinach, cooking until just wilted, about 1‑2 minutes. Remove from heat.",
+    "To assemble, place the fluffy rice in a bowl, top with the mushroom‑spinach mixture, and drizzle any remaining sauce over the top.",
+    "Sprinkle toasted sesame seeds over the bowl and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "low-sodium",
+    "high-protein",
+    "vegetarian",
+    "rice-bowl",
+    "post-workout",
+    "japanese",
+    "crisp",
+    "earthy",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 11,
+    "carbs": 48,
+    "fat": 11
+  },
+  "slug": "crispy-earthy-japanese-rice-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-earthy-japanese-rice-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:11:10Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crisp",
+    "mood": "post-workout",
+    "technique": "temper",
+    "primaryIngredient": "rice wine",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "rice",
+    "descriptor": "Crispy Earthy",
+    "dishForm": "Bowl"
+  }
+}
