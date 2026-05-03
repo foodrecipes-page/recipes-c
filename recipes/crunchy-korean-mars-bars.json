@@ -1,0 +1,87 @@
+{
+  "title": "Crunchy Korean Mars Bars",
+  "description": "A herbal, crunchy, indulgent snack that marinated with a twist of Korean flavors. Perfect for keto-friendly cravings.",
+  "cuisine": "korean",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "korean barley",
+      "amount": "1 cup",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1 tsp",
+      "notes": "for heat"
+    },
+    {
+      "name": "ginger powder",
+      "amount": "1/2 tsp",
+      "notes": "for herbal crunch"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tbsp",
+      "notes": "keto-friendly"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": "for balance"
+    }
+  ],
+  "instructions": [
+    "Soak korean barley overnight in water.",
+    "Drain and rinse barley under cold water.",
+    "Heat coconut oil in a pan over medium heat.",
+    "Add chili flakes, ginger powder, sugar, and salt; stir for 1 minute.",
+    "Add soaked barley; cook until crispy (5-7 minutes).",
+    "Remove from heat and let cool for 5 minutes.",
+    "Serve immediately for a crunchy snack."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 7,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "crunchy",
+    "mars-bars",
+    "keto",
+    "snack",
+    "herbal"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 2,
+    "carbs": 22,
+    "fat": 14
+  },
+  "slug": "crunchy-korean-mars-bars",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-korean-mars-bars",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T03:51:02Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crunchy",
+    "mood": "indulgent",
+    "technique": "marinate",
+    "primaryIngredient": "mars bar",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Mars",
+    "descriptor": "Crunchy",
+    "dishForm": "Bars"
+  }
+}
