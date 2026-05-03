@@ -1,0 +1,110 @@
+{
+  "title": "Crispy Ukrainian Beetroot Bowl",
+  "description": "A kid-friendly, vegetarian bowl featuring roasted beetroot, fluffy quinoa, crunchy chickpeas, and a tangy gochujang glaze that delivers a satisfying sour kick.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "2 medium (about 300g)",
+      "notes": "roasted at 200°C until tender"
+    },
+    {
+      "name": "quinoa",
+      "amount": "1 cup dry (185g)",
+      "notes": "rinse and cook in water until fluffy"
+    },
+    {
+      "name": "cooked chickpeas",
+      "amount": "1 cup (240g)"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium (sliced)"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium (julienned)"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves (minced)"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "cilantro",
+      "amount": "2 tbsp (chopped)"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 200°C (400°F).",
+    "Wash and trim the beets, then cut them into thin, bite‑size wedges.",
+    "Toss the beet wedges with 2 teaspoons of sesame oil, salt, and pepper; place them in the air fryer basket.",
+    "Air‑fry the beets for 12 minutes, shaking halfway through, until crisp and caramelized.",
+    "While the beets cook, rinse quinoa under cold water and cook in 2 cups of water until fluffy, about 15 minutes.",
+    "In a small bowl, whisk together gochujang, lime juice, soy sauce, minced garlic, and 1 tablespoon of sesame oil to create the sauce.",
+    "Heat a skillet over medium heat; add chickpeas and the gochujang sauce, cooking for 3–4 minutes until the chickpeas are heated through and coated.",
+    "Drain any excess sauce, then mix the chickpeas with the cooked quinoa; season lightly with salt and pepper.",
+    "To assemble, place a scoop of quinoa‑chickpea mixture in each bowl, then top with roasted beet wedges, cucumber slices, carrot sticks, a sprinkle of sesame seeds, and chopped cilantro.",
+    "Serve immediately, or chill for a bit if you prefer a cooler bite."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "air-fry",
+    "beets",
+    "kid-friendly",
+    "sour",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 55,
+    "fat": 10
+  },
+  "slug": "crispy-ukrainian-beetroot-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-ukrainian-beetroot-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:35:33Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crispy",
+    "mood": "kid-friendly",
+    "technique": "air-fry",
+    "primaryIngredient": "gochujang",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "beetroot",
+    "descriptor": "Crispy",
+    "dishForm": "Bowl"
+  }
+}
