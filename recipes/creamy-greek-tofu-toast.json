@@ -1,0 +1,97 @@
+{
+  "title": "Creamy Greek Tofu Toast",
+  "description": "A bitter, creamy, cozy Greek-inspired dish featuring red food coloring for a vibrant twist, made with FODMAP-friendly ingredients.",
+  "cuisine": "greek",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "firm tofu, drained"
+    },
+    {
+      "name": "red food coloring",
+      "amount": "10 drops",
+      "notes": "for a vibrant red hue"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      ": ": ", "
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "dill",
+      "amount": "1 tsp",
+      "notes": "freshly chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Drain firm tofu and press gently to remove excess water.",
+    "In a small bowl, mix red food coloring with 10 drops of water for even distribution.",
+    "Blend tofu, lemon juice, garlic, dill, salt, and pepper until smooth.",
+    "Slowly add the red food coloring mixture to the tofu blend, stirring until fully incorporated.",
+    "Pour the mixture onto toasted bread slices and let it set for 2 minutes.",
+    "Serve immediately for a cozy, bitter-creamy experience."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "tofu",
+    "fodmap-friendly",
+    "snack",
+    "creamy",
+    "bitter",
+    "red"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 12,
+    "carbs": 15,
+    "fat": 14
+  },
+  "slug": "creamy-greek-tofu-toast",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-greek-tofu-toast",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T01:39:45Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "creamy",
+    "mood": "cozy",
+    "technique": "toast",
+    "primaryIngredient": "red food colouring",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "tofu",
+    "descriptor": "creamy",
+    "dishForm": "Toast"
+  }
+}
