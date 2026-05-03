@@ -1,0 +1,98 @@
+{
+  "title": "Crispy Moroccan Almond Cookies",
+  "description": "Salty, crumbly keto cookies infused with ground cardamom and fried to a delicate crisp, perfect for a quick Moroccan-inspired snack.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "keto",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Almond flour",
+      "amount": "1 cup (120 g)",
+      "notes": "Unsifted"
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1 tsp (2.5 g)",
+      "notes": ""
+    },
+    {
+      "name": "Ground cardamom",
+      "amount": "1/2 tsp (1.2 g)",
+      "notes": "Freshly ground for best aroma"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1/2 tsp (2 g)",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/2 cup (113 g)",
+      "notes": "Melted, room temperature"
+    },
+    {
+      "name": "Egg yolk",
+      "amount": "1 large (17 g)",
+      "notes": "Only the yolk for richness"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp (2.5 g)",
+      "notes": "Kosher or sea salt"
+    },
+    {
+      "name": "Slivered almonds",
+      "amount": "1/2 cup (50 g)",
+      "notes": "Roasted lightly before mixing"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a large bowl, whisk almond flour, cinnamon, cardamom, baking powder and salt until well combined.",
+    "Add melted butter and egg yolk to the dry mixture and stir until a sticky dough forms.",
+    "Fold in the slivered almonds, distributing them evenly.",
+    "Using a tablespoon, scoop the dough onto a parchment‑lined baking sheet, spacing them 2 inches apart.",
+    "Bake for 12-14 minutes, or until the edges are golden and the centers are set.",
+    "Remove from oven and let cool on the sheet for 5 minutes before transferring to a wire rack to cool completely. They will crisp up as they cool.",
+    "Serve immediately or store in an airtight container at room temperature for up to 2 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "almond-cookies",
+    "quick",
+    "moroccan",
+    "salty"
+  ],
+  "nutrition": {
+    "calories": 225,
+    "protein": 5,
+    "carbs": 4,
+    "fat": 21
+  },
+  "slug": "crispy-moroccan-almond-cookies",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-moroccan-almond-cookies",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:38:57Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crumbly",
+    "mood": "quick-fix",
+    "technique": "fry",
+    "primaryIngredient": "ground cardomom",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Almonds",
+    "descriptor": "Crispy",
+    "dishForm": "Cookies"
+  }
+}
