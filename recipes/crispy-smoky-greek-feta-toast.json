@@ -1,0 +1,110 @@
+{
+  "title": "Crispy Smoky Greek Feta Toast",
+  "description": "A quick, low‑carb snack that layers smoky, salty feta on toast, finished with crushed herbs and a hint of citrus.",
+  "cuisine": "Greek",
+  "diet": [
+    "low-carb",
+    "keto-friendly",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "low‑carb sourdough bread",
+      "amount": "4 slices",
+      "notes": "or high‑protein bread"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "200 g",
+      "notes": "crumbled, aged"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "grated Parmesan",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon",
+      "amount": "1/2",
+      "notes": "zest and juice"
+    },
+    {
+      "name": "salt & pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200 °C (400 °F).",
+    "Brush both sides of each bread slice with olive oil and place on a baking sheet.",
+    "Bake for 5 minutes, until the bread is lightly toasted.",
+    "In a small bowl, combine crumbled feta, smoked paprika, oregano, minced garlic, cayenne pepper, grated Parmesan, lemon zest, and a squeeze of lemon juice. Season with salt and pepper.",
+    "Remove the toast from the oven and spoon the feta mixture over each slice, spreading evenly.",
+    "Return to the oven and bake for an additional 5–7 minutes, until the feta is golden and crispy.",
+    "Remove from oven, sprinkle chopped parsley on top, and let cool for a minute.",
+    "Serve immediately as a warm, savory snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "snack",
+    "low-carb",
+    "keto-friendly",
+    "greek",
+    "quick-and-easy",
+    "toasted"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 9,
+    "carbs": 4,
+    "fat": 13
+  },
+  "slug": "crispy-smoky-greek-feta-toast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-smoky-greek-feta-toast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:14:51Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crunchy",
+    "mood": "monsoon",
+    "technique": "roast",
+    "primaryIngredient": "toast",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "feta",
+    "descriptor": "Crispy Smoky",
+    "dishForm": "Toast"
+  }
+}
