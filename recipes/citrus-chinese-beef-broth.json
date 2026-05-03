@@ -1,0 +1,117 @@
+{
+  "title": "Citrus Chinese Beef Broth",
+  "description": "A bright, aromatic broth featuring tender beef cubes, citrus zest and juice, and a subtle blend of Asian aromatics.",
+  "cuisine": "Chinese",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef chuck (cubed)",
+      "amount": "1 lb",
+      "notes": "trim excess fat"
+    },
+    {
+      "name": "water",
+      "amount": "6 cups",
+      "notes": "low-sodium if preferred"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "2 inches",
+      "notes": "peeled & sliced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4",
+      "notes": "crushed"
+    },
+    {
+      "name": "star anise",
+      "amount": "2",
+      "notes": "crushed lightly"
+    },
+    {
+      "name": "cinnamon stick",
+      "amount": "1",
+      "notes": "broken into pieces"
+    },
+    {
+      "name": "lime",
+      "amount": "1",
+      "notes": "juice & zest"
+    },
+    {
+      "name": "orange",
+      "amount": "1/2",
+      "notes": "zest only"
+    },
+    {
+      "name": "light soy sauce",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "scallions",
+      "amount": "2",
+      "notes": "sliced for garnish"
+    },
+    {
+      "name": "cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large stockpot, combine water, ginger, garlic, star anise, cinnamon, lime zest, orange zest, soy sauce and fish sauce.",
+    "Bring to a gentle boil, then reduce to a simmer and add beef cubes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrus",
+    "beef",
+    "broth",
+    "high-protein",
+    "light",
+    "solo-dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "citrus-chinese-beef-broth",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrus-chinese-beef-broth",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:16:13Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "light",
+    "mood": "solo-dinner",
+    "technique": "rest",
+    "primaryIngredient": "beef stock",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "beef",
+    "descriptor": "Citrus",
+    "dishForm": "Broth"
+  }
+}
