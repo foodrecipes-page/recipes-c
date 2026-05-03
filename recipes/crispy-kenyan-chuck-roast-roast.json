@@ -1,0 +1,97 @@
+{
+  "title": "Crispy Kenyan Chuck Roast Roast",
+  "description": "A spicy, flaky one‑pan roast that uses sous‑vide to lock in tenderness and a quick sear for crisp edges. Whole30 friendly with a bright lime‑cilantro finish.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chuck roast",
+      "amount": "2 lbs"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Kenyan spice blend",
+      "amount": "2 tbsp",
+      "notes": "blend of paprika, cayenne, cumin, coriander, cloves, salt, pepper"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tbsp",
+      "notes": "minced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh lime",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Season the chuck roast on all sides with the Kenyan spice blend and a pinch of sea salt.",
+    "Place the roast in a vacuum‑seal bag with the minced ginger and garlic, and vacuum seal.",
+    "Preheat a sous‑vide water bath to 140°F (60°C) and cook the roast for 2 hours.",
+    "Remove the roast from the bag, pat dry with paper towels, and let rest for 5 minutes.",
+    "Heat olive oil in a cast‑iron pan over high heat until shimmering.",
+    "Sear the roast on all sides until a deep brown crust forms, about 2 minutes per side.",
+    "Add beef broth to the pan, bring to a gentle simmer, and reduce the liquid by half to concentrate flavor.",
+    "Stir in fresh lime juice, then sprinkle with chopped cilantro before serving.",
+    "Slice the roast thinly against the grain and plate with a side of sautéed greens."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flaky",
+    "kenyan",
+    "one-pan",
+    "quick",
+    "sous-vide",
+    "spicy",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 2600,
+    "protein": 210,
+    "carbs": 5,
+    "fat": 180
+  },
+  "slug": "crispy-kenyan-chuck-roast-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-kenyan-chuck-roast-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:44:14Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "flaky",
+    "mood": "quick-fix",
+    "technique": "sous-vide",
+    "primaryIngredient": "chuck roast",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "chuck roast",
+    "descriptor": "Crispy",
+    "dishForm": "Roast"
+  }
+}
