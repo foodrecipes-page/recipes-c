@@ -1,0 +1,86 @@
+{
+  "title": "Crispy Tunisian White Bread Flatbread",
+  "description": "A umami-rich, dairy-free flatbread that's crispy on the outside and tender inside, perfect as a side or snack.",
+  "cuisine": "tunisian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "250g",
+      "notes": "plain, unbleached"
+    },
+    {
+      "name": "warm water",
+      "amount": "150ml",
+      "notes": "room temperature, not boiling"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "for umami balance"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1.5g",
+      "notes": "for lift and crispiness"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for moisture and flavor"
+    }
+  ],
+  "instructions": [
+    "In a bowl, mix warm water, salt, and baking powder until dissolved.",
+    "Add flour gradually, stirring until a shaggy dough forms.",
+    "Knead for 5 minutes until smooth and elastic.",
+    "Let rest for 10 minutes.",
+    "Divide dough into 2 equal portions.",
+    "Shape each portion into a ball, then flatten into thin discs.",
+    "Heat a non-stick pan over medium heat with olive oil.",
+    "Cook flatbreads for 2 minutes per side until golden and crispy.",
+    "Serve warm, drizzled with a bit of olive oil for extra crunch."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "tunisian",
+    "flatbread",
+    "crispy",
+    "umami",
+    "dairy-free",
+    "vegetarian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "crispy-tunisian-white-bread-flatbread",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-tunisian-white-bread-flatbread",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T06:23:32Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crunchy",
+    "mood": "one-pot",
+    "technique": "bhuna",
+    "primaryIngredient": "white bread mix",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "white bread",
+    "descriptor": "crispy",
+    "dishForm": "flatbread"
+  }
+}
