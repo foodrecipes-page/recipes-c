@@ -1,0 +1,88 @@
+{
+  "title": "Crispy Tangy Shortening Pilaf",
+  "description": "A diabetic-friendly Slovakian dish featuring shortening for a crispy texture and tangy flavors, prepared with minimal added sugars.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shortening",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion, finely chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic clove, minced",
+      "amount": "1"
+    },
+    {
+      "name": "canned crushed tomatoes",
+      "amount": "14 oz can (about 50g)"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "unsweetened applesauce",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, melt the shortening over medium heat.",
+    "Add onion and garlic; sauté until soft, about 3 minutes.",
+    "Pour in crushed tomatoes with their juice, add water, salt, pepper, and unsweetened applesauce. Stir well to combine.",
+    "Transfer mixture into an oven-safe dish that can withstand high temperatures (like glass or ceramic).",
+    "Bake at 375°F (190°C) for about 20 minutes or until the edges start to crisp up.",
+    "Let it cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "slovakian",
+    "crispy",
+    "tangy",
+    "shortening",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 130,
+    "protein": 2,
+    "carbs": 18,
+    "fat": 9
+  },
+  "slug": "crispy-tangy-shortening-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-tangy-shortening-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T09:08:48Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crisp",
+    "mood": "adventurous",
+    "technique": "pressure-cook",
+    "primaryIngredient": "shortening",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "shortening",
+    "descriptor": "tangy crisp",
+    "dishForm": "Pilaf"
+  }
+}
