@@ -1,0 +1,107 @@
+{
+  "title": "Creamy Dutch Rye Stew",
+  "description": "A sweet, creamy, comforting Dutch dish made with rye bread, simmered to perfection for a pescatarian-friendly meal.",
+  "cuisine": "dutch",
+  "diet": [
+    "pescatarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rye bread",
+      "amount": "4 slices",
+      "notes": "unsalted, crusty"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "carrot",
+      ": ": ", "
+    },
+    {
+      "name": "celery",
+      "amount": "1 stalk",
+      "notes": "diced"
+    },
+    {
+      "name": "potato",
+      "amount": "1 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "dutch process cream",
+      "amount": "1 cup",
+      "notes": "full-fat, for creaminess"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons",
+      "notes": "for sweetness"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large pot, sauté onion, carrot, and celery in 1 tablespoon of oil until soft.",
+    "Add potato, vegetable broth, thyme, and salt. Bring to a boil, then reduce heat and simmer for 20 minutes until potato is tender.",
+    "Add rye bread slices and simmer for 5 minutes to soften.",
+    "Stir in Dutch process cream and sugar until smooth and creamy. Simmer gently for 3 minutes.",
+    "Adjust seasoning with salt and pepper to taste. Serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 30,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dutch",
+    "creamy",
+    "rye",
+    "stew",
+    "sweet",
+    "pescatarian",
+    "vegan",
+    "comforting"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 18
+  },
+  "slug": "creamy-dutch-rye-stew",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-dutch-rye-stew",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T03:23:42Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "creamy",
+    "mood": "comforting",
+    "technique": "simmer",
+    "primaryIngredient": "rye bread",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "rye",
+    "descriptor": "creamy",
+    "dishForm": "stew"
+  }
+}
