@@ -1,0 +1,102 @@
+{
+  "title": "Crispy Uruguayan Potato Salad",
+  "description": "A savory, crisp salad that combines golden fried potatoes with fresh herbs, corn, and chickpeas for a romantic, vegetarian-friendly dish.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Russet potatoes",
+      "amount": "800 g",
+      "notes": "cubed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 small",
+      "notes": "finely diced"
+    },
+    {
+      "name": "Corn kernels",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Boil the diced potatoes in salted water until just tender, about 10 minutes; drain and let cool to room temperature.",
+    "Heat the olive oil in a large skillet over medium-high heat and add the cooled potatoes, seasoning with salt and pepper; sauté, turning occasionally, until golden and crispy, about 8 minutes.",
+    "Transfer the crispy potatoes to a large bowl and let them rest for 5 minutes.",
+    "Add the diced red onion, corn kernels, chickpeas, parsley, lemon juice, and smoked paprika to the bowl; gently toss to combine and distribute the flavors.",
+    "Cover and refrigerate the salad for at least 20 minutes to allow the flavors to meld and the potatoes to firm up a little.",
+    "Serve chilled or at room temperature, garnished with extra parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "uruguayan",
+    "potato-salad",
+    "vegetarian",
+    "lunch",
+    "crispy",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 310,
+    "protein": 6.3,
+    "carbs": 48.8,
+    "fat": 11.8
+  },
+  "slug": "crispy-uruguayan-potato-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-uruguayan-potato-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:25:26Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crisp",
+    "mood": "romantic",
+    "technique": "simmer",
+    "primaryIngredient": "salt",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Potato",
+    "descriptor": "Crispy",
+    "dishForm": "Salad"
+  }
+}
