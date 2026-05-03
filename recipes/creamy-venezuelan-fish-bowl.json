@@ -1,0 +1,95 @@
+{
+  "title": "Creamy Venezuelan Fish Bowl",
+  "description": "A silky, comforting bowl that blends poached fish, aromatic rice, and a creamy coconut sauce, accented with a hint of bitterness from bitter cassava leaves.",
+  "cuisine": "Venezuelan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white rice",
+      "amount": "2 cups uncooked"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "firm white fish fillets",
+      "amount": "4, 6 oz each"
+    },
+    {
+      "name": "seasoning (salt and pepper)",
+      "amount": "1 tsp salt, 1/2 tsp pepper"
+    },
+    {
+      "name": "avocado and bitter cassava leaves",
+      "amount": "optional garnish, sliced avocado 1, chopped cassava leaves 1 cup"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice under cold water until the water runs clear, then cook it in a pot with 4 cups of water, a pinch of salt, bring to a boil, reduce heat, simmer uncovered for 15 minutes, and fluff with a fork.",
+    "While the rice cooks, heat 2 tbsp of olive oil in a large skillet over medium heat and add the diced onion, cooking until translucent, about 5 minutes.",
+    "Add the minced garlic to the skillet, cook for 30 seconds, then stir in the diced coconut milk, lime juice, and chopped cilantro, bringing to a gentle simmer.",
+    "Season the sauce with the salt and pepper mixture, then gently place the fish fillets into the sauce, cover, and cook until the fish flakes easily and reaches an internal temperature of 145°F, about 8 minutes.",
+    "Carefully remove the cooked fish fillets from the skillet, shred them with two forks, and return the shredded fish to the sauce, mixing gently to coat.",
+    "Divide the cooked rice among four bowls, spoon the fish and creamy sauce over the rice, and top each bowl with sliced avocado and a sprinkle of bitter cassava leaves if desired.",
+    "Garnish each bowl with a few extra cilantro leaves for freshness.",
+    "Serve immediately for the best flavor and texture."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "dash-friendly",
+    "fish",
+    "quick",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 45,
+    "carbs": 45,
+    "fat": 20
+  },
+  "slug": "creamy-venezuelan-fish-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-venezuelan-fish-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:01:07Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "silky",
+    "mood": "comforting",
+    "technique": "poach",
+    "primaryIngredient": "rice",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Fish",
+    "descriptor": "Creamy",
+    "dishForm": "Bowl"
+  }
+}
