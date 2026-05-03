@@ -1,0 +1,104 @@
+{
+  "title": "Crispy Mediterranean Tomato Flatbread",
+  "description": "A kid-friendly, high‑protein flatbread that’s crispy, tangy, and packed with Mediterranean flavors.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "whole wheat pita breads",
+      "amount": "4"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "medium tomatoes",
+      "amount": "4, diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small, thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt & pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "2 tbsp, chopped"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/4 cup, crumbled",
+      "notes": "optional, for extra protein"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Brush each pita with olive oil, then place on a baking sheet lined with parchment paper.",
+    "Toss diced tomatoes, sliced onion, minced garlic, oregano, paprika, salt, and pepper in a bowl. Spread the mixture evenly over the oiled pitas.",
+    "Drizzle balsamic vinegar over the toppings, then bake for 10 minutes until the edges are crisp and the tomatoes are tender.",
+    "Remove from oven and sprinkle chopped basil and crumbled feta over the warm flatbreads.",
+    "Let cool for a minute, then cut into wedges and serve immediately.",
+    "For extra crispiness, place the flatbreads in a preheated skillet for 1–2 minutes per side before serving.",
+    "Optional: Offer a side of Greek yogurt or tzatziki as a dipping sauce.",
+    "Enjoy the crunchy, savory bite that even kids love!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kid-friendly",
+    "high-protein",
+    "mediterranean",
+    "flatbread",
+    "baking",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 9
+  },
+  "slug": "crispy-mediterranean-tomato-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-mediterranean-tomato-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:02:23Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crispy",
+    "mood": "kid-friendly",
+    "technique": "deglaze",
+    "primaryIngredient": "tomato",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "tomato",
+    "descriptor": "Crispy",
+    "dishForm": "Flatbread"
+  }
+}
