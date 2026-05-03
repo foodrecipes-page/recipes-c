@@ -1,0 +1,120 @@
+{
+  "title": "Citrusy Juicy Irish Beef Dumplings",
+  "description": "A twist on traditional Irish beef stew, these dumplings add a burst of citrus flavor and a pop of color.",
+  "cuisine": "Irish",
+  "diet": [
+    "raw"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "500g beef mince",
+      "amount": "1 package",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "1 large onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "1 orange",
+      "amount": "1",
+      "notes": "zest and juice"
+    },
+    {
+      "name": "1 lemon",
+      "amount": "1",
+      "notes": "zest and juice"
+    },
+    {
+      "name": "2 tbsp tomato paste",
+      "amount": "2",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "2 cups beef broth",
+      "amount": "4",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "2 tbsp all-purpose flour",
+      "amount": "2",
+      "notes": "for thickening"
+    },
+    {
+      "name": "2 tsp pink food coloring",
+      "amount": "2",
+      "notes": "optional, for color"
+    },
+    {
+      "name": "2 tsp dried thyme",
+      "amount": "2",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "1 tsp salt",
+      "amount": "1",
+      "notes": "to taste"
+    },
+    {
+      "name": "1 tsp black pepper",
+      "amount": "1",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large pan, heat 2 tbsp oil over medium-high heat. Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the beef mince and cook, breaking it up with a spoon, until browned, about 5-7 minutes.",
+    "Add the tomato paste, thyme, salt, and pepper. Cook for 1-2 minutes, until fragrant.",
+    "Add the beef broth and bring to a simmer.",
+    "Reduce heat to low and let cook, covered, for 10-15 minutes.",
+    "Meanwhile, mix together the flour and a splash of water to form a slurry.",
+    "Add the slurry to the pot and simmer for an additional 2-3 minutes, until thickened.",
+    "Using a spoon, drop small balls of the dumpling mixture (see below) into the pot and cook for 5-7 minutes, until cooked through.",
+    "Serve hot, garnished with additional orange and lemon zest, if desired.",
+    "To make the dumpling mixture, mix together the beef mince, orange zest, lemon zest, and pink food coloring (if using)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "irish",
+    "citrus",
+    "dumplings",
+    "pink"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": "35g",
+    "carbs": "20g",
+    "fat": "25g"
+  },
+  "slug": "citrusy-juicy-irish-beef-dumplings",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-juicy-irish-beef-dumplings",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T18:09:23Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "juicy",
+    "mood": "monsoon",
+    "technique": "dum",
+    "primaryIngredient": "pink food colouring",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "beef",
+    "descriptor": "citrusy juicy",
+    "dishForm": "Dumplings"
+  }
+}
