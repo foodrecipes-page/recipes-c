@@ -1,0 +1,111 @@
+{
+  "title": "Crispy Crunchy Peruvian Fish Stir-fry",
+  "description": "A savory, paleo-friendly Peruvian-inspired stir‑fry featuring lightly battered fish fillets tossed with crunchy corn and fresh herbs, perfect for feeding a crowd.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sea bass fillets, 4 oz each",
+      "amount": "4 fillets (16 oz total)"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "potato starch",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "large egg",
+      "amount": "1"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "spices (cumin, smoked paprika, salt, pepper)",
+      "amount": "1 tsp total",
+      "notes": "1 tsp each of cumin, smoked paprika, salt, pepper"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "onion, sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "roasted corn kernels",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cilantro, chopped",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Pat the fish fillets dry with paper towels and set aside.",
+    "In a shallow bowl, whisk together almond flour, potato starch, and the spice blend until well combined.",
+    "In a second bowl, beat the egg until smooth.",
+    "Dip each fillet first in the flour mixture, then in the beaten egg, and back into the flour mixture to create a double coat.",
+    "Heat olive oil and coconut oil together in a large skillet over medium‑high heat until shimmering.",
+    "Add the coated fillets and fry for 3‑4 minutes per side, or until golden brown and cooked through. Transfer to a plate lined with paper towels.",
+    "In the same skillet, add the minced garlic and sliced onion; sauté for 2 minutes until the onion is translucent.",
+    "Add the sliced bell pepper and cook for another 2 minutes.",
+    "Stir in the roasted corn kernels and cook for 1 minute, then return the fish fillets to the pan and toss gently to combine.",
+    "Drizzle lime juice over the stir‑fry, sprinkle chopped cilantro, and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-calorie",
+    "paleo-friendly",
+    "seafood",
+    "stir-fry",
+    "crunchy",
+    "crowd-pleaser",
+    "peruvian-inspired"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 32,
+    "carbs": 26,
+    "fat": 21
+  },
+  "slug": "crispy-crunchy-peruvian-fish-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-crunchy-peruvian-fish-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:16:00Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crumbly",
+    "mood": "crowd-pleaser",
+    "technique": "stir-fry",
+    "primaryIngredient": "fish fillet",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "fish",
+    "descriptor": "Crispy Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}

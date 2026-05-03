@@ -1,0 +1,109 @@
+{
+  "title": "Crunchy Thai Peanuts Curry",
+  "description": "A nutty, crunchy Thai curry that blends creamy coconut milk with a fragrant peanut sauce, topped with toasted peanuts for extra texture.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp, grated"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1, sliced"
+    },
+    {
+      "name": "broccoli florets",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsweetened coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "smooth peanut butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "red curry paste",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "soy sauce or tamari",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "crushed roasted peanuts",
+      "amount": "2 tbsp",
+      "notes": "for topping"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large skillet over medium heat.",
+    "Add onion, garlic, and ginger; sauté 3–4 minutes until fragrant.",
+    "Add red bell pepper and broccoli; cook 5 minutes until vegetables are tender‑crisp.",
+    "Stir in red curry paste and cook 1 minute to toast the spices.",
+    "Pour in coconut milk, peanut butter, and soy sauce; stir until the peanut butter fully melts and the sauce thickens.",
+    "Reduce heat to low and simmer 5 minutes, stirring occasionally.",
+    "Add lime juice, taste, and adjust seasoning with extra soy sauce if needed.",
+    "Serve over cooked jasmine rice (optional) and sprinkle with crushed roasted peanuts and fresh basil leaves."
+  ],
+  "prepTimeMin": 12,
+  "cookTimeMin": 10,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "vegan",
+    "curry",
+    "peanut",
+    "crunchy",
+    "plant-based",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 14,
+    "carbs": 60,
+    "fat": 40
+  },
+  "slug": "crunchy-thai-peanuts-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-thai-peanuts-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:16:17Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crunchy",
+    "mood": "crowd-pleaser",
+    "technique": "temper",
+    "primaryIngredient": "unsweetened coconut milk",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "peanuts",
+    "descriptor": "Crunchy",
+    "dishForm": "Curry"
+  }
+}
