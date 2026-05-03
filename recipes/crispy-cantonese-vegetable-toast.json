@@ -1,0 +1,119 @@
+{
+  "title": "Crispy Cantonese Vegetable Toast",
+  "description": "A light, salty, kid-friendly Cantonese toast topped with a crunchy mix of diced vegetables, finished with a savory soy-sesame glaze.",
+  "cuisine": "Cantonese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "whole wheat bread",
+      "amount": "8 slices",
+      "notes": "preferably thicker cut for crunch"
+    },
+    {
+      "name": "vegetable shortening",
+      "amount": "2 tablespoon",
+      "notes": "used for frying"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 cup",
+      "notes": "finely diced"
+    },
+    {
+      "name": "celery",
+      "amount": "1 cup",
+      "notes": "finely diced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 cup",
+      "notes": "finely diced, any color"
+    },
+    {
+      "name": "onion",
+      "amount": "1 cup",
+      "notes": "finely diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoon",
+      "notes": "use low-sodium if desired"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon",
+      "notes": "adds aroma"
+    },
+    {
+      "name": "white pepper",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "scallions",
+      "amount": "2 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 teaspoon",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "In a small bowl mix the diced carrots, celery, bell pepper, onion, and minced garlic with soy sauce, sesame oil, white pepper, and a pinch of sugar if using.",
+    "Heat a non-stick skillet over medium heat and add the vegetable shortening until melted.",
+    "Add the vegetable mixture to the skillet and sauté for 3-4 minutes until tender but still crisp.",
+    "While the veggies cook, toast the bread slices in a toaster or on a separate pan until golden brown.",
+    "When the vegetables are ready, spread them evenly over each toasted slice.",
+    "Sprinkle chopped scallions and toasted sesame seeds over the top for added texture and flavor.",
+    "Optional: Drizzle a little extra sesame oil over the assembled toast before serving.",
+    "Plate the toast slices and serve immediately for best crunch.",
+    "If desired, cut the toast into small bite-sized pieces for younger kids."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "kid-friendly",
+    "cantonese",
+    "toast",
+    "snack",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "crispy-cantonese-vegetable-toast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-cantonese-vegetable-toast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:31:07Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "light",
+    "mood": "kid-friendly",
+    "technique": "toast",
+    "primaryIngredient": "vegetable shortening",
+    "diet": "vegetarian",
+    "region": "cantonese",
+    "cuisineAdjective": "Cantonese",
+    "mainIngredient": "Vegetable",
+    "descriptor": "Crispy",
+    "dishForm": "Toast"
+  }
+}
