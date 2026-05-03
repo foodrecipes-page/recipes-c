@@ -1,0 +1,114 @@
+{
+  "title": "Creamy Jamaican Avocado Bowl",
+  "description": "A fresh, creamy bowl bursting with Jamaican flavors, featuring sweet molasses glaze, tangy pickled cucumber, and a splash of lime juice.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian",
+    "kosher-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ripe avocados",
+      "amount": "2 medium",
+      "notes": "cut in half, remove pit, scoop flesh into a bowl"
+    },
+    {
+      "name": "cooked black beans",
+      "amount": "1 cup",
+      "notes": "canned, rinsed, or freshly cooked"
+    },
+    {
+      "name": "fresh corn kernels",
+      "amount": "1 cup",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "diced ripe mango",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pickled cucumber",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "molasses",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 tsp",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "optional, for drizzling"
+    }
+  ],
+  "instructions": [
+    "Heat a skillet over medium heat and lightly warm the black beans for about 2 minutes, stirring occasionally.",
+    "In a small saucepan, combine coconut milk, molasses, lime juice, grated ginger, and 1 teaspoon of kosher salt. Warm over low heat until the molasses is fully dissolved, about 3 minutes.",
+    "In a large mixing bowl, gently mash the avocado pieces with a fork until creamy but still chunky.",
+    "Fold in the warmed black beans, corn kernels, diced mango, pickled cucumber, and cilantro.",
+    "Pour the molasses‑coconut sauce over the mixture and gently stir until everything is evenly coated.",
+    "Taste and adjust seasoning with additional salt if needed.",
+    "Transfer the bowl to a serving dish or keep in the bowl itself.",
+    "Drizzle with a teaspoon of olive oil, if desired, and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "jamaican",
+    "avocado",
+    "healthy",
+    "kosher-friendly",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 12,
+    "carbs": 55,
+    "fat": 40
+  },
+  "slug": "creamy-jamaican-avocado-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-jamaican-avocado-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:12:17Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "creamy",
+    "mood": "show-off",
+    "technique": "pickle",
+    "primaryIngredient": "molasses",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Avocado",
+    "descriptor": "Creamy",
+    "dishForm": "Bowl"
+  }
+}
