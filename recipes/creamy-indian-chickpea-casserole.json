@@ -1,0 +1,100 @@
+{
+  "title": "Creamy Indian Chickpea Casserole",
+  "description": "A fresh and crumbly brunch-mood Indian (Rajasthani) dish featuring white wine vinegar, slow-cooked to perfection with a high-protein-friendly twist.",
+  "cuisine": "Indian (Rajasthani)",
+  "diet": [
+    "vegan",
+    "pescatarian"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "1 cup dried chickpeas",
+      "amount": "",
+      "notes": "soaked overnight and drained"
+    },
+    {
+      "name": "2 large onions, finely chopped",
+      "amount": ""
+    },
+    {
+      "name": "4 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup ghee or vegan butter",
+      "amount": ""
+    },
+    {
+      "name": "3 medium tomatoes, pureed",
+      "amount": ""
+    },
+    {
+      "name": "2 cups water",
+      "amount": ""
+    },
+    {
+      "name": "1 can (6 oz) diced white kidney beans",
+      "amount": ""
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup white wine vinegar",
+      "amount": ""
+    },
+    {
+      "name": "Salt to taste",
+      "amount": ""
+    },
+    {
+      "name": "Fresh cilantro, chopped (for garnish)",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat ghee in a large pot over medium heat. Add onions and garlic, sauté until soft and translucent.",
+    "Stir in pureed tomatoes, chickpeas, water, white wine vinegar, lime juice, and salt. Bring to a boil, then reduce heat and simmer for 30 minutes.",
+    "In another bowl, mix the drained and cooked chickpeas with the chopped cilantro.",
+    "Preheat oven to 350°F (175°C). Transfer the tomato mixture into a baking dish. Top with the seasoned chickpeas.",
+    "Bake for 20-25 minutes until heated through and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "creamy",
+    "indian",
+    "casseroles",
+    "protein-friendly",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "creamy-indian-chickpea-casserole",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-indian-chickpea-casserole",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T18:10:23Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crumbly",
+    "mood": "brunch-mood",
+    "technique": "slow-cook",
+    "primaryIngredient": "white wine vinegar",
+    "diet": "high-protein",
+    "region": "rajasthani",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "chickpea",
+    "descriptor": "Creamy",
+    "dishForm": "Casserole"
+  }
+}
