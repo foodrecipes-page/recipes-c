@@ -1,0 +1,121 @@
+{
+  "title": "Crunchy Irish Almond Salad",
+  "description": "A nutty, crunchy, kid‑friendly Irish salad featuring fresh greens, roasted almonds, and zesty gherkin relish for a low‑calorie, flavorful lunch.",
+  "cuisine": "Irish",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "baby spinach leaves",
+      "amount": "2 cups (30 g)",
+      "notes": "fresh, washed"
+    },
+    {
+      "name": "almonds, roasted and chopped",
+      "amount": "1/2 cup (60 g)",
+      "notes": "dry‑toasted in a skillet for 3‑4 min"
+    },
+    {
+      "name": "cucumber, diced",
+      "amount": "1 cup (150 g)",
+      "notes": "fresh, peeled if desired"
+    },
+    {
+      "name": "carrots, shredded",
+      "amount": "1/2 cup (50 g)",
+      "notes": "baby carrots fine"
+    },
+    {
+      "name": "red cabbage, shredded",
+      "amount": "1/4 cup (25 g)",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "gherkin relish",
+      "amount": "2 tbsp (30 g)",
+      "notes": "store‑bought or homemade"
+    },
+    {
+      "name": "low‑sodium soy sauce",
+      "amount": "1 tbsp (15 g)",
+      "notes": "optional"
+    },
+    {
+      "name": "extra‑virgin olive oil",
+      "amount": "1 tbsp (15 ml)",
+      "notes": null
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "1 tbsp (15 ml)",
+      "notes": null
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp (5 g)",
+      "notes": "only if kids prefer sweetness"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp (1 g)",
+      "notes": null
+    },
+    {
+      "name": "salt & pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Wash and dry the spinach leaves; place them in a large salad bowl.",
+    "In a dry skillet over medium heat, toast the almonds for 3‑4 minutes, stirring frequently, until lightly golden. Let cool.",
+    "Add the diced cucumber, shredded carrots, and shredded red cabbage to the bowl.",
+    "Stir in the chopped almonds.",
+    "In a small bowl whisk together olive oil, lemon juice, soy sauce, honey, thyme, salt, and pepper until emulsified.",
+    "Pour the dressing over the salad and toss gently to coat all ingredients.",
+    "Top the salad with gherkin relish for an extra burst of tangy flavor.",
+    "Serve immediately or chill in the refrigerator for up to 1 hour before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "kid-friendly",
+    "low-calorie",
+    "salad",
+    "almond",
+    "gherkin",
+    "crunchy",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 163,
+    "protein": 4,
+    "carbs": 9,
+    "fat": 11
+  },
+  "slug": "crunchy-irish-almond-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-irish-almond-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:50:18Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crunchy",
+    "mood": "kid-friendly",
+    "technique": "cure",
+    "primaryIngredient": "gherkin relish",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "almonds",
+    "descriptor": "Crunchy",
+    "dishForm": "Salad"
+  }
+}
