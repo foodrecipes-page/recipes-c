@@ -1,0 +1,94 @@
+{
+  "title": "Palacinky S Plnenom Cesnakom",
+  "description": "These crumbly Slovakian onion pancakes are the perfect comfort food for a sick day. Serve warm with a dollop of sour cream and some pickled mustard seeds.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose gluten-free flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "grated yellow onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "bhuna spice mix",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "melted unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "pickled mustard seeds",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the flour, eggs, sour cream, bhuna spice mix, salt, and black pepper.",
+    "Grate the yellow onion and add it to the bowl. Mix well to combine.",
+    "Heat a non-stick skillet or griddle over medium heat. Brush with melted butter.",
+    "Using a 1/4 cup measuring cup, scoop the batter onto the skillet or griddle.",
+    "Cook for 2-3 minutes or until the edges start to curl and the surface is dry.",
+    "Loosen the pancake with a spatula and flip it over. Cook for another 1-2 minutes or until golden brown.",
+    "Repeat with the remaining batter. Serve warm with a dollop of sour cream and some pickled mustard seeds.",
+    "Serve immediately, or store in an airtight container in the fridge for up to 2 days or freeze for up to 2 months.",
+    "To reheat, cook in a toaster oven at 375°F (190°C) for 5-7 minutes, or until crispy and golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "slovakian",
+    "onion",
+    "pancakes",
+    "comfort-food",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "crumbly-sick-day-slovakian-onion-pancakes",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-sick-day-slovakian-onion-pancakes",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:18:57Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "bhuna",
+    "primaryIngredient": "yellow onion",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "onion",
+    "descriptor": "crumbly, sick-day",
+    "dishForm": "Pancakes"
+  }
+}
