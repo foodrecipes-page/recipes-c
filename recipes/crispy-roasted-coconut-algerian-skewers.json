@@ -1,0 +1,92 @@
+{
+  "title": "Crispy Roasted Coconut Algerian Skewers",
+  "description": "A festive algerian dish featuring unsweetened coconut milk, roasted on skewers with a crispy texture and herbaceous flavor, perfect for breakfast or a snack.",
+  "cuisine": "Algerian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 lb boneless chicken breast",
+      "amount": "2 pieces",
+      "notes": "skin-on"
+    },
+    {
+      "name": "2 cups unsweetened coconut milk",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup fresh parsley, chopped",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup fresh mint leaves, chopped",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Pinch of salt and black pepper",
+      "amount": "as needed",
+      "notes": "to taste"
+    },
+    {
+      "name": "1/4 cup chopped almonds",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Prepare chicken skewers by threading the pieces onto metal or wooden skewers.",
+    "Mix coconut milk, olive oil, parsley, mint leaves, garlic, salt, pepper, and almonds in a bowl. Season with salt and pepper to taste.",
+    "Preheat oven to 400°F (200°C).",
+    "Place chicken skewers on a baking sheet lined with parchment paper or aluminum foil.",
+    "Drizzle the marinade evenly over the chicken and bake for about 35-40 minutes, or until cooked through. You can check doneness by pressing with a fork; it should come out clean.",
+    "Remove from oven and serve warm as an appetizer or snack."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "crispy",
+    "coconut",
+    "herbal",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 45,
+    "fat": 18
+  },
+  "slug": "crispy-roasted-coconut-algerian-skewers",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-roasted-coconut-algerian-skewers",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T17:12:12Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crispy",
+    "mood": "festive",
+    "technique": "roast",
+    "primaryIngredient": "unsweetened coconut milk",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Coconut",
+    "descriptor": "Crispy",
+    "dishForm": "Skewers"
+  }
+}
