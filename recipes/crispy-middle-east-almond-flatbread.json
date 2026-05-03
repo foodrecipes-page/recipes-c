@@ -1,0 +1,112 @@
+{
+  "title": "Crispy MiddleEast Almond Flatbread",
+  "description": "A quick, crunchy flatbread with toasted almond crunch, finished with a splash of sweet sherry for depth—perfect for a lazy Sunday when you crave something salty and satisfying.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "ground almonds",
+      "amount": "2 tbsp",
+      "notes": "finely ground for extra crunch"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lukewarm water",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "plus extra for brushing"
+    },
+    {
+      "name": "sweet sherry",
+      "amount": "1 tbsp",
+      "notes": "adds subtle sweetness"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1 tbsp",
+      "notes": "optional garnish, low FODMAP in this amount"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C) and line a baking sheet with parchment paper.",
+    "Whisk flour, ground almonds, baking powder, and salt in a medium bowl until combined.",
+    "In a separate bowl, combine lukewarm water, olive oil, sweet sherry, oregano, and cumin.",
+    "Pour the wet mixture into the dry ingredients and stir until a shaggy dough forms.",
+    "Transfer dough to the parchment-lined sheet and use a rolling pin to roll it out to about 1/4 inch thickness.",
+    "Cut the dough into squares or triangles using a sharp knife or pizza cutter.",
+    "Brush the tops lightly with a little extra olive oil to promote crisping.",
+    "Bake for 12–15 minutes, flipping halfway, until golden and crisp.",
+    "Remove from oven and sprinkle with chopped parsley if desired. Serve warm.",
+    "Serve immediately or store in an airtight container for up to 2 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "flatbread",
+    "almond",
+    "sherry",
+    "fodmap-friendly",
+    "lazy-sunday",
+    "snack",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 18,
+    "fat": 4
+  },
+  "slug": "crispy-middle-east-almond-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-middle-east-almond-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:37:29Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crunchy",
+    "mood": "lazy-sunday",
+    "technique": "fold",
+    "primaryIngredient": "sweet sherry",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "MiddleEast",
+    "mainIngredient": "Almond",
+    "descriptor": "Crispy",
+    "dishForm": "Flatbread"
+  }
+}
