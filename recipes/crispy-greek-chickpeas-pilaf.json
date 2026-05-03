@@ -1,0 +1,109 @@
+{
+  "title": "Crispy Greek Chickpeas Pilaf",
+  "description": "A salty, silky, kid-friendly Mediterranean dish featuring crispy chickpeas, fluffy quinoa, feta, and sun‑dried tomatoes, all cooked in a savory vegetable‑oil base.",
+  "cuisine": "Mediterranean (Greek)",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cooked chickpeas",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "cooked quinoa",
+      "amount": "1 cup",
+      "notes": "drained"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "crushed red pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "crumbled feta",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped sun‑dried tomatoes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "for pilaf"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp olive oil in a large skillet over medium‑high heat. Add chickpeas, season with salt, pepper, oregano, and crushed red pepper. Cook, stirring, until chickpeas are golden and crispy, about 8 minutes. Remove and set aside.",
+    "In the same skillet, add the remaining 1 tbsp olive oil and diced onion. Sauté until translucent, about 3 minutes.",
+    "Stir in minced garlic and cook for another 30 seconds until fragrant.",
+    "Add cooked quinoa and vegetable broth. Bring to a simmer and cook for 5 minutes, allowing liquid to reduce slightly.",
+    "Fold in chopped sun‑dried tomatoes and crumbled feta, stirring until the feta starts to melt.",
+    "Return crispy chickpeas to the skillet and stir to combine.",
+    "Let the pilaf simmer for an additional 3 minutes to meld flavors.",
+    "Taste and adjust seasoning with salt and pepper.",
+    "Transfer to serving plates and serve warm; garnish with fresh oregano or a squeeze of lemon if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kid-friendly",
+    "high-protein",
+    "vegetarian",
+    "pilaf",
+    "crispy",
+    "greek",
+    "vegetable-oil",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 225,
+    "protein": 8,
+    "carbs": 26,
+    "fat": 11
+  },
+  "slug": "crispy-greek-chickpeas-pilaf",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-greek-chickpeas-pilaf",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:44:36Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "silky",
+    "mood": "kid-friendly",
+    "technique": "steam",
+    "primaryIngredient": "vegetable oil",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Crispy",
+    "dishForm": "Pilaf"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "title": "Crispy Filipino Quinoa Pancakes",
+  "description": "Sweet, crunchy pancakes made with quinoa, pumpkin (dum) flavor, perfect for a brunch mood Filipino brunch.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup (dry)",
+      "notes": "rinsed, cooked until fluffy"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup (dairy or plant)",
+      "notes": "low-fat or whole"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp (gluten-free)"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp (melted)",
+      "notes": "for frying"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Rinse quinoa and cook in 2 cups water until fluffy, about 15 minutes; allow to cool.",
+    "Beat eggs, milk, vanilla, brown sugar, and baking powder until combined.",
+    "Stir in melted coconut oil, then fold in the cooled quinoa until evenly mixed.",
+    "Add toasted sesame seeds and mix gently.",
+    "Heat a non-stick skillet over medium heat and lightly oil the surface with a few drops of coconut oil.",
+    "Pour batter to form pancakes about 3–4 inches in diameter; cook until edges set, about 2–3 minutes.",
+    "Flip the pancakes and cook until the other side is golden and crispy, about 2–3 minutes more.",
+    "Repeat with remaining batter, adding oil as needed to keep pancakes from sticking.",
+    "Serve warm, drizzled with honey, and optionally topped with sliced mango or banana.",
+    "Garnish with a sprinkle of shredded coconut if desired."
+  ],
+  "slug": "crispy-filipino-quinoa-pancakes",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-filipino-quinoa-pancakes",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:44:16Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crunchy",
+    "mood": "brunch-mood",
+    "technique": "dum",
+    "primaryIngredient": "quinoa",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Quinoa",
+    "descriptor": "Crispy",
+    "dishForm": "Pancakes"
+  }
+}
