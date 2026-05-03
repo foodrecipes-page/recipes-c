@@ -1,0 +1,109 @@
+{
+  "title": "Crispy Umami American Chicken Fried Rice",
+  "description": "A nostalgic American dish featuring crispy, umami-rich chicken and rice, perfect for a diabetic-friendly meal. This recipe uses brown rice and controlled sugar content to make it a healthier option.",
+  "cuisine": "American",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "brown rice",
+      "amount": "2 cups",
+      "notes": "cooked and cooled"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of coconut oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned and crispy, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of coconut oil, then add the mushrooms and cook until they release their liquid and start to brown, about 3-4 minutes.",
+    "Add the scallions to the skillet and cook for an additional 1 minute.",
+    "Push the mushroom and scallion mixture to one side of the skillet.",
+    "Pour the beaten eggs into the other side of the skillet and scramble them until cooked through, about 2-3 minutes.",
+    "Mix the eggs with the mushroom and scallion mixture.",
+    "Add the cooked brown rice to the skillet, breaking up any clumps with a spatula.",
+    "Stir in the soy sauce, sesame oil, salt, and pepper, and cook for about 2 minutes, until the rice is well combined with the other ingredients.",
+    "Add the cooked chicken back into the skillet and stir to combine with the rice mixture.",
+    "Deglaze the skillet with a small amount of water if necessary, to get all the crispy bits from the bottom."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "umami",
+    "american",
+    "chicken",
+    "fried-rice",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "crispy-umami-american-chicken-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-umami-american-chicken-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T17:05:37Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crispy",
+    "mood": "nostalgic",
+    "technique": "deglaze",
+    "primaryIngredient": "rice",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Chicken",
+    "descriptor": "Crispy Umami",
+    "dishForm": "Fried Rice"
+  }
+}
