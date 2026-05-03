@@ -1,0 +1,101 @@
+{
+  "title": "Crispy Malaysian Fish Curry",
+  "description": "A flavorful and aromatic Malaysian-inspired fish curry featuring crispy fried fish in a rich and creamy curry sauce, perfect for a monsoon evening. This pescatarian-friendly dish combines the warmth of spices with the comfort of whole milk.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish pieces",
+      "amount": "1 pound",
+      "notes": "any white fish"
+    },
+    {
+      "name": "whole milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a deep frying pan over medium heat.",
+    "Fry the fish pieces until crispy and golden brown, then set aside.",
+    "In the same pan, add more oil if needed, then sauté the cumin seeds until fragrant.",
+    "Add the minced garlic and grated ginger, sauté until the raw smell disappears.",
+    "Add the curry powder and turmeric, stir well to combine.",
+    "Pour in the whole milk, stir constantly to avoid lumps.",
+    "Bring the mixture to a simmer, then reduce the heat to low.",
+    "Add the fried fish pieces back into the curry sauce, braise for 10 minutes.",
+    "Season with salt and lemon juice to taste.",
+    "Serve the crispy fish curry hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian-cuisine",
+    "fish-recipes",
+    "curry-dishes",
+    "monsoon-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "crispy-malaysian-fish-curry",
+  "source": "groq-llama-3.3-70b-versatile",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-malaysian-fish-curry",
+  "providerUsed": "groq-llama-3.3-70b-versatile",
+  "createdAt": "2026-05-03T16:27:33Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crispy",
+    "mood": "monsoon",
+    "technique": "braise",
+    "primaryIngredient": "whole milk",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "fish",
+    "descriptor": "nutty crispy",
+    "dishForm": "Curry"
+  }
+}
