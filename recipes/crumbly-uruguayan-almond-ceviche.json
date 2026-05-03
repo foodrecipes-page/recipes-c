@@ -1,0 +1,102 @@
+{
+  "title": "Crumbly Uruguayan Almond Ceviche",
+  "description": "A floral, low‑carb ceviche featuring fresh tuna coated in almond flour, marinated in white vinegar and lime, and finished with pickled onion for a subtle crunch.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fresh tuna steak",
+      "amount": "200 g",
+      "notes": "sliced 15 mm thick"
+    },
+    {
+      "name": "almond flour",
+      "amount": "40 g",
+      "notes": "for a crumbly crust"
+    },
+    {
+      "name": "white vinegar",
+      "amount": "50 ml",
+      "notes": "70% acidity"
+    },
+    {
+      "name": "lime juice",
+      "amount": "30 ml",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "pickled red onion",
+      "amount": "30 g",
+      "notes": "finely diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "10 ml",
+      "notes": "extra‑virgin"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "10 g",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Pat the tuna steaks dry and sprinkle with salt and pepper.",
+    "Coat each slice evenly with almond flour, tapping off excess.",
+    "In a shallow bowl, whisk together white vinegar, lime juice, olive oil, and a pinch of salt.",
+    "Place the almond‑coated tuna slices into the bowl, ensuring they are submerged; cover and refrigerate for 10 minutes to marinate.",
+    "Remove the tuna from the vinegar bath and pat dry again.",
+    "Arrange the tuna slices on a chilled plate, sprinkle with diced pickled onion and chopped parsley.",
+    "Mildly stir the entire assembly to distribute the flavors; rest for an additional 5 minutes in the fridge.",
+    "Serve cold, optionally alongside a fresh salad of mixed greens for a crisp finish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "cold-dish",
+    "crumbly",
+    "uruguayan",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 531,
+    "protein": 48,
+    "carbs": 8,
+    "fat": 30
+  },
+  "slug": "crumbly-uruguayan-almond-ceviche",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-uruguayan-almond-ceviche",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:20:55Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crumbly",
+    "mood": "solo-dinner",
+    "technique": "pickle",
+    "primaryIngredient": "white vinegar",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Almond",
+    "descriptor": "Crumbly",
+    "dishForm": "Ceviche"
+  }
+}
