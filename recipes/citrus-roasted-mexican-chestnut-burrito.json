@@ -1,0 +1,109 @@
+{
+  "title": "Citrus Roasted Mexican Chestnut Burrito",
+  "description": "A citrusy, fluffy, post‑workout Mexican dish featuring roasted chestnuts and a burst of fresh mango, wrapped in a warm flour tortilla.",
+  "cuisine": "Mexican",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "raw chestnuts",
+      "amount": "10",
+      "notes": "shells removed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "cooked brown rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cooked black beans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "iceberg lettuce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced mango",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "large flour tortillas",
+      "amount": "4"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C). Toss chestnuts with olive oil, smoked paprika, cumin, and chili powder; spread on a baking sheet and roast for 20 minutes, turning halfway, until golden and shells blister. Remove, let cool, then peel and chop into bite‑sized pieces.",
+    "In a skillet over medium heat, warm the cooked brown rice and black beans, seasoning with a pinch of salt and pepper.",
+    "Warm each tortilla in a dry skillet or microwave for 15 seconds until pliable.",
+    "In a large bowl, combine the roasted chestnuts, rice & beans, shredded lettuce, diced mango, lime juice, and cilantro; toss gently to mix.",
+    "Place about 1/4 cup of the mixture onto the center of each tortilla, fold in the sides and roll tightly.",
+    "If desired, sear each burrito seam‑side down in a lightly oiled skillet for 2 minutes per side until golden.",
+    "Slice each burrito diagonally and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "citrus",
+    "post-workout",
+    "nut-free",
+    "fluffy",
+    "chestnut",
+    "roasted",
+    "brown-rice",
+    "black-beans"
+  ],
+  "nutrition": {
+    "calories": 335,
+    "protein": 15,
+    "carbs": 58,
+    "fat": 5
+  },
+  "slug": "citrus-roasted-mexican-chestnut-burrito",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrus-roasted-mexican-chestnut-burrito",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:59:37Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "roast",
+    "primaryIngredient": "cooked chestnut",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chestnut",
+    "descriptor": "Citrus Roasted",
+    "dishForm": "Burrito"
+  }
+}
