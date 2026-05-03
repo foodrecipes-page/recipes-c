@@ -1,0 +1,108 @@
+{
+  "title": "Coconut Hearty French Pork Stir-fry",
+  "description": "A comforting French-inspired stir‑fry that marries tender pork with coconut flakes and savory herbs, all while keeping sodium low for a cozy, hearty meal.",
+  "cuisine": "French",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork tenderloin, sliced",
+      "amount": "500 g"
+    },
+    {
+      "name": "Unsweetened coconut flakes",
+      "amount": "½ cup"
+    },
+    {
+      "name": "Red bell pepper, sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Yellow onion, sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Fresh thyme leaves",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Low‑sodium soy sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "¼ tsp"
+    },
+    {
+      "name": "Fresh parsley, chopped (garnish)",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Whisk low‑sodium soy sauce, Dijon mustard, lemon juice, and black pepper to make the seasoning sauce.",
+    "Heat 1 tablespoon olive oil in a large skillet over medium‑high heat. Add pork slices; brown on all sides, about 4‑5 minutes. Transfer pork to a plate.",
+    "In the same skillet, add remaining tablespoon olive oil. Add sliced onion and bell pepper; cook 3 minutes until softened.",
+    "Add minced garlic and fresh thyme; sauté 30 seconds until fragrant.",
+    "Return pork to the skillet; pour the whisked sauce over and toss to coat.",
+    "Sprinkle coconut flakes over the stir‑fry; cook 2‑3 minutes, stirring, until flakes begin to toast slightly.",
+    "Adjust seasoning if needed; remove from heat.",
+    "Serve hot, garnished with chopped parsley. Pair with steamed green beans or a small portion of brown rice if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stir-fry",
+    "coconut",
+    "low-sodium",
+    "french",
+    "pork",
+    "hearty",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 26,
+    "carbs": 7,
+    "fat": 18
+  },
+  "slug": "coconut-hearty-french-pork-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/coconut-hearty-french-pork-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:29:43Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "dense",
+    "mood": "cozy",
+    "technique": "stir-fry",
+    "primaryIngredient": "coconut flakes",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "pork",
+    "descriptor": "Coconut Hearty",
+    "dishForm": "Stir-fry"
+  }
+}
