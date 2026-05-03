@@ -1,0 +1,98 @@
+{
+  "title": "Crispy Peruvian Shrimp Ceviche",
+  "description": "A bright, fresh ceviche featuring tender shrimp marinated in zesty lime, accented with a touch of fermented fish sauce. The shrimp are then pan‑seared to add a satisfying crisp.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "Mediterranean"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Shrimp, peeled and deveined",
+      "amount": "500g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "Juice of 2 limes"
+    },
+    {
+      "name": "Red onion, thinly sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Red chili (aji amarillo or jalapeño), finely chopped",
+      "amount": "1"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "1 small bunch (≈30g)"
+    },
+    {
+      "name": "Fermented fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Lime zest",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Pat the shrimp dry and season with sea salt, pepper, and lime zest. Let rest while you preheat the pan.",
+    "Heat olive oil over medium‑high heat. Add shrimp in a single layer and sear 1–2 minutes per side until pink and lightly golden. Transfer to a bowl and let cool.",
+    "In a separate bowl, whisk together lime juice, fermented fish sauce, chopped red onion, and finely chopped red chili. Add the cooled shrimp and toss to coat thoroughly. Season with additional salt to taste.",
+    "Refrigerate the mixture for 10 minutes to meld flavors.",
+    "Just before serving, sprinkle toasted sesame seeds and extra chopped cilantro over the ceviche.",
+    "Serve immediately with warm corn chips or crisp lettuce leaves."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crisp",
+    "ceviche",
+    "shrimp",
+    "fresh",
+    "meal-prep",
+    "peruvian",
+    "easy",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 100,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "crispy-peruvian-shrimp-ceviche",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-peruvian-shrimp-ceviche",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:28:23Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crispy",
+    "mood": "meal-prep",
+    "technique": "ferment",
+    "primaryIngredient": "crustaceans",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Crispy",
+    "dishForm": "Ceviche"
+  }
+}
