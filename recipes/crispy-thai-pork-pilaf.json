@@ -1,0 +1,100 @@
+{
+  "title": "Crispy Thai Pork Pilaf",
+  "description": "An earthy and festive Thai dish featuring pork chops caramelized in a nut-free-friendly crispy sauce.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork chops",
+      "amount": "4 pieces",
+      "notes": "preferably bone-in for better flavor"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low sodium if possible"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3, minced",
+      "notes": "for added depth of flavor"
+    },
+    {
+      "name": "shallots",
+      "amount": "2, finely chopped",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon, freshly grated",
+      "notes": "use a microplane for finer texture"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1/2 cup, diced",
+      "notes": "optional, add for extra color and crunch"
+    },
+    {
+      "name": "scallions",
+      "amount": "for garnish",
+      "notes": ""
+    },
+    {
+      "name": "rice vermicelli",
+      "amount": "4 ounces, soaked in hot water until soft",
+      "notes": "ensure they are fully absorbed"
+    }
+  ],
+  "instructions": [
+    "Prepare pork chops by coating them with a light layer of soy sauce and letting them marinate for at least 30 minutes or up to overnight.",
+    "Heat a tablespoon of oil in a large skillet over medium heat. Add minced garlic, finely chopped shallots, and grated ginger; sauté until fragrant, about 2-3 minutes.",
+    "Add diced red bell pepper if using, and cook for another minute. Pour in the soy sauce and lime juice, stir to combine, then add marinated pork chops, skin-side down. Cook for 6-8 minutes per side or until golden-brown on both sides.",
+    "Meanwhile, prepare rice vermicelli by adding hot water to them in a medium-sized pot and simmering until tender but still firm. Drain well and set aside.",
+    "To finish the dish, remove pork chops from skillet and place over low heat; add rice vermicelli into the skillet along with a tablespoon of oil. Cook for about 2-3 minutes stirring occasionally to prevent sticking.",
+    "Serve the crispy Thai Pork Pilaf topped with fresh scallions as garnish."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 30,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "pork",
+    "vermicelli",
+    "nut-free"
+  ],
+  "nutrition": {
+    "calories": 621,
+    "protein": 30,
+    "carbs": 75,
+    "fat": 29
+  },
+  "slug": "crispy-thai-pork-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-thai-pork-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T10:44:21Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crispy",
+    "mood": "festive",
+    "technique": "caramelize",
+    "primaryIngredient": "pork chops",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "pork",
+    "descriptor": "Crispy",
+    "dishForm": "Pilaf"
+  }
+}
