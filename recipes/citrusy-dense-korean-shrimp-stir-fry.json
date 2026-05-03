@@ -1,0 +1,105 @@
+{
+  "title": "Citrusy Dense Korean Shrimp Stir fry",
+  "description": "A pescatarian-friendly Korean dish that combines succulent shrimp, refried beans, and citrus notes in a dense, crowd-pleasing stir-fry. It's perfect for a quick and satisfying dinner.",
+  "cuisine": "Korean",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "refried beans",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "orange marmalade",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the garlic and cook for 1-2 minutes until fragrant.",
+    "Add the shrimp and cook for 2-3 minutes per side until pink and cooked through.",
+    "Remove the shrimp from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of vegetable oil.",
+    "Add the gochujang, soy sauce, and orange marmalade, and stir to combine.",
+    "Add the refried beans and stir to combine with the sauce.",
+    "Add the cooked shrimp back into the skillet and stir to combine with the sauce and refried beans.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with green onions, toasted sesame seeds, and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean-cuisine",
+    "seafood",
+    "stir-fry",
+    "pescatarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "citrusy-dense-korean-shrimp-stir-fry",
+  "source": "groq-llama-3.3-70b-versatile",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-dense-korean-shrimp-stir-fry",
+  "providerUsed": "groq-llama-3.3-70b-versatile",
+  "createdAt": "2026-05-03T16:23:05Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "dense",
+    "mood": "crowd-pleaser",
+    "technique": "stir-fry",
+    "primaryIngredient": "refried beans",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Shrimp",
+    "descriptor": "Citrusy Dense",
+    "dishForm": "Stir-fry"
+  }
+}
