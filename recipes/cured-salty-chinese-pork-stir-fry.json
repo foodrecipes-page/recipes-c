@@ -1,0 +1,107 @@
+{
+  "title": "Cured Salty Chinese Pork Stir-fry",
+  "description": "A quick, dense pork stir-fry that balances salty umami with a sweet twist from a melted Mars bar, all while staying FODMAP-friendly.",
+  "cuisine": "Chinese",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "200 g"
+    },
+    {
+      "name": "sea salt (cure)",
+      "amount": "5 g",
+      "notes": "for dry curing"
+    },
+    {
+      "name": "tamari sauce",
+      "amount": "2 tbsp",
+      "notes": "low-FODMAP soy sauce alternative"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "minced"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Mars bar",
+      "amount": "70 g",
+      "notes": "melted into sauce"
+    },
+    {
+      "name": "water",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Pat the pork belly dry and rub with sea salt, letting it cure for 10 minutes at room temperature.",
+    "Heat a wok over high heat and add sesame oil.",
+    "Add the pork belly, searing all sides until golden brown, about 3–4 minutes.",
+    "Reduce heat to medium, then toss in minced ginger and red chili flakes, cooking for 1 minute until fragrant.",
+    "Pour tamari, rice vinegar, and water into the wok, scraping up any browned bits.",
+    "Add the melted Mars bar, stirring to create a glossy, sweet-salty sauce.",
+    "Simmer the pork until it absorbs the sauce and reaches an internal temperature of 71 °C (160 °F), about 5–6 minutes.",
+    "Taste and adjust seasoning with a pinch more tamari or salt if needed.",
+    "Remove from heat, garnish with toasted sesame seeds, and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "quick",
+    "stir-fry",
+    "fodmap-friendly",
+    "pork",
+    "chinese",
+    "mars-bar",
+    "sweet-and-salty",
+    "dense",
+    "cured"
+  ],
+  "nutrition": {
+    "calories": 835,
+    "protein": 51,
+    "carbs": 55,
+    "fat": 72
+  },
+  "slug": "cured-salty-chinese-pork-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/cured-salty-chinese-pork-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:22:14Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "dense",
+    "mood": "quick-fix",
+    "technique": "cure",
+    "primaryIngredient": "mars bar",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Pork",
+    "descriptor": "Cured Salty",
+    "dishForm": "Stir-fry"
+  }
+}
