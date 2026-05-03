@@ -1,0 +1,100 @@
+{
+  "title": "Turkish Lemon Soup (Tarator)",
+  "description": "A refreshing and citrusy Turkish soup made with juicy lemons, perfect for a warm day. Traditionally served as an appetizer or side dish.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "lemon juice",
+      "amount": "3/4 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "iceberg lettuce",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "dill",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh herbs"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a blender, combine lemon juice, water, iceberg lettuce, dill, garlic, salt, and black pepper.",
+    "Blend until smooth.",
+    "With the blender running, slowly pour in the olive oil through the top.",
+    "Continue blending until well combined.",
+    "Taste and adjust seasoning as needed.",
+    "Cover and refrigerate for at least 30 minutes to allow flavors to meld.",
+    "Serve chilled, garnished with additional dill if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "lemon",
+    "soup",
+    "refreshing",
+    "cold",
+    "summer",
+    "side-dish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 24,
+    "fat": 7
+  },
+  "slug": "citrusy-juicy-turkish-lemon-soup",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-juicy-turkish-lemon-soup",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T18:02:19Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "juicy",
+    "mood": "show-off",
+    "technique": "boil",
+    "primaryIngredient": "water",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lemon",
+    "descriptor": "citrusy juicy",
+    "dishForm": "Soup"
+  }
+}
