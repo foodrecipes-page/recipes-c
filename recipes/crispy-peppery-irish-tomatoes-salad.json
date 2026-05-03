@@ -1,0 +1,110 @@
+{
+  "title": "Crispy Peppery Irish Tomatoes Salad",
+  "description": "A quick, plant‑based Irish salad that pairs sweet baby plum tomatoes with sharp peppery greens, finished with a bright mustard‑herb dressing for a satisfying crunch.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "baby plum tomatoes",
+      "amount": "200g"
+    },
+    {
+      "name": "peppery arugula",
+      "amount": "100g"
+    },
+    {
+      "name": "watercress",
+      "amount": "50g"
+    },
+    {
+      "name": "fresh spinach leaves",
+      "amount": "30g"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "capers",
+      "amount": "2 tbsp",
+      "notes": "drained"
+    },
+    {
+      "name": "extra‑virgin olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Wash and halve the baby plum tomatoes; set aside.",
+    "In a large bowl, combine arugula, watercress, spinach, and sliced red onion.",
+    "Add the halved tomatoes and capers to the greens; toss gently.",
+    "In a small bowl, whisk together olive oil, Dijon mustard, apple cider vinegar, salt, pepper, and parsley to make the dressing.",
+    "Pour the dressing over the salad and toss until evenly coated.",
+    "Taste and adjust seasoning if needed.",
+    "Serve immediately or chill for 10 minutes for extra crispness."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "quick",
+    "easy",
+    "irish",
+    "salad",
+    "peppery",
+    "crisp"
+  ],
+  "nutrition": {
+    "calories": 182,
+    "protein": 4,
+    "carbs": 11,
+    "fat": 15
+  },
+  "slug": "crispy-peppery-irish-tomatoes-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-peppery-irish-tomatoes-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:06:10Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crisp",
+    "mood": "quick-fix",
+    "technique": "rest",
+    "primaryIngredient": "baby plum tomatoes",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "tomatoes",
+    "descriptor": "Crispy Peppery",
+    "dishForm": "Salad"
+  }
+}

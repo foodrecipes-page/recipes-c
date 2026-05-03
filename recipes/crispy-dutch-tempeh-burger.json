@@ -1,0 +1,112 @@
+{
+  "title": "Crispy Dutch Tempeh Burger",
+  "description": "A tangy, crispy Dutch-inspired tempeh burger that captures a brunch vibe with a zingy ketchup and fermented cucumber toppings.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Tempeh",
+      "amount": "200g"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "50g"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "30g"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Water",
+      "amount": "70ml"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegan ketchup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Pickled cucumber slices",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Burger buns (vegan)",
+      "amount": "2"
+    },
+    {
+      "name": "Lettuce leaf",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Press the tempeh slices to remove excess moisture and cut into 1 cm thick pieces.",
+    "In a bowl whisk together flour, cornstarch, salt, pepper, paprika, and baking powder. Gradually stir in water to form a thick batter; let rest 5 min.",
+    "Heat 1 tbsp olive oil in a skillet over medium‑high heat.",
+    "Dip each tempeh slice into the batter, letting excess drip off, then fry in the skillet until golden brown on both sides, about 3–4 min per side. Add more oil if needed.",
+    "While the tempeh cooks, toast the burger buns lightly in a separate pan or toaster.",
+    "Spread a spoonful of vegan ketchup on the bottom bun, add a lettuce leaf, then place the crispy tempeh patty on top.",
+    "Top the patty with pickled cucumber slices and cover with the top bun.",
+    "Serve immediately, optionally with extra ketchup on the side. Enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "brunch",
+    "dutch",
+    "burger",
+    "crispy",
+    "ketchup",
+    "fermented",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 950,
+    "protein": 33,
+    "carbs": 131,
+    "fat": 38
+  },
+  "slug": "crispy-dutch-tempeh-burger",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-dutch-tempeh-burger",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:05:52Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crispy",
+    "mood": "brunch-mood",
+    "technique": "ferment",
+    "primaryIngredient": "ketchup",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Tempeh",
+    "descriptor": "Crispy",
+    "dishForm": "Burger"
+  }
+}
