@@ -1,0 +1,100 @@
+{
+  "title": "Crunchy Korean Squash Salad",
+  "description": "A refreshing citrusy salad with raw squash, perfect for easing hangovers with its crisp texture and zesty flavors.",
+  "cuisine": "korean",
+  "diet": [
+    "raw",
+    "vegetarian",
+    "low-sodium"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "butternut squash",
+      "amount": "1 small (150g)",
+      "notes": "raw, diced into 1cm cubes"
+    },
+    {
+      "name": "lime",
+      "amount": "1",
+      "notes": "juice reserved"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4 cup",
+      ": ": "notes"
+    },
+    {
+      "name": "cilantro",
+      "amount": "2 tbsp",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "apple",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": "raw"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp",
+      "notes": "raw"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": "raw"
+    }
+  ],
+  "instructions": [
+    "Dice butternut squash into 1cm cubes; ensure it's raw and fresh.",
+    "Juice one lime; set aside.",
+    "Thinly slice apple and finely chop cilantro.",
+    "In a bowl, combine squash, apple slices, and red onion.",
+    "Add lime juice, sesame oil, rice vinegar, and honey to the bowl.",
+    "Gently toss ingredients until evenly coated.",
+    "Serve immediately for maximum crunch and freshness."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "raw",
+    "salad",
+    "hangover-cure",
+    "squash",
+    "citrus",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 85,
+    "protein": 1,
+    "carbs": 15,
+    "fat": 2
+  },
+  "slug": "crunchy-korean-squash-salad",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-korean-squash-salad",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T00:45:32Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crunchy",
+    "mood": "hangover-cure",
+    "technique": "cure",
+    "primaryIngredient": "squash",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "squash",
+    "descriptor": "crunchy",
+    "dishForm": "salad"
+  }
+}
