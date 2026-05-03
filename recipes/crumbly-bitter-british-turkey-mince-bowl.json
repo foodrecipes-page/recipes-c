@@ -1,0 +1,111 @@
+{
+  "title": "Crumbly British Turkey Mince Bowl",
+  "description": "A nostalgic, crumbly, and bitter English dish featuring turkey mince served in a stone bowl. Perfect for a comforting lunch or dinner.",
+  "cuisine": "English",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Turkey mince",
+      "amount": "250g"
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "50g",
+      "notes": "crumbly"
+    },
+    {
+      "name": "Parsnips",
+      "amount": "150g",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Clove of garlic",
+      "amount": "1",
+      "notes": "minced"
+    },
+    {
+      "name": "Cabbage",
+      "amount": "50g",
+      "notes": "shredded"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tsp",
+      "notes": "for thickening"
+    },
+    {
+      "name": "Bitter ale",
+      "amount": "100ml",
+      "notes": "for added bitterness"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 sprig"
+    }
+  ],
+  "instructions": [
+    "Heat a dash of oil in a large saucepan over medium heat.",
+    "Add the onion and cook for 5 minutes until softened.",
+    "Add the parsnips and cook for a further 5 minutes.",
+    "Add the turkey mince and cook, breaking it up with a spoon, until browned.",
+    "Add the garlic, cabbage, flour, ale, salt, and pepper. Stir to combine.",
+    "Reduce heat to low and simmer, stirring occasionally, for 10 minutes.",
+    "Stir in the crumbled cheddar cheese until melted and well combined.",
+    "Spoon the mixture into the stone bowls and serve hot, garnished with a sprig of fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "cheesy",
+    "comfort-food",
+    "low-fat",
+    "one-pan",
+    "winter-warmer"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "crumbly-bitter-british-turkey-mince-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-bitter-british-turkey-mince-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:14:46Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crumbly",
+    "mood": "nostalgic",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "turkey mince",
+    "diet": "low-fat",
+    "region": "english",
+    "cuisineAdjective": "British",
+    "mainIngredient": "turkey mince",
+    "descriptor": "crumbly, bitter",
+    "dishForm": "Bowl"
+  }
+}
