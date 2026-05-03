@@ -1,0 +1,96 @@
+{
+  "title": "Crispy Dutch Snap Pea Gratin",
+  "description": "A peppery, gooey Dutch gratin featuring blanched sugar snap peas and a golden Dutch Gouda topping.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sugar snap peas",
+      "amount": "500g"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "for cooking and topping"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "whole milk",
+      "amount": "400ml"
+    },
+    {
+      "name": "Dutch Gouda cheese, grated",
+      "amount": "100g"
+    },
+    {
+      "name": "gluten-free breadcrumbs",
+      "amount": "50g"
+    },
+    {
+      "name": "fresh chives, sliced",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200 C (400 F) and grease a 9x9 inch baking dish.",
+    "Blanch the sugar snap peas in boiling salted water for 2 minutes, then transfer them immediately to ice water to stop cooking, and drain well.",
+    "Melt the butter in a saucepan over medium heat, then whisk in the flour to create a roux and cook for 1 minute.",
+    "Slowly pour in the milk while whisking constantly until the sauce thickens to a creamy consistency.",
+    "Season the sauce with salt and pepper, then fold in the grated Gouda until melted.",
+    "Spread the blanched peas evenly in the prepared baking dish and pour the cheesy sauce over them.",
+    "Sprinkle the gluten-free breadcrumbs and sliced chives on top of the gratin.",
+    "Bake in the preheated oven for 15 minutes until the breadcrumbs are golden and the top is bubbly.",
+    "Remove from the oven, let it rest for 5 minutes, then serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "gratin",
+    "nut-free",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 13,
+    "carbs": 21,
+    "fat": 18
+  },
+  "slug": "crispy-dutch-snap-pea-gratin",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-dutch-snap-pea-gratin",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:05:57Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "gooey",
+    "mood": "comforting",
+    "technique": "blanch",
+    "primaryIngredient": "sugar snap peas",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "snap peas",
+    "descriptor": "Crispy",
+    "dishForm": "Gratin"
+  }
+}
