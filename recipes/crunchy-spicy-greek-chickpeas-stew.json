@@ -1,0 +1,111 @@
+{
+  "title": "Crunchy Spicy Greek Chickpeas Stew",
+  "description": "A low‑calorie Greek‑style stew bursting with smoky heat, finished with a crunchy roasted chickpea topping and a bright citrusy finish.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "low-calorie"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chickpeas, cooked, drained",
+      "amount": "2 cups (≈320 g)"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 Tbsp"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 medium (≈150 g)"
+    },
+    {
+      "name": "Red bell pepper, diced",
+      "amount": "1 medium (≈150 g)"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves (≈9 g)"
+    },
+    {
+      "name": "Canned diced tomatoes",
+      "amount": "1 cup (≈240 g)"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 Tbsp (≈30 g)"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups (≈480 ml)"
+    },
+    {
+      "name": "Spice blend (cumin, smoked paprika, red pepper flakes)",
+      "amount": "1 tsp",
+      "notes": "combines all three spices into one convenient mix"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "2 Tbsp"
+    },
+    {
+      "name": "Roasted chickpeas topping",
+      "amount": "½ cup cooked chickpeas (≈80 g)",
+      "notes": "roasted with 1 tsp olive oil, pinch salt, ¼ tsp cumin, and ¼ tsp smoked paprika for crunchy finish"
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "2 Tbsp (optional)",
+      "notes": "garnish for extra freshness"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400 °F (200 °C). Toss the ½ cup cooked chickpeas with 1 tsp olive oil, pinch salt, ¼ tsp cumin, and ¼ tsp smoked paprika. Spread on a baking sheet and roast for 15–20 min, turning once, until crisp. Set aside.",
+    "Heat 1 Tbsp olive oil in a large pot over medium heat. Add the diced onion and red bell pepper, sautéing until softened, about 5 min.",
+    "Stir in the minced garlic and cook for 1 min until fragrant.",
+    "Add the canned diced tomatoes, tomato paste, and spice blend. Cook for 3 min to meld flavors.",
+    "Pour in the vegetable broth, bring to a gentle boil, then reduce heat to low. Add the cooked chickpeas and simmer for 20 min, stirring occasionally.",
+    "Stir in the fresh lemon juice and adjust seasoning with salt and pepper if desired. Simmer for another 5 min to allow flavors to marry.",
+    "Serve the stew hot, topped with the roasted chickpeas and a sprinkle of chopped parsley if using.",
+    "Optional: accompany with warm pita, a side of Greek yogurt dip, or a light cucumber salad."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "greek",
+    "low-calorie",
+    "vegetarian",
+    "crunchy",
+    "slow-cook",
+    "salsa"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 9,
+    "carbs": 38,
+    "fat": 7
+  },
+  "slug": "crunchy-spicy-greek-chickpeas-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-spicy-greek-chickpeas-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:18:10Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crunchy",
+    "mood": "indulgent",
+    "technique": "slow-cook",
+    "primaryIngredient": "salsa",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Chickpeas",
+    "descriptor": "Crunchy Spicy",
+    "dishForm": "Stew"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "title": "Creamy Salty Croatian Toor Dal",
+  "description": "A comforting one‑pot dish of split yellow lentils simmered with a subtle tandoori spice blend, finished with low‑fat yogurt for a creamy finish and a satisfying salty kick, perfect for a quick lunch or dinner.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "low-calorie"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "toor dal",
+      "amount": "200 g"
+    },
+    {
+      "name": "water",
+      "amount": "600 ml"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "tandoori spice mix",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "low‑fat Greek yogurt",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "1 tsp (optional)"
+    },
+    {
+      "name": "fresh coriander (cilantro)",
+      "amount": "1 tbsp, chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Rinse the toor dal under running water until clear.",
+    "In a large pot, heat olive oil over medium heat. Add chopped onion and sauté until translucent (~3 min).",
+    "Add minced garlic and stir for 30 seconds.",
+    "Stir in tandoori spice mix and sauté for 1 min to release the flavors.",
+    "Add rinsed dal and water. Stir, bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20 minutes, stirring occasionally, until the dal is tender and starts to break apart.",
+    "Remove from heat, stir in low‑fat Greek yogurt and lemon juice until creamy. Taste and adjust salt if needed.",
+    "Garnish with chopped coriander and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "one-pot",
+    "creamy",
+    "low-calorie",
+    "vegetarian",
+    "salty",
+    "toor-dal",
+    "croatian"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 13,
+    "carbs": 33,
+    "fat": 2
+  },
+  "slug": "creamy-salty-croatian-toor-dal",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-salty-croatian-toor-dal",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:17:35Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "creamy",
+    "mood": "one-pot",
+    "technique": "tandoor",
+    "primaryIngredient": "toor dal",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Toor Dal",
+    "descriptor": "Creamy Salty",
+    "dishForm": "Dal"
+  }
+}
