@@ -1,0 +1,79 @@
+{
+  "title": "Crispy Tunisian Steak Tagine",
+  "description": "A fresh, flaky one‑pot Tunisian dish featuring skirt steak caramelized to perfection in a fragrant sauce of spices, harissa, and herbs.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Skirt steak",
+      "amount": "200 g (cut into bite‑size pieces)",
+      "notes": "trim excess fat"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 Tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, thinly sliced",
+      "notes": ""
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2, minced",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Harissa paste",
+      "amount": "1 Tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh coriander",
+      "amount": "2 Tbsp, chopped",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Trim the skirt steak and pat dry with paper towels.",
+    "In a shallow dish, combine steak with smoked paprika, ground cumin, salt, and pepper. Let it rest for 5 min.",
+    "Heat olive oil in a heavy‑bottomed tagine or Dutch oven over medium‑high heat until shimmering.",
+    "Add the steak pieces and sear until the edges turn golden brown, about 3 min per side. Do not overcrowd the pan; cook in batches if necessary.",
+    "Remove steak and set aside. In the same pan, add sliced onion and cook until translucent, about 5 min.",
+    "Stir in minced garlic and cook for 30 s until fragrant.",
+    "Add the harissa paste and cook, stirring, for 1 min to release its flavors.",
+    "Return the steak to the pan, toss to coat with the sauce, and let everything simmer gently for 5 min to meld the flavors.",
+    "Finish with chopped coriander, sprinkle additional salt if needed, and serve hot, optionally with lemon wedges or a side of couscous.",
+    ""
+  ],
+  "slug": "crispy-tunisian-steak-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-tunisian-steak-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:26:04Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "flaky",
+    "mood": "one-pot",
+    "technique": "caramelize",
+    "primaryIngredient": "skirty steak",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "steak",
+    "descriptor": "Crispy",
+    "dishForm": "Tagine"
+  }
+}
