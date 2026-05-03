@@ -1,0 +1,84 @@
+{
+  "title": "Floral Crumbly Italian Baguette Bake",
+  "description": "A keto-friendly, crumbly Italian dish that showcases baguette with floral notes and a delicate crumble texture.",
+  "cuisine": "italian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "baguette",
+      "amount": "4 slices",
+      "notes": "freshly baked, crusty"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "100g",
+      "notes": "finely grated"
+    },
+    {
+      "name": "butter",
+      "amount": "20g",
+      "notes": "unsalted"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "20g",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "15ml",
+      "notes": "extra virgin"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "Slice baguette into 1cm thick rounds.",
+    "In a small bowl, mix butter, olive oil, and chopped basil until combined.",
+    "Place baguette rounds in a greased baking dish, then sprinkle with grated parmesan.",
+    "Pour the butter-oil-basil mixture over the baguette.",
+    "Bake for 15-18 minutes until golden and crisp.",
+    "Let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 18,
+  "totalTimeMin": 23,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "keto",
+    "lunch",
+    "crumbly",
+    "baguette",
+    "floral",
+    "cheesy",
+    "buttery"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 15,
+    "fat": 22
+  },
+  "slug": "crumbly-italian-baguette-bake",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-italian-baguette-bake",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T04:16:37Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crumbly",
+    "mood": "show-off",
+    "technique": "bake",
+    "primaryIngredient": "baguette",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "baguette",
+    "descriptor": "Crumbly",
+    "dishForm": "Bake"
+  }
+}
