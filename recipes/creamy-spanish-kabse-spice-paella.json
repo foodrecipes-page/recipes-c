@@ -1,0 +1,104 @@
+{
+  "title": "Creamy Spanish Kabse Spice Paella",
+  "description": "A romantic and high-protein-friendly Spanish dish featuring kabse spice, dumplings, and a creamy sauce, perfect for a special dinner.",
+  "cuisine": "Spanish",
+  "diet": [
+    "high-protein-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kabse spice mix",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Dumplings",
+      "amount": "300 grams (about 8-9 pcs)"
+    },
+    {
+      "name": "Chicken thighs",
+      "amount": "500 grams"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "2 cups, sliced"
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Tomato puree",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "3 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium heat, add onions and garlic, sauté until soft.",
+    "Add chicken thighs to the skillet, season with salt and pepper, cook until golden brown on all sides.",
+    "Remove chicken from skillet and set aside. Add mushrooms to the same pan, sauté for 5 minutes until softened.",
+    "In a separate pot, mix kabse spice with tomato puree, let it simmer for 10 minutes then add heavy cream, stir well until thickened.",
+    "Return chicken and any accumulated juices back into the skillet along with vegetables. Pour in prepared creamy sauce.",
+    "Cook over low heat for about 5-7 minutes allowing flavors to meld together.",
+    "Fold dumplings gently into paella mixture, cover and let cook for an additional 30 minutes or until dumplings are cooked through and liquid is absorbed."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "spanish-dish",
+    "umami-spice",
+    "creamy-sauce",
+    "kabse-spice",
+    "high-protein-friendly"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 45,
+    "carbs": 26,
+    "fat": 35
+  },
+  "slug": "creamy-spanish-kabse-spice-paella",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-spanish-kabse-spice-paella",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T11:08:35Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "dum",
+    "primaryIngredient": "kabse spice",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "kabse spice",
+    "descriptor": "Creamy",
+    "dishForm": "Paella"
+  }
+}
