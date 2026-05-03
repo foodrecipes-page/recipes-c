@@ -1,0 +1,103 @@
+{
+  "title": "Crispy Salty Canadian Penne Toast",
+  "description": "A hearty, dairy‑free post‑workout dish that pairs al dente penne rigate with crisp toasted bread, seasoned with maple‑sweetened smoked paprika for a uniquely Canadian flavor.",
+  "cuisine": "Canadian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Penne rigate",
+      "amount": "200 g",
+      "notes": "dairy‑free"
+    },
+    {
+      "name": "Whole wheat bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Nutritional yeast",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "2 tsp, chopped",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180 °C (350 °F).",
+    "Cook penne in a pot of salted boiling water until al dente (about 8 minutes), then drain and set aside.",
+    "While the pasta cooks, lay bread slices on a baking sheet and toast them in the oven for 5 minutes until golden and crisp.",
+    "In a small bowl, whisk together olive oil, minced garlic, smoked paprika, sea salt, black pepper, nutritional yeast, and maple syrup to make the seasoning sauce.",
+    "Add the cooked pasta to the sauce and toss until the pasta is evenly coated.",
+    "Spread the seasoned pasta onto the toasted bread slices, squeezing a little extra sauce onto each one.",
+    "Return the pan to the oven and bake for an additional 5 minutes, or until the bread edges are caramelized and the pasta is lightly crisped.",
+    "Remove from the oven, sprinkle with chopped parsley, let cool slightly, and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "dairy-free",
+    "salty",
+    "crispy",
+    "post-workout",
+    "canadian",
+    "quick",
+    "toasted",
+    "penne",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 25,
+    "carbs": 66,
+    "fat": 17
+  },
+  "slug": "crispy-salty-canadian-penne-toast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-salty-canadian-penne-toast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:36:28Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crispy",
+    "mood": "post-workout",
+    "technique": "toast",
+    "primaryIngredient": "penne rigate",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "penne",
+    "descriptor": "Crispy Salty",
+    "dishForm": "Toast"
+  }
+}
