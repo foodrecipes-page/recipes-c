@@ -1,0 +1,104 @@
+{
+  "title": "Crisp Citrusy Norwegian Tomato Gratin",
+  "description": "A citrusy and indulgent Norwegian dish featuring tomatoes, this gratin is perfect for a dinner party. The combination of citrus and tomatoes creates a unique flavor profile.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "3 lbs",
+      "notes": "fresh and sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "bread crumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, toss the sliced tomatoes with olive oil, lemon juice, orange zest, garlic, salt, and pepper until they are well coated.",
+    "In a separate pan, saute the chopped onion until it is translucent and starting to caramelize.",
+    "In a greased 9x13 inch baking dish, create a layer of tomatoes.",
+    "Sprinkle a third of the gruyere cheese and a third of the bread crumbs over the tomatoes.",
+    "Repeat the layers two more times, ending with a layer of cheese and bread crumbs on top.",
+    "Bake the gratin in the preheated oven for 35 minutes, or until the top is golden brown and the tomatoes are tender.",
+    "Remove the gratin from the oven and let it cool for a few minutes before serving.",
+    "Serve the gratin hot, garnished with additional orange zest if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "citrus-flavors",
+    "dinner-parties",
+    "gratin-recipes",
+    "indulgent-meals",
+    "norwegian-cuisine",
+    "tomato-dishes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 20
+  },
+  "slug": "crisp-citrusy-norwegian-tomato-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-citrusy-norwegian-tomato-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:56:27Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crisp",
+    "mood": "indulgent",
+    "technique": "reduce",
+    "primaryIngredient": "tomato",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Tomato",
+    "descriptor": "Crisp Citrusy",
+    "dishForm": "Gratin"
+  }
+}
