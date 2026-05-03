@@ -1,18 +1,18 @@
 {
   "title": "Crispy Tunisian Steak Tagine",
-  "description": "A fresh, flaky one‑pot Tunisian dish featuring skirt steak caramelized to perfection in a fragrant sauce of spices, harissa, and herbs.",
+  "description": "A fresh, flaky onepot Tunisian dish featuring skirt steak caramelized to perfection in a fragrant sauce of spices, harissa, and herbs.",
   "cuisine": "Tunisian",
   "diet": null,
   "meal": "dinner",
   "ingredients": [
     {
       "name": "Skirt steak",
-      "amount": "200 g (cut into bite‑size pieces)",
+      "amount": "200\u202fg (cut into bite\u2011size pieces)",
       "notes": "trim excess fat"
     },
     {
       "name": "Olive oil",
-      "amount": "2 Tbsp",
+      "amount": "2\u202fTbsp",
       "notes": ""
     },
     {
@@ -27,34 +27,34 @@
     },
     {
       "name": "Smoked paprika",
-      "amount": "1 tsp",
+      "amount": "1\u202ftsp",
       "notes": ""
     },
     {
       "name": "Ground cumin",
-      "amount": "1 tsp",
+      "amount": "1\u202ftsp",
       "notes": ""
     },
     {
       "name": "Harissa paste",
-      "amount": "1 Tbsp",
+      "amount": "1\u202fTbsp",
       "notes": ""
     },
     {
       "name": "Fresh coriander",
-      "amount": "2 Tbsp, chopped",
+      "amount": "2\u202fTbsp, chopped",
       "notes": "optional garnish"
     }
   ],
   "instructions": [
     "Trim the skirt steak and pat dry with paper towels.",
-    "In a shallow dish, combine steak with smoked paprika, ground cumin, salt, and pepper. Let it rest for 5 min.",
-    "Heat olive oil in a heavy‑bottomed tagine or Dutch oven over medium‑high heat until shimmering.",
-    "Add the steak pieces and sear until the edges turn golden brown, about 3 min per side. Do not overcrowd the pan; cook in batches if necessary.",
-    "Remove steak and set aside. In the same pan, add sliced onion and cook until translucent, about 5 min.",
-    "Stir in minced garlic and cook for 30 s until fragrant.",
-    "Add the harissa paste and cook, stirring, for 1 min to release its flavors.",
-    "Return the steak to the pan, toss to coat with the sauce, and let everything simmer gently for 5 min to meld the flavors.",
+    "In a shallow dish, combine steak with smoked paprika, ground cumin, salt, and pepper. Let it rest for 5\u202fmin.",
+    "Heat olive oil in a heavy\u2011bottomed tagine or Dutch oven over medium\u2011high heat until shimmering.",
+    "Add the steak pieces and sear until the edges turn golden brown, about 3\u202fmin per side. Do not overcrowd the pan; cook in batches if necessary.",
+    "Remove steak and set aside. In the same pan, add sliced onion and cook until translucent, about 5\u202fmin.",
+    "Stir in minced garlic and cook for 30\u202fs until fragrant.",
+    "Add the harissa paste and cook, stirring, for 1\u202fmin to release its flavors.",
+    "Return the steak to the pan, toss to coat with the sauce, and let everything simmer gently for 5\u202fmin to meld the flavors.",
     "Finish with chopped coriander, sprinkle additional salt if needed, and serve hot, optionally with lemon wedges or a side of couscous.",
     ""
   ],
@@ -75,5 +75,20 @@
     "mainIngredient": "steak",
     "descriptor": "Crispy",
     "dishForm": "Tagine"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "tunisian",
+    "dinner"
+  ]
 }

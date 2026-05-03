@@ -38,7 +38,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 180°C (350°F).",
+    "Preheat oven to 180\u00b0C (350\u00b0F).",
     "Toast walnuts in a dry pan over medium heat until golden brown, about 4 minutes.",
     "In a bowl, mix walnuts with chopped dates and figs. Add white wine, honey or agave syrup, and melted butter; toss to combine.",
     "Press walnut mixture firmly into the bottom of a greased dish (18x12cm).",
@@ -58,9 +58,9 @@
   ],
   "nutrition": {
     "calories": 451,
-    "protein": 7.2,
-    "carbs": 80.6,
-    "fat": 18.3
+    "protein": 7,
+    "carbs": 81,
+    "fat": 18
   },
   "slug": "crunchy-sweet-and-nostalgic-walnut-crumble",
   "source": "ollama-qwen2.5:3b",

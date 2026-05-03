@@ -1,6 +1,6 @@
 {
   "title": "Crispy Bitter British Pudding Salad",
-  "description": "A quick, plant‑based salad that pairs roasted vegan Christmas pudding cubes with bitter arugula, crunchy nuts, and a tangy vinaigrette for a festive twist on a weeknight dinner.",
+  "description": "A quick, plantbased salad that pairs roasted vegan Christmas pudding cubes with bitter arugula, crunchy nuts, and a tangy vinaigrette for a festive twist on a weeknight dinner.",
   "cuisine": "British",
   "diet": [
     "vegan"
@@ -9,58 +9,58 @@
   "ingredients": [
     {
       "name": "vegan Christmas pudding",
-      "amount": "1 small (≈200 g)",
+      "amount": "1 small (\u2248200\u202fg)",
       "notes": "soft, dried fruit and nut patty"
     },
     {
       "name": "mixed arugula",
-      "amount": "200 g",
+      "amount": "200\u202fg",
       "notes": "fresh, washed"
     },
     {
       "name": "toasted walnuts",
-      "amount": "50 g",
+      "amount": "50\u202fg",
       "notes": "roughly chopped"
     },
     {
       "name": "roasted chestnuts",
-      "amount": "30 g",
+      "amount": "30\u202fg",
       "notes": "chopped"
     },
     {
       "name": "dried cranberries",
-      "amount": "30 g",
+      "amount": "30\u202fg",
       "notes": "chopped"
     },
     {
       "name": "toasted sesame seeds",
-      "amount": "1 Tbsp",
+      "amount": "1\u202fTbsp",
       "notes": "lightly toasted"
     },
     {
-      "name": "extra‑virgin olive oil",
-      "amount": "1 Tbsp",
+      "name": "extra\u2011virgin olive oil",
+      "amount": "1\u202fTbsp",
       "notes": "for roasting"
     },
     {
       "name": "apple cider vinegar",
-      "amount": "1 Tbsp",
+      "amount": "1\u202fTbsp",
       "notes": "for vinaigrette"
     },
     {
       "name": "maple syrup",
-      "amount": "1 tsp",
+      "amount": "1\u202ftsp",
       "notes": "for vinaigrette"
     }
   ],
   "instructions": [
-    "Preheat the oven to 200 °C (400 °F).",
-    "Slice the vegan Christmas pudding into 1 cm cubes and toss with 1 Tbsp olive oil, sea salt, and black pepper. Spread the cubes in a single layer on a baking sheet and roast for 15 minutes, turning once, until golden and crisp. Remove and let cool slightly.",
-    "Whisk together 1 Tbsp apple cider vinegar, 1 tsp maple syrup, a pinch of sea salt, and a dash of black pepper to make the vinaigrette.",
+    "Preheat the oven to 200\u202f\u00b0C (400\u202f\u00b0F).",
+    "Slice the vegan Christmas pudding into 1\u202fcm cubes and toss with 1\u202fTbsp olive oil, sea salt, and black pepper. Spread the cubes in a single layer on a baking sheet and roast for 15\u202fminutes, turning once, until golden and crisp. Remove and let cool slightly.",
+    "Whisk together 1\u202fTbsp apple cider vinegar, 1\u202ftsp maple syrup, a pinch of sea salt, and a dash of black pepper to make the vinaigrette.",
     "In a large bowl, combine the arugula, toasted walnuts, roasted chestnuts, dried cranberries, and toasted sesame seeds. Drizzle with the vinaigrette and toss gently to coat.",
     "Add the roasted Christmas pudding cubes to the salad and give a final gentle toss to distribute everything evenly.",
-    "Serve the salad immediately, optionally garnishing with a few extra sesame seeds or a drizzle of extra‑virgin olive oil if desired.",
-    "Enjoy this bitter‑sweet, crispy salad as a light yet festive dinner."
+    "Serve the salad immediately, optionally garnishing with a few extra sesame seeds or a drizzle of extra\u2011virgin olive oil if desired.",
+    "Enjoy this bitter\u2011sweet, crispy salad as a light yet festive dinner."
   ],
   "slug": "crispy-bitter-british-pudding-salad",
   "source": "ocloud-gpt-oss:20b",
@@ -79,5 +79,20 @@
     "mainIngredient": "Pudding",
     "descriptor": "Crispy Bitter",
     "dishForm": "Salad"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "british",
+    "dinner"
+  ]
 }

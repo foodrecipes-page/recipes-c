@@ -1,6 +1,6 @@
 {
   "title": "Crispy Spicy Peruvian Oat Soup",
-  "description": "A vibrant, low‑calorie Peruvian soup that balances the heartiness of oats with a fiery kick and a crunchy corn chip topping.",
+  "description": "A vibrant, lowcalorie Peruvian soup that balances the heartiness of oats with a fiery kick and a crunchy corn chip topping.",
   "cuisine": "Peruvian",
   "diet": [
     "gluten-free",
@@ -42,7 +42,7 @@
     {
       "name": "olive oil",
       "amount": "1 tbsp (15ml)",
-      "notes": "for sautéing vegetables"
+      "notes": "for saut\u00e9ing vegetables"
     },
     {
       "name": "sriracha",
@@ -62,7 +62,7 @@
   ],
   "instructions": [
     "In a medium pot, heat the olive oil over medium heat.",
-    "Add the diced sweet potato, red bell pepper, and carrot; sauté for 5 minutes until slightly softened.",
+    "Add the diced sweet potato, red bell pepper, and carrot; saut\u00e9 for 5 minutes until slightly softened.",
     "Stir in the ground cumin, smoked paprika, and sriracha; cook for 1 minute to toast the spices.",
     "Pour in the vegetable broth and bring to a gentle boil.",
     "Add the rolled oats and let the soup simmer for 10 minutes, stirring occasionally, until the oats are tender.",
@@ -88,5 +88,20 @@
     "mainIngredient": "oats",
     "descriptor": "Crispy Spicy",
     "dishForm": "Soup"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "peruvian",
+    "lunch"
+  ]
 }

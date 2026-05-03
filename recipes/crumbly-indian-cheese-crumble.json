@@ -31,7 +31,7 @@
     }
   ],
   "instructions": [
-    "Preheat your air fryer to 180°C (350°F).",
+    "Preheat your air fryer to 180\u00b0C (350\u00b0F).",
     "In a small bowl, mix together the crumbled cheese, flour, salt, and pepper. Stir gently until the mixture becomes crumbly.",
     "Spread half of the crumbly cheese mixture evenly onto a lightly floured baking sheet or flat surface.",
     "Gently press down on the cheese mixture to create an even layer about 0.5 cm thick.",
@@ -52,9 +52,9 @@
   ],
   "nutrition": {
     "calories": 85,
-    "protein": 3.5,
+    "protein": 4,
     "carbs": 1.0,
-    "fat": 4.5
+    "fat": 4
   },
   "slug": "crumbly-indian-cheese-crumble",
   "source": "ollama-qwen2.5:3b",

@@ -1,6 +1,6 @@
 {
   "title": "Crispy Tangy Mexican Onion Stir-fry",
-  "description": "A festive, crisp Mexican stir‑fry that turns humble onions into a bright, tangy delight.",
+  "description": "A festive, crisp Mexican stirfry that turns humble onions into a bright, tangy delight.",
   "cuisine": "Mexican",
   "diet": [
     "kosher"
@@ -9,62 +9,62 @@
   "ingredients": [
     {
       "name": "White onion",
-      "amount": "3 medium (≈450 g)",
+      "amount": "3 medium (\u2248450\u202fg)",
       "notes": "Thinly sliced"
     },
     {
       "name": "Olive oil",
-      "amount": "2 Tbsp",
+      "amount": "2\u202fTbsp",
       "notes": "For searing"
     },
     {
       "name": "Fresh lime juice",
-      "amount": "1 Tbsp",
-      "notes": "2 oz; use a kosher lime"
+      "amount": "1\u202fTbsp",
+      "notes": "2\u202foz; use a kosher lime"
     },
     {
       "name": "Ground cumin",
-      "amount": "1 tsp",
+      "amount": "1\u202ftsp",
       "notes": "Smoked if available"
     },
     {
       "name": "Smoked paprika",
-      "amount": "1 tsp",
+      "amount": "1\u202ftsp",
       "notes": "Adds depth"
     },
     {
       "name": "Cayenne pepper",
-      "amount": "½ tsp",
+      "amount": "\u00bd\u202ftsp",
       "notes": "Light heat"
     },
     {
       "name": "Sea salt",
-      "amount": "1 tsp",
+      "amount": "1\u202ftsp",
       "notes": "Kosher salt"
     },
     {
       "name": "Freshly ground black pepper",
-      "amount": "½ tsp",
+      "amount": "\u00bd\u202ftsp",
       "notes": "Kosher pepper"
     },
     {
       "name": "Fresh cilantro",
-      "amount": "1 Tbsp",
+      "amount": "1\u202fTbsp",
       "notes": "Chopped, kosher"
     },
     {
       "name": "Toasted sesame seeds",
-      "amount": "1 Tbsp",
+      "amount": "1\u202fTbsp",
       "notes": "Optional, for crunch"
     }
   ],
   "instructions": [
-    "1. Heat a large non‑stick skillet over medium‑high heat and add the olive oil.",
+    "1. Heat a large non\u2011stick skillet over medium\u2011high heat and add the olive oil.",
     "2. Once hot, add the sliced onions and season with sea salt and black pepper.",
-    "3. Cook, stirring frequently, until the onions are translucent and begin to brown, about 8‑10 minutes.",
+    "3. Cook, stirring frequently, until the onions are translucent and begin to brown, about 8\u201110 minutes.",
     "4. Sprinkle the cumin, smoked paprika, and cayenne pepper over the onions, stirring to coat and toast the spices for 1 minute.",
     "5. Reduce heat to medium, drizzle in the lime juice, and stir to combine; the acidity will lift the flavors and keep the onions crisp.",
-    "6. Cook for another 2‑3 minutes, allowing the lime to caramelize slightly and the onions to finish crisping.",
+    "6. Cook for another 2\u20113 minutes, allowing the lime to caramelize slightly and the onions to finish crisping.",
     "7. Remove from heat and stir in chopped cilantro and toasted sesame seeds for a burst of freshness and texture.",
     "8. Serve immediately as a side or as a topping for grilled meats or rice."
   ],
@@ -85,5 +85,20 @@
     "mainIngredient": "onion",
     "descriptor": "Crispy Tangy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "mexican",
+    "dinner"
+  ]
 }

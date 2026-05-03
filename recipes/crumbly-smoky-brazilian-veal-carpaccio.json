@@ -44,13 +44,13 @@
     }
   ],
   "instructions": [
-    "Slice the veal tenderloin into 1‑2 mm thick slices using a cold meat slicer or a sharp knife.",
+    "Slice the veal tenderloin into 1\u20112\u202fmm thick slices using a cold meat slicer or a sharp knife.",
     "Arrange the veal slices on a chilled plate in a single layer.",
     "Whisk together lime juice, lime zest, olive oil, smoked paprika, crushed pimenta malagueta, salt, and black pepper in a small bowl.",
     "Drizzle the seasoned sauce evenly over the veal, ensuring even coverage.",
-    "Let the veal rest for 10 minutes at room temperature to allow the flavors to meld.",
+    "Let the veal rest for 10\u202fminutes at room temperature to allow the flavors to meld.",
     "Sprinkle the toasted coconut flakes over the top for a crumbly, smoky crust.",
-    "Broil the plate in a preheated broiler for 30‑45 seconds per side, watching closely to char the edges without cooking the inside.",
+    "Broil the plate in a preheated broiler for 30\u201145\u202fseconds per side, watching closely to char the edges without cooking the inside.",
     "Remove from the broiler, garnish with chopped parsley, and serve immediately while the veal remains raw inside."
   ],
   "slug": "crumbly-smoky-brazilian-veal-carpaccio",
@@ -70,5 +70,20 @@
     "mainIngredient": "veal",
     "descriptor": "Crumbly Smoky",
     "dishForm": "Carpaccio"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "brazilian",
+    "lunch"
+  ]
 }

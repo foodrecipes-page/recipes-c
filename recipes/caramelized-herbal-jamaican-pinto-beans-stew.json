@@ -37,7 +37,7 @@
       "amount": "2 tbsp"
     },
     {
-      "name": "low‑sodium vegetable broth",
+      "name": "low\u2011sodium vegetable broth",
       "amount": "2 cups"
     },
     {
@@ -64,12 +64,12 @@
     }
   ],
   "instructions": [
-    "Rinse the soaked pinto beans and place them in a large pot with 4 cups of fresh water; bring to a boil, then reduce heat and simmer for 45–50 minutes until beans are tender.",
+    "Rinse the soaked pinto beans and place them in a large pot with 4 cups of fresh water; bring to a boil, then reduce heat and simmer for 45\u201350 minutes until beans are tender.",
     "Drain the beans, reserving the liquid, and set aside.",
     "In another pot, heat the olive oil over medium heat. Add the diced onion, carrot, celery, and minced garlic; cook until the vegetables soften and the onions turn translucent, about 8 minutes.",
     "Stir in the tomato paste and continue cooking for 2 minutes to allow the flavors to meld.",
     "Add the cooked pinto beans, fresh thyme, rosemary, allspice, honey, and 1 cup of the reserved bean liquid. Stir well.",
-    "Pour in the vegetable broth, bring the mixture to a simmer, and let it cook uncovered for 15–20 minutes, stirring occasionally, until the stew is thickened and the beans are fully coated.",
+    "Pour in the vegetable broth, bring the mixture to a simmer, and let it cook uncovered for 15\u201320 minutes, stirring occasionally, until the stew is thickened and the beans are fully coated.",
     "Taste and adjust seasoning with salt and pepper as desired. If the stew is too thick, add a splash more broth or water.",
     "Serve hot, garnished with fresh parsley or cilantro if desired. Enjoy warm with a side of rice or a crisp salad."
   ],
@@ -90,5 +90,20 @@
     "mainIngredient": "pinto beans",
     "descriptor": "Caramelized Herbal",
     "dishForm": "Stew"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "jamaican",
+    "lunch"
+  ]
 }

@@ -3,7 +3,7 @@
   "description": "A hearty and comforting brunch dish featuring crispy baby new potatoes combined with a tangy pickle relish for a herbal, crisp flavor profile.",
   "cuisine": "Irish",
   "diet": null,
-  "meal": "brunch",
+  "meal": "breakfast",
   "ingredients": [
     {
       "name": "Baby New Potatoes",
@@ -23,7 +23,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 400°F (205°C). Rinse baby new potatoes and pat dry.",
+    "Preheat oven to 400\u00b0F (205\u00b0C). Rinse baby new potatoes and pat dry.",
     "Cut baby new potatoes into small bite-sized pieces. Place on a baking sheet lined with parchment paper.",
     "Drizzle olive oil over potatoes and sprinkle with pepper. Toss well to coat evenly.",
     "Roast in preheated oven for about 20-25 minutes or until golden brown and crispy, shaking the pan halfway through cooking time.",
@@ -60,5 +60,14 @@
     "mainIngredient": "baby new potatoes",
     "descriptor": "Crispy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "breakfast"
+  ]
 }

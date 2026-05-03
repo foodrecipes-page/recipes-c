@@ -33,7 +33,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 350°F (175°C).",
+    "Preheat your oven to 350\u00b0F (175\u00b0C).",
     "Toast the pine nuts in a dry skillet over medium heat until golden brown and slightly crispy, stirring frequently.",
     "While the nuts are toasting, grind the oregano with salt and pepper using a mortar and pestle or blender.",
     "In a small bowl, mix together the ground oregano spice mixture and toasted pine nuts. Add cayenne pepper and juniper berries for an extra depth of flavor and add more spices as desired.",
@@ -52,9 +52,9 @@
   ],
   "nutrition": {
     "calories": 309,
-    "protein": 16.7,
-    "carbs": 5.2,
-    "fat": 17.8
+    "protein": 17,
+    "carbs": 5,
+    "fat": 18
   },
   "slug": "crumbly-spicy-tunisian-pine-nuts",
   "source": "ollama-qwen2.5:3b",

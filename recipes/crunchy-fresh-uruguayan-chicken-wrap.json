@@ -64,7 +64,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 200°C (400°F).",
+    "Preheat oven to 200\u00b0C (400\u00b0F).",
     "In a bowl, toss chicken strips with olive oil, smoked paprika, cumin, salt, and pepper until coated.",
     "Spread chicken on a baking sheet and roast for 15-18 minutes, turning halfway, until cooked through and slightly charred.",
     "Meanwhile, warm naan in a dry skillet or microwave for 15 seconds.",
@@ -91,5 +91,20 @@
     "mainIngredient": "chicken",
     "descriptor": "Crunchy Fresh",
     "dishForm": "Wrap"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "uruguayan",
+    "lunch"
+  ]
 }

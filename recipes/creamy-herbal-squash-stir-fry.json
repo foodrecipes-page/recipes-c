@@ -37,7 +37,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 400°F (200°C).",
+    "Preheat oven to 400\u00b0F (200\u00b0C).",
     "Clean and peel butternut squash, then cut into bite-sized pieces.",
     "Heat olive oil in a large skillet over medium-high heat. Add the garlic and cook until fragrant, about 1 minute.",
     "Add the cubed butternut squash to the pan with herbs and soy sauce or coconut aminos (if using).",
@@ -59,9 +59,9 @@
   ],
   "nutrition": {
     "calories": 356,
-    "protein": 7.2,
-    "carbs": 59.8,
-    "fat": 14.2
+    "protein": 7,
+    "carbs": 60,
+    "fat": 14
   },
   "slug": "creamy-herbal-squash-stir-fry",
   "source": "ollama-qwen2.5:3b",

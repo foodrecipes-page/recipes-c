@@ -1,6 +1,6 @@
 {
   "title": "Crisp Citrus Mediterranean Cabbage Salad",
-  "description": "A bright, crunchy salad featuring shredded napa cabbage, citrus segments, and a zesty olive oil dressing—perfect for soothing a hangover and satisfying a Mediterranean craving.",
+  "description": "A bright, crunchy salad featuring shredded napa cabbage, citrus segments, and a zesty olive oil dressing-perfect for soothing a hangover and satisfying a Mediterranean craving.",
   "cuisine": "Mediterranean",
   "diet": [
     "vegetarian",
@@ -75,7 +75,7 @@
     "Add the orange segments, diced cucumber, halved cherry tomatoes, and chopped parsley to the bowl.",
     "In a small bowl, whisk together olive oil, lemon juice, honey, smoked paprika, oregano, salt, and pepper until the honey is fully dissolved. (Use a whisk to ensure a smooth, emulsified dressing.)",
     "Pour the dressing over the salad and toss gently to coat all ingredients evenly.",
-    "Taste and adjust seasoning if needed—add a splash more lemon juice or honey for extra brightness.",
+    "Taste and adjust seasoning if needed\u2014add a splash more lemon juice or honey for extra brightness.",
     "Serve the salad immediately, or refrigerate for up to 2 hours for a cooler finish."
   ],
   "slug": "crisp-citrus-mediterranean-cabbage-salad",
@@ -95,5 +95,20 @@
     "mainIngredient": "Cabbage",
     "descriptor": "Crisp Citrus",
     "dishForm": "Salad"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "mediterranean",
+    "lunch"
+  ]
 }

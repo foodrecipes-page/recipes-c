@@ -62,9 +62,9 @@
     "In a separate bowl, mix almond milk, aquafaba, maple syrup, chopped parsley, and chives, whisking until frothy.",
     "Pour the wet mixture into the dry mixture, stirring gently until a thick, slightly sticky batter forms.",
     "Let the batter rest for 5 minutes to allow the flour to hydrate and the spices to meld.",
-    "Heat 2 tablespoons of olive oil in a large skillet over medium heat, aiming for a temperature of about 180 °C (350 °F).",
+    "Heat 2 tablespoons of olive oil in a large skillet over medium heat, aiming for a temperature of about 180\u202f\u00b0C (350\u202f\u00b0F).",
     "Drop spoonfuls of batter into the hot oil, flattening each fritter slightly with a spatula.",
-    "Cook for 2–3 minutes on each side, or until golden brown and crisp, turning carefully with a slotted spoon.",
+    "Cook for 2\u20133 minutes on each side, or until golden brown and crisp, turning carefully with a slotted spoon.",
     "Remove fritters to paper towels to drain excess oil, then serve warm, optionally sprinkled with extra fresh herbs or a pinch of sea salt.",
     ""
   ],
@@ -85,5 +85,20 @@
     "mainIngredient": "pistachios",
     "descriptor": "Crispy",
     "dishForm": "Fritters"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "norwegian",
+    "snack"
+  ]
 }

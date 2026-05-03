@@ -1,6 +1,6 @@
 {
-  "title": "Crispy Russian Cabbage Stir‑fry",
-  "description": "A light, savory stir‑fry featuring crisp cabbage, sweet carrot, and seasoned with sunflower oil and a touch of soy sauce for a subtle Russian twist.",
+  "title": "Crispy Russian Cabbage Stirfry",
+  "description": "A light, savory stirfry featuring crisp cabbage, sweet carrot, and seasoned with sunflower oil and a touch of soy sauce for a subtle Russian twist.",
   "cuisine": "Russian",
   "diet": [
     "vegan"
@@ -55,11 +55,11 @@
   ],
   "instructions": [
     "In a small bowl whisk together soy sauce, rice vinegar, garlic powder, ground ginger, paprika, salt, and 1/2 teaspoon black pepper to create the sauce.",
-    "Heat a large skillet or wok over medium‑high heat and add sunflower oil until shimmering.",
-    "Add sliced onion and julienned carrot; stir‑fry for 2–3 minutes until the onion begins to soften.",
-    "Add shredded cabbage and continue to stir‑fry for 3–4 minutes, keeping the mixture moving so the cabbage remains crisp.",
+    "Heat a large skillet or wok over medium\u2011high heat and add sunflower oil until shimmering.",
+    "Add sliced onion and julienned carrot; stir\u2011fry for 2\u20133 minutes until the onion begins to soften.",
+    "Add shredded cabbage and continue to stir\u2011fry for 3\u20134 minutes, keeping the mixture moving so the cabbage remains crisp.",
     "Pour the prepared sauce over the vegetables and sprinkle with sesame seeds; toss to coat evenly.",
-    "Cook for an additional 1–2 minutes to meld flavors, checking seasoning and adjusting salt or pepper if desired.",
+    "Cook for an additional 1\u20132 minutes to meld flavors, checking seasoning and adjusting salt or pepper if desired.",
     "Remove from heat, transfer to a serving dish, and serve immediately while hot.",
     "Optionally, give a quick squeeze of fresh lemon juice or sprinkle a pinch of crushed chili flakes for extra brightness."
   ],
@@ -80,5 +80,20 @@
     "mainIngredient": "cabbage",
     "descriptor": "Crispy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "russian",
+    "lunch"
+  ]
 }

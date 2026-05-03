@@ -41,7 +41,7 @@
     }
   ],
   "instructions": [
-    "Heat the air fryer to 375°F (190°C).",
+    "Heat the air fryer to 375\u00b0F (190\u00b0C).",
     "Add the fermented romano pepper and bell peppers into a bowl, season with salt and cumin seeds. Toss until well coated.",
     "Spread the seasoned mixture evenly on a baking sheet lined with parchment paper.",
     "Air-fry for about 20-25 minutes or until crispy, flipping halfway through cooking time.",
@@ -61,9 +61,9 @@
   ],
   "nutrition": {
     "calories": 523,
-    "protein": 8.4,
-    "carbs": 79.1,
-    "fat": 20.4
+    "protein": 8,
+    "carbs": 79,
+    "fat": 20
   },
   "slug": "crispy-fermented-romano-pepper-mexican-stir-fry",
   "source": "ollama-qwen2.5:3b",

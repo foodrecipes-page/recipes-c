@@ -43,7 +43,7 @@
   "instructions": [
     "Rinse quinoa under cold water and drain. Add it to a pot with 2 cups of water.",
     "Bring the mixture to a boil, then reduce heat to low and simmer for about 15 minutes or until water is absorbed.",
-    "In a separate pan, sauté minced garlic in olive oil over medium heat until fragrant but not browned.",
+    "In a separate pan, saut\u00e9 minced garlic in olive oil over medium heat until fragrant but not browned.",
     "Add chopped tomatoes and continue cooking for another minute. Add lemon juice and salt, stir well.",
     "When quinoa is ready, fold it into the tomato mixture along with cilantro leaves. Mix everything thoroughly.",
     "prepTimeMin"
@@ -60,8 +60,8 @@
   ],
   "nutrition": {
     "calories": 198,
-    "protein": 7.5,
-    "carbs": 26.5,
+    "protein": 8,
+    "carbs": 26,
     "fat": 4
   },
   "slug": "cilantro-bliss-tadka",
@@ -77,5 +77,6 @@
     "primaryIngredient": "cilantro leaves",
     "diet": "kosher",
     "region": null
-  }
+  },
+  "prepTimeMin": 15
 }

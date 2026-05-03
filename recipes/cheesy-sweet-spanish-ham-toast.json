@@ -1,6 +1,6 @@
 {
   "title": "Cheesy Sweet Spanish Ham Toast",
-  "description": "A quick, gooey brunch toast that balances salty ham and sweet jam with melty Manchego, perfect for a low‑carb, diabetic‑friendly breakfast.",
+  "description": "A quick, gooey brunch toast that balances salty ham and sweet jam with melty Manchego, perfect for a lowcarb, diabeticfriendly breakfast.",
   "cuisine": "Spanish",
   "diet": [
     "keto",
@@ -9,63 +9,63 @@
   "meal": "breakfast",
   "ingredients": [
     {
-      "name": "low‑carb Spanish‑style bread",
-      "amount": "2 slices (30 g)",
+      "name": "low\u2011carb Spanish\u2011style bread",
+      "amount": "2 slices (30\u202fg)",
       "notes": "keeps net carbs low"
     },
     {
-      "name": "Spanish jamón serrano, thinly sliced",
-      "amount": "2 oz (56 g)",
+      "name": "Spanish jam\u00f3n serrano, thinly sliced",
+      "amount": "2\u202foz (56\u202fg)",
       "notes": "use lean cut for less fat"
     },
     {
       "name": "Manchego cheese, sliced",
-      "amount": "1 oz (28 g)",
+      "amount": "1\u202foz (28\u202fg)",
       "notes": "provides rich melt"
     },
     {
-      "name": "sugar‑free strawberry jam",
-      "amount": "1 tbsp (15 g)",
-      "notes": "low‑sugar sweetener"
+      "name": "sugar\u2011free strawberry jam",
+      "amount": "1\u202ftbsp (15\u202fg)",
+      "notes": "low\u2011sugar sweetener"
     },
     {
-      "name": "extra‑virgin olive oil",
-      "amount": "1 tsp (4.5 g)",
+      "name": "extra\u2011virgin olive oil",
+      "amount": "1\u202ftsp (4.5\u202fg)",
       "notes": "adds shine and flavor"
     },
     {
       "name": "sea salt",
-      "amount": "pinch (1 g)",
+      "amount": "pinch (1\u202fg)",
       "notes": "season to taste"
     },
     {
       "name": "freshly ground black pepper",
-      "amount": "pinch (0.5 g)",
+      "amount": "pinch (0.5\u202fg)",
       "notes": "adds subtle heat"
     },
     {
       "name": "fresh rosemary, chopped",
-      "amount": "1 tsp (1 g)",
+      "amount": "1\u202ftsp (1\u202fg)",
       "notes": "for aromatic note"
     },
     {
       "name": "lemon zest",
-      "amount": "1 tsp (1 g)",
+      "amount": "1\u202ftsp (1\u202fg)",
       "notes": "brightens the dish"
     },
     {
       "name": "microgreens or arugula",
-      "amount": "2 g",
+      "amount": "2\u202fg",
       "notes": "garnish for freshness"
     }
   ],
   "instructions": [
-    "Preheat a non‑stick skillet over medium heat.",
-    "Lightly toast the bread slices in the skillet for 1–2 min per side until golden.",
-    "Spread ½ tablespoon of sugar‑free jam on each slice and let it caramelize slightly.",
-    "Lay 1 oz of jamón serrano over the jam, then top with Manchego cheese slices.",
+    "Preheat a non\u2011stick skillet over medium heat.",
+    "Lightly toast the bread slices in the skillet for 1\u20132\u202fmin per side until golden.",
+    "Spread \u00bd tablespoon of sugar\u2011free jam on each slice and let it caramelize slightly.",
+    "Lay 1\u202foz of jam\u00f3n serrano over the jam, then top with Manchego cheese slices.",
     "Drizzle olive oil over the cheese and sprinkle sea salt, pepper, rosemary, and lemon zest.",
-    "Cover the skillet with a lid and cook for 3–4 min until the cheese is fully melted and bubbly.",
+    "Cover the skillet with a lid and cook for 3\u20134\u202fmin until the cheese is fully melted and bubbly.",
     "Remove the toast from the skillet and transfer to a plate.",
     "Garnish with a handful of microgreens or arugula for a fresh crunch.",
     "Serve immediately while the cheese is still warm and gooey."
@@ -87,5 +87,20 @@
     "mainIngredient": "ham",
     "descriptor": "Cheesy Sweet",
     "dishForm": "Toast"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "spanish",
+    "breakfast"
+  ]
 }

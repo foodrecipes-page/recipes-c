@@ -1,6 +1,6 @@
 {
   "title": "Chewy Savory Greek Peanuts Flatbread",
-  "description": "A crowd‑pleasing, egg‑free Greek flatbread packed with crunchy peanuts and aromatic herbs, perfect as a snack or side.",
+  "description": "A crowdpleasing, eggfree Greek flatbread packed with crunchy peanuts and aromatic herbs, perfect as a snack or side.",
   "cuisine": "Greek",
   "diet": [
     "vegetarian"
@@ -13,7 +13,7 @@
       "notes": ""
     },
     {
-      "name": "All‑purpose flour",
+      "name": "All\u2011purpose flour",
       "amount": "1 cup (120g)",
       "notes": ""
     },
@@ -53,7 +53,7 @@
       "notes": "roasted, then coarsely crushed"
     },
     {
-      "name": "Greek yogurt (non‑fat)",
+      "name": "Greek yogurt (non\u2011fat)",
       "amount": "1/4 cup (60ml)",
       "notes": "adds moisture and tang"
     },
@@ -64,12 +64,12 @@
     }
   ],
   "instructions": [
-    "In a large mixing bowl combine whole wheat flour, all‑purpose flour, salt, sugar, oregano, dill, and pepper.",
+    "In a large mixing bowl combine whole wheat flour, all\u2011purpose flour, salt, sugar, oregano, dill, and pepper.",
     "Create a well in the center and pour in warm water, olive oil, and Greek yogurt. Mix until a sticky dough forms.",
     "Transfer the dough onto a lightly floured surface and knead for about 6 minutes until smooth and elastic.",
-    "Shape the dough into a flat, round disc (about 12 inches in diameter). Place it on a parchment‑lined baking sheet.",
+    "Shape the dough into a flat, round disc (about 12 inches in diameter). Place it on a parchment\u2011lined baking sheet.",
     "Pat the surface with a little olive oil and sprinkle the crushed peanuts evenly over it.",
-    "Bake in a preheated 220°C (425°F) oven for 18–20 minutes, or until the edges are golden and the flatbread feels firm to the touch.",
+    "Bake in a preheated 220\u00b0C (425\u00b0F) oven for 18\u201320 minutes, or until the edges are golden and the flatbread feels firm to the touch.",
     "Remove from the oven, let cool for 5 minutes, then cut into squares or strips and serve warm.",
     "Store leftovers in an airtight container at room temperature for up to 2 days."
   ],
@@ -90,5 +90,20 @@
     "mainIngredient": "peanuts",
     "descriptor": "Chewy Savory",
     "dishForm": "Flatbread"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "greek",
+    "snack"
+  ]
 }

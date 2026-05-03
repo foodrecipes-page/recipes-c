@@ -10,8 +10,8 @@
   "ingredients": [
     {
       "name": "Fennel bulb",
-      "amount": "1 large (≈500g)",
-      "notes": "Trim and cut into 1‑inch cubes"
+      "amount": "1 large (\u2248500g)",
+      "notes": "Trim and cut into 1\u2011inch cubes"
     },
     {
       "name": "Red onion",
@@ -38,11 +38,11 @@
       "amount": "1 tbsp"
     },
     {
-      "name": "Coconut milk (low‑sodium)",
+      "name": "Coconut milk (low\u2011sodium)",
       "amount": "400ml"
     },
     {
-      "name": "Low‑sodium vegetable broth",
+      "name": "Low\u2011sodium vegetable broth",
       "amount": "2 cups"
     },
     {
@@ -63,20 +63,20 @@
     },
     {
       "name": "Smoked paprika",
-      "amount": "½ tsp"
+      "amount": "\u00bd tsp"
     }
   ],
   "instructions": [
     "Heat olive oil in a large pot over medium heat.",
-    "Add diced onion and sauté until translucent, about 4 minutes.",
+    "Add diced onion and saut\u00e9 until translucent, about 4 minutes.",
     "Incorporate minced garlic, sliced carrot, and zucchini; cook for another 3 minutes.",
     "Add the cubed fennel and stir for 2 minutes to toast slightly.",
     "Stir in thyme, cumin, and smoked paprika, cooking for 30 seconds until fragrant.",
-    "Pour in coconut milk and low‑sodium vegetable broth, then add maple syrup and lemon juice.",
+    "Pour in coconut milk and low\u2011sodium vegetable broth, then add maple syrup and lemon juice.",
     "Bring the mixture to a gentle boil, then reduce heat to low and simmer, covered, for 45 minutes, stirring occasionally, until the fennel is tender yet chewy.",
     "Taste and adjust seasoning without adding salt; if needed, add a pinch of salt or more lemon juice to balance.",
     "Serve hot, optionally garnished with fresh herbs or a squeeze of lemon.",
-    "Enjoy this soothing, low‑sodium stew as a comforting lunch or dinner to help recover from a night out."
+    "Enjoy this soothing, low\u2011sodium stew as a comforting lunch or dinner to help recover from a night out."
   ],
   "slug": "chewy-sweet-australian-fennel-stew",
   "source": "ocloud-gpt-oss:20b",
@@ -95,5 +95,20 @@
     "mainIngredient": "Fennel",
     "descriptor": "Chewy Sweet",
     "dishForm": "Stew"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "australian",
+    "dinner"
+  ]
 }

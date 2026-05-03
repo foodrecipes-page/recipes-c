@@ -35,7 +35,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 180°C (350°F).",
+    "Preheat oven to 180\u00b0C (350\u00b0F).",
     "Mix all ingredients in a large bowl until smooth and well combined.",
     "Form the mixture into small balls, about golf ball size, then dust with additional flour on both sides.",
     "Place the crumbls on a baking sheet lined with parchment paper.",
@@ -55,9 +55,9 @@
   ],
   "nutrition": {
     "calories": 205,
-    "protein": 3.4,
-    "carbs": 26.9,
-    "fat": 1.7
+    "protein": 3,
+    "carbs": 27,
+    "fat": 2
   },
   "slug": "crunchy-smoky-tamarind-filipino-crumbl",
   "source": "ollama-qwen2.5:3b",

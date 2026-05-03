@@ -58,10 +58,10 @@
   "instructions": [
     "Pat the chicken dry with paper towels to help it crisp up.",
     "Heat 1 tbsp of oil in a large skillet over medium-high heat; add the chicken and sear until golden on all sides, about 5 minutes. Remove and set aside.",
-    "Reduce the heat to medium and add another tbsp of oil to the same skillet. Sauté onion, garlic, and ginger until softened, about 3 minutes.",
+    "Reduce the heat to medium and add another tbsp of oil to the same skillet. Saut\u00e9 onion, garlic, and ginger until softened, about 3 minutes.",
     "Stir in the Madras curry paste and cook for 1 minute until fragrant.",
     "Return the chicken to the pan and pour in the coconut milk, stirring to combine. Bring to a gentle simmer.",
-    "Reduce the heat to low, cover, and let the curry bubble slowly for 12-15 minutes, or until the chicken reaches an internal temperature of 75°C (165°F).",
+    "Reduce the heat to low, cover, and let the curry bubble slowly for 12-15 minutes, or until the chicken reaches an internal temperature of 75\u00b0C (165\u00b0F).",
     "Stir in the Greek yogurt and lemon juice, then uncover and simmer for another 2 minutes to thicken slightly.",
     "Season with salt to taste, sprinkle with fresh coriander, and serve immediately over rice or with a side of crusty bread."
   ],
@@ -82,5 +82,20 @@
     "mainIngredient": "chicken",
     "descriptor": "Crispy",
     "dishForm": "Curry"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "british-indian",
+    "dinner"
+  ]
 }

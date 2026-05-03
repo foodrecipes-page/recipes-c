@@ -25,7 +25,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 350°F (175°C).",
+    "Preheat your oven to 350\u00b0F (175\u00b0C).",
     "In a bowl, mix the grated Parmigiano-Reggiano cheese with heavy cream until creamy.",
     "Fold in diced bacon and halved capers into the cheese mixture.",
     "Transfer the mixture onto a baking sheet lined with parchment paper. Bake for 20 minutes or until golden brown and crispy on top.",
@@ -44,9 +44,9 @@
   ],
   "nutrition": {
     "calories": 608,
-    "protein": 19.7,
-    "carbs": 25.7,
-    "fat": 34.3
+    "protein": 20,
+    "carbs": 26,
+    "fat": 34
   },
   "slug": "crumbled-keto-quesillo",
   "source": "ollama-qwen2.5:3b",

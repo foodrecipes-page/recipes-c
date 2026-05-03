@@ -27,9 +27,9 @@
     }
   ],
   "instructions": [
-    "Preheat your air fryer to 400°F (200°C).",
+    "Preheat your air fryer to 400\u00b0F (200\u00b0C).",
     "Cut the sevaiiya into bite-sized pieces and toss them with a bit of olive oil.",
-    "In a pan, sauté the onions until translucent. Add minced garlic and cook for another minute.",
+    "In a pan, saut\u00e9 the onions until translucent. Add minced garlic and cook for another minute.",
     "Add the sliced tomatoes to the pan and stir-fry for about 2 minutes or until they start to soften slightly.",
     "Toss the sevaiiya with the tomato mixture in the pan, drizzle with lemon juice, and toss well.",
     "Transfer the sevaiiya to your preheated air fryer basket and cook for 10-15 minutes or until crispy on all sides.",
@@ -65,5 +65,16 @@
     "mainIngredient": "Sevaiiya",
     "descriptor": "crunchy",
     "dishForm": "Stir-fry"
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
   }
 }

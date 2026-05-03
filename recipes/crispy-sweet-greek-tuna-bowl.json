@@ -1,6 +1,6 @@
 {
   "title": "Crispy Sweet Greek Tuna Bowl",
-  "description": "A quick, sugar‑free Greek bowl packed with flaky tuna, crunchy roasted chickpeas, and a creamy lemon‑yogurt sauce, finished with fresh veggies and feta.",
+  "description": "A quick, sugarfree Greek bowl packed with flaky tuna, crunchy roasted chickpeas, and a creamy lemonyogurt sauce, finished with fresh veggies and feta.",
   "cuisine": "Greek",
   "diet": [
     "sugar-free"
@@ -62,9 +62,9 @@
     }
   ],
   "instructions": [
-    "Preheat the oven to 200 °C. Toss the chickpeas with 1 tbsp olive oil, salt, and pepper, then spread them on a baking sheet. Roast for 20 minutes until crisp, turning once.",
+    "Preheat the oven to 200\u202f\u00b0C. Toss the chickpeas with 1\u202ftbsp olive oil, salt, and pepper, then spread them on a baking sheet. Roast for 20\u202fminutes until crisp, turning once.",
     "Drain the canned tuna and flake it with a fork, then set aside.",
-    "Combine diced cucumber, tomato, sliced red onion, and olives in a large bowl. Drizzle with the remaining 1 tbsp olive oil and season with salt and pepper, tossing gently.",
+    "Combine diced cucumber, tomato, sliced red onion, and olives in a large bowl. Drizzle with the remaining 1\u202ftbsp olive oil and season with salt and pepper, tossing gently.",
     "Whisk the Greek yogurt with lemon juice, oregano, and a pinch of salt to create a creamy sauce.",
     "To assemble, divide the veggie mixture between two bowls. Top each with flaked tuna, roasted chickpeas, and crumbled feta. Drizzle the yogurt sauce over the bowls and garnish with fresh dill or a lemon wedge if desired.",
     "Serve immediately for the best crunch.",
@@ -87,5 +87,20 @@
     "mainIngredient": "Tuna",
     "descriptor": "Crispy Sweet",
     "dishForm": "Bowl"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "greek",
+    "dinner"
+  ]
 }

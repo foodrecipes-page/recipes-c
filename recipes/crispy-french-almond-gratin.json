@@ -1,6 +1,6 @@
 {
   "title": "Crispy French Almond Gratin",
-  "description": "A savory, almond‑laden gratin with a crisp top and a tender braised base, perfect for a low‑sodium lunch.",
+  "description": "A savory, almondladen gratin with a crisp top and a tender braised base, perfect for a lowsodium lunch.",
   "cuisine": "French",
   "diet": [
     "low-sodium"
@@ -25,26 +25,26 @@
     {
       "name": "unsalted butter",
       "amount": "2 tbsp",
-      "notes": "divided; 1 tbsp for sautéing, 1 tbsp for finishing"
+      "notes": "divided; 1 tbsp for saut\u00e9ing, 1 tbsp for finishing"
     },
     {
       "name": "heavy cream",
       "amount": "1 cup (240ml)",
-      "notes": "low‑fat if preferred"
+      "notes": "low\u2011fat if preferred"
     },
     {
-      "name": "Gruyère cheese",
+      "name": "Gruy\u00e8re cheese",
       "amount": "1 cup grated (about 100g)",
       "notes": "adds depth and crispness"
     },
     {
       "name": "sea salt",
-      "amount": "¼ tsp",
-      "notes": "optional; use a pinch if truly low‑sodium"
+      "amount": "\u00bc tsp",
+      "notes": "optional; use a pinch if truly low\u2011sodium"
     },
     {
       "name": "black pepper",
-      "amount": "¼ tsp freshly ground",
+      "amount": "\u00bc tsp freshly ground",
       "notes": "adds subtle heat"
     },
     {
@@ -59,12 +59,12 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 375°F (190°C).",
-    "In a medium skillet, melt 1 tbsp butter over medium heat and sauté shallots until translucent, about 3 minutes. Add sliced potatoes, sea salt, black pepper, and thyme; cook for 5 minutes, stirring to coat.",
+    "Preheat oven to 375\u00b0F (190\u00b0C).",
+    "In a medium skillet, melt 1 tbsp butter over medium heat and saut\u00e9 shallots until translucent, about 3 minutes. Add sliced potatoes, sea salt, black pepper, and thyme; cook for 5 minutes, stirring to coat.",
     "Deglaze with white wine, scraping up any browned bits; reduce for 2 minutes.",
-    "Transfer the potato mixture to a greased 9‑inch ovenproof dish. Pour heavy cream evenly over the top, then sprinkle grated Gruyère and toasted almonds.",
+    "Transfer the potato mixture to a greased 9\u2011inch ovenproof dish. Pour heavy cream evenly over the top, then sprinkle grated Gruy\u00e8re and toasted almonds.",
     "Dot the remaining 1 tbsp butter over the surface for a glossy finish.",
-    "Bake uncovered for 30 minutes, then increase the heat to 425°F (220°C) and bake for an additional 10‑12 minutes until the top is golden and crisp.",
+    "Bake uncovered for 30 minutes, then increase the heat to 425\u00b0F (220\u00b0C) and bake for an additional 10\u201112 minutes until the top is golden and crisp.",
     "Remove from oven and let rest 5 minutes before serving. Enjoy a crunchy, savory bite with a buttery, almond finish."
   ],
   "slug": "crispy-french-almond-gratin",
@@ -84,5 +84,20 @@
     "mainIngredient": "almonds",
     "descriptor": "Crispy",
     "dishForm": "Gratin"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "french",
+    "lunch"
+  ]
 }

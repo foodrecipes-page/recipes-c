@@ -22,7 +22,7 @@
     {
       "name": "sliced almonds or peanuts (unsalted)",
       "amount": "3/4 cup",
-      "notes": "soaked and dried in the fridge for 2 hours before sous-vide cooking at 160°C for 45 minutes, then cooled to room temperature"
+      "notes": "soaked and dried in the fridge for 2 hours before sous-vide cooking at 160\u00b0C for 45 minutes, then cooled to room temperature"
     },
     {
       "name": "ginger paste",
@@ -47,7 +47,7 @@
     }
   ],
   "instructions": [
-    "Preheat your sous-vide machine to 160°C and prepare the nuts by soaking them in water for about 2 hours, then drying them and cooking as per instructions.",
+    "Preheat your sous-vide machine to 160\u00b0C and prepare the nuts by soaking them in water for about 2 hours, then drying them and cooking as per instructions.",
     "In a large skillet or wok over medium-high heat, add the sesame oil. Once it's hot, add the sliced almonds (or peanuts) and stir-fry until lightly golden brown, about 3-5 minutes.",
     "Add unsalted butter to the pan and let it melt. Stir in ginger paste, garlic paste, and sugar if using. Cook for about a minute until fragrant and slightly reduced.",
     "Pour in coconut milk into the pan and bring to a simmer. Adjust seasoning with salt as needed. Allow the mixture to cook down by half or until you get your desired consistency.",
@@ -69,9 +69,9 @@
   ],
   "nutrition": {
     "calories": 304,
-    "protein": 6.5,
-    "carbs": 27.9,
-    "fat": 18.3
+    "protein": 6,
+    "carbs": 28,
+    "fat": 18
   },
   "slug": "crispy-nutty-coconut-stir-fry",
   "source": "ollama-qwen2.5:3b",

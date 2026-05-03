@@ -3,7 +3,7 @@
   "description": "A tangy and crispy Japanese dish featuring freshly chopped parsley, simmered for a quick and easy crowd-pleaser that's sugar-free-friendly.",
   "cuisine": "Japanese",
   "diet": null,
-  "meal": "appetizer",
+  "meal": "snack",
   "ingredients": [
     {
       "name": "Tangerine peel",
@@ -33,7 +33,7 @@
   "instructions": [
     "Wash and pat dry the tangerine peel.",
     "Slice off any tough parts of the peel, then finely chop the remaining peel.",
-    "In a large skillet over medium heat, add the chopped tangerine peel and minced garlic. Sauté until fragrant, about 2 minutes.",
+    "In a large skillet over medium heat, add the chopped tangerine peel and minced garlic. Saut\u00e9 until fragrant, about 2 minutes.",
     "Add red pepper flakes and soy sauce to the skillet; stir well for another minute.",
     "Gradually pour in water or chicken broth while continuously stirring to prevent burning. Let it simmer for about 5-7 minutes until slightly thickened.",
     "Stir in chopped parsley just before serving to keep its vibrant color and texture."
@@ -54,7 +54,7 @@
     "calories": 50,
     "protein": 1,
     "carbs": 6,
-    "fat": 0.5
+    "fat": 0
   },
   "slug": "crispy-japanese-tangerine-peel-stir-fry",
   "source": "ollama-qwen2.5:3b",

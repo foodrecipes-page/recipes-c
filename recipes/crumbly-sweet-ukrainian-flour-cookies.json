@@ -53,7 +53,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 180°C (350°F) and line a baking sheet with parchment paper.",
+    "Preheat oven to 180\u00b0C (350\u00b0F) and line a baking sheet with parchment paper.",
     "In a bowl, whisk flour, baking powder, and salt together and set aside.",
     "In another larger bowl, cream butter and sugar until light and fluffy; add honey and mix until combined.",
     "Beat in the egg and vanilla extract until smooth.",
@@ -80,5 +80,20 @@
     "mainIngredient": "flour",
     "descriptor": "Crumbly Sweet",
     "dishForm": "Cookies"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "ukrainian",
+    "dessert"
+  ]
 }

@@ -1,6 +1,6 @@
 {
   "title": "Crispy Sweet Arabian Fennel Fritters",
-  "description": "Sweet, aromatic fennel fritters with a hint of cardamom and cinnamon, crisped to perfection and gluten‑free.",
+  "description": "Sweet, aromatic fennel fritters with a hint of cardamom and cinnamon, crisped to perfection and glutenfree.",
   "cuisine": "Saudi Arabian",
   "diet": [
     "gluten-free",
@@ -10,58 +10,58 @@
   "ingredients": [
     {
       "name": "Fennel bulb",
-      "amount": "1 medium (≈200 g), trimmed and thinly sliced",
+      "amount": "1 medium (\u2248200\u202fg), trimmed and thinly sliced",
       "notes": ""
     },
     {
       "name": "Chickpea flour",
-      "amount": "1/2 cup (≈65 g)",
+      "amount": "1/2 cup (\u224865\u202fg)",
       "notes": ""
     },
     {
-      "name": "Gluten‑free breadcrumbs (or panko)",
-      "amount": "1/4 cup (≈30 g)",
+      "name": "Gluten\u2011free breadcrumbs (or panko)",
+      "amount": "1/4 cup (\u224830\u202fg)",
       "notes": ""
     },
     {
       "name": "Ground cardamom",
-      "amount": "1 tsp (≈1 g)",
+      "amount": "1\u202ftsp (\u22481\u202fg)",
       "notes": ""
     },
     {
       "name": "Ground cinnamon",
-      "amount": "1/2 tsp (≈1 g)",
+      "amount": "1/2\u202ftsp (\u22481\u202fg)",
       "notes": ""
     },
     {
       "name": "Granulated sugar",
-      "amount": "1 tsp (≈4 g)",
+      "amount": "1\u202ftsp (\u22484\u202fg)",
       "notes": ""
     },
     {
       "name": "Salt",
-      "amount": "1/8 tsp (≈0.5 g)",
+      "amount": "1/8\u202ftsp (\u22480.5\u202fg)",
       "notes": ""
     },
     {
       "name": "Flaxseed meal",
-      "amount": "1 tbsp (≈10 g)",
-      "notes": "Mixed with 2.5 Tbsp water to form a flax‑egg"
+      "amount": "1\u202ftbsp (\u224810\u202fg)",
+      "notes": "Mixed with 2.5\u202fTbsp water to form a flax\u2011egg"
     },
     {
       "name": "Vegetable oil",
-      "amount": "2 Tbsp for frying",
+      "amount": "2\u202fTbsp for frying",
       "notes": ""
     }
   ],
   "instructions": [
-    "In a bowl, whisk together the flaxseed meal and water; let sit for 5 minutes until thick.",
-    "In a separate large bowl, combine chickpea flour, gluten‑free breadcrumbs, cardamom, cinnamon, sugar, and salt.",
+    "In a bowl, whisk together the flaxseed meal and water; let sit for 5\u202fminutes until thick.",
+    "In a separate large bowl, combine chickpea flour, gluten\u2011free breadcrumbs, cardamom, cinnamon, sugar, and salt.",
     "Add the sliced fennel to the dry mixture and toss until the fennel is evenly coated.",
     "Gently fold in the thickened flaxseed mixture, stirring until a batter forms that can hold the fennel pieces.",
-    "Heat the vegetable oil in a non‑stick skillet over medium heat until shimmering (about 180 °C).",
-    "Drop spoonfuls of the batter into the hot oil, flattening slightly; fry for 2‑3 minutes per side until golden brown and crisp.",
-    "Transfer the fritters to a paper‑towel lined plate to drain excess oil.",
+    "Heat the vegetable oil in a non\u2011stick skillet over medium heat until shimmering (about 180\u202f\u00b0C).",
+    "Drop spoonfuls of the batter into the hot oil, flattening slightly; fry for 2\u20113\u202fminutes per side until golden brown and crisp.",
+    "Transfer the fritters to a paper\u2011towel lined plate to drain excess oil.",
     "Serve warm, optionally dusted with additional sugar or a drizzle of honey for extra sweetness."
   ],
   "slug": "crispy-sweet-arabian-fennel-fritters",
@@ -81,5 +81,20 @@
     "mainIngredient": "fennel",
     "descriptor": "Crispy Sweet",
     "dishForm": "Fritters"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "saudi-arabian",
+    "snack"
+  ]
 }

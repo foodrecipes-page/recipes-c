@@ -54,7 +54,7 @@
     "Combine cornstarch with a bit of water to make a slurry.",
     "Wash and chop shrimp. Soak dried shrimp in water for about half an hour, then drain and chop.",
     "Peel onions and scallions; finely dice the garlic, then slice the onions into rounds.",
-    "In a wok or large frying pan, heat oil over medium-high heat (around 360°F). Add chopped onions and cook until they are golden brown.",
+    "In a wok or large frying pan, heat oil over medium-high heat (around 360\u00b0F). Add chopped onions and cook until they are golden brown.",
     "Add sliced garlic and stir for about 1 minute. Then add shrimp and dried shrimp to the pan; toss until fragrant and slightly translucent.",
     "Pour in soy sauce, oyster sauce, and slurry made from cornstarch and water. Stir well to combine, then cook until thickened and bubbly.",
     "Toss in chopped peanuts and scallion greens over medium-high heat for about 2 minutes.",
@@ -73,9 +73,9 @@
   ],
   "nutrition": {
     "calories": 897,
-    "protein": 32.1,
-    "carbs": 40.5,
-    "fat": 16.5
+    "protein": 32,
+    "carbs": 40,
+    "fat": 16
   },
   "slug": "crispy-american-shrimp-stir-fry",
   "source": "ollama-qwen2.5:3b",

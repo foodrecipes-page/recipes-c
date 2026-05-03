@@ -49,7 +49,7 @@
     "Remove the potatoes from the pot and allow to cool. Then cut them into bite-sized pieces.",
     "In a blender or food processor, blend together the cooled potatoes with lime juice, salt, and spices if using.",
     "Heat a non-stick pan over medium heat. Add oil and swirl it around the pan.",
-    "Add the garlic and chili flakes to the pan and sauté for about 30 seconds until fragrant.",
+    "Add the garlic and chili flakes to the pan and saut\u00e9 for about 30 seconds until fragrant.",
     "Pour in the potato mixture from the blender into the hot pan, stirring quickly with tongs or spatula to form clusters of potatoes (like nuggets).",
     "Cook for another minute until all the moisture evaporates and the pieces become crispy and golden brown on top.",
     "prepTimeMin: 15",
@@ -68,9 +68,9 @@
   ],
   "nutrition": {
     "calories": 248,
-    "protein": 5.6,
-    "carbs": 37.1,
-    "fat": 9.3
+    "protein": 6,
+    "carbs": 37,
+    "fat": 9
   },
   "slug": "crunchy-romantic-uruguayan-potato-stir-fry",
   "source": "ollama-qwen2.5:3b",
@@ -89,5 +89,10 @@
     "mainIngredient": "Potato",
     "descriptor": "Spicy Crunchy Romantic",
     "dishForm": "Stir-fry"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium"
 }

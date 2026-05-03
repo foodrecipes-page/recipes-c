@@ -53,7 +53,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 375°F (190°C).",
+    "Preheat oven to 375\u00b0F (190\u00b0C).",
     "Quarter new potatoes and rinse.",
     "Spread quartered potatoes on a baking sheet. Drizzle with sesame oil and set aside.",
     "In a small saucepan, combine butter, soy sauce, rice vinegar, ginger, green onion, gochugaru, and peanut butter. Stir until smooth.",
@@ -68,15 +68,15 @@
   "difficulty": "easy",
   "tags": [
     "korean",
-    "new potatoes",
+    "new-potatoes",
     "bake",
     "creamy"
   ],
   "nutrition": {
     "calories": 367,
-    "protein": 12.8,
-    "carbs": 19.5,
-    "fat": 18.6
+    "protein": 13,
+    "carbs": 20,
+    "fat": 19
   },
   "slug": "creamy-korean-new-potatoes-bake",
   "source": "ollama-qwen2.5:3b",

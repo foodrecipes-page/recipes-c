@@ -1,6 +1,6 @@
 {
   "title": "Citrusy Tender Uruguayan Turnips Hash",
-  "description": "A vibrant brunch hash featuring tender turnips sautéed with citrusy lemon and Argentine-inspired herbs for a bright, low-sodium morning dish.",
+  "description": "A vibrant brunch hash featuring tender turnips sauteed with citrusy lemon and Argentine-inspired herbs for a bright, low-sodium morning dish.",
   "cuisine": "Uruguayan",
   "diet": [
     "vegetarian",
@@ -93,5 +93,20 @@
     "mainIngredient": "turnips",
     "descriptor": "Citrusy Tender",
     "dishForm": "Hash"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "uruguayan",
+    "breakfast"
+  ]
 }

@@ -84,7 +84,7 @@
   "prepTimeMin": 20,
   "cookTimeMin": 30,
   "totalTimeMin": 50,
-  "servings": "4-6",
+  "servings": 5,
   "difficulty": "medium",
   "tags": [
     "beef",
@@ -95,9 +95,9 @@
   ],
   "nutrition": {
     "calories": 500,
-    "protein": "35g",
-    "carbs": "20g",
-    "fat": "25g"
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
   },
   "slug": "citrusy-juicy-irish-beef-dumplings",
   "source": "groq-llama-3.1-8b-instant",

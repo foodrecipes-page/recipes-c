@@ -84,12 +84,12 @@
   ],
   "instructions": [
     "Marinate the chicken in yogurt, lemon zest, lemon juice, honey, salt, ground cumin, turmeric, paprika, and chili flakes for 15 minutes.",
-    "Heat 1 tbsp vegetable oil in a large heavy‑bottomed pot over medium‑high heat.",
-    "Add the chicken pieces skin side down and cook until the skin is golden and crispy, about 5–6 minutes. Flip and sear the other side until crisp, about 4 minutes. Remove chicken and set aside.",
-    "Add minced garlic and grated ginger to the pot, sauté for 30 seconds until fragrant.",
+    "Heat 1 tbsp vegetable oil in a large heavy\u2011bottomed pot over medium\u2011high heat.",
+    "Add the chicken pieces skin side down and cook until the skin is golden and crispy, about 5\u20136 minutes. Flip and sear the other side until crisp, about 4 minutes. Remove chicken and set aside.",
+    "Add minced garlic and grated ginger to the pot, saut\u00e9 for 30 seconds until fragrant.",
     "Stir in tomato paste and soy sauce, cooking for 1 minute to develop flavor.",
     "Pour in the coconut milk and add the bay leaf. Bring to a gentle simmer.",
-    "Return the seared chicken to the pot, reduce heat to low, and let it simmer for 15–20 minutes until the sauce thickens and the chicken is cooked through.",
+    "Return the seared chicken to the pot, reduce heat to low, and let it simmer for 15\u201320 minutes until the sauce thickens and the chicken is cooked through.",
     "Remove the bay leaf, then stir in the lemon wheels and adjust seasoning with salt, pepper, or extra honey if desired.",
     "Garnish with chopped cilantro before serving.",
     "Serve hot over steamed rice or flatbread for a complete meal."
@@ -111,5 +111,20 @@
     "mainIngredient": "Chicken",
     "descriptor": "Crispy Lemon",
     "dishForm": "Curry"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "australian",
+    "dinner"
+  ]
 }

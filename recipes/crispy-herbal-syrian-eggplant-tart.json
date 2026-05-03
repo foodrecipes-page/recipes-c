@@ -1,6 +1,6 @@
 {
   "title": "Crispy Herbal Syrian Eggplant Tart",
-  "description": "A fragrant, grill‑cooked tart featuring thinly sliced eggplant, a herbaceous tomato filling, and a ready‑rolled shortcrust pastry.",
+  "description": "A fragrant, grillcooked tart featuring thinly sliced eggplant, a herbaceous tomato filling, and a readyrolled shortcrust pastry.",
   "cuisine": "Syrian",
   "diet": [
     "vegetarian"
@@ -9,16 +9,16 @@
   "ingredients": [
     {
       "name": "ready rolled shortcrust pastry",
-      "amount": "1 sheet (≈200 g)",
-      "notes": "use pre‑made shortcrust pastry, rolled out to 1 cm thickness"
+      "amount": "1 sheet (\u2248200\u202fg)",
+      "notes": "use pre\u2011made shortcrust pastry, rolled out to 1\u202fcm thickness"
     },
     {
       "name": "eggplant",
-      "amount": "1 medium (≈200 g), sliced 1 cm thick"
+      "amount": "1 medium (\u2248200\u202fg), sliced 1\u202fcm thick"
     },
     {
       "name": "olive oil",
-      "amount": "2 Tbsp"
+      "amount": "2\u202fTbsp"
     },
     {
       "name": "onion",
@@ -34,38 +34,38 @@
     },
     {
       "name": "fresh parsley",
-      "amount": "¼ cup, chopped"
+      "amount": "\u00bc\u202fcup, chopped"
     },
     {
       "name": "fresh mint",
-      "amount": "1 Tbsp, chopped"
+      "amount": "1\u202fTbsp, chopped"
     },
     {
       "name": "za'atar",
-      "amount": "1 Tbsp"
+      "amount": "1\u202fTbsp"
     },
     {
       "name": "salt",
-      "amount": "1 tsp"
+      "amount": "1\u202ftsp"
     },
     {
       "name": "black pepper",
-      "amount": "½ tsp"
+      "amount": "\u00bd\u202ftsp"
     },
     {
       "name": "lemon zest",
-      "amount": "1 tsp"
+      "amount": "1\u202ftsp"
     }
   ],
   "instructions": [
-    "Preheat your grill to medium‑high (about 200 °C / 400 °F).",
-    "Brush the eggplant slices with 1 Tbsp of olive oil and season with salt and pepper; grill for 3–4 min on each side until lightly charred and tender.",
-    "Meanwhile, heat the remaining 1 Tbsp olive oil in a skillet over medium heat.",
-    "Add the diced onion and sauté until translucent, about 3 min. Add the minced garlic and cook for 30 s. Stir in the diced tomato, cooking until softened, about 3 min. Add chopped parsley, mint, ½ Tbsp za’atar, lemon zest, remaining salt, pepper, and ½ Tbsp za’atar; cook for 1 min, then remove from heat.",
-    "Let the filling cool slightly so it doesn’t melt the pastry.",
-    "Place the pastry sheet on a lightly oiled grill pan or a sheet of parchment on the grill. Spread the tomato‑herb filling evenly over the pastry, leaving a 1 cm border.",
-    "Close the edges of the pastry to form a loose enclosure, or simply leave it open and grill the pastry for 5–7 min, turning once, until golden and crisp.",
-    "Remove the tart from the grill, let cool for 5 min, then cut into wedges and serve warm."
+    "Preheat your grill to medium\u2011high (about 200\u202f\u00b0C / 400\u202f\u00b0F).",
+    "Brush the eggplant slices with 1\u202fTbsp of olive oil and season with salt and pepper; grill for 3\u20134\u202fmin on each side until lightly charred and tender.",
+    "Meanwhile, heat the remaining 1\u202fTbsp olive oil in a skillet over medium heat.",
+    "Add the diced onion and saut\u00e9 until translucent, about 3\u202fmin. Add the minced garlic and cook for 30\u202fs. Stir in the diced tomato, cooking until softened, about 3\u202fmin. Add chopped parsley, mint, \u00bd\u202fTbsp za\u2019atar, lemon zest, remaining salt, pepper, and \u00bd\u202fTbsp za\u2019atar; cook for 1\u202fmin, then remove from heat.",
+    "Let the filling cool slightly so it doesn\u2019t melt the pastry.",
+    "Place the pastry sheet on a lightly oiled grill pan or a sheet of parchment on the grill. Spread the tomato\u2011herb filling evenly over the pastry, leaving a 1\u202fcm border.",
+    "Close the edges of the pastry to form a loose enclosure, or simply leave it open and grill the pastry for 5\u20137\u202fmin, turning once, until golden and crisp.",
+    "Remove the tart from the grill, let cool for 5\u202fmin, then cut into wedges and serve warm."
   ],
   "slug": "crispy-herbal-syrian-eggplant-tart",
   "source": "ocloud-gpt-oss:20b",
@@ -84,5 +84,20 @@
     "mainIngredient": "Eggplant",
     "descriptor": "Crispy Herbal",
     "dishForm": "Tart"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "syrian",
+    "dinner"
+  ]
 }

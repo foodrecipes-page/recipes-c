@@ -86,7 +86,7 @@
   ],
   "instructions": [
     "Rinse the vine leaves under cold water, pat dry and set aside.",
-    "Heat olive oil in a non-stick skillet over medium heat; sauté onion, garlic, carrot, celery, and bell pepper until softened, about 4 minutes.",
+    "Heat olive oil in a non-stick skillet over medium heat; saut\u00e9 onion, garlic, carrot, celery, and bell pepper until softened, about 4 minutes.",
     "Add diced tomatoes and cook for another 2 minutes.",
     "Fold in spinach and cook until wilted, about 1 minute.",
     "Season the mixture with oregano, basil, salt, pepper, and lemon juice; stir well and remove from heat.",
@@ -112,5 +112,20 @@
     "mainIngredient": "vine leaves",
     "descriptor": "Crispy",
     "dishForm": "Wrap"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "italian",
+    "lunch"
+  ]
 }

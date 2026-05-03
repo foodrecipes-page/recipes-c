@@ -29,13 +29,13 @@
     }
   ],
   "instructions": [
-    "Preheat your sous-vide machine to 32°C.",
+    "Preheat your sous-vide machine to 32\u00b0C.",
     "Separate the egg yolks from the whites and whisk the yolks until pale and fluffy. Add a splash of milk or cream, if desired, and continue whisking until thickened. Season with salt and pepper as needed.",
     "In a medium bowl, combine almond flour with a pinch of salt. Set aside.",
-    "Sous-vide the egg whites at 32°C for about 2 hours (or according to your sous-vider instructions). Let them cool slightly before using the eggs in this recipe.",
+    "Sous-vide the egg whites at 32\u00b0C for about 2 hours (or according to your sous-vider instructions). Let them cool slightly before using the eggs in this recipe.",
     "In a pan over low heat, melt the butter and gently fold it into the yolks. Once melted but not hot enough to scramble, slowly add the cooled egg whites and mix thoroughly.",
     "Pour the egg mixture evenly onto a baking sheet lined with parchment paper. If using a paleo-friendly crumble topping mix, sprinkle that on top now as well.",
-    "Bake in a preheated oven at 180°C for about 25 minutes or until golden brown and crispy around the edges. The dish is best served immediately chilled but can be made ahead of time and stored.",
+    "Bake in a preheated oven at 180\u00b0C for about 25 minutes or until golden brown and crispy around the edges. The dish is best served immediately chilled but can be made ahead of time and stored.",
     "Serve with maple syrup drizzled over the top if desired."
   ],
   "prepTimeMin": 30,
@@ -51,9 +51,9 @@
   ],
   "nutrition": {
     "calories": 368,
-    "protein": 20.8,
-    "carbs": 9.1,
-    "fat": 21.7
+    "protein": 21,
+    "carbs": 9,
+    "fat": 22
   },
   "slug": "chilled-butter-irish-crumble",
   "source": "ollama-qwen2.5:3b",

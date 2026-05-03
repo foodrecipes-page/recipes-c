@@ -5,7 +5,7 @@
   "diet": [
     "diabetic-friendly"
   ],
-  "meal": "appetizer",
+  "meal": "snack",
   "ingredients": [
     {
       "name": "spinach",
@@ -42,7 +42,7 @@
   ],
   "instructions": [
     "Heat olive oil in a pan over medium heat.",
-    "Add onions and garlic, sautéing until translucent, about 5 minutes.",
+    "Add onions and garlic, saut\u00e9ing until translucent, about 5 minutes.",
     "Stir in bell peppers and cook for another 3-4 minutes or until slightly softened.",
     "Juice the limes into the pan along with their seeds and membranes. Add salt and pepper to taste.",
     "Fold spinach leaves into the mixture, stirring gently to wilt them.",
@@ -76,5 +76,16 @@
     "mainIngredient": "herb",
     "descriptor": "Creamy Light",
     "dishForm": "Stir-fry"
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
   }
 }

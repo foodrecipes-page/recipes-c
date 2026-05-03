@@ -1,6 +1,6 @@
 {
   "title": "Crispy Buttery Malaysian Corn Tortilla Bake",
-  "description": "A kid-friendly, low‑calorie baked dish featuring buttery corn tortillas, tangy fresh veggies and a touch of Malaysian flair.",
+  "description": "A kid-friendly, lowcalorie baked dish featuring buttery corn tortillas, tangy fresh veggies and a touch of Malaysian flair.",
   "cuisine": "Malaysian",
   "diet": [
     "low-calorie",
@@ -55,9 +55,9 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 375°F (190°C). Line a 9x9-inch baking dish with parchment paper.",
+    "Preheat oven to 375\u00b0F (190\u00b0C). Line a 9x9-inch baking dish with parchment paper.",
     "In a small saucepan, melt butter and add minced garlic. Cook 1 minute until fragrant.",
-    "Lightly toss the corn tortillas in the garlic‑butter mixture, seasoning with salt and pepper.",
+    "Lightly toss the corn tortillas in the garlic\u2011butter mixture, seasoning with salt and pepper.",
     "Arrange a layer of tortillas in the baking dish, sprinkle with half of the shredded cheese, and top with half of the tomato, bell pepper, and sesame seeds.",
     "Repeat with a second tortilla layer, remaining cheese, and remaining veggies.",
     "Cover the dish with foil and bake 15 minutes. Remove the foil and bake an additional 10 minutes until the top is golden and crispy.",
@@ -80,5 +80,20 @@
     "mainIngredient": "corn tortilla",
     "descriptor": "Crispy Buttery",
     "dishForm": "Bake"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "malaysian",
+    "breakfast"
+  ]
 }

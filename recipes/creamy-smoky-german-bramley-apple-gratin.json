@@ -1,6 +1,6 @@
 {
   "title": "Creamy Smoky German Bramley Apple Gratin",
-  "description": "A comforting solo‑dinner gratin that balances the tartness of bramley apples with a smoky, creamy sauce and a crisp parmesan topping.",
+  "description": "A comforting solodinner gratin that balances the tartness of bramley apples with a smoky, creamy sauce and a crisp parmesan topping.",
   "cuisine": "German",
   "diet": [
     "fodmap-friendly"
@@ -9,38 +9,38 @@
   "ingredients": [
     {
       "name": "Bramley apples",
-      "amount": "3 medium (≈200 g)",
+      "amount": "3 medium (\u2248200\u202fg)",
       "notes": "peeled, cored, sliced"
     },
     {
-      "name": "Low‑FODMAP heavy cream",
-      "amount": "1 cup (240 ml)",
-      "notes": "lactose‑free"
+      "name": "Low\u2011FODMAP heavy cream",
+      "amount": "1\u202fcup (240\u202fml)",
+      "notes": "lactose\u2011free"
     },
     {
-      "name": "Lactose‑free Parmesan cheese",
-      "amount": "1/4 cup (≈25 g)",
+      "name": "Lactose\u2011free Parmesan cheese",
+      "amount": "1/4\u202fcup (\u224825\u202fg)",
       "notes": "grated"
     },
     {
       "name": "Smoked paprika",
-      "amount": "2 tbsp",
+      "amount": "2\u202ftbsp",
       "notes": "adds umami and smoke flavor"
     },
     {
       "name": "Dried thyme",
-      "amount": "1 tsp",
+      "amount": "1\u202ftsp",
       "notes": "herbal note"
     },
     {
       "name": "Unsalted butter",
-      "amount": "1 tbsp (≈14 g)",
-      "notes": "fodmap‑friendly fat"
+      "amount": "1\u202ftbsp (\u224814\u202fg)",
+      "notes": "fodmap\u2011friendly fat"
     },
     {
       "name": "Olive oil",
-      "amount": "1 tbsp (≈15 ml)",
-      "notes": "fodmap‑friendly fat"
+      "amount": "1\u202ftbsp (\u224815\u202fml)",
+      "notes": "fodmap\u2011friendly fat"
     },
     {
       "name": "Salt",
@@ -49,14 +49,14 @@
     }
   ],
   "instructions": [
-    "Preheat the oven to 190 °C (375 °F).",
-    "Blanch the apple slices in a pot of boiling salted water for 2 minutes, then drain and set aside.",
-    "In a small saucepan, melt the butter with the olive oil over medium heat; add the smoked paprika and thyme, cooking for 1 minute until fragrant.",
-    "Pour in the heavy cream and simmer gently, stirring until the sauce thickens slightly (about 3–4 minutes). Season with a pinch of salt.",
+    "Preheat the oven to 190\u202f\u00b0C (375\u202f\u00b0F).",
+    "Blanch the apple slices in a pot of boiling salted water for 2\u202fminutes, then drain and set aside.",
+    "In a small saucepan, melt the butter with the olive oil over medium heat; add the smoked paprika and thyme, cooking for 1\u202fminute until fragrant.",
+    "Pour in the heavy cream and simmer gently, stirring until the sauce thickens slightly (about 3\u20134\u202fminutes). Season with a pinch of salt.",
     "Arrange the blanched apple slices in a single layer in a baking dish. Pour the creamy sauce over the apples, ensuring even coverage.",
     "Sprinkle the grated Parmesan cheese evenly across the top of the dish.",
-    "Bake uncovered for 25 minutes, or until the sauce is bubbling and the cheese has turned golden brown.",
-    "Remove from the oven and let the gratin rest for 5 minutes to set.",
+    "Bake uncovered for 25\u202fminutes, or until the sauce is bubbling and the cheese has turned golden brown.",
+    "Remove from the oven and let the gratin rest for 5\u202fminutes to set.",
     "Serve warm, optionally garnished with fresh thyme or a light drizzle of smoked olive oil."
   ],
   "slug": "creamy-smoky-german-bramley-apple-gratin",
@@ -76,5 +76,20 @@
     "mainIngredient": "apples",
     "descriptor": "Creamy Smoky",
     "dishForm": "Gratin"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "german",
+    "dinner"
+  ]
 }

@@ -1,6 +1,6 @@
 {
   "title": "Crispy Venezuelan Toast Salad",
-  "description": "A light, umami-packed salad that pairs fresh vegetables with crispy gluten‑free toast, finished with a tangy cream of tartar dressing.",
+  "description": "A light, umami-packed salad that pairs fresh vegetables with crispy glutenfree toast, finished with a tangy cream of tartar dressing.",
   "cuisine": "Venezuelan",
   "diet": [
     "vegan",
@@ -9,7 +9,7 @@
   "meal": "lunch",
   "ingredients": [
     {
-      "name": "gluten‑free sandwich bread",
+      "name": "gluten\u2011free sandwich bread",
       "amount": "4 slices",
       "notes": "thin, lightly toasted"
     },
@@ -75,8 +75,8 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350°F (175°C).",
-    "Slice the gluten‑free bread and toast in the oven until lightly golden, about 5 minutes.",
+    "Preheat oven to 350\u00b0F (175\u00b0C).",
+    "Slice the gluten\u2011free bread and toast in the oven until lightly golden, about 5 minutes.",
     "In a medium bowl, combine diced cucumber, halved cherry tomatoes, diced red onion, diced avocado, and chopped cilantro.",
     "In a separate small bowl, whisk the lime juice, olive oil, salt, pepper, and cream of tartar until the mixture emulsifies.",
     "Drizzle the dressing over the vegetables and toss gently to combine.",
@@ -101,5 +101,20 @@
     "mainIngredient": "toast",
     "descriptor": "Crispy",
     "dishForm": "Salad"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "venezuelan",
+    "lunch"
+  ]
 }

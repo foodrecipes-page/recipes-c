@@ -43,11 +43,11 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 400°F (205°C).",
+    "Preheat oven to 400\u00b0F (205\u00b0C).",
     "Combine baking soda and soy sauce in a mixing bowl. Add sliced aubergine, toss gently until coated evenly.",
     "Spread the aubergine slices on a baking sheet lined with parchment paper, making sure they are not touching each other for crispy results.",
     "Bake for 20-25 minutes or until golden and crispy on both sides. Set aside to cool slightly.",
-    "In a separate pan over medium heat, sauté minced garlic and ginger in oil until fragrant but not browned.",
+    "In a separate pan over medium heat, saut\u00e9 minced garlic and ginger in oil until fragrant but not browned.",
     "Add the chili peppers (seeded if needed) to the pan with the vegetables, tossing them around for a few minutes until they start to soften.",
     "Return the cooled aubergine slices to the pan. Add soy sauce, brown sugar, and remaining cooking liquid from baking pan in a jug.",
     "Stir everything together well, ensuring all ingredients are evenly coated and heated through. Serve hot as a side dish or over rice or noodles for an additional meal option.",
@@ -88,5 +88,10 @@
     "mainIngredient": "Chili",
     "descriptor": "Crispy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium"
 }

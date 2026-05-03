@@ -1,6 +1,6 @@
 {
   "title": "Crispy Sweet Polish Bread Toast",
-  "description": "A light, sweet Polish-inspired toast that pairs crisped white bread with a delicate honey‑almond glaze and a protein‑boosting Greek yogurt topping.",
+  "description": "A light, sweet Polish-inspired toast that pairs crisped white bread with a delicate honeyalmond glaze and a proteinboosting Greek yogurt topping.",
   "cuisine": "Polish",
   "diet": [
     "vegetarian",
@@ -52,8 +52,8 @@
     "Lay bread slices out on two baking sheets, ensuring they do not overlap.",
     "Brush the tops of the bread lightly with melted butter.",
     "Sprinkle the honey and ground cinnamon evenly over the buttered side of each slice.",
-    "Scatter toasted almond pieces on top of the honey‑cinnamon mixture.",
-    "Bake at 375°F (190°C) for 8–10 minutes, turning halfway through, until the bread is golden and crisp.",
+    "Scatter toasted almond pieces on top of the honey\u2011cinnamon mixture.",
+    "Bake at 375\u00b0F (190\u00b0C) for 8\u201310 minutes, turning halfway through, until the bread is golden and crisp.",
     "While the bread is baking, whisk the Greek yogurt with vanilla extract and a pinch of salt until smooth.",
     "When the toast is done, remove from the oven and let cool for a minute.",
     "Spoon a generous dollop of flavored yogurt onto each slice, then drizzle with maple syrup if desired.",
@@ -76,5 +76,20 @@
     "mainIngredient": "bread",
     "descriptor": "Crispy Sweet",
     "dishForm": "Toast"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "polish",
+    "breakfast"
+  ]
 }

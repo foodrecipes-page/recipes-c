@@ -1,6 +1,6 @@
 {
   "title": "Crispy Smoked British Salmon Salad",
-  "description": "A rich, crisp salad featuring hot smoked salmon, tender arugula, avocado, and a tangy mustard‑honey vinaigrette, perfect for a quick weeknight meal.",
+  "description": "A rich, crisp salad featuring hot smoked salmon, tender arugula, avocado, and a tangy mustardhoney vinaigrette, perfect for a quick weeknight meal.",
   "cuisine": "British",
   "diet": [
     "pescatarian",
@@ -70,14 +70,14 @@
     }
   ],
   "instructions": [
-    "Preheat a sous‑vide bath to 45 °C (113 °F).",
+    "Preheat a sous\u2011vide bath to 45\u202f\u00b0C (113\u202f\u00b0F).",
     "Season the salmon fillets with sea salt and freshly ground black pepper, place them in a vacuum seal bag and seal.",
-    "Place the bag in the preheated bath and cook for 40 minutes.",
+    "Place the bag in the preheated bath and cook for 40\u202fminutes.",
     "While the salmon cooks, prepare the salad base: rinse the arugula, thinly slice the onion, dice the cucumber, slice the avocado and set aside.",
     "Whisk together olive oil, lemon juice, Dijon mustard, honey, sea salt and pepper to make a vinaigrette.",
-    "Once the salmon is finished, remove it from the bag, pat it dry with paper towels and set a non‑stick skillet over medium heat.",
-    "Add a splash of olive oil to the pan and sear the salmon skin‑side down until the skin is crisp, about 2 minutes, then flip and sear the flesh side for 1 minute.",
-    "Remove the salmon from the pan, let it rest for a minute and then flake it into large, bite‑sized pieces.",
+    "Once the salmon is finished, remove it from the bag, pat it dry with paper towels and set a non\u2011stick skillet over medium heat.",
+    "Add a splash of olive oil to the pan and sear the salmon skin\u2011side down until the skin is crisp, about 2\u202fminutes, then flip and sear the flesh side for 1\u202fminute.",
+    "Remove the salmon from the pan, let it rest for a minute and then flake it into large, bite\u2011sized pieces.",
     "Toss the arugula, red onion, cucumber, avocado, capers and toasted hazelnuts in a large bowl, drizzle with the prepared vinaigrette and gently mix.",
     "Top the salad with the flaked salmon, sprinkle chopped dill and serve immediately."
   ],
@@ -98,5 +98,20 @@
     "mainIngredient": "salmon",
     "descriptor": "Crispy Smoked",
     "dishForm": "Salad"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "british",
+    "dinner"
+  ]
 }

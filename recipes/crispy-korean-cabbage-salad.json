@@ -1,6 +1,6 @@
 {
   "title": "Crispy Korean Cabbage Salad",
-  "description": "A garlicky, sweet‑savory Korean cabbage salad with a caramelized treacle glaze, crisp textures, and a touch of heat.",
+  "description": "A garlicky, sweetsavory Korean cabbage salad with a caramelized treacle glaze, crisp textures, and a touch of heat.",
   "cuisine": "Korean",
   "diet": [
     "vegan",
@@ -10,17 +10,17 @@
   "ingredients": [
     {
       "name": "Napa cabbage",
-      "amount": "1 medium (≈500g)",
-      "notes": "shredded 1‑inch strips"
+      "amount": "1 medium (\u2248500g)",
+      "notes": "shredded 1\u2011inch strips"
     },
     {
       "name": "Carrot",
-      "amount": "1 medium (≈120g)",
+      "amount": "1 medium (\u2248120g)",
       "notes": "julienned"
     },
     {
       "name": "Red bell pepper",
-      "amount": "½ medium (≈80g)",
+      "amount": "\u00bd medium (\u224880g)",
       "notes": "sliced thin"
     },
     {
@@ -64,13 +64,13 @@
   ],
   "instructions": [
     "Wash all vegetables thoroughly and pat dry.",
-    "Shred the Napa cabbage into 1‑inch strips and place in a large bowl.",
+    "Shred the Napa cabbage into 1\u2011inch strips and place in a large bowl.",
     "Add the julienned carrot, sliced red bell pepper, and minced garlic to the cabbage.",
     "In a small bowl whisk together soy sauce, rice vinegar, treacle, sesame oil, lime juice, gochugaru, and a pinch of salt to make the glaze.",
     "Pour the glaze over the vegetables and toss to coat evenly.",
-    "Heat a large non‑stick skillet over medium‑high heat and add a splash of sesame oil.",
+    "Heat a large non\u2011stick skillet over medium\u2011high heat and add a splash of sesame oil.",
     "Add the cabbage mixture to the skillet, spreading it out in a single layer.",
-    "Cook, stirring occasionally, for 3–4 minutes until the edges begin to crisp but the cabbage remains mostly raw.",
+    "Cook, stirring occasionally, for 3\u20134 minutes until the edges begin to crisp but the cabbage remains mostly raw.",
     "If desired, give the salad a final toss to distribute any browned bits.",
     "Transfer the salad to a serving bowl, sprinkle with toasted sesame seeds, and serve immediately."
   ],
@@ -91,5 +91,20 @@
     "mainIngredient": "Cabbage",
     "descriptor": "Crispy",
     "dishForm": "Salad"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "korean",
+    "lunch"
+  ]
 }

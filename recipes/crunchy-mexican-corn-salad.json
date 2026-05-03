@@ -29,7 +29,7 @@
       "notes": "diced"
     },
     {
-      "name": "jalapeño",
+      "name": "jalape\u00f1o",
       "amount": "1",
       "notes": "finely sliced, seeds removed for milder heat"
     },
@@ -50,7 +50,7 @@
     {
       "name": "coconut heavy cream",
       "amount": "2 tablespoons",
-      "notes": "for a creamy, plant‑based dressing"
+      "notes": "for a creamy, plant\u2011based dressing"
     },
     {
       "name": "ground cumin",
@@ -75,10 +75,10 @@
     }
   ],
   "instructions": [
-    "Preheat the oven to 400°F (200°C).",
-    "Spread the corn kernels on a baking sheet and roast for 8–10 minutes, or until lightly browned and crisp.",
-    "While the corn roasts, dice the bell pepper, cucumber, and red onion, slice the jalapeño, and chop the cilantro.",
-    "In a large bowl, combine the roasted corn, diced vegetables, sliced jalapeño, and cilantro.",
+    "Preheat the oven to 400\u00b0F (200\u00b0C).",
+    "Spread the corn kernels on a baking sheet and roast for 8\u201310 minutes, or until lightly browned and crisp.",
+    "While the corn roasts, dice the bell pepper, cucumber, and red onion, slice the jalape\u00f1o, and chop the cilantro.",
+    "In a large bowl, combine the roasted corn, diced vegetables, sliced jalape\u00f1o, and cilantro.",
     "Whisk together the lime juice, olive oil, coconut heavy cream, cumin, smoked paprika, salt, and pepper until smooth.",
     "Pour the dressing over the salad and toss gently to coat evenly.",
     "Cover the bowl and let the salad rest at room temperature for about 10 minutes to allow flavors to meld.",
@@ -101,5 +101,20 @@
     "mainIngredient": "Corn",
     "descriptor": "Crunchy",
     "dishForm": "Salad"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "mexican",
+    "lunch"
+  ]
 }

@@ -1,6 +1,6 @@
 {
   "title": "Crispy Fresh Egyptian Pomegranate Salad",
-  "description": "A light, vibrant salad that pairs crisp cucumber and sweet pomegranate seeds with a zesty lemon‑mint dressing, enhanced by a touch of cream of tartar for extra crunch.",
+  "description": "A light, vibrant salad that pairs crisp cucumber and sweet pomegranate seeds with a zesty lemonmint dressing, enhanced by a touch of cream of tartar for extra crunch.",
   "cuisine": "Egyptian",
   "diet": [
     "low-sodium-friendly"
@@ -28,9 +28,9 @@
       "notes": "leaves only"
     },
     {
-      "name": "extra‑virgin olive oil",
+      "name": "extra\u2011virgin olive oil",
       "amount": "2 tbsp",
-      "notes": "for sautéing"
+      "notes": "for saut\u00e9ing"
     },
     {
       "name": "lemon juice",
@@ -60,9 +60,9 @@
   ],
   "instructions": [
     "Prepare all ingredients and set aside.",
-    "Heat olive oil in a non‑stick skillet over medium heat until shimmering but not smoking.",
+    "Heat olive oil in a non\u2011stick skillet over medium heat until shimmering but not smoking.",
     "Add the cream of tartar to the oil and stir for 10 seconds to dissolve.",
-    "Add diced cucumber to the skillet, sauté for 2 minutes, stirring frequently, until just tender but still crisp.",
+    "Add diced cucumber to the skillet, saut\u00e9 for 2 minutes, stirring frequently, until just tender but still crisp.",
     "Transfer the cucumber to a large bowl and immediately add sliced red onion, pomegranate seeds, and chopped mint.",
     "Whisk together lemon juice, salt, pepper, and honey in a small cup until smooth.",
     "Pour the dressing over the vegetables and gently fold to combine, ensuring even coverage.",
@@ -85,5 +85,20 @@
     "mainIngredient": "pomegranate",
     "descriptor": "Crispy Fresh",
     "dishForm": "Salad"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "egyptian",
+    "lunch"
+  ]
 }

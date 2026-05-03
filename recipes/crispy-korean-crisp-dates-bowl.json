@@ -58,7 +58,7 @@
   ],
   "nutrition": {
     "calories": 120,
-    "protein": 0.5,
+    "protein": 0,
     "carbs": 28,
     "fat": 3
   },
@@ -79,5 +79,6 @@
     "mainIngredient": "dates",
     "descriptor": "Crispy",
     "dishForm": "Bowl"
-  }
+  },
+  "totalTimeMin": 40
 }

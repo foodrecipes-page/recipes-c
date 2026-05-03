@@ -35,7 +35,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350°F (175°C).",
+    "Preheat oven to 350\u00b0F (175\u00b0C).",
     "In a large bowl, mix together the crushed digestive biscuits and sugar until well combined.",
     "Stir in the melted butter, cinnamon, and salt. Mix thoroughly until evenly distributed throughout the mixture.",
     "Press the biscuit crumble mixture into an 8-inch square baking dish lined with parchment paper for easy removal.",
@@ -51,14 +51,14 @@
     "crunchy",
     "romantic",
     "australian",
-    "digestive biscuits",
+    "digestive-biscuits",
     "spicy"
   ],
   "nutrition": {
     "calories": 256,
-    "protein": 1.9,
+    "protein": 2,
     "carbs": 41,
-    "fat": 7.8
+    "fat": 8
   },
   "slug": "crunchy-romantic-australian-digestive-biscuit-crumble",
   "source": "ollama-qwen2.5:3b",

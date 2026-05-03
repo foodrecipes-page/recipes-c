@@ -1,6 +1,6 @@
 {
   "title": "Crisp Bitter Mediterranean Lentils Tagine",
-  "description": "A vibrant, dairy‑free tagine featuring bitter spices, crisp vegetables, and aromatic ground ginger that delivers a complex Mediterranean flavor profile.",
+  "description": "A vibrant, dairyfree tagine featuring bitter spices, crisp vegetables, and aromatic ground ginger that delivers a complex Mediterranean flavor profile.",
   "cuisine": "Mediterranean",
   "diet": [
     "vegetarian",
@@ -61,8 +61,8 @@
   ],
   "instructions": [
     "Rinse lentils under cold water and set aside.",
-    "Heat olive oil in a large, heavy‑bottomed pot over medium heat.",
-    "Add diced onion and minced garlic; sauté until onion turns translucent, about 4–5 minutes.",
+    "Heat olive oil in a large, heavy\u2011bottomed pot over medium heat.",
+    "Add diced onion and minced garlic; saut\u00e9 until onion turns translucent, about 4\u20135 minutes.",
     "Stir in sliced zucchini, ground ginger, smoked paprika, and cumin; cook for another 2 minutes, letting the spices bloom.",
     "Whisk the lemon juice with vegetable broth in a small bowl, then pour this mixture into the pot, followed by diced tomatoes and lentils.",
     "Bring the mixture to a gentle boil, then reduce heat to low, cover, and simmer for 20 minutes or until lentils are tender.",
@@ -86,5 +86,20 @@
     "mainIngredient": "lentils",
     "descriptor": "Crisp Bitter",
     "dishForm": "Tagine"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "mediterranean",
+    "dinner"
+  ]
 }

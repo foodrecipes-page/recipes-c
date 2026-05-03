@@ -60,13 +60,13 @@
     }
   ],
   "instructions": [
-    "Soak chickpeas overnight or quick‑soak for 1 hour, then drain.",
+    "Soak chickpeas overnight or quick\u2011soak for 1 hour, then drain.",
     "Pulse chickpeas, grated onion, minced garlic, cumin, coriander, tomato paste, soy sauce, and 1 tbsp of lemon juice in a food processor until a coarse, crumbly mixture forms.",
     "Transfer the mixture to a bowl and mash with a fork to achieve a chunky texture; season with salt, pepper, and chopped fresh herbs.",
     "Shape the mixture into 8 small patties or balls, pressing firmly so they hold together.",
-    "Heat 1 tbsp of olive oil in a skillet over medium‑high heat. Fry the falafel patties 3–4 minutes per side until golden and crispy. Reduce heat slightly and keep warm.",
+    "Heat 1 tbsp of olive oil in a skillet over medium\u2011high heat. Fry the falafel patties 3\u20134 minutes per side until golden and crispy. Reduce heat slightly and keep warm.",
     "Warm the tortillas in a dry skillet, 30 seconds per side, or microwave for 10 seconds.",
-    "Spread 1 tbsp of yogurt over each tortilla, then top with 2–3 falafel patties.",
+    "Spread 1 tbsp of yogurt over each tortilla, then top with 2\u20133 falafel patties.",
     "Add a generous scoop of the mixed shredded veggies on top of the falafel.",
     "Sprinkle the remaining fresh herbs over the veggies.",
     "Roll the tortilla tightly, then cut in half for easier handling.",
@@ -89,5 +89,20 @@
     "mainIngredient": "falafel",
     "descriptor": "Crispy Tangy",
     "dishForm": "Wrap"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "filipino",
+    "lunch"
+  ]
 }

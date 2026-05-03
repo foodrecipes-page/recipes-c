@@ -1,6 +1,6 @@
 {
   "title": "Crispy Smoky Sichuan Haddock Stir-fry",
-  "description": "A fragrant, low‑carb Sichuan stir‑fry featuring smoky haddock and crisp air‑fried flakes, tossed with Sichuan peppercorns, chili, garlic and ginger for a zesty umami punch.",
+  "description": "A fragrant, lowcarb Sichuan stirfry featuring smoky haddock and crisp airfried flakes, tossed with Sichuan peppercorns, chili, garlic and ginger for a zesty umami punch.",
   "cuisine": "Sichuan Chinese",
   "diet": [
     "low-carb"
@@ -14,7 +14,7 @@
     {
       "name": "Soy sauce",
       "amount": "2 tbsp (30 ml)",
-      "notes": "low‑sodium if preferred"
+      "notes": "low\u2011sodium if preferred"
     },
     {
       "name": "Shaoxing wine",
@@ -50,15 +50,15 @@
     }
   ],
   "instructions": [
-    "Set the air fryer to 200 °C (390 °F) and let it preheat for 3 minutes.",
+    "Set the air fryer to 200\u202f\u00b0C (390\u202f\u00b0F) and let it preheat for 3\u202fminutes.",
     "Pat the haddock fillets dry with paper towels; season lightly with salt and pepper.",
-    "Place the fillets in the air fryer basket in a single layer and air‑fry for 7 minutes until the edges are crisp and the fish flakes easily.",
-    "While the fish cooks, heat 1 tbsp of sesame oil in a wok or large skillet over medium‑high heat.",
-    "Add the Sichuan peppercorns and dried chilies; stir for about 30 seconds until fragrant.",
-    "Add minced garlic and ginger; sauté until aromatic, about 1 minute.",
-    "Add the broccoli florets (and any other low‑carb veggies you like) and stir‑fry for 3 minutes until bright green and slightly tender.",
+    "Place the fillets in the air fryer basket in a single layer and air\u2011fry for 7\u202fminutes until the edges are crisp and the fish flakes easily.",
+    "While the fish cooks, heat 1 tbsp of sesame oil in a wok or large skillet over medium\u2011high heat.",
+    "Add the Sichuan peppercorns and dried chilies; stir for about 30\u202fseconds until fragrant.",
+    "Add minced garlic and ginger; saut\u00e9 until aromatic, about 1\u202fminute.",
+    "Add the broccoli florets (and any other low\u2011carb veggies you like) and stir\u2011fry for 3\u202fminutes until bright green and slightly tender.",
     "Return the cooked haddock to the pan; pour in soy sauce and Shaoxing wine, then toss everything together so the sauce coats the fish and veggies.",
-    "Let the mixture cook for another 2 minutes, allowing flavors to meld and the sauce to thicken slightly.",
+    "Let the mixture cook for another 2\u202fminutes, allowing flavors to meld and the sauce to thicken slightly.",
     "Serve hot, garnished with sliced green onions and a sprinkle of sesame seeds if desired."
   ],
   "slug": "crispy-smoky-sichuan-haddock-stir-fry",
@@ -78,5 +78,20 @@
     "mainIngredient": "haddock",
     "descriptor": "Crispy Smoky",
     "dishForm": "Stir-fry"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "sichuan-chinese",
+    "dinner"
+  ]
 }

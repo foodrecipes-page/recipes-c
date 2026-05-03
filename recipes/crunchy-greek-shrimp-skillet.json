@@ -1,6 +1,6 @@
 {
   "title": "Crunchy Greek Shrimp Skillet",
-  "description": "A vibrant, umami-packed shrimp skillet with a sweet‑savory crunch, cooked sous‑vide for silky perfection and finished with a quick pan sear and Greek accents.",
+  "description": "A vibrant, umami-packed shrimp skillet with a sweetsavory crunch, cooked sousvide for silky perfection and finished with a quick pan sear and Greek accents.",
   "cuisine": "Greek",
   "diet": [
     "gluten-free",
@@ -11,10 +11,10 @@
     {
       "name": "large shrimp, peeled and deveined",
       "amount": "1 lb (450 g)",
-      "notes": "about 20–25 shrimp"
+      "notes": "about 20\u201325 shrimp"
     },
     {
-      "name": "extra‑virgin olive oil",
+      "name": "extra\u2011virgin olive oil",
       "amount": "2 tbsp"
     },
     {
@@ -48,7 +48,7 @@
     {
       "name": "brown sugar (or monk fruit sweetener)",
       "amount": "1 tbsp",
-      "notes": "use 1 tsp monk fruit for sugar‑free option"
+      "notes": "use 1 tsp monk fruit for sugar\u2011free option"
     },
     {
       "name": "walnuts, chopped",
@@ -64,13 +64,13 @@
     }
   ],
   "instructions": [
-    "Preheat your sous‑vide water bath to 140°F (60°C).",
-    "In a heat‑proof bag, combine shrimp, 1 tbsp olive oil, salt, pepper, and 1 tsp lemon zest. Vacuum‑seal or use the displacement method.",
+    "Preheat your sous\u2011vide water bath to 140\u00b0F (60\u00b0C).",
+    "In a heat\u2011proof bag, combine shrimp, 1 tbsp olive oil, salt, pepper, and 1 tsp lemon zest. Vacuum\u2011seal or use the displacement method.",
     "Place the bag in the water bath and cook for 20 minutes.",
     "Remove the shrimp from the bag and pat them dry with paper towels. Set aside.",
-    "Heat 1 tbsp of olive oil in a large skillet over medium‑high heat. Add the sliced onion and sauté until translucent, about 3 minutes.",
+    "Heat 1 tbsp of olive oil in a large skillet over medium\u2011high heat. Add the sliced onion and saut\u00e9 until translucent, about 3 minutes.",
     "Add the minced garlic and red pepper flakes, cooking for another 30 seconds until fragrant.",
-    "Return the shrimps to the skillet, stirring to combine with the aromatics. Cook for 1–2 minutes per side, just until the shrimp turn pink and the edges become slightly crisp.",
+    "Return the shrimps to the skillet, stirring to combine with the aromatics. Cook for 1\u20132 minutes per side, just until the shrimp turn pink and the edges become slightly crisp.",
     "Stir in the dried oregano, thyme, brown sugar (or monk fruit), lemon juice, and lemon zest. Cook for an additional minute, allowing the flavors to meld.",
     "Fold in the chopped walnuts and crumbled feta, tossing gently to coat. Remove from heat.",
     "Serve immediately, optionally garnished with extra feta or a drizzle of olive oil."
@@ -92,5 +92,20 @@
     "mainIngredient": "Shrimp",
     "descriptor": "Crunchy",
     "dishForm": "Skillet"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "greek",
+    "dinner"
+  ]
 }

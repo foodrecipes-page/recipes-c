@@ -1,6 +1,6 @@
 {
   "title": "Crispy Tangy Algerian Quinoa Salad",
-  "description": "A quick, low‑FODMAP Algerian quinoa salad bursting with tangy lemon, aromatic five‑spice, and a satisfying crunch from toasted sesame seeds.",
+  "description": "A quick, lowFODMAP Algerian quinoa salad bursting with tangy lemon, aromatic fivespice, and a satisfying crunch from toasted sesame seeds.",
   "cuisine": "Algerian",
   "diet": [
     "low-FODMAP"
@@ -22,7 +22,7 @@
       "amount": "1/2 teaspoon"
     },
     {
-      "name": "garlic‑infused olive oil",
+      "name": "garlic\u2011infused olive oil",
       "amount": "2 tablespoons"
     },
     {
@@ -60,7 +60,7 @@
     "Rinse quinoa under cold water and drain.",
     "Bring 2 cups water to a boil in a saucepan. Add quinoa, reduce heat, cover, and simmer 15 minutes until liquid is absorbed.",
     "Remove from heat, fluff with a fork, let stand 5 minutes, then transfer to a large bowl to cool slightly.",
-    "Heat garlic‑infused olive oil in a small pan over medium heat. Add five spice powder and cook 30 seconds to release aromas.",
+    "Heat garlic\u2011infused olive oil in a small pan over medium heat. Add five spice powder and cook 30 seconds to release aromas.",
     "Pour the hot oil over the warm quinoa, then add lemon juice, salt, and pepper. Toss to coat evenly.",
     "Add diced cucumber, bell pepper, toasted sesame seeds, and chopped parsley; gently fold to combine.",
     "Taste and adjust seasoning if needed.",
@@ -84,5 +84,20 @@
     "mainIngredient": "Quinoa",
     "descriptor": "Crispy Tangy",
     "dishForm": "Salad"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "algerian",
+    "lunch"
+  ]
 }

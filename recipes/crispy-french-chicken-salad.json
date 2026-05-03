@@ -1,6 +1,6 @@
 {
   "title": "Crispy French Chicken Salad",
-  "description": "A playful, savory salad with golden-crisp rosemary chicken, fresh garden greens and a zesty vinaigrette — perfect for kids and nut‑free.",
+  "description": "A playful, savory salad with golden-crisp rosemary chicken, fresh garden greens and a zesty vinaigrette - perfect for kids and nutfree.",
   "cuisine": "French",
   "diet": [
     "nut-free"
@@ -29,11 +29,11 @@
     },
     {
       "name": "salt",
-      "amount": "½ tsp"
+      "amount": "\u00bd tsp"
     },
     {
       "name": "black pepper",
-      "amount": "¼ tsp"
+      "amount": "\u00bc tsp"
     },
     {
       "name": "olive oil",
@@ -49,7 +49,7 @@
     },
     {
       "name": "cucumber",
-      "amount": "½, sliced"
+      "amount": "\u00bd, sliced"
     },
     {
       "name": "French vinaigrette",
@@ -61,8 +61,8 @@
     "Pat the chicken dry and season with salt, pepper, and dried rosemary.",
     "Set up a dredging station: one bowl of flour, one bowl of beaten eggs, and one bowl of panko breadcrumbs.",
     "Dip each chicken breast first in flour, then in egg, and finally coat with breadcrumbs.",
-    "Heat 2 tbsp of olive oil in a large skillet over medium‑high heat; brown the chicken for 2‑3 minutes per side.",
-    "Transfer the chicken to a baking sheet and bake at 200°C (400°F) for 15‑18 minutes or until internal temperature reaches 75°C (165°F).",
+    "Heat 2 tbsp of olive oil in a large skillet over medium\u2011high heat; brown the chicken for 2\u20113 minutes per side.",
+    "Transfer the chicken to a baking sheet and bake at 200\u00b0C (400\u00b0F) for 15\u201118 minutes or until internal temperature reaches 75\u00b0C (165\u00b0F).",
     "Let the chicken rest for 5 minutes to settle the juices.",
     "In a large bowl, toss the salad greens, cherry tomatoes, and cucumber with the French vinaigrette until evenly coated.",
     "Slice the rested chicken into strips and arrange them on top of the salad.",
@@ -85,5 +85,20 @@
     "mainIngredient": "Chicken",
     "descriptor": "Crispy",
     "dishForm": "Salad"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "french",
+    "lunch"
+  ]
 }

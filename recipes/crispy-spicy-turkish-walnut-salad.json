@@ -1,6 +1,6 @@
 {
   "title": "Crispy Spicy Turkish Walnut Salad",
-  "description": "A bright, dairy‑free salad bursting with toasted walnuts, a tangy pomegranate‑sumac dressing, and a hint of heat.",
+  "description": "A bright, dairyfree salad bursting with toasted walnuts, a tangy pomegranatesumac dressing, and a hint of heat.",
   "cuisine": "Turkish",
   "diet": [
     "vegan",
@@ -58,7 +58,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 180°C (350°F). Arrange walnuts on a baking sheet, drizzle with olive oil, and toast 8‑10 minutes until golden, stirring halfway. Remove and let cool.",
+    "Preheat oven to 180\u00b0C (350\u00b0F). Arrange walnuts on a baking sheet, drizzle with olive oil, and toast 8\u201110 minutes until golden, stirring halfway. Remove and let cool.",
     "Whisk together pomegranate molasses, sumac, cumin, smoked paprika, red pepper flakes, salt, and black pepper until smooth.",
     "In a large bowl, combine chopped romaine, halved cherry tomatoes, sliced red onion, parsley, and mint.",
     "Add toasted walnuts to the salad mix.",
@@ -84,5 +84,20 @@
     "mainIngredient": "walnut",
     "descriptor": "Crispy Spicy",
     "dishForm": "Salad"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "turkish",
+    "lunch"
+  ]
 }

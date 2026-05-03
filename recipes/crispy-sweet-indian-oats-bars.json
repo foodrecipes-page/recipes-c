@@ -12,7 +12,7 @@
     {
       "name": "rolled oats",
       "amount": "2 cups",
-      "notes": "medium‑coarse texture works best"
+      "notes": "medium\u2011coarse texture works best"
     },
     {
       "name": "unsalted ghee",
@@ -20,7 +20,7 @@
     },
     {
       "name": "jaggery (crushed)",
-      "amount": "½ cup"
+      "amount": "\u00bd cup"
     },
     {
       "name": "mixed nuts (almonds, cashews, pistachios)",
@@ -28,11 +28,11 @@
     },
     {
       "name": "dried dried apricots",
-      "amount": "½ cup, chopped"
+      "amount": "\u00bd cup, chopped"
     },
     {
       "name": "pitted dates",
-      "amount": "½ cup, chopped"
+      "amount": "\u00bd cup, chopped"
     },
     {
       "name": "cardamom pods",
@@ -51,11 +51,11 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350°F (175°C) and line an 8‑inch square baking pan with parchment paper.",
+    "Preheat oven to 350\u00b0F (175\u00b0C) and line an 8\u2011inch square baking pan with parchment paper.",
     "In a medium saucepan, melt the ghee over low heat. Add the jaggery, stirring until it dissolves into a glossy syrup.",
     "Remove the pan from heat and quickly fold in oats, chopped nuts, dried apricots, dates, crushed cardamom seeds, sesame seeds, and a pinch of salt. Mix until the mixture is evenly coated and slightly sticky.",
-    "Press the mixture firmly into the prepared pan, ensuring a uniform thickness of about ½ inch. Use the back of a spoon or a flat spatula to level the surface.",
-    "Place the pan in the preheated oven and bake for 12–15 minutes, or until the bars are golden brown and crisp around the edges.",
+    "Press the mixture firmly into the prepared pan, ensuring a uniform thickness of about \u00bd inch. Use the back of a spoon or a flat spatula to level the surface.",
+    "Place the pan in the preheated oven and bake for 12\u201315 minutes, or until the bars are golden brown and crisp around the edges.",
     "Remove from oven and let cool in the pan for 5 minutes before cutting into 8 equal bars. If desired, sprinkle a light dusting of stevia or a few drops of monk fruit sweetener over the top for extra sweetness without added sugar.",
     "Store the bars in an airtight container at room temperature for up to a week or freeze for longer storage."
   ],
@@ -76,5 +76,20 @@
     "mainIngredient": "Oats",
     "descriptor": "Crispy Sweet",
     "dishForm": "Bars"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "indian",
+    "snack"
+  ]
 }

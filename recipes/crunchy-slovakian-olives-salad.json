@@ -1,6 +1,6 @@
 {
   "title": "Crunchy Slovakian Olives Salad",
-  "description": "A fresh, crunchy salad that brings Slovakian flavors to a weeknight table, featuring olives, deglazed onions, and a burst of lemon. It’s low-sodium-friendly and ready in just a few minutes.",
+  "description": "A fresh, crunchy salad that brings Slovakian flavors to a weeknight table, featuring olives, deglazed onions, and a burst of lemon. Its low-sodium-friendly and ready in just a few minutes.",
   "cuisine": "Slovakian",
   "diet": [
     "vegetarian",
@@ -36,7 +36,7 @@
     {
       "name": "Olive oil",
       "amount": "1 tablespoon",
-      "notes": "for sautéing"
+      "notes": "for saut\u00e9ing"
     },
     {
       "name": "White wine",
@@ -65,7 +65,7 @@
   ],
   "instructions": [
     "Heat a non-stick skillet over medium heat and add the olive oil.",
-    "Add the sliced red onion and sauté until translucent, about 3 minutes.",
+    "Add the sliced red onion and saut\u00e9 until translucent, about 3 minutes.",
     "Pour in the white wine to deglaze, scraping any browned bits from the pan; cook until the liquid reduces by half, about 2 minutes.",
     "Transfer the deglazed onion mixture to a bowl and let it cool to room temperature.",
     "In a large salad bowl, combine the sliced olives, cherry tomatoes, diced cucumber, capers, and toasted pine nuts.",
@@ -90,5 +90,20 @@
     "mainIngredient": "Olives",
     "descriptor": "Crunchy",
     "dishForm": "Salad"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "slovakian",
+    "lunch"
+  ]
 }

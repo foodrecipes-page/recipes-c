@@ -58,8 +58,8 @@
     "Stir in melted coconut oil, then fold in the cooled quinoa until evenly mixed.",
     "Add toasted sesame seeds and mix gently.",
     "Heat a non-stick skillet over medium heat and lightly oil the surface with a few drops of coconut oil.",
-    "Pour batter to form pancakes about 3–4 inches in diameter; cook until edges set, about 2–3 minutes.",
-    "Flip the pancakes and cook until the other side is golden and crispy, about 2–3 minutes more.",
+    "Pour batter to form pancakes about 3\u20134 inches in diameter; cook until edges set, about 2\u20133 minutes.",
+    "Flip the pancakes and cook until the other side is golden and crispy, about 2\u20133 minutes more.",
     "Repeat with remaining batter, adding oil as needed to keep pancakes from sticking.",
     "Serve warm, drizzled with honey, and optionally topped with sliced mango or banana.",
     "Garnish with a sprinkle of shredded coconut if desired."
@@ -81,5 +81,20 @@
     "mainIngredient": "Quinoa",
     "descriptor": "Crispy",
     "dishForm": "Pancakes"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "filipino",
+    "breakfast"
+  ]
 }

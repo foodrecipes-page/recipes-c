@@ -1,6 +1,6 @@
 {
   "title": "Crispy Herbal Indian Tamarind Fritters",
-  "description": "A festive, flaky fritter bursting with tangy tamarind and aromatic herbs, air‑fried to a crisp golden finish for a kosher‑friendly snack.",
+  "description": "A festive, flaky fritter bursting with tangy tamarind and aromatic herbs, airfried to a crisp golden finish for a kosherfriendly snack.",
   "cuisine": "Indian",
   "diet": [
     "kosher"
@@ -58,12 +58,12 @@
     }
   ],
   "instructions": [
-    "In a bowl, combine tamarind paste, all‑purpose flour, besan, baking powder, turmeric, chili powder, and salt; whisk until a thick batter forms.",
+    "In a bowl, combine tamarind paste, all\u2011purpose flour, besan, baking powder, turmeric, chili powder, and salt; whisk until a thick batter forms.",
     "Fold in chopped coriander, mint, minced garlic, and sliced green chili; add water gradually to reach a pourable yet thick consistency.",
-    "Preheat your air fryer to 200 °C (400 °F). Lightly spray a non‑stick air‑fryer basket or line with parchment to prevent sticking.",
+    "Preheat your air fryer to 200\u202f\u00b0C (400\u202f\u00b0F). Lightly spray a non\u2011stick air\u2011fryer basket or line with parchment to prevent sticking.",
     "Drop spoonfuls of batter into the basket, leaving space between each fritter; drizzle a light spray of oil over the tops.",
-    "Air‑fry for 10–12 minutes, flipping halfway through, until golden brown and crisp.",
-    "Remove and let cool on a rack for a minute; serve hot with your choice of mint‑y yogurt dip or tangy tamarind chutney.",
+    "Air\u2011fry for 10\u201312 minutes, flipping halfway through, until golden brown and crisp.",
+    "Remove and let cool on a rack for a minute; serve hot with your choice of mint\u2011y yogurt dip or tangy tamarind chutney.",
     "Enjoy the crispy, aromatic fritters as a festive snack or side."
   ],
   "slug": "crispy-herbal-indian-tamarind-fritters",
@@ -83,5 +83,20 @@
     "mainIngredient": "tamarind",
     "descriptor": "Crispy Herbal",
     "dishForm": "Fritters"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "indian",
+    "snack"
+  ]
 }

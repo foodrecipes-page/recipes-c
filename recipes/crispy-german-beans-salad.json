@@ -10,52 +10,52 @@
   "ingredients": [
     {
       "name": "refried beans",
-      "amount": "1 cup (240 ml)",
+      "amount": "1 cup (240\u202fml)",
       "notes": "canned, low-fat"
     },
     {
       "name": "German dill pickles",
-      "amount": "1/2 cup (120 ml)",
+      "amount": "1/2 cup (120\u202fml)",
       "notes": "diced"
     },
     {
       "name": "smoked paprika",
-      "amount": "1 tsp",
+      "amount": "1\u202ftsp",
       "notes": "ground"
     },
     {
       "name": "olive oil",
-      "amount": "2 Tbsp",
-      "notes": "extra‑virgin"
+      "amount": "2\u202fTbsp",
+      "notes": "extra\u2011virgin"
     },
     {
       "name": "apple cider vinegar",
-      "amount": "1 Tbsp",
+      "amount": "1\u202fTbsp",
       "notes": "freshly pressed"
     },
     {
       "name": "fresh parsley",
-      "amount": "2 Tbsp",
+      "amount": "2\u202fTbsp",
       "notes": "chopped"
     },
     {
       "name": "crisped chickpeas",
-      "amount": "1/2 cup (120 g)",
+      "amount": "1/2 cup (120\u202fg)",
       "notes": "roasted for crunch"
     },
     {
       "name": "lemon juice",
-      "amount": "1 tsp",
+      "amount": "1\u202ftsp",
       "notes": "freshly squeezed"
     },
     {
       "name": "salt",
-      "amount": "1/2 tsp",
+      "amount": "1/2\u202ftsp",
       "notes": "to taste"
     },
     {
       "name": "black pepper",
-      "amount": "1/4 tsp",
+      "amount": "1/4\u202ftsp",
       "notes": "freshly ground"
     }
   ],
@@ -83,5 +83,20 @@
     "mainIngredient": "Beans",
     "descriptor": "Crispy",
     "dishForm": "Salad"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "german",
+    "lunch"
+  ]
 }

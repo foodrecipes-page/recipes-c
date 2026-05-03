@@ -1,6 +1,6 @@
 {
   "title": "Crispy Russian Bread Toast",
-  "description": "A kid‑friendly, rich, and crispy Russian toast made by whisking eggs and milk, dipping white bread, and pan‑frying in butter for a golden finish.",
+  "description": "A kidfriendly, rich, and crispy Russian toast made by whisking eggs and milk, dipping white bread, and panfrying in butter for a golden finish.",
   "cuisine": "Russian",
   "diet": [
     "vegetarian",
@@ -11,7 +11,7 @@
     {
       "name": "White sandwich bread",
       "amount": "8 slices",
-      "notes": "Use gluten‑free bread for a gluten‑free version"
+      "notes": "Use gluten\u2011free bread for a gluten\u2011free version"
     },
     {
       "name": "Eggs",
@@ -51,7 +51,7 @@
     {
       "name": "Butter",
       "amount": "2 tbsp",
-      "notes": "For pan‑frying"
+      "notes": "For pan\u2011frying"
     },
     {
       "name": "Honey or jam",
@@ -60,11 +60,11 @@
     }
   ],
   "instructions": [
-    "Preheat a large non‑stick skillet over medium heat.",
+    "Preheat a large non\u2011stick skillet over medium heat.",
     "In a shallow bowl, whisk together eggs, milk, vanilla, brown sugar, cinnamon, nutmeg, and salt until well blended.",
     "Place butter in the skillet and allow it to melt, coating the surface.",
     "Dip each slice of bread into the egg mixture, letting excess drip off, then place it in the skillet.",
-    "Cook each slice for 2–3 minutes on each side, or until golden brown and crispy.",
+    "Cook each slice for 2\u20133 minutes on each side, or until golden brown and crispy.",
     "Transfer cooked slices to a plate lined with paper towels to drain excess butter.",
     "Serve warm with a drizzle of honey or a spoonful of jam.",
     "Enjoy with milk or a cup of tea for a comforting treat."
@@ -86,5 +86,20 @@
     "mainIngredient": "bread",
     "descriptor": "Crispy",
     "dishForm": "Toast"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "russian",
+    "snack"
+  ]
 }

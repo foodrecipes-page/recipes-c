@@ -1,6 +1,6 @@
 {
   "title": "Crumbly Chinese Bitter Melon Crumble",
-  "description": "A romantic, bittersweet crumble that blends the unique flavor of bitter melon with a golden, crumbly topping, all while staying egg‑free and comforting.",
+  "description": "A romantic, bittersweet crumble that blends the unique flavor of bitter melon with a golden, crumbly topping, all while staying eggfree and comforting.",
   "cuisine": "Chinese",
   "diet": [
     "vegetarian"
@@ -9,60 +9,60 @@
   "ingredients": [
     {
       "name": "bitter melon",
-      "amount": "1 medium (≈300 g)",
-      "notes": "sliced lengthwise, seeded and salted for 10 min, then drained"
+      "amount": "1 medium (\u2248300\u202fg)",
+      "notes": "sliced lengthwise, seeded and salted for 10\u202fmin, then drained"
     },
     {
       "name": "vegetable oil",
-      "amount": "2 Tbsp",
-      "notes": "for sautéing"
+      "amount": "2\u202fTbsp",
+      "notes": "for saut\u00e9ing"
     },
     {
       "name": "white sugar",
-      "amount": "1/2 cup",
+      "amount": "1/2\u202fcup",
       "notes": "for sweetness"
     },
     {
-      "name": "all‑purpose flour",
-      "amount": "1 1/2 cups",
+      "name": "all\u2011purpose flour",
+      "amount": "1\u202f1/2\u202fcups",
       "notes": "cures the crumble"
     },
     {
       "name": "baking powder",
-      "amount": "1 tsp",
+      "amount": "1\u202ftsp",
       "notes": "leavening"
     },
     {
       "name": "salt",
-      "amount": "1/2 tsp",
+      "amount": "1/2\u202ftsp",
       "notes": "flavor balance"
     },
     {
       "name": "cold butter",
-      "amount": "1/2 cup (cubed)",
+      "amount": "1/2\u202fcup (cubed)",
       "notes": "for crumbly texture"
     },
     {
       "name": "evaporated milk",
-      "amount": "3/4 cup",
+      "amount": "3/4\u202fcup",
       "notes": "liquid cheese component"
     },
     {
       "name": "walnuts (or almonds)",
-      "amount": "1/2 cup",
+      "amount": "1/2\u202fcup",
       "notes": "chopped for crunch"
     },
     {
       "name": "sesame seeds",
-      "amount": "1 Tbsp",
+      "amount": "1\u202fTbsp",
       "notes": "optional topping"
     }
   ],
   "instructions": [
-    "Preheat the oven to 190 °C (375 °F).",
-    "In a skillet, heat 1 Tbsp of oil over medium heat. Add the sliced bitter melon, sprinkle with a pinch of salt, and sauté for 5–7 min until softened and lightly browned. Remove from heat and set aside. In the same skillet, add the remaining oil, then stir in the sugar and 1/2 cup of evaporated milk. Cook until the mixture thickens slightly, stirring constantly, about 3–4 min; remove from heat.",
-    "In a large bowl, whisk together flour, baking powder, and salt. Stir in chopped nuts and sesame seeds. Cut in the cold butter cubes using a pastry cutter or your fingers until the mixture resembles coarse crumbs. Gently fold in the sweetened evaporated milk mixture, then the sautéed bitter melon, mixing until just combined. Pour the mixture into a 9 × 13 in baking dish. Sprinkle the top with a thin layer of the remaining butter cubes for a crisp finish.",
-    "Bake for 25–30 min, or until the top is golden brown and the crumble is set. Let it cool for 10 min before serving.",
+    "Preheat the oven to 190\u202f\u00b0C (375\u202f\u00b0F).",
+    "In a skillet, heat 1\u202fTbsp of oil over medium heat. Add the sliced bitter melon, sprinkle with a pinch of salt, and saut\u00e9 for 5\u20137\u202fmin until softened and lightly browned. Remove from heat and set aside. In the same skillet, add the remaining oil, then stir in the sugar and 1/2\u202fcup of evaporated milk. Cook until the mixture thickens slightly, stirring constantly, about 3\u20134\u202fmin; remove from heat.",
+    "In a large bowl, whisk together flour, baking powder, and salt. Stir in chopped nuts and sesame seeds. Cut in the cold butter cubes using a pastry cutter or your fingers until the mixture resembles coarse crumbs. Gently fold in the sweetened evaporated milk mixture, then the saut\u00e9ed bitter melon, mixing until just combined. Pour the mixture into a 9\u202f\u00d7\u202f13\u202fin baking dish. Sprinkle the top with a thin layer of the remaining butter cubes for a crisp finish.",
+    "Bake for 25\u201330\u202fmin, or until the top is golden brown and the crumble is set. Let it cool for 10\u202fmin before serving.",
     "Serve warm, optionally drizzled with a light soy sauce glaze or a sprinkle of fresh cilantro for an extra touch of romance."
   ],
   "slug": "crumbly-chinese-bitter-melon-crumble",
@@ -82,5 +82,20 @@
     "mainIngredient": "bitter melon",
     "descriptor": "Crumbly",
     "dishForm": "Crumble"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "chinese",
+    "dinner"
+  ]
 }

@@ -1,6 +1,6 @@
 {
   "title": "Citrusy Jamaican Potato Starch Skewers",
-  "description": "A light, juicy jerk‑flavored chicken skewer coated with potato starch for a crisp finish, served hot from the air fryer and packed with citrus zest for a bright finish.",
+  "description": "A light, juicy jerkflavored chicken skewer coated with potato starch for a crisp finish, served hot from the air fryer and packed with citrus zest for a bright finish.",
   "cuisine": "Jamaican",
   "diet": [
     "keto"
@@ -10,7 +10,7 @@
     {
       "name": "Chicken breast",
       "amount": "200g",
-      "notes": "cut into 1‑cm cubes"
+      "notes": "cut into 1\u2011cm cubes"
     },
     {
       "name": "Potato starch",
@@ -64,9 +64,9 @@
     "Add the potato starch and mix until all chicken pieces are evenly coated.",
     "Stir in the fresh lime juice, orange juice, and olive oil, ensuring the chicken is well mixed.",
     "Allow the mixture to marinate for 10 minutes at room temperature.",
-    "Thread the marinated chicken cubes onto metal skewers, packing 3‑4 pieces per skewer and adding some diced red bell pepper for color.",
-    "Preheat the air fryer to 200 °C (400 °F) for 3 minutes.",
-    "Place the skewers in a single layer in the air fryer basket and cook for 10‑12 minutes, flipping halfway, until the chicken is golden and reaches an internal temperature of 75 °C (165 °F).",
+    "Thread the marinated chicken cubes onto metal skewers, packing 3\u20114 pieces per skewer and adding some diced red bell pepper for color.",
+    "Preheat the air fryer to 200\u202f\u00b0C (400\u202f\u00b0F) for 3 minutes.",
+    "Place the skewers in a single layer in the air fryer basket and cook for 10\u201112 minutes, flipping halfway, until the chicken is golden and reaches an internal temperature of 75\u202f\u00b0C (165\u202f\u00b0F).",
     "Remove the skewers, garnish with chopped cilantro if desired, and serve hot.",
     "Enjoy the citrusy, spicy snap of each bite."
   ],
@@ -87,5 +87,20 @@
     "mainIngredient": "potato starch",
     "descriptor": "Citrusy",
     "dishForm": "Skewers"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "jamaican",
+    "snack"
+  ]
 }

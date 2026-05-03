@@ -45,7 +45,7 @@
     "Chop green bell pepper, onion, and garlic finely. Set aside.",
     "Heat olive oil in a non-stick pan over medium heat.",
     "Add vegetable shortening to the pan and swirl to coat evenly.",
-    "Once melted, add red pepper flakes and sauté for 30 seconds.",
+    "Once melted, add red pepper flakes and saut\u00e9 for 30 seconds.",
     "Add diced avocado, green bell peppers, onion, and garlic. Stir-fry until vegetables are soft and fragrant.",
     "Stir in diastatic malt syrup and cook for an additional minute.",
     "Season with salt to taste.",
@@ -87,5 +87,20 @@
     "mainIngredient": "avocado",
     "descriptor": "crispy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "mediterranean",
+    "snack"
+  ]
 }
