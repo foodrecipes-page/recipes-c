@@ -1,0 +1,97 @@
+{
+  "title": "Creamy Croatian Date Pasta",
+  "description": "A bitter-sweet, creamy vegan dish featuring yellow masarepa pasta cooked in a tandoor-style sauce with dates and herbs. Perfect for a date-night Croatian-inspired meal.",
+  "cuisine": "croatian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yellow masarepa pasta",
+      "amount": "150g",
+      "notes": "crispy, small grains"
+    },
+    {
+      "name": "dates",
+      "amount": "120g",
+      "notes": "ripe, dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": "for heat"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Cook yellow masarepa pasta in salted water until al dente (10-12 mins).",
+    "While pasta cooks, toast dates in a dry pan over medium heat for 2 minutes to enhance sweetness.",
+    "In a large skillet, heat olive oil over medium-low, add minced garlic and cumin; sauté for 1 minute.",
+    "Add toasted dates, lemon juice, red pepper flakes, and 1 cup water; simmer for 5 minutes until sauce thickens.",
+    "Add cooked pasta to the sauce, toss gently to coat, and stir in chopped parsley.",
+    "Season with salt and pepper to taste; serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "croatian",
+    "vegan",
+    "date-night",
+    "pasta",
+    "creamy",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "creamy-croatian-date-pasta",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-croatian-date-pasta",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T00:38:18Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "creamy",
+    "mood": "date-night",
+    "technique": "tandoor",
+    "primaryIngredient": "yellow masarepa",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "dates",
+    "descriptor": "Creamy",
+    "dishForm": "Pasta"
+  }
+}
