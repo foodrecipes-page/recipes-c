@@ -1,0 +1,90 @@
+{
+  "title": "Crispy Croatian Cabbage Salad",
+  "description": "A bright, crunchy salad featuring lightly boiled cabbage, fresh chili, and a tangy vinegar dressing for a low-calorie solo dinner.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green cabbage",
+      "amount": "1 head (about 1.5 lb)",
+      "notes": "finely shredded"
+    },
+    {
+      "name": "red chili",
+      "amount": "1 small",
+      "notes": "minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "julienned"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "½ tsp"
+    }
+  ],
+  "instructions": [
+    "Wash and shred the green cabbage, then rinse it in cool water.",
+    "Boil ¾ of the shredded cabbage in lightly salted water for 2 minutes, then drain and immediately transfer to an ice bath to stop the cooking and preserve crunch.",
+    "While the cabbage cools, whisk together the olive oil, apple cider vinegar, minced garlic, salt, and pepper in a small bowl.",
+    "Add the boiled cabbage, julienned carrot, and minced chili to a large bowl; toss with the dressing until evenly coated. ",
+    "Serve immediately, optionally garnishing with a sprinkle of fresh chili flakes for extra heat."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "cabbage-salad",
+    "low-calorie",
+    "crisp",
+    "chilli",
+    "croatian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 5
+  },
+  "slug": "crispy-croatian-cabbage-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-croatian-cabbage-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:56:44Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crunchy",
+    "mood": "solo-dinner",
+    "technique": "boil",
+    "primaryIngredient": "chilli",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "cabbage",
+    "descriptor": "Crispy",
+    "dishForm": "Salad"
+  }
+}

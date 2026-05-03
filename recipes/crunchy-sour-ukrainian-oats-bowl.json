@@ -1,0 +1,104 @@
+{
+  "title": "Crunchy Sour Ukrainian Oats Bowl",
+  "description": "A cozy Ukrainian breakfast bowl with tangy sour cream, crunchy sunflower seeds, and protein-packed oats.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "1 cup (80 g)"
+    },
+    {
+      "name": "low-fat sour cream",
+      "amount": "1/4 cup (60 g)",
+      "notes": "softened"
+    },
+    {
+      "name": "buttermilk",
+      "amount": "1/2 cup (120 ml)",
+      "notes": "for sourness"
+    },
+    {
+      "name": "sunflower seeds",
+      "amount": "2 tbsp (20 g)",
+      "notes": "toasted"
+    },
+    {
+      "name": "roasted chickpeas",
+      "amount": "1/4 cup (45 g)",
+      "notes": "roasted at 375°F for 15 min"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tbsp (5 g)"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tsp (5 g)"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/8 tsp"
+    },
+    {
+      "name": "smoked salmon",
+      "amount": "30 g",
+      "notes": "optional topping"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan bring 2 cups of water or buttermilk to a boil, then add the rolled oats.",
+    "Reduce heat to low and simmer for 5–7 minutes, stirring occasionally, until the oats absorb the liquid and reach a creamy consistency.",
+    "Meanwhile, toast the sunflower seeds in a dry skillet over medium heat for 2 minutes until golden and fragrant, then set aside.",
+    "Spread the roasted chickpeas on a baking sheet and roast in a preheated oven at 375°F (190°C) for 15 minutes, stirring once, until crisp.",
+    "Once the oats are cooked, remove from heat and stir in the softened sour cream, maple syrup, chopped dill, salt, and pepper until well combined.",
+    "Transfer the oat mixture to a serving bowl, then top with the toasted sunflower seeds, roasted chickpeas, and optional smoked salmon slices.",
+    "If desired, drizzle a little extra maple syrup over the top for added sweetness.",
+    "Serve hot for a comforting, protein-rich start to your day.",
+    "Enjoy the delightful crunch and tangy flavors!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "cozy",
+    "high-protein",
+    "sour",
+    "crunchy",
+    "ukrainian",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 620,
+    "protein": 41,
+    "carbs": 102,
+    "fat": 33
+  },
+  "slug": "crunchy-sour-ukrainian-oats-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-sour-ukrainian-oats-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:56:24Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crunchy",
+    "mood": "cozy",
+    "technique": "rest",
+    "primaryIngredient": "porridge oats",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Oats",
+    "descriptor": "Crunchy Sour",
+    "dishForm": "Bowl"
+  }
+}

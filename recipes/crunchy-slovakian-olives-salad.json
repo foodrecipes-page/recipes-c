@@ -1,0 +1,94 @@
+{
+  "title": "Crunchy Slovakian Olives Salad",
+  "description": "A fresh, crunchy salad that brings Slovakian flavors to a weeknight table, featuring olives, deglazed onions, and a burst of lemon. It’s low-sodium-friendly and ready in just a few minutes.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Green olives",
+      "amount": "200 g",
+      "notes": "pitted, sliced"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "150 g",
+      "notes": "halved"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Capers",
+      "amount": "1 tablespoon",
+      "notes": "rinsed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "White wine",
+      "amount": "2 tablespoons",
+      "notes": "for deglazing"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 teaspoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "Pine nuts",
+      "amount": "1 tablespoon",
+      "notes": "toasted for crunch"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick skillet over medium heat and add the olive oil.",
+    "Add the sliced red onion and sauté until translucent, about 3 minutes.",
+    "Pour in the white wine to deglaze, scraping any browned bits from the pan; cook until the liquid reduces by half, about 2 minutes.",
+    "Transfer the deglazed onion mixture to a bowl and let it cool to room temperature.",
+    "In a large salad bowl, combine the sliced olives, cherry tomatoes, diced cucumber, capers, and toasted pine nuts.",
+    "Add the cooled onion mixture, lemon juice, chopped dill, and a pinch of black pepper; toss gently to combine.",
+    "Taste and adjust seasoning if needed, keeping sodium low by avoiding added salt.",
+    "Serve immediately for a crunchy, fresh bite of Slovakian-inspired flavor."
+  ],
+  "slug": "crunchy-slovakian-olives-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-slovakian-olives-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:56:54Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crunchy",
+    "mood": "weeknight",
+    "technique": "deglaze",
+    "primaryIngredient": "olives",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Olives",
+    "descriptor": "Crunchy",
+    "dishForm": "Salad"
+  }
+}
