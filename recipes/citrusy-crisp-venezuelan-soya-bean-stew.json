@@ -1,0 +1,106 @@
+{
+  "title": "Citrusy Crisp Venezuelan Soya Bean Stew",
+  "description": "A hearty, gluten-free Venezuelan stew featuring soya beans, slow-cooked to perfection with a burst of citrus flavors. Perfect for a midnight craving, this dish is both nourishing and delicious.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "soya beans",
+      "amount": "1 cup dried",
+      "notes": "soaked overnight and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1 cup fresh"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/2 cup fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon ground"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the soaked and drained soya beans, cumin, coriander, salt, and black pepper. Stir to combine.",
+    "Pour in the orange and lime juice, and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 45 minutes, or until the soya beans are tender.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the stew hot, garnished with chopped fresh cilantro.",
+    "Optional: add a squeeze of fresh lime juice and a sprinkle of chopped cilantro to each serving.",
+    "Serve with your choice of side dish, such as rice, cornbread, or roasted vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "latin-american",
+    "stew",
+    "soya-beans",
+    "gluten-free",
+    "vegetarian",
+    "citrus"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "citrusy-crisp-venezuelan-soya-bean-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-crisp-venezuelan-soya-bean-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T19:07:05Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crisp",
+    "mood": "midnight-craving",
+    "technique": "slow-cook",
+    "primaryIngredient": "soya bean",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "soya bean",
+    "descriptor": "citrusy crisp",
+    "dishForm": "Stew"
+  }
+}

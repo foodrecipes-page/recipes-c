@@ -1,0 +1,94 @@
+{
+  "title": "Crispy Slow Baked Irish Flour Flatbread",
+  "description": "A dense, energizing flatbread made with strong white Irish flour, slow-baked to achieve a cracker-like crispness without any root vegetables. This savory staple provides sustained energy and a deep, toasted grain profile.",
+  "cuisine": "Irish",
+  "diet": [
+    "Vegetarian",
+    "Jain",
+    "Vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Strong white bread flour",
+      "amount": "500g",
+      "notes": "High protein content for structure"
+    },
+    {
+      "name": "Warm water",
+      "amount": "300ml",
+      "notes": "Approximately 110°F"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "10g",
+      "notes": "Fine grain"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "60ml",
+      "notes": "Plus extra for brushing"
+    },
+    {
+      "name": "Dried rosemary",
+      "amount": "1 tbsp",
+      "notes": "Crushed"
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 tsp",
+      "notes": "For traditional Irish savory flavor"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, whisk together the strong white flour, sea salt, dried rosemary, and caraway seeds.",
+    "Make a well in the center and pour in the warm water and olive oil.",
+    "Gradually incorporate the flour into the liquid until a stiff dough forms.",
+    "Knead the dough on a lightly floured surface for 8-10 minutes until smooth and elastic.",
+    "Cover the dough with a damp cloth and let it rest for 30 minutes to relax the gluten.",
+    "Preheat your oven to 150°C (300°F), a low temperature for slow baking.",
+    "Divide the dough into 8 equal portions and roll each out as thinly as possible (about 2mm thick).",
+    "Place the rounds on parchment-lined baking sheets and prick them all over with a fork to prevent puffing.",
+    "Brush the tops lightly with olive oil and sprinkle with a tiny bit more salt.",
+    "Slow bake for 45-50 minutes, rotating the pans halfway through, until the flatbreads are golden brown and completely crisp.",
+    "Transfer to a wire rack to cool completely; they will continue to crisp as they cool."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 50,
+  "totalTimeMin": 95,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "irish-cuisine",
+    "jain-friendly",
+    "flatbread",
+    "crispy",
+    "slow-baked",
+    "high-energy",
+    "savory-snack"
+  ],
+  "nutrition": {
+    "calories": 285,
+    "protein": 8,
+    "carbs": 46,
+    "fat": 8
+  },
+  "slug": "crispy-slow-baked-irish-flour-flatbread",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-slow-baked-irish-flour-flatbread",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T19:07:11Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crispy",
+    "mood": "energizing",
+    "technique": "slow-cook",
+    "primaryIngredient": "strong white bread flour",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Flour",
+    "descriptor": "Crispy Slow Baked",
+    "dishForm": "Flatbread"
+  }
+}
