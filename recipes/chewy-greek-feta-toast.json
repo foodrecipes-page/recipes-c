@@ -1,0 +1,113 @@
+{
+  "title": "Chewy Greek Feta Toast",
+  "description": "A quick and delicious Greek dish featuring shortcrust pastry, toast, and feta cheese, perfect for a low-sodium snack or light meal.",
+  "cuisine": "Greek",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "shortcrust pastry",
+      "amount": "1 sheet, thawed",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "200g",
+      "notes": "crumbly, low-sodium"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "100g",
+      "notes": "pitted"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1 can, drained and chopped",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "sun-dried tomatoes",
+      "amount": "100g",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": "curly-leaf"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra-virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out shortcrust pastry to a thickness of 1/8 inch (3 mm).",
+    "Cut into 4-6 equal pieces, depending on desired toast size.",
+    "Place pastry pieces on a baking sheet lined with parchment paper.",
+    "Top each pastry piece with a spoonful of feta cheese, some olives, artichoke hearts, sun-dried tomatoes, and a sprinkle of parsley.",
+    "Drizzle with olive oil and sprinkle with garlic, lemon zest, salt, and pepper.",
+    "Bake for 15-20 minutes, or until pastry is golden brown and cheese is melted and slightly puffed.",
+    "Remove from oven and let cool for a few minutes before serving.",
+    "Serve warm, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek-cuisine",
+    "low-sodium",
+    "quick-fix",
+    "snack",
+    "brunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "chewy-greek-feta-toast",
+  "source": "groq-llama-3.3-70b-versatile",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-greek-feta-toast",
+  "providerUsed": "groq-llama-3.3-70b-versatile",
+  "createdAt": "2026-05-03T16:25:10Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "quick-fix",
+    "technique": "toast",
+    "primaryIngredient": "shortcrust pastry",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "feta",
+    "descriptor": "fermented chewy",
+    "dishForm": "Toast"
+  }
+}
