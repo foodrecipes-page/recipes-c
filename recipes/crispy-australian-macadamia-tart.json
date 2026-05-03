@@ -1,0 +1,118 @@
+{
+  "title": "Crispy Australian Macadamia Tart",
+  "description": "A sweet, flaky keto-friendly tart bursting with nutty macadamia flavor and a splash of Grand Marnier for a monsoon Australian twist.",
+  "cuisine": "Australian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "1 cup",
+      "notes": "provides a nutty base for a flaky crust"
+    },
+    {
+      "name": "coconut flour",
+      "amount": "2 tbsp",
+      "notes": "adds structure and moisture"
+    },
+    {
+      "name": "butter",
+      "amount": "3 tbsp, melted",
+      "notes": "binds the crust and adds richness"
+    },
+    {
+      "name": "sea salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "erythritol",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "acts as a binder in the crust"
+    },
+    {
+      "name": "macadamia nuts, chopped",
+      "amount": "1 cup",
+      "notes": "the star ingredient, adds texture and flavor"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "2 large",
+      "notes": "binds the filling and creates a custard base"
+    },
+    {
+      "name": "Grand Marnier",
+      "amount": "1 tbsp",
+      "notes": "used to deglaze and add citrusy depth"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp",
+      "notes": "used for sautéing nuts before deglazing"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F) and grease a 9-inch tart pan.",
+    "Combine almond flour, coconut flour, sea salt, and erythritol in a bowl.",
+    "Add melted butter and the egg; mix until a dough forms.",
+    "Press the dough evenly into the prepared pan and bake for 10 minutes until lightly golden.",
+    "While the crust bakes, heat a skillet over medium heat and add the coconut oil.",
+    "Add the chopped macadamia nuts and toast for about 3 minutes, stirring occasionally.",
+    "Deglaze the skillet with Grand Marnier, swirling to lift the nut bits; let the alcohol evaporate for 1 minute.",
+    "In a separate bowl, whisk the heavy cream, two eggs, and vanilla extract until smooth.",
+    "Pour the wet mixture over the toasted nuts and stir to combine.",
+    "Fill the pre-baked crust with the filling mixture and bake for 25–30 minutes until set and edges are golden.",
+    "Remove from oven, let the tart cool for 15 minutes, then refrigerate for 30 minutes to firm up before slicing."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "keto-friendly",
+    "sweet",
+    "flaky",
+    "monsoon-australian",
+    "grand-marnier",
+    "macadamia",
+    "tart"
+  ],
+  "nutrition": {
+    "calories": 343,
+    "protein": 7,
+    "carbs": 3,
+    "fat": 32
+  },
+  "slug": "crispy-australian-macadamia-tart",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-australian-macadamia-tart",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:07:28Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "flaky",
+    "mood": "monsoon",
+    "technique": "deglaze",
+    "primaryIngredient": "grand marnier",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Macadamia",
+    "descriptor": "Crispy",
+    "dishForm": "Tart"
+  }
+}

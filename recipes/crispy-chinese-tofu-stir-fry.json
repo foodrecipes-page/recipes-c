@@ -1,0 +1,103 @@
+{
+  "title": "Crispy Chinese Tofu Stir-fry",
+  "description": "A spicy, juicy tofu dish with bright orange flavor, crisp exterior and diabetic-friendly sweetness, perfect for a quick dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegan",
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "400g"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "orange juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chili garlic paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "stevia syrup",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tsp, minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "2 stalks, sliced"
+    }
+  ],
+  "instructions": [
+    "Press the tofu for 15 minutes to remove excess moisture, then cut into 1-inch cubes.",
+    "Whisk together orange zest, orange juice, soy sauce, chili garlic paste, stevia syrup, water, and cornstarch in a bowl; set aside.",
+    "Heat half of the sesame oil in a large non-stick skillet over medium-high heat; add tofu cubes and stir-fry until golden and crisp, about 8 minutes.",
+    "Remove tofu and set aside.",
+    "Add the remaining sesame oil to the skillet, then sauté minced ginger for 30 seconds.",
+    "Return tofu to the skillet, pour the prepared sauce, and stir until the sauce thickens and coats the tofu, about 2 minutes.",
+    "Garnish with sliced green onions before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "juicy",
+    "orange",
+    "crispy",
+    "tofu",
+    "stirfry",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "crispy-chinese-tofu-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-chinese-tofu-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:08:00Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "fry",
+    "primaryIngredient": "orange",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Tofu",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
