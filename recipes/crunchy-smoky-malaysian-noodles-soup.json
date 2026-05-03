@@ -1,0 +1,118 @@
+{
+  "title": "Crunchy Smoky Malaysian Noodles Soup",
+  "description": "A comforting Malaysian noodle soup with a tangy, smoky broth, crisp fried shallots, and silky custard powder swirl, all vegan.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice vermicelli",
+      "amount": "200g"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 liter"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": "use tamari for gluten-free"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "custard powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked seaweed flakes",
+      "amount": "1 tsp",
+      "notes": "or smoked paprika"
+    },
+    {
+      "name": "shiitake mushrooms, sliced",
+      "amount": "50g"
+    },
+    {
+      "name": "carrot, julienned",
+      "amount": "1 medium"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh ginger, grated",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "crushed red pepper flakes",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "roasted sesame seeds",
+      "amount": "2 tbsp",
+      "notes": "for crunch"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice vermicelli in cold water, then soak in warm water for 10 minutes until softened, drain and set aside.",
+    "Heat the vegetable broth in a medium pot over medium heat until just simmering. Add soy sauce, vinegar, sugar, and smoked seaweed flakes; stir to combine."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "gluten-free",
+    "sour",
+    "smoky",
+    "noodle-soup",
+    "quick",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 310,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 9
+  },
+  "slug": "crunchy-smoky-malaysian-noodles-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-smoky-malaysian-noodles-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:20:19Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crunchy",
+    "mood": "cozy",
+    "technique": "smoke",
+    "primaryIngredient": "custard powder",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Noodles",
+    "descriptor": "Crunchy Smoky",
+    "dishForm": "Soup"
+  }
+}
