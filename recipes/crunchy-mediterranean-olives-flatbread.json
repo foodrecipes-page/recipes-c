@@ -1,0 +1,107 @@
+{
+  "title": "Crunchy Mediterranean Olives Flatbread",
+  "description": "A buttery, crunchy flatbread bursting with black olives, dill pickles, and Mediterranean herbs—Whole30‑friendly and perfect for a festive snack.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ground flaxseed",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for dough"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black olives",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "dill pickles",
+      "amount": "1/4 cup",
+      "notes": "diced, no added sugar"
+    },
+    {
+      "name": "fresh oregano",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C) and line an 8‑inch square baking pan with parchment paper.",
+    "In a medium bowl, whisk together almond flour, ground flaxseed, sea salt, and garlic powder.",
+    "Add the eggs and 2 tbsp olive oil; stir until a cohesive dough forms.",
+    "Press the dough into the prepared pan, creating an even 1/2-inch crust.",
+    "Bake for 10 minutes until lightly golden.",
+    "Remove from the oven, brush the crust with the remaining tbsp of olive oil, then scatter chopped black olives, diced dill pickles, oregano, and basil over the surface.",
+    "Return to the oven and bake for an additional 10 minutes until the toppings are heated through and the crust is crisp.",
+    "Let the flatbread cool for 5 minutes, then cut into 4 wedges and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "whole30-friendly",
+    "mediterranean",
+    "crunchy",
+    "flatbread",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 478,
+    "protein": 17.5,
+    "carbs": 7,
+    "fat": 24.5
+  },
+  "slug": "crunchy-mediterranean-olives-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-mediterranean-olives-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:47:31Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crunchy",
+    "mood": "festive",
+    "technique": "pickle",
+    "primaryIngredient": "black olives",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Olives",
+    "descriptor": "Crunchy",
+    "dishForm": "Flatbread"
+  }
+}
