@@ -1,0 +1,113 @@
+{
+  "title": "Creamy Crispy Egyptian Beef Bowl",
+  "description": "A sweet, creamy, and adventurous Egyptian dish featuring crispy beef and a caramelized honey‑yogurt sauce served over fluffy couscous.",
+  "cuisine": "Egyptian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lean beef sirloin",
+      "amount": "200 g",
+      "notes": "sliced thin"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "medium onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic clove",
+      "amount": "1",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "plain Greek yogurt",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cooked couscous",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium‑high heat.",
+    "Add sliced beef, season with salt and pepper, and cook until browned and crispy, about 5 minutes; remove and set aside.",
+    "In the same skillet, melt butter, then add sliced onion and cook until translucent, about 3 minutes.",
+    "Stir in minced garlic, cumin, coriander, and smoked paprika; cook for 1 minute until fragrant.",
+    "Return beef to pan, pour in honey, and stir until beef is coated and caramelized, about 2 minutes.",
+    "Reduce heat to low, add plain yogurt, lemon juice, and mix until a creamy sauce forms, about 3 minutes.",
+    "While sauce simmers, toast cooked couscous in a dry skillet for 2 minutes, then fluff with a fork.",
+    "Plate couscous, spoon the crispy beef and sauce over it, and sprinkle with chopped parsley.",
+    "Garnish with a squeeze of lemon and a drizzle of extra olive oil if desired.",
+    "Serve immediately, hot and crispy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "high-protein",
+    "one-pan",
+    "quick",
+    "savory-sweet"
+  ],
+  "nutrition": {
+    "calories": 1020,
+    "protein": 58,
+    "carbs": 83,
+    "fat": 47
+  },
+  "slug": "creamy-crispy-egyptian-beef-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-crispy-egyptian-beef-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:12:37Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "creamy",
+    "mood": "adventurous",
+    "technique": "fry",
+    "primaryIngredient": "beef",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "beef",
+    "descriptor": "Creamy Crispy",
+    "dishForm": "Bowl"
+  }
+}
