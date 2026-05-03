@@ -1,0 +1,73 @@
+{
+  "title": "Crispy Egyptian Cheese Bowl",
+  "description": "A quick, herbal, crispy dish featuring shredded Monterey Jack cheese and dairy-free-friendly dumplings. Perfect for a light snack or side.",
+  "cuisine": "egyptian",
+  "diet": [
+    "dairy-free-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "monterey jack cheese",
+      "amount": "150g",
+      "notes": "shredded"
+    },
+    {
+      "name": "dumplings (dough)",
+      "amount": "100g",
+      "notes": "dairy-free, pre-made"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "20g",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Shred the Monterey Jack cheese into small pieces.",
+    "Heat 1 tsp olive oil in a small pan over medium heat.",
+    "Add pre-made dumplings and fry for 2-3 minutes until crispy.",
+    "Mix in chopped parsley and shredded cheese until combined.",
+    "Serve immediately for a light, crispy snack."
+  ],
+  "prepTimeMin": 2,
+  "cookTimeMin": 3,
+  ":totalTimeMin": 5,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "egyptian",
+    "cheese",
+    "crispy",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "crispy-egyptian-crispy-cheese-bowl",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-egyptian-crispy-cheese-bowl",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T05:26:08Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crispy",
+    "mood": "quick-fix",
+    "technique": "dum",
+    "primaryIngredient": "shredded monterey jack cheese",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "cheese",
+    "descriptor": "Crispy",
+    "dishForm": "Bowl"
+  }
+}
