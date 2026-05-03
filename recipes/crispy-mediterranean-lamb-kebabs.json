@@ -1,0 +1,108 @@
+{
+  "title": "Crispy Mediterranean Lamb Kebabs",
+  "description": "Delicious, floral, crisp lamb kebabs with a tangy apple cider vinegar glaze, air-fried to perfection for a crowd-pleasing Mediterranean treat",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground lamb",
+      "amount": "1 lb (450 g)",
+      "notes": "use 20-25% fat for juiciness"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup finely grated",
+      "notes": "adds sweetness and moisture"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup chopped",
+      "notes": "bright herbal note"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the ground lamb, grated onion, chopped parsley, oregano, cumin, smoked paprika, minced garlic, salt, and pepper.",
+    "2. Stir in olive oil and apple cider vinegar to bind the mixture and add tang.",
+    "3. Add the lemon zest and mix until evenly distributed.",
+    "4. Shape the mixture into 12 small, tight meatballs about 1.5 inches in diameter, then flatten each into a thin oval to mimic kebab shape.",
+    "5. Preheat your air fryer to 400°F (200°C).",
+    "6. Lightly spray the air fryer basket with non‑stick spray or brush a small amount of olive oil to prevent sticking.",
+    "7. Place the flattened lamb pieces in a single layer in the basket, ensuring they don’t overlap.",
+    "8. Air fry for 8–10 minutes, flipping halfway through, until the outside is crisp and the internal temperature reaches 145°F (63°C) for medium doneness.",
+    "9. Remove from air fryer and let rest for 2 minutes before serving.",
+    "10. Optional: garnish with chopped mint or extra parsley and serve with a side of tzatziki or a lemon‑olive oil drizzle."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fryer",
+    "lamb",
+    "mediterranean",
+    "quick",
+    "kebab"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 20,
+    "carbs": 2,
+    "fat": 12
+  },
+  "slug": "crispy-mediterranean-lamb-kebabs",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-mediterranean-lamb-kebabs",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:52:04Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crisp",
+    "mood": "crowd-pleaser",
+    "technique": "air-fry",
+    "primaryIngredient": "apple cider vinegar",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lamb",
+    "descriptor": "Crispy",
+    "dishForm": "Kebabs"
+  }
+}

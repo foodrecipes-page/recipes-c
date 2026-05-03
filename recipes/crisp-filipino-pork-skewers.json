@@ -1,0 +1,96 @@
+{
+  "title": "Crisp Filipino Pork Skewers",
+  "description": "A citrusy and adventurous Filipino dish featuring pork skewers with a sweet and sour glaze, perfect for those looking for a sugar-free-friendly option. The use of fast action yeast helps to create a crispy exterior while keeping the interior juicy.",
+  "cuisine": "Filipino",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "fast action yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "calamansi juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "20 pieces",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together calamansi juice, fish sauce, lime juice, garlic, black pepper, and salt.",
+    "Add the pork pieces to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated pork pieces onto the bamboo skewers.",
+    "In a small bowl, mix together fast action yeast and 1 tablespoon of water to create a yeast paste.",
+    "Brush the yeast paste onto the pork skewers.",
+    "Grill the pork skewers for 10-12 minutes, turning occasionally, until cooked through and crispy on the outside.",
+    "Serve hot with a side of steamed vegetables or rice."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 42,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-food",
+    "pork-recipes",
+    "sugar-free",
+    "grilled-meats"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "crisp-filipino-pork-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-filipino-pork-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T20:52:03Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crisp",
+    "mood": "adventurous",
+    "technique": "saute",
+    "primaryIngredient": "fast action yeast",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "pork",
+    "descriptor": "Citrusy Crisp",
+    "dishForm": "Skewers"
+  }
+}
