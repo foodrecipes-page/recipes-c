@@ -1,0 +1,113 @@
+{
+  "title": "Citrusy Norwegian Linguine Pasta with Browned Butter and Crispy Bacon",
+  "description": "Indulge in this Norwegian-inspired linguine pasta dish featuring citrus-infused browned butter, crispy bacon, and a sprinkle of parmesan cheese.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "linguine pasta",
+      "amount": "12 oz",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "freshly squeezed lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "freshly squeezed orange juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tbsp",
+      "notes": "unsalted"
+    },
+    {
+      "name": "bacon",
+      "amount": "6 slices",
+      "notes": "thick-cut"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "freshly ground nutmeg",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the linguine pasta according to package instructions until al dente. Reserve 1 cup of pasta water and then drain the linguine.",
+    "In a large skillet, cook the bacon over medium heat until crispy. Remove the bacon from the skillet and set aside.",
+    "In the same skillet, add the butter and cook over medium heat until it starts to brown. Add the garlic and cook for 1 minute.",
+    "Add the freshly squeezed lemon and orange juice to the skillet and stir to combine.",
+    "Add the cooked linguine pasta to the skillet and toss to combine with the citrus-infused browned butter. If the pasta seems dry, add a little of the reserved pasta water.",
+    "Season the pasta with salt, black pepper, and a pinch of nutmeg.",
+    "To assemble the dish, place the cooked pasta on a serving plate, top with crispy bacon, and sprinkle with parmesan cheese. Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "norwegian",
+    "linguine-pasta",
+    "bacon",
+    "parmesan",
+    "garlic",
+    "herbs"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 30
+  },
+  "slug": "citrusy-tender-norwegian-linguine-pasta",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-tender-norwegian-linguine-pasta",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:35:08Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "tender",
+    "mood": "indulgent",
+    "technique": "whisk",
+    "primaryIngredient": "linguine pasta",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "linguine",
+    "descriptor": "citrusy, tender",
+    "dishForm": "Pasta"
+  }
+}

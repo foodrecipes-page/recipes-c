@@ -1,0 +1,78 @@
+{
+  "title": "Citrusy Tender Egyptian Lemon Pastry Pie",
+  "description": "A citrusy and tender dessert designed to be enjoyed as a solo dinner dish featuring shortcrust pastry, marinated lemons, and dairy-free-friendly ingredients.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup all-purpose flour"
+    },
+    {
+      "name": "3/4 cup cold unsalted butter, cubed"
+    },
+    {
+      "name": "1/2 cup ice water"
+    },
+    {
+      "name": "Juice of 6 lemons (about 2 cups)"
+    },
+    {
+      "name": "Zest from 6 lemons"
+    },
+    {
+      "name": "Pinch of salt"
+    },
+    {
+      "name": "3 large eggs, at room temperature"
+    },
+    {
+      "name": "1/2 cup dairy-free milk"
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl, combine flour and cubed butter. Using a pastry cutter or your fingers, cut the butter into the flour until it resembles coarse crumbs.",
+    "Gradually add ice water while stirring with a fork until dough comes together in a ball. Wrap in plastic wrap and chill for at least 30 minutes.",
+    "On a floured surface, roll out chilled dough to fit a 9-inch pie dish. Trim edges and transfer to the pie dish.",
+    "In a separate bowl, combine lemon juice, zest, salt, eggs, and dairy-free milk until well combined. Pour into prepared crust.",
+    "Bake at 350°F (175°C) for 40-45 minutes or until set and golden brown. Cool on a wire rack before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian-lemon-pastry-pie",
+    "citrusy-tender-dessert",
+    "shortcrust-pastry",
+    "marinated-lemons",
+    "dairy-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 6,
+    "carbs": 42,
+    "fat": 18
+  },
+  "slug": "citrusy-tender-egyptian-lemon-pastry-pie",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-tender-egyptian-lemon-pastry-pie",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T17:35:41Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "tender",
+    "mood": "solo-dinner",
+    "technique": "marinate",
+    "primaryIngredient": "shortcrust pastry",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lemon",
+    "descriptor": "Citrusy Tender",
+    "dishForm": "Pastry Pie"
+  }
+}
