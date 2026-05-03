@@ -1,0 +1,111 @@
+{
+  "title": "Crispy Bitter Peruvian Ground Beef Bake",
+  "description": "A one‑pot Peruvian bake that pairs smoky ground beef with a bright, bitter aji amarillo sauce and a crunchy corn‑tortilla topping.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "non-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 lb (450 g)",
+      "notes": "use lean, no added salt"
+    },
+    {
+      "name": "cooked quinoa",
+      "amount": "1 cup",
+      "notes": "cooked before assembly for texture"
+    },
+    {
+      "name": "black beans",
+      "amount": "1 cup, drained",
+      "notes": "canned, rinsed"
+    },
+    {
+      "name": "aji amarillo paste",
+      "amount": "3 tbsp",
+      "notes": "adds bitter heat; substitute with roasted yellow pepper if unavailable"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp",
+      "notes": "low‑smoke point, adds nutty flavor"
+    },
+    {
+      "name": "crushed corn tortilla chips",
+      "amount": "1/2 cup",
+      "notes": "for crispy topping"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "2 tsp",
+      "notes": "balances bitterness"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "2 tbsp",
+      "notes": "optional garnish"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "use fine sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat sesame oil over medium heat; add ground beef and cook until browned, breaking it up with a spoon; season with salt and pepper.",
+    "Stir in aji amarillo paste and cook for 1 minute until fragrant.",
+    "Add black beans and quinoa to the skillet; mix well until everything is combined and heated through.",
+    "Transfer the mixture to a 9×13-inch baking dish, spreading evenly.",
+    "Sprinkle crushed corn tortilla chips over the top for a crispy finish.",
+    "Bake in the preheated oven for 25–30 minutes, or until the top is golden and crisp.",
+    "Remove from oven and squeeze fresh lime juice over the bake.",
+    "Let it rest for 5 minutes before serving.",
+    "Garnish with chopped cilantro and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "crispy",
+    "one-pot",
+    "bake",
+    "ground-beef",
+    "bitter",
+    "jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 30,
+    "carbs": 35,
+    "fat": 28
+  },
+  "slug": "crispy-bitter-peruvian-ground-beef-bake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-bitter-peruvian-ground-beef-bake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:10:01Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crisp",
+    "mood": "one-pot",
+    "technique": "bake",
+    "primaryIngredient": "ground beef",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Ground Beef",
+    "descriptor": "Crispy Bitter",
+    "dishForm": "Bake"
+  }
+}
