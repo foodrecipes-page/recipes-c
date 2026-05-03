@@ -1,0 +1,100 @@
+{
+  "title": "Caramelized Chewy Thai Chicken Satay",
+  "description": "A Whole30-friendly, fermented, and chewy Thai dish perfect for a date night, featuring caramelized flavors and unflavored gelatin. Marinated chicken breast is grilled to perfection and served with a side of fresh vegetables.",
+  "cuisine": "Thai",
+  "diet": [
+    "Whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch strips"
+    },
+    {
+      "name": "unflavored gelatin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together gelatin and 1/4 cup of cold water to soften.",
+    "In a blender or food processor, combine coconut milk, fish sauce, lime juice, honey, ginger, curry paste, salt, and pepper. Blend until smooth.",
+    "Add the gelatin mixture to the blender and blend until well combined.",
+    "Place the chicken strips in a large bowl and pour the marinade over them. Mix well to coat and cover the bowl with plastic wrap.",
+    "Refrigerate for at least 2 hours or overnight to allow the chicken to ferment and become chewy.",
+    "Preheat a grill or grill pan to medium-high heat. Thread the marinated chicken onto skewers, if desired.",
+    "Grill the chicken for 5-7 minutes per side, or until cooked through and slightly charred.",
+    "While the chicken is cooking, prepare a caramel sauce by heating 1/4 cup of coconut milk in a small saucepan over medium heat. Bring to a simmer and cook for 5-7 minutes, or until the sauce has thickened and caramelized.",
+    "Serve the grilled chicken with the caramel sauce spooned over the top and garnished with fresh cilantro and vegetables, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai-food",
+    "grilled-chicken",
+    "caramel-sauce",
+    "whole30",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 17
+  },
+  "slug": "caramelized-chewy-thai-chicken-satay",
+  "source": "groq-llama-3.3-70b-versatile",
+  "canonicalUrl": "https://foodrecipes.page/r/caramelized-chewy-thai-chicken-satay",
+  "providerUsed": "groq-llama-3.3-70b-versatile",
+  "createdAt": "2026-05-03T16:23:55Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "date-night",
+    "technique": "caramelize",
+    "primaryIngredient": "unflavoured gelatin",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "Caramelized Chewy",
+    "dishForm": "Satay"
+  }
+}

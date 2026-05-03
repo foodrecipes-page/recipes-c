@@ -1,0 +1,103 @@
+{
+  "title": "Crispy Australian Bread Toast",
+  "description": "A crispy, salty, low-sodium Australian dish perfect for brunch, made with stale bread and braise. It's a delicious way to repurpose old bread and enjoy a satisfying meal.",
+  "cuisine": "Australian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "stale bread",
+      "amount": "4 slices",
+      "notes": "white or whole wheat"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch",
+      "notes": "use low-sodium salt"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/4 cup",
+      "notes": "low-sodium option"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "poached eggs",
+      "amount": "4",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a small bowl, mix together olive oil, butter, salt, garlic powder, and dried thyme.",
+    "Place the bread slices on a baking sheet lined with parchment paper.",
+    "Brush the oil mixture evenly onto each bread slice.",
+    "Sprinkle grated cheddar cheese over the bread slices.",
+    "Bake in the preheated oven for 10-12 minutes, or until the bread is crispy and golden brown.",
+    "Remove from the oven and sprinkle with chopped parsley.",
+    "Drizzle with lemon juice.",
+    "Serve hot, topped with poached eggs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brunch",
+    "australian",
+    "low-sodium",
+    "crispy",
+    "bread"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "crispy-australian-bread-toast",
+  "source": "groq-llama-3.3-70b-versatile",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-australian-bread-toast",
+  "providerUsed": "groq-llama-3.3-70b-versatile",
+  "createdAt": "2026-05-03T16:24:48Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crispy",
+    "mood": "brunch-mood",
+    "technique": "braise",
+    "primaryIngredient": "stale bread",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "bread",
+    "descriptor": "Crispy",
+    "dishForm": "Toast"
+  }
+}
