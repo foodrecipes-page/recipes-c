@@ -1,0 +1,106 @@
+{
+  "title": "Crunchy Dutch Chicken Roast",
+  "description": "A one-pot Dutch dish featuring marjoram and a crunchy crust, perfect for a low-calorie dinner. This recipe combines the flavors of chicken, vegetables, and herbs for a delicious and satisfying meal.",
+  "cuisine": "Dutch",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1.5 lbs",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "marjoram",
+      "amount": "2 tbsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "In a large Dutch oven, heat the olive oil over medium-high heat.",
+    "Add the chopped onion and cook until browned, about 5 minutes.",
+    "Add the chopped carrots and potatoes, and cook for an additional 5 minutes.",
+    "Add the chicken thighs, skin side up, and cook for 5 minutes.",
+    "Sprinkle the marjoram, salt, black pepper, and paprika over the chicken and vegetables.",
+    "Transfer the Dutch oven to the preheated oven and roast for 30 minutes.",
+    "Remove the Dutch oven from the oven and sprinkle the parmesan cheese over the top.",
+    "Return the Dutch oven to the oven and roast for an additional 10-15 minutes, or until the chicken is cooked through and the crust is golden brown.",
+    "Remove the Dutch oven from the oven and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "chicken",
+    "roast",
+    "low-calorie",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "crunchy-dutch-chicken-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-dutch-chicken-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T22:19:41Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crunchy",
+    "mood": "one-pot",
+    "technique": "roast",
+    "primaryIngredient": "marjoram",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "chicken",
+    "descriptor": "salty crunchy",
+    "dishForm": "Roast"
+  }
+}
