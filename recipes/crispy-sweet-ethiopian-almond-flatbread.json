@@ -1,0 +1,100 @@
+{
+  "title": "Crispy Sweet Ethiopian Almond Flatbread",
+  "description": "A light, flaky flatbread sweetened with erythritol and spiced with whole black peppercorns, served with crisp pickled cucumber for a tangy contrast.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "low-carb",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ground flaxseed meal",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "erythritol",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "whole black peppercorns",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "coconut oil, melted",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "pickled cucumber slices",
+      "amount": "1 cup (garnish)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C). Grease a 9x9-inch baking pan or line with parchment.",
+    "In a large bowl, whisk together almond flour, ground flaxseed meal, erythritol, baking powder, sea salt, and whole black peppercorns until evenly mixed.",
+    "Add melted coconut oil, unsweetened almond milk, and lime juice to the dry mixture. Stir until a soft dough forms; it will be slightly sticky.",
+    "Transfer dough onto the prepared pan, using wet hands or a spatula to flatten and spread to an even thickness (about 1/4-inch).",
+    "Bake for 12–15 minutes, or until the edges are golden brown and a toothpick inserted near the center comes out clean.",
+    "Remove from oven and let the flatbread cool for 5 minutes. Slice into 8 wedges.",
+    "Serve warm, garnished with pickled cucumber slices. Keep the remainder refrigerated; it stays crisp for up to 4 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-carb",
+    "vegetarian",
+    "vegan",
+    "ethiopian",
+    "breakfast",
+    "flatbread",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 1370,
+    "protein": 47,
+    "carbs": 35,
+    "fat": 116
+  },
+  "slug": "crispy-sweet-ethiopian-almond-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-sweet-ethiopian-almond-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:23:35Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "flaky",
+    "mood": "light",
+    "technique": "pickle",
+    "primaryIngredient": "whole black peppercorns",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Almond",
+    "descriptor": "Crispy Sweet",
+    "dishForm": "Flatbread"
+  }
+}
