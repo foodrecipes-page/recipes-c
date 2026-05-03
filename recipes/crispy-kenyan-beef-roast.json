@@ -1,0 +1,102 @@
+{
+  "title": "Crispy Kenyan Beef Roast",
+  "description": "Savory, crispy, nostalgic Kenyan dish featuring beef shin with a flavorful bhuna rub, egg‑free-friendly and perfect for a comforting dinner.",
+  "cuisine": "Kenyan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef shin, bone-in",
+      "amount": "2 kg"
+    },
+    {
+      "name": "Paprika",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Onion powder",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "1 cup",
+      "notes": "for basting"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F). Pat beef shin dry with paper towels.",
+    "In a bowl, mix paprika, cumin, garlic powder, onion powder, chili flakes, salt, and pepper.",
+    "Rub mixture all over the beef shin, pressing into the meat, and let rest at room temperature for 15 minutes to absorb flavors.",
+    "Heat olive oil in a large skillet or Dutch oven over medium-high heat; sear the beef shin on all sides until browned (about 5 minutes). Transfer to a roasting pan with a rack if available.",
+    "Pour 1 cup of beef broth into the bottom of the roasting pan and add a tablespoon of lemon juice to help tenderize.",
+    "Cover tightly with foil (or a lid) and roast in the oven for 2 hours.",
+    "Remove the cover, increase oven temperature to 230°C (450°F) or switch to broiler, and roast for an additional 30 minutes, basting with broth occasionally, until the skin is crisp and edges are browned.",
+    "Let the roast rest for 10–15 minutes before slicing to allow juices to redistribute.",
+    "Serve slices with a side of sautéed greens or steamed greens, and drizzle pan juices over the meat.",
+    "Enjoy the nostalgic, comforting Kenyan beef roast."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 180,
+  "totalTimeMin": 195,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "savory",
+    "crispy",
+    "kenyan",
+    "beef",
+    "roast",
+    "bhuna",
+    "egg-free",
+    "comfort-food",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 995,
+    "protein": 105,
+    "carbs": 0,
+    "fat": 83
+  },
+  "slug": "crispy-kenyan-beef-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-kenyan-beef-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:25:46Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crispy",
+    "mood": "nostalgic",
+    "technique": "bhuna",
+    "primaryIngredient": "beef shin",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Beef",
+    "descriptor": "Crispy",
+    "dishForm": "Roast"
+  }
+}
