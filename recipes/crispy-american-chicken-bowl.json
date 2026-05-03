@@ -1,0 +1,105 @@
+{
+  "title": "Crispy American Chicken Bowl",
+  "description": "A kid‑friendly, light American bowl featuring sweet‑spicy gochujang‑marinated chicken, crunchy veggies, and fluffy brown rice for a satisfying, Mediterranean‑friendly meal.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Boneless skinless chicken thighs",
+      "amount": "400g"
+    },
+    {
+      "name": "Gochujang sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Fresh ginger, grated",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "¼ tsp"
+    },
+    {
+      "name": "Brown rice, cooked",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Sliced cucumber",
+      "amount": "½ cup"
+    },
+    {
+      "name": "Shredded carrots",
+      "amount": "½ cup"
+    }
+  ],
+  "instructions": [
+    "Preheat air fryer to 200 °C (400 °F) for 3 minutes.",
+    "Whisk gochujang, honey, soy sauce, minced garlic, grated ginger, olive oil, salt, and pepper to make a glaze.",
+    "Pat chicken dry and toss in the glaze until fully coated; let marinate for 10–15 minutes.",
+    "Place chicken in the air‑fryer basket and cook for 15–18 minutes, flipping halfway, until internal temperature reaches 75 °C (165 °F).",
+    "Reheat cooked brown rice in the microwave for 1 minute or on the stovetop until warm.",
+    "Assemble the bowl by layering rice, air‑fried chicken, sliced cucumber, and shredded carrots.",
+    "Drizzle any remaining glaze over the bowl.",
+    "Garnish with fresh cilantro or parsley if desired.",
+    "Serve immediately for the best texture and flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kid-friendly",
+    "air-fry",
+    "gochujang",
+    "mediterranean-friendly",
+    "american",
+    "bowl"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 90,
+    "carbs": 100,
+    "fat": 40
+  },
+  "slug": "crispy-american-chicken-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-american-chicken-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:11:50Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "light",
+    "mood": "kid-friendly",
+    "technique": "air-fry",
+    "primaryIngredient": "gochujang",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "chicken",
+    "descriptor": "Crispy",
+    "dishForm": "Bowl"
+  }
+}
