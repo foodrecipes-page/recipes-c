@@ -1,0 +1,95 @@
+{
+  "title": "Crunchy Fresh Uruguayan Chicken Wrap",
+  "description": "Fresh, crunchy, festive wrap featuring roasted chicken, smoky quinoa, avocado, and citrus slaw, all tucked into a warm naan.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Naan bread",
+      "amount": "4 pieces (small size)",
+      "notes": "warm before assembly"
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "400g (1lb)",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Quinoa",
+      "amount": "1 cup cooked",
+      "notes": "prepared ahead"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1 ripe",
+      "notes": "sliced"
+    },
+    {
+      "name": "Red cabbage",
+      "amount": "1 cup shredded",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Lime",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "In a bowl, toss chicken strips with olive oil, smoked paprika, cumin, salt, and pepper until coated.",
+    "Spread chicken on a baking sheet and roast for 15-18 minutes, turning halfway, until cooked through and slightly charred.",
+    "Meanwhile, warm naan in a dry skillet or microwave for 15 seconds.",
+    "In a bowl, combine cooked quinoa, shredded red cabbage, lime juice, and chopped cilantro; season with salt and pepper to taste.",
+    "To assemble, spread a spoonful of the quinoa slaw onto each naan, then layer with roasted chicken strips and avocado slices.",
+    "Fold the sides of the naan over the filling and roll tightly.",
+    "Serve immediately, optionally with a side of lime wedges.",
+    "Enjoy the crunchy, fresh flavors of Uruguay in every bite."
+  ],
+  "slug": "crunchy-fresh-uruguayan-chicken-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-fresh-uruguayan-chicken-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:50:58Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crunchy",
+    "mood": "festive",
+    "technique": "roast",
+    "primaryIngredient": "naan bread",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "chicken",
+    "descriptor": "Crunchy Fresh",
+    "dishForm": "Wrap"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "title": "Citrusy Dense Slovakian Pork Stew",
+  "description": "A hearty and citrusy stew originating from Slovakian cuisine, designed to cure hangovers and made with shredded Mexican cheese. This paleo-friendly dish is perfect for a cold winter's night.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1.5 lbs",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Mexican cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "oranges",
+      "amount": "2",
+      "notes": "juiced"
+    },
+    {
+      "name": "lemons",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "onions",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "4",
+      "notes": "peeled, chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2",
+      "notes": "peeled, chopped"
+    },
+    {
+      "name": "pork broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "In a large Dutch oven, heat 2 tablespoons of oil over medium heat.",
+    "Add the chopped onions and cook until they are translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the pork shoulder and cook until browned on all sides, about 5 minutes.",
+    "Add the pork broth, orange juice, lemon juice, carrots, and potatoes. Bring to a boil, then cover and transfer to the preheated oven.",
+    "Bake for 2.5 hours, or until the pork is tender and the vegetables are cooked through.",
+    "Remove the pot from the oven and stir in the shredded Mexican cheese until melted and well combined.",
+    "Season with salt and pepper to taste, then garnish with chopped fresh parsley.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "dense",
+    "pork",
+    "stew",
+    "slovakian",
+    "paleo"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 34
+  },
+  "slug": "citrusy-dense-slovakian-pork-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-dense-slovakian-pork-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T21:51:15Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "dense",
+    "mood": "hangover-cure",
+    "technique": "blanch",
+    "primaryIngredient": "shredded mexican cheese",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "pork",
+    "descriptor": "citrusy dense",
+    "dishForm": "Stew"
+  }
+}
