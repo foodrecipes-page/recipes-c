@@ -1,0 +1,117 @@
+{
+  "title": "Crispy Mediterranean Tofu Stir-fry",
+  "description": "A fresh, energizing dish that blends crispy tofu with Mediterranean veggies in a savory soy sauce glaze. Dairy‑free and packed with protein and flavor.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "extra-firm tofu",
+      "amount": "400g",
+      "notes": "pressed and cubed"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "1/4 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice & zest",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Press the tofu to remove excess moisture, then cut it into 1‑inch cubes and pat dry.",
+    "Whisk soy sauce with lemon juice & zest; set aside.",
+    "Heat olive oil in a large skillet over medium‑high heat. Add tofu and cook until golden on all sides, about 5‑6 minutes. Remove tofu and set aside.",
+    "In the same skillet, add minced garlic and sauté for 30 seconds until fragrant.",
+    "Add diced bell pepper and zucchini; cook for 3‑4 minutes until they start to soften.",
+    "Stir in cherry tomatoes, spinach, olives, oregano, and red pepper flakes; cook for 2‑3 minutes until the spinach wilts.",
+    "Return tofu to the skillet, pour the soy‑lemon mixture over everything, and toss to coat. Cook for an additional 1‑2 minutes until heated through.",
+    "Serve hot, optionally garnishing with fresh parsley and a squeeze of lemon."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "citrus",
+    "crunchy",
+    "dairy-free",
+    "tofu",
+    "mediterranean",
+    "quick",
+    "vegetarian",
+    "gluten-free",
+    "low-carb",
+    "high-protein"
+  ],
+  "nutrition": {
+    "calories": 293,
+    "protein": 19,
+    "carbs": 15,
+    "fat": 19
+  },
+  "slug": "crispy-mediterranean-tofu-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-mediterranean-tofu-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:36:26Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "dense",
+    "mood": "energizing",
+    "technique": "fry",
+    "primaryIngredient": "soy sauce",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "tofu",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
