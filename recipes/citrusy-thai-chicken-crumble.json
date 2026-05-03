@@ -1,0 +1,91 @@
+{
+  "title": "Citrusy Thai Chicken Crumble",
+  "description": "A high-protein, solo dinner dish featuring tender chicken breast crumbled with fresh citrus and Thai spices for a zesty, light meal. Perfect for a quick weeknight dinner.",
+  "cuisine": "thai",
+  "diet": [
+    "high-protein",
+    "vegetarian-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "150g",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "lime",
+      "amount": "1 medium",
+      "notes": "juice reserved"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4 cup",
+      "notes": "finely diced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": "for balance"
+    },
+    {
+      "name": "fresh lime leaves",
+      "amount": "1",
+      "notes": "optional, for extra citrus"
+    }
+  ],
+  "instructions": [
+    "Season chicken breast with salt and pepper; cook in a skillet over medium heat for 5-7 minutes until fully cooked.",
+    "In a separate bowl, mix lime juice, red onion, cilantro, fish sauce, and brown sugar until combined.",
+    "Add chicken to the lime mixture; gently fold until chicken is coated and crumbled.",
+    "Serve immediately with a sprinkle of fresh lime leaves if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 7,
+  "totalTimeMin": 12,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "highprotein",
+    "citrus",
+    "crumble",
+    "dinner",
+    "chicken",
+    "quickmeal"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 28,
+    "carbs": 7,
+    "fat": 7
+  },
+  "slug": "citrusy-thai-chicken-crumble",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-thai-chicken-crumble",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T02:55:50Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crumbly",
+    "mood": "solo-dinner",
+    "technique": "ferment",
+    "primaryIngredient": "chicken breast",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "Citrusy",
+    "dishForm": "Crumble"
+  }
+}
