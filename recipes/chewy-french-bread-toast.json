@@ -1,0 +1,80 @@
+{
+  "title": "Chewy French Bread Toast",
+  "description": "A quick, umami-rich, chewy toast perfect for sick days with low-carb appeal. Uses simple ingredients for a satisfying meal.",
+  "cuisine": "francophone",
+  "diet": [
+    "low-carb",
+    "umami-rich"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "white bread",
+      "amount": "2 slices",
+      "notes": "preferably sturdy, low-sugar varieties"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for richness without heaviness"
+    },
+    {
+      ": ": ", "
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 tsp",
+      "notes": "adds umami depth"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 tsp",
+      "notes": "enhances chew and flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F)",
+    "Place bread slices on a baking sheet",
+    "Drizzle olive oil over bread",
+    "Sprinkle garlic powder and dijon mustard",
+    "Bake for 8 minutes until golden and chewy",
+    "Let cool for 2 minutes before serving"
+  ],
+  "prepTimeMin": 3,
+  "cookTimeMin": 8,
+  "totalTimeMin": 11,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "chewy",
+    "umami",
+    "low-carb",
+    "sick-day",
+    "french-bread",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 15,
+    "fat": 12
+  },
+  "slug": "chewy-french-bread-toast",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-french-bread-toast",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T01:22:37Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "chewy",
+    "mood": "sick-day",
+    "technique": "rest",
+    "primaryIngredient": "white bread",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "bread",
+    "descriptor": "Chewy",
+    "dishForm": "Toast"
+  }
+}
