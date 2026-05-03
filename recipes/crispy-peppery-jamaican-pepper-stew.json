@@ -1,0 +1,105 @@
+{
+  "title": "Crispy Peppery Jamaican Pepper Stew",
+  "description": "A hearty one-pot dish featuring crispy toasts and spicy peppers for a keto-friendly, peppery kick in your meal.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 can (500ml) coconut milk",
+      "amount": "one can",
+      "notes": "freshly squeezed fresh lime juice for dressing"
+    },
+    {
+      "name": "3 tablespoons olive oil",
+      "amount": "three tablespoons",
+      "notes": "or any other healthy fat of your choice"
+    },
+    {
+      "name": "1 large onion, chopped",
+      "amount": "one large",
+      "notes": ""
+    },
+    {
+      "name": "4 garlic cloves, minced",
+      "amount": "four cloves",
+      "notes": ""
+    },
+    {
+      "name": "2 medium tomatoes, diced",
+      "amount": "two medium",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup (75g) crushed corn tortillas",
+      "amount": "half cup",
+      "notes": "or any other whole grain toast of your choice"
+    },
+    {
+      "name": "1/4 teaspoon smoked paprika",
+      "amount": "a quarter teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon cayenne pepper (adjust to taste)",
+      "amount": "half a teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "Freshly squeezed fresh lime juice, for serving",
+      "amount": "as needed",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Toast corn tortillas in a pan over medium heat until crispy and lightly golden. Set aside.",
+    "In a large pot or Dutch oven, heat olive oil over medium heat. Add onions and garlic; sauté for about 5 minutes until softened.",
+    "Add diced tomatoes and cook for an additional 2-3 minutes. Stir in paprika and cayenne pepper. Cook for another minute to meld the spices.",
+    "Gently fold in toasted tortillas, allowing them to absorb some of the tomato and spice mixture.",
+    "Pour coconut milk into the pot, then stir in salt. Bring the stew to a simmer.",
+    "Reduce heat to low and let it cook for about 15 minutes until flavors have melded together.",
+    "Serve warm with freshly squeezed lime juice on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppery",
+    "crispy",
+    "jamaican",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 236,
+    "protein": 5,
+    "carbs": 17,
+    "fat": 10
+  },
+  "slug": "crispy-peppery-jamaican-pepper-stew",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-peppery-jamaican-pepper-stew",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T09:43:49Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "toast",
+    "primaryIngredient": "chilli",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Pepper",
+    "descriptor": "Peppery",
+    "dishForm": "Stew"
+  }
+}
