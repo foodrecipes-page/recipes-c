@@ -1,0 +1,73 @@
+{
+  "title": "Fermented Crispy Norwegian Cod Pancake with Creme Fraiche and Honey",
+  "description": "This hangover-cure dish combines fermented elements with a crispy exterior, perfect for a light breakfast or snack.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fermented cod",
+      "amount": "100g"
+    },
+    {
+      "name": "Creme fraiche",
+      "amount": "50g"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan over medium heat.",
+    "Mix together fermented cod, creme fraiche, honey, baking powder, and salt until well combined.",
+    "Divide the mixture into several small portions and shape them into pancakes using your hands or a pancake mould.",
+    "Cook each pancake on one side for about 2 minutes, then flip to cook the other side. Remove from heat when golden brown.",
+    "Serve hot with additional honey drizzled over."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "norwegian-dish",
+    "hangover-cure",
+    "fermented-food",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 15,
+    "carbs": 29,
+    "fat": 14
+  },
+  "slug": "caramelize-crispy-norwegian-cod-pancake",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/caramelize-crispy-norwegian-cod-pancake",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T10:55:09Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crispy",
+    "mood": "hangover-cure",
+    "technique": "caramelize",
+    "primaryIngredient": "creme fraiche",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "cod",
+    "descriptor": "Crispy",
+    "dishForm": "Pancake"
+  }
+}
