@@ -1,0 +1,96 @@
+{
+  "title": "Creamy Irish Almonds Parfait",
+  "description": "A light, low-fat parfait rich with toasted flaked almonds and creamy yogurt, perfect for meal-prep.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "low-fat"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Low-fat Greek yogurt",
+      "amount": "1 cup",
+      "notes": "plain"
+    },
+    {
+      "name": "Unsweetened almond milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": "natural sweetener"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Flaked almonds",
+      "amount": "1/4 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "Chia seeds",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Fresh berries",
+      "amount": "1/2 cup",
+      "notes": "optional topping"
+    }
+  ],
+  "instructions": [
+    "In a bowl, whisk together the Greek yogurt, almond milk, honey, and vanilla extract until smooth.",
+    "Fold in the chia seeds and half of the cinnamon, ensuring even distribution.",
+    "In a tall glass, place a layer of the yogurt mixture.",
+    "Add a sprinkle of toasted flaked almonds over the first layer.",
+    "Add a second layer of yogurt mixture, then another sprinkle of almonds.",
+    "Top with fresh berries and the remaining cinnamon.",
+    "Cover and refrigerate for at least 30 minutes to allow flavors to meld.",
+    "Serve chilled, or keep in the fridge for up to 3 days as a meal-prep option."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "creamy",
+    "almond",
+    "low-fat",
+    "meal-prep",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 6
+  },
+  "slug": "creamy-irish-almonds-parfait",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-irish-almonds-parfait",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:13:29Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "creamy",
+    "mood": "meal-prep",
+    "technique": "fold",
+    "primaryIngredient": "flaked almonds",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "almonds",
+    "descriptor": "Creamy",
+    "dishForm": "Parfait"
+  }
+}
