@@ -1,0 +1,123 @@
+{
+  "title": "Crispy Peruvian Tofu Bowl",
+  "description": "A savory, crispy tofu bowl with quinoa, poached frozen berries, and Peruvian aji amarillo seasoning, perfect for a sick day and halal-friendly.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "400g",
+      "notes": "drained and cubed"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": "rinsed"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "frozen mixed berries",
+      "amount": "1 cup",
+      "notes": "raw, thawed"
+    },
+    {
+      "name": "aji amarillo paste",
+      "amount": "1 tbsp",
+      "notes": "or 1 tsp yellow chili powder"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Press the tofu to remove excess moisture by wrapping in paper towels and placing a heavy object on top for 10 minutes.",
+    "In a bowl, combine the tofu cubes with soy sauce, aji amarillo paste, ground cumin, garlic powder, salt, and pepper; let marinate for 5 minutes.",
+    "Dredge the marinated tofu in cornstarch until lightly coated.",
+    "Heat 1 tbsp of olive oil in a skillet over medium‑high heat and fry the tofu until golden and crispy, about 4‑5 minutes per side. Transfer to paper towels to drain.",
+    "Add the remaining 1 tbsp of oil to the skillet, then rinse quinoa and add it with the vegetable broth; bring to a boil, reduce heat, cover, and simmer for 15 minutes until the liquid is absorbed.",
+    "Warm the frozen berries in a small saucepan over low heat until just thawed, about 2‑3 minutes; do not cook further so they retain their texture.",
+    "To assemble, spoon the cooked quinoa into each bowl, top with the crispy tofu, then add a generous amount of warmed berries.",
+    "Drizzle lime juice over the bowl, sprinkle chopped cilantro, and season with additional salt if desired.",
+    "Serve immediately, optionally with extra lime wedges on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "tofu",
+    "bowl",
+    "vegetarian",
+    "halal",
+    "berry",
+    "crispy",
+    "poached",
+    "quinoa"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 13,
+    "carbs": 13,
+    "fat": 9
+  },
+  "slug": "crispy-peruvian-tofu-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-peruvian-tofu-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:31:33Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crispy",
+    "mood": "sick-day",
+    "technique": "poach",
+    "primaryIngredient": "frozen mixed berries",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Tofu",
+    "descriptor": "Crispy",
+    "dishForm": "Bowl"
+  }
+}
