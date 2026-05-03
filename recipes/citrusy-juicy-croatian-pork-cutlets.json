@@ -1,0 +1,112 @@
+{
+  "title": "Croatian Citrusy Juicy Pork Cutlets",
+  "description": "A tender and juicy Croatian-inspired dish featuring pork cutlets, citrus, and caramelized onions. Perfect for a solo dinner.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork Cutlets (4)",
+      "amount": "",
+      "notes": "Thinly sliced pork shoulder or loin"
+    },
+    {
+      "name": "Breadcrumbs (1 cup)",
+      "amount": "",
+      "notes": "Gluten-free breadcrumbs"
+    },
+    {
+      "name": "Olive Oil (2 tbsp)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Onion (1 large)",
+      "amount": "",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Garlic (2 cloves)",
+      "amount": "",
+      "notes": "Minced"
+    },
+    {
+      "name": "Lemon Juice (2 tbsp)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Orange Juice (2 tbsp)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt (to taste)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper (to taste)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Herbs (to taste)",
+      "amount": "",
+      "notes": "Fresh parsley or dill"
+    }
+  ],
+  "instructions": [
+    "Season the pork cutlets with salt, black pepper, and herbs.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Sear the pork cutlets for 2-3 minutes on each side, or until browned.",
+    "Transfer the pork cutlets to a plate and set aside.",
+    "Reduce heat to medium and add the sliced onions to the skillet.",
+    "Cook the onions for 5-7 minutes, or until caramelized and golden brown.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Stir in lemon juice and orange juice, cooking for an additional 2 minutes.",
+    "Return the pork cutlets to the skillet and spoon some of the caramelized onion mixture over the top.",
+    "Simmer the pork cutlets for 5-7 minutes, or until cooked through.",
+    "Serve hot and garnish with fresh herbs."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "croatian",
+    "pork",
+    "citrus",
+    "juicy",
+    "cutlets"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": "35g",
+    "carbs": "10g",
+    "fat": "20g"
+  },
+  "slug": "citrusy-juicy-croatian-pork-cutlets",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-juicy-croatian-pork-cutlets",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:35:58Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "juicy",
+    "mood": "solo-dinner",
+    "technique": "caramelize",
+    "primaryIngredient": "breadcrumbs",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Pork",
+    "descriptor": "Citrusy Juicy",
+    "dishForm": "Cutlets"
+  }
+}
