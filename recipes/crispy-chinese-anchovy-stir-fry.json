@@ -1,0 +1,112 @@
+{
+  "title": "Crispy Chinese Anchovy Stir-fry",
+  "description": "A quick, umami-packed stir-fry featuring crisp anchovy fillets, fragrant aromatics, and a savory sauce, served over warm rice.",
+  "cuisine": "Chinese",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dried anchovy fillets",
+      "amount": "50g",
+      "notes": "kosher-certified"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "kosher"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 teaspoon",
+      "notes": "minced"
+    },
+    {
+      "name": "red chili",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "kosher"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "green parts, sliced"
+    },
+    {
+      "name": "Sichuan peppercorn",
+      "amount": "1 pinch",
+      "notes": "optional"
+    },
+    {
+      "name": "cooked white rice",
+      "amount": "1 cup",
+      "notes": "200g"
+    }
+  ],
+  "instructions": [
+    "Rinse the dried anchovy fillets under cold water, then pat dry with paper towels.",
+    "Warm a wok or large skillet over medium-high heat; add sesame oil and swirl to coat.",
+    "Add minced garlic, ginger, and sliced chili to the hot oil; stir-fry for 30 seconds until fragrant.",
+    "Add the anchovy fillets to the pan, breaking them up with a wooden spoon, and stir-fry for 2-3 minutes until they start to crisp and brown.",
+    "Pour in soy sauce and rice vinegar, then sprinkle sugar; toss to coat the anchovies evenly.",
+    "Stir in scallions and optional Sichuan peppercorn; cook for another minute, letting flavors meld.",
+    "Remove the pan from heat; let the anchovy mixture rest for 1 minute.",
+    "Serve the crispy anchovy stir-fry over a bowl of cooked white rice."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "kosher",
+    "seafood",
+    "quick",
+    "stir-fry",
+    "anchovy"
+  ],
+  "nutrition": {
+    "calories": 730,
+    "protein": 37,
+    "carbs": 48,
+    "fat": 20
+  },
+  "slug": "crispy-chinese-anchovy-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-chinese-anchovy-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:18:12Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crisp",
+    "mood": "cozy",
+    "technique": "saute",
+    "primaryIngredient": "anchovy fillet",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "anchovy",
+    "descriptor": "Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
