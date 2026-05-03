@@ -1,0 +1,106 @@
+{
+  "title": "Citrusy Chewy Chinese Turkish Delight Dumplings",
+  "description": "A light, chewy dumpling dessert that blends Chinese dumpling technique with sweet Turkish delight and zesty citrus flavors.",
+  "cuisine": "Chinese, Turkish",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "wheat flour",
+      "amount": "200 g"
+    },
+    {
+      "name": "water",
+      "amount": "120 ml"
+    },
+    {
+      "name": "salt",
+      "amount": "1 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Turkish delight",
+      "amount": "200 g",
+      "notes": "shredded"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "orange juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "30 g"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "10 g"
+    }
+  ],
+  "instructions": [
+    "In a bowl, combine wheat flour, salt and olive oil. Gradually add water and knead until a smooth dough forms.",
+    "Cover the dough with a damp cloth and let it rest for 30 minutes.",
+    "In a separate bowl, mix shredded Turkish delight, orange zest, orange juice, lemon zest, lemon juice, sugar and cornstarch until well combined.",
+    "Divide the rested dough into 16 small portions and roll each into a 4-inch circle.",
+    "Place 1 tablespoon of the filling in the center of each wrapper.",
+    "Fold the dough over the filling to create a half-moon shape and pinch the edges to seal tightly.",
+    "Arrange the dumplings on a parchment-lined steamer tray, leaving space between them.",
+    "Steam the dumplings over high heat for 8-10 minutes until the wrappers are translucent and the filling is warm.",
+    "Serve hot, optionally drizzled with a thin sauce made from orange marmalade and a splash of lime juice.",
+    "Store leftovers in the fridge for up to 2 days; reheat in the steamer for 2 minutes before serving."
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 10,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "dumplings",
+    "sweet",
+    "citrus",
+    "turkish-delight",
+    "chinese",
+    "mediterranean-friendly",
+    "chewy",
+    "light"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 2,
+    "carbs": 38,
+    "fat": 2
+  },
+  "slug": "citrusy-chewy-chinese-turkish-delight-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-chewy-chinese-turkish-delight-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:48:24Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "chewy",
+    "mood": "light",
+    "technique": "temper",
+    "primaryIngredient": "turkish delight",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Turkish Delight",
+    "descriptor": "Citrusy Chewy",
+    "dishForm": "Dumplings"
+  }
+}
