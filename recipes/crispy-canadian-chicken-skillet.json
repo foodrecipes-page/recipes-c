@@ -1,0 +1,105 @@
+{
+  "title": "Crispy Canadian Chicken Skillet",
+  "description": "A comforting, nut‑free skillet dish featuring seared chicken thighs, a grape‑juice glaze, and a crisp coating for a quick sick‑day dinner.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bone‑in, skin‑on chicken thighs",
+      "amount": "4 (about 1.5 lb)",
+      "notes": "cut into 2‑inch pieces"
+    },
+    {
+      "name": "all‑purpose flour",
+      "amount": "½ cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "yellow onion, sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "grape juice",
+      "amount": "¾ cup"
+    },
+    {
+      "name": "low‑sodium chicken broth",
+      "amount": "½ cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fresh thyme leaves",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Pat the chicken pieces dry and season with salt and pepper.",
+    "Lightly dust the chicken in flour, shaking off excess.",
+    "Heat olive oil in a large skillet over medium‑high heat; add chicken and brown on all sides, about 6 minutes. Transfer chicken to a plate.",
+    "Reduce heat to medium, add butter to the skillet, then sauté onions until translucent, about 4 minutes.",
+    "Add garlic and thyme, cook 30 seconds until fragrant.",
+    "Stir in tomato paste, then pour in grape juice and chicken broth, scraping up browned bits.",
+    "Return chicken to the skillet, reduce heat to medium‑low, cover, and simmer until chicken is cooked through (internal temp 165°F), about 8‑10 minutes.",
+    "Increase heat to high, let the sauce reduce and thicken slightly, about 2 minutes, stirring occasionally.",
+    "Taste and adjust seasoning with salt and pepper, then serve hot, optionally garnished with chopped fresh herbs."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quick-meal",
+    "comfort-food",
+    "deglaze",
+    "grape-juice",
+    "nut-free"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "crispy-canadian-chicken-skillet",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-canadian-chicken-skillet",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:53:20Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crunchy",
+    "mood": "sick-day",
+    "technique": "deglaze",
+    "primaryIngredient": "grape juice",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Crispy",
+    "dishForm": "Skillet"
+  }
+}
