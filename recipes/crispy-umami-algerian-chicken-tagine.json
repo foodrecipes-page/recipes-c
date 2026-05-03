@@ -1,0 +1,99 @@
+{
+  "title": "Crispy Umami Algerian Chicken Tagine",
+  "description": "A savory, crispy chicken tagine bursting with umami from a fragrant spice blend, perfect for a quick low‑calorie weeknight dinner.",
+  "cuisine": "Algerian",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken thighs, boneless, skinless",
+      "amount": "800g",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion, medium",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "Cherry tomatoes, halved",
+      "amount": "200g"
+    },
+    {
+      "name": "Low‑sodium chicken broth",
+      "amount": "200ml"
+    },
+    {
+      "name": "Lemon, juiced",
+      "amount": "1 (about 2 tbsp)"
+    },
+    {
+      "name": "Mixed spice powder (cumin 1 tsp, coriander 1 tsp, paprika 1 tsp, smoked paprika 1/2 tsp, garlic powder 1/2 tsp, onion powder 1/2 tsp, cayenne 1/4 tsp, salt 1/2 tsp)",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Pat chicken dry and sprinkle with a pinch of salt.",
+    "Heat 1 tbsp olive oil in a Dutch oven over medium‑high. Sear chicken pieces until golden brown on all sides, about 3–4 minutes per batch; set aside.",
+    "Add remaining 1 tbsp olive oil to the pot, sauté sliced onion until translucent, about 3 minutes.",
+    "Add minced garlic and cook for 30 seconds until fragrant.",
+    "Stir in the mixed spice powder and toast for 1 minute to release aromas.",
+    "Add cherry tomato halves, cook until they soften, about 2 minutes.",
+    "Return chicken to the pot, pour in chicken broth and lemon juice, and bring to a simmer.",
+    "Reduce heat to low, cover, and cook for 20 minutes until chicken is tender and sauce thickens slightly.",
+    "Remove the lid, increase heat to medium, and let the sauce reduce until it coats the chicken lightly, about 5 minutes.",
+    "Stir in chopped parsley, adjust seasoning with salt or pepper if needed, and serve hot over couscous or cauliflower rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tagine",
+    "crispy",
+    "umami",
+    "low-calorie",
+    "gluten-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 6
+  },
+  "slug": "crispy-umami-algerian-chicken-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-umami-algerian-chicken-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:16:03Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crispy",
+    "mood": "weeknight",
+    "technique": "blanch",
+    "primaryIngredient": "mixture powder",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "chicken",
+    "descriptor": "Crispy Umami",
+    "dishForm": "Tagine"
+  }
+}
