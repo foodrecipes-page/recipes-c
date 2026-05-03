@@ -1,0 +1,121 @@
+{
+  "title": "Caramelized Jamaican Rice Curry",
+  "description": "A herbal, chewy lazy‑Sunday Jamaican dish featuring lemongrass and caramelized rice, perfect for a low‑calorie friendly meal.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian",
+    "low-calorie"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Long‑grain white rice",
+      "amount": "1 cup",
+      "notes": "Rinse under cold water until clear."
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "For cooking rice."
+    },
+    {
+      "name": "Lemongrass stalks",
+      "amount": "2 stalks, bruise and cut into 2‑inch pieces",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced",
+      "notes": ""
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3, minced",
+      "notes": ""
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1‑inch piece, grated",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "2, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tbsp",
+      "notes": "For caramelizing the rice."
+    },
+    {
+      "name": "Low‑fat coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 tsp, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the rice under cold water until clear. Drain.",
+    "In a medium saucepan, combine rinsed rice, water, lemongrass, and a pinch of salt. Bring to a boil, reduce heat to low, cover, and simmer for 15 minutes or until water is absorbed. Remove from heat, fluff, and set aside.",
+    "While the rice cooks, heat a large skillet over medium heat. Add a splash of water or oil, then sauté diced onion, minced garlic, grated ginger, and sliced scallions until the onions soften and begin to caramelize, about 5–6 minutes.",
+    "Stir in the brown sugar and cook for another 2 minutes, letting it melt and coat the vegetables for a light caramel.",
+    "Add the cooked rice to the skillet, breaking up any clumps. Stir to combine, ensuring the rice is coated with the caramelized mixture.",
+    "Pour in the coconut milk, lime juice, and chopped thyme. Stir, bring to a gentle simmer, and let the flavors meld for 5 minutes. Taste and adjust seasoning with salt and pepper.",
+    "Remove from heat, cover, and let the curry sit for 5 minutes to allow the rice to absorb the liquid and become chewy.",
+    "Fluff the rice again, serve hot, and optionally garnish with a sprinkle of fresh scallion or cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "caramelized",
+    "jamaican",
+    "rice",
+    "curry",
+    "low-calorie",
+    "chewy",
+    "herbal",
+    "lazy-sunday"
+  ],
+  "nutrition": {
+    "calories": 108,
+    "protein": 2,
+    "carbs": 23,
+    "fat": 1
+  },
+  "slug": "caramelized-jamaican-rice-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/caramelized-jamaican-rice-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:08:31Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "chewy",
+    "mood": "lazy-sunday",
+    "technique": "caramelize",
+    "primaryIngredient": "lemongrass",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "rice",
+    "descriptor": "Caramelized",
+    "dishForm": "Curry"
+  }
+}
