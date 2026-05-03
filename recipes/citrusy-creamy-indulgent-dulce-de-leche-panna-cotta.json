@@ -1,0 +1,86 @@
+{
+  "title": "Citrusy Creamy Indulgent Dulce De Leche Panna Cotta",
+  "description": "A delightful and indulgent dessert that blends the sweetness of dulce de leche with the tanginess of citrus, creating a creamy and rich dish perfect for special occasions.",
+  "cuisine": "Slovakian-Inspired",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Heavy Cream",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Whole Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Dulce de Leche",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Orange Juice Concentrate (OJ)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Saffron Threads",
+      "notes": "A pinch for added depth of flavor"
+    },
+    {
+      "name": "Gelatin",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Sugar-Free Sweetener (e.g., Stevia)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Gently heat the heavy cream and whole milk in a saucepan until just below simmering point. Remove from heat.",
+    "In another small bowl, combine the dulce de leche, orange juice concentrate, saffron threads, gelatin (dissolved in cold water), sugar-free sweetener, and vanilla extract. Stir well to dissolve the gelatin.",
+    "Pour the dulce de leche mixture into the hot milk mixture slowly while stirring continuously until fully incorporated and smooth.",
+    "Remove from heat and let it sit for 30 minutes before transferring the mixture to individual serving dishes or ramekins. Cover with plastic wrap pressed directly onto the surface of the pudding to prevent a skin from forming.",
+    "Chill in refrigerator for at least 4 hours or until set, then serve cold."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 60,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "creamy",
+    "indulgent",
+    "slovakian",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 2,
+    "carbs": 34,
+    "fat": 5
+  },
+  "slug": "citrusy-creamy-indulgent-dulce-de-leche-panna-cotta",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-creamy-indulgent-dulce-de-leche-panna-cotta",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T09:39:04Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "creamy",
+    "mood": "indulgent",
+    "technique": "bhuna",
+    "primaryIngredient": "dulce de leche",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "dulce de leche",
+    "descriptor": "citrusy creamy indulgent",
+    "dishForm": "Panna Cotta"
+  }
+}
