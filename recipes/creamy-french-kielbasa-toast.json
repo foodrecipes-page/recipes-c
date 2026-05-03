@@ -1,0 +1,86 @@
+{
+  "title": "Creamy French Kielbasa Toast",
+  "description": "A healthy and flavorful post-workout dish featuring kielbasa, toast, and a creamy sauce for a Jain-friendly meal.",
+  "cuisine": "French",
+  "diet": [
+    "vegan",
+    "jain-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Kielbasa sausage",
+      "amount": "100g"
+    },
+    {
+      "name": "Whole grain bread slices",
+      "amount": "8 slices",
+      "notes": "Choose vegan or gluten-free options if necessary."
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "50ml"
+    },
+    {
+      "name": "Cream cheese",
+      "amount": "100g"
+    },
+    {
+      "name": "Almond milk",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Slice the kielbasa into bite-sized pieces.",
+    "Toast the bread slices in a toaster or pan until golden brown. Brush them lightly with olive oil for extra flavor.",
+    "In a small saucepan, heat vegetable broth and add cream cheese and almond milk. Stir until smooth and simmer for 2 minutes.",
+    "Add Dijon mustard and red pepper flakes to the sauce mixture and stir well.",
+    "Spread the creamy sauce on top of each slice of toast.",
+    "Place the kielbasa pieces on top of the sauce on the toasted bread slices. Bake in preheated oven for about 10 minutes or until the kielbasa is heated through and slightly crispy.",
+    "Remove from oven, garnish with fresh herbs if desired, and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kielbasa",
+    "toast",
+    "cream_cheese",
+    "jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 583,
+    "protein": 27,
+    "carbs": 61,
+    "fat": 30
+  },
+  "slug": "creamy-french-kielbasa-toast",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-french-kielbasa-toast",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T17:04:11Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "creamy",
+    "mood": "post-workout",
+    "technique": "toast",
+    "primaryIngredient": "kielbasa",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Kielbasa",
+    "descriptor": "Creamy",
+    "dishForm": "Toast"
+  }
+}
