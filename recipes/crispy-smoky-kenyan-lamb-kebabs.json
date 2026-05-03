@@ -1,0 +1,125 @@
+{
+  "title": "Crispy Smoky Kenyan Lamb Kebabs",
+  "description": "Savory, chewy lamb kebabs marinated in a smoky tandoori yogurt sauce, coated with toasted graham cracker crumbs for a crunchy finish.",
+  "cuisine": "kenyan",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder (boneless)",
+      "amount": "1.5 kg",
+      "notes": "cut into 2 cm cubes"
+    },
+    {
+      "name": "graham cracker crumbs",
+      "amount": "1 cup",
+      "notes": "lightly toasted"
+    },
+    {
+      "name": "plain Greek yogurt",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "½ teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "12",
+      "notes": "soaked in water 30 min"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together yogurt, minced garlic, grated ginger, smoked paprika, cumin, coriander, olive oil, lemon juice, salt, and pepper to form the marinara.",
+    "Add the cubed lamb to the bowl, ensuring each piece is coated; cover and refrigerate for at least 4 hours, preferably overnight for deeper flavor.",
+    "Preheat a grill or tandoor to medium-high heat. While heating, toss the toasted graham cracker crumbs with a pinch of salt.",
+    "Thread the marinated lamb cubes onto the soaked skewers, leaving a small gap between each piece.",
+    "Coat each skewer lightly with graham cracker crumbs, pressing gently so crumbs adhere.",
+    "Place the kebabs on the grill, turning every 3-4 minutes; cook for 10-12 minutes until the lamb is browned and juices run clear, maintaining an internal temperature of 63°C (145°F).",
+    "Remove from heat and let rest for 5 minutes to allow juices to redistribute.",
+    "Serve the kebabs hot, garnished with fresh cilantro, sliced red onions, and a wedge of lemon.",
+    "Pair with a side of steamed rice or a light salad for a complete Kenyan-inspired meal.",
+    "Clean the grill and store leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "kebab",
+    "halal",
+    "smoky-flavour",
+    "grill",
+    "lamb",
+    "kenyan-dish"
+  ],
+  "nutrition": {
+    "calories": 820,
+    "protein": 51,
+    "carbs": 12,
+    "fat": 31
+  },
+  "slug": "crispy-smoky-kenyan-lamb-kebabs",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-smoky-kenyan-lamb-kebabs",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:32:34Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "chewy",
+    "mood": "monsoon",
+    "technique": "tandoor",
+    "primaryIngredient": "graham cracker crumbs",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "lamb",
+    "descriptor": "Crispy Smoky",
+    "dishForm": "Kebabs"
+  }
+}
