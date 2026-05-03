@@ -1,0 +1,106 @@
+{
+  "title": "Crispy Peruvian Vine Leaves Wrap",
+  "description": "A crunchy, hangover‑cure Peruvian wrap featuring vine leaves, quinoa, chickpeas, and a spiced chickpea flour coating, finished in an air fryer for a crisp finish.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "jain-friendly",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "vine leaves",
+      "amount": "50 g"
+    },
+    {
+      "name": "cooked quinoa",
+      "amount": "45 g"
+    },
+    {
+      "name": "cooked chickpeas",
+      "amount": "45 g"
+    },
+    {
+      "name": "chickpea flour",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "roasted almonds, crushed",
+      "amount": "10 g"
+    }
+  ],
+  "instructions": [
+    "Lay a vine leaf flat on a clean surface and brush lightly with olive oil.",
+    "In a bowl, mix quinoa, chickpeas, ground cumin, coriander, paprika, salt, lemon juice, and crushed almonds.",
+    "Spoon a generous amount of the filling onto the center of the leaf, then fold the sides over and roll tightly, securing with a toothpick if needed.",
+    "Heat the air fryer to 200°C (400°F). Place the wraps in the basket in a single layer, ensuring they are not touching.",
+    "Lightly spray or brush the tops with a small amount of olive oil to aid crisping.",
+    "Air‑fry for 10–12 minutes, turning halfway through, until the vine leaves are crisp and the coating is golden.",
+    "Remove from the air fryer, let cool for 2 minutes, then slice each wrap into bite‑sized pieces.",
+    "Serve immediately, optionally with a side of fresh cilantro‑lime salsa for extra refreshment."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 3,
+  "difficulty": "medium",
+  "tags": [
+    "lunch",
+    "snack",
+    "jain-friendly",
+    "vegan",
+    "peruvian",
+    "wrap",
+    "crispy",
+    "hangover-cure",
+    "air-fry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "crispy-peruvian-vine-leaves-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-peruvian-vine-leaves-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:27:43Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crunchy",
+    "mood": "hangover-cure",
+    "technique": "air-fry",
+    "primaryIngredient": "vine leaves",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "vine leaves",
+    "descriptor": "Crispy",
+    "dishForm": "Wrap"
+  }
+}
