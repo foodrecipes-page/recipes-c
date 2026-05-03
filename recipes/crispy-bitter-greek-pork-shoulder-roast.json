@@ -1,0 +1,102 @@
+{
+  "title": "Crispy Bitter Greek Pork Shoulder Roast",
+  "description": "A lazy‑Sunday Greek-inspired pork shoulder roast with a crisp, bitter citrus crust, baked to perfection and diabetic‑friendly.",
+  "cuisine": "Greek",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder (bone‑in, trimmed of excess fat)",
+      "amount": "1.5 kg",
+      "notes": "about 6‑7 inches long"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tbsp",
+      "notes": "for searing and coating"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "2 tbsp",
+      "notes": "from 1 medium lemon"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Dried rosemary",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Coarse sea salt",
+      "amount": "1.5 tsp"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "Bitter greens (e.g., sorrel or arugula)",
+      "amount": "1 cup",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 250 °C (482 °F) and set the broiler to high.",
+    "Pat the pork shoulder dry with paper towels; this helps the crust form.",
+    "In a small bowl, whisk together olive oil, lemon juice, oregano, rosemary, garlic powder, salt, and pepper.",
+    "Rub the mixture all over the pork, pressing it into the surface.",
+    "Place the pork on a wire rack over a rimmed baking sheet and roast for 45 minutes, turning once, until the internal temperature reaches 56 °C (133 °F).",
+    "Remove from the oven, cover loosely with foil, and let rest for 10 minutes.",
+    "Increase the oven temperature to 260 °C (500 °F) and switch the oven to broil mode.",
+    "Return the pork to the oven and broil for 3–5 minutes, watching closely, until the exterior is a deep golden brown and crisp.",
+    "Turn off the heat, slice the pork against the grain, and serve immediately with a handful of bitter greens drizzled with a splash of olive oil and a squeeze of fresh lemon.",
+    "Optionally, add a small sprinkle of grated Parmesan cheese for extra flavor (omit for strict lactose‑free)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "pork",
+    "roast",
+    "broil",
+    "lunch",
+    "dinner",
+    "lazy-sunday",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 605,
+    "protein": 62,
+    "carbs": 0,
+    "fat": 36
+  },
+  "slug": "crispy-bitter-greek-pork-shoulder-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-bitter-greek-pork-shoulder-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:59:20Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crisp",
+    "mood": "lazy-sunday",
+    "technique": "broil",
+    "primaryIngredient": "pork shoulder",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "pork shoulder",
+    "descriptor": "Crispy Bitter",
+    "dishForm": "Roast"
+  }
+}
