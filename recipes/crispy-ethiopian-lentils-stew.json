@@ -1,0 +1,115 @@
+{
+  "title": "Crispy Ethiopian Lentils Stew",
+  "description": "A hearty, one‑pot lentil stew with a tangy tamarind ball and a crisp top from broiling, perfect for a quick, Jain‑friendly lunch.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dried brown lentils",
+      "amount": "1 cup (200g)",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice blend",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tamarind ball",
+      "amount": "1 medium (≈30g)",
+      "notes": "pre‑soaked in 1 cup warm water for 20 min, drained"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add diced onion and sauté until translucent, about 4 minutes.",
+    "Stir in minced garlic, grated ginger, and berbere, cumin, and coriander; cook for 1 minute until fragrant.",
+    "Add rinsed lentils and stir to coat with spices.",
+    "Pour in 4 cups of water, bring to a boil, then reduce heat to low, cover, and simmer until lentils are tender, about 25 minutes.",
+    "While the lentils cook, mash the pre‑soaked tamarind ball with a fork until it forms a smooth paste.",
+    "Stir the tamarind paste into the pot, then add lemon juice and salt; adjust seasoning if needed.",
+    "Transfer the stew to a shallow baking dish, spread it evenly, and broil on high for 3–5 minutes until a crisp, golden crust forms.",
+    "Remove from the oven, let rest for a minute, then serve hot, optionally garnished with fresh herbs.",
+    "Enjoy your crispy, tangy Ethiopian lentil stew!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "lentils",
+    "one-pot",
+    "crispy",
+    "jain-friendly",
+    "tam-ard",
+    "stew",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 50,
+    "fat": 7
+  },
+  "slug": "crispy-ethiopian-lentils-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-ethiopian-lentils-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:55:01Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crisp",
+    "mood": "one-pot",
+    "technique": "broil",
+    "primaryIngredient": "tamarind ball",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lentils",
+    "descriptor": "Crispy",
+    "dishForm": "Stew"
+  }
+}
