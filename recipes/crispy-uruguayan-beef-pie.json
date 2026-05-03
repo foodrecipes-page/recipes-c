@@ -1,0 +1,107 @@
+{
+  "title": "Crispy Uruguayan Beef Pie",
+  "description": "A savory, crumbly Uruguayan beef pie with a crispy shortcrust, enriched with halal gelatin leaves and finished under a broiler for a golden top.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "halal beef mince",
+      "amount": "500 g"
+    },
+    {
+      "name": "onion, finely chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "carrots, diced",
+      "amount": "2 medium"
+    },
+    {
+      "name": "celery stalks, diced",
+      "amount": "2"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "beef broth",
+      "amount": "100 ml"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "halal shortcrust pastry sheet",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "gelatin leafs (halal)",
+      "amount": "2 leaves, soaked 10 min"
+    },
+    {
+      "name": "egg, beaten for wash",
+      "amount": "1"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200 °C (392 °F). Soak the gelatin leafs in cold water for 10 minutes, then squeeze out excess water.",
+    "In a large skillet over medium heat, sauté the onion, carrots, celery, and garlic in a splash of olive oil until softened, about 5–7 minutes.",
+    "Add the halal beef mince and cook until browned, breaking up the meat with a spoon, about 8–10 minutes. Season with salt, pepper, thyme, and oregano.",
+    "Pour in the beef broth, bring to a gentle simmer, and cook until reduced by half, about 10 minutes. Remove from heat.",
+    "Whisk the soaked gelatin leafs into the hot meat mixture until fully dissolved. Let the mixture cool slightly.",
+    "Roll out the shortcrust pastry and line a 9‑inch pie dish. Spoon the meat filling into the crust and smooth the top.",
+    "Brush the crust edges with beaten egg, cover with another pastry sheet, seal the edges, and cut a few slits for venting.",
+    "Place the pie in the oven and broil for 5–6 minutes until the crust is golden brown.",
+    "Remove from the oven, let it rest for 5 minutes, then slice and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "beef-pie",
+    "halal-friendly",
+    "crispy",
+    "cozy",
+    "gelatin"
+  ],
+  "nutrition": {
+    "calories": 2100,
+    "protein": 126,
+    "carbs": 89,
+    "fat": 104
+  },
+  "slug": "crispy-uruguayan-beef-pie",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-uruguayan-beef-pie",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:37:34Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crumbly",
+    "mood": "cozy",
+    "technique": "broil",
+    "primaryIngredient": "gelatine leafs",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "Crispy",
+    "dishForm": "Pie"
+  }
+}
