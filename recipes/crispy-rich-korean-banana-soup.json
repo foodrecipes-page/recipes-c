@@ -1,0 +1,113 @@
+{
+  "title": "Crispy Rich Korean Banana Soup",
+  "description": "A comforting, dairy‑free soup that blends sweet bananas, savory Korean seasonings, and crispy banana chips for a satisfying crunch.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "light, dairy‑free"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "gochugaru (Korean red pepper flakes)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "kimchi",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "banana",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "banana chips",
+      "amount": "1 cup",
+      "notes": "fried in oil until crisp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tsp",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "In a medium pot, bring the water to a gentle boil.",
+    "Add the coconut milk, brown sugar, soy sauce, and gochugaru; stir until the sugar dissolves.",
+    "Add the chopped kimchi and sliced bananas; reduce heat to low and simmer for 5 minutes until the bananas soften.",
+    "Stir in the toasted sesame seeds and minced ginger, cooking for another 2 minutes.",
+    "Transfer the soup to bowls and drizzle with sesame oil.",
+    "Top each serving with crispy banana chips and sliced scallions.",
+    "Serve hot, enjoying the contrast of sweet, savory, and crunchy textures."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "dairy-free",
+    "vegan",
+    "soup",
+    "comfort-food",
+    "banana",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 8,
+    "carbs": 25,
+    "fat": 9
+  },
+  "slug": "crispy-rich-korean-banana-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-rich-korean-banana-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T16:52:15Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crunchy",
+    "mood": "sick-day",
+    "technique": "simmer",
+    "primaryIngredient": "banana",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Banana",
+    "descriptor": "Crispy Rich",
+    "dishForm": "Soup"
+  }
+}

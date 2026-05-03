@@ -1,0 +1,82 @@
+{
+  "title": "Nutty and Creamy Caramelized Corn Flatbread",
+  "description": "A kid-friendly Mexican dish featuring nut-free corn tortillas caramelized into a creamy and delicious flatbread that is both nutritious and easy to make.",
+  "cuisine": "Mexican (Yucatecan)",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup corn tortilla chips",
+      "amount": "",
+      "notes": "Coated in nutritional yeast for a nutty flavor"
+    },
+    {
+      "name": "2 tablespoons melted unsalted butter",
+      "amount": "",
+      "notes": "For caramelizing the tortillas"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "",
+      "notes": "To add acidity and prevent browning too quickly"
+    },
+    {
+      "name": "1/4 cup shredded cheddar cheese",
+      "amount": "",
+      "notes": "Optional for extra creaminess"
+    },
+    {
+      "name": "1/2 teaspoon garlic powder",
+      "amount": "",
+      "notes": "For a subtle savory flavor"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (205°C).",
+    "Lay out corn tortilla chips on a baking sheet.",
+    "Drizzle melted butter over the tortillas, evenly distributing it.",
+    "Sprinkle lime juice on top of the butter for faster caramelization and color retention.",
+    "Sprinkle garlic powder and salt over the tortillas. If using cheddar cheese, layer it on top as well for extra creaminess.",
+    "Bake in the preheated oven for about 8-10 minutes or until golden brown and crispy.",
+    "Remove from oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "caramelized corn flatbread",
+    "nut-free-friendly",
+    "kid-friendly mexican"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 7,
+    "carbs": 39,
+    "fat": 15
+  },
+  "slug": "caramelized-corn-flatbread",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/caramelized-corn-flatbread",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T16:51:58Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "creamy",
+    "mood": "kid-friendly",
+    "technique": "caramelize",
+    "primaryIngredient": "corn tortillas",
+    "diet": "nut-free",
+    "region": "yucatecan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "corn",
+    "descriptor": "Caramelized",
+    "dishForm": "Flatbread"
+  }
+}
