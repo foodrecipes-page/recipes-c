@@ -1,0 +1,103 @@
+{
+  "title": "Citrusy Crisp Filipino Anchovy Salad",
+  "description": "A refreshing monsoon salad that balances tangy calamansi and lemon with salty anchovy fillets, crisp cucumber, and a drizzle of olive oil for a diabetic-friendly bite.",
+  "cuisine": "Filipino",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Anchovy fillets (dried)",
+      "amount": "6 fillets",
+      "notes": "reconstitute in warm water 10 min, drain"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 small, julienned"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 small, thinly sliced"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "10, halved"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "2 tbsp, chopped"
+    },
+    {
+      "name": "Low-sodium soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Calamansi juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Fresh chili",
+      "amount": "1 thin, optional"
+    }
+  ],
+  "instructions": [
+    "Place the dried anchovy fillets in a bowl of warm water; let soak for 10 minutes, then drain and pat dry.",
+    "In a large mixing bowl, combine julienned cucumber, sliced red onion, halved cherry tomatoes, and chopped cilantro.",
+    "Add the soaked anchovy fillets to the vegetables and toss gently.",
+    "Whisk together low-sodium soy sauce, olive oil, calamansi juice, lemon juice, and black pepper to make a dressing.",
+    "Pour the dressing over the salad and toss until everything is evenly coated.",
+    "Let the salad sit for 5 minutes to allow flavors to meld before serving.",
+    "If desired, sprinkle thinly sliced fresh chili on top for a hint of heat."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrus",
+    "filipino",
+    "anchovy",
+    "salad",
+    "diabetic-friendly",
+    "monsoon",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 83,
+    "protein": 4,
+    "carbs": 6,
+    "fat": 5
+  },
+  "slug": "citrusy-crisp-filipino-anchovy-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-crisp-filipino-anchovy-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:27:49Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crisp",
+    "mood": "monsoon",
+    "technique": "knead",
+    "primaryIngredient": "anchovy fillet",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Anchovy",
+    "descriptor": "Citrusy Crisp",
+    "dishForm": "Salad"
+  }
+}

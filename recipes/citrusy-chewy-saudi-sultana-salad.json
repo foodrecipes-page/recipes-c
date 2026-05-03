@@ -1,0 +1,102 @@
+{
+  "title": "Citrusy Chewy Saudi Sultana Salad",
+  "description": "A light, no‑cook salad that combines tangy citrus, chewy sultanas, and fresh vegetables for a sweet, diabetic‑friendly treat.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "low-carb",
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sultanas (roasted)",
+      "amount": "1/4 cup",
+      "notes": "roast at 180°C for 10 minutes until lightly browned"
+    },
+    {
+      "name": "cucumber, diced",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "red onion, finely chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "strawberries, sliced",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "2 tbsp",
+      "notes": "roughly chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Rinse the fresh mint and pat dry; roughly chop and set aside.",
+    "Dice the cucumber and finely chop the red onion; place them in a large bowl.",
+    "Add the sliced strawberries and the roasted sultanas to the bowl.",
+    "Drizzle the olive oil over the mixture and sprinkle the sumac, salt, and pepper.",
+    "Pour the lemon juice and toss everything gently until well coated.",
+    "Fold in the chopped mint just before serving to keep the aroma bright.",
+    "Serve chilled or at room temperature; enjoy immediately for the best chewiness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "chewy",
+    "sultana",
+    "lazy-sunday",
+    "saudi-arabian",
+    "diabetic-friendly",
+    "low-carb",
+    "no-cook"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 1,
+    "carbs": 20,
+    "fat": 14
+  },
+  "slug": "citrusy-chewy-saudi-sultana-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-chewy-saudi-sultana-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:27:33Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "chewy",
+    "mood": "lazy-sunday",
+    "technique": "reduce",
+    "primaryIngredient": "sultanas",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Saudi",
+    "mainIngredient": "sultanas",
+    "descriptor": "Citrusy Chewy",
+    "dishForm": "Salad"
+  }
+}
