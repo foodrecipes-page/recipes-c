@@ -1,0 +1,93 @@
+{
+  "title": "Crispy Fermented American Jackfruit Burger",
+  "description": "A midnight‑craving, plant‑based burger with fermented jackfruit and garlic, finished in a crispy air‑fry for a satisfying crunch.",
+  "cuisine": "American",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "young green jackfruit, drained",
+      "amount": "200 g"
+    },
+    {
+      "name": "fermented cabbage (kimchi), chopped",
+      "amount": "30 g"
+    },
+    {
+      "name": "tahini",
+      "amount": "15 g"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "6 g"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 g"
+    },
+    {
+      "name": "sea salt",
+      "amount": "3 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "14 g"
+    },
+    {
+      "name": "whole‑grain gluten‑free bun",
+      "amount": "50 g"
+    }
+  ],
+  "instructions": [
+    "Drain and pat dry the jackfruit; cut into bite‑sized pieces.",
+    "In a bowl, toss jackfruit with minced garlic, smoked paprika, sea salt, and tahini until coated.",
+    "Add chopped fermented cabbage and mix well to combine flavors.",
+    "Heat a non‑stick pan with 5 ml olive oil over medium heat; sauté the jackfruit mixture for 4–5 min, letting it caramelize slightly.",
+    "Transfer the mixture to an air‑fry basket and air‑fry at 200 °C (400 °F) for 8 min, shaking halfway through, until the edges are crispy and golden.",
+    "Toast the gluten‑free bun lightly on a skillet or in the air‑fryer for 1 min per side.",
+    "Slice the bun, spread a thin layer of tahini or vegan mayo (optional) on the bottom half.",
+    "Layer the crispy jackfruit mixture on the bun, add a lettuce leaf or tomato slice if desired, then cap with the top bun.",
+    "Serve immediately while hot for the best crunch.",
+    "Enjoy your savory, fermented, plant‑based burger!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "plant-based",
+    "air-fry",
+    "jackfruit",
+    "fermented",
+    "crispy",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 16,
+    "carbs": 60,
+    "fat": 13
+  },
+  "slug": "crispy-fermented-american-jackfruit-burger",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-fermented-american-jackfruit-burger",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:49:32Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "gooey",
+    "mood": "midnight-craving",
+    "technique": "air-fry",
+    "primaryIngredient": "garlic",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Jackfruit",
+    "descriptor": "Crispy Fermented",
+    "dishForm": "Burger"
+  }
+}
