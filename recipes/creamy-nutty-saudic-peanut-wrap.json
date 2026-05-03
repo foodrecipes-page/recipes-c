@@ -1,0 +1,87 @@
+{
+  "title": "Creamy Nutty Saudic Peanut Wrap",
+  "description": "This nutty and creamy dish features a high-protein-friendly combination of crispy rice paper wraps filled with almond butter, diced peaches, and a drizzle of honey.",
+  "cuisine": "Saudic (inspired)",
+  "diet": [
+    "high-protein",
+    "nutritious"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup cooked brown rice",
+      "amount": "",
+      "notes": "Can be substituted with quinoa for a different texture."
+    },
+    {
+      "name": "2 tablespoons almond butter",
+      "amount": "",
+      "notes": "Choose organic if possible."
+    },
+    {
+      "name": "1 peach, diced",
+      "amount": "",
+      "notes": "Use ripe peaches to ensure softness when combined."
+    },
+    {
+      "name": "1 tablespoon honey",
+      "amount": "",
+      "notes": "Optional for added sweetness and texture."
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "",
+      "notes": "For flavor enhancement."
+    },
+    {
+      "name": "Almond flour or semolina for garnish (optional)",
+      "amount": "",
+      "notes": "To add a touch of crunch to the wrap."
+    }
+  ],
+  "instructions": [
+    "Combine cooked brown rice and almond butter in a small bowl. Add diced peach, honey, and salt, mixing well.",
+    "Prepare rice paper sheets by soaking them in warm water for about 5-10 seconds until pliable but not soggy.",
+    "On a clean surface, place one rice paper sheet on your work area.",
+    "Spread about 2 tablespoons of the almond butter mixture over the center of the rice paper. Leave a small border around the edges.",
+    "Fold in half and then in thirds to create an easy-to-eat roll or wrap shape.",
+    "Optional: Sprinkle with crushed almonds, almond flour, or semolina for added texture before serving.",
+    "Serve immediately while warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "creamy",
+    "saudic",
+    "peanut",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 9,
+    "carbs": 16,
+    "fat": 3
+  },
+  "slug": "creamy-nutty-saudic-peanut-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-nutty-saudic-peanut-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T16:00:17Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "creamy",
+    "mood": "energizing",
+    "technique": "simmer",
+    "primaryIngredient": "rice paper sheets",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Saudic",
+    "mainIngredient": "peanuts",
+    "descriptor": "Creamy Nutty",
+    "dishForm": "Wrap"
+  }
+}
