@@ -1,0 +1,94 @@
+{
+  "title": "Crunchy Kenyan Anchovy Fry",
+  "description": "A simple, earthy snack perfect for date nights, featuring crispy anchovy fillets seasoned with traditional Kenyan spices.",
+  "cuisine": "kenyan",
+  "diet": [
+    "jain"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "anchovy fillet",
+      "amount": "100g",
+      "notes": "fresh, small fillets"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "50g",
+      "notes": "for coating"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "10g",
+      "notes": "for crispiness"
+    },
+    {
+      "name": "ginger",
+      "amount": "5g",
+      "notes": "fresh, finely chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "20g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "2g",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1g",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Prepare anchovy fillets by rinsing gently under cold water to remove any excess salt.",
+    "In a bowl, mix flour, cornstarch, ginger, onion, black pepper, and salt until well combined.",
+    "Dip anchovy fillets into the spice mixture, ensuring even coating.",
+    "Heat a neutral oil in a pan over medium heat (170°C/340°F) until shimmering.",
+    "Fry anchovy fillets in batches for 2-3 minutes until golden and crispy.",
+    "Remove from oil and drain on paper towels.",
+    "Serve immediately for best texture."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "anchovy",
+    "fry",
+    "jain",
+    "snack",
+    "crunchy",
+    "earth",
+    "date-night"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "crunchy-kenyan-anchovy-fry",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-kenyan-anchovy-fry",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T07:52:02Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crunchy",
+    "mood": "date-night",
+    "technique": "fry",
+    "primaryIngredient": "anchovy fillet",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "anchovy",
+    "descriptor": "Crunchy",
+    "dishForm": "Fry"
+  }
+}
