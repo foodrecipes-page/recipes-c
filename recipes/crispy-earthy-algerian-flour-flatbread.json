@@ -1,0 +1,105 @@
+{
+  "title": "Crispy Earthy Algerian Flour Flatbread",
+  "description": "A light, crunchy flatbread bursting with earthy spices and a tangy sour cream topping, perfect for a quick snack or side dish.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "whole wheat flour",
+      "amount": "400 g"
+    },
+    {
+      "name": "warm water",
+      "amount": "250 ml",
+      "notes": "around 40-45°C"
+    },
+    {
+      "name": "salt",
+      "amount": "8 g"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "2 g"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "5 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "20 ml"
+    },
+    {
+      "name": "sour cream",
+      "amount": "150 g"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "harissa paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "to garnish",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, dissolve the yeast in the warm water with the sugar and let sit for 5–10 minutes until frothy.",
+    "In a large mixing bowl, combine the flour and salt. Make a well in the center and pour in the yeast mixture and olive oil.",
+    "Mix until a shaggy dough forms, then knead on a lightly floured surface for about 8–10 minutes until smooth and elastic.",
+    "Shape the dough into a ball, place it in a lightly oiled bowl, cover with a damp cloth, and let rise at room temperature for 1 hour or until doubled in size.",
+    "After rising, gently punch down the dough and divide it into 6 equal portions. Roll each portion into a thin circle (about 12–15 cm diameter).",
+    "Heat a dry non‑stick skillet over medium‑high heat. Place one flatbread in the skillet and cook for 1–2 minutes on each side until golden brown and crisp.",
+    "Transfer the cooked flatbread to a plate, spread a thin layer of sour cream, sprinkle with paprika, cumin, and a pinch of harissa, then garnish with fresh cilantro.",
+    "Repeat with the remaining dough portions and serve immediately while still warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "flatbread",
+    "earthy",
+    "crispy",
+    "sour-cream",
+    "algerian",
+    "vegetarian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 52,
+    "fat": 10
+  },
+  "slug": "crispy-earthy-algerian-flour-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-earthy-algerian-flour-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:38:43Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crunchy",
+    "mood": "crowd-pleaser",
+    "technique": "knead",
+    "primaryIngredient": "sour cream",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "flour",
+    "descriptor": "Crispy Earthy",
+    "dishForm": "Flatbread"
+  }
+}
