@@ -1,0 +1,90 @@
+{
+  "title": "Creamy Mexican Milk Tacos",
+  "description": "A smooth, earthy taco filling made with milk, mild spices, and fresh ingredients that's perfect for a quick lunch or snack. Jain-friendly and crowd-pleasing.",
+  "cuisine": "mexican",
+  "diet": [
+    "jain"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "whole milk",
+      "amount": "1 cup",
+      "notes": "unpasteurized, organic"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "8",
+      "notes": "soft, fresh"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime",
+      "amount": "1",
+      "notes": "juice, 1 tbsp"
+    },
+    {
+      "name": "mild chili powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      ": ": ", "
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat a skillet over medium-low heat",
+    "Pour 1 cup whole milk into skillet, stir until warm (about 5 min)",
+    "Add 1/2 tsp chili powder, 1/4 tsp salt, and 1 clove garlic; cook for 3 min",
+    "Stir in 2 tbsp chopped cilantro and 1 tbsp lime juice",
+    "Fill corn tortillas with the milk mixture",
+    "Serve warm with additional lime wedges"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "milk",
+    "tacos",
+    "jain",
+    "lunch",
+    "creamy",
+    "earthly"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 5,
+    "carbs": 22,
+    "fat": 15
+  },
+  "slug": "creamy-mexican-milk-tacos",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-mexican-milk-tacos",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T01:42:20Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "creamy",
+    "mood": "crowd-pleaser",
+    "technique": "marinate",
+    "primaryIngredient": "milk",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "milk",
+    "descriptor": "Creamy",
+    "dishForm": "Tacos"
+  }
+}
