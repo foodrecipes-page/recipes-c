@@ -1,0 +1,100 @@
+{
+  "title": "Crumbly Greek Anchovy Bake",
+  "description": "A rich, crumbly Greek dish featuring sous-vide cooked anchovy fillets nestled in a fragrant herb and olive oil base, served with a simple side of fresh vegetables.",
+  "cuisine": "greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sous-vide anchovy fillet",
+      "amount": "125g",
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "fresh oregano",
+      "amount": "1 tbsp",
+      ": ": "",
+      "notes": "dried or fresh"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1/2 small",
+      "notes": "fresh"
+    },
+    {
+      "name": "red wine",
+      "amount": "30ml",
+      "notes": "optional"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a sous-vide cooker, prepare anchovy fillets in a water bath at 60°C for 45 minutes.",
+    "Heat olive oil in a pan over medium heat, add garlic and oregano, sauté for 1 minute.",
+    "Add diced tomatoes, lemon zest, and red wine (if using), cook for 5 minutes.",
+    "Layer the sous-vide anchovies over the tomato mixture, sprinkle with parsley, and cover.",
+    "Let rest for 10 minutes before serving with a side of fresh vegetables."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "anchovy",
+    "sous-vide",
+    "crumbly",
+    "dinner",
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 8,
+    "fat": 25
+  },
+  "slug": "crumbly-greek-anchovy-bake",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-greek-anchovy-bake",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T01:25:34Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crumbly",
+    "mood": "comforting",
+    "technique": "sous-vide",
+    "primaryIngredient": "anchovy fillet",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "anchovy",
+    "descriptor": "crumbly",
+    "dishForm": "bake"
+  }
+}
