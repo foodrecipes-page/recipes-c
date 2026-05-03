@@ -1,0 +1,77 @@
+{
+  "title": "Citrusy Peruvian Fish Stew",
+  "description": "A light and citrusy monsoon-inspired dish featuring whole30-friendly fish, vegetables, and spices that can be cooked quickly for a quick weeknight meal.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 lbs cod fillets",
+      "amount": "1 whole fish per person"
+    },
+    {
+      "name": "1 lemon, juiced",
+      "amount": "juice from 1 lemon"
+    },
+    {
+      "name": "1 lime, juiced",
+      "amount": "juice from 1 lime"
+    },
+    {
+      "name": "2 lemongrass stalks, bruised and sliced",
+      "amount": "4 pieces per person"
+    },
+    {
+      "name": "3 garlic cloves, minced",
+      "amount": "6 cloves total"
+    },
+    {
+      "name": "1 cup chopped cilantro",
+      "amount": "cup of fresh cilantro leaves"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C). Season fish with salt and pepper.",
+    "Sauté lemongrass, garlic, and fish in a pot over medium heat until fish is golden brown on all sides.",
+    "Add lemon juice from one lemon and lime juice. Stir in chopped cilantro.",
+    "Simmer for 10 minutes or until flavors are infused into the fish and vegetables have softened slightly.",
+    "Serve warm with additional citrus wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "fishstew",
+    "citrusy",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 381,
+    "protein": 29,
+    "carbs": 7,
+    "fat": 24
+  },
+  "slug": "citrusy-peruvian-fish-stew",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-peruvian-fish-stew",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T18:12:13Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "light",
+    "mood": "monsoon",
+    "technique": "boil",
+    "primaryIngredient": "fish",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "fish",
+    "descriptor": "citrusy",
+    "dishForm": "Stew"
+  }
+}
