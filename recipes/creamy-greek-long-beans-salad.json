@@ -1,0 +1,114 @@
+{
+  "title": "Creamy Greek Long Beans Salad",
+  "description": "A vibrant brunch salad featuring tender Chinese long beans tossed in a tangy Greek yogurt dressing with a touch of cumin and smoked paprika, finished with fresh dill and toasted pine nuts.",
+  "cuisine": "Greek fusion",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Chinese long beans",
+      "amount": "200 g",
+      "notes": "trimmed and cut into 4-5 cm pieces"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "150 g",
+      "notes": "plain, whole milk"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "¼ tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Toasted pine nuts",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "30 g",
+      "notes": "crumbled (optional)"
+    }
+  ],
+  "instructions": [
+    "Wash the long beans under cold water and trim the ends.",
+    "Bring a pot of salted water to a boil and blanch the beans for 3 minutes until bright green and slightly tender.",
+    "Drain and immediately transfer the beans to ice water to stop cooking and retain their color.",
+    "In a bowl, whisk together Greek yogurt, lemon juice, olive oil, minced garlic, ground cumin, smoked paprika, salt, and pepper until smooth.",
+    "Add the blanched beans to the dressing and toss gently to coat.",
+    "Fold in chopped dill and toasted pine nuts, reserving a little dill for garnish.",
+    "If using, sprinkle crumbled feta over the top.",
+    "Serve chilled or at room temperature as a refreshing brunch salad.",
+    "Enjoy immediately or store in an airtight container in the refrigerator for up to 2 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 3,
+  "totalTimeMin": 13,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "salad",
+    "vegetarian",
+    "breakfast",
+    "quick",
+    "fusion",
+    "creamy",
+    "tadka"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 9.5,
+    "carbs": 7.5,
+    "fat": 9.5
+  },
+  "slug": "creamy-greek-long-beans-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-greek-long-beans-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:31:12Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "creamy",
+    "mood": "brunch-mood",
+    "technique": "tadka",
+    "primaryIngredient": "chinese long beans",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "long beans",
+    "descriptor": "Creamy",
+    "dishForm": "Salad"
+  }
+}

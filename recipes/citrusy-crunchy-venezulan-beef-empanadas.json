@@ -1,0 +1,119 @@
+{
+  "title": "Citrusy Crunchy Venezuelan Beef Empanadas",
+  "description": "A midnight-craving Venezuelan dish featuring slow-cooked beef brisket, sautéed onions, and citrusy flavors, all wrapped in a crunchy empanada crust.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1/4 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "for empanada dough"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon",
+      "notes": "ground, to taste"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large pan, heat the olive oil over medium-high heat. Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the beef brisket and cook until browned on all sides, about 5 minutes.",
+    "Add the orange and lime juice, salt, black pepper, and cumin. Stir to combine.",
+    "Reduce heat to low and simmer for 10-15 minutes, or until the beef is tender.",
+    "While the beef is cooking, prepare the empanada dough. In a large mixing bowl, combine the flour and a pinch of salt. Gradually add 1 cup of warm water, stirring with a fork until the dough comes together.",
+    "Knead the dough for 5-7 minutes, until it becomes smooth and elastic.",
+    "Divide the dough into 8-10 equal pieces. Roll each piece into a ball and then flatten it slightly into a disk shape.",
+    "Place a tablespoon of the beef mixture onto one half of the dough disk, leaving a 1/2-inch border around the edges.",
+    "Fold the other half of the dough over the filling and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with a little water and bake for 20-25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "empanadas",
+    "venezuelan",
+    "citrusy",
+    "crunchy",
+    "dinner",
+    "main-course"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "citrusy-crunchy-venezulan-beef-empanadas",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-crunchy-venezulan-beef-empanadas",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:31:06Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crunchy",
+    "mood": "midnight-craving",
+    "technique": "saute",
+    "primaryIngredient": "beef brisket",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Venezulan",
+    "mainIngredient": "beef",
+    "descriptor": "citrusy crunchy",
+    "dishForm": "Empanadas"
+  }
+}

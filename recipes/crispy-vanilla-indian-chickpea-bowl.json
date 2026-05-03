@@ -1,0 +1,112 @@
+{
+  "title": "Crispy Vanilla Indian Chickpea Bowl",
+  "description": "A velvety, energizing bowl featuring spiced chickpeas coated in vanilla sugar, air‑fried to crispy perfection and served over fresh greens.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "canned chickpeas",
+      "amount": "1 can (400g)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "vanilla sugar",
+      "amount": "2 tbsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garam masala",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "ground turmeric",
+      "amount": "¼ tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "¼ tsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "diced cucumber",
+      "amount": "½ cup",
+      "notes": "optional topping"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 375°F (190°C).",
+    "Drain and rinse the chickpeas, then pat them dry with a paper towel.",
+    "In a bowl, toss the chickpeas with olive oil, cumin, coriander, garam masala, turmeric, salt, and pepper until evenly coated.",
+    "Stir in the vanilla sugar until the chickpeas are lightly glazed.",
+    "Spread the chickpeas in the air fryer basket in a single layer and air‑fry for 12 minutes, shaking halfway through, until crispy.",
+    "While the chickpeas are cooking, prepare the toppings: chop cilantro, squeeze lemon juice, and dice cucumber if using.",
+    "Once cooked, transfer the chickpeas to a bowl and pour the lemon juice over them.",
+    "Toss the chickpeas gently with the cilantro and cucumber, if desired.",
+    "Serve immediately, spooning the crispy vanilla chickpeas into a bowl of fresh greens for a complete meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "gluten-free",
+    "air-fry",
+    "chickpea",
+    "vanilla-sugar"
+  ],
+  "nutrition": {
+    "calories": 330,
+    "protein": 8,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "crispy-vanilla-indian-chickpea-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-vanilla-indian-chickpea-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:32:07Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "velvety",
+    "mood": "energizing",
+    "technique": "air-fry",
+    "primaryIngredient": "vanilla sugar",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Crispy Vanilla",
+    "dishForm": "Bowl"
+  }
+}
