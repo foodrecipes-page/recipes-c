@@ -1,0 +1,105 @@
+{
+  "title": "Creamy Caramelized Norwegian Peach Pudding",
+  "description": "A comforting and creamy dessert featuring caramelized peaches and a hint of floral flavor, perfect for a sweet treat or hangover cure. This dairy-free-friendly pudding is a unique twist on traditional Norwegian desserts.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "peach juice",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 can (14 oz)",
+      "notes": "full-fat"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1/4 cup",
+      "notes": "grade A amber"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": "high-quality"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": "flaky sea salt"
+    },
+    {
+      "name": "peaches",
+      "amount": "2 ripe",
+      "notes": "sliced into wedges"
+    },
+    {
+      "name": "almond milk",
+      "amount": "1/2 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tbsp",
+      "notes": "organic"
+    },
+    {
+      "name": "edible flowers",
+      "amount": "1/4 cup",
+      "notes": "such as violas or pansies, for garnish"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine the peach juice, maple syrup, and salt. Bring to a boil over medium heat, then reduce the heat to low and simmer for 10 minutes.",
+    "In a separate saucepan, caramelize the sliced peaches over medium heat for 5-7 minutes, or until golden brown.",
+    "In a large bowl, whisk together the coconut cream, vanilla extract, and almond milk.",
+    "Add the cornstarch to the bowl and whisk until smooth.",
+    "Gradually pour the warm peach juice mixture into the bowl, whisking constantly.",
+    "Add the caramelized peaches to the bowl and stir to combine.",
+    "Pour the mixture into individual serving cups or a large serving dish.",
+    "Refrigerate for at least 2 hours, or until chilled and set.",
+    "Garnish with edible flowers and serve chilled."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "peach",
+    "caramelized",
+    "creamy",
+    "dairy-free",
+    "hangover-cure"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "creamy-caramelized-norwegian-peach-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-caramelized-norwegian-peach-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T21:34:40Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "creamy",
+    "mood": "hangover-cure",
+    "technique": "caramelize",
+    "primaryIngredient": "peach juice",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "peaches",
+    "descriptor": "creamy caramelized",
+    "dishForm": "Pudding"
+  }
+}
