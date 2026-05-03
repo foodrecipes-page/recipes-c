@@ -1,0 +1,91 @@
+{
+  "title": "Crispy Tunisian Peas Salad",
+  "description": "A bright, floral salad featuring fresh peas, chickpeas, and a spicy harissa vinaigrette, perfect for meal prep and egg‑free dining.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fresh peas (petit pois)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cooked chickpeas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh mint, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice, freshly squeezed",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "extra‑virgin olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "harissa paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "pistachios, crushed for crunch",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Blanch the fresh peas in boiling salted water for 1–2 minutes, then plunge into ice water to retain crunch."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tunisian",
+    "peas-salad",
+    "floral",
+    "meal-prep",
+    "egg-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "crispy-tunisian-peas-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-tunisian-peas-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:08:09Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crisp",
+    "mood": "meal-prep",
+    "technique": "rest",
+    "primaryIngredient": "petit pois",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Peas",
+    "descriptor": "Crispy",
+    "dishForm": "Salad"
+  }
+}
