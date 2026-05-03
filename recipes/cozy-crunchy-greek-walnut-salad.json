@@ -1,0 +1,118 @@
+{
+  "title": "Cozy Crunchy Greek Walnut Salad",
+  "description": "A comforting Greek salad packed with crunchy walnuts, fresh vegetables, and a tangy vinaigrette, crafted to be low‑sodium and vegetarian.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cucumber",
+      "amount": "1 medium (200g)",
+      "notes": "washed, sliced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup (150g)",
+      "notes": "halved"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small (50g)",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "low‑sodium feta cheese",
+      "amount": "1 cup (260g)",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "1/4 cup (35g)",
+      "notes": "roughly chopped"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/3 cup (44g)",
+      "notes": "toasted in a dry skillet"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp (10g)",
+      "notes": "chopped"
+    },
+    {
+      "name": "extra‑virgin olive oil",
+      "amount": "1 tbsp (15ml)"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "1 tbsp (15ml)"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp (15ml)"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp (2g)",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "use minimal salt; optional pepper"
+    }
+  ],
+  "instructions": [
+    "Wash the cucumber and parsley. Slice the cucumber into half‑moon shapes.",
+    "Halve the cherry tomatoes and thinly slice the red onion.",
+    "Place the cucumber, tomatoes, onion, parsley, and chopped olives into a large bowl.",
+    "Crumble the low‑sodium feta cheese into the bowl and toss gently.",
+    "Toast the walnuts in a dry skillet over medium heat for 2–3 minutes, stirring frequently until fragrant; remove and let cool.",
+    "Add the toasted walnuts to the salad.",
+    "In a small bowl whisk together the olive oil, red wine vinegar, lemon juice, dried oregano, and a pinch of salt.",
+    "Pour the dressing over the salad and toss until all ingredients are evenly coated.",
+    "Cover the bowl with plastic wrap and let the salad rest for 5 minutes to allow flavors to meld.",
+    "Serve the salad at room temperature or chilled, garnished with a few extra walnut halves if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek-salad",
+    "walnut",
+    "crunchy",
+    "cozy",
+    "low-sodium",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 167,
+    "protein": 27,
+    "carbs": 33,
+    "fat": 52
+  },
+  "slug": "cozy-crunchy-greek-walnut-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-crunchy-greek-walnut-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:52:00Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crunchy",
+    "mood": "cozy",
+    "technique": "rest",
+    "primaryIngredient": "vinegar",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Walnut",
+    "descriptor": "Cozy Crunchy",
+    "dishForm": "Salad"
+  }
+}
