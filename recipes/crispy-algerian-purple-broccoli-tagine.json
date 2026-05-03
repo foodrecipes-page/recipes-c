@@ -1,0 +1,116 @@
+{
+  "title": "Crispy Algerian Purple Broccoli Tagine",
+  "description": "A funky, aerated, nostalgic Algerian dish featuring purple sprouting broccoli, steamed and oven-crispy with anti-inflammatory spices.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "purple sprouting broccoli florets",
+      "amount": "300 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "200 g",
+      "notes": "diced"
+    },
+    {
+      "name": "water or vegetable broth",
+      "amount": "200 ml"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200 degrees Celsius.",
+    "Heat olive oil in a wide skillet over medium-high heat until shimmering.",
+    "Add diced onion and sauté until translucent.",
+    "Stir in minced garlic, grated ginger, cumin, coriander, and turmeric, cooking for 30 seconds until fragrant.",
+    "Add sliced carrot and diced tomato, cooking for 2 minutes.",
+    "Add broccoli florets, season with salt and pepper, and pour in water or broth, then cover and simmer for 5 minutes.",
+    "Transfer the skillet or a shallow oven-safe dish to the preheated oven and bake uncovered for 15 minutes to crisp the broccoli edges.",
+    "Remove from oven, squeeze lemon juice, sprinkle chopped cilantro, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "low-fat",
+    "one-pot",
+    "quick",
+    "tagine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 12,
+    "carbs": 46,
+    "fat": 28
+  },
+  "slug": "crispy-algerian-purple-broccoli-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-algerian-purple-broccoli-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:23:03Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "aerated",
+    "mood": "nostalgic",
+    "technique": "steam",
+    "primaryIngredient": "purple-sprouting-broccoli",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "purple broccoli",
+    "descriptor": "Crispy",
+    "dishForm": "Tagine"
+  }
+}
