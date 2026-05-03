@@ -1,0 +1,115 @@
+{
+  "title": "Chewy Bitter German Beets Salad",
+  "description": "A kid-friendly, low‑carb German salad that balances the earthy bitterness of beets with crunchy walnuts and sweet pickled greens for a chewy texture.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fresh beets",
+      "amount": "3 medium (≈600 g)",
+      "notes": "bitter, chewy texture when cooked"
+    },
+    {
+      "name": "Pickled beet greens",
+      "amount": "1 cup",
+      "notes": "adds sweetness and crunch"
+    },
+    {
+      "name": "Hard‑boiled eggs",
+      "amount": "2 large",
+      "notes": "source of protein, cuts bitterness"
+    },
+    {
+      "name": "Walnuts, toasted",
+      "amount": "¼ cup",
+      "notes": "crunchy, nutty flavor"
+    },
+    {
+      "name": "Fennel bulb, sliced",
+      "amount": "1 small",
+      "notes": "adds subtle sweetness"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "3 Tbsp",
+      "notes": "acidic dressing"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 Tbsp",
+      "notes": "binds dressing"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tsp",
+      "notes": "adds depth"
+    },
+    {
+      "name": "Honey or agave syrup",
+      "amount": "1 tsp",
+      "notes": "low‑carb sweetener"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "½ tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper, freshly ground",
+      "amount": "¼ tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400 °F (200 °C).",
+    "Wrap beets in foil and bake for 45–60 min until tender; cool and peel.",
+    "Place eggs in boiling water for 9 min, then transfer to ice water, peel, and dice.",
+    "Roast fennel slices in the oven for 10 min, or sauté until lightly browned.",
+    "Whisk apple cider vinegar, olive oil, Dijon mustard, honey, salt, and pepper in a bowl to make the dressing.",
+    "Combine beets, pickled greens, eggs, walnuts, and roasted fennel in a large bowl.",
+    "Pour dressing over the salad and toss gently to coat evenly.",
+    "Serve immediately or chill for 15 min for flavors to meld."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "low-carb",
+    "kid-friendly",
+    "bitter",
+    "chewy",
+    "german",
+    "beet",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 15,
+    "fat": 15
+  },
+  "slug": "chewy-bitter-german-beets-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-bitter-german-beets-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:39:52Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "chewy",
+    "mood": "kid-friendly",
+    "technique": "pickle",
+    "primaryIngredient": "beets",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "beets",
+    "descriptor": "Chewy Bitter",
+    "dishForm": "Salad"
+  }
+}

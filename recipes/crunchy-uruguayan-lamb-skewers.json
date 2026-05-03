@@ -1,0 +1,101 @@
+{
+  "title": "Crunchy Uruguayan Lamb Skewers",
+  "description": "A traditional Uruguayan dish featuring lamb stock, sous-vide cooking, and a crunchy fermented crust, perfect for a energizing dinner. This recipe combines the tender flavor of lamb with the crunch of fermented ingredients.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "lamb stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fermented chimichurri",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 130°F.",
+    "In a large bowl, whisk together lamb stock, fermented chimichurri, olive oil, garlic, parsley, red pepper flakes, salt, black pepper, and paprika.",
+    "Add the lamb cubes to the bowl and marinate for at least 2 hours or overnight.",
+    "Thread the marinated lamb cubes onto skewers, leaving a small space between each piece.",
+    "Place the skewers in the sous-vide machine and cook for 2 hours.",
+    "Preheat the oven to 400°F.",
+    "Remove the skewers from the sous-vide machine and place them on a baking sheet lined with parchment paper.",
+    "Bake the skewers in the oven for 10-12 minutes, or until they develop a crunchy crust.",
+    "Remove the skewers from the oven and let them rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan-cuisine",
+    "lamb-recipes",
+    "sous-vide-cooking",
+    "fermented-foods"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "crunchy-uruguayan-lamb-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-uruguayan-lamb-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T19:39:34Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crunchy",
+    "mood": "energizing",
+    "technique": "sous-vide",
+    "primaryIngredient": "lamb stock",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "lamb",
+    "descriptor": "Fermented Crunchy",
+    "dishForm": "Skewers"
+  }
+}
