@@ -1,0 +1,100 @@
+{
+  "title": "Crispy Peruvian Chicken Quesadilla",
+  "description": "A fresh, gooey, festive dish that blends Peruvian flavors with a crispy quesadilla. High‑protein, perfect for a quick lunch or dinner.",
+  "cuisine": "Peruvian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Boneless skinless chicken breast",
+      "amount": "200 g",
+      "notes": "shredded"
+    },
+    {
+      "name": "Flour tortillas",
+      "amount": "2 large (10 in)",
+      "notes": "gently warmed"
+    },
+    {
+      "name": "Enchilada sauce (red)",
+      "amount": "120 ml"
+    },
+    {
+      "name": "Queso fresco",
+      "amount": "100 g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime",
+      "amount": "½",
+      "notes": "juiced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "¼ tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "⅛ tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a non‑stick skillet over medium‑high heat.",
+    "In a bowl, combine shredded chicken with 60 ml of enchilada sauce, lime juice, salt, and pepper; toss to coat.",
+    "Warm each tortilla in a microwave for 20 seconds or on a dry pan for 5 seconds to make it pliable.",
+    "Spread 2 tbsp of the remaining enchilada sauce onto each tortilla, then top with the chicken mixture, crumbled queso fresco, and chopped cilantro.",
+    "Fold the tortillas over the filling to form a half‑moon shape.",
+    "Brush the skillet lightly with olive oil and place one quesadilla in the pan; cook 2‑3 minutes until the bottom is golden brown.",
+    "Flip carefully and cook the other side for another 2‑3 minutes until crisp and cheese has melted.",
+    "Remove the quesadilla, let it rest 1 minute, then slice into wedges.",
+    "Garnish with extra cilantro and lime wedges, and serve hot.",
+    "Enjoy with a side of fresh corn or a light salad if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "chicken",
+    "quesadilla",
+    "high-protein",
+    "festive",
+    "easy",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 445,
+    "protein": 41.5,
+    "carbs": 34,
+    "fat": 15.25
+  },
+  "slug": "crispy-peruvian-chicken-quesadilla",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-peruvian-chicken-quesadilla",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:03:12Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "gooey",
+    "mood": "festive",
+    "technique": "fold",
+    "primaryIngredient": "enchilada sauce",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "Crispy",
+    "dishForm": "Quesadilla"
+  }
+}
