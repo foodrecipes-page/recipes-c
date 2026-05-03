@@ -1,0 +1,105 @@
+{
+  "title": "Crispy Sour Rajasthani Cheddar Bake",
+  "description": "A tangy, crunchy bake that fuses Rajasthani spices with creamy cheddar, perfect for a lazy Sunday lunch or snack.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "low-calorie"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cheddar cheese, shredded",
+      "amount": "200 g",
+      "notes": "semi‑soft, low‑fat"
+    },
+    {
+      "name": "Low‑fat plain yogurt (dahi)",
+      "amount": "150 g",
+      "notes": "about 2/3 cup"
+    },
+    {
+      "name": "Whole wheat breadcrumbs",
+      "amount": "1 cup (120 g)",
+      "notes": "for crunch"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 tsp",
+      "notes": "toasted lightly"
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garam masala",
+      "amount": "½ tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "1 tbsp",
+      "notes": "adds tang"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 180°C (350°F) and lightly grease a 9×9 inch baking dish.",
+    "2. In a medium bowl, whisk the yogurt with turmeric, cumin seeds, coriander powder, garam masala, and salt until smooth.",
+    "3. Add the shredded cheddar and lemon juice to the yogurt mixture, stirring until the cheese is well coated.",
+    "4. Fold in the whole wheat breadcrumbs, reserving a small amount for topping, and mix until the batter is sticky.",
+    "5. Transfer the mixture to the prepared dish, spreading evenly. Sprinkle the reserved breadcrumbs on top for a crisp finish.",
+    "6. Bake for 20–25 minutes, or until the top is golden brown and the edges are bubbling.",
+    "7. Remove from the oven and let rest for 5 minutes before slicing.",
+    "8. Garnish with fresh chopped coriander and serve warm as a satisfying snack or light dinner."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "cheese",
+    "bake",
+    "low-calorie",
+    "lazy-sunday",
+    "sour",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 18,
+    "carbs": 12,
+    "fat": 12
+  },
+  "slug": "crispy-sour-rajasthani-cheddar-bake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-sour-rajasthani-cheddar-bake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:07:29Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crunchy",
+    "mood": "lazy-sunday",
+    "technique": "bake",
+    "primaryIngredient": "cheddar cheese",
+    "diet": "low-calorie",
+    "region": "rajasthani",
+    "cuisineAdjective": "Rajasthani",
+    "mainIngredient": "Cheddar",
+    "descriptor": "Crispy Sour",
+    "dishForm": "Bake"
+  }
+}
