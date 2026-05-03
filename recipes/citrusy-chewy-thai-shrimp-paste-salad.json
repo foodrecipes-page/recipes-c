@@ -1,0 +1,85 @@
+{
+  "title": "Citrusy Chewy Thai Shrimp Paste Salad",
+  "description": "A light, refreshing salad that balances the umami of shrimp paste with zesty lime, a hint of heat, and chewy tapioca pearls, perfect for a quick sick-day meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "raw shrimp",
+      "amount": "200g",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "shrimp paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sweet potato starch noodles (tapioca pearls)",
+      "amount": "50g"
+    },
+    {
+      "name": "cucumber",
+      "amount": "½ medium",
+      "notes": "sliced into thin half-moons"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "red chili",
+      "amount": "1",
+      "notes": "thinly sliced, seeds removed for less heat"
+    },
+    {
+      "name": "toasted peanuts",
+      "amount": "1 tablespoon",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Boil the shrimp in lightly salted water for 2 minutes until just pink; drain and rinse under cold water to stop the cooking process.",
+    "In a small saucepan, heat 1 teaspoon of neutral oil over medium heat. Add the shrimp paste and sliced chili; stir until fragrant, about 30 seconds.",
+    "Pour in lime juice, fish sauce, and palm sugar. Stir until the sugar dissolves and the mixture is well combined.",
+    "Meanwhile, cook the sweet potato starch noodles according to package instructions (usually 5 minutes). Drain and rinse under cold water to set the texture and chill the pearls.",
+    "Add the cooled noodles to the shrimp paste mixture. Toss well to coat.",
+    "Pour the noodle and shrimp paste mixture into a large bowl. Add the sliced cucumber, chopped cilantro, and the boiled shrimp. Toss gently to combine, ensuring all ingredients are evenly coated.",
+    "Serve immediately, garnished with toasted peanuts and an extra squeeze of lime if desired.",
+    "Enjoy while still fresh."
+  ],
+  "slug": "citrusy-chewy-thai-shrimp-paste-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-chewy-thai-shrimp-paste-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:28:19Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "chewy",
+    "mood": "sick-day",
+    "technique": "temper",
+    "primaryIngredient": "shrimp paste",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Shrimp Paste",
+    "descriptor": "Citrusy Chewy",
+    "dishForm": "Salad"
+  }
+}
