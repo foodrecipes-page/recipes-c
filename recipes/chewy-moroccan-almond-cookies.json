@@ -1,0 +1,105 @@
+{
+  "title": "Chewy Moroccan Almond Cookies",
+  "description": "These chewy almond cookies blend traditional Moroccan spices with a hint of bitterness from natural cocoa, all while being low‑sodium and kid‑friendly.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "low-sodium",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Almond flour",
+      "amount": "2 cups (200 g)"
+    },
+    {
+      "name": "Powdered sugar",
+      "amount": "1 cup (120 g)",
+      "notes": "Lightly sifted"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/2 cup (113 g)",
+      "notes": "Room temperature"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large (50 g)"
+    },
+    {
+      "name": "Cocoa powder",
+      "amount": "1 tbsp (10 g)",
+      "notes": "Unsweetened"
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1 tsp (2 g)"
+    },
+    {
+      "name": "Ground nutmeg",
+      "amount": "1/4 tsp (0.5 g)"
+    },
+    {
+      "name": "Almond extract",
+      "amount": "1 tsp (5 ml)"
+    },
+    {
+      "name": "Baking soda",
+      "amount": "1/2 tsp (2 g)"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1/8 tsp (0.25 g)",
+      "notes": "Low‑sodium version"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C) and line a baking sheet with parchment paper.",
+    "Whisk almond flour, cocoa powder, cinnamon, nutmeg, baking soda, and sea salt in a medium bowl and set aside.",
+    "Beat butter and powdered sugar in a large bowl until light and fluffy.",
+    "Add the egg and almond extract, mixing until smooth.",
+    "Gradually fold in the dry ingredients, stirring just until combined.",
+    "Drop tablespoon‑sized dough onto the prepared sheet, flatten slightly with a fork.",
+    "Bake 10–12 minutes until edges are set but centers remain soft for chewiness.",
+    "Cool on the sheet for 5 minutes, then transfer to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 24,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "snack",
+    "kid-friendly",
+    "low-sodium",
+    "moroccan",
+    "almond",
+    "cookies",
+    "chewy"
+  ],
+  "nutrition": {
+    "calories": 89,
+    "protein": 0.4,
+    "carbs": 6.5,
+    "fat": 6.0
+  },
+  "slug": "chewy-moroccan-almond-cookies",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-moroccan-almond-cookies",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:21:29Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "chewy",
+    "mood": "kid-friendly",
+    "technique": "rest",
+    "primaryIngredient": "powdered sugar",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "almonds",
+    "descriptor": "Chewy",
+    "dishForm": "Cookies"
+  }
+}
