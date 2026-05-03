@@ -1,0 +1,84 @@
+{
+  "title": "Crispy Buttery Malaysian Corn Tortilla Bake",
+  "description": "A kid-friendly, low‑calorie baked dish featuring buttery corn tortillas, tangy fresh veggies and a touch of Malaysian flair.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "low-calorie",
+    "kid-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "corn tortillas (medium)",
+      "amount": "8",
+      "notes": "no added salt"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "low-fat shredded cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced fresh tomato",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "diced bell pepper",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": "to taste"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "pinch",
+      "notes": "to taste"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "2 tbsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C). Line a 9x9-inch baking dish with parchment paper.",
+    "In a small saucepan, melt butter and add minced garlic. Cook 1 minute until fragrant.",
+    "Lightly toss the corn tortillas in the garlic‑butter mixture, seasoning with salt and pepper.",
+    "Arrange a layer of tortillas in the baking dish, sprinkle with half of the shredded cheese, and top with half of the tomato, bell pepper, and sesame seeds.",
+    "Repeat with a second tortilla layer, remaining cheese, and remaining veggies.",
+    "Cover the dish with foil and bake 15 minutes. Remove the foil and bake an additional 10 minutes until the top is golden and crispy.",
+    "Let the bake rest for 5 minutes, then garnish with chopped cilantro before serving."
+  ],
+  "slug": "crispy-buttery-malaysian-corn-tortilla-bake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-buttery-malaysian-corn-tortilla-bake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:20:51Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crunchy",
+    "mood": "kid-friendly",
+    "technique": "bake",
+    "primaryIngredient": "corn tortillas",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "corn tortilla",
+    "descriptor": "Crispy Buttery",
+    "dishForm": "Bake"
+  }
+}
