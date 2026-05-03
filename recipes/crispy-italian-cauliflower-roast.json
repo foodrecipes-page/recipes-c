@@ -1,0 +1,108 @@
+{
+  "title": "Crispy Italian Cauliflower Roast",
+  "description": "A sour, crispy cauliflower roast infused with lemon zest, herbs, and Parmesan, perfect for a lazy Sunday dinner that’s both keto-friendly and Italian-inspired.",
+  "cuisine": "Italian",
+  "diet": [
+    "keto",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cauliflower",
+      "amount": "1 head (≈700 g)",
+      "notes": "cut into florets"
+    },
+    {
+      "name": "extra-virgin olive oil",
+      "amount": "2 Tbsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 Tbsp"
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "amount": "2 Tbsp",
+      "notes": "plus extra for topping"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried basil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "crushed red pepper flakes",
+      "amount": "½ tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 Tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425 °F (220 °C) and line a baking sheet with parchment paper or a silicone mat.",
+    "In a large bowl, toss cauliflower florets with olive oil, lemon zest, oregano, basil, red pepper flakes, salt, and pepper until evenly coated.",
+    "Spread the florets in a single layer on the prepared baking sheet, ensuring they are not crowded.",
+    "Roast in the preheated oven for 20–22 minutes, flipping halfway, until edges are golden and florets are tender.",
+    "Remove from oven and sprinkle grated Parmesan and lemon juice over the hot cauliflower, tossing gently to coat.",
+    "Return to oven for an additional 3–4 minutes to melt the cheese and crisp the tops.",
+    "Let rest for 2 minutes, then transfer to a serving dish.",
+    "Garnish with a few fresh basil leaves or a drizzle of olive oil, if desired, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto-friendly",
+    "vegetarian",
+    "gluten-free",
+    "italian",
+    "lazy-sunday",
+    "easy",
+    "roast",
+    "cauliflower",
+    "sour",
+    "crisp"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 6,
+    "carbs": 12,
+    "fat": 14
+  },
+  "slug": "crispy-italian-cauliflower-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-italian-cauliflower-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:06:20Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crispy",
+    "mood": "lazy-sunday",
+    "technique": "steam",
+    "primaryIngredient": "roasted vegetables",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "cauliflower",
+    "descriptor": "Crispy",
+    "dishForm": "Roast"
+  }
+}
