@@ -1,0 +1,100 @@
+{
+  "title": "Caramelized Croatian Millet Pilaf",
+  "description": "A comforting, low-sodium Croatian pilaf where millet is caramelized with onions and peppers for a savory, dense flavor perfect for a lazy Sunday.",
+  "cuisine": "Croatian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Millet",
+      "amount": "1 cup",
+      "notes": "rinsed"
+    },
+    {
+      "name": "Low-sodium vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 tablespoon, chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse the millet under cold running water until the water runs clear, then drain.",
+    "Heat the low-sodium vegetable broth in a medium saucepan until it is just simmering.",
+    "In a large skillet, melt the butter with the olive oil over medium heat. Add the diced onion, carrot, and bell pepper, sautéing until the vegetables soften and begin to brown, about 8-10 minutes, stirring occasionally.",
+    "Add the minced garlic to the skillet and cook for 1 minute until fragrant.",
+    "Stir in the smoked paprika, ensuring the vegetables are evenly coated with the spice.",
+    "Add the rinsed millet to the skillet, stirring to combine. Let the millet toast for 2-3 minutes, uncapped, until it turns a light golden color and releases a nutty aroma.",
+    "Pour the simmering broth over the millet, bring the mixture to a boil, then reduce the heat to low, cover the skillet, and simmer for 20-25 minutes, or until the millet is tender and the liquid has been absorbed.",
+    "Remove the skillet from the heat, fluff the pilaf with a fork, stir in the chopped parsley, season with a pinch of salt if desired, and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "croatian",
+    "pilaf",
+    "millet",
+    "lazy-sunday",
+    "low-sodium",
+    "savory",
+    "dense"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 12,
+    "fat": 7
+  },
+  "slug": "caramelized-croatian-millet-pilaf",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/caramelized-croatian-millet-pilaf",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:32:42Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "dense",
+    "mood": "lazy-sunday",
+    "technique": "caramelize",
+    "primaryIngredient": "millet",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Millet",
+    "descriptor": "Caramelized",
+    "dishForm": "Pilaf"
+  }
+}
