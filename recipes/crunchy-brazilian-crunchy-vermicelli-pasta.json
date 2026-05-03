@@ -1,0 +1,68 @@
+{
+  "title": "Crunchy Brazilian Vermicelli Pasta",
+  "description": "A comforting umami-rich Brazilian dish featuring tender vermicelli pasta with a crispy finish, made halal-friendly with safe cooking practices.",
+  "cuisine": "brazilian",
+  "diet": [
+    "halal",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "vermicelli pasta",
+      "amount": "150g",
+      "notes": "use dry pasta for halal compliance"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "use halal-certified soy sauce"
+    },
+    {
+      ": ": ", "
+    }
+  ],
+  "instructions": [
+    "Boil water in a pot, add 150g vermicelli pasta, and cook according to package instructions (about 8-10 minutes) until al dente.",
+    "In a separate pan, heat 2 tbsp halal-certified soy sauce over medium heat until warm.",
+    "Drain the pasta, then quickly toss with the warm soy sauce to coat evenly.",
+    "For crunch, sprinkle a light layer of toasted sesame seeds over the pasta and let it sit for 2 minutes to achieve a crispy texture."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian",
+    "umami",
+    "crunchy",
+    "pasta",
+    "halal",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 8,
+    "carbs": 35,
+    "fat": 3
+  },
+  "slug": "crunchy-brazilian-crunchy-vermicelli-pasta",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-brazilian-crunchy-vermicelli-pasta",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T04:13:57Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crunchy",
+    "mood": "comforting",
+    "technique": "poach",
+    "primaryIngredient": "vermicelli pasta",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "vermicelli",
+    "descriptor": "crunchy",
+    "dishForm": "Pasta"
+  }
+}
