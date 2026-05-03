@@ -1,0 +1,78 @@
+{
+  "title": "Crispy Mexican Nutmeg Tacos",
+  "description": "A weeknight-friendly mexican taco with crispy tortillas and a floral nutmeg kick, made pressure-cook friendly and fodmap-safe.",
+  "cuisine": "mexican",
+  "diet": [
+    "fodmap-friendly",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pressure-cooked corn tortillas",
+      "amount": "100g",
+      "notes": "fodmap-safe, pre-soaked"
+    },
+    {
+      "name": "ground nutmeg",
+      "amount": "1/4 tsp",
+      "notes": "freshly grated for floral notes"
+    },
+    {
+      "name": "avocado",
+      "amount": "1/2 medium",
+      "notes": "sliced thin"
+    },
+    {
+      "name": "lime",
+      "amount": "1",
+      "notes": "juice for brightness"
+    },
+    {
+      ": ": " "
+    }
+  ],
+  "instructions": [
+    "Soak corn tortillas in water for 5 minutes, then pressure-cook for 2 minutes to crisp.",
+    "In a small bowl, mix ground nutmeg with lime juice and a pinch of salt.",
+    "Layer avocado slices on the crispy tortillas, then drizzle with nutmeg-lime mixture.",
+    "Serve immediately for best texture."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "crispy",
+    "nutmeg",
+    "fodmap-friendly",
+    "lunch",
+    "taco"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "crispy-mexican-nutmeg-tacos",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-mexican-nutmeg-tacos",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T04:11:37Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crispy",
+    "mood": "weeknight",
+    "technique": "pressure-cook",
+    "primaryIngredient": "ground nutmeg",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "nutmeg",
+    "descriptor": "Crispy",
+    "dishForm": "Tacos"
+  }
+}
