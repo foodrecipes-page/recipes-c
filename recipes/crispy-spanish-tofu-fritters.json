@@ -1,0 +1,106 @@
+{
+  "title": "Crispy Spanish Tofu Fritters",
+  "description": "A savory, crispy brunch treat featuring crunchy tofu fritters seasoned with sea salt, smoked paprika, and a bright pickle garnish.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "14 oz (400 g)"
+    },
+    {
+      "name": "chickpea flour",
+      "amount": "1 cup (120 g)"
+    },
+    {
+      "name": "cornmeal",
+      "amount": "1/4 cup (30 g)"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper, freshly ground",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "liquid smoke",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "pickled red onions, diced",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Press the tofu for 20 minutes to remove excess moisture, then crumble it into small chunks.",
+    "In a bowl, whisk together chickpea flour, cornmeal, sea salt, pepper, smoked paprika, garlic powder, onion powder, liquid smoke, and soy sauce until smooth.",
+    "Fold the crumbled tofu into the batter, ensuring each piece is coated. Let the mixture rest for 5 minutes.",
+    "Heat olive oil in a non-stick skillet over medium heat (about 350°F / 175°C) until shimmering.",
+    "Drop spoonfuls of the tofu mixture into the skillet, flattening them slightly with the back of a spatula.",
+    "Cook each fritter for 3-4 minutes per side, or until golden brown and crispy, checking the internal temperature reaches 160°F (71°C).",
+    "Transfer the fritters to a paper towel-lined plate to drain excess oil.",
+    "Serve hot, topped with a spoonful of diced pickled red onions and a drizzle of extra soy sauce if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "brunch",
+    "crispy",
+    "spanish",
+    "tofu",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "crispy-spanish-tofu-fritters",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-spanish-tofu-fritters",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:19:43Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crispy",
+    "mood": "brunch-mood",
+    "technique": "pickle",
+    "primaryIngredient": "sea salt",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Tofu",
+    "descriptor": "Crispy",
+    "dishForm": "Fritters"
+  }
+}
