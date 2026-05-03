@@ -1,0 +1,104 @@
+{
+  "title": "Crispy Tangy Polish Blueberries Salad",
+  "description": "A bright, crunch‑laden salad that balances sweet blueberries with tart vinegar and fresh dill, perfect for a quick, comforting bite on a sick day.",
+  "cuisine": "Polish",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fresh blueberries",
+      "amount": "200 g",
+      "notes": ""
+    },
+    {
+      "name": "chopped kale",
+      "amount": "1 cup",
+      "notes": "stems removed"
+    },
+    {
+      "name": "toasted millet",
+      "amount": "1 tbsp",
+      "notes": "lightly toasted until golden"
+    },
+    {
+      "name": "sliced almonds",
+      "amount": "50 g",
+      "notes": "toast in a dry pan until fragrant"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tbsp",
+      "notes": "use pure for best flavor"
+    },
+    {
+      "name": "fresh dill, chopped",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1/2 tbsp",
+      "notes": "adds bright citrus note"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Wash the blueberries and pat dry with paper towels.",
+    "Blanch the kale in boiling water for 30 seconds, then shock in ice water and squeeze out excess moisture before chopping finely.",
+    "Toast the millet in a dry skillet over medium heat until lightly browned, then set aside to cool.",
+    "In a small bowl, whisk together apple cider vinegar, maple syrup, lemon zest, chopped dill, and sea salt until the mixture emulsifies.",
+    "Heat a dry skillet over medium heat and toast the sliced almonds until golden and fragrant, about 3 minutes; remove and let cool.",
+    "In a large mixing bowl, combine the blueberries, chopped kale, toasted millet, and toasted almonds.",
+    "Pour the dressing over the salad and gently toss to coat everything evenly.",
+    "Serve immediately on two plates for a fresh, crunchy bite."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "dairy-free",
+    "quick",
+    "blueberry",
+    "salad",
+    "sick-day",
+    "polish",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "crispy-tangy-polish-blueberries-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-tangy-polish-blueberries-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:50:48Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crunchy",
+    "mood": "sick-day",
+    "technique": "cure",
+    "primaryIngredient": "blueberries",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "blueberries",
+    "descriptor": "Crispy Tangy",
+    "dishForm": "Salad"
+  }
+}
