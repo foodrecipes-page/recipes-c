@@ -1,0 +1,114 @@
+{
+  "title": "Creamy Tangy Egyptian Yogurt Sandwich",
+  "description": "A quick, nut‑free Egyptian sandwich featuring tangy yogurt, fresh vegetables, and warm pita rolls, perfect for a light lunch or snack.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "nut-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Egyptian whole wheat pita rolls",
+      "amount": "4 small",
+      "notes": "choose soft, fresh rolls for best texture"
+    },
+    {
+      "name": "Plain yogurt",
+      "amount": "1 cup (240 ml)",
+      "notes": "use Greek‑style for thickness"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "2 Tbsp",
+      "notes": "adds bright citrus tang"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove, minced",
+      "notes": "optional, adjust to taste"
+    },
+    {
+      "name": "Fresh dill, chopped",
+      "amount": "1 Tbsp",
+      "notes": "for herbaceous freshness"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "½ tsp",
+      "notes": "adds subtle warmth"
+    },
+    {
+      "name": "Salt",
+      "amount": "¼ tsp",
+      "notes": "season as preferred"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "pinch",
+      "notes": "freshly cracked"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 Tbsp",
+      "notes": "for a silky finish"
+    },
+    {
+      "name": "Cucumber, diced",
+      "amount": "½ cup (85 g)",
+      "notes": "blanch 30 s in boiling water, then ice‑bath"
+    },
+    {
+      "name": "Tomato, diced",
+      "amount": "½ cup (85 g)",
+      "notes": "fresh, ripe"
+    }
+  ],
+  "instructions": [
+    "Whisk the yogurt, lemon juice, minced garlic, dill, cumin, salt, and pepper in a bowl until well blended.",
+    "Fold in the diced tomato and blanched cucumber, mixing gently to combine; cover and chill for 10 min.",
+    "Warm the pita rolls on a skillet over medium heat or in a toaster oven until soft, about 2–3 min per side.",
+    "Slice each roll horizontally to create two halves.",
+    "Spread a generous layer of the yogurt mixture onto the bottom half of each roll.",
+    "Top with the other half and press lightly to hold the filling.",
+    "Drizzle a few drops of olive oil over the sandwich, sprinkle extra dill if desired, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "lunch",
+    "snack",
+    "quick",
+    "nut-free",
+    "vegetarian",
+    "egyptian"
+  ],
+  "nutrition": {
+    "calories": 115,
+    "protein": 8,
+    "carbs": 54,
+    "fat": 6
+  },
+  "slug": "creamy-tangy-egyptian-yogurt-sandwich",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-tangy-egyptian-yogurt-sandwich",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:05:54Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "creamy",
+    "mood": "quick-fix",
+    "technique": "blanch",
+    "primaryIngredient": "bread rolls",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Yogurt",
+    "descriptor": "Creamy Tangy",
+    "dishForm": "Sandwich"
+  }
+}

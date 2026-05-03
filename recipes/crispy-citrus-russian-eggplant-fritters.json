@@ -1,0 +1,121 @@
+{
+  "title": "Crispy Citrus Russian Eggplant Fritters",
+  "description": "Crisp, golden fritters made from tender eggplant, fragrant orange zest, and a splash of lemon, perfect for a midnight craving or light snack.",
+  "cuisine": "Russian-inspired",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium (≈500 g)",
+      "notes": "cut into 1-cm cubes"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium (≈100 g)",
+      "notes": "finely diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "3 tbsp (45 g)",
+      "notes": ""
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup (120 ml)",
+      "notes": "or water"
+    },
+    {
+      "name": "salt",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tbsp (1 tsp per side)",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh dill",
+      "amount": "3 tbsp chopped",
+      "notes": "optional, for garnish"
+    },
+    {
+      "name": "olive oil",
+      "amount": "4 tbsp (for frying)",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "optional, for color"
+    }
+  ],
+  "instructions": [
+    "Wash and dry the eggplant cubes, then sprinkle with half the salt and let them rest for 15 minutes to draw out bitterness; rinse and pat dry again.",
+    "In a bowl, combine the eggplant, onion, garlic, orange zest, lemon juice, smoked paprika, remaining salt, pepper, flour, milk, and the beaten egg; mix until a loose batter forms.",
+    "Heat 2 tablespoons of olive oil in a large skillet over medium-high heat until shimmering.",
+    "Spoon tablespoonfuls of the batter into the skillet, flattening slightly to create small fritters; fry for 3-4 minutes per side until golden and crisp.",
+    "Transfer cooked fritters to a plate lined with paper towels to drain excess oil; sprinkle with chopped dill and drizzle a little more olive oil if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kosher",
+    "citrus",
+    "eggplant",
+    "fritters",
+    "snack",
+    "quick",
+    "russian-inspired"
+  ],
+  "nutrition": {
+    "calories": 110,
+    "protein": 5,
+    "carbs": 15,
+    "fat": 6
+  },
+  "slug": "crispy-citrus-russian-eggplant-fritters",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-citrus-russian-eggplant-fritters",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:05:41Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crisp",
+    "mood": "midnight-craving",
+    "technique": "fry",
+    "primaryIngredient": "eggplant",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Eggplant",
+    "descriptor": "Crispy Citrus",
+    "dishForm": "Fritters"
+  }
+}
