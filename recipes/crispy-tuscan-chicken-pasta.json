@@ -1,0 +1,102 @@
+{
+  "title": "Crispy Tuscan Chicken Pasta",
+  "description": "A fresh and crispy Italian dish featuring chicken, pasta, and blueberries, perfect for a date night. This recipe uses a pressure cooker for efficient cooking.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "penne pasta",
+      "amount": "8 oz"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh blueberries",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried basil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Season the chicken with salt, black pepper, and dried basil.",
+    "Heat the olive oil in the pressure cooker over medium-high heat.",
+    "Add the chicken to the pressure cooker and cook until browned on all sides, about 5 minutes.",
+    "Add the garlic to the pressure cooker and cook for 1 minute.",
+    "Add the penne pasta, blueberries, and balsamic vinegar to the pressure cooker.",
+    "Close the lid and set the valve to 'sealing'. Cook on high pressure for 5 minutes.",
+    "Let the pressure release naturally for 5 minutes, then quick-release any remaining pressure.",
+    "Stir in the parmesan cheese until melted and well combined.",
+    "Serve the chicken and pasta hot, garnished with additional blueberries if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "chicken",
+    "pasta",
+    "blueberries",
+    "date-night",
+    "pressure-cooker"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "crispy-tuscan-chicken-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-tuscan-chicken-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T20:12:23Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crispy",
+    "mood": "date-night",
+    "technique": "pressure-cook",
+    "primaryIngredient": "blueberries",
+    "diet": "nut-free",
+    "region": "tuscan",
+    "cuisineAdjective": "Tuscan",
+    "mainIngredient": "chicken",
+    "descriptor": "fresh crispy",
+    "dishForm": "Pasta"
+  }
+}
