@@ -1,0 +1,87 @@
+{
+  "title": "Crispy German Beans Salad",
+  "description": "A salty, crunchy, light salad combining creamy refried beans with fresh pickles, crispy chickpeas, and a zesty German-inspired dressing.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian",
+    "mediterranean"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "refried beans",
+      "amount": "1 cup (240 ml)",
+      "notes": "canned, low-fat"
+    },
+    {
+      "name": "German dill pickles",
+      "amount": "1/2 cup (120 ml)",
+      "notes": "diced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 Tbsp",
+      "notes": "extra‑virgin"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 Tbsp",
+      "notes": "freshly pressed"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 Tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "crisped chickpeas",
+      "amount": "1/2 cup (120 g)",
+      "notes": "roasted for crunch"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Drain and rinse the refried beans, then warm them gently in a small saucepan or microwave until steaming hot, about 3 minutes.",
+    "In a large bowl, combine the warmed beans, diced pickles, and crushed chickpeas.",
+    "Whisk together olive oil, apple cider vinegar, lemon juice, smoked paprika, salt, and pepper until emulsified, then pour the dressing over the beans and toss to coat evenly.",
+    "Fold in chopped parsley and adjust seasoning with additional salt or pepper if needed.",
+    "Serve immediately with a side of crisp rye bread or as a light lunch on its own."
+  ],
+  "slug": "crispy-german-beans-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-german-beans-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:49:47Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crunchy",
+    "mood": "light",
+    "technique": "pickle",
+    "primaryIngredient": "refried beans",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Beans",
+    "descriptor": "Crispy",
+    "dishForm": "Salad"
+  }
+}
