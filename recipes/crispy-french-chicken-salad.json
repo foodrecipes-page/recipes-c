@@ -1,0 +1,89 @@
+{
+  "title": "Crispy French Chicken Salad",
+  "description": "A playful, savory salad with golden-crisp rosemary chicken, fresh garden greens and a zesty vinaigrette — perfect for kids and nut‑free.",
+  "cuisine": "French",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken breast fillets",
+      "amount": "400g"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "50g"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "25g"
+    },
+    {
+      "name": "dried rosemary",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "¼ tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "mixed salad greens",
+      "amount": "4 cups"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup, halved"
+    },
+    {
+      "name": "cucumber",
+      "amount": "½, sliced"
+    },
+    {
+      "name": "French vinaigrette",
+      "amount": "4 tbsp",
+      "notes": "mix 1 tsp Dijon mustard, 1 tsp honey, 1 tbsp apple cider vinegar, 1 tbsp lemon juice"
+    }
+  ],
+  "instructions": [
+    "Pat the chicken dry and season with salt, pepper, and dried rosemary.",
+    "Set up a dredging station: one bowl of flour, one bowl of beaten eggs, and one bowl of panko breadcrumbs.",
+    "Dip each chicken breast first in flour, then in egg, and finally coat with breadcrumbs.",
+    "Heat 2 tbsp of olive oil in a large skillet over medium‑high heat; brown the chicken for 2‑3 minutes per side.",
+    "Transfer the chicken to a baking sheet and bake at 200°C (400°F) for 15‑18 minutes or until internal temperature reaches 75°C (165°F).",
+    "Let the chicken rest for 5 minutes to settle the juices.",
+    "In a large bowl, toss the salad greens, cherry tomatoes, and cucumber with the French vinaigrette until evenly coated.",
+    "Slice the rested chicken into strips and arrange them on top of the salad.",
+    "Garnish with fresh parsley if desired and serve immediately."
+  ],
+  "slug": "crispy-french-chicken-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-french-chicken-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:18:57Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crisp",
+    "mood": "kid-friendly",
+    "technique": "rest",
+    "primaryIngredient": "rosemary",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Chicken",
+    "descriptor": "Crispy",
+    "dishForm": "Salad"
+  }
+}
