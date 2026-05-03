@@ -1,0 +1,91 @@
+{
+  "title": "Crunchy Spanish Beef Burger",
+  "description": "A savory, crunchy burger with ground beef, pickles, and dairy-free options for a quick sick-day meal.",
+  "cuisine": "spanish",
+  "diet": [
+    "dairy-free",
+    "vegetarian-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "150g",
+      "notes": "80% lean for juiciness"
+    },
+    {
+      "name": "pickles",
+      "amount": "100g",
+      "notes": "diced for crunch"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "smoky flavor"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "butter",
+      "amount": "5g",
+      "notes": "dairy-free alternative"
+    }
+  ],
+  "instructions": [
+    "In a bowl, mix ground beef, paprika, onion, garlic, and olive oil until combined.",
+    "Heat a skillet over medium heat and add the beef mixture, cooking for 5 minutes until browned.",
+    "Add diced pickles and cook for 2 minutes until slightly softened.",
+    "Serve the burger on a crisp bread or lettuce wrap for a crunchy bite."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 7,
+  "totalTimeMin": 12,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "beef",
+    "burger",
+    "crunchy",
+    "sick-day",
+    "dairy-free",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 22,
+    "carbs": 15,
+    "fat": 18
+  },
+  "slug": "crunchy-spanish-beef-burger",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-spanish-beef-burger",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T01:32:48Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crunchy",
+    "mood": "sick-day",
+    "technique": "pickle",
+    "primaryIngredient": "ground beef",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "beef",
+    "descriptor": "Crunchy",
+    "dishForm": "Burger"
+  }
+}
