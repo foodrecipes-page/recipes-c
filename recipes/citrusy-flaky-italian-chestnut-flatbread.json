@@ -1,0 +1,113 @@
+{
+  "title": "Citrusy Flaky Italian Chestnut Flatbread",
+  "description": "A bright, citrus-infused flatbread studded with creamy chestnut spread, baked to a flaky golden perfection.",
+  "cuisine": "Italian",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "200g",
+      "notes": "for dough base"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "5g",
+      "notes": "1 packet"
+    },
+    {
+      "name": "Warm water",
+      "amount": "120ml",
+      "notes": "body of dough"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "20ml",
+      "notes": "leavening and flavor"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "4g",
+      "notes": "taste"
+    },
+    {
+      "name": "Cooked chestnuts",
+      "amount": "150g",
+      "notes": "boiled, peeled, mashed"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp",
+      "notes": "fresh citrus aroma"
+    },
+    {
+      "name": "Orange juice",
+      "amount": "30ml",
+      "notes": "adds brightness"
+    },
+    {
+      "name": "Fresh rosemary",
+      "amount": "1 tsp",
+      "notes": "aroma, optional"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1g",
+      "notes": "finishing touch"
+    }
+  ],
+  "instructions": [
+    "In a bowl, combine flour, yeast, and salt.",
+    "Add warm water and olive oil to dry mixture, mix until sticky dough forms.",
+    "Knead dough on a lightly floured surface for 6-8 minutes until smooth.",
+    "Place dough in a greased bowl, cover, and let rise in a warm spot for 45 minutes.",
+    "While dough rises, mash cooked chestnuts with a fork until smooth.",
+    "Add lemon zest, orange juice, rosemary, and pepper to chestnut mash, mix well.",
+    "Punch down the risen dough, roll it into a 30cm diameter circle.",
+    "Transfer dough to a pizza stone or parchment‑lined tray.",
+    "Spread the chestnut‑citrus mixture evenly over the dough.",
+    "Drizzle a little olive oil over the topping.",
+    "Bake in a preheated oven at 220°C for 12‑15 minutes until the crust is golden and flaky.",
+    "Remove from oven, let cool 5 minutes, slice, and serve warm."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 15,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "flaky",
+    "italian",
+    "flatbread",
+    "chestnut",
+    "sugar-free",
+    "roman"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 5,
+    "carbs": 32,
+    "fat": 6
+  },
+  "slug": "citrusy-flaky-italian-chestnut-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-flaky-italian-chestnut-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:47:35Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "flaky",
+    "mood": "energizing",
+    "technique": "rest",
+    "primaryIngredient": "cooked chestnut",
+    "diet": "sugar-free",
+    "region": "roman",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "chestnut",
+    "descriptor": "Citrusy Flaky",
+    "dishForm": "Flatbread"
+  }
+}
