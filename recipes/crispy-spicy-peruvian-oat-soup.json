@@ -1,0 +1,92 @@
+{
+  "title": "Crispy Spicy Peruvian Oat Soup",
+  "description": "A vibrant, low‑calorie Peruvian soup that balances the heartiness of oats with a fiery kick and a crunchy corn chip topping.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "vegetarian",
+    "low-calorie"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "1 cup (80g)",
+      "notes": "use old-fashioned for better texture"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups (960ml)",
+      "notes": "low-sodium, preferably homemade"
+    },
+    {
+      "name": "sweet potato",
+      "amount": "1 cup diced (200g)",
+      "notes": "cut into 1/2-inch cubes"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium diced (150g)",
+      "notes": "remove seeds"
+    },
+    {
+      "name": "carrot",
+      "amount": "1/2 cup julienned (50g)",
+      "notes": "adds sweetness"
+    },
+    {
+      "name": "kale",
+      "amount": "1/2 cup chopped (30g)",
+      "notes": "stems removed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp (15ml)",
+      "notes": "for sautéing vegetables"
+    },
+    {
+      "name": "sriracha",
+      "amount": "1 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": "adds depth"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp",
+      "notes": "for smoky heat"
+    }
+  ],
+  "instructions": [
+    "In a medium pot, heat the olive oil over medium heat.",
+    "Add the diced sweet potato, red bell pepper, and carrot; sauté for 5 minutes until slightly softened.",
+    "Stir in the ground cumin, smoked paprika, and sriracha; cook for 1 minute to toast the spices.",
+    "Pour in the vegetable broth and bring to a gentle boil.",
+    "Add the rolled oats and let the soup simmer for 10 minutes, stirring occasionally, until the oats are tender.",
+    "Fold in the chopped kale and simmer for an additional 2 minutes until the greens are wilted.",
+    "Taste and adjust seasoning with salt if needed.",
+    "Serve hot, topped with a handful of freshly crushed roasted corn chips for crunch, a squeeze of lime, and a sprinkle of chopped cilantro.",
+    "Enjoy the warming, spicy flavors with a satisfying crispy finish."
+  ],
+  "slug": "crispy-spicy-peruvian-oat-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-spicy-peruvian-oat-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:18:18Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crunchy",
+    "mood": "monsoon",
+    "technique": "reduce",
+    "primaryIngredient": "porridge oats",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "oats",
+    "descriptor": "Crispy Spicy",
+    "dishForm": "Soup"
+  }
+}
