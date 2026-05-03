@@ -1,0 +1,101 @@
+{
+  "title": "Citrusy Tender Portuguese Shrimp Toast",
+  "description": "A bright, citrus-infused shrimp toast with a Portuguese tadka flair, perfect for a date-night dinner on wholegrain bread.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "12",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "extra-virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": "used for marinating and toasting"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "crushed red pepper flakes",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "wholegrain bread",
+      "amount": "4 slices",
+      "notes": "toasted"
+    }
+  ],
+  "instructions": [
+    "Rinse shrimp and pat them dry with paper towels."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "shrimp",
+    "toast",
+    "portuguese",
+    "citrus",
+    "egg-free",
+    "wholegrain",
+    "date-night"
+  ],
+  "nutrition": {
+    "calories": 158,
+    "protein": 7,
+    "carbs": 10,
+    "fat": 13.5
+  },
+  "slug": "citrusy-tender-portuguese-shrimp-toast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-tender-portuguese-shrimp-toast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:30:09Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "tender",
+    "mood": "date-night",
+    "technique": "tadka",
+    "primaryIngredient": "wholegrain bread",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "shrimp",
+    "descriptor": "Citrusy Tender",
+    "dishForm": "Toast"
+  }
+}
