@@ -1,0 +1,119 @@
+{
+  "title": "Cloudy Croatian Rice Stir-fry",
+  "description": "A fluffy, airy rice dish packed with protein, veggies and a silky sweet rice flour glaze, inspired by monsoon skies of Croatia.",
+  "cuisine": "croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "medium grain rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1.5 cups",
+      "notes": ""
+    },
+    {
+      "name": "firm tofu",
+      "amount": "200g",
+      "notes": "cubed"
+    },
+    {
+      "name": "green onion",
+      "amount": "2 stalks",
+      "notes": "sliced"
+    },
+    {
+      "name": "snow peas",
+      "amount": "1 cup",
+      "notes": "trimmed"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "julienned"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sweet rice flour",
+      "amount": "1 tbsp",
+      "notes": "for coating tofu and glaze"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp",
+      "notes": "toasted"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice until water runs clear, then soak it in cold water for 30 minutes.",
+    "Drain the rice, place it in a pot with 1.5 cups water, bring to a boil, then reduce heat to low, cover, and simmer for 15 minutes until fluffy.",
+    "While the rice cooks, heat a wok over high heat and add 1 tbsp sesame oil.",
+    "Add the tofu cubes to the wok, stir-frying until golden on all sides, then remove and set aside.",
+    "In the same wok, add minced garlic and grated ginger, sauté for 30 seconds until fragrant.",
+    "Toss in carrot and snow peas, stir-frying for 2 minutes until crisp-tender.",
+    "Return the tofu to the wok, pour 2 tbsp soy sauce, and stir to coat evenly.",
+    "Sprinkle 1 tbsp sweet rice flour over the mixture, stirring quickly to create a light glaze, then add 1 cup cooked rice and mix thoroughly.",
+    "Sprinkle sliced green onion and toasted sesame seeds over the top, tossing gently to combine.",
+    "Serve hot, optionally drizzle with a splash of sesame oil for extra aroma."
+  ],
+  "prepTimeMin": 35,
+  "cookTimeMin": 25,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cloudy-croatian",
+    "high-protein",
+    "one-pan",
+    "rice-stir-fry",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 156,
+    "protein": 7,
+    "carbs": 19,
+    "fat": 6
+  },
+  "slug": "cloudy-croatian-rice-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/cloudy-croatian-rice-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:30:39Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "aerated",
+    "mood": "monsoon",
+    "technique": "wok-hei",
+    "primaryIngredient": "sweet-rice-flour-chapssalgaru",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "rice",
+    "descriptor": "Cloudy",
+    "dishForm": "Stir-fry"
+  }
+}
