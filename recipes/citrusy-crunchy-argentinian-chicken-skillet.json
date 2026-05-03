@@ -1,0 +1,109 @@
+{
+  "title": "Citrusy Crunchy Argentinian Chicken Skillet",
+  "description": "A hearty and flavorful Argentinian-inspired chicken skillet dish, perfect for a sick day, featuring a citrusy and crunchy texture, with a Mediterranean twist. This dish is made with soda water, sautéed to perfection, and packed with nutrients.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free",
+    "mediterranean"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soda water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the garlic, red bell pepper, and lemon juice to the skillet and cook until the pepper is tender, about 3-4 minutes.",
+    "Add the soda water to the skillet and stir to deglaze, scraping up any browned bits from the bottom of the pan.",
+    "Add the chicken back to the skillet and stir to coat with the citrus sauce.",
+    "In a small bowl, mix together the panko breadcrumbs and parsley.",
+    "Sprinkle the breadcrumb mixture over the top of the chicken and cook until golden brown, about 2-3 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "chicken",
+    "citrus",
+    "crunchy",
+    "skillet",
+    "soda-water"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 22
+  },
+  "slug": "citrusy-crunchy-argentinian-chicken-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-crunchy-argentinian-chicken-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T19:51:48Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crunchy",
+    "mood": "sick-day",
+    "technique": "saute",
+    "primaryIngredient": "soda water",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "chicken",
+    "descriptor": "Citrusy Crunchy",
+    "dishForm": "Skillet"
+  }
+}
