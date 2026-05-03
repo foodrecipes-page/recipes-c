@@ -1,0 +1,100 @@
+{
+  "title": "Citrusy Light Ethiopian Chicken Toast",
+  "description": "A comforting and citrusy Ethiopian dish featuring tender chicken, toasted bread, and a blend of aromatic spices, perfect for a light and satisfying meal. This halal-friendly recipe is easy to make and packed with flavor.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "berbere spice mix",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "whole wheat bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, whisk together lemon juice, olive oil, garlic, ginger, berbere spice mix, salt, and black pepper.",
+    "Add the chicken pieces to the bowl and mix until they are well coated with the marinade.",
+    "Let the chicken marinate for at least 15 minutes.",
+    "Remove the chicken from the marinade and bake in the preheated oven for 20-25 minutes, or until cooked through.",
+    "While the chicken is cooking, toast the bread slices until lightly browned.",
+    "Once the chicken is done, let it rest for a few minutes before slicing it into thin strips.",
+    "Assemble the toast by placing a few slices of chicken on each bread slice, then topping with chopped parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "ethiopian",
+    "chicken",
+    "toast",
+    "comfort-food",
+    "halal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "citrusy-light-ethiopian-chicken-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-light-ethiopian-chicken-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T18:50:28Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "light",
+    "mood": "comforting",
+    "technique": "knead",
+    "primaryIngredient": "toast",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "chicken",
+    "descriptor": "citrusy light",
+    "dishForm": "Toast"
+  }
+}
