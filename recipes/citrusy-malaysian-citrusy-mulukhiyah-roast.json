@@ -1,0 +1,67 @@
+{
+  "title": "Citrusy Malaysian Mulukhiyah Roast",
+  "description": "A silky, citrusy Malaysian mulukhiyah dish featuring roasted vegetables for a lazy Sunday vegetarian meal.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mulukhiyah (mung bean stew)",
+      "amount": "1.5 cups (240g)",
+      "notes": "prepared ahead or cooked fresh"
+    },
+    {
+      "name": "roasted lemon",
+      "amount": "1 large",
+      "notes": "sliced thin"
+    },
+    {
+      ": ": ", "
+    }
+  ],
+  "instructions": [
+    "Combine mulukhiyah and roasted lemon slices in a bowl.",
+    "Gently mix until citrusy flavor enhances the silky texture.",
+    "Serve immediately with a light drizzle of coconut milk (optional)."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "malaysian",
+    "vegetarian",
+    "citrus",
+    "roast",
+    "mulukhiyah",
+    "lazy-sunday"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 6
+  },
+  "slug": "citrusy-malaysian-citrusy-mulukhiyah-roast",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-malaysian-citrusy-mulukhiyah-roast",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T00:14:14Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "silky",
+    "mood": "lazy-sunday",
+    "technique": "roast",
+    "primaryIngredient": "mulukhiyah",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "mulukhiyah",
+    "descriptor": "citrusy",
+    "dishForm": "Roast"
+  }
+}
