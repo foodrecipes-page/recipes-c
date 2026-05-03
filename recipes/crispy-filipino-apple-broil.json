@@ -1,0 +1,83 @@
+{
+  "title": "Crispy Filipino Apple Broil",
+  "description": "A citrusy, crispy, hangover-cure Filipino dish using apple cider vinegar and broiling for a low-fat meal.",
+  "cuisine": "filipino",
+  "diet": [
+    "low-fat",
+    "viral"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "apple",
+      "amount": "1 medium",
+      "notes": "cored, sliced thin"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tbsp",
+      "notes": "for citrusy flavor"
+    },
+    {
+      "name": "broth",
+      "amount": "2 tbsp",
+      ": ": "",
+      "notes": "water or low-sodium broth"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "broiler",
+      "amount": "1",
+      "notes": "on high"
+    }
+  ],
+  "instructions": [
+    "Preheat broiler to high",
+    "Slice apple thinly and core",
+    "In a small bowl, mix apple cider vinegar, broth, and salt",
+    "Place apple slices in the mixture",
+    "Broil for 3-4 minutes until crispy",
+    "Remove from broiler and serve immediately"
+  ],
+  "prepTimeMin": 2,
+  "cookTimeMin": 3,
+  "totalTimeMin": 5,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "crispy",
+    "apple",
+    "broil",
+    "hangover-cure",
+    "low-fat"
+  ],
+  "nutrition": {
+    "calories": 50,
+    "protein": 0,
+    "carbs": 12,
+    "fat": 0
+  },
+  "slug": "crispy-filipino-apple-broil",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-filipino-apple-broil",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T02:38:55Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crispy",
+    "mood": "hangover-cure",
+    "technique": "broil",
+    "primaryIngredient": "apple cider vinegar",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "apple",
+    "descriptor": "crispy",
+    "dishForm": "Broil"
+  }
+}
