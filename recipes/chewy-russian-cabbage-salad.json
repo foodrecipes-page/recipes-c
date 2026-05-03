@@ -1,0 +1,114 @@
+{
+  "title": "Chewy Russian Cabbage Salad",
+  "description": "A tangy, chewy salad perfect for a date night, featuring blanched potatoes, crisp cabbage, and an English mustard vinaigrette.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green cabbage",
+      "amount": "1 medium (shredded)",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "grated"
+    },
+    {
+      "name": "apple",
+      "amount": "1 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "raisins",
+      "amount": "150 g"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "English mustard",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a rolling boil.",
+    "Add the cubed potatoes and blanch for 8 minutes until just tender.",
+    "Drain and rinse the potatoes with cold water to stop the cooking process; set aside to cool.",
+    "In a large mixing bowl, combine shredded cabbage, grated carrots, diced apple, and raisins.",
+    "In a small bowl, whisk together English mustard, apple cider vinegar, olive oil, honey, salt, and pepper until smooth.",
+    "Pour the vinaigrette over the salad and toss gently to coat all ingredients.",
+    "Add the blanched potatoes and chopped dill, and toss again lightly.",
+    "Season with additional salt or pepper if desired.",
+    "Cover and refrigerate for at least 30 minutes to let the flavors meld before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cabbage",
+    "salad",
+    "egg-free",
+    "chewy",
+    "sour",
+    "date-night",
+    "russian",
+    "mustard"
+  ],
+  "nutrition": {
+    "calories": 482,
+    "protein": 4.4,
+    "carbs": 61.7,
+    "fat": 8.5
+  },
+  "slug": "chewy-russian-cabbage-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-russian-cabbage-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:42:11Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "chewy",
+    "mood": "date-night",
+    "technique": "blanch",
+    "primaryIngredient": "english mustard",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "cabbage",
+    "descriptor": "Chewy",
+    "dishForm": "Salad"
+  }
+}

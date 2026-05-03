@@ -1,0 +1,84 @@
+{
+  "title": "Crispy Sour Trout Pancakes",
+  "description": "A Mediterranean-inspired meal-prep dish featuring sour trout mixed with herbs and spices to create crispy pancakes that can be enjoyed as a quick breakfast or snack.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "sauces",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "trout fillets",
+      "amount": "200g"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sour cream (plain)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Combine all ingredients except the trout in a large bowl.",
+    "Knead the mixture until it becomes a thick batter, adding more flour if needed to achieve desired consistency.",
+    "Gently fold fillets into the mixture for even distribution of flavors and spices.",
+    "Heat a non-stick skillet over medium heat. When hot, pour 1/4 cup of the mixture per pancake onto the skillet.",
+    "Cook until golden brown on both sides, about 2-3 minutes per side, flipping carefully with a spatula to prevent breaking the fillets.",
+    "Serve immediately and store any leftovers in an airtight container for up to 2 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "sour",
+    "pancakes",
+    "trout"
+  ],
+  "nutrition": {
+    "calories": 627,
+    "protein": 28,
+    "carbs": 39,
+    "fat": 14
+  },
+  "slug": "crispy-sour-trout-pancakes",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-sour-trout-pancakes",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T17:41:35Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crispy",
+    "mood": "meal-prep",
+    "technique": "knead",
+    "primaryIngredient": "trout",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Sour",
+    "mainIngredient": "Trout",
+    "descriptor": "Crispy",
+    "dishForm": "Pancakes"
+  }
+}
