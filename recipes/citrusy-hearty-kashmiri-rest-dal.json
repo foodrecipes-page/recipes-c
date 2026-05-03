@@ -1,0 +1,116 @@
+{
+  "title": "Citrusy Hearty Kashmiri Rest Dal",
+  "description": "A comforting and flavorful Kashmiri-inspired red lentil dish infused with the brightness of citrus and the warmth of spices. Serve with steaming basmati rice or naan bread for a satisfying meal.",
+  "cuisine": "Kashmiri Indian",
+  "diet": [
+    "vegetarian",
+    "egg-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "split or whole"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon",
+      "notes": "whole"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "red chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "ghee or oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil or ghee in a large pan over medium heat.",
+    "Add cumin seeds and let them sizzle for a few seconds.",
+    "Add chopped onion and sauté until translucent.",
+    "Add grated ginger and minced garlic and sauté for another minute.",
+    "Add red chili powder, turmeric powder, and coriander powder, and sauté for 1 minute.",
+    "Add red lentils, salt, and 4 cups of water, and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20 minutes, or until lentils are tender.",
+    "Stir in lemon juice and adjust seasoning as needed.",
+    "Serve hot garnished with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrus",
+    "comfort-food",
+    "indian",
+    "kashmiri",
+    "lentils",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "citrusy-hearty-kashmiri-rest-dal",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-hearty-kashmiri-rest-dal",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:23:31Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "rest",
+    "primaryIngredient": "red pepper",
+    "diet": "egg-free",
+    "region": "kashmiri",
+    "cuisineAdjective": "Kashmiri",
+    "mainIngredient": "Rest",
+    "descriptor": "Citrusy Hearty",
+    "dishForm": "Dal"
+  }
+}
