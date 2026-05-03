@@ -1,0 +1,108 @@
+{
+  "title": "Creamy American Beans Stew",
+  "description": "A hearty, midnight-craving stew packed with black and kidney beans, smoked paprika, and a velvety oat milk base, perfect for a comforting dinner.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black beans",
+      "amount": "1 can (15 oz), drained"
+    },
+    {
+      "name": "kidney beans",
+      "amount": "1 can (15 oz), drained"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "oat milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add diced onion and cook until translucent, about 5 minutes.",
+    "Stir in minced garlic, smoked paprika, and ground cumin; cook for 1 minute until fragrant.",
+    "Add tomato paste and cook for another 30 seconds, swirling to combine.",
+    "Pour in vegetable broth and bring to a gentle simmer.",
+    "Add drained black beans and kidney beans; stir well.",
+    "Reduce heat to low, cover, and let simmer for 20 minutes to meld flavors.",
+    "Stir in oat milk and season with salt and pepper; simmer uncovered for an additional 5 minutes until creamy.",
+    "Taste and adjust seasoning if needed, adding more salt or pepper.",
+    "Serve hot, optionally topped with fresh cilantro or a squeeze of lime for extra brightness."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bean-based",
+    "comfort-food",
+    "midnight-craving",
+    "nut-free",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 48,
+    "fat": 12
+  },
+  "slug": "creamy-american-beans-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-american-beans-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:38:00Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "chewy",
+    "mood": "midnight-craving",
+    "technique": "ferment",
+    "primaryIngredient": "paprika",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "beans",
+    "descriptor": "Creamy",
+    "dishForm": "Stew"
+  }
+}
