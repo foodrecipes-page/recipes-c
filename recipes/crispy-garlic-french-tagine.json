@@ -1,0 +1,85 @@
+{
+  "title": "Crispy Garlic French Tagine",
+  "description": "This adventurous low-carb-friendly dish features garlic, turmeric, and a tandoor-inspired twist, with its crunchy texture making it an excellent side or main course.",
+  "cuisine": "French",
+  "diet": [
+    "low-carb",
+    "gut-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "300 grams boneless chicken breast fillets",
+      "amount": "pieces"
+    },
+    {
+      "name": "1 large onion, sliced thinly",
+      "amount": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon ground turmeric",
+      "amount": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": ""
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 200°C (392°F).",
+    "Season the chicken with turmeric, salt, and pepper on both sides.",
+    "Heat the olive oil in a large skillet over medium-high heat. Add the chicken pieces and cook until golden brown on all sides (about 5 minutes per side). Remove from heat.",
+    "In the same pan, add sliced onions to the reserved cooking fat. Cook until translucent (about 3-4 minutes), stirring occasionally.",
+    "Return the chicken to the skillet along with minced garlic. Stir well to coat the pieces evenly with the onion mixture and cook for an additional minute.",
+    "Transfer the dish to a baking sheet lined with parchment paper. Top with fresh ground black pepper on top of each piece of chicken.",
+    "Bake in preheated oven for 15 minutes or until the juices run clear when cut into. Serve hot as a main course."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "garlic",
+    "crispy",
+    "french",
+    "tandoori",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 289,
+    "protein": 31,
+    "carbs": 7,
+    "fat": 16
+  },
+  "slug": "crispy-garlic-french-tagine",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-garlic-french-tagine",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T09:36:46Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crisp",
+    "mood": "adventurous",
+    "technique": "tandoor",
+    "primaryIngredient": "turmeric",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Garlic",
+    "descriptor": "Crispy",
+    "dishForm": "Tagine"
+  }
+}
