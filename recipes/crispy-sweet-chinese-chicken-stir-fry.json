@@ -1,0 +1,102 @@
+{
+  "title": "Crispy Sweet Chinese Chicken Stir‑Fry",
+  "description": "A light, sweet-and-spicy dish with crisp chicken, fresh vegetables and a touch of red pepper flakes.",
+  "cuisine": "Chinese",
+  "diet": [
+    "Halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken breast",
+      "amount": "400 g",
+      "notes": "cut into bite‑size pieces"
+    },
+    {
+      "name": "all‑purpose flour",
+      "amount": "50 g"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "30 g"
+    },
+    {
+      "name": "egg, beaten",
+      "amount": "1 large"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sugar, brown",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "soy sauce, low‑sodium",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "green onion, sliced",
+      "amount": "2 stalks"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a wok over medium‑high heat until shimmering.",
+    "Meanwhile, combine flour, cornstarch, salt and pepper in a shallow bowl. Dredge chicken pieces in the flour mixture, shake off excess and dip in beaten egg, then back into flour for a double coating; set aside."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "halal-friendly",
+    "stir-fry",
+    "chicken",
+    "sweet",
+    "crispy",
+    "light",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 30,
+    "carbs": 35,
+    "fat": 15
+  },
+  "slug": "crispy-sweet-chinese-chicken-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-sweet-chinese-chicken-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:54:47Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "stir-fry",
+    "primaryIngredient": "red pepper flakes",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Chicken",
+    "descriptor": "Crispy Sweet",
+    "dishForm": "Stir-fry"
+  }
+}
