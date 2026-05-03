@@ -1,0 +1,115 @@
+{
+  "title": "Crispy Tangy Ukrainian Chicken Bowl",
+  "description": "A high‑protein, post‑workout bowl featuring sous‑vide chicken, crunchy shallots, bright lemon‑paprika sauce, and nutty buckwheat, all topped with a dollop of sour cream and fresh dill.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "high-protein",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "skin‑less chicken breasts",
+      "amount": "1 lb (450 g)",
+      "notes": "cut into 1‑inch pieces"
+    },
+    {
+      "name": "shallots",
+      "amount": "4 medium",
+      "notes": "peeled and sliced thinly"
+    },
+    {
+      "name": "lemon",
+      "amount": "1 medium",
+      "notes": "zest and juice"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tablespoon of olive oil",
+      "amount": "1 Tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "buckwheat berries",
+      "amount": "1 cup (170 g)",
+      "notes": "rinse and cook according to package"
+    },
+    {
+      "name": "sour cream",
+      "amount": "2 Tbsp"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "2 Tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Season the chicken pieces with salt, pepper, smoked paprika, minced garlic, and half of the lemon zest.",
+    "Place seasoned chicken in a vacuum‑seal bag or a zip‑lock bag and add a tablespoon of olive oil. Seal the bag using the water‑displacement method.",
+    "Set your sous‑vide immersion circulator to 145 °F (63 °C) and cook the chicken for 1 hour 30 minutes.",
+    "While the chicken cooks, rinse the buckwheat berries and cook them according to package instructions; usually 15 minutes in salted water, then drain.",
+    "After the sous‑vide time, remove chicken from the bag and pat dry with paper towels. Heat a large skillet over high heat, add a splash of oil, and sear the chicken until a crisp golden crust forms, about 2 minutes per side.",
+    "Meanwhile, in a small pan, sauté the sliced shallots in a teaspoon of butter until caramelized, about 5 minutes. Stir in the remaining lemon zest and juice to finish the sauce.",
+    "To assemble the bowl, place a scoop of cooked buckwheat at the bottom, top with the crispy chicken, and drizzle the shallot‑lemon sauce over the top.",
+    "Finish with a dollop of sour cream and a sprinkle of fresh dill.",
+    "Serve hot and enjoy the burst of tangy, crunchy flavors."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 90,
+  "totalTimeMin": 100,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "tangy",
+    "ukrainian",
+    "post-workout",
+    "high-protein",
+    "sous-vide",
+    "bowl",
+    "buckwheat",
+    "shallots",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 55,
+    "carbs": 45,
+    "fat": 20
+  },
+  "slug": "crispy-tangy-ukrainian-chicken-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-tangy-ukrainian-chicken-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:46:28Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crunchy",
+    "mood": "post-workout",
+    "technique": "sous-vide",
+    "primaryIngredient": "shallots",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "chicken",
+    "descriptor": "Crispy Tangy",
+    "dishForm": "Bowl"
+  }
+}

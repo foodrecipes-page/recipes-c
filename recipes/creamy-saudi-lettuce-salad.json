@@ -1,0 +1,68 @@
+{
+  "title": "Creamy Saudi Lettuce Salad",
+  "description": "A refreshing, low‑fat lettuce salad with a creamy umami dressing that captures the flavors of Saudi Arabia in a solo‑dinner dish.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian",
+    "low-fat-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Romaine lettuce",
+      "amount": "200 g",
+      "notes": "chopped into bite‑size pieces"
+    },
+    {
+      "name": "Low‑fat plain Greek yogurt",
+      "amount": "1/2 cup (120 ml)",
+      "notes": "plain, no added sugar"
+    },
+    {
+      "name": "Low‑sodium soy sauce",
+      "amount": "1 tbsp (15 ml)",
+      "notes": "for umami depth"
+    },
+    {
+      "name": "Tamarind paste",
+      "amount": "1 tsp (5 ml)",
+      "notes": "adds a subtle sour twist"
+    },
+    {
+      "name": "Honey or date syrup",
+      "amount": "1 tsp (5 ml)",
+      "notes": "light sweetener"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "1 clove",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Wash and dry the romaine lettuce, then chop into bite‑size pieces and place in a large bowl.",
+    "In a small bowl whisk together the Greek yogurt, soy sauce, tamarind paste, honey, garlic, cumin, coriander, lemon juice, and a pinch of sea salt until well combined.",
+    "Pour the dressing over the lettuce and toss gently until all leaves are coated.",
+    "Add the chopped mint, parsley, and toasted sesame seeds, then toss again lightly.",
+    "Let the salad chill in the refrigerator for 5 minutes to allow flavors to meld.",
+    "Serve immediately, garnished with an extra sprinkle of sesame seeds if desired."
+  ],
+  "slug": "creamy-saudi-lettuce-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-saudi-lettuce-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:47:16Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "creamy",
+    "mood": "solo-dinner",
+    "technique": "temper",
+    "primaryIngredient": "lettuce",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Saudi",
+    "mainIngredient": "lettuce",
+    "descriptor": "Creamy",
+    "dishForm": "Salad"
+  }
+}

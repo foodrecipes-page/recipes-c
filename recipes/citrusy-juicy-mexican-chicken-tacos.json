@@ -1,0 +1,124 @@
+{
+  "title": "Citrusy Juicy Mexican Chicken Tacos",
+  "description": "A twist on traditional Mexican chicken tacos, featuring a zesty and flavorful panang curry paste with a hint of citrus and caramelized onions.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "4 pounds",
+      "notes": ""
+    },
+    {
+      "name": "panang curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "caramelize before use"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "orange juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10 corn tortillas",
+      "notes": ""
+    },
+    {
+      "name": "avocado or guacamole",
+      "amount": "optional",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the chicken into bite-sized pieces and season with salt, pepper, cumin, and paprika. Set aside.",
+    "In a large pan, heat the olive oil over medium heat. Add the chicken and cook until browned on all sides, about 5-7 minutes. Remove the chicken from the pan and set aside.",
+    "Add the onion to the pan and caramelize for 10-12 minutes, stirring occasionally.",
+    "Add the garlic to the pan and cook for 1 minute, stirring constantly.",
+    "Stir in the panang curry paste and cook for 1-2 minutes, until fragrant.",
+    "Add the lime and orange juice to the pan and stir to combine.",
+    "Add the cooked chicken back to the pan and stir to coat with the curry sauce.",
+    "Cook the chicken in the sauce for an additional 5-7 minutes, until cooked through.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing the chicken onto the tortillas and topping with avocado or guacamole, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "chicken",
+    "tacos",
+    "citrusy",
+    "juicy",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "citrusy-juicy-mexican-chicken-tacos",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-juicy-mexican-chicken-tacos",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:47:06Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "juicy",
+    "mood": "meal-prep",
+    "technique": "caramelize",
+    "primaryIngredient": "panang curry paste",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chicken",
+    "descriptor": "citrusy juicy",
+    "dishForm": "Tacos"
+  }
+}
