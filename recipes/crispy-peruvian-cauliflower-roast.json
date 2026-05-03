@@ -1,0 +1,105 @@
+{
+  "title": "Crispy Peruvian Cauliflower Roast",
+  "description": "A floral, crunchy, romantic Peruvian-inspired vegan dish featuring oven‑roasted cauliflower tossed with Peruvian spices and finished with lime‑cilantro.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "paleo",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cauliflower",
+      "amount": "1 head (about 900g), cut into florets"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "ají amarillo paste",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lime",
+      "amount": "1, juiced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup, chopped",
+      "notes": "optional for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C) and line a rimmed baking sheet with parchment paper.",
+    "In a large bowl, whisk together the olive oil, ají amarillo paste, smoked paprika, cumin, garlic powder, salt, and pepper until well combined.",
+    "Add the cauliflower florets to the bowl and toss until each floret is evenly coated with the spice mixture.",
+    "Spread the cauliflower in a single layer on the prepared baking sheet, making sure the florets are not overcrowded.",
+    "Roast in the preheated oven for 20 minutes, flipping the florets halfway through to promote even browning.",
+    "Remove the baking sheet from the oven and transfer the cauliflower to a serving dish.",
+    "Squeeze the lime juice over the roasted cauliflower, then sprinkle with chopped cilantro if using.",
+    "Toss gently to coat, then serve immediately while the cauliflower is still crisp.",
+    "Optional: Garnish with additional lime wedges and a sprinkle of sea salt for extra flavor.",
+    "Enjoy the floral aroma and crunchy texture of this Peruvian-inspired vegan dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "cauliflower-roast",
+    "paleo-friendly",
+    "vegan",
+    "gluten-free",
+    "crunchy",
+    "floral",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 405,
+    "protein": 8,
+    "carbs": 10,
+    "fat": 38
+  },
+  "slug": "crispy-peruvian-cauliflower-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-peruvian-cauliflower-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:55:22Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crunchy",
+    "mood": "romantic",
+    "technique": "roast",
+    "primaryIngredient": "roasted vegetables",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "cauliflower",
+    "descriptor": "Crispy",
+    "dishForm": "Roast"
+  }
+}
