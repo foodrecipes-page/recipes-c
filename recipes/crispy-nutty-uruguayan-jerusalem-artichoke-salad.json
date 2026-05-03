@@ -1,0 +1,89 @@
+{
+  "title": "Crispy Nutty Uruguayan Jerusalem Artichoke Salad",
+  "description": "A fresh, low‑carb salad that blends tender poached Jerusalem artichokes with toasted walnuts and a zesty lemon‑mustard vinaigrette, perfect for a light lunch or dinner.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jerusalem artichokes",
+      "amount": "500 g",
+      "notes": "sliced into 1/2‑inch rounds"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Pecans, toasted",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Wash and peel the Jerusalem artichokes, then slice them into 1/2‑inch rounds; rinse in cold water and pat dry.",
+    "Bring a pot of salted water to a gentle boil, reduce to a simmer, and poach the artichokes for 5–7 minutes until just tender.",
+    "Drain the artichokes and immediately transfer them to a bowl of ice water to stop the cooking; then drain again and pat dry.",
+    "Whisk together olive oil, lemon juice, Dijon mustard, salt, and pepper in a small bowl to create the vinaigrette.",
+    "Gently toss the warm artichokes with the vinaigrette until evenly coated.",
+    "Fold in the toasted pecans and chopped parsley, reserving a few nuts for garnish.",
+    "Serve the salad at room temperature or slightly chilled, garnished with the remaining nuts. Enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "low-carb",
+    "uruguayan",
+    "salad",
+    "nutty",
+    "jerusalem-artichoke"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "crispy-nutty-uruguayan-jerusalem-artichoke-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-nutty-uruguayan-jerusalem-artichoke-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:42:22Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crisp",
+    "mood": "light",
+    "technique": "poach",
+    "primaryIngredient": "jerusalem artichokes",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Jerusalem Artichoke",
+    "descriptor": "Crispy Nutty",
+    "dishForm": "Salad"
+  }
+}
