@@ -1,0 +1,112 @@
+{
+  "title": "Crispy Greek Chicken Skewers",
+  "description": "Nutty and crunchy Greek chicken skewers marinated with pul biber and grilled to perfection, topped with toasted walnuts and fresh mint for a romantic, kosher-friendly feast.",
+  "cuisine": "Greek",
+  "diet": [
+    "kosher",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken thighs",
+      "amount": "1.5 lbs",
+      "notes": "cut into 1.5-inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp",
+      "notes": "plus extra for brushing"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pul biber",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "walnuts, toasted",
+      "amount": "1/4 cup",
+      "notes": "crushed lightly"
+    },
+    {
+      "name": "fresh mint, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "skewers",
+      "amount": "4",
+      "notes": "wooden, soaked 30 min or metal"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium‑high (450°F/232°C).",
+    "Whisk olive oil, lemon juice, garlic, oregano, pul biber, salt, pepper, and honey in a bowl.",
+    "Add chicken and toss to coat; marinate in the refrigerator for 30 minutes.",
+    "Thread chicken onto skewers, leaving 1 inch between pieces.",
+    "Brush grill grates with oil and place skewers on the grill.",
+    "Grill 8‑10 minutes, turning every 2‑3 minutes, until internal temperature reaches 165°F (74°C).",
+    "Meanwhile, toast walnuts in a dry skillet over medium heat for 2‑3 minutes until fragrant; set aside.",
+    "Remove skewers, let rest 5 minutes, then drizzle remaining glaze over them. Garnish with toasted walnuts and fresh mint. Serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek-cuisine",
+    "kosher-friendly",
+    "grilled",
+    "chicken",
+    "skewers",
+    "nutty",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 484,
+    "protein": 44,
+    "carbs": 6,
+    "fat": 32
+  },
+  "slug": "crispy-greek-chicken-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-greek-chicken-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:14:36Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crunchy",
+    "mood": "romantic",
+    "technique": "grill",
+    "primaryIngredient": "pul biber",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Chicken",
+    "descriptor": "Crispy",
+    "dishForm": "Skewers"
+  }
+}
