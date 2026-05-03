@@ -1,0 +1,107 @@
+{
+  "title": "Crispy Sweet Brazilian Mango Salad",
+  "description": "A vibrant Brazilian mango salad with sweet poached mango, crunchy chickpeas, and a creamy vegan mayo dressing, perfect for monsoon-season afternoons.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mango",
+      "amount": "2 medium ripe mangoes, peeled, sliced into 1/4-inch rounds"
+    },
+    {
+      "name": "Lime",
+      "amount": "1 lime (juiced, 2 tbsp)",
+      "notes": "fresh juice"
+    },
+    {
+      "name": "Agave syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegan mayonnaise",
+      "amount": "1/2 cup (120 g)",
+      "notes": "use your favorite brand"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/4 medium, thinly sliced"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2 small cucumber, diced"
+    },
+    {
+      "name": "Roasted chickpeas",
+      "amount": "1 cup (240 g) roasted",
+      "notes": "toss chickpeas with 1 tbsp coconut oil, pinch salt and paprika; spread on a baking sheet and roast at 400°F (200°C) for 20 minutes until golden"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Pepper",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss chickpeas with coconut oil, salt, and paprika. Spread on a baking sheet and roast 20 minutes until golden and crunchy. Let cool slightly.",
+    "In a shallow dish, place mango slices. In a small saucepan, combine lime juice and agave syrup, heat gently until syrup is warm (do not boil). Drizzle warm syrup over mango slices and let sit for 3 minutes. Remove and set aside.",
+    "In a small bowl, whisk vegan mayonnaise with a splash of lime juice, salt, and pepper until creamy. (Optional: add a pinch of sugar if you prefer a sweeter dressing).",
+    "In a large salad bowl, combine cucumber, red onion, chopped cilantro, and poached mango slices. Toss gently with the mayo dressing until evenly coated.",
+    "Sprinkle roasted chickpeas over the salad and give a final gentle toss.",
+    "Serve immediately, garnished with extra cilantro or a lime wedge if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "gluten-free",
+    "salad",
+    "summer",
+    "brazilian",
+    "crunchy",
+    "sweet",
+    "fruit",
+    "mango",
+    "poached",
+    "mayonnaise",
+    "chickpeas"
+  ],
+  "nutrition": {
+    "calories": 630,
+    "protein": 6,
+    "carbs": 42,
+    "fat": 23
+  },
+  "slug": "crispy-sweet-brazilian-mango-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-sweet-brazilian-mango-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:25:45Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crunchy",
+    "mood": "monsoon",
+    "technique": "poach",
+    "primaryIngredient": "mayonnaise",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Mango",
+    "descriptor": "Crispy Sweet",
+    "dishForm": "Salad"
+  }
+}
