@@ -1,0 +1,104 @@
+{
+  "title": "Crunchy Argentinian Beef Empanadas",
+  "description": "A kid-friendly Argentinian dish featuring crispy, air-fried empanadas filled with seasoned beef and red onions, perfect for a snack or light meal. The combination of crunchy exterior and savory filling makes for a delightful treat.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "kid-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": "For empanada dough"
+    },
+    {
+      "name": "Ground beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "Beaten, for egg wash"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup",
+      "notes": "For empanada dough"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": "For brushing empanadas"
+    },
+    {
+      "name": "Shredded cheese (optional)",
+      "amount": "1/2 cup",
+      "notes": "For extra flavor"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour and salt. Gradually add water, mixing until a dough forms.",
+    "Knead the dough for 5 minutes until smooth, then cover and let rest for 30 minutes.",
+    "In a separate bowl, mix ground beef, chopped red onion, paprika, salt, and black pepper.",
+    "Divide the rested dough into 8-10 equal pieces. Roll each into a thin circle.",
+    "Place a tablespoon of the beef mixture onto the center of each dough circle. If using cheese, sprinkle on top of the beef.",
+    "Fold the dough over the filling, forming a half-moon shape, and press the edges together to seal.",
+    "Brush the tops of the empanadas with olive oil and beaten egg for a golden glaze.",
+    "Preheat an air fryer to 375°F (190°C). Cook the empanadas in batches if necessary, for 5-7 minutes or until crispy and golden.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "beef-empanadas",
+    "kid-friendly",
+    "air-fryer-recipes",
+    "snack-ideas"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "crunchy-argentinian-beef-empanadas",
+  "source": "groq-llama-3.3-70b-versatile",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-argentinian-beef-empanadas",
+  "providerUsed": "groq-llama-3.3-70b-versatile",
+  "createdAt": "2026-05-03T16:27:10Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crunchy",
+    "mood": "kid-friendly",
+    "technique": "air-fry",
+    "primaryIngredient": "red onions",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "crunchy",
+    "dishForm": "Empanadas"
+  }
+}
