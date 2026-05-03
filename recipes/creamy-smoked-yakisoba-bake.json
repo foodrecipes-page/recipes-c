@@ -1,0 +1,98 @@
+{
+  "title": "Creamy Smoked Yakisoba Bake",
+  "description": "A crowd-pleasing Malaysian dish featuring a creamy fermented base with birds-eye chili, baked to perfection and kosher-friendly.",
+  "cuisine": "Malaysian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yakisoba sheets",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Fermented tofu paste",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "200ml"
+    },
+    {
+      "name": "Baked smoked salmon pieces",
+      "amount": "6 slices"
+    },
+    {
+      "name": "Bird's eye chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ginger, minced",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Kosher salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "White pepper powder",
+      "amount": "pinch"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Spread the fermented tofu paste evenly over one side of a single sheet of yakisoba.",
+    "Top with smoked salmon slices, sprinkling the bird's eye chili flakes and ginger mixture over it.",
+    "Drizzle soy sauce, salt, and white pepper powder over the salmon and paste combination. Drizzle olive oil on top for extra flavor.",
+    "Place another sheet of yakisoba directly on top of the layers without touching the filling to prevent burning.",
+    "Brush the entire surface with a little bit of olive oil before baking.",
+    "Bake in preheated oven for about 15 minutes until edges are golden brown and crispy.",
+    "Serve warm as an excellent dinner option."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "creamy",
+    "smoked_yakisoba",
+    "fermented_tofu",
+    "baked_salmon"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 31,
+    "carbs": 62,
+    "fat": 48
+  },
+  "slug": "creamy-smoked-yakisoba-bake",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-smoked-yakisoba-bake",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T16:50:01Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "creamy",
+    "mood": "crowd-pleaser",
+    "technique": "bake",
+    "primaryIngredient": "birds-eye chillies",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Yakisoba",
+    "descriptor": "Creamy Smoked",
+    "dishForm": "Bake"
+  }
+}
