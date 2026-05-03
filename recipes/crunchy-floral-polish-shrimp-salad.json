@@ -1,0 +1,104 @@
+{
+  "title": "Crunchy Floral Polish Shrimp Salad",
+  "description": "A nostalgic Polish salad featuring tender sous‑vade shrimp, crunchy toasted sunflower seeds, and delicate edible flowers, all balanced in a bright, sugar‑free vinaigrette.",
+  "cuisine": "Polish",
+  "diet": [
+    "sugar-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fresh shrimp, peeled and deveined",
+      "amount": "200g"
+    },
+    {
+      "name": "Dried shrimp, rehydrated",
+      "amount": "30g",
+      "notes": "Soaked in warm water 10 min, then drained"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Edible violets (or marigold petals)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Toasted sunflower seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt, to taste"
+    },
+    {
+      "name": "Fresh ground black pepper, to taste"
+    }
+  ],
+  "instructions": [
+    "Rehydrate the dried shrimp by soaking them in warm water for 10 minutes, then drain thoroughly.",
+    "Place the fresh shrimp and the rehydrated dried shrimp in a vacuum‑sealed bag with olive oil, a pinch of salt, and pepper; seal the bag.",
+    "Cook the bagged shrimp sous‑vade at 54 °C (129 °F) for 15 minutes.",
+    "While the shrimp cook, toast the sunflower seeds in a dry skillet over medium heat until golden, about 3–4 minutes; set aside to cool.",
+    "Whisk apple cider vinegar, Dijon mustard, salt, and pepper in a small bowl to create the vinaigrette.",
+    "When the shrimp are done, remove the bag, pat the shrimp dry, and slice them into bite‑size pieces.",
+    "In a serving bowl, combine the shrimp, vinaigrette, chopped parsley, and edible violets; toss gently to coat.",
+    "Sprinkle the toasted sunflower seeds on top for added crunch.",
+    "Adjust seasoning with extra salt or pepper as desired.",
+    "Serve immediately over a bed of mixed greens or cucumber ribbons for extra freshness."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "sugar-free",
+    "low-carb",
+    "polish",
+    "salad",
+    "shrimp",
+    "sous-vide",
+    "crunchy",
+    "floral",
+    "healthy",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 45,
+    "carbs": 3,
+    "fat": 18
+  },
+  "slug": "crunchy-floral-polish-shrimp-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-floral-polish-shrimp-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T16:54:47Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crunchy",
+    "mood": "nostalgic",
+    "technique": "sous-vide",
+    "primaryIngredient": "dried shrimp",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Shrimp",
+    "descriptor": "Crunchy Floral",
+    "dishForm": "Salad"
+  }
+}
