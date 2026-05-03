@@ -1,0 +1,107 @@
+{
+  "title": "Creamy Moroccan Tofu Tagine",
+  "description": "A rich, light, and lazy-sunday Moroccan dish featuring marinated tofu simmered in a fragrant tomato sauce and finished with a silky cashew‑coconut cream.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "Jain",
+    "Vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "400g"
+    },
+    {
+      "name": "spice mix",
+      "amount": "1 tbsp",
+      "notes": "turmeric, cumin, coriander, smoked paprika, ginger, salt"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "chopped tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped zucchini",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped bell pepper",
+      "amount": "1 cup"
+    },
+    {
+      "name": "canned chickpeas, drained",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "½ cup"
+    },
+    {
+      "name": "cashew cream",
+      "amount": "¼ cup",
+      "notes": "blend cashews with water until smooth"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "2 tbsp",
+      "notes": "for garnish"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "3 cups"
+    }
+  ],
+  "instructions": [
+    "Press the tofu to remove excess moisture and cut into 2cm cubes.",
+    "In a bowl, combine tofu with the spice mix and olive oil; let marinate for 15 minutes.",
+    "Place the pressure cooker on medium heat, sauté the tofu until golden on all sides.",
+    "Add the chopped tomatoes, zucchini, bell pepper, and chickpeas; stir for 2 minutes.",
+    "Pour in the coconut milk, cashew cream, and vegetable broth; stir to combine.",
+    "Seal the cooker and cook at high pressure for 5 minutes.",
+    "Quick‑release the pressure, stir the tagine, and adjust seasoning if needed.",
+    "Serve hot, garnished with chopped cilantro, alongside couscous or warm flatbread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "creamy-moroccan",
+    "tofu",
+    "tagine",
+    "jain-friendly",
+    "vegan",
+    "pressure-cook",
+    "lazy-sunday"
+  ],
+  "nutrition": {
+    "calories": 1400,
+    "protein": 46,
+    "carbs": 96,
+    "fat": 63
+  },
+  "slug": "creamy-moroccan-tofu-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-moroccan-tofu-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:01:32Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "light",
+    "mood": "lazy-sunday",
+    "technique": "pressure-cook",
+    "primaryIngredient": "marinated tofu",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "tofu",
+    "descriptor": "Creamy",
+    "dishForm": "Tagine"
+  }
+}
