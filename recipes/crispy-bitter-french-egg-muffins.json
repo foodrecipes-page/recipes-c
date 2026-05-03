@@ -1,0 +1,110 @@
+{
+  "title": "Crispy Bitter French Egg Muffins",
+  "description": "A cozy French-inspired breakfast featuring crispy, savory muffins packed with bitter kale, Parmesan, and a touch of lemon zest.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "large eggs",
+      "amount": "6",
+      "notes": "room temperature"
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "amount": "100g"
+    },
+    {
+      "name": "chopped kale",
+      "amount": "200g",
+      "notes": "bitter green, wilted"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for muffin cups"
+    },
+    {
+      "name": "milk (or unsweetened almond milk)",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "50g"
+    },
+    {
+      "name": "fresh chives",
+      "amount": "1 tbsp",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F) and line a muffin tin with parchment paper.",
+    "In a pan, sauté the chopped kale in a splash of olive oil until just wilted, then set aside to cool slightly.",
+    "Whisk the eggs with milk, salt, pepper, thyme, Dijon mustard, and lemon zest until well combined.",
+    "Fold in the warm kale, grated Parmesan, and breadcrumbs, mixing until evenly distributed.",
+    "Divide the batter evenly among the 12 muffin cups, pressing down slightly, and drizzle a teaspoon of olive oil into each cup to promote crispness.",
+    "Bake for 12-15 minutes, or until the tops are golden and the centers are set.",
+    "Remove from oven and allow the muffins to cool in the tin for 5 minutes before transferring to a wire rack.",
+    "Garnish with chopped fresh chives if desired and serve warm or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "vegetarian",
+    "egg",
+    "bitter",
+    "crispy",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 64,
+    "carbs": 96,
+    "fat": 64
+  },
+  "slug": "crispy-bitter-french-egg-muffins",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-bitter-french-egg-muffins",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:57:17Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crispy",
+    "mood": "cozy",
+    "technique": "poach",
+    "primaryIngredient": "muffins",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "egg",
+    "descriptor": "Crispy Bitter",
+    "dishForm": "Muffins"
+  }
+}
