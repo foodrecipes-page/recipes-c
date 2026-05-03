@@ -1,0 +1,85 @@
+{
+  "title": "Crispy Malaysian Almond Pancakes",
+  "description": "These kid-friendly crisperies are nutty and crispy, featuring coconut milk and a touch of spicy pickle. They're perfect for a quick breakfast or snack.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "paleo-friendly pickle",
+      "amount": "1 tsp, finely chopped"
+    },
+    {
+      "name": "ground peanuts or almonds for topping (optional)",
+      "amount": ""
+    },
+    {
+      "name": "nutritional yeast (for vegan option)",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine almond flour, coconut milk, lime juice, and sugar. Stir until well combined.",
+    "Stir in the finely chopped pickle to add a tangy flavor and texture.",
+    "If using nut butter for topping, mix it into the batter along with some of the pickle. Otherwise, add just the pickled ingredients to taste.",
+    "Heat a nonstick skillet or griddle over medium heat. Grease lightly with coconut oil or avocado oil to prevent sticking.",
+    "Pour about 1/4 cup of batter onto the heated pan and swirl around to make it thin. Cook until bubbles form on top and edges are golden, about 2-3 minutes. Remove from heat and serve warm.",
+    "To serve, you can sprinkle with optional toppings like ground peanuts or a dash of nutritional yeast for vegan options."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 4,
+  "totalTimeMin": 9,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "nutty",
+    "kid-friendly",
+    "malaysian",
+    "coconut-milk",
+    "pickle",
+    "paleo"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 6,
+    "fat": 7
+  },
+  "slug": "crispy-malaysian-almond-pancakes",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-malaysian-almond-pancakes",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T10:46:30Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crisp",
+    "mood": "kid-friendly",
+    "technique": "pickle",
+    "primaryIngredient": "coconut milk",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "almonds",
+    "descriptor": "Crispy",
+    "dishForm": "Pancakes"
+  }
+}
