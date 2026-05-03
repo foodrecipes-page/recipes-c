@@ -1,0 +1,105 @@
+{
+  "title": "Chewy Japanese Tofu Skewers",
+  "description": "Savory, chewy tofu on a sweet‑savory glaze with Chinese five‑spice, perfect for a comforting Jain‑friendly lunch.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "jain-friendly",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "400 g",
+      "notes": "cut into 1.5 cm cubes and pressed for 30 min"
+    },
+    {
+      "name": "tamari (gluten‑free soy sauce)",
+      "amount": "3 tbsp",
+      "notes": "savory base"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp",
+      "notes": "moisture and caramelization"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tbsp",
+      "notes": "sweetness"
+    },
+    {
+      "name": "Chinese five‑spice powder",
+      "amount": "1 tsp",
+      "notes": "warm aromatic flavor"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tsp grated",
+      "notes": "zesty kick"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tsp",
+      "notes": "brightens taste"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tbsp",
+      "notes": "optional garnish"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tbsp chopped",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Press the tofu for 30 minutes, then cut into 1.5 cm cubes.",
+    "Whisk tamari, sesame oil, maple syrup, Chinese five‑spice, grated ginger, and lime juice to make the glaze.",
+    "Gently toss tofu cubes in the glaze and let marinate for 10 minutes.",
+    "Preheat a grill or grill pan over medium‑high heat and lightly oil the grates.",
+    "Thread marinated tofu cubes onto skewers, leaving a small gap between each.",
+    "Grill the skewers, turning every 2 minutes, until edges caramelized and browned, about 10–12 minutes total.",
+    "Remove from heat, sprinkle with toasted sesame seeds and cilantro.",
+    "Serve immediately hot with an extra drizzle of glaze or a side of tamari dipping sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "savory",
+    "chewy",
+    "tofu",
+    "jain-friendly",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 134,
+    "protein": 8,
+    "carbs": 7,
+    "fat": 8
+  },
+  "slug": "chewy-japanese-tofu-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-japanese-tofu-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:28:45Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "chewy",
+    "mood": "comforting",
+    "technique": "marinate",
+    "primaryIngredient": "chinese five spice powder",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "tofu",
+    "descriptor": "Chewy",
+    "dishForm": "Skewers"
+  }
+}
