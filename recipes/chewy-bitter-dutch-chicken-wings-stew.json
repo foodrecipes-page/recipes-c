@@ -1,6 +1,6 @@
 {
   "title": "Chewy Bitter Dutch Chicken Wings Stew",
-  "description": "A quick, egg‑free‑friendly stew with tender chicken wings, a hint of Dutch bitterness, and a rich braise that stays chewy and flavorful.",
+  "description": "A quick, eggfreefriendly stew with tender chicken wings, a hint of Dutch bitterness, and a rich braise that stays chewy and flavorful.",
   "cuisine": "Dutch",
   "diet": [
     "egg-free"
@@ -18,7 +18,7 @@
     },
     {
       "name": "black pepper",
-      "amount": "½ tsp, freshly ground"
+      "amount": "\u00bd tsp, freshly ground"
     },
     {
       "name": "Dutch bitter spice blend (jenever, bay leaf, juniper berries)",
@@ -54,16 +54,16 @@
     },
     {
       "name": "mustard powder",
-      "amount": "½ tsp"
+      "amount": "\u00bd tsp"
     }
   ],
   "instructions": [
     "Rinse the chicken wings and pat dry. Season with salt, pepper, and the Dutch bitter spice blend.",
     "Heat a large Dutch oven over medium heat. Add a splash of oil and sear the wings until golden brown on all sides, about 4 minutes per side. Remove wings and set aside.",
-    "In the same pot, add sliced shallots and smashed garlic; sauté until fragrant, about 2 minutes.",
+    "In the same pot, add sliced shallots and smashed garlic; saut\u00e9 until fragrant, about 2 minutes.",
     "Pour in soy sauce and brown sugar, swirling to dissolve any lumps.",
     "Return the wings to the pot. Add carrots, celery, water, and mustard powder. Bring to a gentle simmer.",
-    "Cover and braise over low heat for 35–40 minutes, or until the wings are tender and the broth has thickened slightly.",
+    "Cover and braise over low heat for 35\u201340 minutes, or until the wings are tender and the broth has thickened slightly.",
     "Taste and adjust seasoning with extra salt or pepper if needed.",
     "Serve hot, spooning the braised wings and vegetables into bowls.",
     "Enjoy the chewy, buttery texture with the unmistakable Dutch bitterness embedded in every bite."
@@ -85,5 +85,20 @@
     "mainIngredient": "chicken wings",
     "descriptor": "Chewy Bitter",
     "dishForm": "Stew"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "dutch",
+    "dinner"
+  ]
 }

@@ -77,7 +77,7 @@
     }
   ],
   "instructions": [
-    "Preheat the oven to 190°C (375°F) and line a baking sheet with parchment paper.",
+    "Preheat the oven to 190\u00b0C (375\u00b0F) and line a baking sheet with parchment paper.",
     "In a large bowl, whisk together the warm water, dashi powder, soy sauce, mirin, grated ginger, minced garlic, crushed shiso leaves, and sugar until well combined.",
     "Add the potato starch and sifted flour to the liquid mixture, stirring until a thick, smooth batter forms.",
     "Fold in the diced cold butter until the mixture resembles coarse crumbs.",
@@ -104,5 +104,20 @@
     "mainIngredient": "potato starch",
     "descriptor": "Crispy Herbal",
     "dishForm": "Bake"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "japanese",
+    "snack"
+  ]
 }
