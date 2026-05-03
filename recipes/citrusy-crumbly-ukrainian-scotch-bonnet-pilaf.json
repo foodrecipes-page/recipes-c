@@ -1,0 +1,101 @@
+{
+  "title": "Citrusy Crumbly Ukrainian Scotch Bonnet Pilaf",
+  "description": "A flavorful and energizing Ukrainian-inspired dish featuring scotch bonnet peppers, citrus, and crumbly texture, perfect for a lunch or dinner meal. This recipe is gluten-free-friendly, making it accessible to a wide range of diets.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2-3",
+      "notes": "diced, seeds removed"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "gluten-free chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cauliflower rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "grated orange zest",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large skillet, heat olive oil over medium heat. Add diced onion and cook until translucent, about 5 minutes.",
+    "Add minced garlic and cook for an additional minute, until fragrant.",
+    "Add diced scotch bonnet peppers and cook for 2-3 minutes, until slightly softened.",
+    "In a large bowl, combine cauliflower rice, gluten-free chicken broth, lemon juice, salt, and black pepper. Mix well.",
+    "Add the cooked onion and scotch bonnet mixture to the bowl and stir to combine.",
+    "Transfer the mixture to a baking dish and top with grated orange zest.",
+    "Bake for 20-25 minutes, until the top is lightly browned and the pilaf is heated through.",
+    "Remove from the oven and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "scotch-bonnet",
+    "citrusy",
+    "crumbly",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "citrusy-crumbly-ukrainian-scotch-bonnet-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-crumbly-ukrainian-scotch-bonnet-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T19:29:42Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crumbly",
+    "mood": "energizing",
+    "technique": "rest",
+    "primaryIngredient": "scotch bonnet",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "scotch bonnet peppers",
+    "descriptor": "citrusy crumbly",
+    "dishForm": "Pilaf"
+  }
+}
