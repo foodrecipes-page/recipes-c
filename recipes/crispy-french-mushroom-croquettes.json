@@ -1,0 +1,122 @@
+{
+  "title": "Crispy French Mushroom Croquettes",
+  "description": "Salty, chewy, energizing French-inspired croquettes made with chestnut mushrooms and a crisp breadcrumb coating; perfect for a Jain-friendly snack or side.",
+  "cuisine": "French",
+  "diet": [
+    "jain",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chestnut mushrooms",
+      "amount": "300g",
+      "notes": "sliced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 teaspoon",
+      "notes": "leaves, chopped"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chickpea flour",
+      "amount": "3 tablespoons",
+      "notes": "binds mixture"
+    },
+    {
+      "name": "Water",
+      "amount": "4 tablespoons",
+      "notes": "for thickening"
+    },
+    {
+      "name": "Panko breadcrumbs",
+      "amount": "1 cup",
+      "notes": "for crisp coating"
+    },
+    {
+      "name": "Nutritional yeast",
+      "amount": "1 tablespoon",
+      "notes": "optional, gives umami"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Non‑stick cooking spray",
+      "amount": "as needed",
+      "notes": "for air‑fry"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a non‑stick skillet over medium heat. Add sliced chestnut mushrooms and sauté until softened and lightly browned, about 5 minutes.",
+    "Add fresh thyme and parsley to the skillet. Cook for 1 minute until fragrant, then remove from heat.",
+    "Transfer the mushroom mixture to a bowl and let it cool slightly. Stir in sea salt and black pepper to taste.",
+    "In a small saucepan, whisk chickpea flour with water until smooth. Heat gently, stirring, until the mixture thickens into a pliable batter, about 2 minutes. Let it cool.",
+    "Fold the cooled mushroom mixture into the chickpea batter until well combined. If the mixture feels too liquid, add a little more chickpea flour or water to reach a thick, dough‑like consistency.",
+    "Optional: stir in nutritional yeast for added umami and a subtle cheesy note.",
+    "Divide the mixture into 12 equal portions and shape each into a cylinder or oval croquette.",
+    "Place the panko breadcrumbs in a shallow dish. Roll each croquette in breadcrumbs, pressing gently to coat evenly.",
+    "Preheat the air fryer to 200 °C (400 °F). Lightly spray the basket with cooking spray and arrange the croquettes in a single layer, leaving a small gap between them.",
+    "Air fry the croquettes for 12–15 minutes, turning halfway through, until golden and crisp. Serve immediately, optionally with a squeeze of fresh lemon juice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jain-friendly",
+    "vegan",
+    "air-fry",
+    "mushroom",
+    "croquette",
+    "snack",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "crispy-french-mushroom-croquettes",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-french-mushroom-croquettes",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:53:27Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "chewy",
+    "mood": "energizing",
+    "technique": "air-fry",
+    "primaryIngredient": "chestnut mushroom",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "mushroom",
+    "descriptor": "Crispy",
+    "dishForm": "Croquettes"
+  }
+}
