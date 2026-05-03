@@ -1,0 +1,99 @@
+{
+  "title": "Crispy Golden Polish Banana Curry",
+  "description": "Earthy, light, sugar‑free Polish dish with pan‑fried ripe bananas slow‑cooked in aromatic spices and coconut milk.",
+  "cuisine": "Polish",
+  "diet": [
+    "sugar‑free",
+    "low‑glycemic"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ripe bananas",
+      "amount": "3 medium",
+      "notes": "sliced into ~1/2\" pieces"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cardamom",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "ground nutmeg",
+      "amount": "¼ tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "unsweetened coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut flour",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "monk fruit sweetener (optional)",
+      "amount": "1 tbsp",
+      "notes": "adds extra sweetness if desired"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large skillet over medium heat until melted and foamy.",
+    "Add the sliced bananas and fry for 2–3 minutes per side until each slice is golden brown; transfer to a plate and set aside.",
+    "In the same skillet, stir in the ginger, cinnamon, cardamom, nutmeg, and salt; cook for 30 seconds until fragrant.",
+    "Pour in the coconut milk, whisking to combine, and bring the mixture to a gentle simmer.",
+    "Add the coconut flour and whisk until the sauce thickens slightly, about 2 minutes.",
+    "Return the fried bananas to the skillet, gently folding them into the sauce to coat.\nSimmer the curry on low heat for an additional 15–20 minutes, allowing the flavors to meld and the sauce to thicken.\nServe the curry warm, optionally garnished with fresh coriander or a squeeze of lime for brightness (not included in ingredient list)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "plant-based",
+    "lazy-sunday",
+    "pan-fried",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 186,
+    "protein": 1.2,
+    "carbs": 21.5,
+    "fat": 11.3
+  },
+  "slug": "crispy-golden-polish-banana-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-golden-polish-banana-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:41:48Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "light",
+    "mood": "lazy-sunday",
+    "technique": "slow-cook",
+    "primaryIngredient": "fried ripe bananas",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "banana",
+    "descriptor": "Crispy Golden",
+    "dishForm": "Curry"
+  }
+}

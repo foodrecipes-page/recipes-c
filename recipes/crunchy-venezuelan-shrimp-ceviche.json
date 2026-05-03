@@ -1,0 +1,100 @@
+{
+  "title": "Crunchy Venezuelan Shrimp Ceviche",
+  "description": "A fresh, romantic ceviche bursting with citrus, toasted coriander seeds, and a satisfying crunch from crisp cucumber and avocado.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "8 oz",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1/2",
+      "notes": "diced"
+    },
+    {
+      "name": "Fresh lime juice",
+      "amount": "2 tbsp",
+      "notes": "plus 1 lime for zest"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Coriander seeds",
+      "amount": "1 tsp",
+      "notes": "toasted"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Jalapeño",
+      "amount": "1 small",
+      "notes": "finely minced (optional)"
+    }
+  ],
+  "instructions": [
+    "Bring a pot of salted water to boil. Add the shrimp and poach for 2-3 minutes until pink and opaque.",
+    "Transfer the shrimp to an ice water bath to halt cooking and cool quickly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 3,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "venezuelan",
+    "ceviche",
+    "seafood",
+    "pescatarian",
+    "romantic",
+    "crunchy",
+    "fresh"
+  ],
+  "nutrition": {
+    "calories": 660,
+    "protein": 21,
+    "carbs": 22,
+    "fat": 35
+  },
+  "slug": "crunchy-venezuelan-shrimp-ceviche",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-venezuelan-shrimp-ceviche",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:41:32Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crunchy",
+    "mood": "romantic",
+    "technique": "cure",
+    "primaryIngredient": "coriander seeds",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "shrimp",
+    "descriptor": "Crunchy",
+    "dishForm": "Ceviche"
+  }
+}
