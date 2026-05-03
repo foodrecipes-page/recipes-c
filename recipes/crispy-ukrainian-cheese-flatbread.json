@@ -1,0 +1,102 @@
+{
+  "title": "Crispy Ukrainian Cheese Flatbread",
+  "description": "A fatty, silky flatbread with spring onions, double-rise dough, and a generous layer of cheese, perfect for a midnight craving.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "500g"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "7g"
+    },
+    {
+      "name": "salt",
+      "amount": "10g"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "10g"
+    },
+    {
+      "name": "warm water",
+      "amount": "300ml"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "50g"
+    },
+    {
+      "name": "large egg",
+      "amount": "1"
+    },
+    {
+      "name": "farmer's cheese (crumbled)",
+      "amount": "200g"
+    },
+    {
+      "name": "spring onions (chopped)",
+      "amount": "50g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "20ml"
+    }
+  ],
+  "instructions": [
+    "In a bowl, combine flour, yeast, salt, and sugar.",
+    "Add warm water and mix until a shaggy dough forms.",
+    "Knead the dough on a floured surface for about 5 minutes until smooth.",
+    "Add melted butter to the dough and knead for another 2 minutes.",
+    "Cover the dough, let it rise for 60 minutes until doubled in size.",
+    "Punch down the dough, roll it into a 1cm thick rectangle.",
+    "Sprinkle crumbled cheese and chopped spring onions evenly over the dough surface.",
+    "Fold the dough into thirds, then roll again to create layers of filling.",
+    "Transfer the rolled dough to a parchment-lined baking tray and brush the top with olive oil.",
+    "Let the dough rise again for 30 minutes.",
+    "Preheat the oven to 220C and bake the flatbread for 15 minutes until golden and crispy.",
+    "Remove from the oven, let cool for 5 minutes, then slice and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bread",
+    "cheese",
+    "crispy",
+    "double-rise",
+    "halal-friendly",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 665,
+    "protein": 18,
+    "carbs": 99,
+    "fat": 21
+  },
+  "slug": "crispy-ukrainian-cheese-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-ukrainian-cheese-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:54:28Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "silky",
+    "mood": "midnight-craving",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "spring onions",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Cheese",
+    "descriptor": "Crispy",
+    "dishForm": "Flatbread"
+  }
+}

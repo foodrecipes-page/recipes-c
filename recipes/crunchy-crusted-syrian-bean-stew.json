@@ -1,0 +1,117 @@
+{
+  "title": "Crunchy Crusted Syrian Bean Stew",
+  "description": "A nutty, crumbly stew made with chickpeas, lentils and a crunchy pistachio crust, perfect for a comforting sick‑day meal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "paleo",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cooked chickpeas",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cooked lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "low‑sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "almond flour",
+      "amount": "2 tbsp",
+      "notes": "for crumbly thickening agent"
+    },
+    {
+      "name": "pistachios",
+      "amount": "1 tbsp",
+      "notes": "to form crunchy crust when stew cools"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pot over medium heat and sauté onion, garlic, carrot, and bell pepper until softened.",
+    "Stir in cumin, coriander, smoked paprika, and cayenne, cooking for 30 seconds until fragrant.",
+    "Add cooked chickpeas, lentils, and vegetable broth, bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 45 minutes until beans are tender.",
+    "In a small bowl, mix almond flour with a pinch of salt to create a crumbly thickening agent.",
+    "Stir the almond flour mixture into the stew, cooking for another 10 minutes, stirring frequently.",
+    "Sprinkle chopped pistachios over the top and allow the stew to cool slightly so the nuts form a crunchy crust.",
+    "Transfer the stew into a ti‑leaf wrap, seal the edges, and place the wrapped vessel in a preheated oven at 350°F for 20 minutes.",
+    "Remove from oven, open the wrap, and garnish with chopped parsley and cilantro before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 75,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bean-stew",
+    "crunchy",
+    "gluten-free",
+    "one-pot",
+    "paleo-friendly",
+    "slow-cook",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 970,
+    "protein": 44,
+    "carbs": 118,
+    "fat": 35
+  },
+  "slug": "crunchy-crusted-syrian-bean-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-crusted-syrian-bean-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:55:29Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "slow-cook",
+    "primaryIngredient": "beans",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Beans",
+    "descriptor": "Crunchy Crusted",
+    "dishForm": "Stew"
+  }
+}
