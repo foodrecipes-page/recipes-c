@@ -1,0 +1,80 @@
+{
+  "title": "Citrusy Crunchy Slovakian Carrots Stir‑fry",
+  "description": "A bright, one‑pot Slovakian stir‑fry that pairs crisp carrots with citrus zest and a sweet soy glaze for a quick, kosher‑friendly dinner.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Carrots, peeled and julienned",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Red cabbage, shredded",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Red bell pepper, thinly sliced",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for sautéing"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet or wok over medium‑high heat.",
+    "Add the julienned carrots and sliced bell pepper, stir‑frying for 3‑4 minutes until slightly softened but still crisp.",
+    "Stir in the shredded cabbage, cooking another 2 minutes until just wilted.",
+    "Add the minced garlic and ginger, sautéing for 30 seconds until fragrant.",
+    "In a small bowl whisk together the kosher soy sauce, honey, lemon zest, lemon juice, and orange juice; pour over the vegetables.",
+    "Cook for 2‑3 more minutes, stirring constantly, until the sauce thickens slightly and coats the vegetables.",
+    "Remove from heat, sprinkle with toasted sesame seeds if using, and serve immediately.",
+    "Optional: garnish with fresh chopped parsley or dill for added freshness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "kosher-friendly",
+    "slovakian",
+    "carrot-dish",
+    "quick",
+    "one-pot",
+    "stir-fry",
+    "crunchy",
+    "citrusy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 6
+  },
+  "slug": "citrusy-crunchy-slovakian-carrots-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-crunchy-slovakian-carrots-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:14:43Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crunchy",
+    "mood": "one-pot",
+    "technique": "stir-fry",
+    "primaryIngredient": "carrots",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "carrots",
+    "descriptor": "Citrusy Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
