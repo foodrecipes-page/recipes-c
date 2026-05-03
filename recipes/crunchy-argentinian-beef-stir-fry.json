@@ -1,0 +1,105 @@
+{
+  "title": "Crunchy Argentinian Beef Stir-fry",
+  "description": "A savory, crunchy stir‑fry featuring thin beef cutlets, bell pepper, and a tangy Argentinian-inspired sauce, all gluten‑free.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef cutlet (thinly sliced)",
+      "amount": "250 g"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "1 small, sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1 tablespoon, chopped"
+    },
+    {
+      "name": "Lime",
+      "amount": "1, juiced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Ground paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Corn tortilla chips",
+      "amount": "1 cup, crushed",
+      "notes": "for crunch"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet or wok over medium‑high heat and add 1 tablespoon of olive oil.",
+    "When hot, add the sliced beef cutlet in a single layer, letting it sear for 1‑2 minutes per side until browned but not fully cooked; remove and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of olive oil, then toss in the sliced onion and bell pepper, stir‑frying for 3‑4 minutes until slightly softened.",
+    "Add minced garlic, cumin, paprika, and a pinch of salt; cook for another 30 seconds, letting the spices bloom.",
+    "Return the browned beef to the skillet and stir to combine, cooking another 1‑2 minutes until the beef is just cooked through.",
+    "Stir in the lime juice and chopped cilantro, adjusting salt to taste.",
+    "Remove from heat and sprinkle the crushed corn tortilla chips over the top, tossing gently to coat the stir‑fry with the crunchy chips.",
+    "Serve immediately over a bed of fresh greens or as a standalone dish.",
+    "Optionally garnish with extra cilantro or a squeeze of lime.",
+    "Enjoy the salty, crunchy Argentinian‑inspired beef stir‑fry!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "gluten-free",
+    "stir-fry",
+    "beef",
+    "quick-meal",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 660,
+    "protein": 55,
+    "carbs": 37,
+    "fat": 48
+  },
+  "slug": "crunchy-argentinian-beef-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-argentinian-beef-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:09:31Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crunchy",
+    "mood": "light",
+    "technique": "stir-fry",
+    "primaryIngredient": "beef cutlet",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Beef",
+    "descriptor": "Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
