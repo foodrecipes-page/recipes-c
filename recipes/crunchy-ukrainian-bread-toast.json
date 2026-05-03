@@ -1,0 +1,84 @@
+{
+  "title": "Crunchy Ukrainian Bread Toast",
+  "description": "A spicy, crunchy meal-prep dish using stale bread, pickled onions, and smoked paprika for a halal-friendly Ukrainian twist.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "halal",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "stale bread",
+      "amount": "2 slices",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "pickled onions",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "smoked paprika",
+      ": ": ", ",
+      "amount": "1/2 teaspoon",
+      "notes": "spicy smoked paprika"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/8 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a dry skillet over medium heat.",
+    "Place stale bread slices in the skillet and toast until lightly golden (2-3 minutes).",
+    "Remove bread and set aside.",
+    "In the same skillet, add pickled onions and cook for 1 minute until slightly caramelized.",
+    "Stir in smoked paprika and garlic powder, then add black pepper.",
+    "Return bread to skillet and toss with the onion mixture until evenly coated (1 minute).",
+    "Serve immediately while hot and crunchy."
+  ],
+  "prepTimeMin": 2,
+  "cookTimeMin": 5,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "ukrainian",
+    "snack",
+    "crunchy",
+    "halal",
+    "spicy",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 3
+  },
+  "slug": "crunchy-ukrainian-bread-toast",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-ukrainian-bread-toast",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T02:14:40Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crunchy",
+    "mood": "meal-prep",
+    "technique": "poach",
+    "primaryIngredient": "stale bread",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "bread",
+    "descriptor": "Crunchy",
+    "dishForm": "Toast"
+  }
+}
