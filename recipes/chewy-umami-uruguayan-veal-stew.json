@@ -1,0 +1,128 @@
+{
+  "title": "Chewy Umami Uruguayan Veal Stew",
+  "description": "A hearty, slow‑cooked stew featuring tender veal, earthy root vegetables, and a rich umami broth inspired by Uruguayan comfort food.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Veal stew meat",
+      "amount": "1 kg",
+      "notes": "cubed 2 cm"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Potato",
+      "amount": "3 medium",
+      "notes": "cubed"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Red wine",
+      "amount": "200 ml"
+    },
+    {
+      "name": "Low‑sodium beef broth",
+      "amount": "1.5 L"
+    },
+    {
+      "name": "Beef bouillon cube",
+      "amount": "1"
+    },
+    {
+      "name": "Bay leaves",
+      "amount": "2"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh ground black pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium‑high heat.",
+    "Add the veal cubes and brown them on all sides; remove and set aside.",
+    "In the same pot, add onion, carrot, and garlic; cook until softened, about 5 minutes.",
+    "Stir in tomato paste and cook for 2 minutes to caramelize.",
+    "Deglaze with red wine, scraping up browned bits; simmer until reduced, about 3 minutes.",
+    "Return the veal to the pot, then add potatoes, beef broth, bouillon cube, bay leaves, oregano, and smoked paprika.",
+    "Bring the mixture to a gentle boil, reduce heat to low, cover, and simmer for 2 hours until the veal is tender and the broth thickens.",
+    "Stir occasionally and add more broth if necessary.",
+    "Remove bay leaves, season with salt and pepper to taste.",
+    "Let the stew rest for 10 minutes before serving, then garnish with chopped parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 140,
+  "totalTimeMin": 155,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "veal-stew",
+    "comfort-food",
+    "slow-cook",
+    "umami",
+    "chewy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 32,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "chewy-umami-uruguayan-veal-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-umami-uruguayan-veal-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:20:16Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "chewy",
+    "mood": "cozy",
+    "technique": "fold",
+    "primaryIngredient": "veal",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Veal",
+    "descriptor": "Chewy Umami",
+    "dishForm": "Stew"
+  }
+}

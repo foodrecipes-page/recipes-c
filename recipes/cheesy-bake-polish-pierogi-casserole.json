@@ -1,0 +1,108 @@
+{
+  "title": "Cheesy Bake Polish Pierogi Casserole",
+  "description": "A hearty, umami Polish dish featuring pierogi, cheese slices, and cured meats, all baked to perfection. Perfect for meal prep and low-calorie diets.",
+  "cuisine": "Polish",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Polish pierogi (cheese or potato)",
+      "amount": "1 package (28 oz)",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Sliced cheese (low-fat mozzarella or cheddar)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cured sausage (such as kielbasa or knockwurst)",
+      "amount": "1/2 cup, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Egg, beaten (for egg wash)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Low-fat milk",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook pierogi according to package instructions. Drain and set aside.",
+    "In a large skillet, cook sliced sausage over medium-high heat until browned, about 5 minutes. Remove from heat and set aside.",
+    "In the same skillet, add chopped onion and cook until translucent, about 3-4 minutes.",
+    "In a separate bowl, mix chopped parsley, salt, and black pepper.",
+    "In a 9x13 inch baking dish, create a layer of cooked pierogi.",
+    "Top with a layer of cooked sausage, then a layer of sliced cheese.",
+    "Repeat the layers, ending with a layer of cheese on top.",
+    "Drizzle with beaten egg and low-fat milk (if using).",
+    "Sprinkle parsley mixture on top.",
+    "Cover with aluminum foil and bake for 25 minutes.",
+    "Remove foil and bake for an additional 10-15 minutes, or until cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "pierogi",
+    "polish-cuisine",
+    "cheese",
+    "cured-meat",
+    "low-calorie",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "cheesy-bake-polish-pierogi-casserole",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/cheesy-bake-polish-pierogi-casserole",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:20:36Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "chewy",
+    "mood": "meal-prep",
+    "technique": "cure",
+    "primaryIngredient": "cheese slices",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Pierogi",
+    "descriptor": "Cheesy Bake",
+    "dishForm": "Casserole"
+  }
+}
