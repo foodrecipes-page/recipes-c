@@ -1,0 +1,82 @@
+{
+  "title": "Crumbly Herbal Wood Ear Mushroom Toast",
+  "description": "A sugar-free, crowd-pleasing toast topped with crumbly wood ear mushrooms and fresh herbs for a light yet flavorful dish.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "sugar-free",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "wood ear mushrooms",
+      "amount": "30g",
+      "notes": "soaked in cold water for 5 minutes"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "10g",
+      "notes": "chopped finely"
+    },
+    {
+      "name": "fresh dill",
+      ": ": "amount\": \"5g\",",
+      "notes": "chopped finely"
+    },
+    {
+      "name": "toasted whole grain bread",
+      "amount": "1 slice",
+      "notes": "preferably 100% whole grain"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": "for drizzling"
+    }
+  ],
+  "instructions": [
+    "Soak wood ear mushrooms in cold water for 5 minutes to rehydrate.",
+    "Toasting: Heat a small pan over medium heat, add 1 slice of whole grain bread, and toast until golden.",
+    "In a small bowl, mix soaked wood ear mushrooms, chopped parsley, and dill.",
+    "Drizzle 1 tsp olive oil over the mushroom mixture.",
+    "Place the mushroom mixture on top of the toasted bread, and serve immediately."
+  ],
+  "prepTimeMin": 2,
+  "cookTimeMin": 5,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "sugar-free",
+    "low-carb",
+    "herbal",
+    "crumbly",
+    "wood-ear-mushroom",
+    "snack",
+    "toasted-bread"
+  ],
+  "nutrition": {
+    "calories": 110,
+    "protein": 3,
+    "carbs": 12,
+    "fat": 7
+  },
+  "slug": "crumbly-herbal-wood-ear-mushrooms-toast",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-herbal-wood-ear-mushrooms-toast",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T01:18:43Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crumbly",
+    "mood": "crowd-pleaser",
+    "technique": "toast",
+    "primaryIngredient": "wood ear mushrooms",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "herbal",
+    "mainIngredient": "wood ear mushrooms",
+    "descriptor": "crumbly",
+    "dishForm": "toast"
+  }
+}
