@@ -1,0 +1,106 @@
+{
+  "title": "Crispy Spicy Greek Tofu Skewers",
+  "description": "A fiery, plant‑based Greek-inspired dish featuring tofu coated in a ground poppy seed crunch and finished under a broiler for a satisfying bite.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Firm tofu",
+      "amount": "400 g",
+      "notes": "Cut into 1.5‑inch cubes"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dried Greek oregano",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground poppy seeds",
+      "amount": "2 tbsp",
+      "notes": "Adds crunch and nutty flavor"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tbsp",
+      "notes": "Lightly dust tofu to help crisp"
+    },
+    {
+      "name": "Skewers (wooden or metal)",
+      "amount": "8"
+    }
+  ],
+  "instructions": [
+    "Press tofu between paper towels for 15 minutes to remove excess moisture.",
+    "Whisk lemon juice, olive oil, oregano, red pepper flakes, salt, pepper, and ground poppy seeds to make a quick marinade.",
+    "Toss tofu cubes in the marinade and let sit for 15 minutes to absorb flavors.",
+    "Preheat oven to 450°F (232°C) and line a baking sheet with parchment paper.",
+    "Remove tofu, pat dry, and lightly roll each cube in cornstarch until evenly coated.",
+    "Thread tofu onto skewers, spacing pieces evenly.",
+    "Place skewers on the prepared baking sheet and bake for 15 minutes, then flip and bake another 10 minutes until golden and crispy.",
+    "Optional: switch to broil mode for 2–3 minutes to intensify crispness and add a golden finish.",
+    "Let the skewers rest for 5 minutes before serving with a side of tzatziki or a dairy‑free yogurt alternative."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "gluten-free",
+    "spicy",
+    "tofu",
+    "Greek",
+    "broil",
+    "crispy",
+    "plant-based",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 9,
+    "carbs": 8,
+    "fat": 14
+  },
+  "slug": "crispy-spicy-greek-tofu-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-spicy-greek-tofu-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:31:29Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crunchy",
+    "mood": "monsoon",
+    "technique": "broil",
+    "primaryIngredient": "ground poppy seeds",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Tofu",
+    "descriptor": "Crispy Spicy",
+    "dishForm": "Skewers"
+  }
+}
