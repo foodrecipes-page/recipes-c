@@ -1,0 +1,95 @@
+{
+  "title": "Citrusy Chewy Filipino Chicken Noodles",
+  "description": "A halal-friendly Filipino dish featuring brown rice noodles, tandoor chicken, and a burst of citrus flavors, perfect for a date night. This recipe combines the tender chew of brown rice noodles with the rich flavors of tandoor chicken and a zesty citrus sauce.",
+  "cuisine": "Filipino",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "brown rice noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "tandoor spice mix",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, whisk together tandoor spice mix, olive oil, garlic, and chicken. Mix well to coat.",
+    "Thread the chicken onto skewers, if desired. Bake in the preheated oven for 20-25 minutes or until cooked through.",
+    "Cook the brown rice noodles according to package instructions. Drain and set aside.",
+    "In a small bowl, whisk together orange juice and lemon juice.",
+    "In a large skillet, combine the cooked noodles, citrus sauce, and chopped green onions. Toss to combine.",
+    "Slice the cooked chicken into bite-sized pieces and add to the skillet. Toss to combine.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy!",
+    "Garnish with additional green onions, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "chicken",
+    "noodles",
+    "citrus",
+    "date-night",
+    "halal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "citrusy-chewy-filipino-chicken-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-chewy-filipino-chicken-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T21:44:09Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "chewy",
+    "mood": "date-night",
+    "technique": "tandoor",
+    "primaryIngredient": "brown rice noodle",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "chicken",
+    "descriptor": "Citrusy Chewy",
+    "dishForm": "Noodles"
+  }
+}
