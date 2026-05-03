@@ -1,0 +1,82 @@
+{
+  "title": "Creamy Dutch Almond Pudding",
+  "description": "A comforting, umami-rich almond pudding poached in a light syrup, perfect for diabetic-friendly desserts with a creamy texture.",
+  "cuisine": "dutch",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond paste",
+      "amount": "2 tbsp",
+      "notes": "unsweetened, for umami depth"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "low-sugar dairy or plant-based"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": "natural sweetener, low-glycemic"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 tsp",
+      ": ": "",
+      "notes": "for aroma, no added sugar"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 tbsp",
+      "notes": "for creaminess, gluten-free"
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, combine almond paste, milk, honey, and vanilla extract.",
+    "Bring to a gentle simmer over medium heat, stirring occasionally to prevent scorching.",
+    "Reduce heat to low, add almond flour, and stir until fully incorporated.",
+    "Remove from heat, let cool for 5 minutes, then serve warm or at room temperature."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "dutch",
+    "almond",
+    "pudding",
+    "diabetic-friendly",
+    "umami",
+    "creamy",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 15,
+    "fat": 7
+  },
+  "slug": "creamy-dutch-almond-pudding",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-dutch-almond-pudding",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T00:27:47Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "creamy",
+    "mood": "comforting",
+    "technique": "poach",
+    "primaryIngredient": "almond paste",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "almond",
+    "descriptor": "Creamy",
+    "dishForm": "Pudding"
+  }
+}
