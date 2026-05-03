@@ -1,0 +1,107 @@
+{
+  "title": "crunchy citrusy ethiopian pak cho tibs",
+  "description": "a flavorful and crunchy ethiopian-style stir-fry featuring pak choi, onions, and citrus, fodmap-friendly and perfect for meal prep.",
+  "cuisine": "ethiopian",
+  "diet": [
+    "gluten-free",
+    "low-fodmap"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pak choi",
+      "amount": "2 bunches",
+      "notes": "any color or mix of colors"
+    },
+    {
+      "name": "yellow onions",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "3-4 stalks",
+      "notes": "chopped, bruised to release oils"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "peeled, grated"
+    },
+    {
+      "name": "citrus-herb spice blend",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade blend"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "or other high-heat oil"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1/4 cup",
+      "notes": "dairy-free or low-sodium"
+    },
+    {
+      "name": "crushed red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": "optional, for some heat"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "heat 1 tbsp of olive oil in a large skillet or wok over medium-high heat.",
+    "add the sliced onions and cook, stirring occasionally, until they start to caramelize, about 8-10 minutes.",
+    "add the chopped lemongrass and grated ginger to the skillet and cook for another 2-3 minutes, stirring to combine.",
+    "add the pak choi to the skillet, cooking and stirring until it starts to wilt, about 2-3 minutes.",
+    "add the citrus-herb spice blend, crushed red pepper flakes, and chicken broth to the skillet, stirring to combine.",
+    "cook for an additional 2-3 minutes, until the pak choi is tender and the sauce has thickened.",
+    "season the tibs with salt and pepper to taste.",
+    "garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "gluten-free",
+    "high-protein",
+    "low-carb",
+    "low-fodmap",
+    "meal-prep",
+    "nightshade-free",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "crunchy-citrusy-ethiopian-pak-cho-tibs",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-citrusy-ethiopian-pak-cho-tibs",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T22:58:41Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crunchy",
+    "mood": "meal-prep",
+    "technique": "dum",
+    "primaryIngredient": "pak choi",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Pak Cho",
+    "descriptor": "Crunchy, Citrusy",
+    "dishForm": "Tibs"
+  }
+}
