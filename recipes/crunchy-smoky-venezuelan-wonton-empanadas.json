@@ -1,0 +1,103 @@
+{
+  "title": "Crunchy Smoky Venezuelan Wonton Empanadas",
+  "description": "A romantic Venezuelan dish featuring wonton skin, smoke, and a diabetic-friendly twist, with a crunchy exterior and a tangy, slightly sweet interior, this empanada is a must try for anyone looking for a unique flavor experience.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "wonton skins",
+      "amount": "20 pieces",
+      "notes": "found in most supermarkets"
+    },
+    {
+      "name": "smoked chicken breast",
+      "amount": "1 pound",
+      "notes": "diced"
+    },
+    {
+      "name": "low-fat mayonnaise",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the smoked chicken breast, low-fat mayonnaise, Dijon mustard, chopped onion, chopped cilantro, lime juice, salt, and black pepper.",
+    "Lay a wonton skin on a flat surface and place a tablespoon of the chicken mixture in the center of the skin.",
+    "Brush the edges of the skin with olive oil and fold the skin into a triangle, pressing the edges together to seal the empanada.",
+    "Repeat the process with the remaining wonton skins and chicken mixture.",
+    "Place the empanadas on a baking sheet lined with parchment paper and brush the tops with olive oil.",
+    "Bake the empanadas in the preheated oven for 12 minutes, or until crispy and golden brown.",
+    "Remove the empanadas from the oven and let them cool for a few minutes before serving.",
+    "Serve the empanadas hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "baked",
+    "chicken-based",
+    "crunchy",
+    "diabetic-friendly",
+    "latin-american",
+    "romantic",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "crunchy-smoky-venezuelan-wonton-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-smoky-venezuelan-wonton-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:28:38Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crunchy",
+    "mood": "romantic",
+    "technique": "smoke",
+    "primaryIngredient": "wonton skin",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "wonton skin",
+    "descriptor": "Crunchy Smoky",
+    "dishForm": "Empanadas"
+  }
+}
