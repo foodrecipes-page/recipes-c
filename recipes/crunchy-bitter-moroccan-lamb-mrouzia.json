@@ -1,0 +1,108 @@
+{
+  "title": "Crunchy Bitter Moroccan Lamb Mrouzia",
+  "description": "A traditional Moroccan dish with a twist, featuring lamb, pickles, and a crunch from fried rice, this recipe is both energizing and satvik-friendly.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "pickles",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "khao khuay",
+      "amount": "1/2 cup",
+      "notes": "fried until crispy"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pan over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the lamb pieces and cook until they are browned on all sides.",
+    "Add the cumin, coriander, salt, and black pepper, and stir well.",
+    "Add the chopped pickles and cooked rice, and stir well.",
+    "Add the fried khao khuay and stir well.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Serve hot, garnished with additional pickles if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fried-rice",
+    "lamb-recipes",
+    "moroccan-cuisine",
+    "pickled-vegetables",
+    "satvik-diet"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "crunchy-bitter-moroccan-lamb-mrouzia",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-bitter-moroccan-lamb-mrouzia",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:16:14Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crumbly",
+    "mood": "energizing",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "pickles",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "crunchy bitter",
+    "dishForm": "Mrouzia"
+  }
+}
