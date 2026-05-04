@@ -1,0 +1,100 @@
+{
+  "title": "Crispy Moroccan Potatoes Harira",
+  "description": "A peppery, silky solo-dinner dish that marries crisp potatoes with fresh bonito, simmered in a fragrant tomato broth.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red potatoes",
+      "amount": "600g"
+    },
+    {
+      "name": "bonito sashimi (shaved)",
+      "amount": "200g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "30ml"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "tomato purée",
+      "amount": "200g"
+    },
+    {
+      "name": "water",
+      "amount": "400ml"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "15g"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "15ml"
+    }
+  ],
+  "instructions": [
+    "Wash potatoes and cut into 1 cm cubes.",
+    "Heat olive oil in a tagine pot over medium heat until shimmering.",
+    "Add diced onion and sauté until translucent.",
+    "Stir in tomato purée, cumin, coriander, and a pinch of salt; cook for 2 minutes.",
+    "Add potato cubes, pour in water, and bring to a gentle boil, then reduce heat and simmer for 20 minutes until potatoes are tender.",
+    "Remove the pot from heat, stir in fresh cilantro and lemon juice.",
+    "Sprinkle shaved bonito over the top, allowing it to lightly wilt from the residual heat.",
+    "Cover with a lid and let the dish rest for 5 minutes before serving.",
+    "Serve hot straight from the tagine pot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "harira",
+    "moroccan",
+    "one-pot",
+    "pescatarian",
+    "potatoes",
+    "solo-dinner",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 1180,
+    "protein": 56,
+    "carbs": 102,
+    "fat": 36
+  },
+  "slug": "crispy-moroccan-potatoes-harira",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-moroccan-potatoes-harira",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:05:01Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "silky",
+    "mood": "solo-dinner",
+    "technique": "bonito-shave",
+    "primaryIngredient": "red potatoes",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "potatoes",
+    "descriptor": "Crispy",
+    "dishForm": "Harira"
+  }
+}
