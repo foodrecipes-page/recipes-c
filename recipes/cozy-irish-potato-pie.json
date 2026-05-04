@@ -1,0 +1,99 @@
+{
+  "title": "Cozy Irish Potato Pie",
+  "description": "A malty, creamy potato pie with a buttery shortcrust, baked in a cast-iron skillet for a comforting, kosher-friendly meal.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "150 g"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "75 g"
+    },
+    {
+      "name": "ice water",
+      "amount": "30 ml"
+    },
+    {
+      "name": "potatoes (peeled and diced)",
+      "amount": "800 g"
+    },
+    {
+      "name": "milk",
+      "amount": "120 ml"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "60 ml"
+    },
+    {
+      "name": "malted milk powder",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "nutmeg (pinch)",
+      "amount": "pinch"
+    },
+    {
+      "name": "fresh parsley (chopped)",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200C (392F).",
+    "Combine flour, butter, and ice water in a bowl and mix until dough forms; chill for 10 minutes.",
+    "Press dough into a 10-inch cast iron skillet to form a crust and bake for 5 minutes to set the base.",
+    "Boil potatoes in salted water until tender, about 10 minutes, then drain and mash with butter, salt, pepper, nutmeg, and malted milk powder.",
+    "Add milk and heavy cream to the mash and stir until smooth and creamy.",
+    "Pour the potato mixture into the baked crust, smoothing the top.",
+    "Bake the pie for 25 minutes or until the top is golden and the filling is set.",
+    "Remove from oven and let rest in the skillet for 5 minutes before serving.",
+    "Sprinkle chopped parsley over the top for a fresh finish."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "irish",
+    "dinner"
+  ],
+  "slug": "cozy-irish-potato-pie",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-irish-potato-pie",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:12:43Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "creamy",
+    "mood": "cozy",
+    "technique": "emulsify",
+    "primaryIngredient": "shortcrust pastry",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "potato",
+    "descriptor": "Cozy",
+    "dishForm": "Pie"
+  }
+}
