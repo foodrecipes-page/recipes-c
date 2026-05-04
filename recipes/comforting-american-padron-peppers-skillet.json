@@ -1,0 +1,93 @@
+{
+  "title": "Comforting American Padron Peppers Skillet",
+  "description": "A fresh and juicy American dish featuring padron peppers, this skillet is perfect for a comforting meal, with a low glycemic index to boot.",
+  "cuisine": "American",
+  "diet": [
+    "low-glycemic",
+    "brine-dry"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "padron peppers",
+      "amount": "1 pound",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the padron peppers to the skillet and cook until they start to soften, about 3 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Pour in the chicken broth and bring the mixture to a simmer.",
+    "Reduce the heat to low and let cook, covered, for 10 minutes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "comfort-food",
+    "low-glycemic",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "comforting-american-padron-peppers-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/comforting-american-padron-peppers-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:04:27Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "juicy",
+    "mood": "comforting",
+    "technique": "brine-dry",
+    "primaryIngredient": "padron peppers",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "padron peppers",
+    "descriptor": "Comforting",
+    "dishForm": "Skillet"
+  }
+}

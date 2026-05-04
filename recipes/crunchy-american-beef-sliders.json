@@ -1,0 +1,96 @@
+{
+  "title": "Crunchy American Beef Sliders",
+  "description": "A low-carb-friendly American dish featuring a bitter and pillowy beef patty, served on a tagliere with a side of nimono-simmered vegetables, perfect for a energizing snack or lunch.",
+  "cuisine": "American",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Almond Flour Buns",
+      "amount": "4",
+      "notes": "low-carb and gluten-free"
+    },
+    {
+      "name": "Nimono-Simmer Sauce",
+      "amount": "1 cup",
+      "notes": "Japanese-inspired simmer sauce"
+    },
+    {
+      "name": "Shredded Lettuce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sliced Tomatoes",
+      "amount": "2"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Bacon",
+      "amount": "4 slices",
+      "notes": "crispy and crumbled"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to 375 degrees Fahrenheit.",
+    "Form the ground beef into 4 patties and season with salt and pepper.",
+    "Grill the patties for 4-5 minutes per side, or until they reach an internal temperature of 160 degrees Fahrenheit.",
+    "Meanwhile, toast the almond flour buns on the grill or in a toaster.",
+    "Assemble the sliders by spreading a layer of nimono-simmer sauce on the bottom bun, followed by a beef patty, a slice of cheese, a few slices of bacon, some shredded lettuce, and a slice of tomato.",
+    "Top with the top bun and serve immediately.",
+    "Serve the sliders on a tagliere with a side of nimono-simmered vegetables, such as carrots and green beans.",
+    "Drizzle the nimono-simmer sauce over the vegetables and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-classics",
+    "beef-recipes",
+    "gluten-free",
+    "low-carb",
+    "lunch-ideas",
+    "snack-time"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "crunchy-american-beef-sliders",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-american-beef-sliders",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:04:34Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "pillowy",
+    "mood": "energizing",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "bun",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "beef",
+    "descriptor": "crunchy bitter",
+    "dishForm": "Sliders"
+  }
+}

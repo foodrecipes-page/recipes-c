@@ -1,0 +1,97 @@
+{
+  "title": "Creamy Smoky Norwegian Penne Pasta",
+  "description": "A pungent and gooey Norwegian dish featuring penne pasta, perfect for satisfying midnight cravings, with a smoky flavor and ayurvedic-tamasic-friendly ingredients.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "penne pasta",
+      "amount": "8 oz",
+      "notes": "dry"
+    },
+    {
+      "name": "smoked gouda cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "norwegian brown cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the penne pasta according to the package instructions until al dente.",
+    "Drain the pasta and set it aside.",
+    "In a large saucepan, combine the heavy cream, smoked gouda cheese, norwegian brown cheese, smoked paprika, garlic powder, salt, and black pepper.",
+    "Stir the cheese mixture over medium heat until the cheese is melted and the sauce is smooth.",
+    "Add the cooked penne pasta to the cheese sauce and stir until the pasta is well coated.",
+    "Reduce the heat to low and simmer the pasta for 2-3 minutes to allow the flavors to meld.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the creamy smoky penne pasta hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "norwegian-cuisine",
+    "pasta-dishes",
+    "smoky-flavors",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "creamy-smoky-norwegian-penne-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-smoky-norwegian-penne-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:04:17Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "gooey",
+    "mood": "midnight-craving",
+    "technique": "smoke",
+    "primaryIngredient": "penne pasta",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "penne pasta",
+    "descriptor": "Creamy Smoky",
+    "dishForm": "Pasta"
+  }
+}
