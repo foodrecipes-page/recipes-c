@@ -1,0 +1,126 @@
+{
+  "title": "Crunchy Spicy Canadian Tempeh Gratin",
+  "description": "A spicy, crunchy, and cozy Canadian dish featuring pressure-cooked tempeh, perfect for a weeknight dinner.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tempeh",
+      "amount": "8 oz",
+      "notes": "pressure-cooked tempeh"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": "gluten-free if necessary"
+    },
+    {
+      "name": "spicy chili flakes",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "2 tbsp",
+      "notes": "such as Earth Balance"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Pressure-cook the tempeh according to the package instructions.",
+    "In a large skillet, sauté the sliced carrots, celery, and onion in vegan butter until tender.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Stir in the spicy chili flakes, paprika, salt, and black pepper. Cook for 1 minute.",
+    "In a separate bowl, mix the flour and vegetable broth to create a slurry.",
+    "Add the slurry to the skillet and stir to combine.",
+    "Transfer the cooked tempeh to a 9x13 inch baking dish.",
+    "Pour the skillet mixture over the tempeh.",
+    "If using cheese, sprinkle it on top of the tempeh.",
+    "Bake for 20-25 minutes, until the top is golden brown and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "cheesy",
+    "comfort-food",
+    "fodmap-friendly",
+    "one-pan",
+    "spicy",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "crunchy-spicy-canadian-tempeh-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-spicy-canadian-tempeh-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T05:35:37Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crunchy",
+    "mood": "cozy",
+    "technique": "pressure-cook",
+    "primaryIngredient": "tempeh",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "tempeh",
+    "descriptor": "crunchy spicy",
+    "dishForm": "Gratin"
+  }
+}
