@@ -1,0 +1,104 @@
+{
+  "title": "Cool Citrusy Indian Fish Thali",
+  "description": "A refreshing and light Indian-inspired fish dish featuring citrus and floral flavors, perfect for a post-workout meal, with noodles and fish cooked in a papillote, served as a thali",
+  "cuisine": "Indian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fish fillets",
+      "amount": "4 pieces",
+      "notes": "any white fish"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coriander leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together lemon juice, olive oil, grated ginger, and minced garlic.",
+    "Place a fish fillet in the center of a piece of aluminum foil, brush the lemon mixture on top, and sprinkle with salt and black pepper.",
+    "Fold the foil over the fish to create a papillote and repeat with the remaining fish fillets.",
+    "Bake the fish in the preheated oven for 12 minutes or until cooked through.",
+    "While the fish is cooking, prepare the noodles according to package instructions and set aside.",
+    "In a small bowl, mix together orange zest and chopped coriander leaves.",
+    "To assemble the thali, place a cooked fish fillet on a plate, add a scoop of noodles, and sprinkle with the orange and coriander mixture.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy-flavors",
+    "healthy-meal",
+    "indian-inspired",
+    "pescatarian-friendly",
+    "post-workout",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "cool-citrusy-indian-fish-thali",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/cool-citrusy-indian-fish-thali",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:02:19Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "springy",
+    "mood": "post-workout",
+    "technique": "papillote",
+    "primaryIngredient": "noodles",
+    "diet": "pescatarian",
+    "region": "kerala",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "fish",
+    "descriptor": "Cool Citrusy",
+    "dishForm": "Thali"
+  }
+}
