@@ -1,0 +1,62 @@
+{
+  "title": "creamy quick uruguayan potato bake",
+  "description": "a comforting, creamy potato bake dish with a nutty flavor from marjoram and a crispy top from double-fried potatoes. perfect for a quick and easy weeknight meal.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "halal",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "6 medium-sized",
+      "notes": "peeled and thinly sliced"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 375f (190c).",
+    "in a large bowl, toss the sliced potatoes with 2 tablespoons of oil and a pinch of salt until they are evenly coated.",
+    "add the marjoram, garlic powder, and a sprinkle of black pepper to the potatoes and toss to combine.",
+    "spread half of the potatoes in the bottom of a 6 ramekins or small baking dishes, followed by half of the grated cheese, and then the remaining potatoes and cheese.",
+    "dot the top of each ramekin with some of the double-fried potatoes and a sprinkle of parmesan cheese.",
+    "cover the ramekins with aluminum foil and bake for 30 minutes, then remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "remove the ramekins from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "halal-friendly",
+    "high-protein",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "creamy-quick-uruguayan-potato-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-quick-uruguayan-potato-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:44:34Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "creamy",
+    "mood": "weeknight",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "marjoram",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "potato",
+    "descriptor": "Creamy Quick",
+    "dishForm": "Bake"
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "title": "Crunchy Egyptian Cottage Cheese Pilaf",
+  "description": "A sweet and crunchy vegetarian-friendly Egyptian dish made with cottage cheese and soffritto base, perfect for a solo dinner. Serve hot with a sprinkle of sumac for extra flavor.",
+  "cuisine": "Egyptian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cottage cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "long-grain rice",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "crushed pine nuts",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sumac",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "pomegranate seeds",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large saucepan over medium heat.",
+    "Add onion, garlic, carrots, and celery to the saucepan and cook until the vegetables are softened, about 5 minutes.",
+    "Add cumin, salt, black pepper, and sumac to the saucepan and cook for 1 minute.",
+    "Add rice to the saucepan and cook for 1 minute, stirring constantly.",
+    "Add pomegranate molasses to the saucepan and cook for 1 minute, stirring constantly.",
+    "Add cottage cheese to the saucepan and cook until the mixture is well combined and heated through, about 2-3 minutes.",
+    "Transfer the mixture to a serving dish and sprinkle with crushed pine nuts, pomegranate seeds, and fresh parsley.",
+    "Serve hot with a sprinkle of sumac for extra flavor.",
+    "Garnish with additional pomegranate seeds and parsley if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "egyptian",
+    "high-protein",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 55,
+    "fat": 18
+  },
+  "slug": "crunchy-egyptian-cottage-cheese-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-egyptian-cottage-cheese-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:44:03Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crunchy",
+    "mood": "solo-dinner",
+    "technique": "soffritto-base",
+    "primaryIngredient": "cottage cheese",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "cottage cheese",
+    "descriptor": "crunchy",
+    "dishForm": "Pilaf"
+  }
+}
