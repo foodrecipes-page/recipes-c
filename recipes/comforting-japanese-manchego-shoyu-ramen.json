@@ -1,0 +1,88 @@
+{
+  "title": "Comforting Japanese Manchego Shoyu Ramen",
+  "description": "A comforting and flavorful Japanese ramen dish featuring Manchego cheese and a rich shoyu broth, made with Buddhist-temple-friendly ingredients. This velvety and grassy ramen is perfect for a cold winter night.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Manchego cheese",
+      "amount": "1 cup grated",
+      "notes": "use a vegetarian rennet"
+    },
+    {
+      "name": "shoyu broth",
+      "amount": "4 cups",
+      "notes": "make sure it is Buddhist-temple-friendly"
+    },
+    {
+      "name": "ramen noodles",
+      "amount": "1 package"
+    },
+    {
+      "name": "braised pork belly",
+      "amount": "1 cup diced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pickled ginger",
+      "amount": "1/4 cup sliced"
+    }
+  ],
+  "instructions": [
+    "Bring the shoyu broth to a boil in a large pot.",
+    "Add the diced braised pork belly to the pot and simmer for 10 minutes.",
+    "Cook the ramen noodles according to the package instructions and set aside.",
+    "Grate the Manchego cheese and set aside.",
+    "Assemble the ramen by placing the cooked noodles in a bowl, then adding the hot shoyu broth and diced pork belly.",
+    "Top the ramen with grated Manchego cheese, chopped green onions, sesame seeds, and pickled ginger.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional green onions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "japanese-cuisine",
+    "one-pot-meal",
+    "ramen-recipes",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "comforting-japanese-manchego-shoyu-ramen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/comforting-japanese-manchego-shoyu-ramen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:51:30Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "velvety",
+    "mood": "comforting",
+    "technique": "braise",
+    "primaryIngredient": "manchego",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "manchego",
+    "descriptor": "Comforting Creamy",
+    "dishForm": "Shoyu Ramen"
+  }
+}
