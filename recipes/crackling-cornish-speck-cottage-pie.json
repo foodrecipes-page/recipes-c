@@ -1,0 +1,112 @@
+{
+  "title": "Crackling Cornish Speck Cottage Pie",
+  "description": "A winey, shattering, romantic British dish featuring speck, fold, keto-friendly, form=cottage-pie.",
+  "cuisine": "British",
+  "diet": [
+    "keto-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "speck",
+      "amount": "200g"
+    },
+    {
+      "name": "minced beef",
+      "amount": "200g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "red wine",
+      "amount": "100ml"
+    },
+    {
+      "name": "beef stock",
+      "amount": "200ml"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cauliflower mash",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "bacon bits",
+      "amount": "50g"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat and brown the speck until crisp.",
+    "Remove speck, add minced beef to the skillet, cooking until browned.",
+    "Add chopped onion and carrot, sauté until softened.",
+    "Stir in tomato paste and cook for 1 minute until fragrant.",
+    "Deglaze the pan with red wine, scraping up browned bits, and let the wine reduce by half.",
+    "Pour in beef stock, add thyme and rosemary, bring to a simmer and cook for 15 minutes.",
+    "Transfer the mixture to a baking dish and top with cauliflower mash.",
+    "Scatter bacon bits over the mash and dot with butter.",
+    "Bake in a preheated oven at 200°C for 20 minutes until the top is golden.",
+    "Let rest 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cornish",
+    "high-protein",
+    "keto",
+    "one-pan",
+    "speck",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 21,
+    "carbs": 6,
+    "fat": 26
+  },
+  "slug": "crackling-cornish-speck-cottage-pie",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crackling-cornish-speck-cottage-pie",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:04:34Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "shattering",
+    "mood": "romantic",
+    "technique": "fold",
+    "primaryIngredient": "speck",
+    "diet": "keto",
+    "region": "cornish",
+    "cuisineAdjective": "Cornish",
+    "mainIngredient": "Speck",
+    "descriptor": "Crackling",
+    "dishForm": "Cottage Pie"
+  }
+}
