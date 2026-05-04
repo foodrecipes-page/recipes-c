@@ -1,0 +1,101 @@
+{
+  "title": "Crispy-Caipira Brazilian Chicken Wrap",
+  "description": "A light and delicious Brazilian-inspired dish featuring crispy chicken, sweet and tangy glaze, and fresh vegetables, all wrapped in a delicate Brazilian-style ti-leaf wrap.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "ovo-vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "4",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "caster sugar",
+      "amount": "2 tablespoons",
+      "notes": "see glaze ingredients"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "seasoned with salt and pepper"
+    },
+    {
+      "name": "ti-leaf wraps",
+      "amount": "4",
+      "notes": "also known as Brazilian-style corn tortillas"
+    },
+    {
+      "name": "roasted red bell pepper",
+      "amount": "1",
+      "notes": "see instructions"
+    },
+    {
+      "name": "roasted red onion",
+      "amount": "1/2",
+      "notes": "see instructions"
+    },
+    {
+      "name": "sliced fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "glaze ingredients: soy sauce, lime juice, honey",
+      "amount": "2 tablespoons each",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken with salt and pepper, then coat with flour, shaking off excess.",
+    "Heat a large skillet over medium-high heat and cook the chicken until browned and crispy, about 5-6 minutes per side.",
+    "Transfer the chicken to a baking sheet and roast in the oven for 10-12 minutes, or until cooked through.",
+    "Meanwhile, prepare the glaze by whisking together soy sauce, lime juice, and honey in a small bowl.",
+    "Add the caster sugar to the glaze and whisk until dissolved.",
+    "Brush the glaze over the roasted chicken and return to the oven for an additional 2-3 minutes.",
+    "Warm the ti-leaf wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wraps by placing a few pieces of roasted chicken onto each wrap, followed by sliced red bell pepper, red onion, and a sprinkle of cilantro (if using).",
+    "Drizzle the remaining glaze over the top of each wrap and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "ovo-vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 28,
+    "fat": 14
+  },
+  "slug": "crispy-caipira-brazilian-chicken-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-caipira-brazilian-chicken-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T19:08:16Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "light",
+    "mood": "weeknight",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "caster sugar",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "Crispy-Caipira",
+    "dishForm": "Wrap"
+  }
+}
