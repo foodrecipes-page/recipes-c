@@ -1,0 +1,95 @@
+{
+  "title": "Crispy Egyptian Wheat Flatbread",
+  "description": "A yeasty and springy flatbread with a crisp finish, perfect for midnight cravings and low-glycemic diets.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "whole wheat flour",
+      "amount": "2 cups",
+      "notes": "about 250 g"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": "70°F, plus 1/4 cup for kneading"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for mixing and brushing"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "baking soda",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": "optional flavor"
+    }
+  ],
+  "instructions": [
+    "In a bowl combine whole wheat flour, salt, baking soda, and caraway seeds.",
+    "Dissolve active dry yeast in 1 cup warm water and let sit for 5 minutes until foamy.",
+    "Add the yeast mixture, honey, and olive oil to the dry ingredients and mix until a sticky dough forms.",
+    "Transfer dough onto a lightly floured surface and knead for 8 minutes until smooth and elastic.",
+    "Place dough in a greased bowl, cover, and let rise at room temperature for 1 hour until doubled.",
+    "Punch down the dough, divide into 8 equal portions, and roll each into a thin disc.",
+    "Heat a non-stick skillet over medium-high heat and lightly brush with olive oil.",
+    "Cook each flatbread for 2 minutes per side until golden brown and crispy, flipping once.",
+    "Serve warm with a side of hummus or fresh salad."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crisp",
+    "egyptian",
+    "flatbread",
+    "low-glycemic",
+    "snack",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 6
+  },
+  "slug": "crispy-egyptian-wheat-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-egyptian-wheat-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:10:40Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "springy",
+    "mood": "midnight-craving",
+    "technique": "score-fat",
+    "primaryIngredient": "salt",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Wheat",
+    "descriptor": "Crispy",
+    "dishForm": "Flatbread"
+  }
+}
