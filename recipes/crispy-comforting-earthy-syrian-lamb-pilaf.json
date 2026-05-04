@@ -1,0 +1,111 @@
+{
+  "title": "Crispy Comforting Earthy Syrian Lamb Pilaf",
+  "description": "A hearty and flavorful dish featuring the sweetness of passion fruit pulp, crispy lamb, and a comforting earthy taste.",
+  "cuisine": "Syrian",
+  "diet": [
+    "halal",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Passion fruit pulp",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Lamb shoulder",
+      "amount": "2 pounds",
+      "notes": "Cut into 1 1/2-inch cubes"
+    },
+    {
+      "name": "Rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat air fryer to 400°F (200°C).",
+    "Season the lamb cubes with salt, black pepper, paprika, and cumin.",
+    "Add olive oil to the air fryer basket and cook the lamb cubes for 5 minutes.",
+    "Add the diced onion to the air fryer basket and cook for an additional 3-4 minutes.",
+    "In a large saucepan, heat 2 tablespoons of olive oil over medium heat.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the rice to the saucepan and cook for 2 minutes, stirring constantly.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 18-20 minutes or until the water is absorbed.",
+    "Fluff the cooked rice with a fork and stir in the passion fruit pulp.",
+    "Add the cooked lamb cubes and chopped parsley to the rice mixture and stir to combine.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fry",
+    "comfort-food",
+    "easy-weeknight",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "crispy-comforting-earthy-syrian-lamb-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-comforting-earthy-syrian-lamb-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T09:42:41Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crispy",
+    "mood": "comforting",
+    "technique": "air-fry",
+    "primaryIngredient": "passion fruit pulp",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "crispy comforting earthy",
+    "dishForm": "Pilaf"
+  }
+}
