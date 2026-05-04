@@ -1,0 +1,102 @@
+{
+  "title": "Crisp, velvety, romantic Australian Romano pepper Grill",
+  "description": "Grassy, velvety, and slightly sweet, this Australian-inspired dish is a perfect romantic dinner featuring roasted Romano pepper, crunchy candy, and a hint of Australian bush herbs.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian",
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Romano pepper",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "candy",
+      "amount": "50g",
+      "notes": "dark, crushed"
+    },
+    {
+      "name": "Australian bush herb blend",
+      "amount": "2 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "roasted garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Australian yogurt",
+      "amount": "100g",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat a robata grill to 400\u00100F (200\u00100C).",
+    "Brush the Romano pepper with olive oil and season with salt, black pepper, and Australian bush herb blend.",
+    "Roast the pepper on the grill for 10 minutes per side, or until slightly charred and tender.",
+    "Meanwhile, mix the candy and lemon juice in a small bowl.",
+    "Once the pepper is cooked, slice it open lengthwise and fill with the candy mixture.",
+    "Return the pepper to the grill for 2-3 minutes, or until the candy is caramelized and bubbly.",
+    "Remove the pepper from the grill and serve with roasted garlic and Australian yogurt."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "candy",
+    "easy-to-make",
+    "grilled",
+    "plant-based",
+    "romano-pepper",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "crisp-velvety-romantic-australian-romano-pepper-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-velvety-romantic-australian-romano-pepper-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:21:08Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "velvety",
+    "mood": "romantic",
+    "technique": "candy",
+    "primaryIngredient": "romano pepper",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Romano pepper",
+    "descriptor": "Crisp, velvety, romantic",
+    "dishForm": "Grill"
+  }
+}

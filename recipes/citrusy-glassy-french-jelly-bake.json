@@ -1,0 +1,118 @@
+{
+  "title": "citrusy glassy french jelly bake",
+  "description": "a monsoon french dish featuring dark soy sauce, wood-fired-bake, and a low-carb-friendly twist.",
+  "cuisine": "french",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "dark soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "orange juice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "zest of 1 orange",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "zest of 1 lemon",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "xanthan gum",
+      "amount": "1/8 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 375\u00120f.",
+    "mix eggs, almond flour, sugar, and xanthan gum in a bowl.",
+    "add soy sauce and mix well.",
+    "add orange and lemon juice and zest, and mix until combined.",
+    "pour the mixture into a 9x13 inch baking dish.",
+    "bake for 25 minutes, then reduce the oven temperature to 325\u00120f and continue baking for another 15-20 minutes, or until the edges are set but the center is still slightly jiggly.",
+    "allow the bake to cool to room temperature before refrigerating it overnight.",
+    "once chilled, use a spatula to loosen the edges of the bake and invert it onto a serving plate.",
+    "serve chilled, garnished with orange and lemon zest if desired.",
+    "cut into 12 equal-sized squares and serve.",
+    "keep leftovers refrigerated for up to 5 days.",
+    "consume within 24 hours of opening for optimal freshness."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 12,
+  "difficulty": "hard",
+  "tags": [
+    "dessert",
+    "french",
+    "gluten-free",
+    "high-protein",
+    "low-carb",
+    "monsoon"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 24,
+    "carbs": 15,
+    "fat": 20
+  },
+  "slug": "citrusy-glassy-french-jelly-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-glassy-french-jelly-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:21:45Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "glassy-jelly",
+    "mood": "monsoon",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "dark soy sauce",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "french",
+    "mainIngredient": "jelly",
+    "descriptor": "citrusy glassy",
+    "dishForm": "bake"
+  }
+}

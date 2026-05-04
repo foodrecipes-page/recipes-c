@@ -1,0 +1,107 @@
+{
+  "title": "cozy springy jamaican shiso-leaf agemono",
+  "description": "A cultured, springy, and cozy Jamaican dish featuring shiso-leaf, agemono-deep-fry, and keto-friendly ingredients. Perfect for a weeknight dinner.",
+  "cuisine": "jamaican",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shiso leaves",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "use gloves when handling"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil to 375°F (190°C) in a deep frying pan.",
+    "Rinse the shiso leaves and pat them dry with a paper towel.",
+    "In a blender, blend the coconut milk, scotch bonnet peppers, garlic cloves, onion, and salt.",
+    "Add the almond flour to the blender and blend until smooth.",
+    "Cut the chicken breast into small pieces and dredge them in the almond flour mixture.",
+    "Add the chicken pieces to the hot oil and fry until golden brown.",
+    "Add the shiso leaves to the oil and fry for 1-2 minutes or until they start to wilt.",
+    "Drain the agemono on paper towels and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "keto",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 6,
+    "fat": 42
+  },
+  "slug": "cozy-springy-jamaican-shiso-leaf-agemono",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-springy-jamaican-shiso-leaf-agemono",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:20:36Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "springy",
+    "mood": "cozy",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "shiso-leaf",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "shiso-leaf",
+    "descriptor": "cozy springy",
+    "dishForm": "agemono"
+  }
+}

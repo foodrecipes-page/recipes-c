@@ -1,0 +1,73 @@
+{
+  "title": "Charred Syrian Barbeque Sauce Kebabs",
+  "description": "A festive and flavorful dish featuring charred vegetable kebabs smothered in sweet and tangy Syrian barbeque sauce. This low-fat-friendly recipe is perfect for a family dinner or a weeknight meal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Mixed vegetables (bell peppers, onions, zucchini)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Barbeque sauce",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Thread the chicken and vegetables onto skewers, leaving some space between each piece.",
+    "Oil the grill grates and cook the kebabs for 8-10 minutes, or until the chicken is cooked through and the vegetables are lightly charred.",
+    "Transfer the kebabs to a plate and brush with barbeque sauce.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Meanwhile, prepare an ice bath by filling a large bowl with ice and water.",
+    "After the kebabs have rested, immediately submerge them in the ice bath to stop the cooking process and help lock in the flavors.",
+    "Once chilled, remove the kebabs from the ice bath and serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "barbeque",
+    "grilled",
+    "kebabs",
+    "low-fat",
+    "syrian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "charred-syrian-barbeque-sauce-kebabs",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-syrian-barbeque-sauce-kebabs",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:21:32Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "bouncy-qq",
+    "mood": "festive",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "barbeque sauce",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "syrian",
+    "mainIngredient": "barbeque sauce",
+    "descriptor": "charred",
+    "dishForm": "kebabs"
+  }
+}

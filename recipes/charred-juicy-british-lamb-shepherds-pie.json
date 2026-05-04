@@ -1,0 +1,141 @@
+{
+  "title": "Charred Juicy British Lamb Shepherds Pie",
+  "description": "A date-night British dish showcasing tender lamb and a crispy, cheesy crust. Inspired by traditional Yorkshire recipes.",
+  "cuisine": "British",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "750g",
+      "notes": ""
+    },
+    {
+      "name": "Red wine",
+      "amount": "250ml",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": " kosher salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.5 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Tobiko",
+      "amount": "20g",
+      "notes": "caviar-style fish roe"
+    },
+    {
+      "name": "Yuzu cure",
+      "amount": "15g",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "4 medium",
+      "notes": ""
+    },
+    {
+      "name": "Peas",
+      "amount": "150g",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tbsp",
+      "notes": "for thickening"
+    },
+    {
+      "name": "Milk",
+      "amount": "150ml",
+      "notes": ""
+    },
+    {
+      "name": "Beef broth",
+      "amount": "250ml",
+      "notes": ""
+    },
+    {
+      "name": "Mashed potatoes",
+      "amount ": "500g",
+      "notes": "hot and fluffy"
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "100g",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 220°C (425°F).",
+    "Season the lamb shoulder with salt, black pepper, and Tobiko.",
+    "In a large Dutch oven, heat the olive oil over high heat. Sear the lamb shoulder until browned on all sides, about 5 minutes. Remove the lamb from the pot and set it aside.",
+    "Reduce heat to medium and sauté the sliced onion and minced garlic until softened, about 8 minutes.",
+    "Add the carrots and peas to the pot, cooking for an additional 5 minutes.",
+    "Add the red wine, beef broth, and yuzu cure to the pot, scraping up any browned bits. Bring the mixture to a simmer and cook until slightly reduced, about 10 minutes.",
+    "Return the lamb shoulder to the pot and transfer it to the preheated oven. Roast the lamb for 20 minutes, or until tender and flavorful.",
+    "While the lamb cooks, prepare the mashed potatoes by boiling diced potatoes in salted water until tender. Drain the potatoes and mash with milk and butter.",
+    "Remove the lamb from the oven and carefully transfer it to a serving dish. Spread the mashed potatoes over the top of the lamb, creating a crispy, cheesy crust.",
+    "Transfer the dish to the oven and bake for an additional 15-20 minutes, or until the potatoes are golden brown and the filling is hot and bubbly.",
+    "Remove the dish from the oven and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 40,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "british",
+    "date-night",
+    "holiday",
+    "kosher",
+    "lamb",
+    "shepherds-pie"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 53,
+    "carbs": 44,
+    "fat": 42
+  },
+  "slug": "charred-juicy-british-lamb-shepherds-pie",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-juicy-british-lamb-shepherds-pie",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:20:37Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "juicy",
+    "mood": "date-night",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "tobiko",
+    "diet": "kosher",
+    "region": "yorkshire",
+    "cuisineAdjective": "British",
+    "mainIngredient": "lamb",
+    "descriptor": "charred juicy",
+    "dishForm": "Shepherds Pie"
+  }
+}

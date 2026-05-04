@@ -1,0 +1,136 @@
+{
+  "title": "Cheesy Grilled Kenyan Veal",
+  "description": "A flavorful and high-protein weeknight dish from Kenya featuring grilled veal and a gooey cheese pull. Perfect for a quick and easy dinner.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "high-protein",
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Veal cutlets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Lamb's breast fat",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dried parsley",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Fresh scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Kenyan chili flakes",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Yak butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh chili peppers",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season veal cutlets with salt, black pepper, and Kenyan chili flakes.",
+    "Grill the veal cutlets for 3 minutes per side or until cooked through.",
+    "In a small bowl, mix together lamb's breast fat, garlic, cilantro, parsley, red pepper flakes, and lemon juice.",
+    "Brush the mixture onto the grilled veal cutlets.",
+    "Top the veal cutlets with cheddar cheese, scallions, and chili peppers.",
+    "Place the veal cutlets back on the grill for another 2 minutes or until the cheese is melted and bubbly.",
+    "Remove the veal cutlets from the grill and top with yak butter and fresh cilantro.",
+    "Serve immediately and enjoy!",
+    "Serve with a side of steamed vegetables or a salad for a well-rounded meal.",
+    "For a spicy kick, add more Kenyan chili flakes or red pepper flakes to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 56,
+    "carbs": 10,
+    "fat": 34
+  },
+  "slug": "cheesy-grilled-kenyan-veal-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/cheesy-grilled-kenyan-veal-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:20:59Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "cheese-pull",
+    "mood": "weeknight",
+    "technique": "dehydrate",
+    "primaryIngredient": "veal",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "veal",
+    "descriptor": "Cheesy grilled",
+    "dishForm": "Grill"
+  }
+}
