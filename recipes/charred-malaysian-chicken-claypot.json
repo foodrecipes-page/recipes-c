@@ -1,0 +1,103 @@
+{
+  "title": "Charred Malaysian Chicken Claypot",
+  "description": "A traditional Malaysian dish featuring charred, juicy chicken cooked in a claypot with Chinese five spice powder, nostalgic and tamasic-friendly.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Chinese five spice powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Heat the coconut oil in the claypot over medium heat.",
+    "Add the minced garlic and grated ginger and cook until fragrant.",
+    "Add the chicken to the claypot and cook until browned on all sides.",
+    "Add the Chinese five spice powder, soy sauce, fish sauce, and brown sugar to the claypot and stir to combine.",
+    "Transfer the claypot to the preheated oven and cook for 25 minutes.",
+    "Remove the claypot from the oven and stir in the chopped scallions and sesame oil.",
+    "Return the claypot to the oven and cook for an additional 5 minutes.",
+    "Remove the claypot from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-inspired",
+    "dairy-free",
+    "gluten-free",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "charred-malaysian-chicken-claypot",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-malaysian-chicken-claypot",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:39:30Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "juicy",
+    "mood": "nostalgic",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "chinese five spice powder",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "charred juicy",
+    "dishForm": "Claypot"
+  }
+}
