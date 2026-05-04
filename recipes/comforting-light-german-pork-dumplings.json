@@ -1,0 +1,92 @@
+{
+  "title": "Comforting Light German Pork Dumplings",
+  "description": "A nostalgic German dish featuring fermented kimchi and desiccated coconut, perfect for a comforting meal. This recipe is onion and garlic free, making it suitable for those with dietary restrictions.",
+  "cuisine": "German",
+  "diet": [
+    "no onion",
+    "no garlic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "preferably lean"
+    },
+    {
+      "name": "desiccated coconut",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ferment kimchi",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the ground pork, desiccated coconut, and chopped ferment kimchi.",
+    "In a separate bowl, whisk together the flour, eggs, salt, and black pepper.",
+    "Add the dry ingredients to the pork mixture and mix until just combined.",
+    "Gradually add the chicken broth to the mixture, stirring until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and shape each into a ball.",
+    "Flatten each ball into a disk shape and cook in boiling water for 10 minutes.",
+    "Serve the dumplings hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-recipes",
+    "comfort-food",
+    "fermented-foods",
+    "german-cuisine",
+    "pork-dishes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "comforting-light-german-pork-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/comforting-light-german-pork-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:50:00Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "light",
+    "mood": "nostalgic",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "desiccated coconut",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "pork",
+    "descriptor": "Comforting Light",
+    "dishForm": "Dumplings"
+  }
+}
