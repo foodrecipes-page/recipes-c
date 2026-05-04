@@ -1,0 +1,121 @@
+{
+  "title": "Crispy Middle-eastern Enab Warak Enab",
+  "description": "A traditional Middle-eastern dish featuring fermented and crispy flatbread filled with spiced ingredients. This recipe is easy to make and can be enjoyed as a snack or dessert.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ghee or vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Minced onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Minced garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Dried mint",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lebanese cheese (or substitute feta or ricotta)",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine yeast, flour, turmeric powder, and salt in a mixing bowl to make the dough.",
+    "Knead the dough for 5 minutes and let it rest for 1 hour.",
+    "Preheat the oven to 400°F (200°C).",
+    "Roll out the dough to a thickness of 1/4 inch and cut into 6-8 pieces.",
+    "Fry the dough pieces in hot ghee or oil until crispy and golden brown.",
+    "Drain the fried dough on paper towels and let it cool slightly.",
+    "Mix the minced onion, garlic, cumin, coriander, and dried mint in a bowl.",
+    "Add the yogurt and mix well to create a crumbly mixture.",
+    "Place a spoonful of the yogurt mixture on each fried dough piece and top with a spoonful of Lebanese cheese.",
+    "Serve the crispy flatbread warm and enjoy!"
+  ],
+  "prepTimeMin": 90,
+  "cookTimeMin": 30,
+  "totalTimeMin": 120,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "cheese",
+    "lebanese",
+    "middle-eastern",
+    "snack",
+    "yogurt"
+  ],
+  "nutrition": {
+    "calories": 375,
+    "protein": 15,
+    "carbs": 55,
+    "fat": 12
+  },
+  "slug": "crispy-middle-eastern-enab-warak-enab",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-middle-eastern-enab-warak-enab",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:29:23Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "bouncy-qq",
+    "mood": "show-off",
+    "technique": "deglaze",
+    "primaryIngredient": "turmeric powder",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Middle-eastern",
+    "mainIngredient": "Enab",
+    "descriptor": "Crispy",
+    "dishForm": "Warak Enab"
+  }
+}

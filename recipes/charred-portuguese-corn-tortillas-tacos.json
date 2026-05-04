@@ -1,0 +1,65 @@
+{
+  "title": "Charred Portuguese Corn Tortillas Tacos",
+  "description": "A sick-day, ovo-vegetarian-friendly twist on traditional Mexican street food, featuring charred corn tortillas and gooey cheese.",
+  "cuisine": "portuguese",
+  "diet": [
+    "ovo-vegetarian",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "corn tortillas",
+      "amount": "8-10",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill or grill pan to medium-high heat.",
+    "Brush both sides of corn tortillas with melted unsalted butter.",
+    "Place tortillas on the grill and cook for 2-3 minutes on each side, or until charred and slightly puffed.",
+    "Transfer tortillas to a plate and let cool slightly."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grill",
+    "portuguese",
+    "sick-day",
+    "street-food",
+    "tacos",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "charred-portuguese-corn-tortillas-tacos",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-portuguese-corn-tortillas-tacos",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:30:17Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "cheese-pull",
+    "mood": "sick-day",
+    "technique": "poach",
+    "primaryIngredient": "corn tortillas",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "portuguese",
+    "mainIngredient": "corn tortillas",
+    "descriptor": "charred",
+    "dishForm": "tacos"
+  }
+}
