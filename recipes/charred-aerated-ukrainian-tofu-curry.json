@@ -1,0 +1,107 @@
+{
+  "title": "Charred Aerated Ukrainian Tofu Curry",
+  "description": "A low-fat Ukrainian style bhuna featuring charred silken tofu, aromatic spices, and a creamy yogurt finish.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "silken tofu",
+      "amount": "400 g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "200 g"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "low-fat yogurt",
+      "amount": "100 g"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "10 g, chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the lazy-susan-spinner to 200°C.",
+    "Cut the tofu into 1-cm cubes and slice the onion.",
+    "Place the tofu and onion on the spinner tray, drizzle with olive oil, and char until browned.",
+    "Transfer the charred tofu and onion to a saucepan and add cumin seeds, letting them pop.",
+    "Add minced garlic and sauté until fragrant.",
+    "Stir in tomato puree, coriander powder, turmeric, garam masala, and salt, then simmer for 5 minutes.",
+    "Fold in the charred tofu and onion, cook for an additional 3 minutes.",
+    "Remove from heat, whisk in low-fat yogurt until the mixture is creamy and aerated.",
+    "Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "charred",
+    "indulgent",
+    "low-fat",
+    "one-pot",
+    "quick",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 9,
+    "carbs": 9,
+    "fat": 5
+  },
+  "slug": "charred-aerated-ukrainian-tofu-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-aerated-ukrainian-tofu-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:54:31Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "aerated",
+    "mood": "indulgent",
+    "technique": "bhuna",
+    "primaryIngredient": "silken tofu",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "tofu",
+    "descriptor": "Charred Aerated",
+    "dishForm": "Curry"
+  }
+}
