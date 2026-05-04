@@ -1,0 +1,97 @@
+{
+  "title": "Charred French Blackberries Salad",
+  "description": "A sweet, snappy brunch salad featuring charred blackberries, red onion, mint, and a tangy balsamic glaze, served in a bamboo tray.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "low-calorie"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "blackberries",
+      "amount": "500g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small (50g)"
+    },
+    {
+      "name": "balsamic glaze",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "12 leaves"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Wash the blackberries and pat them dry with a paper towel.",
+    "In a small bowl, toss the blackberries with olive oil, sea salt, and black pepper.",
+    "Place the prepared berries on the grill and cook for 2-3 minutes per side until lightly charred.",
+    "While the berries are grilling, thinly slice the red onion.",
+    "In a large bowl, combine the charred blackberries, sliced onion, and mint leaves.",
+    "Add the lemon juice and balsamic glaze to the bowl and gently toss everything together.",
+    "Transfer the salad onto a bamboo tray for serving.",
+    "Sprinkle fresh thyme leaves over the top of the salad.",
+    "Serve immediately as a fresh, low-calorie brunch dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bamboo-tray",
+    "brunch",
+    "char-grill",
+    "low-calorie",
+    "quick",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 2,
+    "carbs": 31,
+    "fat": 5
+  },
+  "slug": "charred-french-blackberries-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-french-blackberries-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:24:05Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "snappy",
+    "mood": "brunch-mood",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "blackberries",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "blackberries",
+    "descriptor": "Charred",
+    "dishForm": "Salad"
+  }
+}
