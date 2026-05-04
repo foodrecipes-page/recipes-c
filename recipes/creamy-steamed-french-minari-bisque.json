@@ -1,0 +1,123 @@
+{
+  "title": "Creamy Steamed French Minari Bisque",
+  "description": "A delicate, creamy, and rich French-Style Minari bisque originating from Brittany, served in a traditional kazan cauldron.",
+  "cuisine": "breton",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "minari",
+      "amount": "4 oz"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "kombu seaweed",
+      "amount": "2 oz"
+    },
+    {
+      "name": "kombu dashi broth",
+      "amount": "4 cups",
+      "notes": "unsalted"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black peppercorns",
+      "amount": "1 tsp",
+      "notes": "whole"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "kombu powder",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "kombu flakes",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Steam sliced onion in a kazan until softened.",
+    "Add minced garlic and steam for another 2 minutes.",
+    "Add kombu seaweed, salt, and black peppercorns. Steam for 10 minutes.",
+    "Add kombu dashi broth and bring to a simmer.",
+    "Remove kombu seaweed and let cool.",
+    "Puree the broth using a blender or food processor.",
+    "Heat butter in a pan over low heat.",
+    "Add white wine vinegar and honey. Stir until dissolved.",
+    "Slowly pour the butter mixture into the pureed broth, whisking constantly.",
+    "If desired, add kombu powder or flakes for extra flavor.",
+    "Stir in heavy cream and cook on low heat for 2 minutes.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bisque",
+    "breton",
+    "comforting",
+    "kombu",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "creamy-steamed-french-minari-bisque",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-steamed-french-minari-bisque",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:46:02Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "light",
+    "mood": "romantic",
+    "technique": "knead",
+    "primaryIngredient": "minari",
+    "diet": "buddhist-temple",
+    "region": "brittany",
+    "cuisineAdjective": "French",
+    "mainIngredient": "Minari",
+    "descriptor": "Creamy Steamed",
+    "dishForm": "Bisque"
+  }
+}
