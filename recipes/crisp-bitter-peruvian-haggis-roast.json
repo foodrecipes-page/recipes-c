@@ -1,0 +1,102 @@
+{
+  "title": "Crisp Bitter Peruvian Haggis Roast",
+  "description": "A comforting Peruvian-inspired roast that blends the earthy flavors of haggis with tangy pickled mango, bitter radicchio, and aromatic herbs for a crispy, protein-rich dinner.",
+  "cuisine": "peruvian",
+  "diet": [
+    "gluten-free",
+    "high-protein",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "haggis",
+      "amount": "500 g"
+    },
+    {
+      "name": "pickled green mango",
+      "amount": "100 g"
+    },
+    {
+      "name": "bitter radicchio",
+      "amount": "150 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "50 ml"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "quinoa, cooked",
+      "amount": "100 g"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F) and coat a roasting pan with olive oil.",
+    "Place the haggis in the pan and drizzle with dry white wine to keep it moist during roasting.",
+    "Baste the haggis every 10 minutes with a mixture of olive oil, minced garlic, rosemary, salt, and pepper to build a flavorful crust.",
+    "Scatter pickled green mango and sliced radicchio around the haggis and bake for 35 minutes until the surface is golden and crisp.",
+    "Remove the pan, sprinkle lemon zest over the roast, and let it rest for 5 minutes before slicing.",
+    "Serve the haggis slices with a side of cooked quinoa for an extra protein boost and a garnish of fresh herbs."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bitter",
+    "comfort-food",
+    "crispy",
+    "haggis",
+    "high-protein",
+    "peruvian"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 48,
+    "carbs": 22,
+    "fat": 32
+  },
+  "slug": "crisp-bitter-peruvian-haggis-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-bitter-peruvian-haggis-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:43:56Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crispy",
+    "mood": "comforting",
+    "technique": "pickle",
+    "primaryIngredient": "haggis",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "haggis",
+    "descriptor": "Crisp Bitter",
+    "dishForm": "Roast"
+  }
+}
