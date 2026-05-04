@@ -1,0 +1,121 @@
+{
+  "title": "Charred Crispy Tunisian Kid-Friendly Tagine",
+  "description": "A kid-friendly twist on traditional Tunisian cuisine, featuring a smoky and crispy tagine.",
+  "cuisine": "tunisian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "smoked olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint",
+      "notes": ""
+    },
+    {
+      "name": "pita bread",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, whisk together smoked olive oil, garlic, cumin, paprika, and coriander. Add the chicken and toss to coat.",
+    "Add the onion, cherry tomatoes, salt, and black pepper to the bowl and toss to coat.",
+    "Transfer the mixture to a tagine or large oven-safe skillet and cover with foil.",
+    "Bake for 25 minutes, then remove the foil and continue baking for an additional 20-25 minutes, or until the chicken is cooked through and the vegetables are tender.",
+    "Warm the pita bread by wrapping it in foil and baking it in the oven for a few minutes.",
+    "Chop the parsley and sprinkle it over the top of the tagine.",
+    "Serve the tagine hot with the pita bread on the side.",
+    "Garnish with additional parsley if desired.",
+    "Let the tagine rest for a few minutes before serving to allow the juices to redistribute.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "kid-friendly",
+    "one-pan",
+    "paleo-friendly",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 26
+  },
+  "slug": "charred-crispy-tunisian-kid-friendly-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-crispy-tunisian-kid-friendly-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:30:48Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crispy",
+    "mood": "kid-friendly",
+    "technique": "salt-bake",
+    "primaryIngredient": "smoky a oli",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "kid-friendly",
+    "descriptor": "charred crispy",
+    "dishForm": "tagine"
+  }
+}

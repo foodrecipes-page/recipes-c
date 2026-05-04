@@ -1,0 +1,114 @@
+{
+  "title": "creamy Turkish herbal Pilaf",
+  "description": "A simple, comforting dish featuring a blend of fragrant herbs atop a creamy pilaf. Suitable for busy weeknights, this recipe is also vegan-friendly, making it a great option for those following a Buddhist diet.",
+  "cuisine": "turkish",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "canola oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion, finely chopped",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "soy flour",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "non-dairy milk",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "vegan cream cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat canola oil in a large skillet over medium heat.",
+    "Add the chopped onion and sauté until softened, about 5 minutes.",
+    "Add the minced garlic and sauté for another minute.",
+    "Add the soy flour and cook for 1 minute, stirring constantly.",
+    "Add the chopped parsley, dill, cumin, paprika, and salt, and stir to combine.",
+    "Pour in the non-dairy milk and bring the mixture to a simmer.",
+    "Reduce heat to low and add the vegan cream cheese, stirring until melted and smooth.",
+    "Cook for an additional 2-3 minutes, until the mixture has thickened slightly."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "one-pan",
+    "turkish",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "creamy-turkish-herbal-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-turkish-herbal-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:30:38Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "creamy",
+    "mood": "weeknight",
+    "technique": "soffritto-base",
+    "primaryIngredient": "canola oil",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "herbal",
+    "descriptor": "creamy",
+    "dishForm": "Pilaf"
+  }
+}

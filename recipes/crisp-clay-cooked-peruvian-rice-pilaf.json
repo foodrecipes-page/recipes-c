@@ -1,0 +1,108 @@
+{
+  "title": "crisp clay cooked peruvian rice pilaf",
+  "description": "dense and savory, kid-friendly peruvian dish featuring rice and sautéed vegetables, perfect for a weeknight dinner.",
+  "cuisine": "peruvian",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the oil in a large clay pot over medium heat.",
+    "add the onion and garlic and cook until the onion is translucent.",
+    "add the red bell pepper and tomato and cook for an additional 2 minutes.",
+    "add the rice and cook for 1 minute, stirring constantly.",
+    "add the chicken broth and water, and bring to a boil.",
+    "reduce the heat to low, cover the pot, and cook for 15 minutes.",
+    "fluff the rice with a fork and season with salt and pepper.",
+    "serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kid-friendly",
+    "one-pan",
+    "peruvian",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 55,
+    "fat": 8
+  },
+  "slug": "crisp-clay-cooked-peruvian-rice-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-clay-cooked-peruvian-rice-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:31:00Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "dense",
+    "mood": "kid-friendly",
+    "technique": "saute",
+    "primaryIngredient": "rice",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "rice",
+    "descriptor": "Crisp Clay Cooked",
+    "dishForm": "Pilaf"
+  }
+}

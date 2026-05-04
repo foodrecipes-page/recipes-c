@@ -1,0 +1,98 @@
+{
+  "title": "Cozy Mediterranean Almonds Bake",
+  "description": "Warm, earthy, and full of Mediterranean flavors, this almond essence-infused bake is perfect for a cozy evening.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond essence",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "castor sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "all-purpose gluten-free flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground almonds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "zest of 1 lemon",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "Mix together the softened butter and castor sugar until light and fluffy.",
+    "Beat in the almond essence, eggs, and plain yogurt.",
+    "In a separate bowl, whisk together the gluten-free flour, baking powder, and ground almonds.",
+    "Add the dry ingredients to the wet ingredients and mix until just combined.",
+    "Stir in the lemon zest.",
+    "Pour the batter into a greased 9x9-inch baking dish.",
+    "Bake for 35-40 minutes, or until golden brown and set.",
+    "Let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "almond",
+    "cozy",
+    "dessert",
+    "easy-to-make",
+    "gluten-free",
+    "mediterranean",
+    "one-bowl"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 11,
+    "carbs": 40,
+    "fat": 22
+  },
+  "slug": "cozy-mediterranean-almonds-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-mediterranean-almonds-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:30:33Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crisp",
+    "mood": "cozy",
+    "technique": "whisk",
+    "primaryIngredient": "almond essence",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "mediterranean",
+    "mainIngredient": "almonds",
+    "descriptor": "cozy",
+    "dishForm": "bake"
+  }
+}

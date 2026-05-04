@@ -1,0 +1,109 @@
+{
+  "title": "Charred Comforting Thai Tiger Prawns Pad See Ew",
+  "description": "A charred, snappy, comforting Thai dish featuring raw tiger prawns, served in a style inspired by traditional Bangkok street food.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tiger prawns",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Bangkok street-style sauce",
+      "amount": "1/4 cup",
+      "notes": "see recipe note for DIY version"
+    },
+    {
+      "name": "Pad see ew noodles",
+      "amount": "1 cup",
+      "notes": "rice stick noodles or substitute with regular rice noodles"
+    },
+    {
+      "name": "Chopped shallots",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Thai basil",
+      "amount": "4 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "Charred lime wedges",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large wok or frying pan over high heat.",
+    "Add the tiger prawns and cook for 2 minutes per side, or until charred and just cooked through.",
+    "Remove the prawns from the wok and set aside.",
+    "In the same wok, add the remaining 1 tablespoon of vegetable oil.",
+    "Add the chopped shallots and cook for 2 minutes, or until fragrant.",
+    "Add the pad see ew noodles and cook for 2 minutes, stirring constantly.",
+    "Add the Bangkok street-style sauce and stir to combine.",
+    "Return the cooked prawns to the wok and toss with the noodles and sauce.",
+    "Season with ground black pepper and salt to taste.",
+    "Transfer the dish to a serving platter and garnish with chopped Thai basil and charred lime wedges.",
+    "Serve immediately.",
+    "Recipe note: to make a DIY version of Bangkok street-style sauce, combine 1/4 cup of tamarind paste, 1/4 cup of fish sauce, 2 tablespoons of palm sugar, and 2 tablespoons of water in a saucepan.",
+    "Bring to a simmer over medium heat, whisking constantly, and cook for 2-3 minutes, or until the sauce has thickened.",
+    "Let cool and store in an airtight container in the fridge for up to 1 week."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "streetfood",
+    "thaifood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 384,
+    "protein": 29,
+    "carbs": 44,
+    "fat": 16
+  },
+  "slug": "charred-comforting-thai-tiger-prawns-pad-see-ew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-comforting-thai-tiger-prawns-pad-see-ew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:30:41Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "snappy",
+    "mood": "comforting",
+    "technique": "bain-marie",
+    "primaryIngredient": "raw tiger prawns",
+    "diet": "dairy-free",
+    "region": "bangkok-street",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "tiger prawns",
+    "descriptor": "charred comforting",
+    "dishForm": "Pad See Ew"
+  }
+}
