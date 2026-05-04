@@ -1,0 +1,107 @@
+{
+  "title": "Creamy Chinese Semolina Chow Fun",
+  "description": "A pungent and shaggy Chinese dish featuring semolina, this creamy chow fun is a show-off recipe that is dairy-free-friendly.",
+  "cuisine": "Chinese",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "semolina",
+      "amount": "1 cup",
+      "notes": "preferably fine semolina"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and grated ginger and cook for 1 minute, stirring constantly.",
+    "Add the sliced mushrooms and cook until they are tender and lightly browned.",
+    "Add the cooked rice noodles and stir to combine with the mushroom mixture.",
+    "In a small bowl, whisk together the soy sauce and coconut cream.",
+    "Pour the soy sauce mixture over the noodle mixture and stir to combine.",
+    "Reduce the heat to low and simmer the mixture for 5 minutes, stirring occasionally.",
+    "Stir in the chopped scallions and cook for an additional 1 minute.",
+    "Serve the creamy chow fun hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "dairy-free",
+    "noodle-dish",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "creamy-chinese-semolina-chow-fun",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-chinese-semolina-chow-fun",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:53:26Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "shaggy",
+    "mood": "show-off",
+    "technique": "simmer",
+    "primaryIngredient": "semolina",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "semolina",
+    "descriptor": "Creamy",
+    "dishForm": "Chow Fun"
+  }
+}
