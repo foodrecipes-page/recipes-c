@@ -1,0 +1,107 @@
+{
+  "title": "Crusty Woodfired Mediterranean Pork Belly Bake",
+  "description": "A hearty, satisfying dish featuring woodfired pork belly slices, perfect for a post-workout meal, with vegan-friendly alternatives available. This recipe combines the richness of pork belly with the brightness of Mediterranean flavors.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork belly slices",
+      "amount": "1 pound",
+      "notes": "or vegan alternative such as portobello mushrooms"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 packet",
+      "notes": "active dry"
+    },
+    {
+      "name": "woodfired bread crumbs",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the woodfired oven to 425 degrees Fahrenheit.",
+    "In a small bowl, whisk together olive oil, lemon juice, garlic, oregano, thyme, salt, and black pepper.",
+    "Place the pork belly slices in a large bowl and brush the olive oil mixture evenly over both sides of the slices.",
+    "Let the pork belly slices marinate for at least 30 minutes.",
+    "In a separate bowl, mix together yeast and woodfired bread crumbs.",
+    "Remove the pork belly slices from the marinade and coat each slice in the yeast and bread crumb mixture, pressing gently to adhere.",
+    "Place the coated pork belly slices on a baking sheet lined with parchment paper.",
+    "Bake the pork belly slices in the preheated woodfired oven for 25 minutes, or until crispy and golden brown.",
+    "Remove the pork belly slices from the oven and let rest for 5 minutes before serving.",
+    "Serve the crusty woodfired Mediterranean pork belly bake hot, garnished with fresh herbs and lemon wedges if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "mediterranean",
+    "pork-belly",
+    "post-workout",
+    "vegan-friendly",
+    "woodfired"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "crusty-woodfired-mediterranean-pork-belly-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crusty-woodfired-mediterranean-pork-belly-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:51:20Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "dense",
+    "mood": "post-workout",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "pork belly slices",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "pork belly",
+    "descriptor": "Crusty Woodfired",
+    "dishForm": "Bake"
+  }
+}
