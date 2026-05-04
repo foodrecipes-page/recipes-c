@@ -1,0 +1,96 @@
+{
+  "title": "Charcoal Smoked Turkish Lamb Kebabs",
+  "description": "Savory and chewy Turkish lamb kebabs smoked to perfection with binchotan charcoal, featuring blueberries and served on a wooden board, this dish is a romantic and delicious treat for any occasion",
+  "cuisine": "Turkish",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "blueberries",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "1 piece"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan charcoal until it reaches a temperature of 400 degrees Fahrenheit",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, paprika, salt, and black pepper",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece",
+    "Place the skewers on the preheated binchotan charcoal and smoke for 10 minutes per side",
+    "While the lamb is cooking, mix the blueberries with a pinch of salt and a squeeze of lemon juice",
+    "Once the lamb is cooked, serve it on a wooden board with the blueberry mixture spooned over the top",
+    "Garnish with fresh parsley or thyme, if desired"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "lamb-recipes",
+    "romantic-dinner",
+    "smoked-meat",
+    "turkish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "charcoal-smoked-turkish-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/charcoal-smoked-turkish-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:18:53Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "chewy",
+    "mood": "romantic",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "blueberries",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "charcoal smoked",
+    "dishForm": "Kebabs"
+  }
+}
