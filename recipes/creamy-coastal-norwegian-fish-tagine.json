@@ -1,0 +1,104 @@
+{
+  "title": "Creamy Coastal Norwegian Fish Tagine",
+  "description": "A yeasty and velvety Norwegian dish featuring chimichurri sauce and ferment-jang, perfect for a festive pescatarian meal",
+  "cuisine": "Norwegian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4 pieces",
+      "notes": "fresh and sustainably sourced"
+    },
+    {
+      "name": "chimichurri sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "2 tablespoons",
+      "notes": "Korean fermented soybean paste"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry yeast"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "norwegian cheese",
+      "amount": "1 cup",
+      "notes": "such as Jarlsberg or Gudbrandsdalsost"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Season the cod fillets with salt and black pepper.",
+    "In a large tagine pot, combine the chimichurri sauce, ferment-jang, and yeast.",
+    "Add the heavy cream and norwegian cheese to the tagine pot and stir until the cheese is melted.",
+    "Add the cod fillets to the tagine pot and spoon some of the sauce over the top of each fillet.",
+    "Cover the tagine pot with a lid and bake for 20 minutes.",
+    "Remove the lid and continue baking for an additional 10 minutes.",
+    "Sprinkle the chopped parsley over the top of the cod fillets and serve hot.",
+    "Serve the creamy coastal norwegian fish tagine with crusty bread or over rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "festive",
+    "norwegian-cuisine",
+    "one-pot",
+    "pescatarian",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "creamy-coastal-norwegian-fish-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-coastal-norwegian-fish-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:56:07Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "velvety",
+    "mood": "festive",
+    "technique": "ferment-jang",
+    "primaryIngredient": "chimichurri sauce",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "fish",
+    "descriptor": "Creamy Coastal",
+    "dishForm": "Tagine"
+  }
+}
