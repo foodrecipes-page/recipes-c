@@ -1,0 +1,120 @@
+{
+  "title": "citrusy lazy-sunday grønnsakstove",
+  "description": "a hearty, slow-cooked norwegian-inspired dish made with tender root vegetables, citrus, and a hint of vinegar, perfect for a relaxing sunday afternoon.",
+  "cuisine": "norwegian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "norwegian lamb shoulder",
+      "amount": "1",
+      "notes": "bone-in, 2 pounds"
+    },
+    {
+      "name": "carrots",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "parsnips",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "turnips",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "onions",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemons",
+      "amount": "2",
+      "notes": "juiced"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "2 tablespoons",
+      "notes": "vegan"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 275°f (135°c).",
+    "season the lamb shoulder with salt, pepper, and thyme.",
+    "heat the olive oil in a large dutch oven over medium-high heat. sear the lamb shoulder until browned on all sides, about 2-3 minutes per side. remove the lamb from the pot and set aside.",
+    "add the diced onions to the pot and cook until they begin to soften, about 3-4 minutes. add the minced garlic and cook for an additional minute. ",
+    "add the sliced carrots, parsnips, and turnips to the pot, stirring to combine with the onions and garlic. cook for 5 minutes, stirring occasionally.",
+    "add the white wine vinegar, apple cider vinegar, lemon juice, and water to the pot, stirring to combine. bring the mixture to a simmer.",
+    "return the lamb shoulder to the pot, cover with a lid, and transfer to the preheated oven. cook for 2-3 hours, or until the lamb is tender and falls apart easily.",
+    "remove the pot from the oven and let it cool slightly. serve the lamb and vegetables hot, garnished with additional thyme if desired.",
+    "season with salt and pepper to taste.",
+    "serve with additional lemon wedges on the side, if desired.",
+    "reheat the remaining liquid from the pot and serve as a sauce over the lamb and vegetables, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 180,
+  "totalTimeMin": 200,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "norwegian",
+    "one-pan",
+    "slow-cooked",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 64,
+    "carbs": 24,
+    "fat": 44
+  },
+  "slug": "citrusy-lazy-sunday-grill-norwegian-dish",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-lazy-sunday-grill-norwegian-dish",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:32:18Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "tender",
+    "mood": "lazy-sunday",
+    "technique": "grill",
+    "primaryIngredient": "vegan white wine vinegar",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "norwegian",
+    "mainIngredient": "grill",
+    "descriptor": "Citrusy, tender, lazy-sunday",
+    "dishForm": "Grill"
+  }
+}

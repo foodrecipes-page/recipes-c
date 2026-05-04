@@ -1,0 +1,111 @@
+{
+  "title": "Charred Flaky Venezuelan Taco Shells Tacos",
+  "description": "A post-workout meal featuring charred, flaky Venezuelan-style taco shells, topped with a tadka-inspired mixture of spices and protein-rich ingredients.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Corn tortillas",
+      "amount": "6-8",
+      "notes": "preferably day-old tortillas for optimal flakiness"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing tortillas"
+    },
+    {
+      "name": "Ghee",
+      "amount": "1 tablespoon",
+      "notes": "for tadka mixture"
+    },
+    {
+      "name": "Onion seeds",
+      "amount": "1 teaspoon",
+      "notes": "for tadka mixture"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 teaspoon",
+      "notes": "for tadka mixture"
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 teaspoon",
+      "notes": "for tadka mixture"
+    },
+    {
+      "name": "Garam masala powder",
+      "amount": "1/2 teaspoon",
+      "notes": "for tadka mixture"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded, for topping"
+    },
+    {
+      "name": "Scrambled eggs",
+      "amount": "4",
+      "notes": "for topping"
+    },
+    {
+      "name": "Sliced avocado",
+      "amount": "1 medium",
+      "notes": "for topping"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Brush both sides of the tortillas with vegetable oil and season with salt.",
+    "Heat ghee in a pan over medium heat and add onion seeds, cumin seeds, coriander powder, and garam masala powder. Cook for 1-2 minutes, until fragrant.",
+    "Place tortillas in the pan and cook for 1-2 minutes on each side, until slightly charred and puffed.",
+    "Transfer tortillas to the oven and bake for 5-7 minutes, until crispy and golden brown.",
+    "Meanwhile, scramble eggs and season with salt to taste.",
+    "Cut tortillas into taco shell shapes and fill with scrambled eggs, shredded cheese, sliced avocado, and any other desired toppings.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 24,
+    "fat": 14
+  },
+  "slug": "charred-flaky-venezuelan-taco-shells-tacos",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-flaky-venezuelan-taco-shells-tacos",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:32:47Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "flaky",
+    "mood": "post-workout",
+    "technique": "tadka",
+    "primaryIngredient": "hard taco shells",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "taco shells",
+    "descriptor": "charred flaky",
+    "dishForm": "Tacos"
+  }
+}
