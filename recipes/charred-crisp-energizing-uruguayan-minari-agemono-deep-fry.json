@@ -1,0 +1,86 @@
+{
+  "title": "Charred Crisp Energizing Uruguayan Minari Agemono-Deep-Fry",
+  "description": "This Uruguayan dish features charred, crisp-edged Minari wrapped in an Agemono-deep-fry. Perfect for a quick, energizing snack or meal.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "Whole30"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Minari",
+      "amount": "4 bunches",
+      "notes": ""
+    },
+    {
+      "name": "Tallow or Avocado Oil",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Lime Wedges",
+      "amount": "4",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1/2 cup of tallow or avocado oil in a wok over medium-high heat (375°F).",
+    "Separate the Minari into individual leaves.",
+    "Season the Minari with salt and black pepper.",
+    "Add 4-6 Minari leaves to the oil and cook for 2-3 minutes on each side, or until charred and crispy.",
+    "Repeat the cooking process with the remaining Minari leaves.",
+    "Increase the heat to high and add the garlic to the oil for 30 seconds, or until fragrant.",
+    "Drain the Minari on paper towels and serve hot with lime wedges.",
+    "Serve immediately, garnished with lime wedges if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fry",
+    "snack",
+    "uruguayan",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "charred-crisp-energizing-uruguayan-minari-agemono-deep-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-crisp-energizing-uruguayan-minari-agemono-deep-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:47:39Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crisp",
+    "mood": "energizing",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "minari",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Minari",
+    "descriptor": "charred crisp energizing",
+    "dishForm": "Agemono-Deep-Fry"
+  }
+}

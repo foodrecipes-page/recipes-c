@@ -1,0 +1,75 @@
+{
+  "title": "crumbly savory algerian dough flatbread",
+  "description": "a traditional algereian recipe that is perfect for a hangover cure, featuring a crumbly self-raising flour flatbread grilled to perfection",
+  "cuisine": "algerian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "self-raising flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "3/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "use low-sodium salt"
+    }
+  ],
+  "instructions": [
+    "mix self-raising flour, olive oil, water, and salt in a bowl to form a crumbly dough",
+    "knead the dough for 5 minutes until it comes together",
+    "divide the dough into 4 equal pieces and roll out each piece into a thin circle",
+    "brush the dough with olive oil and sprinkle with rosemary and sesame seeds",
+    "preheat a robata grill to high heat and cook the flatbreads for 2-3 minutes on each side",
+    "remove the flatbreads from the grill and let them cool for a minute before serving"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "algerian",
+    "hangover-cure",
+    "high-fiber",
+    "low-sodium",
+    "robata-grill"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "crumbly-savory-algerian-dough-flatbread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-savory-algerian-dough-flatbread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:47:16Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crumbly",
+    "mood": "hangover-cure",
+    "technique": "robata-grill",
+    "primaryIngredient": "self-raising flour",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "algerian",
+    "mainIngredient": "dough",
+    "descriptor": "crumbly savory",
+    "dishForm": "flatbread"
+  }
+}
