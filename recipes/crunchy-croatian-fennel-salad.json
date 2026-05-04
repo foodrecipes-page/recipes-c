@@ -1,0 +1,97 @@
+{
+  "title": "Crunchy Croatian Fennel Salad",
+  "description": "A vibrant, crisp salad featuring roasted fennel, citrus vinaigrette, and toasted walnuts.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fennel bulb",
+      "amount": "1 large",
+      "notes": "sliced into thin ribbons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cracked black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "toasted walnuts",
+      "amount": "1 cup",
+      "notes": "toasted in skillet"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "roasted red pepper flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "arugula",
+      "amount": "2 cups",
+      "notes": "washed and dried"
+    }
+  ],
+  "instructions": [
+    "Preheat a charcoal grill to medium-high heat.",
+    "Toss fennel slices with 2 tbsp olive oil, salt, and pepper.",
+    "Grill fennel for 3-4 minutes per side until charred and tender.",
+    "While fennel cooks, toast walnuts in a dry skillet over medium heat until fragrant, about 3 minutes.",
+    "In a small bowl whisk together lemon juice, remaining olive oil, salt, pepper, and red pepper flakes.",
+    "Once fennel is grilled, transfer to a serving bowl and drizzle with vinaigrette.",
+    "Add toasted walnuts, chopped dill, and arugula to the bowl and toss gently.",
+    "Serve immediately, optionally garnish with extra dill."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 11,
+  "totalTimeMin": 26,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fresh-salad",
+    "grilled",
+    "quick",
+    "roasted",
+    "vegetarian",
+    "wine-friendly"
+  ],
+  "nutrition": {
+    "calories": 259,
+    "protein": 2,
+    "carbs": 6,
+    "fat": 27
+  },
+  "slug": "crunchy-croatian-fennel-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-croatian-fennel-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:53:31Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crunchy",
+    "mood": "festive",
+    "technique": "robata-grill",
+    "primaryIngredient": "fennel",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Fennel",
+    "descriptor": "Crunchy",
+    "dishForm": "Salad"
+  }
+}

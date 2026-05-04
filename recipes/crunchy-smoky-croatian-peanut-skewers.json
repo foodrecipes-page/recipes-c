@@ -1,0 +1,93 @@
+{
+  "title": "Crunchy Smoky Croatian Peanut Skewers",
+  "description": "A smoky and flaky Croatian dish featuring roasted peanuts, perfect for a show-off snack or appetizer. This Whole30-friendly recipe is served on a tagliere.",
+  "cuisine": "Croatian",
+  "diet": [
+    "Whole30",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "peanuts",
+      "amount": "1 cup",
+      "notes": "dry roasted"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large bowl, whisk together dashi extract, smoked paprika, garlic powder, sea salt, and black pepper.",
+    "Add the dry roasted peanuts to the bowl and stir until they are evenly coated with the spice mixture.",
+    "Thread the spice-coated peanuts onto skewers, leaving a small space between each peanut.",
+    "Drizzle the coconut oil over the peanut skewers and toss to coat.",
+    "Place the skewers on a baking sheet lined with parchment paper and bake for 10 minutes.",
+    "Remove the skewers from the oven and sprinkle with chopped fresh parsley.",
+    "Serve the Crunchy Smoky Croatian Peanut Skewers on a tagliere."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "croatian",
+    "gluten-free",
+    "peanut",
+    "smoky",
+    "snack",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 7,
+    "carbs": 8,
+    "fat": 14
+  },
+  "slug": "crunchy-smoky-croatian-peanut-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-smoky-croatian-peanut-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:52:52Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "flaky",
+    "mood": "show-off",
+    "technique": "dashi-extract",
+    "primaryIngredient": "roasted peanut",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "peanuts",
+    "descriptor": "Crunchy Smoky",
+    "dishForm": "Skewers"
+  }
+}
