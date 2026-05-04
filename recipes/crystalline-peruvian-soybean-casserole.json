@@ -1,0 +1,111 @@
+{
+  "title": "Crystalline Peruvian Soybean Casserole",
+  "description": "A resinous, flaky casserole that blends Peruvian flavors with soybeans, creating a nostalgic and flexitarian-friendly dish.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried soybeans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": "for cooking beans"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse soybeans and soak them in water overnight or for at least 8 hours.",
+    "Drain soaked beans and place them in a pot with 4 cups water; bring to a boil, then reduce heat and simmer until tender, about 45 minutes.",
+    "While beans cook, heat olive oil in a wok over medium heat and sauté onion, garlic, and red bell pepper until softened, about 5 minutes.",
+    "Add cooked beans, coconut milk, soy sauce, cumin, and smoked paprika to the wok; stir to combine.",
+    "Season mixture with salt and pepper and cook for another 10 minutes to allow flavors to meld.",
+    "Preheat oven to 375°F and line a baking dish with parchment paper.",
+    "Transfer bean mixture to the baking dish, smooth the top, and sprinkle panko breadcrumbs evenly.",
+    "Bake for 20 minutes until breadcrumbs are golden and the casserole is bubbling.",
+    "Remove from oven, let rest 5 minutes, then garnish with chopped cilantro before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bean-casserole",
+    "family-friendly",
+    "flexitarian-friendly",
+    "peruvian",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "crystalline-peruvian-soybean-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crystalline-peruvian-soybean-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:20:07Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "flaky",
+    "mood": "nostalgic",
+    "technique": "wok-hei",
+    "primaryIngredient": "soya bean",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "soybean",
+    "descriptor": "Crystalline",
+    "dishForm": "Casserole"
+  }
+}
