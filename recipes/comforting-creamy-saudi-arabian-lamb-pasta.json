@@ -1,0 +1,103 @@
+{
+  "title": "Comforting Creamy Saudi Arabian Lamb Pasta",
+  "description": "A hearty and comforting dish featuring paccheri pasta, tender lamb, and a rich tadka sauce, inspired by the flavors of Saudi Arabia",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paccheri pasta",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "lamb shoulder",
+      "amount": "1 lb",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "canned coconut milk",
+      "amount": "14 oz"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the paccheri pasta according to the package instructions until al dente",
+    "In a large skillet, heat the ghee over medium-high heat and sear the lamb pieces until browned on all sides",
+    "Remove the lamb from the skillet and set aside, then add the chopped onion and cook until softened and translucent",
+    "Add the minced garlic to the skillet and cook for 1 minute, until fragrant",
+    "Stir in the ground cumin and coriander and cook for 1 minute, until the spices are fragrant",
+    "Add the cooked lamb back to the skillet and stir to combine with the spices and onion mixture",
+    "Pour in the canned coconut milk and bring the mixture to a simmer",
+    "Reduce the heat to low and let the sauce simmer for 10 minutes, until the lamb is tender and the sauce has thickened",
+    "Stir in the salt and black pepper to taste, then add the cooked paccheri pasta to the skillet and toss to combine with the sauce",
+    "Serve the pasta hot, garnished with fresh herbs if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lamb-based",
+    "pasta-dishes",
+    "saudi-arabian-cuisine",
+    "weeknight-meals"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "comforting-creamy-saudi-arabian-lamb-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/comforting-creamy-saudi-arabian-lamb-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:29:18Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "shaggy",
+    "mood": "nostalgic",
+    "technique": "tadka",
+    "primaryIngredient": "paccheri pasta",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "Comforting Creamy",
+    "dishForm": "Pasta"
+  }
+}
