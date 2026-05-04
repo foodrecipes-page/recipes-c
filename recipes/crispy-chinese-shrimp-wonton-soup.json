@@ -1,0 +1,119 @@
+{
+  "title": "Crispy Chinese Shrimp Wonton Soup",
+  "description": "A festive, briny soup featuring crispy shrimp wontons and a glassy-jelly broth with chili flakes.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "200g",
+      "notes": "peeled and minced"
+    },
+    {
+      "name": "wonton wrappers",
+      "amount": "10",
+      "notes": "regular size"
+    },
+    {
+      "name": "low-sodium chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "minced"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 tsp",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "white pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "scallion",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "agar-agar powder",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "In a bowl, combine minced shrimp, soy sauce, ginger, garlic, salt, pepper, and chili flakes until well coated.",
+    "Spoon 1 tablespoon of shrimp mixture onto the center of a wonton wrapper, moisten the edges with water, fold into a triangle and seal edges by pinching together.",
+    "Heat a non-stick skillet over medium-high heat, add a small splash of sesame oil, and fry wontons until edges are golden and crisp, about 2 minutes per side.",
+    "Transfer fried wontons to a plate lined with paper towels to drain excess oil.",
+    "In a medium saucepan, whisk together chicken broth, water, rice vinegar, and agar-agar powder until dissolved.",
+    "Bring the mixture to a gentle boil, then reduce heat to maintain a steady simmer for 5 minutes, allowing the agar-agar to activate.",
+    "Add the crispy wontons to the simmering broth, letting them warm through for 2 minutes.",
+    "Ladle soup into bowls, drizzle with remaining sesame oil, and sprinkle sliced scallions on top.",
+    "Adjust seasoning with extra salt or chili flakes if desired.",
+    "Serve immediately while the broth remains clear and slightly thickened."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crisp",
+    "easy",
+    "quick",
+    "shrimp",
+    "soup",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 33,
+    "carbs": 41,
+    "fat": 12
+  },
+  "slug": "crispy-chinese-shrimp-wonton-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-chinese-shrimp-wonton-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:55:43Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "glassy-jelly",
+    "mood": "festive",
+    "technique": "rest-meat",
+    "primaryIngredient": "chilli flakes",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "shrimp",
+    "descriptor": "Crispy",
+    "dishForm": "Wonton Soup"
+  }
+}
