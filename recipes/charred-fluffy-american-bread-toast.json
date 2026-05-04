@@ -1,0 +1,81 @@
+{
+  "title": "Charred, Fluffy American Bread Toast",
+  "description": "A nostalgic American dish featuring double-rise bread, charred to perfection and infused with the tanginess of pickle juice.",
+  "cuisine": "american",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Double-rise bread",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "Pickle juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "notes": "to taste",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "notes": "to taste",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C).",
+    "Slice the double-rise bread into 1-inch thick slices and place on a baking sheet.",
+    "Drizzle the pickle juice over the bread slices, making sure each slice is coated.",
+    "Dot the top of each bread slice with unsalted butter.",
+    "Season with salt and black pepper to taste.",
+    "Bake the bread in the preheated oven for 12-15 minutes, or until golden brown and charred.",
+    "Remove the bread from the oven and let cool for 2-3 minutes.",
+    "Flip the bread slices over and return to the oven for an additional 2-3 minutes, or until the other side is also charred.",
+    "Remove the bread from the oven and let cool completely on a wire rack.",
+    "Serve the charred, fluffy American bread toast warm, or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "breakfast",
+    "easy-to-make",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "charred-fluffy-american-bread-toast",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-fluffy-american-bread-toast",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T02:31:38Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "fluffy",
+    "mood": "nostalgic",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "pickle juice",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "bread",
+    "descriptor": "charred, fluffy",
+    "dishForm": "Toast"
+  }
+}
