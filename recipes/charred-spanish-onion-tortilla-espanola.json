@@ -1,0 +1,101 @@
+{
+  "title": "Charred Spanish Onion Tortilla Espanola",
+  "description": "A rich and savory Spanish dish featuring charred spring onions and a crispy fried exterior, perfect for a quick weeknight dinner. Tortilla espanola, a Spanish omelette, is a staple of Valencian cuisine.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Onions",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 tbsp",
+      "notes": "for dusting"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a grill or grill pan to medium-high heat.",
+    "Char the onions until they're well-browned and slightly blackened, about 10 minutes per side. Stir occasionally to prevent burning.",
+    "Let the onions cool, then finely chop them and set aside.",
+    "In a large bowl, whisk together the eggs, smoked paprika, black pepper, and salt.",
+    "Dust a plate with flour and set aside.",
+    "Heat about 1/2 inch of vegetable oil in a large skillet over medium-high heat.",
+    "Add the mixture to the skillet and cook until the edges start to set, about 2-3 minutes.",
+    "Use a spatula to gently lift and fold the tortilla towards the center, allowing the uncooked egg to flow to the edges.",
+    "Continue cooking and folding the tortilla for another 2-3 minutes, until almost set.",
+    "Reduce the heat to medium and cook for an additional 2-3 minutes, until the tortilla is golden brown and cooked through.",
+    "Slide the tortilla onto the prepared plate and let it cool for a minute or two before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "one-pan",
+    "spanish",
+    "tortilla-espanola",
+    "valencian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 16,
+    "carbs": 24,
+    "fat": 18
+  },
+  "slug": "charred-spanish-onion-tortilla-espanola",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-spanish-onion-tortilla-espanola",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:40:11Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "springy",
+    "mood": "indulgent",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "onion salt",
+    "diet": "satvik",
+    "region": "valencian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "onion",
+    "descriptor": "charred",
+    "dishForm": "Tortilla Espanola"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "title": "Charred Norwegian Oil Flatbread",
+  "description": "A romantic Norwegian dish featuring pillowy, charred flatbread made with oil, ideal for a low-glycemic-friendly dinner option.",
+  "cuisine": "norwegian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "water",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp",
+      "notes": "or other neutral-tasting oil"
+    }
+  ],
+  "instructions": [
+    "Combine flour, salt, sugar, and yeast in a large bowl.",
+    "Mix in water and sesame oil until a shaggy dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Place the dough in a lightly oiled bowl, cover it with plastic wrap, and let it rise in a warm place for 1 hour.",
+    "Preheat the air fryer to 400°F (200°C).",
+    "Punch down the dough and divide it into 2-3 equal pieces, depending on your preference for thickness.",
+    "Roll out each piece into a thin circle, about 1/8 inch thick.",
+    "Place the flatbreads in the air fryer basket, leaving about 1 inch of space between each bread.",
+    "Cook the flatbreads for 2-3 minutes on each side, or until they are charred and crispy.",
+    "Repeat with the remaining dough pieces.",
+    "Cut the flatbreads into wedges and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fry",
+    "bread",
+    "dinner",
+    "low-glycemic",
+    "norwegian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "charred-pillowy-norwegian-oil-flatbread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-pillowy-norwegian-oil-flatbread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:40:15Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "pillowy",
+    "mood": "romantic",
+    "technique": "air-fry",
+    "primaryIngredient": "oil",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "norwegian",
+    "mainIngredient": "oil",
+    "descriptor": "charred, pillowy",
+    "dishForm": "flatbread"
+  }
+}
