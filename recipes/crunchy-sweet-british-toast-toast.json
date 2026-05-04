@@ -1,0 +1,102 @@
+{
+  "title": "Crunchy Sweet British Toast",
+  "description": "A sweet and crunchy British dish made with toasted bread, topped with a mixture of seeds and spices, perfect for a quick snack or breakfast.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Whole wheat bread",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "Canola oil",
+      "amount": "1/4 cup",
+      "notes": "For toasting the bread"
+    },
+    {
+      "name": "Pumpkin seeds",
+      "amount": "2 tablespoons",
+      "notes": "For added crunch"
+    },
+    {
+      "name": "Sunflower seeds",
+      "amount": "2 tablespoons",
+      "notes": "For added crunch"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": "For sweetness"
+    },
+    {
+      "name": "Cinnamon powder",
+      "amount": "1/4 teaspoon",
+      "notes": "For flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "a pinch",
+      "notes": "To balance flavors"
+    },
+    {
+      "name": "Almond butter",
+      "amount": "2 tablespoons",
+      "notes": "Optional, for added flavor"
+    },
+    {
+      "name": "Fresh berries",
+      "amount": "1 cup",
+      "notes": "Optional, for added sweetness"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan or griddle over medium heat.",
+    "Add the canola oil to the pan and swirl it around to coat the bottom.",
+    "Place the bread slices in the pan and toast until golden brown, flipping halfway through.",
+    "In a small bowl, mix together the pumpkin seeds, sunflower seeds, honey, cinnamon powder, and salt.",
+    "Once the bread is toasted, top each slice with a quarter of the seed mixture.",
+    "If using almond butter, spread a tablespoon on top of the seed mixture.",
+    "If using fresh berries, place a few on top of the almond butter or seed mixture.",
+    "Repeat the process with the remaining ingredients to make the remaining toast slices.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast-ideas",
+    "british-cuisine",
+    "healthy-snacks",
+    "low-carb-friendly",
+    "quick-recipes",
+    "weeknight-meals"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "crunchy-sweet-british-toast-toast",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-sweet-british-toast-toast",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:27:04Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crunchy",
+    "mood": "meal-prep",
+    "technique": "toast",
+    "primaryIngredient": "canola oil",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "toast",
+    "descriptor": "crunchy sweet",
+    "dishForm": "toast"
+  }
+}
