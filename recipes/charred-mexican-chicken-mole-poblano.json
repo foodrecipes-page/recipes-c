@@ -1,0 +1,106 @@
+{
+  "title": "Charred Mexican Chicken Mole Poblano",
+  "description": "A bold, aerated dish of charred chicken smothered in smoky mole sauce. It finishes with a bright lime vinaigrette for a refreshing contrast.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 lb"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "chipotle pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ancho chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "confitted tomato",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F and cut the chicken thighs into 1-inch pieces, seasoning with salt, pepper, chipotle, ancho, cocoa, and cumin.",
+    "Heat olive oil in a large skillet over medium-high heat, then add the seasoned chicken and sear until the edges are charred, about 4 minutes.",
+    "Transfer the skillet to the oven and roast the chicken until cooked through, about 10 minutes, flipping halfway.",
+    "While the chicken cooks, combine the confitted tomato, red onion, and broth in the same skillet, whisking to create a sauce.",
+    "Bring the sauce to a gentle simmer and let it reduce, stirring occasionally, until slightly thickened, 8 minutes.",
+    "Remove the chicken from the skillet and pour the reduced sauce over it, letting it soak for 3 minutes.",
+    "Finish the mole by stirring in a squeeze of lime juice, a drizzle of olive oil, and fresh chopped cilantro.",
+    "Serve the charred chicken with the aerated mole sauce drizzled over a bed of quinoa or a side of corn tortillas."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "charred",
+    "dinner",
+    "gluten-free",
+    "mole-poblano",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 30
+  },
+  "slug": "charred-mexican-chicken-mole-poblano",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-mexican-chicken-mole-poblano",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:18:00Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "aerated",
+    "mood": "adventurous",
+    "technique": "confit-tomato",
+    "primaryIngredient": "vinaigrette dressing",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Chicken",
+    "descriptor": "Charred",
+    "dishForm": "Mole Poblano"
+  }
+}
