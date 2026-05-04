@@ -1,0 +1,100 @@
+{
+  "title": "Crispy Venezuelan Vanilla Crumble",
+  "description": "A funky, crumbly, energizing Venezuelan dessert featuring vanilla pod, grilled fruit, and a nut‑free crumble topping.",
+  "cuisine": "Venezuelan",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "mangoes",
+      "amount": "2 ripe mangoes, peeled and sliced",
+      "notes": "1/4\" thick rounds"
+    },
+    {
+      "name": "plantains",
+      "amount": "2 ripe plantains, peeled and sliced",
+      "notes": "1/4\" thick rounds"
+    },
+    {
+      "name": "vanilla pod",
+      "amount": "1 vanilla pod, split lengthwise",
+      "notes": "scrape seeds into bowl"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "100 g"
+    },
+    {
+      "name": "rolled oats",
+      "amount": "50 g"
+    },
+    {
+      "name": "powdered sugar",
+      "amount": "50 g"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "30 g, melted"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tbsp (12 g)"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp (2 g)"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Slice mangoes and plantains into 1/4-inch thick rounds and set aside.",
+    "Split the vanilla pod lengthwise and scrape the seeds into a bowl, discarding the pod.",
+    "In a small bowl, whisk together flour, oats, powdered sugar, and sea salt until uniform.",
+    "Stir in melted coconut oil and brown sugar to form coarse crumbs.",
+    "Brush fruit slices lightly with melted coconut oil, then sprinkle half of the crumb mixture over them.",
+    "Place fruit on the grill and cook 3-4 minutes per side until grill marks appear and fruit is caramelized.",
+    "In a separate non‑stick skillet, toast the remaining crumb mixture over low heat until golden and fragrant.",
+    "Once the fruit is grilled, top each serving with a spoonful of the toasted crumb mixture.",
+    "Finish by sprinkling a pinch of cinnamon over the crumble and serve warm immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "dessert",
+    "grilled",
+    "nut-free",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 354,
+    "protein": 6,
+    "carbs": 81,
+    "fat": 9
+  },
+  "slug": "crispy-venezuelan-vanilla-crumble",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-venezuelan-vanilla-crumble",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:17:07Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crumbly",
+    "mood": "energizing",
+    "technique": "grill",
+    "primaryIngredient": "vanilla pod",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Vanilla",
+    "descriptor": "Crispy",
+    "dishForm": "Crumble"
+  }
+}
