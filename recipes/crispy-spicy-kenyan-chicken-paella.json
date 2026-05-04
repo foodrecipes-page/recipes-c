@@ -1,0 +1,114 @@
+{
+  "title": "Crispy Spicy Kenyan Chicken Paella",
+  "description": "A rich and flavorful dish that combines the best of Kenyan spices with the classic Spanish paella, perfect for a hangover cure.",
+  "cuisine": "kenyan",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "paella rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "spicy kenyan curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "crushed tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "frozen peas",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large paella pan over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the chopped red bell pepper and cook for an additional 2 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the spicy kenyan curry powder and cook for 1 minute, stirring constantly.",
+    "Add the tamarind paste and tomato paste and cook for 1 minute, stirring constantly.",
+    "Add the crushed tomatoes and chicken broth and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Add the chicken breast to the pan and cook until browned and cooked through, about 10 minutes.",
+    "Stir in the paella rice and cook for 5 minutes.",
+    "Transfer the pan to the oven and bake at 400°F for 20 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Remove the pan from the oven and stir in the frozen peas.",
+    "Serve the paella hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "one-pan",
+    "paella",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 60,
+    "carbs": 80,
+    "fat": 40
+  },
+  "slug": "crispy-spicy-kenyan-chicken-paella",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-spicy-kenyan-chicken-paella",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T11:02:21Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "dense",
+    "mood": "hangover-cure",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "paella rice",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Chicken",
+    "descriptor": "Crispy, Spicy",
+    "dishForm": "Paella"
+  }
+}
