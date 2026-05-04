@@ -1,0 +1,97 @@
+{
+  "title": "Cool Crunchy Kenyan Vegetable Skewers",
+  "description": "A sour and shattering weeknight Kenyan dish featuring fajita seasoning, this Jain-friendly recipe is perfect for a quick dinner. It uses an ice-bath-shock to preserve the crunch of the vegetables.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bell peppers",
+      "amount": "2 large",
+      "notes": "any color"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large"
+    },
+    {
+      "name": "zucchini",
+      "amount": "2 medium"
+    },
+    {
+      "name": "fajita seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "ice",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Cut the bell peppers, onions, and zucchini into 1-inch pieces.",
+    "Thread the vegetables onto skewers.",
+    "In a bowl, mix together the fajita seasoning, lemon juice, and olive oil.",
+    "Brush the mixture onto the vegetables.",
+    "Heat a grill or grill pan to medium-high heat.",
+    "Grill the skewers for 10 minutes, turning occasionally.",
+    "Immediately plunge the skewers into an ice bath to stop the cooking process.",
+    "Let the skewers sit in the ice bath for 5 minutes.",
+    "Remove the skewers from the ice bath and sprinkle with salt.",
+    "Serve the skewers immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy-vegetables",
+    "jain-friendly",
+    "quick-dinner",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 2
+  },
+  "slug": "cool-crunchy-kenyan-vegetable-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/cool-crunchy-kenyan-vegetable-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:41:56Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shattering",
+    "mood": "weeknight",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "fajita seasoning",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "vegetables",
+    "descriptor": "Cool Crunchy",
+    "dishForm": "Skewers"
+  }
+}
