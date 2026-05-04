@@ -1,0 +1,107 @@
+{
+  "title": "Charred Creamy Chinese Toffee Popcorn Kung Pao",
+  "description": "A romantic Chinese dish featuring charred toffee popcorn and wok-hei, flexitarian-friendly and in the form of kung pao.",
+  "cuisine": "Chinese",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "toffee popcorn",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "roasted peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a wok or large skillet over high heat until it starts to smoke.",
+    "Add the minced garlic and grated ginger and stir-fry until they are charred and fragrant.",
+    "Add the toffee popcorn and stir-fry for 2 minutes until it is well coated with the garlic and ginger mixture.",
+    "Add the soy sauce, rice vinegar, sugar, and cornstarch mixture and stir-fry for 2 minutes until the sauce has thickened.",
+    "Add the chopped scallions and roasted peanuts and stir-fry for 1 minute until they are well combined.",
+    "Season with salt to taste.",
+    "Transfer the Charred Creamy Chinese Toffee Popcorn Kung Pao to a serving platter.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "flexitarian",
+    "kung-pao",
+    "stir-fry",
+    "toffee-popcorn",
+    "wok-hei"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "charred-creamy-chinese-toffee-popcorn-kung-pao",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-creamy-chinese-toffee-popcorn-kung-pao",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:20:46Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "pillowy",
+    "mood": "romantic",
+    "technique": "wok-hei",
+    "primaryIngredient": "toffee popcorn",
+    "diet": "flexitarian",
+    "region": "shandong",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "toffee popcorn",
+    "descriptor": "Charred Creamy",
+    "dishForm": "Kung Pao"
+  }
+}
