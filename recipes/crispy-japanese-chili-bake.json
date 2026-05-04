@@ -1,0 +1,113 @@
+{
+  "title": "Crispy Japanese Chili Bake",
+  "description": "A festive egg‑free Japanese dish baked in a tagine pot with birds‑eye chillies, giving a crisp, spicy finish.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fresh shiitake mushrooms",
+      "amount": "300g"
+    },
+    {
+      "name": "baby potatoes",
+      "amount": "200g",
+      "notes": "halved"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "birds eye chillies",
+      "amount": "3",
+      "notes": "sliced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "miso paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a tagine pot over medium heat and drizzle with sesame oil.",
+    "Place sliced mushrooms and halved potatoes into the pot, coating them evenly with oil and seasoning.",
+    "Add sliced chillies, grated ginger, garlic powder, soy sauce, mirin, miso paste, and sugar to the pot.",
+    "Pour in the vegetable broth, stir well, and bring to a gentle simmer.",
+    "Cover the pot, let the mixture simmer for 20 minutes, stirring occasionally.",
+    "Uncover, reduce heat to low, and bake uncovered for 10 more minutes until the top is crisp.",
+    "Sprinkle toasted sesame seeds over the surface and let rest for 3 minutes.",
+    "Garnish with chopped scallions before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bake",
+    "egg-free",
+    "japanese",
+    "one-pot",
+    "spicy",
+    "tagine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 15
+  },
+  "slug": "crispy-japanese-chili-bake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-japanese-chili-bake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:35:03Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "bouncy-qq",
+    "mood": "festive",
+    "technique": "bake",
+    "primaryIngredient": "birds-eye chillies",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "chili",
+    "descriptor": "Crispy",
+    "dishForm": "Bake"
+  }
+}
