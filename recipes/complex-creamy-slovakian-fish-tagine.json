@@ -1,0 +1,103 @@
+{
+  "title": "Complex Creamy Slovakian Fish Tagine",
+  "description": "A sour and dense pescatarian-friendly Slovakian dish featuring parma ham, served in a traditional clay tajine vessel.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "parma ham",
+      "amount": "6 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cod fillets",
+      "amount": "4 fillets",
+      "notes": "fresh"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Blanch the cod fillets in boiling water for 2 minutes, then set aside.",
+    "In a large skillet, heat the olive oil over medium heat and saute the onion and garlic until softened.",
+    "Add the parma ham to the skillet and cook until crispy, then set aside.",
+    "In the same skillet, add the tomato paste and cook for 1 minute, stirring constantly.",
+    "Stir in the chicken broth, lemon juice, and heavy cream, and bring to a simmer.",
+    "Add the blanched cod fillets to the skillet and spoon some of the sauce over the top of each fillet.",
+    "Transfer the skillet to the preheated oven and bake for 12 minutes, or until the fish is cooked through.",
+    "Garnish with parsley and crispy parma ham, and serve in a clay tajine vessel."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "clay-cooking",
+    "comfort-food",
+    "fish-dishes",
+    "pescatarian-friendly",
+    "slovakian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "complex-creamy-slovakian-fish-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/complex-creamy-slovakian-fish-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:27:20Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "dense",
+    "mood": "show-off",
+    "technique": "blanch",
+    "primaryIngredient": "parma ham",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "fish",
+    "descriptor": "Complex Creamy",
+    "dishForm": "Tagine"
+  }
+}
