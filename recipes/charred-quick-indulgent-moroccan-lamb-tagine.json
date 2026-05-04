@@ -1,0 +1,79 @@
+{
+  "title": "Charred Quick Indulgent Moroccan Lamb Tagine",
+  "description": "Snappy, tender lamb in a rich, coconut-based broth, charred to perfection.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "2 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the lamb shoulder with salt, black pepper, and cumin.",
+    "Heat the coconut oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb shoulder until browned on all sides, about 5 minutes on each side.",
+    "Transfer the lamb to a plate and set aside.",
+    "Add the chopped onion to the pot and cook until fragrant, about 3 minutes.",
+    "Add the garlic, ginger, and cumin to the pot and cook for 1 minute.",
+    "Add the lamb back to the pot, along with the chicken broth, coconut cream, and spices.",
+    "Bring the mixture to a simmer, then cover the pot and transfer it to the preheated oven.",
+    "Bake for 30 minutes, then remove the pot from the oven and stir in the chopped fresh parsley.",
+    "Return the pot to the oven and bake for an additional 20-25 minutes, or until the lamb is tender and the sauce has thickened.",
+    "Remove the pot from the oven and let it cool slightly before serving.",
+    "Serve the lamb and sauce over couscous, garnished with additional parsley and lemon wedges, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "lamb",
+    "moroccan",
+    "one-pan",
+    "tagine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 50,
+    "carbs": 10,
+    "fat": 35
+  },
+  "slug": "charred-quick-indulgent-moroccan-lamb-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-quick-indulgent-moroccan-lamb-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:09:10Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "snappy",
+    "mood": "indulgent",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "olive oil",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "charred quick indulgent",
+    "dishForm": "Tagine"
+  }
+}
