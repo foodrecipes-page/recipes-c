@@ -1,0 +1,121 @@
+{
+  "title": "Charred Pillowy Moroccan Beef Flank Steak Tagine",
+  "description": "A romantic Moroccan dish featuring charred beef flank steak, en-croute, in a flavorful tagine sauce.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef flank steak",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the beef flank steak with salt, cayenne pepper, and black pepper.",
+    "In a large bowl, whisk together the flour, egg, and a pinch of salt. Add the beef flank steak and coat evenly.",
+    "Heat the olive oil in a large oven-safe skillet over medium-high heat. Sear the beef flank steak for 2-3 minutes per side.",
+    "Transfer the skillet to the preheated oven and cook for 15-20 minutes, or until the beef reaches your desired level of doneness.",
+    "While the beef cooks, prepare the tagine sauce by sautéing the chopped onion, minced garlic, and grated ginger in a little oil until softened.",
+    "Add the cumin, paprika, salt, and black pepper to the skillet and cook for 1 minute, stirring constantly.",
+    "Once the beef is cooked, remove it from the oven and let it rest for 5 minutes.",
+    "To assemble the tagine, place the beef flank steak in the center of a large ramekin or baking dish.",
+    "Pour the tagine sauce over the beef, then sprinkle with chopped fresh parsley if desired.",
+    "Cover the ramekin with foil and bake for an additional 10-15 minutes, or until the sauce is bubbly and the beef is tender.",
+    "Serve the charred pillowy Moroccan beef flank steak tagine hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "dinner-party",
+    "elegant",
+    "moroccan",
+    "romantic",
+    "steak",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "charred-pillowy-moroccan-beef-flank-steak-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-pillowy-moroccan-beef-flank-steak-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:49:20Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "pillowy",
+    "mood": "romantic",
+    "technique": "en-croute",
+    "primaryIngredient": "beef flank steak",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "beef flank steak",
+    "descriptor": "charred pillowy",
+    "dishForm": "Tagine"
+  }
+}
