@@ -1,0 +1,111 @@
+{
+  "title": "Chilled Korean Lentils Naengmyeon",
+  "description": "A light, ovo‑vegetarian Korean noodle dish made from French lentils, served chilled with crisp vegetables and a tangy sesame‑soy dressing.",
+  "cuisine": "Korean",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried French green lentils",
+      "amount": "100g"
+    },
+    {
+      "name": "lentil flour",
+      "amount": "30g"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "50ml"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1",
+      "notes": "julienned"
+    },
+    {
+      "name": "carrot",
+      "amount": "1",
+      "notes": "julienned"
+    },
+    {
+      "name": "boiled eggs",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "scallions",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "toasted sesame oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils and soak them in water for 4 hours or overnight.",
+    "Drain the lentils and add them to a pot with fresh water, bring to a boil, then simmer until tender, about 20 minutes.",
+    "Mash the cooked lentils and mix in the lentil flour, salt, and water to form a smooth dough.",
+    "Knead the dough until elastic, then roll it thin using a rolling pin or pasta machine.",
+    "Cut the rolled dough into thin ribbons, then blanch in boiling water for 3 minutes.",
+    "Drain the noodles, rinse under cold water, and set aside to chill.",
+    "Slice cucumber and carrot into thin sticks and prepare boiled egg halves.",
+    "In a small bowl whisk together soy sauce, rice vinegar, sugar, and toasted sesame oil for the dressing.",
+    "Toss the chilled noodles with cucumber, carrot, eggs, and scallions, then drizzle the dressing over the top.",
+    "Serve immediately, garnished with extra scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "cold-dish",
+    "date-night",
+    "korean",
+    "lentils",
+    "ovo-vegetarian"
+  ],
+  "nutrition": {
+    "calories": 700,
+    "protein": 48,
+    "carbs": 72,
+    "fat": 17
+  },
+  "slug": "chilled-korean-lentils-naengmyeon",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/chilled-korean-lentils-naengmyeon",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:30:00Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "light",
+    "mood": "date-night",
+    "technique": "knead",
+    "primaryIngredient": "french lentils",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Lentils",
+    "descriptor": "Chilled",
+    "dishForm": "Naengmyeon"
+  }
+}
