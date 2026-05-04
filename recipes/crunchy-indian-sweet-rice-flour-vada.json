@@ -1,0 +1,104 @@
+{
+  "title": "Crunchy Indian Sweet Rice Flour Vada",
+  "description": "A funky and crunchy Indian dish made with sweet rice flour, perfect for crowds, this macrobiotic friendly vada is a must try. It is boiled and then fried to a golden brown.",
+  "cuisine": "Indian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sweet rice flour",
+      "amount": "2 cups",
+      "notes": "chapssalgaru"
+    },
+    {
+      "name": "lentils",
+      "amount": "1 cup",
+      "notes": "split red or yellow"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "green chilies",
+      "amount": "2",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "curry leaves",
+      "amount": "10",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "oil",
+      "amount": "2 cups",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together the sweet rice flour, lentils, onions, ginger, green chilies, curry leaves, and salt.",
+    "Gradually add the water to the bowl and mix until a thick batter forms.",
+    "Heat the oil in a deep frying pan over medium heat.",
+    "Using a spoon, drop small balls of the batter into the hot oil.",
+    "Fry the vadas until they are golden brown and crispy.",
+    "Remove the vadas from the oil and drain on paper towels.",
+    "Serve the vadas hot with a side of chutney or sambar.",
+    "For an extra crunchy coating, boil the vadas in water for 5 minutes before frying.",
+    "To boil, bring a large pot of water to a boil and gently add the vadas.",
+    "Boil for 5 minutes, then remove with a slotted spoon and fry as instructed."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleasers",
+    "crunchy-snacks",
+    "fried-foods",
+    "indian-snacks",
+    "macrobiotic-friendly",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "crunchy-indian-sweet-rice-flour-vada",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-indian-sweet-rice-flour-vada",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:27:27Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crunchy",
+    "mood": "crowd-pleaser",
+    "technique": "boil",
+    "primaryIngredient": "sweet-rice-flour-chapssalgaru",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "sweet rice flour",
+    "descriptor": "Crunchy",
+    "dishForm": "Vada"
+  }
+}
