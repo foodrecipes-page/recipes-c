@@ -1,0 +1,83 @@
+{
+  "title": "chewy charred uruguayan saskatoon berries pie",
+  "description": "charred, chewy, brunch-mood uruguayan dish featuring saskatoon berries, sous-vide, raw-friendly, vessel=bamboo-steamer",
+  "cuisine": "uruguayan",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "saskatoon berries",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "large egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat sous-vide water bath to 147f",
+    "mix saskatoon berries, almond flour, coconut sugar, and unsalted butter in a bowl",
+    "add large egg and vanilla extract to the bowl and mix until combined",
+    "pour mixture into a bamboo steamer and seal with a lid"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "chewy",
+    "dessert",
+    "raw-friendly",
+    "saskatoon-berries",
+    "sous-vide",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "chewy-charred-uruguayan-saskatoon-berries-pie",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-charred-uruguayan-saskatoon-berries-pie",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:23:54Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "chewy",
+    "mood": "brunch-mood",
+    "technique": "sous-vide",
+    "primaryIngredient": "saskatoon berries",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Saskatoon berries",
+    "descriptor": "Chewy charred",
+    "dishForm": "Pie"
+  }
+}

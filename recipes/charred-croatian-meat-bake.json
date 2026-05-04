@@ -1,0 +1,112 @@
+{
+  "title": "Charred Croatian Meat Bake",
+  "description": "A hearty, low-carb friendly Croation dish perfect for a lazy Sunday. The sweetness of the tempering chocolate balances the smokiness of the charred meat.",
+  "cuisine": "Croatian",
+  "diet": [
+    "low-carb",
+    "comfort food"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1.5 pounds chunky beef (such as chuck or brisket)",
+      "amount": "1.5",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "2 large onions",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "1 large bay leaf",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 cup mixed mushrooms",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "1 cup beef broth",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons tempering chocolate",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon paprika",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the beef and cook until browned on all sides, about 5 minutes.",
+    "Remove the beef from the pot and set aside.",
+    "Add the chopped onions and cook until they start to caramelize, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the beef broth, bay leaf, and paprika to the pot. Stir to combine.",
+    "Return the beef to the pot and bring the mixture to a boil.",
+    "Transfer the pot to the oven and bake at 300°F for 2 hours, or until the meat is tender.",
+    "Remove the pot from the oven and stir in the tempering chocolate until melted.",
+    "Season the meat with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 54,
+    "carbs": 20,
+    "fat": 33
+  },
+  "slug": "charred-croatian-meat-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-croatian-meat-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:23:56Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "chewy",
+    "mood": "lazy-sunday",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "bay leaf",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "meat",
+    "descriptor": "charred",
+    "dishForm": "bake"
+  }
+}
