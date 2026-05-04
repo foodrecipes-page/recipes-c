@@ -1,0 +1,103 @@
+{
+  "title": "Crispy Malaysian Orange Fritters",
+  "description": "A sweet, chewy, gluten‑free fritter that blends fresh orange juice and crispy batter, perfect for a sick‑day snack.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "gluten‑free all‑purpose flour",
+      "amount": "120 g"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "15 g"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "fresh orange juice",
+      "amount": "120 ml"
+    },
+    {
+      "name": "honey",
+      "amount": "15 g"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "15 ml"
+    },
+    {
+      "name": "sliced oranges (thin rings)",
+      "amount": "100 g"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "15 ml"
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl combine the gluten‑free flour, cornstarch, baking powder, salt, and cinnamon until well blended.",
+    "Whisk the fresh orange juice, honey, beaten egg, and coconut milk together in a separate bowl.",
+    "Pour the wet mixture into the dry ingredients and stir until just combined, leaving a few small lumps.",
+    "Fold in the sliced orange rings gently so they are coated but not broken.",
+    "Heat the coconut oil in a deep‑fat pan over medium heat until it reaches 170°C.",
+    "Drop spoonfuls of batter into the hot oil, flattening slightly, and fry until golden and crispy, about 2–3 minutes per side.",
+    "Use a slotted spoon to transfer the fritters to a paper‑towel lined plate to drain excess oil.",
+    "Optional: sprinkle chopped pistachios or a dusting of powdered sugar over the warm fritters for extra flavor.",
+    "Allow the fritters to cool for a minute before serving.",
+    "Serve hot, optionally with a drizzle of honey or a splash of additional orange juice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fried",
+    "gluten-free",
+    "orange",
+    "quick",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 217,
+    "protein": 5,
+    "carbs": 31,
+    "fat": 5
+  },
+  "slug": "crispy-malaysian-orange-fritters",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-malaysian-orange-fritters",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:51:55Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "chewy",
+    "mood": "sick-day",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "orange juice",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Orange",
+    "descriptor": "Crispy",
+    "dishForm": "Fritters"
+  }
+}
