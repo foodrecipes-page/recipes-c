@@ -1,0 +1,103 @@
+{
+  "title": "Crispy Creamy German Cured Pork Gratin",
+  "description": "A salty, dense German casserole that showcases cured pork with a creamy, crispy top. Served in a bamboo tray for an authentic show-off presentation.",
+  "cuisine": "German",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cured pork belly, sliced",
+      "amount": "400 g"
+    },
+    {
+      "name": "Cured bacon",
+      "amount": "100 g"
+    },
+    {
+      "name": "Gruyere cheese, shredded",
+      "amount": "100 g"
+    },
+    {
+      "name": "Parmesan cheese, grated",
+      "amount": "25 g"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "150 ml"
+    },
+    {
+      "name": "Butter",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Fresh thyme, chopped",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Cured pork is salty; add just a pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 190°C (375°F).",
+    "Grease a bamboo tray with butter.",
+    "Layer the cured pork belly slices and bacon evenly in the tray.",
+    "Sprinkle minced garlic, chopped thyme, lemon zest, salt, and pepper over the meat.",
+    "Pour the heavy cream evenly over the pork layers.",
+    "Sprinkle shredded Gruyere and grated Parmesan cheese on top.",
+    "Bake in the preheated oven for 35 minutes until the top is golden and crispy.",
+    "Let the gratin rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "hearty",
+    "high-fat",
+    "low-carb",
+    "one-pan",
+    "show-off"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 30,
+    "carbs": 3,
+    "fat": 115
+  },
+  "slug": "crispy-creamy-german-cured-pork-gratin",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-creamy-german-cured-pork-gratin",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:50:42Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "dense",
+    "mood": "show-off",
+    "technique": "cure",
+    "primaryIngredient": "whipping cream",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "cured pork",
+    "descriptor": "Crispy Creamy",
+    "dishForm": "Gratin"
+  }
+}
