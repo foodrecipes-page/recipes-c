@@ -1,0 +1,100 @@
+{
+  "title": "Creamy British Citrus Trifle",
+  "description": "A creamy and comforting British dessert featuring citrus flavors and a Cajun twist, made with infused oil and raw friendly ingredients in a trifle form.",
+  "cuisine": "British",
+  "diet": [
+    "raw-friendly",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Ladyfingers",
+      "amount": "12-16 pieces",
+      "notes": "dried"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Infused Oil",
+      "amount": "1/4 cup",
+      "notes": "lemon and orange zest"
+    },
+    {
+      "name": "Cajun Spice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Orange Marmalade",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Fresh Orange Segments",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh Lemon Juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Start by making the infused oil by mixing lemon and orange zest with oil and letting it sit for a few hours.",
+    "In a large bowl, whip the heavy cream until stiff peaks form.",
+    "In a separate bowl, mix together the granulated sugar, Cajun spice, and vanilla extract.",
+    "Fold the sugar mixture into the whipped cream until well combined.",
+    "Dip each ladyfinger into the infused oil and then into the cream mixture, coating both sides evenly.",
+    "In a large serving dish, create a layer of ladyfingers.",
+    "Spread half of the orange marmalade over the ladyfingers.",
+    "Repeat the layers, starting with the ladyfingers, then the cream mixture, and finally the remaining orange marmalade.",
+    "Top the trifle with fresh orange segments and a sprinkle of granulated sugar.",
+    "Drizzle the fresh lemon juice over the top of the trifle.",
+    "Refrigerate the trifle for at least 30 minutes to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 0,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "british-desserts",
+    "cajun-twist",
+    "citrus-flavors",
+    "creamy-desserts",
+    "raw-friendly",
+    "trifle-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "creamy-british-citrus-trifle",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-british-citrus-trifle",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:10:56Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "creamy",
+    "mood": "comforting",
+    "technique": "infuse-oil",
+    "primaryIngredient": "cajun",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "citrus",
+    "descriptor": "Creamy Comforting",
+    "dishForm": "Trifle"
+  }
+}
