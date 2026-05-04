@@ -1,0 +1,112 @@
+{
+  "title": "Crispy Kenyan Pork Stew",
+  "description": "A garlicky, tender slow‑cooked pork stew with crispy edges, perfect for a post‑workout meal.",
+  "cuisine": "Kenyan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork back ribs",
+      "amount": "2 lb"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large, diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4, minced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "crushed tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon",
+      "amount": "1, juiced"
+    },
+    {
+      "name": "parsley",
+      "amount": "2 tbsp, chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 325 degrees Fahrenheit.",
+    "Season the pork ribs with salt, pepper, garlic powder, and smoked paprika.",
+    "Heat the olive oil in a Dutch oven over medium‑high heat and sear the ribs on all sides until browned.",
+    "Remove the ribs and add the diced onion, minced garlic, and bell pepper, cooking until softened.",
+    "Pour in the beef broth and crushed tomatoes, then stir in the dried thyme.",
+    "Return the ribs to the pot, cover it, and transfer it to the oven to bake for 150 minutes.",
+    "Remove the pot from the oven, stir the stew, squeeze in fresh lemon juice, and sprinkle with chopped parsley.",
+    "Serve the stew hot over a side of cooked maize or millet."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "kenyan",
+    "nut-free",
+    "pork",
+    "post-workout",
+    "slow-cook"
+  ],
+  "nutrition": {
+    "calories": 584,
+    "protein": 50,
+    "carbs": 5,
+    "fat": 46
+  },
+  "slug": "crispy-kenyan-pork-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-kenyan-pork-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:07:11Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "tender",
+    "mood": "post-workout",
+    "technique": "slow-cook",
+    "primaryIngredient": "pork back ribs",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "pork",
+    "descriptor": "Crispy",
+    "dishForm": "Stew"
+  }
+}
