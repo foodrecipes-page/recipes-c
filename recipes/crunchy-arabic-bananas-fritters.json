@@ -1,0 +1,97 @@
+{
+  "title": "Crunchy Arabic Bananas Fritters",
+  "description": "Pungent and springy banana fritters double-fried to a golden crunch, perfect for a quick Whole30-friendly dessert that is energizing and aromatic.",
+  "cuisine": "Arabic",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Ripe bananas, sliced 1/4\" thick",
+      "amount": "2 large",
+      "notes": "Use very ripe bananas for natural sweetness"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "120 g",
+      "notes": "1 cup"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "5 g",
+      "notes": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 g",
+      "notes": "1/4 tsp"
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "2 g",
+      "notes": "1 tsp"
+    },
+    {
+      "name": "Ground cardamom",
+      "amount": "1 g",
+      "notes": "1/2 tsp"
+    },
+    {
+      "name": "Water",
+      "amount": "60 ml",
+      "notes": "1/4 cup"
+    },
+    {
+      "name": "Vegetable oil, for frying",
+      "amount": "80 ml",
+      "notes": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a cazuela over medium heat until it reaches 350°F.",
+    "Whisk flour, baking powder, salt, cinnamon, and cardamom in a bowl until combined.",
+    "Add water to the dry mix and stir until a thick batter forms.",
+    "Dip each banana slice into the batter, letting excess drip off.",
+    "Lower coated slices into the hot oil, frying until golden on both sides, about 2-3 minutes per side.",
+    "Remove fritters with a slotted spoon and drain on paper towels.",
+    "Repeat frying for remaining slices, keeping oil at 350°F.",
+    "Serve hot, optionally sprinkling extra cinnamon or drizzling unsweetened almond milk."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "arabic",
+    "dessert",
+    "double-fry",
+    "sweet",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 8
+  },
+  "slug": "crunchy-arabic-bananas-fritters",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-arabic-bananas-fritters",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:57:58Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "springy",
+    "mood": "energizing",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "bananas",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Arabic",
+    "mainIngredient": "Bananas",
+    "descriptor": "Crunchy",
+    "dishForm": "Fritters"
+  }
+}
