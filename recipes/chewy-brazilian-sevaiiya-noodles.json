@@ -1,0 +1,106 @@
+{
+  "title": "Chewy Brazilian Sevaiiya Noodles",
+  "description": "A midnight craving Brazilian dish of fresh sevaiiya noodles tossed with smoky coconut‑curry sauce and fresh herbs for a chewy, bouncy-qq texture.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Sevaiiya noodles",
+      "amount": "250g",
+      "notes": "fresh, thin"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "200ml",
+      "notes": "full‑fat"
+    },
+    {
+      "name": "Red curry paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 medium",
+      "notes": "julienned"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Crushed red pepper",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Rinse sevaiiya noodles in cold water and set aside.",
+    "Bring 1L water to a boil and add a pinch of salt.",
+    "Add noodles to boiling water and cook for 3 minutes, stirring gently.",
+    "Drain noodles and rinse with cold water to stop cooking; set aside.",
+    "Heat 1 tbsp oil in a skillet over medium heat.",
+    "Add red curry paste and sauté until fragrant, about 30 seconds.",
+    "Pour in coconut milk and bring to a gentle simmer.",
+    "Add julienned carrot and sliced bell pepper; cook for 2 minutes until tender but crisp.",
+    "Toss in drained noodles, lime juice, and cilantro; stir until noodles are coated and heated through.",
+    "Season with salt, optional crushed pepper, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 7,
+  "totalTimeMin": 17,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "bouncy-qq",
+    "brazilian",
+    "midnight-craving",
+    "noodles",
+    "quick",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 345,
+    "protein": 14,
+    "carbs": 90,
+    "fat": 34
+  },
+  "slug": "chewy-brazilian-sevaiiya-noodles",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-brazilian-sevaiiya-noodles",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:10:01Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "bouncy-qq",
+    "mood": "midnight-craving",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "sevaiiya",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "sevaiiya",
+    "descriptor": "Chewy",
+    "dishForm": "Noodles"
+  }
+}
