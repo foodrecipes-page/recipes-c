@@ -1,0 +1,100 @@
+{
+  "title": "Crisp Tunisian Fish Ceviche",
+  "description": "A winey, matcha‑infused ceviche that feels like a lazy Sunday lunch, served in a quick parchment papillote for a crisp finish.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sea bass fillets",
+      "amount": "400g",
+      "notes": "cut into 1 cm cubes"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "200ml",
+      "notes": "used for marinating"
+    },
+    {
+      "name": "matcha powder",
+      "amount": "1 tbsp",
+      "notes": "whisked into citrus mixture"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tbsp",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "finely chopped"
+    }
+  ],
+  "instructions": [
+    "Slice the fish into 1 cm cubes and place them in a glass bowl.",
+    "Pour the white wine over the fish and let it chill for 5 minutes in the fridge.",
+    "Whisk the matcha powder with lemon and lime juices until smooth.",
+    "Add cumin, paprika, olive oil and the citrus‑matcha mixture to the fish and gently toss to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for an additional 10 minutes to cure the flavors.",
+    "Finely chop cilantro and parsley for garnish.",
+    "Arrange the marinated fish on parchment paper, fold into a papillote shape, and warm in a 200C oven for 3 minutes.",
+    "Serve the crisp ceviche immediately, sprinkled with fresh herbs and a drizzle of olive oil."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 3,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "ceviche",
+    "lazy-sunday",
+    "matcha",
+    "tunisian",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 25,
+    "carbs": 5,
+    "fat": 10
+  },
+  "slug": "crisp-tunisian-fish-ceviche",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-tunisian-fish-ceviche",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:28:38Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crisp",
+    "mood": "lazy-sunday",
+    "technique": "papillote",
+    "primaryIngredient": "matcha",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Fish",
+    "descriptor": "Crisp",
+    "dishForm": "Ceviche"
+  }
+}
