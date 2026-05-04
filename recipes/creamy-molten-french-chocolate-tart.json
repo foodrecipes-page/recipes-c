@@ -1,0 +1,93 @@
+{
+  "title": "Creamy Molten French Chocolate Tart",
+  "description": "A rich and decadent French dessert featuring plain chocolate and a malty flavor, perfect for special occasions",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dark chocolate",
+      "amount": "8 ounces",
+      "notes": "at least 70% cocoa"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "4"
+    },
+    {
+      "name": "malted milk powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "gluten-free flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit",
+    "In a medium bowl, whisk together the gluten-free flour and salt",
+    "In a large bowl, melt the chocolate in the microwave in 30 second increments, stirring between each interval, until smooth",
+    "In a separate bowl, whisk together the sugar, eggs, and malted milk powder",
+    "Add the sugar mixture to the melted chocolate and stir until combined",
+    "Add the flour mixture to the chocolate mixture and stir until just combined",
+    "Roll out the dough on a lightly floured surface to a thickness of about 1/8 inch",
+    "Transfer the dough to a 9 inch tart pan with a removable bottom",
+    "Pour the heavy cream into the tart shell and smooth the top",
+    "Bake the tart for 35 minutes, or until the edges are set and the center is still slightly jiggly"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate-tart",
+    "decadent",
+    "french-dessert",
+    "gluten-free",
+    "rich-dessert",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 24,
+    "fat": 22
+  },
+  "slug": "creamy-molten-french-chocolate-tart",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-molten-french-chocolate-tart",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:59:31Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "molten",
+    "mood": "festive",
+    "technique": "stir-fry",
+    "primaryIngredient": "plain chocolate",
+    "diet": "gluten-free",
+    "region": "basque-french",
+    "cuisineAdjective": "French",
+    "mainIngredient": "chocolate",
+    "descriptor": "Creamy molten",
+    "dishForm": "Tart"
+  }
+}

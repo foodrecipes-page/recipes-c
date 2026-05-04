@@ -1,0 +1,106 @@
+{
+  "title": "Crispy Dutch Pork Stew",
+  "description": "A rich and crispy one-pot pork stew with coconut milk and rendered fat, perfect for a hearty dinner.",
+  "cuisine": "Dutch",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Rendered pork fat",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1, sliced"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chicken stock",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the rendered pork fat in a Dutch oven over medium heat until shimmering.",
+    "Add the pork cubes, browning them on all sides for about 5 minutes.",
+    "Remove the browned pork and set aside; in the same fat add diced onion and minced garlic, sauté until translucent, 3 to 4 minutes.",
+    "Stir in sliced red bell pepper and cook for 2 minutes.",
+    "Return the pork to the pot, then add tomato paste, smoked paprika, cumin, oregano, and stir to coat.",
+    "Pour in coconut milk and chicken stock, bringing the mixture to a gentle simmer.",
+    "Cover the pot and let the stew cook for 45 minutes, or until pork is tender.",
+    "Increase heat to medium-high, uncover, and reduce the liquid until it thickens slightly, about 10 minutes, stirring frequently.",
+    "Season with salt and pepper to taste, then stir in lime juice if using.",
+    "Ladle the stew into bowls and garnish with fresh parsley before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 55,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut",
+    "comfort-food",
+    "crispy",
+    "dash-friendly",
+    "dutch",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 23,
+    "carbs": 5,
+    "fat": 47
+  },
+  "slug": "crispy-dutch-pork-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-dutch-pork-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:59:37Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crisp",
+    "mood": "one-pot",
+    "technique": "render-fat",
+    "primaryIngredient": "coconut milk",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "pork",
+    "descriptor": "Crispy",
+    "dishForm": "Stew"
+  }
+}
