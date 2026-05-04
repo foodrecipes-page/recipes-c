@@ -1,0 +1,91 @@
+{
+  "title": "Crunchy Dense Peruvian Almond Picarones",
+  "description": "Nutty, crisp peruvian breakfast treats made with almond flour, perfect for a weekend brunch.",
+  "cuisine": "peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium alternative to refined sugar"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "low-sodium"
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, whisk together almond flour, coconut milk, maple syrup, egg, vanilla extract, baking powder, and salt until smooth.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Using a 1/4 cup measuring cup, scoop the batter onto the skillet.",
+    "Cook for 2-3 minutes on the first side, until the edges start to crisp. ",
+    "Flip and cook for another 2-3 minutes, until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "low-sodium",
+    "peruvian",
+    "weekend"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 25,
+    "fat": 16
+  },
+  "slug": "crunchy-dense-peruvian-almond-picarones",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-dense-peruvian-almond-picarones",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:42:28Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crisp",
+    "mood": "brunch-mood",
+    "technique": "marinate",
+    "primaryIngredient": "almond flour",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "peruvian",
+    "mainIngredient": "almond",
+    "descriptor": "dense crunchy",
+    "dishForm": "Picarones"
+  }
+}

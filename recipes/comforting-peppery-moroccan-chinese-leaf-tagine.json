@@ -1,0 +1,108 @@
+{
+  "title": "comforting peppery moroccan chinese leaf tagine",
+  "description": "velvety and comforting moroccan dish featuring chinese leaf and a hint of peppery flavors",
+  "cuisine": "moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chinese leaf",
+      "amount": "2 bunches",
+      "notes": "fresh chinese leaf (napa cabbage) for wrapping the dish"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for cooking and adding flavor"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped medium onion for saut\b8ing"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced garlic for added flavor"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated fresh ginger for warmth and spice"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground cumin for moroccan flavor"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground coriander for added warmth and spice"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 tsp",
+      "notes": "black pepper for peppery flavor"
+    },
+    {
+      "name": "flour",
+      "amount": "2 tbsp",
+      "notes": "all-purpose flour for thickening the sauce"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup",
+      "notes": "low-sodium vegetable broth for cooking the leaf"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large saucepan over medium heat",
+    "add the chopped onion and saut\b8 until softened",
+    "add the minced garlic and grated ginger and cook for 1 minute",
+    "add the ground cumin and coriander and cook for 1 minute",
+    "add the black pepper and flour and cook for 1 minute",
+    "add the vegetable broth and stir to combine",
+    "add the chinese leaf and cook until wilted",
+    "transfer the mixture to a corn husk wrap and serve immediately"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comforting",
+    "easy",
+    "gluten-free",
+    "moroccan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "comforting-peppery-moroccan-chinese-leaf-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/comforting-peppery-moroccan-chinese-leaf-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:42:44Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "velvety",
+    "mood": "comforting",
+    "technique": "bonito-shave",
+    "primaryIngredient": "chinese leaf",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Chinese Leaf",
+    "descriptor": "Comforting Peppery",
+    "dishForm": "Tagine"
+  }
+}

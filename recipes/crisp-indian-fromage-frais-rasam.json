@@ -1,0 +1,89 @@
+{
+  "title": "Crisp Indian Fromage Frais Rasam",
+  "description": "A floral, crisp Indian dish to soothe your sick-day blues. Made with fromage frais, boil, and a touch of spice.",
+  "cuisine": "Indian",
+  "diet": [
+    "sugar-free-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Fromage Frais",
+      "amount": "250g"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2-inch piece"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Mustard Seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Coriander Seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Curry Leaves",
+      "amount": "10-15 leaves"
+    },
+    {
+      "name": "Tamarind Paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a hot-pot vessel over medium heat.",
+    "Add the cumin seeds, mustard seeds, and coriander seeds, and let them sizzle for a minute.",
+    "Add the ginger and garlic, and saut\u00037 until fragrant.",
+    "Add the curry leaves, tamarind paste, and fromage frais, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and let it simmer for 10 minutes.",
+    "Season with salt to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crisp-finish",
+    "sick-day-fixer",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "crisp-indian-fromage-frais-rasam",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-indian-fromage-frais-rasam",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:42:53Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crisp",
+    "mood": "sick-day",
+    "technique": "boil",
+    "primaryIngredient": "fromage frais",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "fromage frais",
+    "descriptor": "crisp",
+    "dishForm": "Rasam"
+  }
+}

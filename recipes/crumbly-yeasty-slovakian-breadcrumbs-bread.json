@@ -1,0 +1,68 @@
+{
+  "title": "Crumbly Yeasty Slovakian Breadcrumbs Bread",
+  "description": "A traditional Slovakian bread featuring breadcrumbs and a delicate crumb texture, perfect for brunch",
+  "cuisine": "slovakian",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "unbleached, unsifted"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry yeast"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": "around 100°F (38°C)"
+    }
+  ],
+  "instructions": [
+    "Mix dry ingredients together in a large bowl.",
+    "Add yeast to warm water and let it sit for 5 minutes.",
+    "Combine yeast mixture with dry ingredients, mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "crumbly",
+    "slovakian",
+    "yeast"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 4
+  },
+  "slug": "crumbly-yeasty-slovakian-breadcrumbs-bread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-yeasty-slovakian-breadcrumbs-bread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:42:32Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crumbly",
+    "mood": "brunch-mood",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "breadcrumbs",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Breadcrumbs",
+    "descriptor": "Crumbly Yeasty",
+    "dishForm": "Bread"
+  }
+}
