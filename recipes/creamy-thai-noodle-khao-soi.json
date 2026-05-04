@@ -1,0 +1,108 @@
+{
+  "title": "Creamy Thai Noodle Khao Soi",
+  "description": "A pungent and tender Thai dish featuring peanut cookies and nuka-pickle, served in a molcajete, this khao soi is gluten-free friendly and full of energizing flavors.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "egg noodles",
+      "amount": "8 oz",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "peanut cookies",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large saucepan over medium heat.",
+    "Add the curry paste and cook for 1 minute, stirring constantly.",
+    "Add the coconut milk, fish sauce, brown sugar, and lime juice, and stir to combine.",
+    "Bring the mixture to a simmer and cook for 5 minutes, or until it thickens slightly.",
+    "Add the noodles to the saucepan and cook for 3 minutes, or until they are tender.",
+    "Stir in the crushed peanut cookies and sliced nuka-pickle.",
+    "Season the mixture with salt and pepper to taste.",
+    "Transfer the khao soi to a molcajete and garnish with chopped cilantro and scallions.",
+    "Serve the khao soi hot, with additional peanut cookies and nuka-pickle on the side if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "noodle-dish",
+    "one-pot",
+    "street-food",
+    "thai-cuisine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "creamy-thai-noodle-khao-soi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-thai-noodle-khao-soi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:23:04Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "tender",
+    "mood": "energizing",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "peanut cookies",
+    "diet": "gluten-free",
+    "region": "bangkok-street",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "noodles",
+    "descriptor": "Creamy Crunchy",
+    "dishForm": "Khao Soi"
+  }
+}
