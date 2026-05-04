@@ -1,0 +1,129 @@
+{
+  "title": "Cozy and Briny Dutch Lamb Braised",
+  "description": "A hearty, comforting lamb dish featuring lamb loin chops, boiled potatoes, and a sweet and savory Dutch stew inspired flavor profile.",
+  "cuisine": "Dutch",
+  "diet": [
+    "lamb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb loin chops",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "boiled potatoes",
+      "amount": "3 large",
+      "notes": ""
+    },
+    {
+      "name": "beets",
+      "amount": "2 large",
+      "notes": "+/- as desired for added color & flavor"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 3/4 cups",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "black peppercorns",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the lamb loin chops with salt and black pepper. ",
+    "Heat 2 tablespoons of butter in a large Dutch oven over medium-high heat. ",
+    "Sear the lamb loin chops until browned on both sides, about 2-3 minutes per side. ",
+    "Remove the lamb from the pot and set aside. ",
+    "Add the remaining 2 tablespoons of butter to the pot and sauté the onion and garlic until softened, about 5 minutes. ",
+    "Add the boiled potatoes, beets, white wine, vegetable broth, tomato paste, bay leaves, black peppercorns, and thyme to the pot. ",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes. ",
+    "Add the flour to the pot and stir to combine. ",
+    "Return the lamb loin chops to the pot and simmer for an additional 10-15 minutes, or until the lamb reaches a desired level of doneness. ",
+    "Serve the lamb with the braised potatoes and vegetables. ",
+    "Garnish with fresh thyme, if desired.",
+    "Strain the sauce through a fine-mesh sieve into a bowl, discarding the solids.",
+    "Skim off any excess fat from the surface of the sauce.",
+    "Serve the sauce over the lamb and potatoes.",
+    "Discard the bay leaves and black peppercorns before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch",
+    "high-protein",
+    "lamb",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 850,
+    "protein": 65,
+    "carbs": 60,
+    "fat": 50
+  },
+  "slug": "cozy-and-briny-dutch-lamb-braised",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-and-briny-dutch-lamb-braised",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:15:57Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "chewy",
+    "mood": "cozy",
+    "technique": "dum",
+    "primaryIngredient": "lamb loin chops",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Lamb",
+    "descriptor": "Cozy and Briny",
+    "dishForm": "Braised"
+  }
+}

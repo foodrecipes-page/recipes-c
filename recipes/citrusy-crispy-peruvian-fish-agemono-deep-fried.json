@@ -1,0 +1,114 @@
+{
+  "title": "Citrusy Crispy Peruvian Fish Agemono",
+  "description": "A Peruvian dish featuring crispy deep-fried fish coated in a tangy citrusy batter, served with a side of zesty slaw.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "high-protein",
+    "gluten-free",
+    "fish-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 pound firm white fish (such as halibut or snapper)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 1/2 cups all-purpose flour",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon cayenne pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon tamarind paste",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons freshly squeezed lime juice",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup club soda",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil for deep-frying",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup shredded cabbage",
+      "amount": "",
+      "notes": "for slaw"
+    },
+    {
+      "name": "1/2 cup shredded carrots",
+      "amount": "",
+      "notes": "for slaw"
+    }
+  ],
+  "instructions": [
+    "Cut the fish into 1-inch pieces and season with salt, black pepper, and cayenne pepper.",
+    "In a shallow dish, mix together the flour, tamarind paste, and lime juice.",
+    "Pour the club soda into the flour mixture and stir until just combined.",
+    "Add the fish pieces to the batter and toss to coat.",
+    "Heat about 1/2-inch of vegetable oil in a deep frying pan over medium-high heat until it reaches 350°F.",
+    "Fry the fish in batches until golden brown and crispy, about 2-3 minutes per piece.",
+    "Drain the fish on paper towels and serve hot with a side of zesty slaw.",
+    "To make the slaw, combine the shredded cabbage and carrots in a bowl and toss with a squeeze of lime juice and a pinch of salt.",
+    "Serve the fried fish on a plate with a dollop of slaw on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fried",
+    "high-protein",
+    "peruvian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 28
+  },
+  "slug": "citrusy-crispy-peruvian-fish-agemono-deep-fried",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-crispy-peruvian-fish-agemono-deep-fried",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:16:42Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crispy",
+    "mood": "cozy",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "tamarind paste",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "fish",
+    "descriptor": "Citrusy Crispy",
+    "dishForm": "Agemono-Deep-Fried"
+  }
+}

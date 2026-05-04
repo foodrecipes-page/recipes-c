@@ -1,0 +1,78 @@
+{
+  "title": "Comforting Greek Boudin-Blanc Bake",
+  "description": "A rich, comforting dish featuring mustardy boudin-blanc and a mirepoix base, inspired by traditional Greek cuisine and Ayurvedic principles.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Boudin-Blanc",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": "Mirepoix base"
+    }
+  ],
+  "notes": [
+    {
+      "name": "Greek yogurt",
+      "amount": "1/4 cup",
+      "notes": "Optional topping"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375° F (190° C).",
+    "Cut the boudin-blanc into 1-inch cubes.",
+    "In a large skillet, sauté the mirepoix base over medium heat until tender.",
+    "In a greased 9x13-inch baking dish, arrange half of the boudin-blanc cubes.",
+    "Spread half of the mirepoix base mixture over the boudin-blanc.",
+    "Repeat the layers, starting with the remaining boudin-blanc, then the remaining mirepoix base mixture.",
+    "Top with Greek yogurt, if using.",
+    "Bake for 30 minutes, or until the boudin-blanc is heated through and the top is lightly browned."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 30,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-bake",
+    "comfort-food",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "comforting-greek-boudin-blanc-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/comforting-greek-boudin-blanc-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:16:35Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "glassy-jelly",
+    "mood": "comforting",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "boudin-blanc",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "boudin-blanc",
+    "descriptor": "comforting",
+    "dishForm": "Bake"
+  }
+}

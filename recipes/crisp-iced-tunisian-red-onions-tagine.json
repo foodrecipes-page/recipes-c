@@ -1,0 +1,111 @@
+{
+  "title": "Crisp Iced Tunisian Red Onions Tagine",
+  "description": "A refreshing and flavorful breakfast dish from Tunisia, made with crisp iced red onions, ideal for curing hangovers. This recipe is low-glycemic-friendly and features a bain-marie cooking method.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "red onions",
+      "amount": "2 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "notes": ""
+    },
+    {
+      "name": "mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "ice cubes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "crusty bread",
+      "amount": "4 slices",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Place a large metal bowl over a pot of simmering water to create a bain-marie.",
+    "In the bowl, combine the sliced red onions, olive oil, apple cider vinegar, water, coriander powder, salt, and black pepper.",
+    "Stir well to combine, then cover the bowl with plastic wrap and let it sit at room temperature for 30 minutes.",
+    "After 30 minutes, remove the bowl from the bain-marie and let it cool to room temperature.",
+    "Once cooled, stir in the chopped mint leaves and lemon juice.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Just before serving, place the iced onions on a bed of ice cubes and garnish with additional mint leaves if desired.",
+    "Serve the crisp iced onions with crusty bread on the side and enjoy your refreshing breakfast treat."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "hangover-cure",
+    "low-glycemic",
+    "refresher",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 2
+  },
+  "slug": "crisp-iced-tunisian-red-onions-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-iced-tunisian-red-onions-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:16:54Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crisp",
+    "mood": "hangover-cure",
+    "technique": "bain-marie",
+    "primaryIngredient": "red onions",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Red Onions",
+    "descriptor": "Crisp Iced",
+    "dishForm": "Tagine"
+  }
+}

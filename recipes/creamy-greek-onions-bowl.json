@@ -1,0 +1,115 @@
+{
+  "title": "Creamy Greek Onions Bowl",
+  "description": "Umami, creamy, weeknight Greek dish featuring onions, bulgur, and a tangy feta sauce. This hearty bowl is perfect for a quick dinner.",
+  "cuisine": "Greek",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "bulgur",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large saucepan over medium heat.",
+    "Add the sliced onions and cook, stirring occasionally, for 10 minutes, or until they are softened and lightly browned.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly.",
+    "Stir in the bulgur and cook for 2 minutes, or until it is lightly toasted.",
+    "Add the Greek yogurt, feta cheese, lemon juice, dried oregano, salt, and black pepper. Stir until the cheese is melted and the sauce is smooth.",
+    "Cook for an additional 2-3 minutes, or until the sauce has thickened slightly.",
+    "Stir in the chopped parsley, if using.",
+    "To assemble the bowls, place a scoop of the onion and bulgur mixture in the bottom of a bowl, followed by a dollop of the creamy feta sauce.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "greek",
+    "homestyle",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "creamy-greek-onions-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-greek-onions-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:15:59Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "creamy",
+    "mood": "weeknight",
+    "technique": "boil",
+    "primaryIngredient": "onions",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "onions",
+    "descriptor": "Creamy",
+    "dishForm": "Bowl"
+  }
+}
