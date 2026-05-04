@@ -1,0 +1,107 @@
+{
+  "title": "Creamy Juicy Saudi Arabian Mushrooms Kebabs",
+  "description": "A yeasty and juicy Saudi Arabian dish featuring mushrooms, perfect for a date night, made by broiling and served with a dash of friendly spices.",
+  "cuisine": "saudi-arabian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "1 pound",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup",
+      "notes": "plain"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the yogurt, garlic, ginger, cumin, coriander, paprika, salt, and black pepper.",
+    "Add the mushrooms to the bowl and toss to coat with the yogurt mixture.",
+    "Thread the mushrooms onto skewers, leaving a small space between each mushroom.",
+    "Brush the mushrooms with olive oil and place the skewers on a broiler pan.",
+    "Broil the mushrooms for 10-12 minutes, or until they are tender and lightly browned.",
+    "Serve the mushrooms hot, garnished with fresh parsley or cilantro.",
+    "Offer a side of pita bread or rice to mop up the creamy sauce.",
+    "Garnish with lemon wedges and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "high-protein",
+    "mushroom-lovers",
+    "one-pan",
+    "saudi-arabian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "creamy-juicy-saudi-arabian-mushrooms-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-juicy-saudi-arabian-mushrooms-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:28:49Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "juicy",
+    "mood": "date-night",
+    "technique": "broil",
+    "primaryIngredient": "mushrooms",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "mushrooms",
+    "descriptor": "Creamy Juicy",
+    "dishForm": "Kebabs"
+  }
+}
