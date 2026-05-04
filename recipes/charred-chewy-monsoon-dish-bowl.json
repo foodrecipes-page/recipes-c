@@ -1,0 +1,76 @@
+{
+  "title": "Charred Chewy Monsoon Dish Bowl",
+  "description": "Peruvian dish featuring charred vegetables, chewy rice, and flavors from Thailand and India.",
+  "cuisine": "peruvian",
+  "diet": [
+    null,
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "tandoori masala",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Thai fish sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "quinoa",
+      "amount": "250g",
+      "notes": "cooked"
+    }
+  ],
+  "instructions": [
+    "Preheat tandoor oven to 400°F (200°C)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "halal",
+    "high-protein",
+    "one-pan",
+    "peruvian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 700,
+    "protein": 60,
+    "carbs": 60,
+    "fat": 30
+  },
+  "slug": "charred-chewy-monsoon-dish-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-chewy-monsoon-dish-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:15:10Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "chewy",
+    "mood": "monsoon",
+    "technique": "tandoor",
+    "primaryIngredient": "thai fish sauce",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Fish",
+    "descriptor": "Fragrant Smoky",
+    "dishForm": null
+  }
+}

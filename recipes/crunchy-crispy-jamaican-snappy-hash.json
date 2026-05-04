@@ -1,0 +1,86 @@
+{
+  "title": "Crunchy Crispy Jamaican Snappy Hash",
+  "description": "A fatty, snappy, monsoon-inspired Jamaican dish featuring puff pastry and infused oil, easily made jain-friendly by substituting traditional sausage with vegan alternatives. This dish is best served with a side of steamed vegetables or a simple salad.",
+  "cuisine": "jamaican",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "vegan sausage",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "infused oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "use gloves when handling"
+    }
+  ],
+  "instructions": [
+    "Preheat the iron teppan to 375°F (190°C).",
+    "Roll out the puff pastry to a thickness of 1/8 inch.",
+    "Cut the pastry into 4 equal squares.",
+    "Place 1/4 cup of infused oil on each square, leaving a 1/2 inch border around the edges.",
+    "Add 1 vegan sausage, 1/4 onion, and 1/4 bell pepper to each square.",
+    "Fold the pastry squares in half to enclose the filling, pressing the edges to seal.",
+    "Place the hash on the preheated iron teppan and cook for 4 minutes on each side, or until golden brown.",
+    "Repeat with the remaining pastry and filling.",
+    "Serve immediately, garnished with chopped scotch bonnet peppers if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "jamaican",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 648,
+    "protein": 24,
+    "carbs": 44,
+    "fat": 44
+  },
+  "slug": "crunchy-crispy-jamaican-snappy-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-crispy-jamaican-snappy-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:15:33Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "snappy",
+    "mood": "monsoon",
+    "technique": "infuse-oil",
+    "primaryIngredient": "puff pastry",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "snappy",
+    "descriptor": "Crunchy Crispy",
+    "dishForm": "Hash"
+  }
+}
