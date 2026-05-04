@@ -1,0 +1,108 @@
+{
+  "title": "Comforting Creamy Ukrainian Cheese Lasagna",
+  "description": "A savory Ukrainian dish featuring parmesan cheese and a creamy sauce, perfect for a comforting meal. This recipe is brine-wet and Buddhist-temple-friendly, cooked to perfection on a comal.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna noodles",
+      "amount": "8 ounces",
+      "notes": "dried"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup",
+      "notes": "drained"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "cream cheese",
+      "amount": "8 ounces",
+      "notes": "softened"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "plain"
+    },
+    {
+      "name": "dried dill weed",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "Preheat the comal over medium heat to 375 degrees Fahrenheit.",
+    "Cook the lasagna noodles according to package instructions and set aside.",
+    "In a large bowl, combine the ricotta cheese, cream cheese, sour cream, dried dill weed, salt, and black pepper, and mix until smooth.",
+    "In a separate bowl, beat the egg and set aside.",
+    "Spread a layer of the cheese mixture on the bottom of a 9x13 inch baking dish.",
+    "Arrange 4 lasagna noodles on top of the cheese mixture.",
+    "Sprinkle with half of the mozzarella cheese and half of the parmesan cheese.",
+    "Repeat the layers, starting with the cheese mixture, then the noodles, and finally the remaining mozzarella and parmesan cheese.",
+    "Brush the top of the lasagna with the beaten egg.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "one-dish",
+    "ukrainian-cuisine",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "comforting-creamy-ukrainian-cheese-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/comforting-creamy-ukrainian-cheese-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:13:22Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "cheese-pull",
+    "mood": "comforting",
+    "technique": "brine-wet",
+    "primaryIngredient": "parmesan",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "cheese",
+    "descriptor": "Comforting Creamy",
+    "dishForm": "Lasagna"
+  }
+}
