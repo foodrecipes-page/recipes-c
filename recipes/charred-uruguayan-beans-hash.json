@@ -1,0 +1,108 @@
+{
+  "title": "Charred Uruguayan Beans Hash",
+  "description": "A crispy, weeknight Uruguayan dish featuring dried white navy beans, perfectly cooked through sous-vide. Great for a busy evening meal.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dried white navy beans",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ancho chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "for rehydrating beans"
+    }
+  ],
+  "instructions": [
+    "Rinse the dried navy beans and rehydrate them in water for at least 8 hours or overnight.",
+    "Drain and rinse the rehydrated navy beans, then transfer them to a sous-vide machine set to 180°F (82°C).",
+    "After 2 hours of sous-vide cooking, remove the navy beans from the machine and let them cool slightly.",
+    "Heat the olive oil in a large cast-iron skillet over medium-high heat. Add the ancho chili powder, smoked paprika, salt, and black pepper, and cook, stirring constantly, for 1 minute.",
+    "Add the cooled navy beans to the skillet and break them up with a spatula. Cook, stirring occasionally, until the beans are nicely charred and crispy, about 10 minutes.",
+    "Stir in the fresh parsley, fresh cilantro, and lime juice. Taste and adjust the seasoning as needed.",
+    "Serve the charred Uruguayan beans hash hot, garnished with additional parsley and cilantro if desired."
+  ],
+  "prepTimeMin": 8,
+  "cookTimeMin": 12,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "uruguayan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 14
+  },
+  "slug": "charred-uruguayan-beans-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-uruguayan-beans-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:19:46Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crispy",
+    "mood": "weeknight",
+    "technique": "sous-vide",
+    "primaryIngredient": "dried white navy beans",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beans",
+    "descriptor": "charred",
+    "dishForm": "Hash"
+  }
+}

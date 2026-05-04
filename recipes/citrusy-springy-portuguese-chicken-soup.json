@@ -1,0 +1,102 @@
+{
+  "title": "Citrusy Springy Portuguese Chicken Soup",
+  "description": "Comforting and refreshing Portuguese-inspired soup featuring chicken stock concentrate, soffritto base, and a hint of citrus. Perfect for a weeknight dinner or lunch.",
+  "cuisine": "Portuguese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken stock concentrate",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "diced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "lemon",
+      "amount": "2 tablespoons",
+      "notes": "juiced"
+    },
+    {
+      "name": "oranges",
+      "amount": "1 medium",
+      "notes": "zest and juice"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add diced onion, celery, and carrots, and cook until the vegetables are tender, about 5 minutes.",
+    "Add chicken breast and cook until browned on all sides, about 5-7 minutes.",
+    "Add chicken stock concentrate, cumin, and paprika, and stir to combine.",
+    "Pour in enough water to cover the chicken and vegetables, and bring to a boil.",
+    "Reduce heat to low and simmer, covered, until the chicken is cooked through and the vegetables are tender, about 15-20 minutes.",
+    "Stir in lemon juice and zest, and cook for an additional 2-3 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "spring-inspired",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "slug": "citrusy-springy-portuguese-chicken-soup",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-springy-portuguese-chicken-soup",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:20:07Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "springy",
+    "mood": "comforting",
+    "technique": "soffritto-base",
+    "primaryIngredient": "chicken stock concentrate",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "portuguese",
+    "mainIngredient": "chicken",
+    "descriptor": "springy citrusy",
+    "dishForm": "soup"
+  }
+}
