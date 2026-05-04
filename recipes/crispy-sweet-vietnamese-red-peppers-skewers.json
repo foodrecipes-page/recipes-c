@@ -1,0 +1,99 @@
+{
+  "title": "Crispy Sweet Vietnamese Red Peppers Skewers",
+  "description": "A sweet and crispy Vietnamese dish featuring sweet red peppers, perfect for a weeknight dinner, and keto-friendly.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red bell peppers",
+      "amount": "4",
+      "notes": "any color"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "Cut the red bell peppers into 1-inch pieces and thread onto skewers.",
+    "In a small bowl, whisk together fish sauce, lime juice, honey, garlic, and ginger.",
+    "Brush the mixture onto the peppers.",
+    "Drizzle coconut oil over the peppers.",
+    "Season with salt and black pepper.",
+    "Bake for 20 minutes or until crispy.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "keto-friendly",
+    "low-carb",
+    "peppers",
+    "sweet",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 6,
+    "fat": 10
+  },
+  "slug": "crispy-sweet-vietnamese-red-peppers-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-sweet-vietnamese-red-peppers-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:26:33Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crispy",
+    "mood": "weeknight",
+    "technique": "reduce",
+    "primaryIngredient": "sweet red peppers",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "red peppers",
+    "descriptor": "Crispy sweet",
+    "dishForm": "Skewers"
+  }
+}
