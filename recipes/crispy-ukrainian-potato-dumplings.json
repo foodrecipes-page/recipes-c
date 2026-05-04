@@ -1,0 +1,88 @@
+{
+  "title": "Crispy Ukrainian Potato Dumplings",
+  "description": "Malty, crisp, vegan-friendly dumplings that stay al-dente inside while caramelized on the outside; ideal for meal‑prep.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "600g"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "120g"
+    },
+    {
+      "name": "caster sugar",
+      "amount": "15g"
+    },
+    {
+      "name": "salt",
+      "amount": "5g"
+    },
+    {
+      "name": "baking powder",
+      "amount": "3g"
+    },
+    {
+      "name": "cold water",
+      "amount": "90ml"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "30ml"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "10g"
+    }
+  ],
+  "instructions": [
+    "Peel and grate the potatoes, then squeeze out excess moisture with a clean towel.",
+    "In a bowl, mix flour, caster sugar, salt, and baking powder.",
+    "Add the grated potato and cold water to the dry mixture, stirring until a firm dough forms.",
+    "Divide the dough into 12 equal pieces and roll each into a small disc about 1.5cm thick.",
+    "Bring a pot of salted water to a gentle boil, then reduce to a near‑simmer and cook the discs for 3 minutes, ensuring they stay al‑dente.",
+    "Drain the dumplings and pat them dry with paper towels.",
+    "Heat the vegetable oil in a non‑stick skillet over medium heat until shimmering.",
+    "Fry the dumplings in batches, turning until golden and caramelized, about 3 minutes per side.",
+    "Transfer cooked dumplings to a platter lined with paper towels to drain excess oil.",
+    "Serve warm, optionally sprinkled with a pinch of nutritional yeast for extra flavor."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "ukrainian",
+    "lunch"
+  ],
+  "slug": "crispy-ukrainian-potato-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-ukrainian-potato-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:20:25Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crisp",
+    "mood": "meal-prep",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "caster sugar",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Potato",
+    "descriptor": "Crispy",
+    "dishForm": "Dumplings"
+  }
+}
