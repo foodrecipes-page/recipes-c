@@ -1,0 +1,108 @@
+{
+  "title": "Crisp Velvety Moroccan Cherry Couscous",
+  "description": "A smoky, energizing Moroccan dish made with cherry, braise, and low-calorie-friendly ingredients, served in a bamboo steamer as a couscous-royal dish.",
+  "cuisine": "moroccan",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cherry",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "couscous",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "almonds",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the onion and garlic and cook until softened, about 5 minutes.",
+    "Add the cherry and cook until the liquid has evaporated, about 5 minutes.",
+    "Add the chicken broth, honey, cinnamon, and ginger, and bring to a boil.",
+    "Reduce the heat to low and simmer, uncovered, for 10 minutes.",
+    "While the filling is cooking, prepare the couscous according to the package instructions.",
+    "Transfer the couscous to a large bowl and fluff with a fork.",
+    "Add the filling to the couscous and toss to combine.",
+    "Serve the couscous in a bamboo steamer, garnished with chopped almonds.",
+    "Serve immediately, hot and steaming."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "couscous",
+    "easy-to-make",
+    "low-calorie",
+    "moroccan",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "crisp-velvety-moroccan-cherry-couscous",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-velvety-moroccan-cherry-couscous",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:27:58Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "velvety",
+    "mood": "energizing",
+    "technique": "braise",
+    "primaryIngredient": "cherry",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "cherry",
+    "descriptor": "Crisp Velvety",
+    "dishForm": "Couscous"
+  }
+}

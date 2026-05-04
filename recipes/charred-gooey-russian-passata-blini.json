@@ -1,0 +1,100 @@
+{
+  "title": "Charred Gooey Russian Passata Blini",
+  "description": "A comforting Russian dish featuring charred passata, a shio-koji cure and a crispy blini. Perfect for a cold winter evening.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "passata",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": "around 90°F (32°C)"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "shio-koji cure",
+      "amount": "1 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "room temperature"
+    }
+  ],
+  "instructions": [
+    "Combine the warm water, sugar, and yeast in a small bowl. Let it sit for 10 minutes, until frothy.",
+    "Mix the flour, salt, and eggs in a large bowl. Add the honey and mix until a smooth dough forms.",
+    "Knead the dough for 10 minutes, until elastic and smooth. Let it rise for 1 hour, until doubled in size.",
+    "Divide the dough into 6-8 equal pieces and shape into blini. Let them rest for 30 minutes, until slightly puffed.",
+    "Heat a cast-iron skillet over medium-high heat. Cook the blini for 2-3 minutes, until golden brown and crispy.",
+    "In a separate pan, heat the passata over medium heat. Add the shio-koji cure and mix until combined.",
+    "Place a cooked blini on a plate, top with a spoonful of charred passata, and serve immediately.",
+    "Serve warm, garnished with chopped fresh herbs and a dollop of sour cream if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-night",
+    "high-protein",
+    "russian-cuisine",
+    "winter-special"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "charred-gooey-russian-passata-blini",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-gooey-russian-passata-blini",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:27:58Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "gooey",
+    "mood": "comforting",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "passata",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "passata",
+    "descriptor": "charred gooey",
+    "dishForm": "Blini"
+  }
+}
