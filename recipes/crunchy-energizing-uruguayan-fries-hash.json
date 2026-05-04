@@ -1,0 +1,108 @@
+{
+  "title": "Crunchy Energizing Uruguayan Fries Hash",
+  "description": "Pungent, crunchy, energizing Uruguayan dish featuring fries, a great alternative to traditional breakfast options. Serve with a fried egg for added protein.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "Whole30-friendly",
+    "Gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Russet potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Extra-virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Chimichurri sauce",
+      "amount": "2 tablespoons",
+      "notes": "make sure it's Whole30-friendly"
+    },
+    {
+      "name": "Sliced bacon",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Cut the potatoes into 1-inch cubes and place them on a baking sheet lined with parchment paper.",
+    "Drizzle with olive oil and toss to coat.",
+    "Roast in the oven for 20-25 minutes, or until the potatoes are crispy and golden brown.",
+    "While the potatoes are roasting, cook the bacon in a skillet over medium heat until crispy.",
+    "Remove the bacon from the skillet and set aside.",
+    "Add the sliced onion to the skillet and cook until translucent, about 5 minutes.",
+    "Add the minced garlic to the skillet and cook for an additional minute.",
+    "Add the roasted potatoes, chimichurri sauce, salt, and pepper to the skillet and stir to combine.",
+    "Crumble the cooked bacon into the skillet and stir to combine.",
+    "Transfer the mixture to a serving dish and garnish with chopped parsley, if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "gluten-free",
+    "high-protein",
+    "lunch",
+    "uruguayan",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 40,
+    "fat": 26
+  },
+  "slug": "crunchy-energizing-uruguayan-fries-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-energizing-uruguayan-fries-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:35:47Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crunchy",
+    "mood": "energizing",
+    "technique": "reduce",
+    "primaryIngredient": "fries",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "fries",
+    "descriptor": "crunchy energizing",
+    "dishForm": "Hash"
+  }
+}

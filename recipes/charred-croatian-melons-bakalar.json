@@ -1,0 +1,100 @@
+{
+  "title": "Charred Croatian Melons Bakalar",
+  "description": "Charred, pillowy, nostalgic Croatian dish featuring melons, shio-koji-cure, ayurvedic-tamasic-friendly.",
+  "cuisine": "Croatian",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Cantaloupe Melons",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Shio-Koji Cure",
+      "amount": "8 oz",
+      "notes": "Japanese-inspired salt fermentation."
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Mint",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Dice cantaloupe melons into 1-inch pieces and place on a baking sheet lined with parchment paper.",
+    "Brush the melon with coconut oil and sprinkle with shio-koji cure, salt, black pepper, ginger, and turmeric.",
+    "Roast in the oven for 20 minutes or until caramelized and slightly charred."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "croatian",
+    "dessert",
+    "high-protein",
+    "one-pan",
+    "tamasic-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "charred-croatian-melons-bakalar",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-croatian-melons-bakalar",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:35:07Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "pillowy",
+    "mood": "nostalgic",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "melons",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "croatian",
+    "mainIngredient": "melons",
+    "descriptor": "charred",
+    "dishForm": "Bakalar"
+  }
+}

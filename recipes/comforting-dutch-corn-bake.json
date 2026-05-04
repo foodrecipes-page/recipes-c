@@ -1,0 +1,99 @@
+{
+  "title": "Comforting Dutch Corn Bake",
+  "description": "A hearty Dutch dish featuring dried white corn, rest-meat, and comforting flavors. Perfect for a weeknight dinner",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegan",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dried White Corn",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Rest-meat (beef or pork)",
+      "amount": "1 pound",
+      "notes": "cooked and diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, combine the dried white corn, rest-meat, onion, garlic, caraway seeds, salt, and black pepper.",
+    "Mix well to combine.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Dot the top of the mixture with butter.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20 minutes, or until the top is lightly browned.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving.",
+    "Serve hot, garnished with chopped fresh parsley or chives if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 50,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch-cuisine",
+    "one-pan",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 45,
+    "fat": 24
+  },
+  "slug": "comforting-dutch-corn-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/comforting-dutch-corn-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:36:07Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "bouncy-qq",
+    "mood": "comforting",
+    "technique": "rest-meat",
+    "primaryIngredient": "dried white corn",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "corn",
+    "descriptor": "Comforting",
+    "dishForm": "Bake"
+  }
+}

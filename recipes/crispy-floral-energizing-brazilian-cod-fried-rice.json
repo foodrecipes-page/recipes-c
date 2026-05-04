@@ -1,0 +1,93 @@
+{
+  "title": "Crispy Floral Energizing Brazilian Cod Fried-Rice",
+  "description": "A vibrant, energizing fried rice dish from Brazil, featuring crispy cod, succulent vegetables, and a hint of tropical flavors. Perfect for a weeknight dinner or lunch.",
+  "cuisine": "Brazilian",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "1 pound",
+      "notes": "1-inch pieces, skin removed"
+    },
+    {
+      "name": "Dried jasmine rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "Diced onion",
+      "amount": "1 cup",
+      "notes": "about 1 medium onion"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Zest of 1 lime",
+      "amount": "1 teaspoon",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "use gluten-free soy sauce if necessary"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon olive oil in a large skillet over medium heat.",
+    "Add cod fillets and cook until browned and crispy, about 3-4 minutes per side.",
+    "Remove cod from skillet and set aside.",
+    "In the same skillet, add remaining 1 tablespoon olive oil, chopped onion, and cook until onion is translucent, about 3-4 minutes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "fish",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "crispy-floral-energizing-brazilian-cod-fried-rice",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-floral-energizing-brazilian-cod-fried-rice",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:35:32Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crispy",
+    "mood": "energizing",
+    "technique": "brine-wet",
+    "primaryIngredient": "cod",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "cod",
+    "descriptor": "crispy floral energizing",
+    "dishForm": "Fried-Rice"
+  }
+}
