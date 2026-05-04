@@ -1,0 +1,100 @@
+{
+  "title": "Cozy Turkish Scamorza Wrap",
+  "description": "A comforting keto-friendly Turkish-inspired dish featuring melted scamorza cheese, wrapped in a leaf and steamed.",
+  "cuisine": "Turkish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Scamorza cheese",
+      "amount": "120g",
+      "notes": "Italian-style scamorza cheese"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh mint",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Butter",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a small pan, heat the olive oil over medium heat.",
+    "Add the minced garlic and sauté for 1 minute until fragrant.",
+    "Add the chopped parsley and mint, and sauté for another minute.",
+    "Add the scamorza cheese and stir until melted and smooth.",
+    "Season with salt and black pepper to taste.",
+    "Lay a large leaf on a clean surface, and place a portion of the scamorza mixture in the center.",
+    "Add a dollop of butter on top of the cheese mixture.",
+    "Fold the leaf over the cheese, and then fold in the sides to form a tight package.",
+    "Steam the leaf-wrapped scamorza for 5-7 minutes, or until the cheese is melted and the leaf is tender.",
+    "Serve immediately, garnished with additional parsley and mint if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "high-protein",
+    "keto-friendly",
+    "lunch",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 5,
+    "fat": 46
+  },
+  "slug": "cozy-turkish-scamorza-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-turkish-scamorza-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T10:51:43Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "dense",
+    "mood": "cozy",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "scamorza",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Scamorza",
+    "descriptor": "Cozy",
+    "dishForm": "Wrap"
+  }
+}
