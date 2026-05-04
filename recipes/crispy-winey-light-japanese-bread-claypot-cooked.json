@@ -1,0 +1,71 @@
+{
+  "title": "Crispy Winey Light Japanese Bread Claypot Cooked",
+  "description": "A light and crispy Japanese claypot bread recipe featuring wholegrain bread, perfect for a low-fat friendly meal or snack. Inspired by the flavors of yakitori, this dish is a unique twist on traditional Japanese cuisine.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-fat",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Wholegrain bread",
+      "amount": "1 loaf",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "softened for better absorption"
+    }
+  ],
+  "instructions": [
+    "Preheat the claypot in the oven to 375°F (190°C) for 10 minutes.",
+    "Slice the wholegrain bread into 1-inch thick slices.",
+    "In a small bowl, mix the softened unsalted butter with 2 tablespoons of sake (if using).",
+    "Place the bread slices in a single layer on the bottom of the claypot.",
+    "Brush the bread slices with the butter-sake mixture, making sure to get both sides evenly coated.",
+    "Season the bread with a pinch of salt and a sprinkle of black pepper.",
+    "Cover the claypot with a lid and place it in the preheated oven.",
+    "Bake the bread for 20-25 minutes, or until it is crispy and golden brown on the outside.",
+    "Remove the claypot from the oven and let it cool for a few minutes before serving.",
+    "Cut the bread into smaller pieces and serve hot, garnished with chopped green onions and a drizzle of soy sauce (if desired)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "japanese",
+    "low-fat",
+    "one-pan",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "crispy-winey-light-japanese-bread-claypot-cooked",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-winey-light-japanese-bread-claypot-cooked",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:55:53Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "wholegrain bread",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "bread",
+    "descriptor": "crispy winey light",
+    "dishForm": "Claypot Cooked"
+  }
+}
