@@ -1,0 +1,88 @@
+{
+  "title": "Crispy Golden Canadian Russet Potato Galette",
+  "description": "A sweet, flaky, and savory brunch dish featuring russet potato, shio-kiroji-cure, and a touch of maple syrup.",
+  "cuisine": "canadian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Russet Potatoes",
+      "amount": "4 large"
+    },
+    {
+      "name": "Maple Syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Shio-kiroji Cure",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Peel and thinly slice the potatoes using a mandoline or sharp knife.",
+    "In a large bowl, combine sliced potatoes, maple syrup, and shio-kiroji cure. Toss to coat.",
+    "Let the potatoes sit for 30 minutes to allow the cure to take effect.",
+    "On a lightly floured surface, roll out the butter to a 1/4-inch thickness.",
+    "Place the egg in a small bowl and beat gently. Brush the edges of the butter with the egg.",
+    "Layer the potato slices on top of the butter, slightly overlapping each other.",
+    "Sprinkle with salt and fresh thyme. Fold the butter over the potatoes to form a galette.",
+    "Place the galette on a baking sheet lined with parchment paper and bake for 25 minutes.",
+    "Reduce oven temperature to 375°F (190°C) and continue baking for an additional 15-20 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "canadian",
+    "gluten-free",
+    "potato",
+    "shio-kiroji-cure"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 14
+  },
+  "slug": "crispy-golden-canadian-russet-potato-galette",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-golden-canadian-russet-potato-galette",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:17:05Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "flaky",
+    "mood": "brunch-mood",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "russet potato",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Russet Potato",
+    "descriptor": "Crispy Golden",
+    "dishForm": "Galette"
+  }
+}
