@@ -1,0 +1,92 @@
+{
+  "title": "Creamy Fresh Ukrainian Mincemeat Pierogi",
+  "description": "A delicious and comforting Ukrainian dish featuring a fresh and creamy filling made with mincemeat and served in a double-rise bread.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "double-rise bread",
+      "amount": "1 1/2 cups",
+      "notes": "divided into 8 equal pieces"
+    },
+    {
+      "name": "mincemeat",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "large egg",
+      "amount": "1"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the mincemeat, sour cream, granulated sugar, egg, and vanilla extract. Mix until well combined.",
+    "Roll out the double-rise bread into a large rectangle, about 1/4-inch thick.",
+    "Cut the bread into 8 equal pieces, about 3 1/2 inches square.",
+    "Place a tablespoon of the mincemeat mixture onto one half of each bread piece, leaving a 1/2-inch border around the edges.",
+    "Fold the other half of the bread over the filling and press the edges together to seal the pierogi.",
+    "Heat a large skillet over medium heat and add the unsalted butter.",
+    "Add the pierogi to the skillet and cook for 2-3 minutes on each side, until golden brown.",
+    "Serve the pierogi hot with a dollop of sour cream and a sprinkle of granulated sugar.",
+    "If desired, serve with a side of fruit or a light salad."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-or-dessert",
+    "comfort-food",
+    "diabetic-friendly",
+    "easy-to-make",
+    "homemade-dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "creamy-fresh-ukrainian-mincemeat-pierogi",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-fresh-ukrainian-mincemeat-pierogi",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:10:57Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "mincemeat",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Mincemeat",
+    "descriptor": "Creamy Fresh",
+    "dishForm": "Pierogi"
+  }
+}
