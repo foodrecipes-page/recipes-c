@@ -1,0 +1,93 @@
+{
+  "title": "Citrusy Crispy British Spotted Dick Pudding",
+  "description": "A vegan-friendly, citrusy and crispy British dessert featuring English mustard and rice flour.",
+  "cuisine": "British",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "rice flour",
+      "amount": "250g"
+    },
+    {
+      "name": "sugar",
+      "amount": "120g"
+    },
+    {
+      "name": "unflavored soy milk",
+      "amount": "400ml"
+    },
+    {
+      "name": "canned mandarin oranges",
+      "amount": "120ml"
+    },
+    {
+      "name": "orange juice",
+      "amount": "60ml"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "60ml"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "20g"
+    },
+    {
+      "name": "English mustard",
+      "amount": "5g"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "20g"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Mix together rice flour, sugar, and cornstarch in a bowl.",
+    "In a separate bowl, whisk together soy milk, mandarin oranges, orange juice, and lemon juice.",
+    "Add the wet ingredients to the dry ingredients and stir until smooth.",
+    "Stir in the English mustard and coconut oil.",
+    "Pour the mixture into a greased 6-cup pudding mold or individual ramekins.",
+    "Bake for 25 minutes or until the pudding is set and golden brown.",
+    "Let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "citrusy",
+    "gluten-free",
+    "vegan-desserts"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "citrusy-crispy-british-dick-spotted-dick-pudding",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-crispy-british-dick-spotted-dick-pudding",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T01:10:55Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crispy",
+    "mood": "romantic",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "english mustard",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Dick",
+    "descriptor": "Citrusy Crispy",
+    "dishForm": "Spotted Dick Pudding"
+  }
+}
