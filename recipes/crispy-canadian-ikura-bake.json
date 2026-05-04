@@ -1,0 +1,100 @@
+{
+  "title": "Crispy Canadian Ikura Bake",
+  "description": "A floral and shattering post-workout Canadian dish featuring ikura, wood-fired-bake, and halal-friendly ingredients, served in a banana leaf vessel.",
+  "cuisine": "Canadian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ikura",
+      "amount": "1 cup",
+      "notes": "salmon roe"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "halal-certified"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 400 degrees Fahrenheit.",
+    "Rinse the banana leaves and cut them into 6-inch squares.",
+    "In a bowl, mix together ikura, olive oil, garlic, ginger, soy sauce, sesame seeds, salt, and black pepper.",
+    "Spoon the ikura mixture onto the center of each banana leaf square.",
+    "Fold the banana leaves over the filling to form a triangle or a square shape, and secure with a toothpick if needed.",
+    "Place the banana leaf packets on a baking sheet lined with parchment paper.",
+    "Bake the packets in the preheated wood-fired oven for 12 minutes, or until the banana leaves are crispy and slightly charred.",
+    "Remove the packets from the oven and let them cool for a few minutes.",
+    "Serve the Crispy Canadian Ikura Bake hot, garnished with additional sesame seeds and soy sauce if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "halal-friendly",
+    "high-protein",
+    "post-workout",
+    "seafood",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "crispy-canadian-ikura-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-canadian-ikura-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:47:05Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "shattering",
+    "mood": "post-workout",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "ikura",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "ikura",
+    "descriptor": "crispy caramelized",
+    "dishForm": "Bake"
+  }
+}
