@@ -1,0 +1,99 @@
+{
+  "title": "Creamy Kenyan Fish Poke",
+  "description": "A keto-friendly Kenyan dish featuring sashimi-cut fish, citrusy flavors, and a creamy butter sauce, perfect for meal prep. This dish is aerated with a light and refreshing texture.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "keto",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sashimi-grade fish",
+      "amount": "1 pound",
+      "notes": "such as tilapia or snapper"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Cut the fish into small sashimi-cut pieces and place them in a large bowl.",
+    "In a separate bowl, whisk together the softened butter, lime juice, lemon juice, cilantro, ginger, garlic powder, salt, and black pepper until well combined.",
+    "Pour the butter sauce over the fish and gently toss to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, give the fish a gentle stir to redistribute the sauce.",
+    "Serve the fish poke chilled, garnished with additional cilantro if desired.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 24 hours.",
+    "Before serving, make sure the fish is chilled to a safe internal temperature of 40 degrees Fahrenheit or below."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "aerated",
+    "citrusy",
+    "gluten-free",
+    "kenyan-cuisine",
+    "keto-friendly",
+    "low-carb",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "creamy-kenyan-fish-poke",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-kenyan-fish-poke",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:32:46Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "aerated",
+    "mood": "meal-prep",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "butter",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "fish",
+    "descriptor": "Citrusy Creamy",
+    "dishForm": "Poke"
+  }
+}
