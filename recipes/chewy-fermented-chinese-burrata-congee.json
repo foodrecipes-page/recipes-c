@@ -1,0 +1,102 @@
+{
+  "title": "Chewy Fermented Chinese Burrata Congee",
+  "description": "A savory, date-night dish from Yunnan Province featuring creamy burrata, miso-marinated meat, and a chewy fermented rice congee.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free",
+    "high-protein",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Glutinous rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Burrata cheese",
+      "amount": "1 ball",
+      "notes": ""
+    },
+    {
+      "name": "Pork belly",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine glutinous rice and 4 cups water in a large saucepan and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 20 minutes, or until the rice is cooked and chewy.",
+    "Meanwhile, marinate the pork belly in a mixture of miso paste, Korean chili flakes, and ginger for at least 30 minutes.",
+    "Grill or pan-fry the pork belly until crispy and golden brown.",
+    "Cut the pork belly into bite-sized pieces and set aside.",
+    "Heat rice vinegar in a small saucepan over low heat until warm.",
+    "Stir the warm vinegar into the cooked glutinous rice and let cool to room temperature.",
+    "Once the rice has cooled, stir in the burrata cheese and chopped scallions.",
+    "To assemble the congee, place a scoop of the rice mixture into a bowl and top with a piece of pork belly, a sprinkle of scallions, and a drizzle of the miso marinade.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 30,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "burrata",
+    "chinese",
+    "congee",
+    "date-night",
+    "high-protein",
+    "miso"
+  ],
+  "nutrition": {
+    "calories": 624,
+    "protein": 34,
+    "carbs": 74,
+    "fat": 36
+  },
+  "slug": "chewy-fermented-chinese-burrata-congee",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-fermented-chinese-burrata-congee",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:38:59Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "date-night",
+    "technique": "miso-marinate",
+    "primaryIngredient": "burrata",
+    "diet": "high-protein",
+    "region": "yunnan",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Burrata",
+    "descriptor": "Chewy Fermented",
+    "dishForm": "Congee"
+  }
+}
