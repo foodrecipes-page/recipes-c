@@ -1,0 +1,94 @@
+{
+  "title": "Crisp Compact Middle Eastern Bok Choi Pilaf",
+  "description": "A funky and dense Middle Eastern dish featuring bok choi and dashi extract, perfect for a quick fix, and macrobiotic friendly. It combines the flavors of the Middle East with the nutrition of bok choi.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bok choi",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until softened, about 3 minutes.",
+    "Add the minced garlic and cook for another minute, until fragrant.",
+    "Add the chopped bok choi and cook until wilted, about 2 minutes.",
+    "Add the dashi extract, sumac, and salt, and stir to combine.",
+    "Add the basmati rice to the skillet, stirring to combine with the bok choi mixture.",
+    "Cook for an additional 2 minutes, until the rice is heated through and starting to crisp.",
+    "Serve hot, garnished with additional sumac if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "healthy",
+    "macrobiotic",
+    "middle-eastern",
+    "one-pan",
+    "quick-fix",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "crisp-compact-middle-eastern-bok-choi-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-compact-middle-eastern-bok-choi-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:23:28Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "dense",
+    "mood": "quick-fix",
+    "technique": "dashi-extract",
+    "primaryIngredient": "bok choi",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "bok choi",
+    "descriptor": "Compact Crisp",
+    "dishForm": "Pilaf"
+  }
+}
