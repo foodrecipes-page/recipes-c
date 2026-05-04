@@ -1,0 +1,100 @@
+{
+  "title": "Crispy Korean Hake Namul",
+  "description": "A crispy and flavorful Korean dish made with hake, perfect for a post-workout meal. It features a mustardy sauce and a crunchy texture.",
+  "cuisine": "Korean",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hake fillets",
+      "amount": "4",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped green onions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Rinse the hake fillets under cold water, then pat them dry with paper towels.",
+    "In a blender or food processor, combine soy sauce, Gochujang, brown sugar, garlic, and ginger, and blend until smooth.",
+    "Pour the sauce into a large bowl, then add the hake fillets and marinate for at least 30 minutes.",
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Remove the hake fillets from the marinade, allowing any excess to drip off.",
+    "Add the hake fillets to the skillet and cook for 3-4 minutes on each side, until crispy and golden brown.",
+    "Transfer the hake fillets to a plate, then reduce the heat to medium and add the sesame oil to the skillet.",
+    "Add the chopped green onions to the skillet and cook for 1 minute, until fragrant.",
+    "Serve the hake fillets with the green onion sauce spooned over the top.",
+    "Pressure cook the leftover sauce for 5 minutes to create a thick and syrupy namul sauce.",
+    "Garnish with additional chopped green onions, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-inspired",
+    "crispy-fish",
+    "high-protein",
+    "korean-cuisine",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "crispy-korean-hake-namul",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-korean-hake-namul",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:44:16Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crispy",
+    "mood": "post-workout",
+    "technique": "pressure-cook",
+    "primaryIngredient": "hake",
+    "diet": "pescatarian",
+    "region": "gyeonggi",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "hake",
+    "descriptor": "Crispy",
+    "dishForm": "Namul"
+  }
+}
