@@ -1,0 +1,120 @@
+{
+  "title": "Crispy Filipino Beef Bistek",
+  "description": "A savory, juicy Filipino beef dish with a buttery, breaded crust, finished in a fragrant white wine sauce.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef sirloin steak",
+      "amount": "800 g",
+      "notes": "sliced into 1.5 cm thick strips"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "4 tbsp",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Calamansi juice",
+      "amount": "2 tbsp",
+      "notes": "optional use lemon"
+    },
+    {
+      "name": "Dry white wine",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Bread crumbs",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "3 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh onions",
+      "amount": "1 medium",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "In a bowl, combine beef strips with salt, pepper, minced garlic, soy sauce, calamansi juice, and white wine; let marinate for 20 minutes.",
+    "Dredge marinated beef in flour, dip in beaten eggs, then coat with bread crumbs, shaking off excess.",
+    "In a skillet, heat vegetable oil over medium-high; add a tablespoon of butter for flavor.",
+    "Fry the breaded beef strips until golden brown on each side, about 3 minutes per side, then remove to a plate.",
+    "In the same skillet, sauté sliced onions in the remaining oil until translucent, about 4 minutes.",
+    "Return the beef to the skillet, toss with onions, and cook for an additional 2 minutes to meld flavors.",
+    "Plate the beef with onions, drizzle any leftover pan juices, and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "crispy",
+    "dinner",
+    "filipino",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "crispy-filipino-beef-bistek",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-filipino-beef-bistek",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:08:15Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "juicy",
+    "mood": "midnight-craving",
+    "technique": "en-croute",
+    "primaryIngredient": "dry white wine",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Beef",
+    "descriptor": "Crispy",
+    "dishForm": "Bistek"
+  }
+}
