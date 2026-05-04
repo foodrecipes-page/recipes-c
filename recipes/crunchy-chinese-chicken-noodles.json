@@ -1,0 +1,109 @@
+{
+  "title": "Crunchy Chinese Chicken Noodles",
+  "description": "A keto-friendly Chinese dish featuring crunchy vegetables and soft sugar, perfect for a sick day, this recipe combines grassy and sweet flavors in a satisfying noodle dish.",
+  "cuisine": "Chinese",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "light brown soft sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shirataki noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet or wok over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the sliced celery and grated carrots to the skillet and cook until they start to soften, about 3-4 minutes.",
+    "Add the bean sprouts to the skillet and cook until they are tender-crisp, about 2-3 minutes.",
+    "Add the cooked chicken back into the skillet and stir in the light brown soft sugar, soy sauce, and sesame oil.",
+    "Cook for an additional 1-2 minutes, until the sugar has dissolved and the ingredients are well combined.",
+    "Cook the shirataki noodles according to the package instructions and drain well.",
+    "Add the cooked noodles to the skillet and stir to combine with the chicken and vegetables.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "crunchy-vegetables",
+    "keto-friendly",
+    "low-carb",
+    "noodle-dish",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "crunchy-chinese-chicken-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-chinese-chicken-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:06:17Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crunchy",
+    "mood": "sick-day",
+    "technique": "saute",
+    "primaryIngredient": "light brown soft sugar",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "chicken",
+    "descriptor": "Crunchy Comforting",
+    "dishForm": "Noodles"
+  }
+}
