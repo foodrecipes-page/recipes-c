@@ -1,0 +1,124 @@
+{
+  "title": "crispy glassy malaysian pasta pilaf",
+  "description": "a delicate and savory malaysian dish featuring linguine pasta, grilled shrimp, and a glassy-jelly sauce.",
+  "cuisine": "malaysian",
+  "diet": [
+    "flexitarian",
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "linguine pasta",
+      "amount": "10 oz"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 lb",
+      "notes": "(peeled and deveined)"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sambal oelek",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dark soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "shallots",
+      "amount": "2",
+      "notes": "(thinly sliced)"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "(minced)"
+    },
+    {
+      "name": "chili peppers",
+      "amount": "1",
+      "notes": "(sliced)"
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "4",
+      "notes": "(fresh)"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "heat 1 tbsp of vegetable oil in a large paella pan over medium-high heat.",
+    "add the sliced shallots and cook until translucent, about 3 minutes.",
+    "add the minced garlic and cook for 1 minute, until fragrant.",
+    "add the sliced chili peppers and cook for 1 minute, until slightly softened.",
+    "add the shrimp and cook until pink, about 2-3 minutes per side.",
+    "remove the shrimp from the pan and set aside.",
+    "add the remaining 1 tbsp of vegetable oil to the pan.",
+    "add the sambal oelek, fish sauce, dark soy sauce, and palm sugar to the pan.",
+    "stir to combine and cook for 1 minute.",
+    "add the coconut milk to the pan and stir to combine.",
+    "bring the mixture to a simmer and cook for 5-7 minutes, until slightly thickened.",
+    "add the shrimp back to the pan and cook until heated through.",
+    "stir in the chopped cilantro and cook for 1 minute.",
+    "serve the shrimp and sauce over the cooked linguine pasta."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "flexitarian",
+    "malaysian",
+    "one-pan",
+    "pescatarian",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 26,
+    "carbs": 44,
+    "fat": 24
+  },
+  "slug": "crispy-glassy-malaysian-pasta-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-glassy-malaysian-pasta-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:23:15Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "glassy-jelly",
+    "mood": "date-night",
+    "technique": "robata-grill",
+    "primaryIngredient": "linguine pasta",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "pasta",
+    "descriptor": "Crispy Glassy",
+    "dishForm": "Pilaf"
+  }
+}

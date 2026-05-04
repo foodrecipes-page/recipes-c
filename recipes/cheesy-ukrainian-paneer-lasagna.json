@@ -1,0 +1,102 @@
+{
+  "title": "Cheesy Ukrainian Paneer Lasagna",
+  "description": "A rich and creamy lacto-vegetarian lasagna featuring paneer, perfect for a cozy dinner.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "lacto-vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "12 oz"
+    },
+    {
+      "name": "lasagna noodles",
+      "amount": "8-10 sheets",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook lasagna noodles according to package instructions.",
+    "In a large skillet, sauté chopped onion and minced garlic until softened.",
+    "Add flour and cook for 1 minute, stirring constantly.",
+    "Slowly add heavy cream, whisking continuously until smooth.",
+    "Bring mixture to a simmer and cook for 2-3 minutes or until slightly thickened.",
+    "Stir in grated cheddar and parmesan cheese until melted.",
+    "Combine cooked lasagna noodles, cheese sauce, and chopped paneer in a large bowl.",
+    "Spoon lasagna noodles into a baking dish, followed by a layer of cheese sauce and paneer mixture.",
+    "Repeat layers two more times, ending with a layer of cheese sauce on top.",
+    "Dot the top with unsalted butter and cover with aluminum foil.",
+    "Bake for 30 minutes, then remove foil and continue baking for an additional 10-15 minutes or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 32
+  },
+  "slug": "cheesy-ukrainian-paneer-lasagna",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/cheesy-ukrainian-paneer-lasagna",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:22:56Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "cheese-pull",
+    "mood": "cozy",
+    "technique": "glaze",
+    "primaryIngredient": "paneer",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "paneer",
+    "descriptor": "Cheesy",
+    "dishForm": "Lasagna"
+  }
+}
