@@ -1,0 +1,99 @@
+{
+  "title": "Creamy Smoked Spanish Eggs Bake",
+  "description": "A rich, indulgent take on the humble Spanish tortilla, featuring smoked paprika, chives, and gooey cheese.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Smoked paprika",
+      "amount": "1 1/2 teaspoons"
+    },
+    {
+      "name": "Chopped chives",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Tandoori-spiced eggs",
+      "amount": "4 large eggs",
+      "notes": "Make your own tandoori spice mix with cumin, coriander, and cayenne pepper"
+    },
+    {
+      "name": "Creme fraiche",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Gluten-free bread, cubed",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/8 teaspoon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the cubed bread and cook, stirring occasionally, until it's lightly toasted and crispy.",
+    "In a large bowl, whisk together the creme fraiche, shredded cheese, smoked paprika, salt, and black pepper.",
+    "Add the cooked bread to the bowl and stir to combine.",
+    "In a separate bowl, whisk the tandoori-spiced eggs and add them to the bowl with the bread mixture.",
+    "Pour the mixture into a 9x13 inch baking dish and smooth the top.",
+    "Bake for 25 minutes, or until the edges are golden brown and the center is set.",
+    "Remove the dish from the oven and sprinkle with chopped chives.",
+    "Return the dish to the oven and bake for an additional 5 minutes, or until the chives are lightly browned.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "comfort-food",
+    "high-protein",
+    "indulgent",
+    "one-pan",
+    "spanish-eggs",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 18,
+    "carbs": 14,
+    "fat": 16
+  },
+  "slug": "creamy-smoked-spanish-eggs-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-smoked-spanish-eggs-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:53:15Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "gooey",
+    "mood": "sick-day",
+    "technique": "tandoor",
+    "primaryIngredient": "chopped chive",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "eggs",
+    "descriptor": "Creamy Smoked",
+    "dishForm": "Bake"
+  }
+}

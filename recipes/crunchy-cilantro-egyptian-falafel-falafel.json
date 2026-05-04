@@ -1,0 +1,117 @@
+{
+  "title": "crunchy-cilantro-egyptian-falafel",
+  "description": "a pungent, bouncy-qq, festive egyptian dish featuring falafel that is pressure-cooked and jain-friendly.",
+  "cuisine": "egyptian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "15g",
+      "notes": ""
+    },
+    {
+      "name": "chopped onion",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "chopped garlic",
+      "amount": "15g",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "2tsp",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "0.5tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "2tsp",
+      "notes": ""
+    },
+    {
+      "name": "bread crumbs",
+      "amount": "40g",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1tsp",
+      "notes": ""
+    },
+    {
+      "name": "potato starch",
+      "amount": "20g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Mix together chickpeas, chopped cilantro, chopped onion, chopped garlic, ground cumin, ground coriander, cayenne pepper, salt, and lemon juice.",
+    "Heat a tablespoon of olive oil in a pan over medium-high heat.",
+    "Shape chickpea mixture into small patties.",
+    "Add patties to the pan and cook until golden brown on both sides.",
+    "Transfer patties to a pressure cooker.",
+    "Add enough water to cover the patties and pressure cook at 115c for 10 minutes.",
+    "Drain excess water and serve falafel hot.",
+    "Serve with desired accompaniments such as tahini sauce or pickled vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "jain-friendly",
+    "middle-eastern",
+    "one-pan",
+    "party-food",
+    "pressure-cooked",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "crunchy-cilantro-egyptian-falafel-falafel",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-cilantro-egyptian-falafel-falafel",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:53:02Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "bouncy-qq",
+    "mood": "festive",
+    "technique": "pressure-cook",
+    "primaryIngredient": "falafel",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "falafel",
+    "descriptor": "Crunchy Cilantro",
+    "dishForm": "Falafel"
+  }
+}
