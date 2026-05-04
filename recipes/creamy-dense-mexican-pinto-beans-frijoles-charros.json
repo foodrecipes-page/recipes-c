@@ -1,0 +1,111 @@
+{
+  "title": "Creamy Dense Mexican Pinto Beans Frijoles Charros",
+  "description": "A nutty and dense Mexican dish featuring pinto beans and amaretti, perfect for meal prep. This recipe is onion and garlic free, making it friendly for those with sensitivities.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pinto beans",
+      "amount": "1 cup dried",
+      "notes": "sorted and rinsed"
+    },
+    {
+      "name": "amaretti cookies",
+      "amount": "6 crushed",
+      "notes": "almond macaroon cookies"
+    },
+    {
+      "name": "lard or vegetable shortening",
+      "amount": "2 tablespoons",
+      "notes": "for rendering fat"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Rinse the pinto beans and remove any debris or stones.",
+    "In a large pot, render the lard or shortening over medium heat until melted and smooth.",
+    "Add the crushed amaretti cookies to the pot and cook, stirring constantly, until lightly toasted and fragrant.",
+    "Add the cumin, paprika, salt, and pepper to the pot and cook for 1 minute, stirring constantly.",
+    "Add the diced tomatoes, chicken broth, and pinto beans to the pot, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 1 hour, or until the beans are tender.",
+    "Use an immersion blender to puree the beans to a creamy consistency, or allow them to cool and puree them in a blender.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the frijoles charros hot, garnished with chopped fresh cilantro.",
+    "Allow the beans to cool, then refrigerate or freeze them for later use."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "high-fiber",
+    "mexican-inspired",
+    "one-pot",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "creamy-dense-mexican-pinto-beans-frijoles-charros",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-dense-mexican-pinto-beans-frijoles-charros",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:54:38Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "dense",
+    "mood": "meal-prep",
+    "technique": "render-fat",
+    "primaryIngredient": "amaretti",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "pinto beans",
+    "descriptor": "Creamy Dense",
+    "dishForm": "Frijoles Charros"
+  }
+}
