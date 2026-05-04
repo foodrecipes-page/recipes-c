@@ -1,0 +1,110 @@
+{
+  "title": "Crispy Irish Feta Fried Rice",
+  "description": "A funky, creamy fried rice that pairs the tang of feta with a double-fry KFC style crisp, perfect for a sick-day Irish lunch that's macrobiotic-friendly.",
+  "cuisine": "Irish",
+  "diet": [
+    "macrobiotic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cooked jasmine rice",
+      "amount": "2 cups",
+      "notes": "use day-old rice for best texture"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "100g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "carrots",
+      "amount": "1/2 cup diced"
+    },
+    {
+      "name": "frozen peas",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp olive oil in a large skillet over medium heat and scramble the beaten eggs until just set, then set aside.",
+    "Add the remaining 1 tbsp olive oil to the skillet and sauté diced onion until translucent.",
+    "Add diced carrots and peas, stir-frying for 3 minutes until slightly tender.",
+    "Pour in cooked rice, breaking up clumps, and stir-fry for 5 minutes, allowing it to heat through.",
+    "Stir in soy sauce, maple syrup, and paprika, tossing until the rice is evenly coated.",
+    "Fold in the scrambled eggs and crumbled feta, mixing gently to combine.",
+    "Season with salt and pepper to taste.",
+    "Reduce heat to low, cover the skillet, and let the rice steam for 5 minutes to allow the flavors to meld.",
+    "Finish by sprinkling additional paprika for color and serving hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "easy",
+    "healthy",
+    "macrobiotic-friendly",
+    "one-pan",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 70,
+    "fat": 20
+  },
+  "slug": "crispy-irish-feta-fried-rice",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-irish-feta-fried-rice",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:40:19Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "creamy",
+    "mood": "sick-day",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "feta",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Feta",
+    "descriptor": "Crispy",
+    "dishForm": "Fried-Rice"
+  }
+}
