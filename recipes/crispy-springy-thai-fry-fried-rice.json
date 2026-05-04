@@ -1,0 +1,113 @@
+{
+  "title": "Crispy Springy Thai Fry Rice",
+  "description": "Peppery and light Thai dish featuring tomato ketchup, made with crispy Thai fried rice and a dash of fresh herbs.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "long-grain rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "tomato ketchup",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "peanut oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "spring onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large copper pot over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for another minute, until fragrant.",
+    "Add the Thai red curry paste and cook for 1-2 minutes, until fragrant.",
+    "Add the cooked rice to the pot and stir-fry for 2-3 minutes, breaking up any clumps.",
+    "Add the fish sauce (if using) and tomato ketchup, and stir-fry for another minute.",
+    "Add the peanut oil and stir-fry for 1 minute, until the rice is crispy and golden brown.",
+    "Transfer the rice mixture to a serving platter and garnish with thinly sliced spring onions and chopped cilantro.",
+    "Serve immediately and enjoy!",
+    "Note: You can also add cooked shrimp or chicken to make this dish more substantial.",
+    "Tips: Use a non-stick copper pot to prevent the rice from sticking and making a mess.",
+    "Tips: Adjust the amount of curry paste to your desired level of spiciness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "flavorful",
+    "one-pan",
+    "rice-bowl",
+    "thaifood",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "crispy-springy-thai-fry-fried-rice",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-springy-thai-fry-fried-rice",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T01:07:07Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "springy",
+    "mood": "light",
+    "technique": "fry",
+    "primaryIngredient": "tomato ketchup",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "fry",
+    "descriptor": "Crispy Springy",
+    "dishForm": "Fried-Rice"
+  }
+}
