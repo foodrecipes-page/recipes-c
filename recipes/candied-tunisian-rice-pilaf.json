@@ -1,0 +1,108 @@
+{
+  "title": "Candied Tunisian Rice Pilaf",
+  "description": "A sweet, pillowy rice pilaf with caramelized shallots and aromatic spices, ideal for a quick weeknight meal.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "jasmine rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "shallot",
+      "amount": "1, thinly sliced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "pinch, soaked 2 tbsp warm water"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1 tbsp, chopped"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp, optional"
+    }
+  ],
+  "instructions": [
+    "Rinse the jasmine rice under cold water until the water runs clear, then drain.",
+    "In a medium saucepan, combine the rinsed rice, 4 cups of water, a pinch of salt, and the soaked saffron water; bring to a boil over high heat, then reduce heat to low, cover, and simmer for 15 minutes or until the rice is tender and liquid absorbed.",
+    "While the rice cooks, heat 1 tsp olive oil in a small skillet over medium heat and add the thinly sliced shallot, cooking until translucent and lightly golden, about 5 minutes.",
+    "Stir in 1/4 cup honey and 2 tbsp sugar to the shallots, letting the mixture caramelize and thicken for 2 minutes, then remove from heat.",
+    "Once the rice is done, fluff it with a fork and gently fold in the caramelized shallot mixture, ensuring even coating.",
+    "Sprinkle 1 tsp ground cumin and 1/2 tsp ground coriander over the rice, mixing thoroughly to distribute the spices.",
+    "Gently stir in 1 tbsp chopped fresh mint, adding a fresh brightness to the pilaf.",
+    "Transfer the pilaf to a korean-brass-bowl, optionally garnish with 1 tsp lemon zest for a citrus aroma.",
+    "Let the dish rest for 5 minutes before serving to allow flavors to meld."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-friendly",
+    "korean-brass-bowl",
+    "pilaf",
+    "rice",
+    "sweet",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 3
+  },
+  "slug": "candied-tunisian-rice-pilaf",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/candied-tunisian-rice-pilaf",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:21:09Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "pillowy",
+    "mood": "weeknight",
+    "technique": "boil",
+    "primaryIngredient": "shallots",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "rice",
+    "descriptor": "Candied",
+    "dishForm": "Pilaf"
+  }
+}
