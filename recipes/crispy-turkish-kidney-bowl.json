@@ -1,0 +1,101 @@
+{
+  "title": "Crispy Turkish Kidney Bowl",
+  "description": "Savory lamb kidney wrapped in crisp double‑rise bread, served in a lacquerware bowl for a quick weeknight dinner.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb kidney",
+      "amount": "400 g",
+      "notes": "trimmed and sliced into 10 pieces"
+    },
+    {
+      "name": "double‑rise bread",
+      "amount": "2 loaves",
+      "notes": "pre‑made or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "200 g",
+      "notes": "diced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1",
+      "notes": "medium, diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1",
+      "notes": "small, diced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a skillet over medium heat.",
+    "Add the sliced kidneys and sear each side for 2 minutes until browned.",
+    "Remove kidneys and set aside.",
+    "In the same skillet, toss in cherry tomatoes, cucumber, onion, and parsley for 3 minutes until just softened.",
+    "Return the seared kidneys to the skillet and drizzle with lemon juice, salt, and pepper; cook for an additional 1 minute.",
+    "Quickly flip the double‑rise bread pieces, place a portion of the kidney mixture on each, and roll tightly.",
+    "Arrange the rolls in a lacquerware bowl and serve immediately while still hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kitchen-fresh",
+    "one-pan",
+    "quick-dinner",
+    "savory",
+    "turkish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 50,
+    "fat": 25
+  },
+  "slug": "crispy-turkish-kidney-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-turkish-kidney-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:12:04Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "shattering",
+    "mood": "weeknight",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "lamb kidney",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Kidney",
+    "descriptor": "Crispy",
+    "dishForm": "Bowl"
+  }
+}
