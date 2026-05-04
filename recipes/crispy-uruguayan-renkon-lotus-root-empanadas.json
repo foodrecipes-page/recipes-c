@@ -1,0 +1,96 @@
+{
+  "title": "Crispy Uruguayan Renkon Lotus Root Empanadas",
+  "description": "A low-calorie Uruguayan dish featuring renkon lotus root, this recipe combines bitter and flaky elements to create a show-off empanada, using mantecare emulsification for a unique taste experience.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "renkon lotus root",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together flour, salt, and pepper.",
+    "Add cold butter to the bowl and use a pastry blender to work it into the flour mixture until it resembles coarse crumbs.",
+    "In a small bowl, whisk together eggs and water, then add the mixture to the flour mixture and stir until a dough forms.",
+    "Wrap the dough in plastic wrap and refrigerate for 30 minutes.",
+    "On a lightly floured surface, roll out the dough to a thickness of 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "In a bowl, mix together diced renkon lotus root and a pinch of salt and pepper.",
+    "Place a tablespoon of the lotus root mixture onto the center of each dough circle.",
+    "Fold the dough in half over the filling and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with olive oil and bake for 20-25 minutes, or until crispy and golden brown."
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 25,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "empanadas",
+    "lotus-root",
+    "low-calorie",
+    "uruguayan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "crispy-uruguayan-renkon-lotus-root-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-uruguayan-renkon-lotus-root-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T20:05:52Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "flaky",
+    "mood": "show-off",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "renkon-lotus-root",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "renkon lotus root",
+    "descriptor": "crispy flaky",
+    "dishForm": "Empanadas"
+  }
+}
