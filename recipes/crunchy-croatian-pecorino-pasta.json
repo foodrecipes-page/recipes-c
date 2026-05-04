@@ -1,0 +1,99 @@
+{
+  "title": "Crunchy Croatian Pecorino Pasta",
+  "description": "A funky, shattering quick-fix Croatian pasta featuring pecorino romano and confit tomato, lacto-vegetarian friendly.",
+  "cuisine": "Croatian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dry spaghetti",
+      "amount": "200g"
+    },
+    {
+      "name": "pecorino romano, grated",
+      "amount": "50g"
+    },
+    {
+      "name": "confit tomatoes, drained",
+      "amount": "100g"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 pinch"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "30g"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper, freshly ground",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook spaghetti until al dente, about 8-9 minutes.",
+    "While pasta cooks, heat olive oil in a skillet over medium heat.",
+    "Add minced garlic to the skillet, sauté until fragrant, about 30 seconds.",
+    "Stir in confit tomatoes, oregano, and red pepper flakes, and simmer for 3 minutes.",
+    "Drain the pasta and reserve 1/4 cup of pasta water.",
+    "Toss the hot pasta with the tomato sauce, adding reserved pasta water as needed to coat.",
+    "Sprinkle grated pecorino romano and chopped parsley over the pasta, and stir to combine.",
+    "Season with salt and black pepper, serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "croatian",
+    "funky",
+    "lacto-vegetarian",
+    "pasta",
+    "quick-fix",
+    "shattering",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 615,
+    "protein": 34,
+    "carbs": 78,
+    "fat": 32
+  },
+  "slug": "crunchy-croatian-pecorino-pasta",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-croatian-pecorino-pasta",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:16:52Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "shattering",
+    "mood": "quick-fix",
+    "technique": "confit-tomato",
+    "primaryIngredient": "pecorino-romano",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Pecorino",
+    "descriptor": "Crunchy",
+    "dishForm": "Pasta"
+  }
+}
