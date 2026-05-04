@@ -1,0 +1,92 @@
+{
+  "title": "Crumbly Cozy Japanese Masarepa Onigiri",
+  "description": "A fresh and crumbly Japanese dish from the Shikoku region, featuring yellow masarepa, traditionally prepared with a mortar and pestle, and formed into onigiri shapes, suitable for a Buddhist temple meal.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Yellow Masarepa",
+      "amount": "2 cups",
+      "notes": "finely ground"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Kombu powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Grilled sesame oil",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Pound the yellow masarepa in a mortar with a pestle until it is well broken down and fragrant.",
+    "Gradually add in the water, pounding and stirring with the pestle until a crumbly dough forms.",
+    "Add the salt, sesame seeds, rice vinegar, sugar, and kombu powder to the dough and mix until just combined.",
+    "Knead the dough for 5 minutes until it becomes pliable and smooth.",
+    "Divide the dough into 8 equal pieces and shape each into a triangle.",
+    "Brush the tops of the onigiri with grilled sesame oil.",
+    "Serve the onigiri at room temperature or slightly warmed.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "japanese-snack",
+    "no-bake",
+    "sesame-based",
+    "shikoku-specialty",
+    "traditional",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "crumbly-cozy-japanese-masarepa-onigiri",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-cozy-japanese-masarepa-onigiri",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:40:38Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crumbly",
+    "mood": "cozy",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "yellow masarepa",
+    "diet": "buddhist-temple",
+    "region": "shikoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "masarepa",
+    "descriptor": "Crumbly Cozy",
+    "dishForm": "Onigiri"
+  }
+}
