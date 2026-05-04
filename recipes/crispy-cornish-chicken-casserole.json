@@ -1,0 +1,107 @@
+{
+  "title": "Crispy Cornish Chicken Casserole",
+  "description": "A citrusy, gooey, one-pot chicken casserole with currants, caramelized glaze, and a golden crust, perfect for a solo British dinner.",
+  "cuisine": "British",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken thighs, bone-in, skin-on",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "Fresh lemon",
+      "amount": "1 large"
+    },
+    {
+      "name": "Fresh rosemary",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Currants, unsweetened",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Coconut milk, full-fat",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Arrowroot powder",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C and place a copper pot inside.",
+    "Pat the chicken thighs dry with paper towels.",
+    "Season the chicken with sea salt and freshly ground black pepper.",
+    "Heat the copper pot over medium‑high heat, add olive oil, and sear the chicken skin side down until golden brown.",
+    "Flip the chicken and sear the other side until browned, then remove it from the pot and set it aside.",
+    "Reduce the heat to medium, add butter and minced garlic, and cook until fragrant.",
+    "Stir in the juice and zest of the lemon, fresh rosemary sprigs, and currants to coat the pan.",
+    "Pour in the coconut milk and bring the mixture to a gentle simmer, allowing it to reduce slightly for about five minutes.",
+    "Mix the arrowroot powder with two tablespoons of water to create a slurry, then stir it into the pot until the glaze thickens.",
+    "Return the chicken to the pot, nestle it in the glaze, cover, and bake in the preheated oven for 25 minutes.",
+    "Uncover the pot, bake an additional five minutes to develop a crispy golden crust.",
+    "Remove the pot from the oven, let the casserole rest for five minutes, then serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "copper-pot",
+    "gluten-free",
+    "low-glycemic",
+    "one-pot",
+    "solo-dinner"
+  ],
+  "nutrition": {
+    "calories": 525,
+    "protein": 26,
+    "carbs": 11,
+    "fat": 38
+  },
+  "slug": "crispy-cornish-chicken-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-cornish-chicken-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:43:55Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "gooey",
+    "mood": "solo-dinner",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "currants",
+    "diet": "low-glycemic",
+    "region": "cornish",
+    "cuisineAdjective": "Cornish",
+    "mainIngredient": "Chicken",
+    "descriptor": "Crispy",
+    "dishForm": "Casserole"
+  }
+}
