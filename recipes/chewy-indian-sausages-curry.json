@@ -1,0 +1,125 @@
+{
+  "title": "Chewy Indian Sausages Curry",
+  "description": "A resinous and chewy Indian-inspired dish made with sausages, perfect for a weeknight dinner. It's also diabetic-friendly, low in sugar and fat, yet rich in flavor.",
+  "cuisine": "Indian",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb",
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Andhra-Style Indian Sausages",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander Powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Red Chili Powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garam Masala",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "handful",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add cumin seeds and let them sizzle for 10 seconds.",
+    "Add onion, ginger, and garlic. Cook until onion is translucent.",
+    "Add tomato and cook for another 2 minutes.",
+    "Add sausages and cook until browned on all sides.",
+    "Add cumin powder, coriander powder, red chili powder, garam masala, and salt. Mix well.",
+    "Add water and bring the mixture to a boil.",
+    "Reduce the heat to low and let it simmer for 15 minutes.",
+    "Garnish with fresh cilantro and serve hot.",
+    "Serve with rice or roti for a filling meal"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "curry",
+    "diabetic-friendly",
+    "easy-dinner",
+    "indian",
+    "low-carb",
+    "low-fat",
+    "one-pan",
+    "sausages",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "chewy-indian-sausages-curry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-indian-sausages-curry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:17:18Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "chewy",
+    "mood": "weeknight",
+    "technique": "saute",
+    "primaryIngredient": "sausages",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "sausages",
+    "descriptor": "chewy",
+    "dishForm": "curry"
+  }
+}

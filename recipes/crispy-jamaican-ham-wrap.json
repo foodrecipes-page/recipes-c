@@ -1,0 +1,110 @@
+{
+  "title": "Crispy Jamaican Ham Wrap",
+  "description": "A refreshing and savory post-workout snack featuring Jamaican serrano ham and a crispy fold.",
+  "cuisine": "jamaican",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "serrano ham",
+      "amount": "4 slices"
+    },
+    {
+      "name": "tortilla",
+      "amount": "1",
+      "notes": "whole wheat, low-carb"
+    },
+    {
+      "name": "sprouts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "peppers",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onions",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "orange juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salsa",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cucumber raita",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat a large non-stick skillet over medium-high heat.",
+    "Add the serrano ham slices and cook for 2 minutes on each side.",
+    "In a medium bowl, combine the sprouts, peppers, onions, and cucumber.",
+    "Add the cooked ham to the bowl and stir to combine.",
+    "In a separate bowl, mix the ginger, orange juice, cumin, and paprika.",
+    "Add the ginger mixture to the bowl with the ham mixture and stir to combine.",
+    "Warm the tortilla in the skillet for 30 seconds on each side.",
+    "Assemble the wrap by spreading the ham mixture on one half of the tortilla and folding the other half over.",
+    "Serve with salsa and cucumber raita on the side.",
+    "Cut in half and serve immediately.",
+    "Garnish with cilantro, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "easy-snack",
+    "healthy-breakfast",
+    "high-protein",
+    "jamaican-cuisine",
+    "low-carb",
+    "one-pan",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "crispy-jamaican-ham-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-jamaican-ham-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:18:25Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crispy",
+    "mood": "post-workout",
+    "technique": "fold",
+    "primaryIngredient": "serrano ham",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "jamaican",
+    "mainIngredient": "ham",
+    "descriptor": "crispy",
+    "dishForm": "wrap"
+  }
+}
