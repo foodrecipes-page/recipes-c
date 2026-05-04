@@ -1,0 +1,102 @@
+{
+  "title": "Crisp Venezuelan Guanciale Pasta",
+  "description": "A floral, tender weeknight pasta that pairs smoky guanciale with fresh tomatoes and basil for a quick, satisfying meal.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "non-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "guanciale",
+      "amount": "50g"
+    },
+    {
+      "name": "pasta spaghetti",
+      "amount": "100g"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "200g"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "10g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "30g"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "5g",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Fill a mason jar with water, bring to a boil, and add salt.",
+    "Add the diced guanciale and cook until it releases fat and starts to crisp, about 3 minutes.",
+    "Stir in the minced garlic and diced onion, sauté until fragrant, about 1 minute.",
+    "Add the uncooked pasta to the jar, submerge it fully with the boiling water, and stir to prevent sticking.",
+    "Close the mason jar lid, reduce heat to a simmer, and let the pasta cook, stirring occasionally, until al dente, about 10 minutes.",
+    "While the pasta cooks, toss the cherry tomatoes in olive oil, salt, and pepper.",
+    "When the pasta is cooked, pour in the tomato mixture, sprinkle with grated parmesan, and stir well.",
+    "Finish with chopped basil, lemon zest if using, and a final sprinkle of black pepper, then serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "guanciale",
+    "one-pot",
+    "pasta",
+    "venezuelan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 900,
+    "protein": 31,
+    "carbs": 72,
+    "fat": 38
+  },
+  "slug": "crisp-venezuelan-guanciale-pasta",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-venezuelan-guanciale-pasta",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:03:48Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "tender",
+    "mood": "weeknight",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "guanciale",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "guanciale",
+    "descriptor": "Crisp",
+    "dishForm": "Pasta"
+  }
+}
