@@ -1,0 +1,109 @@
+{
+  "title": "Creamy Fermented Malaysian Tomato Soup",
+  "description": "A silky, fermented soup blending tomato puree with kombu extract, evoking nostalgic flavors of Malaysia.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ripe tomatoes, diced",
+      "amount": "500g"
+    },
+    {
+      "name": "kombu water (cold extract)",
+      "amount": "200ml"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "100ml"
+    },
+    {
+      "name": "fermented soybean paste",
+      "amount": "50ml"
+    },
+    {
+      "name": "ginger, minced",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "white pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pot over medium heat.",
+    "Add minced ginger and garlic, sauté until fragrant.",
+    "Pour in diced tomatoes and cook until they soften and release juices.",
+    "Stir in kombu water, coconut milk, and fermented soybean paste.",
+    "Add cumin, turmeric, salt, and brown sugar, stirring to combine.",
+    "Simmer the soup for 10 minutes, allowing flavors to meld.",
+    "Use an immersion blender to puree until silky smooth.",
+    "Return to low heat, season with white pepper to taste.",
+    "Garnish with fresh cilantro if desired.",
+    "Serve hot with a side of steamed rice or hot buns."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "fermented",
+    "gluten-free",
+    "malaysian",
+    "tomato-soup",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "creamy-fermented-malaysian-tomato-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-fermented-malaysian-tomato-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:46:14Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "silky",
+    "mood": "nostalgic",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "tomato puree",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "tomato",
+    "descriptor": "Creamy Fermented",
+    "dishForm": "Soup"
+  }
+}

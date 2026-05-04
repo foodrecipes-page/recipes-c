@@ -1,0 +1,99 @@
+{
+  "title": "Classic Char Grilled Mediterranean Lamb Tagine",
+  "description": "A funky and quick-fix Mediterranean dish featuring chopped chive and robata-grilled lamb, cooked in a ceramic tagine, this recipe is perfect for a low-glycemic friendly meal.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, cut into 1 1/2 inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped chive",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can",
+      "notes": "14 oz"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "Thread the lamb cubes onto skewers, if using, and season with salt, black pepper, and dried oregano.",
+    "Brush the lamb with olive oil and grill for 5 minutes per side, or until cooked to desired doneness.",
+    "Transfer the lamb to a ceramic tagine and add the garlic, lemon juice, chopped chive, and canned diced tomatoes.",
+    "Cover the tagine with a lid and simmer over low heat for 10 minutes, or until the flavors have melded together.",
+    "Serve the lamb hot, garnished with additional chopped chive if desired.",
+    "Let the dish rest for a few minutes before serving to allow the juices to redistribute.",
+    "Serve with a side of low-glycemic friendly vegetables, such as roasted broccoli or grilled asparagus."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "lamb",
+    "low-glycemic",
+    "mediterranean",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "classic-char-grilled-mediterranean-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/classic-char-grilled-mediterranean-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:45:34Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "springy",
+    "mood": "quick-fix",
+    "technique": "robata-grill",
+    "primaryIngredient": "chopped chive",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lamb",
+    "descriptor": "Classic Char Grilled",
+    "dishForm": "Tagine"
+  }
+}
