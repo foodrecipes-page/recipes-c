@@ -1,0 +1,101 @@
+{
+  "title": "Chewy Southern Thai Padron Pepper Curry",
+  "description": "A briny and chewy one-pot Thai dish featuring padron peppers, this southern Thai curry is pescatarian-friendly and cooked in a pandan leaf wrap, reducing the need for multiple vessels.",
+  "cuisine": "Thai",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "padron peppers",
+      "amount": "1 cup",
+      "notes": "stemmed and seeded"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4 large leaves"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Cut the pandan leaves into 12 inch squares and set aside for wrapping the curry.",
+    "Heat the oil in a large saucepan over medium heat.",
+    "Add the curry paste and cook, stirring constantly, for 1 minute.",
+    "Add the coconut milk, fish sauce, lime juice, palm sugar, and salt, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Add the padron peppers and cook, stirring occasionally, for 5 minutes.",
+    "Add the shrimp and cook, stirring occasionally, until the shrimp are pink and cooked through.",
+    "Wrap the curry in the pandan leaves and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "briny",
+    "chewy",
+    "one-pot",
+    "pandan-leaf",
+    "pescatarian",
+    "southern-thai",
+    "thai-curry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "chewy-southern-thai-padron-pepper-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-southern-thai-padron-pepper-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:48:17Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "chewy",
+    "mood": "one-pot",
+    "technique": "reduce",
+    "primaryIngredient": "padron peppers",
+    "diet": "pescatarian",
+    "region": "southern-thai",
+    "cuisineAdjective": "Southern Thai",
+    "mainIngredient": "padron peppers",
+    "descriptor": "chewy briny",
+    "dishForm": "Curry"
+  }
+}
