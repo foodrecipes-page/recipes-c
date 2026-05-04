@@ -1,0 +1,98 @@
+{
+  "title": "Creamy Russian Cabbage Stew",
+  "description": "A mustardy, silky stew of savoy cabbage simmered in oat milk and broth, finished with a touch of spice for a monsoon‑sized Russian comfort dish.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "savoy cabbage",
+      "amount": "1 medium",
+      "notes": "shredded"
+    },
+    {
+      "name": "golden mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable broth, low sodium",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsweetened oat milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground turmeric",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh dill, chopped",
+      "amount": "2 tbsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat until shimmering.",
+    "Add chopped cabbage and sauté for 5 minutes until it begins to wilt.",
+    "Stir in golden mustard, ground ginger, and turmeric, cooking for 1 minute to release aromas.",
+    "Pour in vegetable broth, bring to a gentle boil, then reduce heat and simmer for 10 minutes.",
+    "Stir in oat milk and continue simmering until the stew thickens, about 5 minutes.",
+    "Season with salt, taste, and adjust if needed.",
+    "Remove from heat and let it sit for 5 minutes to set its silky texture.",
+    "Serve hot, garnished with fresh dill and a drizzle of olive oil if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "one-pot",
+    "quick",
+    "savory",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 330,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 17
+  },
+  "slug": "creamy-russian-cabbage-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-russian-cabbage-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:07:35Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "silky",
+    "mood": "monsoon",
+    "technique": "flambe",
+    "primaryIngredient": "savoy cabbage",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "cabbage",
+    "descriptor": "Creamy",
+    "dishForm": "Stew"
+  }
+}
