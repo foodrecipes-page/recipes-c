@@ -1,0 +1,75 @@
+{
+  "title": "Citrusy Snappy Slovakian Fish Bowl",
+  "description": "A refreshing and flavorful brunch dish originating from Slovakia, featuring halal-friendly ingredients and a tangy kick from fish sauce and citrus.",
+  "cuisine": "Slovakian",
+  "diet": [
+    null,
+    "halal"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Fresh mackerel fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce aekjeot",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Namul blanch season",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Rice noodles",
+      "amount": "1 cup",
+      "notes": "preferably halal-certified"
+    }
+  ],
+  "instructions": [
+    "Rinse the mackerel fillets under cold water and pat dry with paper towels.",
+    "Heat a non-stick pan over medium heat and add the fish sauce aekjeot, stirring constantly for 1 minute.",
+    "Add the namul blanch season and stir for another minute, then add the mackerel fillets and cook for 3-4 minutes per side, or until cooked through.",
+    "Cook the rice noodles according to the package instructions and set aside.",
+    "Slice the cooked mackerel fillets into thin strips and place on top of the cooked noodles.",
+    "Drizzle with additional fish sauce aekjeot and namul blanch season to taste, and garnish with fresh cilantro leaves, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 45,
+    "carbs": 50,
+    "fat": 20
+  },
+  "slug": "citrusy-snappy-slovakian-fish-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-snappy-slovakian-fish-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:34:22Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "snappy",
+    "mood": "brunch-mood",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "fish-sauce-aekjeot",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "fish",
+    "descriptor": "citrusy snappy",
+    "dishForm": "bowl"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "title": "crunchy midnight mediterranean winey fondue",
+  "description": "A rich and satisfying mediterranean dish, made with crunchy ingredients and a hint of wine. Enjoy with pita or crackers.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Crunchy pita chips",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sour cherry jam",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Greek olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    }
+  ],
+  "instructions": [
+    "Heat a sake-warmed fondue pot over medium heat.",
+    "Add the sour cherry jam and cook until melted and fragrant.",
+    "Add the Greek olives and cook for 2 minutes, until fragrant.",
+    "Stir in a pinch of salt and a drizzle of sake.",
+    "Transfer the fondue pot to a heat-resistant surface and serve immediately with crunchy pita chips.",
+    "Dip pita chips into the fondue and enjoy the winey flavors.",
+    "Garnish with additional olives and a drizzle of sake, if desired.",
+    "Serve immediately, before the fondue has a chance to chill and thicken.",
+    "Return the fondue pot to the stovetop and reheat over medium heat, if necessary."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "lacquer-glaze",
+    "mediterranean",
+    "sake-fondue",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 3
+  },
+  "slug": "crunchy-midnight-mediterranean-winey-fondue",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-midnight-mediterranean-winey-fondue",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:34:14Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crunchy",
+    "mood": "midnight-craving",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "sake-cooking",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "mediterranean",
+    "mainIngredient": "winey",
+    "descriptor": "crunchy midnight",
+    "dishForm": "fondue"
+  }
+}

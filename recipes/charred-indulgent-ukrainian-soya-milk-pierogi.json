@@ -1,0 +1,101 @@
+{
+  "title": "Charred Indulgent Ukrainian Soya Milk Pierogi",
+  "description": "Crisp, savory, and satisfying pierogi filled with a rich soya milk-based mother sauce, perfect for a comforting dinner",
+  "cuisine": "Ukrainian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "use a fine-milled flour for best results"
+    },
+    {
+      "name": "soya milk",
+      "amount": "1 cup",
+      "notes": "room temperature, preferably whole-milk or extra-rich version"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped, sautéed until translucent"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced, cooked with onion"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "preferably flaky sea salt"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": "softened, for brushing pierogi dough"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "grated, lacto-vegetarian option"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour and salt. Gradually add in warm water, mixing until dough forms.",
+    "Knead the dough for 5-7 minutes until it becomes smooth and elastic.",
+    "Cover dough with plastic wrap and let rest for 30 minutes.",
+    "Roll out dough to a thickness of 1/8 inch, about 1/4 inch smaller than the original thickness.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of mother sauce in the center of each dough circle.",
+    "Fold the dough over the filling, forming a half-circle shape, and press edges together to seal the pierogi.",
+    "Bring a large pot of salted water to a boil and gently add the pierogi. Cook for 5-7 minutes or until they float to the surface.",
+    "Meanwhile, heat a skillet over medium heat and add a small amount of butter.",
+    "When butter has melted, add charred pierogi and cook for an additional 2-3 minutes on each side, until golden brown and crispy.",
+    "Serve hot, garnished with chives and additional mozzarella cheese if desired"
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 20,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "frozen-pierogi",
+    "homemade-pasta",
+    "lacto-vegetarian",
+    "pierogi",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "charred-indulgent-ukrainian-soya-milk-pierogi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-indulgent-ukrainian-soya-milk-pierogi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:34:19Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crisp",
+    "mood": "indulgent",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "soya milk",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "soya milk",
+    "descriptor": "charred indulgent",
+    "dishForm": "Pierogi"
+  }
+}
