@@ -1,0 +1,108 @@
+{
+  "title": "Charming Caramelized Vietnamese Goat Meat Bun Cha",
+  "description": "A winey and springy Vietnamese dish featuring goat meat, perfect for a lazy Sunday, made with robata-grill and sugar-free-friendly ingredients, served in a ramekin as bun cha.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "sugar-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "goat meat",
+      "amount": "1 pound",
+      "notes": "cut into thin slices"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar substitute",
+      "amount": "1 tablespoon",
+      "notes": "such as stevia or erythritol"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 cup",
+      "notes": "cooked and drained"
+    },
+    {
+      "name": "fresh herbs",
+      "amount": "1/4 cup",
+      "notes": "such as mint, basil, or cilantro"
+    },
+    {
+      "name": "peanuts",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata-grill to medium-high heat.",
+    "In a large bowl, whisk together fish sauce, lime juice, and brown sugar substitute.",
+    "Add the sliced goat meat to the bowl and marinate for at least 30 minutes.",
+    "Remove the goat meat from the marinade and cook on the robata-grill for 5-7 minutes per side, or until cooked to an internal temperature of 145 degrees.",
+    "In a small bowl, mix together minced garlic and grated ginger.",
+    "Add the garlic-ginger mixture to the cooked goat meat and toss to coat.",
+    "To assemble the bun cha, place a portion of cooked rice noodles in the bottom of a ramekin.",
+    "Add a few slices of the caramelized goat meat on top of the noodles.",
+    "Garnish with fresh herbs, chopped peanuts, and a drizzle of sesame oil.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "goat-meat",
+    "ramekin-recipe",
+    "robata-grill",
+    "sugar-free",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "charming-caramelized-vietnamese-goat-meat-bun-cha",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/charming-caramelized-vietnamese-goat-meat-bun-cha",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T20:50:19Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "springy",
+    "mood": "lazy-sunday",
+    "technique": "robata-grill",
+    "primaryIngredient": "goat meat",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "goat meat",
+    "descriptor": "charmingly caramelized",
+    "dishForm": "Bun Cha"
+  }
+}
