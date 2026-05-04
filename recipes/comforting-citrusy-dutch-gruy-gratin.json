@@ -1,0 +1,119 @@
+{
+  "title": "comforting citrusy dutch gruy gratin",
+  "description": "a citrusy twist on the classic dutch gruy cheese gratin, perfect for a comforting dinner",
+  "cuisine": "dutch",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "gruy cheese",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "lemon",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "lime",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "6",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "25g",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "parsley",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "fleur de sel",
+      "amount": "10g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat oven to 180\u000040c",
+    "slice the onion and saut\u00029 in a pan until caramelized",
+    "add the minced garlic and cook for 1 minute",
+    "in a separate pot, steam the chicken breast until cooked through",
+    "in a large mixing bowl, combine the grated gruy cheese, lemon juice, lime juice, eggs, salt, black pepper, and parsley",
+    "add the cooked chicken breast to the cheese mixture and stir until combined",
+    "transfer the mixture to a bamboo steamer and top with the caramelized onion and bonito flakes",
+    "bake in the oven for 20 minutes or until the top is golden brown and the cheese is melted and bubbly",
+    "remove from the oven and sprinkle with fleur de sel",
+    "serve hot and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "citrusy",
+    "comforting",
+    "dutch"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 64,
+    "carbs": 10,
+    "fat": 54
+  },
+  "slug": "comforting-citrusy-dutch-gruy-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/comforting-citrusy-dutch-gruy-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:22:39Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "cheese-pull",
+    "mood": "comforting",
+    "technique": "bonito-shave",
+    "primaryIngredient": "gruy re",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Gruy",
+    "descriptor": "comforting citrusy",
+    "dishForm": "Gratin"
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "title": "Crisp Smoky Roasted Peruvian Chicken Pollo A La Brasa",
+  "description": "Tender and juicy chicken roasted to perfection in a flavorful blend of spices and sunflower oil. A classic Peruvian dish that's both easy to make and impressive to serve.",
+  "cuisine": "Peruvian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "whole chicken",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "sunflower oil",
+      "amount": "1/2 cup",
+      "notes": "for brushing"
+    },
+    {
+      "name": "achiote paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "",
+      "minced ": "true"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "",
+      "grated ": "true"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "lime wedges",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400\u0004idegrees Fahrenheit (200\u0004idegrees Celsius).",
+    "Rinse the chicken and pat it dry with paper towels.",
+    "In a small bowl, mix together the achiote paste, garlic, ginger, cumin, paprika, salt, and black pepper.",
+    "Rub the spice mixture all over the chicken, making sure to get some under the skin as well.",
+    "Place the chicken in a bamboo steamer set over a large skillet or saucepan of simmering water, making sure the chicken is not touching the water.",
+    "Cover the steamer with a lid and steam the chicken for 30 minutes.",
+    "While the chicken is steaming, heat the sunflower oil in a small saucepan over medium heat until it reaches 400\u0004idegrees Fahrenheit (200\u0004idegrees Celsius).",
+    "Use a thermometer to monitor the oil temperature.",
+    "Once the oil has reached the correct temperature, place the chicken in the oil and fry for 5-7 minutes on each side, or until it's golden brown and crispy.",
+    "Remove the chicken from the oil with a slotted spoon and place it on a paper towel-lined plate to drain any excess oil.",
+    "Let the chicken rest for 5 minutes before slicing it thinly and serving it hot with chopped cilantro and a squeeze of lime juice.",
+    "Garnish with chopped fresh cilantro and serve with lime wedges on the side."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 55,
+  "totalTimeMin": 85,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "grilled",
+    "peruvian",
+    "quick-and-easy",
+    "roasted",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 6,
+    "fat": 26
+  },
+  "slug": "crisp-smoky-roasted-peruvian-chicken-pollo-a-la-brasa",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-smoky-roasted-peruvian-chicken-pollo-a-la-brasa",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:22:22Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "gooey",
+    "mood": "light",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "sunflower oil",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "Crisp Smoky Roasted",
+    "dishForm": "Pollo A La Brasa"
+  }
+}

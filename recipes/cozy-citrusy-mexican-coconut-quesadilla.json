@@ -1,0 +1,98 @@
+{
+  "title": "Cozy Citrusy Mexican Coconut Quesadilla",
+  "description": "A light and cozy Mexican dish featuring the combination of Thai chili jam, coconut cream, and citrusy flavors. Perfect for a Jain-friendly meal.",
+  "cuisine": "Mexican",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Coconut cream",
+      "amount": "1/2 cup",
+      "notes": "full-fat coconut cream is essential for the crack to form properly"
+    },
+    {
+      "name": "Whole wheat tortillas",
+      "amount": "4",
+      "notes": "any other type of tortilla will not provide the same texture"
+    },
+    {
+      "name": "Strained yogurt",
+      "amount": "1 cup",
+      "notes": "plain, full-fat yogurt is necessary for the tanginess"
+    },
+    {
+      "name": "Thai chili jam",
+      "amount": "2 tbsp",
+      "notes": "adjust to desired level of spiciness"
+    },
+    {
+      "name": "Freshly squeezed orange juice",
+      "amount": "2 tbsp",
+      "notes": "grapefruit or lemon juice can also be used, but orange is preferred"
+    },
+    {
+      "name": "Shredded coconut",
+      "amount": "1/4 cup",
+      "notes": "dried coconut can be used as a substitute, but it will not provide the same texture"
+    },
+    {
+      "name": "Cilantro leaves",
+      "amount": "1/4 cup",
+      "notes": "optional, but adds a pop of freshness"
+    },
+    {
+      "name": "Coarse salt",
+      "amount": "to taste",
+      "notes": "required to balance the sweetness"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick skillet over medium heat. ",
+    "Add the tortillas to the skillet and cook for 30 seconds on each side. ",
+    "In a separate bowl, mix together the coconut cream, strained yogurt, Thai chili jam, and orange juice. ",
+    "Place 1/4 cup of the coconut cream mixture onto half of the cooked tortilla, leaving a small border around the edges. ",
+    "Sprinkle shredded coconut and cilantro leaves on top of the cream mixture, if using. ",
+    "Fold the tortilla in half to enclose the filling. ",
+    "Cook for an additional 2-3 minutes, until the tortilla is crispy and the filling is heated through. ",
+    "Repeat with the remaining tortillas and filling. ",
+    "Cut into wedges and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-lovers",
+    "easy-to-make",
+    "high-fiber",
+    "weeknight-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "cozy-citrusy-mexican-coconut-quesadilla",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-citrusy-mexican-coconut-quesadilla",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:23:00Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "light",
+    "mood": "cozy",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "thai chilli jam",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "coconut",
+    "descriptor": "cozy citrusy",
+    "dishForm": "Quesadilla"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "title": "Citrusy Light Slovakian Onion Pancakes",
+  "description": "A diabetic-friendly Slovakian dish that combines the flavors of citrus and onion with the flakiness of traditional Slovakian pancakes.",
+  "cuisine": "slovakian",
+  "diet": [
+    "diabetic",
+    "low-carb"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "low-fat Greek yogurt",
+      "amount": "3/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "zest of 1 orange",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "chopped onion (katsuramuki-cut)",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine flour, Greek yogurt, grated ginger, orange zest, and a pinch of salt in a bowl and mix until smooth.",
+    "Add chopped onion and mix until just combined.",
+    "Beat in eggs.",
+    "Heat a non-stick pan over medium heat.",
+    "Drop small balls of the mixture onto the pan and flatten slightly.",
+    "Cook for 2-3 minutes on the first side, until the edges start to curl.",
+    "Flip and cook for another 2-3 minutes, until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "diabetic",
+    "light",
+    "low-carb",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 8
+  },
+  "slug": "citrusy-light-slovakian-onion-pancakes",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-light-slovakian-onion-pancakes",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:22:06Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "flaky",
+    "mood": "light",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "chopped onion",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "onion",
+    "descriptor": "citrusy light",
+    "dishForm": "Pancakes"
+  }
+}
