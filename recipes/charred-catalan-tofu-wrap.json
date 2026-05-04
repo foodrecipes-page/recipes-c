@@ -1,0 +1,102 @@
+{
+  "title": "Charred Catalan Tofu Wrap",
+  "description": "A smoky, pillowy tofu wrap with crunchy almond cookies and steamed spinach, perfect for a sattvic crowd-pleaser.",
+  "cuisine": "Catalan",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "sattvic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "400g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh spinach leaves",
+      "amount": "150g"
+    },
+    {
+      "name": "almond cookie crumbs",
+      "amount": "50g",
+      "notes": "crumbled from store-bought almond cookies"
+    },
+    {
+      "name": "collard leaf wraps",
+      "amount": "4 large"
+    }
+  ],
+  "instructions": [
+    "Press tofu to remove excess moisture for at least 15 minutes.",
+    "In a bowl, whisk together olive oil, smoked paprika, cumin, lemon juice, soy sauce, and maple syrup.",
+    "Toss tofu cubes in the sauce, letting them marinate for 10 minutes.",
+    "Heat a non-stick pan over medium-high heat and sear tofu until golden on all sides, about 8 minutes.",
+    "While tofu cooks, quickly steam spinach leaves for 2 minutes, then pat dry.",
+    "Heat collard leaf wraps in a dry skillet for 30 seconds on each side to soften.",
+    "Spread a thin layer of tofu mixture on each wrap, leaving space on the edges.",
+    "Sprinkle almond cookie crumbs over the tofu for a crunchy, buttery contrast.",
+    "Fold the edges of the wrap and roll tightly, securing with a toothpick if needed.",
+    "Serve wraps warm, optionally with a wedge of lemon and a drizzle of extra sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "low-fat",
+    "sattvic",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 288,
+    "protein": 14,
+    "carbs": 17,
+    "fat": 15
+  },
+  "slug": "charred-catalan-tofu-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-catalan-tofu-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:59:41Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "pillowy",
+    "mood": "crowd-pleaser",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "cookies",
+    "diet": "ayurvedic-sattvic",
+    "region": "catalan",
+    "cuisineAdjective": "Catalan",
+    "mainIngredient": "tofu",
+    "descriptor": "Charred",
+    "dishForm": "Wrap"
+  }
+}
