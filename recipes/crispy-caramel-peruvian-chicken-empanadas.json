@@ -1,0 +1,97 @@
+{
+  "title": "Crispy Caramel Peruvian Chicken Empanadas",
+  "description": "A weeknight Peruvian dish featuring crispy empanadas filled with caramel chicken, made with dark brown sugar and cooked in a bain-marie for a low-sodium friendly meal.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "for empanada dough"
+    },
+    {
+      "name": "dark brown sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour and a pinch of salt to make the empanada dough.",
+    "In a separate bowl, mix together the dark brown sugar, chicken breast, onion, garlic, cumin, and paprika.",
+    "Add the sugar and chicken mixture to the center of the empanada dough and fold the dough over to form a triangle or circle shape.",
+    "Brush the empanadas with an egg wash and place them in a bain-marie.",
+    "Bake the empanadas in the preheated oven for 20 minutes, or until they are golden brown and crispy.",
+    "Remove the empanadas from the oven and let them cool for 5 minutes before serving.",
+    "Serve the empanadas warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "baked-goods",
+    "chicken-recipes",
+    "empanadas",
+    "low-sodium",
+    "peruvian-food",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "crispy-caramel-peruvian-chicken-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-caramel-peruvian-chicken-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:54:14Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "flaky",
+    "mood": "weeknight",
+    "technique": "bain-marie",
+    "primaryIngredient": "dark brown sugar",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "Crispy caramel",
+    "dishForm": "Empanadas"
+  }
+}
