@@ -1,0 +1,103 @@
+{
+  "title": "Creamy Kenyan Veal Curry",
+  "description": "A rich and dense Kenyan dish featuring veal in a creamy curry sauce, served in an earthenware bowl, this recipe is ayurvedic tamasic friendly.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "veal stew meat",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee in a large pan over medium heat.",
+    "Add the onion and cook until it is translucent.",
+    "Add the garlic and ginger and cook for 1 minute.",
+    "Add the curry powder and cook for 1 minute, stirring constantly.",
+    "Add the veal and cook until it is browned on all sides.",
+    "Add the coconut milk, tomato paste, salt, and pepper, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Serve the curry in an earthenware bowl.",
+    "Garnish with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-milk-recipes",
+    "curry-dishes",
+    "earthenware-cooking",
+    "kenyan-cuisine",
+    "veal-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "creamy-kenyan-veal-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-kenyan-veal-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:07:35Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "dense",
+    "mood": "monsoon",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "veal",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "veal",
+    "descriptor": "Creamy Complex",
+    "dishForm": "Curry"
+  }
+}
