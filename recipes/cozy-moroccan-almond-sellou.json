@@ -1,0 +1,96 @@
+{
+  "title": "Cozy Moroccan Almond Sellou",
+  "description": "A nutty and tender Moroccan dish featuring cumin and a deglaze, perfect for a cozy evening, this flexitarian-friendly sellou is a delicious and satisfying treat.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 1/2 cups",
+      "notes": "sliced"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "orange blossom water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees.",
+    "In a large skillet, toast the cumin seeds and coriander seeds over medium heat until fragrant.",
+    "In a large bowl, combine the sliced almonds, toasted cumin seeds, and toasted coriander seeds.",
+    "In a small bowl, whisk together the honey, orange blossom water, and rose water.",
+    "Add the wet ingredients to the dry ingredients and stir until the almonds are well coated.",
+    "Add the melted butter to the almond mixture and stir until everything is well combined.",
+    "Spread the almond mixture out into a large sellou shape on a baking sheet lined with parchment paper.",
+    "Bake the sellou for 20 minutes, or until it is lightly golden brown.",
+    "Remove the sellou from the oven and let it cool completely.",
+    "Once the sellou is cool, use a sharp knife to cut it into diamond-shaped pieces.",
+    "Serve the sellou warm, dust with powdered sugar if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "almond",
+    "cozy",
+    "dessert",
+    "flexitarian",
+    "moroccan",
+    "sellou"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "cozy-moroccan-almond-sellou",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-moroccan-almond-sellou",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:52:59Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "tender",
+    "mood": "cozy",
+    "technique": "deglaze",
+    "primaryIngredient": "cumin",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "almonds",
+    "descriptor": "cozy tender",
+    "dishForm": "Sellou"
+  }
+}
