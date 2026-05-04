@@ -1,0 +1,99 @@
+{
+  "title": "Crispy Caramelized German Onion Tart",
+  "description": "A yeasty, crumbly tart with caramelized onions and butter, low-glycemic and crowd-pleasing, served in a bento box.",
+  "cuisine": "German",
+  "diet": [
+    "low-glycemic",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Spelt flour",
+      "amount": "250g"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "5g"
+    },
+    {
+      "name": "Warm water",
+      "amount": "150ml"
+    },
+    {
+      "name": "Erythritol",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "50g",
+      "notes": "softened"
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "2 medium",
+      "notes": "about 300g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl, combine 250g spelt flour, 5g active dry yeast, and 1 tsp sea salt.",
+    "Add 150ml warm water and knead until the dough is elastic, about 8-10 minutes.",
+    "Place the dough in a greased bowl, cover, and let it rise in a warm place for 45 minutes, or until doubled in size.",
+    "While the dough rises, slice 2 medium onions and heat 1 tbsp olive oil in a skillet over medium heat.",
+    "Add the sliced onions and 2 tbsp erythritol, sautéing until caramelized and golden brown, about 15 minutes, stirring frequently.",
+    "Preheat the oven to 200 C and line a 9-inch tart pan with parchment paper.",
+    "Punch down the dough, roll it out to fit the tart pan, press it into the crust and crimp the edges.",
+    "Spread the caramelized onions evenly over the crust, drizzle with softened butter, and sprinkle fresh thyme on top.",
+    "Bake for 20-25 minutes, or until the crust is golden and the butter is bubbling.",
+    "Remove from the oven, let cool for 10 minutes, then cut into slices, place in a bento box, and serve."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bento-box",
+    "crowd-pleaser",
+    "crumbly",
+    "german",
+    "low-glycemic",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "crispy-caramelized-german-onion-tart",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-caramelized-german-onion-tart",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:13:38Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crumbly",
+    "mood": "crowd-pleaser",
+    "technique": "caramelize",
+    "primaryIngredient": "butter",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Onion",
+    "descriptor": "Crispy Caramelized",
+    "dishForm": "Tart"
+  }
+}

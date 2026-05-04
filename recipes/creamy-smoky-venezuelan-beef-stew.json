@@ -1,0 +1,102 @@
+{
+  "title": "Creamy Smoky Venezuelan Beef Stew",
+  "description": "A hearty beef stew with smoky paprika and creamy finish, perfect for a comforting lunch or dinner.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef cutlet",
+      "amount": "1.5 lb",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped, optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a copper pot over medium-high until shimmering.",
+    "Add beef cubes and brown on all sides, about 5 minutes.",
+    "Remove beef and set aside.",
+    "In same pot, sauté onion until translucent, about 3 minutes.",
+    "Stir in garlic, paprika, and cumin, cook 1 minute until fragrant.",
+    "Add tomato puree and beef broth, bring to a simmer, then return beef to pot.",
+    "Cover and let simmer 30 minutes until beef is tender.",
+    "Stir in heavy cream, adjust seasoning with salt and pepper, and simmer 5 minutes; garnish with cilantro before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "copper-pot",
+    "creamy",
+    "halal-friendly",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "creamy-smoky-venezuelan-beef-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-smoky-venezuelan-beef-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:13:59Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "creamy",
+    "mood": "sick-day",
+    "technique": "bhuna",
+    "primaryIngredient": "beef cutlet",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Beef",
+    "descriptor": "Creamy Smoky",
+    "dishForm": "Stew"
+  }
+}
