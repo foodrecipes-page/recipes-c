@@ -1,0 +1,101 @@
+{
+  "title": "Crispy Malaysian Chicken Casserole",
+  "description": "A savory, aerated casserole with a hint of sweet black treacle, cooked in a fondue pot for a nostalgic Malaysian twist.",
+  "cuisine": "malaysian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs, boneless, diced",
+      "amount": "1 kg",
+      "notes": "no skin"
+    },
+    {
+      "name": "carrots, sliced",
+      "amount": "200 g"
+    },
+    {
+      "name": "celery, sliced",
+      "amount": "150 g"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "100 g"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "ginger, grated",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "black treacle",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200 ml"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "with 1 teaspoon turmeric, 1 teaspoon curry powder, 1 teaspoon salt, 1/4 teaspoon pepper"
+    }
+  ],
+  "instructions": [
+    "Heat the fondue pot over medium heat and add the coconut oil, letting it melt fully.",
+    "Add the diced chicken to the pot and sauté until lightly browned on all sides.",
+    "Stir in the minced garlic, grated ginger, diced onion, sliced carrots, and celery, cooking until vegetables soften.",
+    "Pour in the coconut milk and chicken broth, stirring to combine.",
+    "Add the black treacle, turmeric, curry powder, salt, and pepper; bring the mixture to a gentle simmer.",
+    "Reduce the heat to low and let the casserole cook uncovered for 25 minutes, stirring occasionally, until the chicken is fully cooked and the sauce has thickened.",
+    "Taste and adjust seasoning if needed, then remove from heat.",
+    "Transfer the casserole into a serving dish, garnish with fresh cilantro and a squeeze of lime if desired.",
+    "Serve hot with steamed rice or flatbread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "crispy",
+    "fondue-pot",
+    "malaysian",
+    "savory",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 2400,
+    "protein": 210,
+    "carbs": 70,
+    "fat": 90
+  },
+  "slug": "crispy-malaysian-chicken-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-malaysian-chicken-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:56:21Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "aerated",
+    "mood": "nostalgic",
+    "technique": "knead",
+    "primaryIngredient": "black treacle",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Crispy",
+    "dishForm": "Casserole"
+  }
+}
