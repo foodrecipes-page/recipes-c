@@ -1,0 +1,104 @@
+{
+  "title": "Charred Creamy Slovakian Salmon Bowl",
+  "description": "A hearty post-workout dish featuring hot smoked flaked salmon, braise, and dairy-free friendly ingredients, inspired by Slovakian cuisine.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hot smoked salmon",
+      "amount": "12 oz",
+      "notes": "flaked"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "non-dairy yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the chopped onion, garlic, carrots, and potatoes with olive oil, salt, and black pepper until they are evenly coated.",
+    "Spread the vegetables on a baking sheet and roast in the oven for 20 minutes.",
+    "While the vegetables are roasting, mix the non-dairy yogurt and lemon juice in a small bowl.",
+    "After the vegetables have roasted for 20 minutes, remove them from the oven and stir in the flaked hot smoked salmon.",
+    "Return the baking sheet to the oven and cook for an additional 5 minutes.",
+    "Remove the baking sheet from the oven and stir in the yogurt and lemon juice mixture.",
+    "Divide the salmon and vegetable mixture into four bowls and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "charred-creamy-slovakian-salmon-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-creamy-slovakian-salmon-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:32:50Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "bouncy-qq",
+    "mood": "post-workout",
+    "technique": "braise",
+    "primaryIngredient": "hot smoked flaked salmon",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "salmon",
+    "descriptor": "charred creamy",
+    "dishForm": "Bowl"
+  }
+}
