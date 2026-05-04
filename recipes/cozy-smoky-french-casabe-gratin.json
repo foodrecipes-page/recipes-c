@@ -1,0 +1,106 @@
+{
+  "title": "Cozy Smoky French Casabe Gratin",
+  "description": "A smoky and springy French dish featuring casabe, wood-fired-baked to perfection, kosher-friendly and perfect for a cold winter night.",
+  "cuisine": "French",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "casabe",
+      "amount": "1 package",
+      "notes": "dried and crushed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 400 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Add the chopped onion and cook for 3 minutes until translucent.",
+    "Add the sliced mushrooms and cook for 4 minutes until tender.",
+    "In a large bowl, combine the cooked mushroom mixture, smoked paprika, salt, pepper, and chopped thyme.",
+    "In a separate bowl, mix the shredded gruyere cheese and crushed casabe.",
+    "In a baking dish, create a layer of the mushroom mixture, followed by a layer of the cheese and casabe mixture, and repeat until all ingredients are used, ending with a layer of cheese on top.",
+    "Bake the gratin in the wood-fired oven for 25 minutes until golden brown and bubbly.",
+    "Remove from the oven and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "french",
+    "kosher",
+    "smoky",
+    "winter-night",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "cozy-smoky-french-casabe-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-smoky-french-casabe-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:48:47Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "springy",
+    "mood": "cozy",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "casabe",
+    "diet": "kosher",
+    "region": "lyon",
+    "cuisineAdjective": "French",
+    "mainIngredient": "casabe",
+    "descriptor": "Cozy Smoky",
+    "dishForm": "Gratin"
+  }
+}
