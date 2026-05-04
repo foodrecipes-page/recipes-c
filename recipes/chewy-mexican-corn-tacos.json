@@ -1,0 +1,99 @@
+{
+  "title": "Chewy Mexican Corn Tacos",
+  "description": "These chewy tacos feature charred corn, fragrant marjoram, and a splash of lime, all tucked into corn tortillas and lightly bathed in rendered pork fat for extra flavor.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "fodmap-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Corn tortillas",
+      "amount": "8 small",
+      "notes": "store-bought"
+    },
+    {
+      "name": "Fresh corn kernels",
+      "amount": "2 cups",
+      "notes": "husks removed"
+    },
+    {
+      "name": "Lard",
+      "amount": "2 tablespoons",
+      "notes": "rendered from pork"
+    },
+    {
+      "name": "Marjoram",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "Lime",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "Cotija cheese",
+      "amount": "½ cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Salt",
+      "amount": "¼ teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "2 tablespoons",
+      "notes": "chopped, optional"
+    }
+  ],
+  "instructions": [
+    "Heat a dry skillet over medium heat and toast the corn tortillas for 30 seconds on each side until they puff slightly.",
+    "In a separate pan, melt the lard over medium heat and add the corn kernels, stirring until they start to caramelize, about 5 minutes.",
+    "Sprinkle the dried marjoram over the corn, season with salt, and continue cooking for another minute, letting the aroma release.",
+    "Remove the corn mixture from the pan and let it cool slightly, then transfer to a bowl.",
+    "Add the lime juice to the corn, stir well, and taste to adjust salt if needed.",
+    "Warm the toasted tortillas in a dry skillet for 10 seconds each side, then spoon the corn mixture onto each tortilla.",
+    "Finish each taco with a sprinkle of crumbled cotija cheese and chopped cilantro, if desired.",
+    "Serve immediately while the tortillas remain chewy and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chewy",
+    "corn",
+    "fodmap-friendly",
+    "gluten-free",
+    "mexican",
+    "taco"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 7,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "chewy-mexican-corn-tacos",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-mexican-corn-tacos",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:01:21Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "chewy",
+    "mood": "sick-day",
+    "technique": "render-fat",
+    "primaryIngredient": "marjoram",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "corn",
+    "descriptor": "Chewy",
+    "dishForm": "Tacos"
+  }
+}

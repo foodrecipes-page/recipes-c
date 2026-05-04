@@ -1,0 +1,100 @@
+{
+  "title": "Crispy Irish Cheese Casserole",
+  "description": "A fresh, gooey Irish cheese casserole that turns golden and crisp when baked, served warm on a banana leaf for a brunch‑friendly twist. Layered with sharp cheddar and creamy gouda, this dish is kissed by sesame seed oil for a nutty aroma and finished with a crunchy panko crust.",
+  "cuisine": "Irish",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "sharp cheddar cheese, sliced",
+      "amount": "200g"
+    },
+    {
+      "name": "gouda cheese, shredded",
+      "amount": "150g"
+    },
+    {
+      "name": "eggs, large",
+      "amount": "2"
+    },
+    {
+      "name": "milk",
+      "amount": "100ml"
+    },
+    {
+      "name": "sesame seed oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "50g"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "banana leaf",
+      "amount": "1 large"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "2 tbsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C and line a baking sheet with parchment.",
+    "Rinse the banana leaf, cut to fit the sheet, and soak it for 5 minutes.",
+    "Whisk eggs with milk, sesame seed oil, thyme, pepper, and a pinch of salt in a bowl.",
+    "Layer shredded gouda over sliced cheddar on the banana leaf, then pour the egg mixture evenly.",
+    "Sprinkle panko breadcrumbs over the top and press lightly to adhere.",
+    "Place the banana leaf bundle on the baking sheet and bake for 20 minutes until the top is golden brown.",
+    "Remove from oven and let rest for 5 minutes before cutting.",
+    "Garnish with chopped parsley and serve immediately.",
+    "Store leftovers in an airtight container in the fridge for up to 3 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "banana-leaf",
+    "breakfast",
+    "cheese-casserole",
+    "crispy",
+    "irish",
+    "low-sodium"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 22,
+    "carbs": 28,
+    "fat": 27
+  },
+  "slug": "crispy-irish-cheese-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-irish-cheese-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:01:32Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "gooey",
+    "mood": "brunch-mood",
+    "technique": "en-croute",
+    "primaryIngredient": "sesame seed oil",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "cheese",
+    "descriptor": "Crispy",
+    "dishForm": "Casserole"
+  }
+}
