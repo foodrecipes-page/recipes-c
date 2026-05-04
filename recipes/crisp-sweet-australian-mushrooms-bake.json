@@ -1,0 +1,62 @@
+{
+  "title": "Crisp Sweet Australian Mushrooms Bake",
+  "description": "A sweet, fluffy, nostalgic Australian dish featuring shiitake mushrooms.",
+  "cuisine": "australian",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "shittake mushrooms",
+      "amount": "1 cup",
+      "notes": "fresh or dried"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Mix together brown sugar, all-purpose flour, and salt in a small bowl.",
+    "Dredge the shiitake mushrooms in the sugar mixture to coat evenly.",
+    "Place coated mushrooms in a baking dish and drizzle with melted butter.",
+    "Bake in the preheated oven for 20 minutes or until golden brown and crispy.",
+    "Sprinkle with vanilla sugar and bake for an additional 2 minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 22,
+  "totalTimeMin": 37,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "baked",
+    "dessert",
+    "easy",
+    "mushroom",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "crisp-sweet-australian-mushrooms-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-sweet-australian-mushrooms-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:09:47Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "fluffy",
+    "mood": "nostalgic",
+    "technique": "brine-dry",
+    "primaryIngredient": "shiitake mushrooms",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Mushrooms",
+    "descriptor": "Crisp Sweet",
+    "dishForm": "Bake"
+  }
+}
