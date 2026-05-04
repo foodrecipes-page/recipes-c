@@ -1,0 +1,130 @@
+{
+  "title": "Crystal Korean Tomato Curry",
+  "description": "A savory, glassy-topped Korean curry with diced tomatoes, aromatic tadka, and a sugar-free twist.",
+  "cuisine": "korean",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "diced tomatoes",
+      "amount": "2 cups",
+      "notes": "fresh or canned without added sugar"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "gochugaru",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": "low sodium"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch slurry",
+      "amount": "1 tbsp cornstarch mixed with 2 tbsp water"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tbsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a medium pot over medium heat.",
+    "Add cumin and coriander seeds and toast until fragrant, about 30 seconds.",
+    "Stir in minced garlic and ginger, cooking until aromatic, 1 minute.",
+    "Add diced onion and sauté until translucent, about 3 minutes.",
+    "Pour in diced tomatoes and simmer for 5 minutes to release juices.",
+    "Stir in turmeric, gochugaru, soy sauce, salt, and black pepper, mixing well.",
+    "Add vegetable broth and bring the mixture to a boil, then lower heat and simmer for 4 minutes.",
+    "Pour the cornstarch slurry slowly, whisking constantly, and cook until the sauce thickens and glazes, about 2 minutes.",
+    "Remove from heat and stir in lime juice.",
+    "Serve hot, garnished with toasted sesame seeds, and enjoy a crystal-clear Korean tomato curry."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "glass-sauce",
+    "gyeonggi-style",
+    "korean-curry",
+    "one-pot",
+    "sugar-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 10,
+    "carbs": 38,
+    "fat": 16
+  },
+  "slug": "crystal-korean-tomato-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/crystal-korean-tomato-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:01:44Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "glassy-jelly",
+    "mood": "adventurous",
+    "technique": "tadka",
+    "primaryIngredient": "diced tomatoes",
+    "diet": "sugar-free",
+    "region": "gyeonggi",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "tomatoes",
+    "descriptor": "Crystal",
+    "dishForm": "Curry"
+  }
+}
