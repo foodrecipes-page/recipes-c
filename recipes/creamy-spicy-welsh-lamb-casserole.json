@@ -1,0 +1,96 @@
+{
+  "title": "Creamy Spicy Welsh Lamb Casserole",
+  "description": "A romantic and spicy Welsh dish featuring lamb, brown rice, and cheese, perfect for a cozy night in. This kosher-friendly recipe is sure to impress.",
+  "cuisine": "British",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cured in salt and brown sugar for 24 hours"
+    },
+    {
+      "name": "brown rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large skillet, cook the lamb shoulder over medium heat until browned on all sides.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "In a large bowl, combine the cooked brown rice, cayenne pepper, and dried thyme.",
+    "In a separate bowl, mix the heavy cream and shredded cheddar cheese.",
+    "In a 9x13 inch baking dish, create a layer of the rice mixture, followed by a layer of the lamb and onion mixture, and finally a layer of the cream and cheese mixture.",
+    "Repeat the layers two more times, ending with a layer of the cream and cheese mixture on top.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20 minutes, or until the top is golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 50,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "cheesy",
+    "lamb-based",
+    "one-pan",
+    "romantic",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 30
+  },
+  "slug": "creamy-spicy-welsh-lamb-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-spicy-welsh-lamb-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:00:38Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "cheese-pull",
+    "mood": "romantic",
+    "technique": "cure",
+    "primaryIngredient": "brown rice",
+    "diet": "kosher",
+    "region": "welsh",
+    "cuisineAdjective": "Welsh",
+    "mainIngredient": "lamb",
+    "descriptor": "Creamy Spicy",
+    "dishForm": "Casserole"
+  }
+}
