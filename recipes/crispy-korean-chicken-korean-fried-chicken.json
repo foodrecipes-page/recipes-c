@@ -1,0 +1,103 @@
+{
+  "title": "Crispy Korean Chicken",
+  "description": "A salty, crumbly Korean fried chicken dish featuring Monterey Jack cheese, served in a lacquerware bowl.",
+  "cuisine": "Korean",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken pieces",
+      "amount": "2 pounds",
+      "notes": "legs and thighs"
+    },
+    {
+      "name": "Monterey Jack cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, cornstarch, and a pinch of salt.",
+    "In a separate bowl, beat the eggs.",
+    "In a third bowl, mix together panko breadcrumbs and a pinch of salt.",
+    "Dip each piece of chicken into the flour mixture, then the eggs, and finally the breadcrumb mixture, pressing gently to adhere.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Fry the chicken pieces in batches until golden brown and cooked through, about 5-7 minutes per batch.",
+    "In a small bowl, whisk together soy sauce, garlic, and sesame oil.",
+    "Toss the fried chicken pieces in the soy sauce mixture until well coated.",
+    "Transfer the chicken to a lacquerware bowl and top with shredded Monterey Jack cheese.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-inspired",
+    "crispy-chicken",
+    "korean-fried-chicken",
+    "lacquerware-bowl",
+    "monterey-jack-cheese",
+    "pescatarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "crispy-korean-chicken-korean-fried-chicken",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-korean-chicken-korean-fried-chicken",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:21:33Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crumbly",
+    "mood": "monsoon",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "monterey jack cheese",
+    "diet": "pescatarian",
+    "region": "jeju",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Chicken",
+    "descriptor": "Crunchy Crispy",
+    "dishForm": "Korean Fried Chicken"
+  }
+}
