@@ -1,0 +1,84 @@
+{
+  "title": "Creamy Smoked Garlic Moroccan Pastilla",
+  "description": "A garlicy, creamy, crowd-pleaser Moroccan dish featuring a BBQ sauce base and vegan-friendly.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vegan puff pastry",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "250 ml"
+    },
+    {
+      "name": "smoked garlic puree",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "250 ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200.",
+    "Roll out the puff pastry, place it on a baking sheet and cut into small squares.",
+    "Whisk together coconut cream, smoked garlic puree, tomato paste, oregano, cayenne pepper, and vegetable stock. Mix well until smooth.",
+    "Brush olive oil over each puff pastry square, then pour the mixture on top of each.",
+    "Bake for 25 minutes or until golden brown.",
+    "Serve warm with a side salad."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bbq-sauce",
+    "moroccan-dish",
+    "smoked-garlic",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 630,
+    "protein": 28,
+    "carbs": 57,
+    "fat": 27
+  },
+  "slug": "creamy-smoked-garlic-moroccan-pastilla",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-smoked-garlic-moroccan-pastilla",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-04T23:22:25Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "creamy",
+    "mood": "crowd-pleaser",
+    "technique": "ferment",
+    "primaryIngredient": "barbeque sauce",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Garlic",
+    "descriptor": "Creamy Smoked",
+    "dishForm": "Pastilla"
+  }
+}
