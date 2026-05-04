@@ -1,0 +1,106 @@
+{
+  "title": "Crunchy Spanish Haddock Pisto Manchego Bake",
+  "description": "A flavorful and crunchy Spanish-inspired dish featuring haddock, pisto manchego, and a blend of umami flavors, perfect for a date night, and vegetarian-friendly with the option to substitute haddock with portobello mushrooms, served in a bamboo steamer for a unique presentation.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "haddock fillets",
+      "amount": "4",
+      "notes": "or portobello mushrooms for vegetarian option"
+    },
+    {
+      "name": "pisto manchego sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "manchego cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together pisto manchego sauce, olive oil, smoked paprika, salt, and black pepper.",
+    "Add the haddock fillets to the bowl and coat with the pisto manchego sauce mixture.",
+    "In a separate bowl, toss the cherry tomatoes and red onion with a pinch of salt and pepper.",
+    "In a bamboo steamer, create a layer of cherry tomatoes and red onion.",
+    "Place a haddock fillet on top of the vegetable layer.",
+    "Sprinkle shredded manchego cheese over the haddock fillet.",
+    "Repeat the layers until all ingredients are used, finishing with a layer of cheese on top.",
+    "Cover the bamboo steamer with a lid and bake for 20 minutes.",
+    "Remove the lid and bake for an additional 5 minutes, or until the top is golden brown and the fish is cooked through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy-texture",
+    "date-night",
+    "seafood",
+    "spanish-cuisine",
+    "umami-flavors",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "crunchy-spanish-haddock-pisto-manchego-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-spanish-haddock-pisto-manchego-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:41:48Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "snappy",
+    "mood": "date-night",
+    "technique": "bake",
+    "primaryIngredient": "haddock",
+    "diet": "vegetarian",
+    "region": "basque",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "haddock",
+    "descriptor": "crunchy caramelized",
+    "dishForm": "Pisto Manchego Bake"
+  }
+}
