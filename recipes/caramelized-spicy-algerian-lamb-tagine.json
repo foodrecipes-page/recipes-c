@@ -1,0 +1,119 @@
+{
+  "title": "Caramelized Spicy Algerian Lamb Tagine",
+  "description": "A hearty and aromatic one-pot dish featuring lamb, treacle, and North African spices, perfect for a wood-fired bake.",
+  "cuisine": "Algerian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "treacle (molasses)",
+      "amount": "2 tablespoons",
+      "notes": "optional, omit for less sweet"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the lamb with salt and black pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb pieces and sear until browned on all sides, about 5 minutes.",
+    "Add the onion, garlic, and ginger to the pot and cook, stirring occasionally, until the vegetables are softened, about 8 minutes.",
+    "Add the cumin, coriander, and cayenne pepper to the pot and cook, stirring constantly, for 1 minute.",
+    "Add the treacle (if using) and 1 cup of water to the pot.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the preheated oven.",
+    "Bake the tagine, covered, for 2 1/2 hours, or until the lamb is tender and the sauce has thickened.",
+    "Remove the pot from the oven and stir in the chopped parsley.",
+    "Serve the tagine hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "lamb",
+    "one-pot",
+    "raw-friendly",
+    "spicy",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 34,
+    "fat": 30
+  },
+  "slug": "caramelized-spicy-algerian-lamb-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/caramelized-spicy-algerian-lamb-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T10:43:03Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "tender",
+    "mood": "one-pot",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "treacle",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "lamb",
+    "descriptor": "Caramelized spicy",
+    "dishForm": "Tagine"
+  }
+}
