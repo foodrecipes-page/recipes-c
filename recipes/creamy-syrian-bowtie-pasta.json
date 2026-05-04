@@ -1,0 +1,101 @@
+{
+  "title": "Creamy Syrian Bowtie Pasta",
+  "description": "A cultured and romantic Syrian dish featuring bowtie pasta in a rich and creamy soffritto-based sauce, perfect for special occasions.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bowtie pasta",
+      "amount": "12 oz",
+      "notes": "also known as farfalle"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and finely chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini, sliced"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the bowtie pasta according to package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat and add the chopped carrots and celery, cooking until they are tender.",
+    "Add the sliced mushrooms to the skillet and cook until they release their moisture and start to brown.",
+    "In a small bowl, whisk together the heavy cream, parmesan cheese, thyme, salt, and pepper.",
+    "Add the cream mixture to the skillet and stir to combine, bringing the mixture to a simmer.",
+    "Reduce the heat to low and let the sauce simmer for a few minutes until it has thickened slightly.",
+    "Drain the cooked pasta and add it to the skillet, tossing to combine with the creamy sauce.",
+    "Serve the pasta hot, garnished with additional parmesan cheese if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "middle-eastern",
+    "one-pot",
+    "pasta",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "creamy-syrian-bowtie-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-syrian-bowtie-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:42:54Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "springy",
+    "mood": "romantic",
+    "technique": "soffritto-base",
+    "primaryIngredient": "bowtie pasta",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "bowtie pasta",
+    "descriptor": "Creamy",
+    "dishForm": "Pasta"
+  }
+}
