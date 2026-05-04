@@ -1,0 +1,106 @@
+{
+  "title": "Citrusy Zesty Egyptian Shaggy Papillote",
+  "description": "A post-workout, low-carb Egyptian dish featuring doubanjiang, wrapped in a shaggy papillote. Perfect for a quick, citrusy meal after a long run.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Boneless chicken breast",
+      "amount": "500g",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Doubanjiang chili paste",
+      "amount": "2 tbsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Fresh orange juice",
+      "amount": "100ml",
+      "notes": "or 2 oranges, juiced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "25g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing papillote"
+    },
+    {
+      "name": "Papillote pastry",
+      "amount": "1 sheet",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Sorrel leaves",
+      "amount": "50g",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C.",
+    "Brush the papillote pastry with olive oil.",
+    "Place a portion of the chicken breast in the center of the pastry.",
+    "Add a spoonful of doubanjiang chili paste over the chicken.",
+    "Squeeze a tablespoon of lemon juice over the chicken.",
+    "Add a few sprigs of chopped parsley and sorrel leaves over the chicken.",
+    "Drizzle 100ml of orange juice over the chicken.",
+    "Fold the pastry to cover the filling and seal the edges.",
+    "Place the papillote on a baking sheet and bake for 20 minutes.",
+    "Remove the papillote from the oven and let it rest for 5 minutes.",
+    "Carefully open the papillote and serve the chicken hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "low-carb",
+    "one-pan",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "citrusy-zesty-egyptian-shaggy-papillote",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-zesty-egyptian-shaggy-papillote",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:37:30Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "shaggy",
+    "mood": "post-workout",
+    "technique": "papillote",
+    "primaryIngredient": "doubanjiang",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "shaggy",
+    "descriptor": "citrusy zesty",
+    "dishForm": "papillote"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "title": "Crowd-Pleaser Portuguese Pine Nuts Paella",
+  "description": "A delicious and crowd-pleasing paella dish that features pine nuts and a marinate, perfect for a Buddhist-temple-friendly gathering.",
+  "cuisine": "Portuguese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "pine nuts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "use a high-quality, extra-virgin olive oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "arborio rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the chicken breast and cook until browned, about 5 minutes.",
+    "Remove the chicken from the pan and set aside.",
+    "Add the onion and garlic to the pan and cook until the onion is translucent, about 3-4 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "high-fiber",
+    "one-pan",
+    "portuguese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "crowd-pleaser-portuguese-pine-nuts-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crowd-pleaser-portuguese-pine-nuts-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:36:50Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "shattering",
+    "mood": "crowd-pleaser",
+    "technique": "marinate",
+    "primaryIngredient": "pine nuts",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "portuguese",
+    "mainIngredient": "pine nuts",
+    "descriptor": "crowd-pleaser",
+    "dishForm": "paella"
+  }
+}

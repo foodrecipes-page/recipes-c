@@ -1,0 +1,64 @@
+{
+  "title": "Crispy Patacones Venezolanos",
+  "description": "Crispy Patacones Venezolanos is a traditional Venezuelan dish that originated in the Andean region of South America. This recipe features a crispy exterior and a fluffy interior, perfect for snacking or as a side dish.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten-free",
+    "egg-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Plantain",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Marsala wine",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium-high heat.",
+    "Cut the plantains into 1-inch pieces and remove any stems or eyes.",
+    "Fry the plantains in batches until golden brown, about 3-4 minutes per side.",
+    "Drain the plantains on paper towels and let cool slightly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "side-dish",
+    "snack",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "crisp-venezuelan-dish-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-venezuelan-dish-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:37:10Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crisp",
+    "mood": "crowd-pleaser",
+    "technique": "brine-dry",
+    "primaryIngredient": "marsala-wine",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "venezuelan",
+    "mainIngredient": "dish",
+    "descriptor": "crisp",
+    "dishForm": "grill"
+  }
+}
