@@ -1,0 +1,111 @@
+{
+  "title": "Cozy Malty Saudi Falafel Bowl",
+  "description": "A warm, nut-free bowl of falafel with toasted malted barley and a silky tahini lemon sauce that brings the comfort of Saudi flavors to a bowl.",
+  "cuisine": "saudi",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "400g",
+      "notes": "cooked, drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "crushed"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "baking soda",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "malted barley grains",
+      "amount": "1 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "tahini",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl combine drained chickpeas, chopped onion, crushed garlic, chopped cilantro, cumin, coriander, paprika, and baking soda until evenly mixed.",
+    "Using a mortar and pestle pound the mixture until it forms a coarse paste that holds together, adding a splash of water if needed.",
+    "Shape the paste into small balls about walnut size and heat olive oil in a skillet over medium heat.",
+    "Fry the falafel balls in batches, turning until golden brown on all sides, about 3 minutes per side, then transfer to a paper towel-lined plate.",
+    "While falafel cooks, toast the malted barley grains in a dry skillet over medium heat until lightly browned and fragrant.",
+    "Whisk tahini with lemon juice and a splash of water until smooth and pourable, seasoning with a pinch of salt.",
+    "Assemble the bowl by layering cilantro, adding the fried falafel, sprinkling toasted barley, and drizzling the tahini sauce.",
+    "Garnish with extra lemon wedges if desired and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "falafel",
+    "malt",
+    "nut-free",
+    "quick-meal",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 1000,
+    "protein": 30,
+    "carbs": 100,
+    "fat": 50
+  },
+  "slug": "cozy-malty-saudi-falafel-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-malty-saudi-falafel-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:08:15Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "springy",
+    "mood": "cozy",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "falafel",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Saudi",
+    "mainIngredient": "falafel",
+    "descriptor": "Cozy Malty",
+    "dishForm": "Bowl"
+  }
+}
