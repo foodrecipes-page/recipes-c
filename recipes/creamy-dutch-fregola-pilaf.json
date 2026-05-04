@@ -1,0 +1,104 @@
+{
+  "title": "Creamy Dutch Fregola Pilaf",
+  "description": "A yeasty and silky Dutch dish featuring fregola, perfect for a date night, with high protein content and a unique flavor from kombu cold extract.",
+  "cuisine": "Dutch",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fregola",
+      "amount": "1 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "cooked chicken breast",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add toasted fregola and cook for 2 minutes, stirring constantly.",
+    "Add kombu cold extract and cook for 1 minute, stirring constantly.",
+    "Add chicken broth and bring to a boil.",
+    "Reduce heat to low and simmer for 15 minutes or until fregola is tender.",
+    "Stir in heavy cream and cook for 2 minutes or until creamy.",
+    "Add grana padano cheese and cook until melted and smooth.",
+    "Add cooked chicken breast and cook until heated through.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "dutch-cuisine",
+    "high-protein",
+    "one-pan",
+    "silky",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 37,
+    "carbs": 35,
+    "fat": 28
+  },
+  "slug": "creamy-dutch-fregola-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-dutch-fregola-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:10:31Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "silky",
+    "mood": "date-night",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "fregola",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "fregola",
+    "descriptor": "Creamy Silky",
+    "dishForm": "Pilaf"
+  }
+}
