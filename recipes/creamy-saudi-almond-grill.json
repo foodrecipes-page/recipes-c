@@ -1,0 +1,102 @@
+{
+  "title": "Creamy Saudi Almond Grill",
+  "description": "A nutty, creamy dish that blends almond flavor with a subtle Middle Eastern spice profile, cooked in a donabe on a yakimono grill for a smoky finish.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "gluten-free plain flour",
+      "amount": "200g"
+    },
+    {
+      "name": "almond flour",
+      "amount": "100g"
+    },
+    {
+      "name": "almond milk",
+      "amount": "250ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "30ml"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tbsp",
+      "notes": "30g"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "15ml"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to medium-high and lightly oil the donabe to prevent sticking.",
+    "In a bowl, combine gluten-free plain flour and almond flour, whisk until smooth.",
+    "Gradually stir in almond milk, olive oil, salt, cumin, coriander, and lemon juice until you get a thick batter.",
+    "Pour the batter into the preheated donabe, smoothing the surface with a spatula.",
+    "Place the donabe on the grill and close the lid to trap heat for 10 minutes.",
+    "After 10 minutes, stir the mixture gently to create a creamy, slightly caramelized coating.",
+    "Return to the grill for another 5 minutes until the edges are golden and the center is set.",
+    "Remove from heat, let rest 3 minutes, then serve topped with chopped parsley and a drizzle of ghee."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "creamy",
+    "donabe",
+    "gluten-free",
+    "nutty",
+    "saudi-arabian",
+    "yakimono-grill"
+  ],
+  "nutrition": {
+    "calories": 562,
+    "protein": 11,
+    "carbs": 36,
+    "fat": 30
+  },
+  "slug": "creamy-saudi-almond-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-saudi-almond-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:40:31Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "plain flour",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Saudi",
+    "mainIngredient": "Almond",
+    "descriptor": "Creamy",
+    "dishForm": "Grill"
+  }
+}
