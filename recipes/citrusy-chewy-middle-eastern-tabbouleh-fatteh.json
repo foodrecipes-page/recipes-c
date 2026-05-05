@@ -1,0 +1,112 @@
+{
+  "title": "Citrusy Chewy Middle-Eastern Tabbouleh Fatteh",
+  "description": "A refreshing and invigorating Middle-Eastern dish featuring tart citrus, chewy bulgur, and a hint of spice, perfect for a morning pick-me-up or a midday energy boost. Serve with naan or pita bread for a satisfying crunch.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "low-carb",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "bulgur",
+      "amount": "1 cup",
+      "notes": "fine or medium grind"
+    },
+    {
+      "name": "juice of 2 lemons",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "juice of 1 lime",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "tabasco sauce",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "namul blanch seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pine nuts",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Blanch the bulgur in boiling water for 5 minutes, then drain and set aside.",
+    "In a large bowl, combine the lemon and lime juice, tabasco sauce, and namul blanch seasoning.",
+    "Add the pine nuts, salt, and black pepper to the bowl and stir to combine.",
+    "Stir in the chopped parsley and mint.",
+    "Add the blanched bulgur to the bowl and stir until well combined.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the tabbouleh fatteh cold, garnished with additional parsley and mint if desired.",
+    "Pair with naan or pita bread for a satisfying crunch and a side of yogurt or raita for a cooling contrast."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 2,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "easy-to-make",
+    "gluten-free",
+    "healthy",
+    "low-carb",
+    "middle-eastern",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "citrusy-chewy-middle-eastern-tabbouleh-fatteh",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-chewy-middle-eastern-tabbouleh-fatteh",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:36:44Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "chewy",
+    "mood": "hangover-cure",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "tabasco sauce",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "tabbouleh",
+    "descriptor": "citrusy chewy",
+    "dishForm": "Fatteh"
+  }
+}

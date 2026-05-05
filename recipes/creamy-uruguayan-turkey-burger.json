@@ -1,0 +1,114 @@
+{
+  "title": "Creamy Uruguayan Turkey Burger",
+  "description": "A unique fusion of Uruguay's rich culture and flavors blended with creamy goodness. Features ground turkey, quince glaze and avocado for a delightful twist on the classic burger.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "macrobiotic-friendly",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground turkey (1 lb)",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk (1/2 cup)",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Quince paste (2 tbsp)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Mayonnaise (2 tbsp)",
+      "amount": "2 tbsp",
+      "notes": "Make sure to use a high-quality, gluten-free mayonnaise."
+    },
+    {
+      "name": "Avocado (2 cups diced)",
+      "amount": "2 cups",
+      "notes": "Use ripe but firm avocados for the best flavor and texture."
+    },
+    {
+      "name": "Chopped onion (1/4 cup)",
+      "amount": "1/4 cup",
+      "notes": "Use a sweet onion, such as Vidalia or Maui, for a milder flavor."
+    },
+    {
+      "name": "Chopped cilantro (1/4 cup)",
+      "amount": "1/4 cup",
+      "notes": "Use fresh cilantro for the best flavor."
+    },
+    {
+      "name": "Sliced almonds (1/4 cup)",
+      "amount": "1/4 cup",
+      "notes": "Use sliced almonds for added crunch."
+    },
+    {
+      "name": "Salt and pepper (tsp)",
+      "amount": "tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil (2 tbsp)",
+      "amount": "2 tbsp",
+      "notes": "Use a high-quality, extra-virgin olive oil for the best flavor."
+    },
+    {
+      "name": "Worcestershire sauce (1 tsp)",
+      "amount": "1 tsp",
+      "notes": "Use a gluten-free Worcestershire sauce."
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Form the ground turkey into 4 equal-sized patties.",
+    "Grill the patties for 5-6 minutes per side, or until they reach an internal temperature of 165°F (74°C).",
+    "While the patties are cooking, toast the sliced almonds in a small pan over medium heat for 2-3 minutes, or until fragrant.",
+    "Once the patties are cooked, let them rest for 2-3 minutes before assembling the burgers.",
+    "Spread a layer of mayonnaise on the bottom bun, followed by a cooked patty, a spoonful of quince paste, a few slices of avocado, a sprinkle of chopped cilantro, and finally the top bun.",
+    "Drizzle the burgers with a little olive oil and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "burgers",
+    "gluten-free",
+    "high-protein",
+    "lunch",
+    "one-pan",
+    "turkey",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 452,
+    "protein": 43,
+    "carbs": 16,
+    "fat": 26
+  },
+  "slug": "creamy-uruguayan-turkey-burger",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-uruguayan-turkey-burger",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:36:45Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "creamy",
+    "mood": "crowd-pleaser",
+    "technique": "glaze",
+    "primaryIngredient": "turkey mince",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "turkey",
+    "descriptor": "creamy",
+    "dishForm": "Burger"
+  }
+}
