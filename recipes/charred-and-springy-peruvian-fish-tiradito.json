@@ -1,0 +1,94 @@
+{
+  "title": "Charred Springy Peruvian Fish Tiradito",
+  "description": "A Peruvian-inspired dish featuring charred fish, springy texture, and crunchy iceberg lettuce. Perfect for a date night.",
+  "cuisine": "Peruvian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fresh Sea Bass (6 oz)",
+      "amount": "1 piece",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Aji Amarillo Pepper",
+      "amount": "1 teaspoon",
+      "notes": "dehydrated and ground"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Iceberg Lettuce",
+      "amount": "4 leaves",
+      "notes": "crisp and fresh"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Corn Husk Wrap",
+      "amount": "1 piece",
+      "notes": "large and fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the sea bass with salt and pepper.",
+    "Grill the sea bass for 4 minutes per side, or until charred and cooked through.",
+    "Dehydrate the Aji Amarillo pepper in a low oven (150°F) for 1 hour, or until dry and brittle.",
+    "Mince the garlic and mix with lime juice, Aji Amarillo pepper, and cilantro in a small bowl.",
+    "Assemble the tiradito by placing the grilled sea bass on the corn husk wrap, topping with a slice of red onion, a handful of iceberg lettuce, and a spoonful of the garlic-lime sauce.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "low-carb",
+    "one-pan",
+    "peruvian",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 44,
+    "carbs": 0,
+    "fat": 14
+  },
+  "slug": "charred-and-springy-peruvian-fish-tiradito",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-and-springy-peruvian-fish-tiradito",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:57:11Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "springy",
+    "mood": "date-night",
+    "technique": "dehydrate",
+    "primaryIngredient": "iceberg lettuce",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "fish",
+    "descriptor": "charred and springy",
+    "dishForm": "Tiradito"
+  }
+}

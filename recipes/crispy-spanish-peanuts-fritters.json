@@ -1,0 +1,91 @@
+{
+  "title": "Crispy Spanish Peanuts Fritters",
+  "description": "A classic Spanish street food, these crispy fritters are a perfect snack or side dish, made with roasted peanuts and a hint of smoky goodness.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "nut-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "roasted peanuts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "peanut oil",
+      "amount": "1 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, peanuts, Parmesan cheese, baking powder, and salt."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 20,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "fritters",
+    "snack",
+    "spanish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 28,
+    "fat": 20
+  },
+  "slug": "crispy-spanish-peanuts-fritters",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-spanish-peanuts-fritters",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:56:21Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crispy",
+    "mood": "energizing",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "peanut oil",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "peanuts",
+    "descriptor": "crispy",
+    "dishForm": "fritters"
+  }
+}
