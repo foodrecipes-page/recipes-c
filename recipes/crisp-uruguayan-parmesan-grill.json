@@ -1,0 +1,113 @@
+{
+  "title": "Crisp Uruguayan Parmesan Grill",
+  "description": "A pungent, tender, and energizing Uruguayan dish featuring parmesan, grilled to perfection. Plant-based-friendly option available without parmesan.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Parmesan cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Grilled lemons",
+      "amount": "2 lemons",
+      "notes": "grilled and sliced"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Grilled onions",
+      "amount": "1 medium",
+      "notes": "grilled and sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat, about 400°F.",
+    "Season the lemons with salt, pepper, and olive oil.",
+    "Grill the lemons for about 4 minutes per side, or until slightly charred and tender.",
+    "Meanwhile, slice the onions and grill them for about 3-4 minutes, or until slightly charred and tender.",
+    "In a large bowl, whisk together lime juice, garlic, salt, and black pepper.",
+    "Add the grilled lemons and onions to the bowl, and toss to combine.",
+    "Add the Parmesan cheese, parsley, and cilantro to the bowl, and toss to combine.",
+    "Transfer the mixture to a serving platter, and serve immediately.",
+    "Garnish with additional parsley and cilantro if desired.",
+    "Serve with grilled onions and lemons on the side, if desired.",
+    "Adjust seasoning to taste with salt and pepper.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "grilled",
+    "lunch",
+    "one-pan",
+    "parmesan",
+    "uruguayan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 30
+  },
+  "slug": "crisp-uruguayan-parmesan-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-uruguayan-parmesan-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:49:57Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "tender",
+    "mood": "energizing",
+    "technique": "grill",
+    "primaryIngredient": "parmesan",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "parmesan",
+    "descriptor": "Crisp",
+    "dishForm": "Grill"
+  }
+}
