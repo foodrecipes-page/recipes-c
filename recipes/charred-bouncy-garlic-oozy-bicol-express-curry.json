@@ -1,0 +1,95 @@
+{
+  "title": "Charred Bouncy Garlic Oozy Bicol Express Curry",
+  "description": "A sick-day Filipino dish featuring minced garlic, grilled for a charred bouncy texture in a lacto-vegetarian-friendly Bicol Express curry sauce.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 can (400g) coconut milk",
+      "amount": ""
+    },
+    {
+      "name": "2 tbsp tamarind paste",
+      "amount": ""
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 onion, sliced",
+      "amount": ""
+    },
+    {
+      "name": "4 bell peppers, thinly sliced",
+      "amount": ""
+    },
+    {
+      "name": "2 tomatoes, chopped",
+      "amount": ""
+    },
+    {
+      "name": "1 cup water or vegetable broth",
+      "amount": ""
+    },
+    {
+      "name": "1 tsp salt",
+      "amount": ""
+    },
+    {
+      "name": "1 tbsp sugar",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup rice vinegar (optional)",
+      "amount": ""
+    },
+    {
+      "name": "1 tbsp fish sauce (optional)",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat coconut milk, tamarind paste, and water in a pot.",
+    "Add garlic, onion, bell peppers, tomatoes, salt, sugar, and vinegar or fish sauce to the pot.",
+    "Simmer until thickened, stirring occasionally.",
+    "Serve hot over rice with extra grated fresh coconut for garnish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bicol-express",
+    "charred-bouncy",
+    "filipino-garlic",
+    "lacto-friendly",
+    "sick-day-dish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "charred-bouncy-garlic-oozy-bicol-express-curry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-bouncy-garlic-oozy-bicol-express-curry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T10:52:36Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "bouncy-qq",
+    "mood": "sick-day",
+    "technique": "grill",
+    "primaryIngredient": "minced garlic",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Philippine",
+    "mainIngredient": "Garlic",
+    "descriptor": "Charred Bouncy",
+    "dishForm": "Oozy Bicol Express Curry"
+  }
+}
