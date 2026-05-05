@@ -1,0 +1,85 @@
+{
+  "title": "Chewy Briny Showy Cream Cheese Bisque",
+  "description": "A light and show-off Kenyan dish featuring double cream, spherified elements for a gourmet twist, and Buddhist temple-friendly ingredients.",
+  "cuisine": "Kenyan",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "double cream",
+      "amount": "200"
+    },
+    {
+      "name": "cream cheese",
+      "amount": "150"
+    },
+    {
+      "name": "butter",
+      "amount": "30"
+    },
+    {
+      "name": "salt",
+      "amount": "10"
+    },
+    {
+      "name": "white pepper",
+      "amount": "5"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "20"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "20"
+    },
+    {
+      "name": "unsalted water",
+      "amount": "400"
+    }
+  ],
+  "instructions": [
+    "Combine cream cheese and double cream in a pan over medium heat.",
+    "Add butter, salt, white pepper, red wine vinegar, and fresh lemon juice to the mixture.",
+    "Stir until smooth and bring to a simmer. Reduce heat and let it cook for 5 minutes.",
+    "Remove from heat and pass through a fine sieve into bowls with spherified ingredients.",
+    "Serve chilled as an elegant dessert or appetizer."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-friendly",
+    "dessert",
+    "gourmet",
+    "showy",
+    "spherified",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 50,
+    "carbs": 70,
+    "fat": 80
+  },
+  "slug": "chewy-briny-showy-cream-cheese-bisque",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-briny-showy-cream-cheese-bisque",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T16:48:26Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "spherify",
+    "primaryIngredient": "double cream",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Briny",
+    "mainIngredient": "Cream Cheese",
+    "descriptor": "Showy",
+    "dishForm": "Bisque"
+  }
+}
