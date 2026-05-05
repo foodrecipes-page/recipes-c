@@ -1,0 +1,102 @@
+{
+  "title": "Crumbly Wholesome Kenyan Dried White Beans Wrap",
+  "description": "A quick-fix Kenyan dish featuring dried white beans, mortar-pestle-pound, and ayurvedic-tamasic-friendly ingredients wrapped in a pandan leaf.",
+  "cuisine": "Kenyan",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dried white beans",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "pandan leaf",
+      "amount": "4-6 leaves",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ayurvedic ghee",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Soak the dried white beans overnight in water.",
+    "Drain and rinse the soaked white beans, then transfer them to a mortar and pestle.",
+    "Pound the white beans into a coarse paste using the mortar and pestle.",
+    "Heat the coconut oil in a pan over medium heat.",
+    "Add the minced ginger and saut\u000240e for 1 minute.",
+    "Add the minced garlic and saut\u000240e for another minute.",
+    "Add the coriander powder and cumin powder, and stir well.",
+    "Add the pounded white bean paste and stir well.",
+    "If using ayurvedic ghee, add it now and stir well.",
+    "Cook for 5 minutes, stirring occasionally.",
+    "Warm the pandan leaves by wrapping them in a damp cloth and microwaving for 20 seconds.",
+    "Place a portion of the white bean mixture onto the center of a pandan leaf.",
+    "Fold the bottom half of the leaf up over the filling, then fold in the sides and roll the leaf into a neat package."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "high-fiber",
+    "kenyan",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 22,
+    "carbs": 70,
+    "fat": 20
+  },
+  "slug": "crumbly-wholesome-kenyan-dried-white-beans-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-wholesome-kenyan-dried-white-beans-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:26:43Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crumbly",
+    "mood": "quick-fix",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "dried white beans",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "kenyan",
+    "mainIngredient": "dried white beans",
+    "descriptor": "crumbly wholesome",
+    "dishForm": "wrap"
+  }
+}
