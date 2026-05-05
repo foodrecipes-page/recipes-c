@@ -1,0 +1,93 @@
+{
+  "title": "Charred Canadian Cheese Quesadilla",
+  "description": "A quick and flavorful Canadian twist on the classic quesadilla, featuring green cardamom pods and a rich cheese pull.",
+  "cuisine": "Canadian",
+  "diet": [
+    "ajurvedic",
+    "rajasic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Green Cardamom Pods",
+      "amount": "4-6",
+      "notes": "whole pods, crushed or bruised for better flavor"
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "4 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "Nimono Simmer Broth",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Fresh Chives",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "Korean Chili Flakes",
+      "amount": "1 teaspoon",
+      "notes": "optional, for some heat"
+    }
+  ],
+  "instructions": [
+    "Preheat grill or grill pan to medium-high heat.",
+    "Dust a large plate with flour, and place a tortilla on it, flipping it to coat evenly.",
+    "Place a tortilla on the grill, and sprinkle shredded mozzarella and cheddar cheese on half of the tortilla.",
+    "Add a few crushed green cardamom pods on top of the cheese, and fold the tortilla in half to enclose."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 4,
+  "totalTimeMin": 14,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "canadian",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 36,
+    "carbs": 40,
+    "fat": 60
+  },
+  "slug": "charred-canadian-cheese-quesadilla",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-canadian-cheese-quesadilla",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:57:34Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "cheese-pull",
+    "mood": "quick-fix",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "green cardamom pods",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "cheese",
+    "descriptor": "charred",
+    "dishForm": "Quesadilla"
+  }
+}
