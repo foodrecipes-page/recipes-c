@@ -1,0 +1,106 @@
+{
+  "title": "Charred Energizing Korean Red Pepper Jjigae",
+  "description": "A hearty, flavorful, and energizing Korean stew originating from Gyeongsang Province, featuring charred red peppers, roasted vegetables, and plant-based ingredients. This jjigae is perfect for a chilly evening or a quick weeknight meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red bell peppers",
+      "amount": "2",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Gochujang (Korean chili paste)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Gochugaru (Korean red pepper flakes)",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "for added depth of flavor"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Scallions",
+      "amount": "4",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Char the red bell peppers by placing them on a baking sheet, drizzling with sesame oil, and roasting for 20-25 minutes, or until the skin is blistered and charred.",
+    "Peel the charred skin off the peppers and cut them into 1-inch pieces.",
+    "Heat sesame oil in a large saucepan over medium-high heat.",
+    "Add the sliced onion and cook until translucent, about 3-4 minutes.",
+    "Add the gochujang, gochugaru, and rice vinegar to the saucepan, and stir to combine.",
+    "Add the charred red peppers, soy sauce, and 1 cup of water to the saucepan.",
+    "Bring the mixture to a boil, then reduce the heat to medium-low and simmer for 5-7 minutes or until the flavors have melded together.",
+    "Season the jjigae with salt to taste.",
+    "Garnish with sesame seeds and thinly sliced scallions before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "charred",
+    "korean",
+    "one-pan",
+    "spicy",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "charred-energizing-korean-red-pepper-jjigae",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-energizing-korean-red-pepper-jjigae",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:36:40Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "silky",
+    "mood": "energizing",
+    "technique": "roast",
+    "primaryIngredient": "red pepper",
+    "diet": "plant-based",
+    "region": "gyeongsang",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "red pepper",
+    "descriptor": "charred energizing",
+    "dishForm": "Jjigae"
+  }
+}
