@@ -1,0 +1,99 @@
+{
+  "title": "Creamy Melted Wholesome Chickpeas Pilaf",
+  "description": "This low-calorie-friendly meal prep dish combines a can of chickpeas with creamy ingredients for a wholesome and satisfying side dish.",
+  "cuisine": "spanish",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 can (15 oz) chickpeas",
+      "amount": 1
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": 2
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": 1
+    },
+    {
+      "name": "1 clove garlic, minced",
+      "amount": 1
+    },
+    {
+      "name": "1 tsp smoked paprika",
+      "amount": 1
+    },
+    {
+      "name": "1/2 tsp cayenne pepper",
+      "amount": 0.5
+    },
+    {
+      "name": "Salt and black pepper to taste",
+      "notes": null
+    },
+    {
+      "name": "1 cup vegetable broth",
+      "amount": 1
+    },
+    {
+      "name": "1/4 cup unsweetened almond milk",
+      "amount": 0.25
+    },
+    {
+      "name": "1 tbsp lemon juice",
+      "amount": 1
+    },
+    {
+      "name": "1 small handful fresh parsley, finely chopped (optional)",
+      "amount": 1
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat olive oil over medium heat.",
+    "Add onion and garlic; sauté until softened, about 2 minutes.",
+    "Stir in smoked paprika, cayenne pepper, salt, and pepper. Cook for 30 seconds.",
+    "Drain chickpeas and add to the skillet with their cooking liquid.",
+    "Pour in vegetable broth and almond milk. Stir well to combine all ingredients.",
+    "Bring to a simmer then reduce heat to low and let cook for about 15 minutes, stirring occasionally.",
+    "Stir in lemon juice and parsley (if using). Cook for an additional 5 minutes or until the mixture is thickened slightly.",
+    "Serve warm as a side dish or cool before refrigerating for meal prep."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "can-opener-friendly",
+    "low-calorie",
+    "meal-prep",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 9,
+    "fat": 5
+  },
+  "slug": "creamy-melted-wholesome-chickpeas-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-melted-wholesome-chickpeas-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T00:39:31Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "creamy",
+    "mood": "meal-prep",
+    "technique": "whisk",
+    "primaryIngredient": "can of chickpeas",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Wholesome",
+    "mainIngredient": "Chickpeas",
+    "descriptor": "Creamy Melted",
+    "dishForm": "Pilaf"
+  }
+}
