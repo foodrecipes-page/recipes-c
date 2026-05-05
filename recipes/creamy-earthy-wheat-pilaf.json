@@ -1,0 +1,98 @@
+{
+  "title": "Creamy Earthy Wheat Pilaf",
+  "description": "A macrobiotic-friendly monsoon Ethiopian dish featuring earthy flavors and Worcestershire sauce for a creamy texture.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup wheat",
+      "amount": "cup"
+    },
+    {
+      "name": "1/2 cup chopped onion",
+      "amount": ""
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": ""
+    },
+    {
+      "name": "1/4 tsp cinnamon powder",
+      "amount": ""
+    },
+    {
+      "name": "1/4 tsp smoked paprika",
+      "amount": ""
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": ""
+    },
+    {
+      "name": "1/2 cup water",
+      "amount": "cup"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "tbsp"
+    },
+    {
+      "name": "3 tbsp vegetable oil",
+      "amount": ""
+    },
+    {
+      "name": "1 tbsp lemon juice",
+      "amount": ""
+    },
+    {
+      "name": "2 cups water",
+      "amount": "cup"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine wheat and onion.",
+    "Add cumin, cinnamon powder, smoked paprika, and salt. Stir well.",
+    "Pour in the 1/2 cup of water. Bring to a boil then reduce heat to low.",
+    "Simmer for about 5 minutes or until liquid is absorbed.",
+    "In another pan, heat oil over medium-high heat.",
+    "Add Worcestershire sauce and lemon juice. Stir well until it thickens.",
+    "Pour the mixture over wheat mixture in the pot. Add remaining water.",
+    "Cover and steam for an additional 10 minutes or until desired consistency is reached."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "creamy-wheat-pilaf",
+    "earthly-flavors",
+    "macrobiotic-friendly",
+    "monsoon-ethiopian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 48,
+    "fat": 7
+  },
+  "slug": "creamy-earthy-wheat-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-earthy-wheat-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T20:11:05Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "creamy",
+    "mood": "monsoon",
+    "technique": "steam",
+    "primaryIngredient": "worcestershire sauce",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Earthy",
+    "mainIngredient": "Wheat",
+    "descriptor": "Creamy",
+    "dishForm": "Pilaf"
+  }
+}
