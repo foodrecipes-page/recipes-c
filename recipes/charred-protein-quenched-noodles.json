@@ -1,0 +1,68 @@
+{
+  "title": "Charred Protein Quenched Noodles",
+  "description": "A high-protein-friendly indulgent polish dish featuring vermicelli rice noodles charred to perfection with a side of cheddar cheese for quenching.",
+  "cuisine": "Polish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vermicelli Rice Noodles",
+      "amount": 200,
+      "notes": "about 8 ounces"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": 150,
+      "notes": "about half a cup"
+    },
+    {
+      "name": "Protein of choice (e.g. ground beef or chicken)",
+      "amount": 400,
+      "notes": "one large burger patty or about 3 ounces of chicken breast/thigh"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 425 degrees F.",
+    "Slice the cheddar cheese into small cubes and place them on a baking sheet lined with parchment paper.",
+    "Place the protein in a hot skillet over medium-high heat until browned and cooked through, about 5 minutes per side. Transfer to a plate to rest.",
+    "Add vermicelli noodles to another pan and toss with olive oil for about 2-3 minutes or until just tender.",
+    "Combine charred cheese cubes and cooked protein in the oven-safe bento box",
+    "Top with charred noodle pieces and bake at 400 degrees F for 15 minutes, or until noodles are crispy and cheese is melted.",
+    "Let it rest for a couple of minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "charred",
+    "cheese-pull",
+    "high-protein-friendly",
+    "indulgent"
+  ],
+  "nutrition": {
+    "calories": 370,
+    "protein": 45,
+    "carbs": 28,
+    "fat": 19
+  },
+  "slug": "charred-protein-quenched-noodles",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-protein-quenched-noodles",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T22:53:32Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "cheese-pull",
+    "mood": "indulgent",
+    "technique": "reduce",
+    "primaryIngredient": "vermicelli rice noodles",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Quenched",
+    "mainIngredient": "Protein",
+    "descriptor": "Charred",
+    "dishForm": "Noodles"
+  }
+}
