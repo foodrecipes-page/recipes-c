@@ -1,0 +1,66 @@
+{
+  "title": "Crispy Indonesian Egg Fry",
+  "description": "A crispy and indulgent portuguese dish featuring free-range eggs beaten with fried rice khao-khua for a low-fat-friendly meal.",
+  "cuisine": "Indonesian, Portuguese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Free-range eggs",
+      "amount": "4"
+    },
+    {
+      "name": "Fried rice khao-khua",
+      "amount": "80g"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Beat the free-range eggs and add garlic cloves and chili flakes.",
+    "Heat oil in a non-stick skillet, pour in beaten eggs mixture, and fry until golden brown on both sides.",
+    "Place fried rice khao-khua in between egg slices for crunchiness.",
+    "Serve immediately while hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy-indonesian",
+    "egg-fry",
+    "indulgent-portuguese",
+    "low-fat-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 9,
+    "fat": 16
+  },
+  "slug": "crispy-indonesian-egg-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-indonesian-egg-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T03:28:28Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crisp",
+    "mood": "indulgent",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "free-range egg beaten",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Indonesian",
+    "mainIngredient": "egg",
+    "descriptor": "Crispy",
+    "dishForm": "Fried-Rice"
+  }
+}
