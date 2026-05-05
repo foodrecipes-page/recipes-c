@@ -1,0 +1,153 @@
+{
+  "title": "Char-Grill-Yang Australian Squid Skewers",
+  "description": "Savory, pillowy, one-pot Australian dish featuring squid, char-grill-yang, halal-friendly.\nPerfect for a quick lunch or dinner.",
+  "cuisine": "australian",
+  "diet": [
+    "halal",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Squid tubes",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Char-Grill-Yang marinade",
+      "amount": "125g",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "2g",
+      "notes": ""
+    },
+    {
+      "name": "Lemongrass",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "Kaffir lime leaves",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "5g",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "60g",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "5g",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "2g",
+      "notes": ""
+    },
+    {
+      "name": "Chilli flakes",
+      "amount": "1g",
+      "notes": ""
+    },
+    {
+      "name": "Fresh coriander",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Pillowy rice",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Green papaya",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Cucumber",
+      "amount": "100g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the squid tubes into 5cm pieces and thread onto skewers, leaving a small space between each piece.",
+    "In a large bowl, whisk together char-grill-yang marinade, coconut oil, garlic, ginger paste, lemongrass, red onion, fish sauce, brown sugar, lime juice, salt, black pepper, and chilli flakes.",
+    "Add the squid skewers to the marinade and mix well to coat, cover with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill or grill pan to medium-high heat, thread the skewers onto the grill and cook for 4-6 minutes per side, or until the squid is cooked through.",
+    "While the squid is cooking, cook the pillowy rice according to package instructions.",
+    "To assemble the skewers, place a portion of cooked rice onto a serving plate, top with a squid skewer, a slice of green papaya, a slice of cucumber, and a sprinkle of fresh coriander.",
+    "Garnish with additional char-grill-yang marinade and serve immediately.",
+    "Serve with additional rice and any desired accompaniments.",
+    "Transfer the cooked squid to a plate and let rest for 5 minutes before serving.",
+    "Cook the pillowy rice according to package instructions, then fluff with a fork.",
+    "To assemble the skewers, place a portion of cooked rice onto a serving plate, top with a squid skewer, a slice of green papaya, a slice of cucumber, and a sprinkle of fresh coriander.",
+    "Serve immediately and enjoy!",
+    "Transfer the cooked squid to a plate and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "halal",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "char-grill-yang-australian-squid-skewers",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/char-grill-yang-australian-squid-skewers",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:49:57Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "pillowy",
+    "mood": "one-pot",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "squid",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "squid",
+    "descriptor": "char-grill-yang",
+    "dishForm": "Skewers"
+  }
+}

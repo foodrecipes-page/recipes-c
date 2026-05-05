@@ -1,0 +1,97 @@
+{
+  "title": "Argentinian Creamy Potato Hash",
+  "description": "A flavorful Argentinean dish made with small potatoes, creamy cheese, and crispy onions. Perfect for meal prep and a great side dish.",
+  "cuisine": "Argentinian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "small potatoes",
+      "amount": "1 1/2 pounds"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of butter in a large skillet over medium heat.",
+    "Add the sliced onion and cook until it's translucent and slightly caramelized, about 10-12 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes, until fragrant.",
+    "Add the diced potatoes to the skillet and stir to combine with the onion and garlic mixture.",
+    "Cook the potatoes for about 5-7 minutes, until they start to brown.",
+    "Stir in the shredded gruyere cheese and cook until it's melted and the potatoes are coated in the cheese sauce.",
+    "Remove the skillet from the heat and stir in the heavy cream.",
+    "Season the potato mixture with salt and black pepper to taste.",
+    "Transfer the potato mixture to a serving dish and garnish with chopped fresh parsley.",
+    "Serve the potato hash hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "breakfast",
+    "brunch",
+    "cheese",
+    "meal-prep",
+    "potatoes",
+    "side-dish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 18
+  },
+  "slug": "creamy-argentinian-potatoes-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-argentinian-potatoes-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:50:14Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "creamy",
+    "mood": "meal-prep",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "small potatoes",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "potatoes",
+    "descriptor": "creamy",
+    "dishForm": "Hash"
+  }
+}
