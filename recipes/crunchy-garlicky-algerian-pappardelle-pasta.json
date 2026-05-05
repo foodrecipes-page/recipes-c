@@ -1,0 +1,118 @@
+{
+  "title": "crunchy garlicky algerian pappardelle pasta",
+  "description": "a flavorful and crunchy take on traditional pappardelle pasta, featuring the bold spices of algerian cuisine. this dish is perfect for a weekend brunch or lunch.",
+  "cuisine": "algerian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pappardelle pasta",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tandoor spice blend",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped almonds",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "crushed red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "crispy tandoor chickpeas",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large skillet over medium-high heat.",
+    "add the chopped onion and saut\u00157 until softened, about 3-4 minutes.",
+    "add the minced garlic and cook for an additional 1-2 minutes, until fragrant.",
+    "add the tandoor spice blend and cook for 1 minute, stirring constantly.",
+    "add the chopped parsley and cilantro, and cook for an additional 1 minute, until wilted.",
+    "add the cooked pappardelle pasta to the skillet, and toss to combine with the onion and spice mixture.",
+    "season with salt, black pepper, and crushed red pepper flakes, to taste.",
+    "top the pasta with crispy tandoor chickpeas and chopped almonds.",
+    "garnish with additional parsley and cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "breakfast",
+    "brunch",
+    "lunch",
+    "pasta",
+    "spicy",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 15,
+    "carbs": 80,
+    "fat": 35
+  },
+  "slug": "crunchy-garlicky-algerian-pappardelle-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-garlicky-algerian-pappardelle-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:12:47Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crunchy",
+    "mood": "brunch-mood",
+    "technique": "tandoor",
+    "primaryIngredient": "pappardelle pasta",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "pappardelle",
+    "descriptor": "crunchy garlicky",
+    "dishForm": "Pasta"
+  }
+}

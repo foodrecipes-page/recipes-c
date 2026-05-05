@@ -1,0 +1,65 @@
+{
+  "title": "Charred Polish Paella with Rice Stick Noodles",
+  "description": "Charred, crisp kid-friendly Polish dish featuring rice stick noodles, ideal for a quick dinner. Perfect for a cozy evening with family and friends.",
+  "cuisine": "Polish",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice stick noodles",
+      "amount": "400g",
+      "notes": "preferably fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat the paella pan over medium-high heat, about 3-4 minutes",
+    "Cook the sliced onions and minced garlic until the onions are translucent, about 5 minutes",
+    "Add the chicken breast and cook until browned on all sides and cooked through, about 7 minutes",
+    "Remove the chicken and set aside",
+    "Add the sliced Polish sausage to the pan and cook for 2 minutes",
+    "Add the chopped onions and minced garlic back into the pan, cook for 2 minutes",
+    "Add the uncooked short-grain rice to the pan and stir to coat the rice in the oil for about 2 minutes",
+    "Add the paprika, salt, black pepper, and cayenne pepper to the pan, stir for 1 minute",
+    "Add the rinsed and drained rice mixture to the paella pan, stirring to avoid any burning, about 3-4 minutes",
+    "Add the chicken broth, lemon juice, and tomato paste to the pan, stir to combine, about 2 minutes",
+    "Add the cooked chicken, sliced Polish sausage, and chopped tomatoes to the pan, stir to combine, about 2 minutes",
+    "Reduce heat to low and gently simmer for about 25 minutes, without stirring, until the liquid has evaporated and the rice is cooked",
+    "Stir in the beaten eggs, if using",
+    "Transfer the paella to a serving plate, sprinkle with chopped parsley and dill, and serve",
+    "Garnish with additional parsley and dill, if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "kid-friendly",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 50,
+    "carbs": 150,
+    "fat": 70
+  },
+  "slug": "charred-rich-polish-rice-stick-noodles-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-rich-polish-rice-stick-noodles-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:11:39Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crisp",
+    "mood": "kid-friendly",
+    "technique": "deglaze",
+    "primaryIngredient": "rice stick noodles",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "rice stick noodles",
+    "descriptor": "Charred, rich",
+    "dishForm": "Paella"
+  }
+}
