@@ -1,0 +1,67 @@
+{
+  "title": "Citrusy Mediterranean Farfalle Pasta",
+  "description": "A light, citrusy, and flavorful Mediterranean pasta dish featuring tender farfalle, perfect for a weeknight dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "farfalle",
+      "amount": "8 oz",
+      "notes": "pasta of your choice"
+    }
+  ],
+  "instructions": [
+    "Cook the farfalle pasta according to package instructions until al dente, then set aside.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add chopped onion and sauté until translucent, about 3-4 minutes.",
+    "Add minced garlic and cook for another minute, until fragrant.",
+    "Add cherry tomatoes, kalamata olives, feta cheese, and a pinch of salt and pepper, and cook for 2-3 minutes, until the tomatoes start to release their juices.",
+    "Stir in lemon juice, grated Parmesan, black pepper, lemon zest, and a sprinkle of red pepper flakes.",
+    "Add cooked farfalle pasta to the skillet and toss everything together, until the pasta is well coated with the sauce.",
+    "Garnish with chopped fresh parsley and fresh mint, and serve immediately.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with additional lemon wedges and parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrus",
+    "high-protein",
+    "italian",
+    "mediterranean",
+    "one-pan",
+    "pescatarian",
+    "summer",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 22,
+    "carbs": 64,
+    "fat": 24
+  },
+  "slug": "citrusy-mediterranean-farfalle-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-mediterranean-farfalle-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:45:02Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "tender",
+    "mood": "weeknight",
+    "technique": "soffritto-base",
+    "primaryIngredient": "farfalle",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "farfalle",
+    "descriptor": "citrusy",
+    "dishForm": "Pasta"
+  }
+}
