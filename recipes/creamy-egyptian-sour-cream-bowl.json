@@ -1,0 +1,75 @@
+{
+  "title": "creamy egyptian sour cream bowl",
+  "description": "a deliciously sour and creamy egyptian dish that kids love, featuring black cardamom pods and a low-fat marinate",
+  "cuisine": "egyptian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "low-fat sour cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "plain greek yogurt",
+      "amount": "2/3 cup",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "finely grated fresh ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground black cardamom",
+      "amount": "1/8 tsp",
+      "notes": "use 1 whole pod if you prefer"
+    }
+  ],
+  "instructions": [
+    "in a large bowl, whisk together the sour cream, greek yogurt, honey, ginger, and black cardamom until smooth"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kid-friendly",
+    "low-fat",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 15,
+    "fat": 6
+  },
+  "slug": "creamy-egyptian-sour-cream-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-egyptian-sour-cream-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:21:52Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "creamy",
+    "mood": "kid-friendly",
+    "technique": "marinate",
+    "primaryIngredient": "black cardamom pods",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "sour cream",
+    "descriptor": "creamy",
+    "dishForm": "bowl"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "title": "Charred Light Malaysian Oats Roti",
+  "description": "A light and cozy Malaysian dish featuring oats and ferment-kimchi, perfect for a healthy breakfast or snack. This recipe is Whole30-friendly and deliciously flavorful.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "Whole30",
+    "Gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "tava-griddle",
+      "amount": "",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat a tava-griddle or non-stick pan over medium heat.",
+    "Mix oats, ferment-kimchi, coconut oil, salt, and black pepper in a bowl until well combined.",
+    "Add eggs to the bowl and mix until a dough forms.",
+    "Gradually add water to the dough and mix until a smooth consistency is achieved.",
+    "Divide the dough into 4-6 equal portions, depending on desired roti size.",
+    "Roll out each portion into a thin circle, about 6-7 inches in diameter.",
+    "Place a roti on the tava-griddle and cook for 1-2 minutes, until the bottom is lightly charred.",
+    "Flip the roti and cook for another 1-2 minutes, until the other side is also lightly charred.",
+    "Repeat with the remaining dough portions.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "easy-to-make",
+    "grain-based",
+    "healthy",
+    "one-pan",
+    "snack",
+    "south-asian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "charred-light-malaysian-oats-roti",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-light-malaysian-oats-roti",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:21:05Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "light",
+    "mood": "cozy",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "oats",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "malaysian",
+    "mainIngredient": "oats",
+    "descriptor": "charred light",
+    "dishForm": "roti"
+  }
+}
