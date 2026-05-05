@@ -1,0 +1,114 @@
+{
+  "title": "Crumbly Russian Floral Pryanik",
+  "description": "A crumbly, spicy, and sweet monsoon-inspired Russian dessert featuring Chinese five-spice powder, caramelized sugar, and a hint of ayurvedic spices.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chinese five-spice powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cardamom powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Rose petals",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Rosewater",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Almond flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300\u00114F (150\u0010C).",
+    "Line a baking sheet with parchment paper.",
+    "In a large mixing bowl, combine the sugar, honey, and butter. Mix until smooth.",
+    "Add the Chinese five-spice powder, cardamom powder, and ginger powder to the bowl and mix well.",
+    "Add the rose petals and rosewater to the bowl and mix until the petals are evenly distributed.",
+    "Add the almond flour and eggs to the bowl and mix until a dough forms.",
+    "Turn the dough out onto a lightly floured surface and knead until smooth.",
+    "Roll the dough out to a thickness of 1/4 inch.",
+    "Use a cookie cutter or a glass to cut out shapes from the dough.",
+    "Place the shapes on the prepared baking sheet and bake for 20-25 minutes, or until lightly golden.",
+    "Allow the pryanik to cool completely on the baking sheet before serving.",
+    "Store the pryanik in an airtight container at room temperature for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "crumbly",
+    "dessert",
+    "gluten-free",
+    "monsoon",
+    "tamasic-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "crumbly-russian-floral-pryanik",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-russian-floral-pryanik",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:23:00Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crumbly",
+    "mood": "monsoon",
+    "technique": "caramelize",
+    "primaryIngredient": "chinese five spice powder",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "floral",
+    "descriptor": "crumbly",
+    "dishForm": "Pryanik"
+  }
+}

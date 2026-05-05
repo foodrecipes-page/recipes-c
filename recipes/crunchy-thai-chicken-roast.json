@@ -1,0 +1,111 @@
+{
+  "title": "Crunchy Thai Chicken Roast",
+  "description": "A flavorful and crunchy Central Thai dish, combining the best of roast and dash-friendly ingredients. Perfect for a midnight craving.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Use a neutral-tasting oil."
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon",
+      "notes": "For added flavor."
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "2 tablespoons",
+      "notes": "Freshly made or store-bought."
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Fresh or bottled."
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "Use a Thai brand for authentic flavor."
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "Use a light or dark soy for added flavor."
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "Adjust to taste."
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "For garnish."
+    },
+    {
+      "name": "Pitted green olives",
+      "amount": "1/2 cup",
+      "notes": "Use your favorite variety."
+    },
+    {
+      "name": "Roasted peanuts",
+      "amount": "1/4 cup",
+      "notes": "Chopped or whole."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Season the chicken with salt and pepper.",
+    "In a small bowl, mix together olive oil, sesame oil, ginger paste, lime juice, fish sauce, soy sauce, and brown sugar.",
+    "Place the chicken in a large roasting pan and brush the ginger mixture evenly over the chicken.",
+    "Roast the chicken in the preheated oven for 30 minutes.",
+    "After 30 minutes, sprinkle chopped cilantro, pitted green olives, and roasted peanuts over the chicken.",
+    "Return the chicken to the oven and continue roasting for an additional 20-25 minutes, or until cooked through.",
+    "Remove the chicken from the oven and let it rest for 10 minutes before slicing and serving.",
+    "Garnish with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easydinner",
+    "high-protein",
+    "one-pan",
+    "thaifood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "crunchy-thai-chicken-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-thai-chicken-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:22:21Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "shattering",
+    "mood": "midnight-craving",
+    "technique": "roast",
+    "primaryIngredient": "olives",
+    "diet": "dash",
+    "region": "central-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "Crunchy",
+    "dishForm": "Roast"
+  }
+}

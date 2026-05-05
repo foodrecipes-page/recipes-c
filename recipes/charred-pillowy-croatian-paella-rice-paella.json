@@ -1,0 +1,120 @@
+{
+  "title": "charred pillowy croatian paella rice paella",
+  "description": "a lacto-vegetarian-friendly, wok-hei, brunch-mood croatian dish featuring paella rice. crispy on the outside, fluffy on the inside.",
+  "cuisine": "croatian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "paella rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "mushrooms",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the oil in a large paella pan over medium-high heat.",
+    "saute the onion, garlic, and bell pepper until the vegetables are tender.",
+    "add the mushrooms and cook until they release their liquid and start to brown.",
+    "add the tomato, smoked paprika, thyme, salt, and pepper, and stir to combine.",
+    "add the paella rice and stir to coat the rice in the oil and mix with the vegetables.",
+    "cook the rice for 2-3 minutes, stirring constantly.",
+    "add 2 cups of water to the pan and bring to a boil.",
+    "reduce the heat to low and simmer, covered, for 20-25 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "increase the heat to high and cook, uncovered, for 5-7 minutes, or until the bottom of the pan is crispy and golden brown.",
+    "remove the pan from the heat and sprinkle with grated cheese.",
+    "let the paella rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 15,
+    "carbs": 80,
+    "fat": 20
+  },
+  "slug": "charred-pillowy-croatian-paella-rice-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-pillowy-croatian-paella-rice-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:23:18Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "pillowy",
+    "mood": "brunch-mood",
+    "technique": "wok-hei",
+    "primaryIngredient": "paella rice",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "paella rice",
+    "descriptor": "charred pillowy",
+    "dishForm": "Paella"
+  }
+}
