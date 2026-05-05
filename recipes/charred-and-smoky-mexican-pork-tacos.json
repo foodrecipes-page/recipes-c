@@ -1,0 +1,138 @@
+{
+  "title": "Charred and Smoky Mexican Pork Tacos",
+  "description": "A delicious, pillowy dish featuring charred pork, malai, and mirepoix base, perfect for kid-friendly Mexican cuisine. Serve in tacos al pastor style for a fun twist on traditional tacos.",
+  "cuisine": "mexican",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "malai paste",
+      "amount": "2 tablespoons",
+      "notes": "available at most Asian grocery stores or online"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "bell pepper",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "cilantro",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10 corn tortillas",
+      "notes": ""
+    },
+    {
+      "name": "lime",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "avocado",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "salsa",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "optional",
+      "notes": ""
+    },
+    {
+      "name": "queso fresco",
+      "amount": "crumbled",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400°F. Season pork shoulder with cumin, chili powder, salt, and black pepper.",
+    "Place pork shoulder on the grill and cook for 10 minutes per side, or until charred and cooked through.",
+    "Meanwhile, heat malai paste in a pan over medium heat. Add onion and bell pepper and cook until softened, about 5 minutes.",
+    "Add garlic to the pan and cook for 1 minute.",
+    "Shred the cooked pork with two forks and add to the pan with the malai mixture. Stir to combine.",
+    "Warm tortillas on the grill or in a dry pan. Assemble tacos with the pork mixture, cilantro, and your desired toppings.",
+    "Serve immediately, garnished with lime wedges and avocado slices.",
+    "Optional: top with sour cream and crumbled queso fresco."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "al-pastor",
+    "grilled",
+    "kid-friendly",
+    "mexican",
+    "tacos",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "charred-and-smoky-mexican-pork-tacos",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-and-smoky-mexican-pork-tacos",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:16:29Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "pillowy",
+    "mood": "kid-friendly",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "malai",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Pork",
+    "descriptor": "Charred and Smoky",
+    "dishForm": "Tacos"
+  }
+}

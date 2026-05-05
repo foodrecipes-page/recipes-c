@@ -1,0 +1,63 @@
+{
+  "title": "Crunchy Light German Dasima-Kombu Pilaf",
+  "description": "A crunchy and light dish featuring dasima-kombu, inspired by German cuisine, and suitable for shojin-friendly diets.",
+  "cuisine": "german",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dasima-kombu",
+      "amount": "4 sheets",
+      "notes": "preferably Japanese dasima-kombu or kombu, dried"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large saucepan over medium heat, add onion and cook until softened.",
+    "Add garlic and cook for another minute.",
+    "Add 2 sheets of dasima-kombu, cook for 10 seconds, until fragrant.",
+    "Add rice, lemon juice and water to the saucepan, bring to a boil.",
+    "Reduce heat to low, cover and simmer for 18 minutes, or until the water has been absorbed.",
+    "Remove dasima-kombu sheets, chop into small pieces and stir into the rice mixture.",
+    "Add tandoor papadum crumbs, salt and black pepper, stir well.",
+    "Transfer to a serving plate, garnish with parsley.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "german",
+    "gluten-free",
+    "healthy",
+    "low-carb",
+    "shojin-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "crunchy-light-german-dasima-kombu-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-light-german-dasima-kombu-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:17:03Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crunchy",
+    "mood": "light",
+    "technique": "tandoor",
+    "primaryIngredient": "dasima-kombu",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "dasima-kombu",
+    "descriptor": "crunchy light",
+    "dishForm": "Pilaf"
+  }
+}
