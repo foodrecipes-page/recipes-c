@@ -1,0 +1,77 @@
+{
+  "title": "Charred Dense Spanish Coconut Brunch",
+  "description": "A rich and savory, charred, Spanish-inspired brunch dish featuring coconut cream and a miso-marinated egg. Serve in a mason jar for a rustic touch.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "dairy-free",
+    "vegan",
+    "fodmap-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Miso paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "1 can (14 oz)",
+      "notes": "full-fat, chilled"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "In a small bowl, whisk together the miso paste, smoked paprika, garlic powder, salt, and black pepper for the miso-marinate.",
+    "In a separate bowl, whisk together the coconut cream, lemon juice, and a pinch of salt for the coconut cream topping.",
+    "Warm a small amount of coconut oil in the microwave or a saucepan for the mason jar cooking process.",
+    "Place the marrow bones in a small baking dish and roast in the oven for 10 minutes.",
+    "In a small ramekin, submerge the egg in the miso-marinate mixture, ensuring the egg is fully coated.",
+    "Remove the baked marrow bones from the oven and carefully crack the marinated egg into the marrow holes.",
+    "Transfer the baking dish to the oven and cook for an additional 8-10 minutes or until the whites are set and the yolks are cooked to desired doneness.",
+    "While the egg cooks, toast some fresh cilantro in a small skillet with a bit of olive oil for garnish.",
+    "After the egg is cooked, remove it from the oven and top with the coconut cream topping, some toasted cilantro, and a sprinkle of salt and pepper.",
+    "Serve the charred dense Spanish coconut brunch in a mason jar with the toasted coconut cream and cilantro on top.",
+    "Refrigerate any leftovers for up to 3 days and store in an airtight container."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 18,
+  "totalTimeMin": 48,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "coconut-cream",
+    "easter",
+    "fodmap-friendly",
+    "mason-jar",
+    "miso-marinated",
+    "spanish"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "charred-dense-spanish-coconut-brunch",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-dense-spanish-coconut-brunch",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:06:05Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "dense",
+    "mood": "brunch-mood",
+    "technique": "miso-marinate",
+    "primaryIngredient": "coconut cream",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "spanish",
+    "mainIngredient": "coconut",
+    "descriptor": "charred dense",
+    "dishForm": "brunch"
+  }
+}

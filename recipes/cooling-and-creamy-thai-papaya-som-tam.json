@@ -1,0 +1,123 @@
+{
+  "title": "Cooling and Creamy Thai Papaya Som Tam",
+  "description": "A refreshing twist on the classic Thai papaya salad, made with a bain-marie steamed papaya and a dollop of coconut cream for added creaminess.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Papaya",
+      "amount": "1 large",
+      "notes": "Green papaya, about 1 kg in weight."
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 medium",
+      "notes": "Diced."
+    },
+    {
+      "name": "Chilies",
+      "amount": "2-3",
+      "notes": "Red Thai chilies."
+    },
+    {
+      "name": "Peanuts",
+      "amount": "1/4 cup",
+      "notes": "Sliced."
+    },
+    {
+      "name": "Mint",
+      "amount": "1/4 cup",
+      "notes": "Fresh leaves."
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed."
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "2 tablespoons",
+      "notes": "Chilled."
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "Optional."
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": "Optional."
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "To taste."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "To taste."
+    },
+    {
+      "name": "Green beans",
+      "amount": "1 cup",
+      "notes": "Trimmed and cut into 2-inch pieces."
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "2",
+      "notes": "For serving."
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "For garnish."
+    }
+  ],
+  "instructions": [
+    "In a large ceramic tagine, combine the papaya, tomatoes, chilies, peanuts, mint, fish sauce, sugar, salt, and black pepper, and toss to combine.",
+    "In a separate bowl, mix together the coconut cream and lime juice, and set aside.",
+    "Place the green beans over the papaya mixture in the tagine, and steam for 5 minutes over a bain-marie water bath.",
+    "Remove the tagine from the heat, and stir in the coconut cream mixture and chopped cilantro.",
+    "Serve the salad immediately, garnished with a lime wedge and a sprinkle of mint leaves.",
+    "Adjust the seasoning with fish sauce, sugar, or lime juice to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "vegan-friendly",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "cooling-and-creamy-thai-papaya-som-tam",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/cooling-and-creamy-thai-papaya-som-tam",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:05:57Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "light",
+    "mood": "energizing",
+    "technique": "bain-marie",
+    "primaryIngredient": "mint",
+    "diet": "satvik",
+    "region": "southern-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Papaya",
+    "descriptor": "Cooling and Creamy",
+    "dishForm": "Som Tam"
+  }
+}
