@@ -1,0 +1,119 @@
+{
+  "title": "Comforting Italian Vegetables Pesto Pasta",
+  "description": "A comforting and flavorful pasta dish featuring roasted Italian vegetables in a rich pesto sauce.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "4-5 medium",
+      "notes": ""
+    },
+    {
+      "name": "red onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "basil",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "pine nuts",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "kale",
+      "amount": "1 cup chopped",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Toss the zucchini, bell peppers, carrots, and red onion with olive oil, salt, and black pepper on a baking sheet.",
+    "Roast in the preheated oven for 25 minutes or until the vegetables are tender.",
+    "In a food processor, combine basil, pine nuts, parmesan cheese, garlic, and a pinch of salt and pepper.",
+    "Process until the mixture is well combined and slightly smooth.",
+    "Add the roasted vegetables to the food processor and process until well combined.",
+    "Cook pasta according to package instructions.",
+    "Transfer the cooked pasta to a serving dish and top with the pesto sauce.",
+    "Garnish with chopped kale if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "one-pan",
+    "pasta",
+    "pesto",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "comforting-italian-vegetables-pesto-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/comforting-italian-vegetables-pesto-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:19:21Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "glassy-jelly",
+    "mood": "comforting",
+    "technique": "marinate",
+    "primaryIngredient": "roasted vegetables",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Comforting",
+    "dishForm": "Pesto Pasta"
+  }
+}

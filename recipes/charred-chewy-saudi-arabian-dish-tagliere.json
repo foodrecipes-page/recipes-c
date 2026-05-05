@@ -1,0 +1,119 @@
+{
+  "title": "charred chewy saudi-arabian tagliere",
+  "description": "monsoon-inspired dish featuring ginger cordial and confit tomato, served in a mediterranean-friendly tagliere",
+  "cuisine": "saudi-arabian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ginger",
+      "amount": "4 inches",
+      "notes": ""
+    },
+    {
+      "name": "confit tomato",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "crushed black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat olive oil in a large skillet over medium-high heat",
+    "add cumin seeds and cook until fragrant",
+    "add garlic and cook for 1 minute",
+    "add chicken breast and cook until browned",
+    "add confit tomato and cook for 2 minutes",
+    "add chickpeas and cook until heated through",
+    "add rice vinegar and stir to combine",
+    "season with salt and black pepper",
+    "transfer to a tagliere and serve",
+    "garnish with ginger slices",
+    "drizzle with additional olive oil if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "charred",
+    "chewy",
+    "high-protein",
+    "mediterranean",
+    "one-pan",
+    "saudi-arabian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "charred-chewy-saudi-arabian-dish-tagliere",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-chewy-saudi-arabian-dish-tagliere",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:18:52Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "chewy",
+    "mood": "monsoon",
+    "technique": "confit-tomato",
+    "primaryIngredient": "ginger cordial",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "saudi-arabian",
+    "mainIngredient": "dish",
+    "descriptor": "charred chewy",
+    "dishForm": "tagliere"
+  }
+}

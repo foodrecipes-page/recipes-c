@@ -1,0 +1,100 @@
+{
+  "title": "Citrusy Gooey Saudi Arabian Rice Noodles",
+  "description": "A post-workout, Buddhist-temple-friendly dish featuring rice noodles, citrus, and a gooey sauce, all cooked in a wok.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rice Noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "Orange Juice",
+      "amount": "250ml"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Citrus Peel",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a wok over medium heat.",
+    "Add the ginger and sauté for 1 minute.",
+    "Add the green onions and sauté for another minute.",
+    "Add the rice noodles and stir-fry for 2-3 minutes.",
+    "Pour in the orange juice and stir-fry for another 2-3 minutes.",
+    "Add the honey, lemon zest, salt, and sugar. Stir-fry for 1 minute.",
+    "Add the citrus peel and stir-fry for another minute.",
+    "Turn off the heat and let the sauce thicken for 2 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-temple-friendly",
+    "gluten-free",
+    "low-calorie",
+    "one-pan",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "citrusy-gooey-saudi-arabian-rice-noodles-noodles",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-gooey-saudi-arabian-rice-noodles-noodles",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:19:47Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "gooey",
+    "mood": "post-workout",
+    "technique": "blanch",
+    "primaryIngredient": "rice noodles",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "saudi-arabian",
+    "mainIngredient": "rice noodles",
+    "descriptor": "citrusy gooey",
+    "dishForm": "noodles"
+  }
+}
