@@ -1,0 +1,97 @@
+{
+  "title": "Chewy Irish Rice Biryani",
+  "description": "A briny, chewy, crowd-pleaser Irish dish featuring rice wine and a deglaze technique, friendly for those who dislike onions and garlic.",
+  "cuisine": "Irish",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Irish saffron rice",
+      "amount": "1 cup",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "Mussels",
+      "amount": "12",
+      "notes": "fresh or frozen, scrubbed and debearded"
+    },
+    {
+      "name": "Rice wine",
+      "amount": "1/2 cup",
+      "notes": "dry white wine or rice wine vinegar"
+    },
+    {
+      "name": "Guinness stout",
+      "amount": "1/4 cup",
+      "notes": "chilled, for deglazing"
+    },
+    {
+      "name": "Irish butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted, softened"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": "chopped fresh herbs for garnish"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 teaspoon",
+      "notes": "flaky sea salt, for serving"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "for cooking mussels"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of Irish butter in a large saucepan over medium heat.",
+    "Add mussels, cover with a lid, and cook until they open, about 3-4 minutes.",
+    "Add water to the saucepan, cover with a lid, and cook until the mussels are cooked through, about 5 minutes.",
+    "Remove the mussels from the saucepan, letting the liquid cool slightly.",
+    "Add Guinness stout to the saucepan, scraping the bottom to deglaze, and bring to a simmer over medium heat for 2-3 minutes.",
+    "Add rice wine to the saucepan, scraping the bottom to deglaze, and bring to a simmer over medium heat for 2-3 minutes.",
+    "Add cooked Irish saffron rice to the saucepan, stirring to combine with the sauce.",
+    "Return the mussels to the saucepan, tossing to combine with the rice and sauce.",
+    "Season with sea salt to taste.",
+    "Garnish with chopped parsley before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "mussels",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "chewy-irish-rice-biryani",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-irish-rice-biryani",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:54:56Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "chewy",
+    "mood": "crowd-pleaser",
+    "technique": "deglaze",
+    "primaryIngredient": "rice wine",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Rice",
+    "descriptor": "Chewy",
+    "dishForm": "Biryani"
+  }
+}

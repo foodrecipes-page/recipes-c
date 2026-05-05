@@ -1,0 +1,111 @@
+{
+  "title": "Charred Oven-Roasted Peruvian Uni Tacu Tacu",
+  "description": "A Peruvian dish featuring charred, chewy uni in a flavorful tacu tacu, inspired by Ayurvedic Rajasic principles to soothe the senses.",
+  "cuisine": "peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "uni",
+      "amount": "12 pieces",
+      "notes": ""
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "candied ginger",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "black sesame seeds",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "green chilies",
+      "amount": "2",
+      "notes": "seeds removed, finely chopped"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Mix the cooked brown rice with the candied ginger, black sesame seeds, turmeric, and a pinch of salt in a bowl.",
+    "Arrange the uni pieces on a baking sheet lined with parchment paper.",
+    "Drizzle the coconut oil over the uni and sprinkle with soy sauce, lime juice, garlic, and green chilies.",
+    "Roast the uni in the preheated oven for 8-10 minutes or until slightly charred.",
+    "Meanwhile, shape the rice mixture into small patties or squares.",
+    "Once the uni is done, remove it from the oven and let it cool slightly.",
+    "Add a piece of charred uni to each rice patty and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "peruvian",
+    "vegan-option"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "charred-oven-roasted-peruvian-uni-tacu-tacu",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-oven-roasted-peruvian-uni-tacu-tacu",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:54:27Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "chewy",
+    "mood": "monsoon",
+    "technique": "candy",
+    "primaryIngredient": "uni",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "uni",
+    "descriptor": "charred oven-roasted",
+    "dishForm": "Tacu Tacu"
+  }
+}

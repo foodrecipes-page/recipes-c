@@ -1,0 +1,111 @@
+{
+  "title": "Charred Korean Garlic Jjigae",
+  "description": "A simple, diabetic-friendly Korean dish featuring charred garlic cloves baked in a creamy sauce. Traditionally served as a solo-dinner or a side dish (banchan) from Jeju Island.",
+  "cuisine": "Korean",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Garlic cloves",
+      "amount": "4-6 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tbsp",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sour cream",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "1 tsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Mix gochujang, soy sauce, brown sugar, sesame oil, salt, and black pepper in a bowl.",
+    "Chop 4-6 garlic cloves and add them to the bowl. Toss to coat.",
+    "Transfer the mixture to a small cast-iron skillet or a baking dish and spread evenly.",
+    "Bake for 20-25 minutes or until the garlic is charred and caramelized, stirring occasionally.",
+    "Stir in 2 tbsp of sour cream.",
+    "Taste and adjust the seasoning with salt, black pepper, and more gochujang if needed.",
+    "Garnish with chopped green onions and toasted sesame seeds.",
+    "Serve warm over rice, noodles, or enjoy as a solo-dinner."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "garlic",
+    "jjigae",
+    "korean",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "charred-korean-garlic-jjigae",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-korean-garlic-jjigae",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:55:00Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "creamy",
+    "mood": "solo-dinner",
+    "technique": "bake",
+    "primaryIngredient": "garlic clove",
+    "diet": "diabetic-friendly",
+    "region": "jeju",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "garlic",
+    "descriptor": "charred",
+    "dishForm": "Jjigae"
+  }
+}

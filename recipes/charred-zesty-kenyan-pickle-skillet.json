@@ -1,0 +1,116 @@
+{
+  "title": "Charred Zesty Kenyan Pickle Skillet",
+  "description": "A flavorful, paleo-friendly skillet dish featuring charred dill pickles, infused oil, and a crispy crust.",
+  "cuisine": "kenyan",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "6 dill pickles, sliced",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "2 tbsp",
+      "notes": "infused with 1 tsp garlic powder and 1 tsp dried oregano"
+    },
+    {
+      "name": "1 onion, sliced",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "1 cup mixed mushrooms, sliced",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley, chopped (optional)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup coconut cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Heat the infused olive oil in a large cast-iron skillet over medium-high heat.",
+    "Add the sliced onion and cook for 3 minutes, until slightly charred.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the sliced mushrooms and cook for 3 minutes, until they start to brown.",
+    "Add the sliced dill pickles and cook for 2 minutes, until they start to soften.",
+    "Sprinkle the cumin, smoked paprika, salt, and pepper over the top.",
+    "Pour in the chicken broth and coconut cream, and bring to a simmer.",
+    "Transfer the skillet to the preheated oven and bake for 15 minutes, until the liquid has thickened and the top is crispy.",
+    "Remove the skillet from the oven and sprinkle with chopped parsley, if using.",
+    "Serve immediately, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "paleo",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 24,
+    "fat": 24
+  },
+  "slug": "charred-zesty-kenyan-pickle-skillet",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-zesty-kenyan-pickle-skillet",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:54:19Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "pillowy",
+    "mood": "show-off",
+    "technique": "infuse-oil",
+    "primaryIngredient": "dill pickles",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "pickle",
+    "descriptor": "charred zesty",
+    "dishForm": "Skillet"
+  }
+}
