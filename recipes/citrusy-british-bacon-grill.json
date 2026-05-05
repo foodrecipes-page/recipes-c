@@ -1,0 +1,122 @@
+{
+  "title": "Citrusy British Bacon Grill",
+  "description": "A crispy and flavorful brunch dish that combines the richness of low-fat British bacon with the brightness of lime.",
+  "cuisine": "British",
+  "diet": [
+    "low-fat",
+    "gluten-free",
+    "vegetarian-excluded"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Low-fat British bacon",
+      "amount": "12 slices",
+      "notes": "Choose a thick-cut, low-fat bacon for the crispiest results."
+    },
+    {
+      "name": "Lime juice",
+      "amount": "3 tablespoons",
+      "notes": "Freshly squeezed is best, but bottled is fine too."
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 teaspoons",
+      "notes": "Adds a touch of sweetness to balance out the acidity."
+    },
+    {
+      "name": "English mustard",
+      "amount": "1 teaspoon",
+      "notes": "Classic combination with bacon and lime."
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "For garnish and added freshness."
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "Use freshly ground pepper for the best flavor."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing the grill grates."
+    },
+    {
+      "name": "Lime zest",
+      "amount": "1 tablespoon",
+      "notes": "For added brightness and texture."
+    },
+    {
+      "name": "Granulated garlic",
+      "amount": "1/2 teaspoon",
+      "notes": "Optional, but adds depth to the dish."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "Use freshly ground for the best flavor."
+    },
+    {
+      "name": "Brioche buns",
+      "amount": "4-6",
+      "notes": "For serving, toasted or untoasted."
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat, about 400°F (200°C).",
+    "In a small bowl, whisk together lime juice, brown sugar, English mustard, and granulated garlic (if using).",
+    "Add the sliced British bacon to the marinade and toss to coat. Let it sit for at least 10 minutes.",
+    "Meanwhile, toast the brioche buns on the grill or in a toaster.",
+    "Brush the grill grates with olive oil to prevent sticking.",
+    "Remove the bacon from the marinade, letting any excess liquid drip off.",
+    "Grill the bacon slices for 2-3 minutes per side, or until crispy and golden.",
+    "Transfer the cooked bacon to a paper towel-lined plate to drain excess fat.",
+    "Wipe the grill clean with a paper towel to remove any remaining bacon bits.",
+    "Brush the grill grates with olive oil again to prevent sticking.",
+    "Grill the lime zest for 30 seconds to 1 minute, or until fragrant and lightly charred.",
+    "To assemble the Citrusy British Bacon Grill, place a few slices of bacon on each toasted bun, followed by a sprinkle of chopped cilantro and a squeeze of lime juice.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "british",
+    "brunch",
+    "citrus",
+    "grill",
+    "low-fat",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 34,
+    "carbs": 24,
+    "fat": 26
+  },
+  "slug": "citrusy-british-bacon-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-british-bacon-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:25:00Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crispy",
+    "mood": "brunch-mood",
+    "technique": "grill",
+    "primaryIngredient": "lime",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "bacon",
+    "descriptor": "citrusy",
+    "dishForm": "grill"
+  }
+}
