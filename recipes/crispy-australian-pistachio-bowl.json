@@ -1,0 +1,102 @@
+{
+  "title": "crispy australian pistachio bowl",
+  "description": "peppery and indulgent australian dish featuring ground pistachios served in a stone bowl",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ground pistachios",
+      "amount": "120g",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "30g",
+      "notes": ""
+    },
+    {
+      "name": "shredded coconut",
+      "amount": "60g",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "60g",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "sea salt",
+      "amount": "1g",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1g",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "5g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "in a large bowl, whisk together coconut oil, brown sugar, eggs, flour, sea salt, and black pepper.",
+    "add the ground pistachios to the bowl and mix until a sticky dough forms.",
+    "cover the dough and refrigerate for at least 30 minutes.",
+    "divide the dough into 4 equal pieces and shape each piece into a ball.",
+    "roll each ball between your hands to flatten slightly.",
+    "heat a non-stick pan over medium heat and cook each pancake for 2-3 minutes on each side, or until golden brown.",
+    "serve the pancakes in a stone bowl and top with shredded coconut and vanilla extract.",
+    "serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "dessert",
+    "earthenware",
+    "pistachio",
+    "stone-bowl"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 15,
+    "carbs": 70,
+    "fat": 35
+  },
+  "slug": "crispy-australian-pistachio-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-australian-pistachio-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:24:44Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "shaggy",
+    "mood": "indulgent",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "ground pistachios",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "pistachio",
+    "descriptor": "crispy",
+    "dishForm": "bowl"
+  }
+}

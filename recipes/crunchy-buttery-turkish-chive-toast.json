@@ -1,0 +1,99 @@
+{
+  "title": "Crunchy Buttery Turkish Chive Toast",
+  "description": "A post-workout snack featuring toasted bread topped with a mixture of butter, chives, and crunchy elements.",
+  "cuisine": "Turkish",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Whole wheat bread",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "softened to room temperature"
+    },
+    {
+      "name": "Fresh chives",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Chopped almonds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Crushed red pepper flakes",
+      "amount": "1/8 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a toaster or toaster oven to 350°F (180°C)."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "diabetic-friendly",
+    "gluten-free",
+    "low-carb",
+    "post-workout",
+    "snack",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 16
+  },
+  "slug": "crunchy-buttery-turkish-chive-toast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-buttery-turkish-chive-toast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:24:23Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crunchy",
+    "mood": "post-workout",
+    "technique": "toast",
+    "primaryIngredient": "chopped chive",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "chive",
+    "descriptor": "crunchy buttery",
+    "dishForm": "Toast"
+  }
+}
