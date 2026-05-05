@@ -1,0 +1,95 @@
+{
+  "title": "CChili-Chili-Pork Paella-pan-Stir-fry",
+  "description": "This yeasty, creamy Argentinian dish features harissa spice and is sugar-free-friendly. Cooked in a paella pan, it's a one-pot meal that’s perfect for a quick weeknight dinner.",
+  "cuisine": "Argentine",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": 200
+    },
+    {
+      "name": "chili peppers",
+      "amount": "1-2"
+    },
+    {
+      "name": "tomato paste",
+      "amount": 50
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "flour",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "sugar-free soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "chili flakes",
+      "amount": 10
+    },
+    {
+      "name": "harissa paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "to garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat your paella pan.",
+    "Mix flour with a bit of water to make a slurry for thickening the sauce.",
+    "In the pan, add olive oil and heat it up. Sear the pork belly until golden brown on all sides.",
+    "Add chili peppers, tomato paste, salt, sugar-free soy sauce, chili flakes, and harissa paste to the pan. Stir well.",
+    "Pour in the flour slurry into the pan, stirring continuously for a minute to avoid lumps.",
+    "Simmer the mixture covered for about 15 minutes or until the sauce thickens slightly.",
+    "Garnish with fresh parsley before serving.",
+    "Serve hot as a main dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentine",
+    "harissa-spice",
+    "paella-pan",
+    "sugar-free",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 28,
+    "carbs": 15,
+    "fat": 16
+  },
+  "slug": "cchili-chili-pork-paella-pan-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cchili-chili-pork-paella-pan-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T15:21:21Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "creamy",
+    "mood": "one-pot",
+    "technique": "grill",
+    "primaryIngredient": "harissa spice",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Pork",
+    "descriptor": "Harissa-Chili-Creamy",
+    "dishForm": "Paella-pan-Stir-fry"
+  }
+}
