@@ -1,0 +1,94 @@
+{
+  "title": "caramel-crunchy vietnamese carp bowl",
+  "description": "a lazy-sunday dish featuring caramel sauce and steam-cooked carp with a crunchy texture and peppery undertones.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "low-calorie",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "carp fillet",
+      "amount": "500g"
+    },
+    {
+      "name": "mushroom",
+      "amount": "200g"
+    },
+    {
+      "name": "caramel sauce",
+      "amount": "100ml",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "10g"
+    },
+    {
+      "name": "ginger",
+      "amount": "5g"
+    },
+    {
+      "name": "green onion",
+      "amount": "5g"
+    },
+    {
+      "name": "toasted peanuts",
+      "amount": "50g"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "100ml"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "20ml"
+    }
+  ],
+  "instructions": [
+    "steam the carp fillet for 5 minutes.",
+    "heat the caramel sauce and coconut milk in a pan over medium heat.",
+    "add the lemongrass, ginger, and green onion to the pan and stir-fry for 1 minute.",
+    "add the steamed carp to the pan and toss with the sauce.",
+    "top with toasted peanuts and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "gluten-free",
+    "low-calorie",
+    "one-pan",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "caramel-crunchy-vietnamese-carp-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/caramel-crunchy-vietnamese-carp-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:02:33Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "silky",
+    "mood": "lazy-sunday",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "caramel sauce",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "vietnamese",
+    "mainIngredient": "carp",
+    "descriptor": "caramel-crunchy",
+    "dishForm": "bowl"
+  }
+}
