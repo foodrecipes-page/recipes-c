@@ -1,0 +1,91 @@
+{
+  "title": "Crumbly Norwegian Breadcrumbs Hash",
+  "description": "A peppery, crumbly breakfast dish that can be prepared ahead of time, made with breadcrumbs and infused oil, egg-free and friendly.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Breadcrumbs",
+      "amount": "2 cups",
+      "notes": "gluten-free, plain or whole wheat"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "Onion",
+      "amount": "0.5 cup",
+      "notes": "small dice"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Infused oil",
+      "amount": "2 tbsp",
+      "notes": "pepper and herb infused"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, mix together breadcrumbs, mushrooms, onion, and garlic.",
+    "Drizzle infused oil over the mixture and toss to coat.",
+    "Transfer the mixture to a baking sheet and bake for 20 minutes, stirring occasionally.",
+    "Remove from the oven and stir in black pepper and parsley.",
+    "Let cool completely before refrigerating or freezing.",
+    "To serve, reheat the mixture in a pan over low heat, breaking it up with a spoon as it heats through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "gluten-free",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 8
+  },
+  "slug": "crumbly-norwegian-breadcrumbs-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-norwegian-breadcrumbs-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:43:11Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crumbly",
+    "mood": "meal-prep",
+    "technique": "infuse-oil",
+    "primaryIngredient": "breadcrumbs",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Breadcrumbs",
+    "descriptor": "Crumbly",
+    "dishForm": "Hash"
+  }
+}

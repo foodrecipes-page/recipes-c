@@ -1,0 +1,65 @@
+{
+  "title": "Cozy Dense Norwegian Fry-Grind-Rice-Khao-Khua Pilaf",
+  "description": "A hearty and comforting Norwegian-inspired dish featuring blackcurrant jam and versatile rice-khao-khua.",
+  "cuisine": "Norwegian",
+  "diet": [
+    null,
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Blackcurrant Jam",
+      "amount": "2 tablespoons",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Rinse 1 cup of rice-khao-khua in a fine-mesh strainer under cold water, then drain well.",
+    "In a large saucepan, heat 2 tablespoons of oil over medium heat.",
+    "Add 1 small onion, finely chopped, and cook until translucent, about 5 minutes.",
+    "Add 2 cloves of garlic, minced, and cook for 1 minute more.",
+    "Add 1 cup of rice-khao-khua to the saucepan and stir to combine with the onion and garlic mixture.",
+    "Cook for 2 minutes, stirring constantly.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15-20 minutes or until the water is absorbed and the rice-khao-khua is tender.",
+    "Fluff the pilaf with a fork and stir in 2 tablespoons of blackcurrant jam.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pan",
+    "plant-based",
+    "rice-bowl",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "cozy-dense-norwegian-fry-grind-rice-khao-khua-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-dense-norwegian-fry-grind-rice-khao-khua-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:43:19Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "dense",
+    "mood": "cozy",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "blackcurrant jam",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "fry-grind-rice-khao-khua",
+    "descriptor": "dense",
+    "dishForm": "Pilaf"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "title": "Charred Egyptian Paella",
+  "description": "A shaggy, romantic take on the classic Spanish dish, with Italian seasoning and an air-fry twist.",
+  "cuisine": "Egyptian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Italian Seasoned Sausage",
+      "amount": "500",
+      "notes": " casings removed"
+    },
+    {
+      "name": "Rice",
+      "amount": "2 cups",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "Peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "Onions",
+      "amount": "1",
+      "notes": "medium, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat air fryer to 400°F (200°C).",
+    "Add olive oil to air fryer basket.",
+    "Cook Italian Seasoned Sausage in air fryer for 5 minutes, breaking it up into small pieces.",
+    "Add peppers, onions, and garlic to air fryer basket.",
+    "Cook for an additional 5 minutes, or until vegetables are tender.",
+    "Add rice, tomatoes, salt, black pepper, and paprika to air fryer basket.",
+    "Stir to combine, then cook for 10-12 minutes, or until rice is tender and lightly charred.",
+    "Remove from air fryer and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fry",
+    "european-inspired",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 25
+  },
+  "slug": "charred-egyptian-dish-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-egyptian-dish-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:43:24Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "shaggy",
+    "mood": "romantic",
+    "technique": "air-fry",
+    "primaryIngredient": "italian seasoning",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "dish",
+    "descriptor": "charred",
+    "dishForm": "Paella"
+  }
+}
