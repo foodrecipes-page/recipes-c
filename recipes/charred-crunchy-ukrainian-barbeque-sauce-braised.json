@@ -1,0 +1,132 @@
+{
+  "title": "Charred Crunchy Ukrainian Barbeque Sauce Braised",
+  "description": "A sick-day Ukrainian dish featuring charred, crunchy textures and a sweet, tangy barbeque sauce. This egg-free-friendly dish is perfect for a rainy day.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork belly",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Barbeque sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Infuse-oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Crushed red pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Crunchy cornflake crumbs",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh dill",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the pork belly with salt, black pepper, paprika, and crushed red pepper.",
+    "In a large Dutch oven or oven-safe pot, heat the infuse-oil over medium-high heat. Sear the pork belly until browned on all sides, about 2-3 minutes per side. Remove the pork from the pot and set aside.",
+    "Reduce the heat to medium and cook the sliced onion until caramelized, stirring occasionally, about 10-12 minutes.",
+    "Add the minced garlic and cook for 1-2 minutes, until fragrant.",
+    "Add the brown sugar, apple cider vinegar, and barbeque sauce to the pot. Stir to combine and bring to a simmer.",
+    "Return the pork belly to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and braise for 2 1/2 hours, or until the pork is tender and easily shreds with a fork.",
+    "While the pork is braising, prepare the crunchy cornflake crumbs by pulsing them in a food processor until coarsely ground.",
+    "Remove the pot from the oven and carefully remove the pork from the pot, letting it cool slightly.",
+    "Shred the pork into bite-sized pieces and return it to the pot. Stir in the chopped fresh parsley and chopped fresh dill.",
+    "Transfer the pork to a serving dish and top with the crunchy cornflake crumbs.",
+    "Drizzle with additional barbeque sauce, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 165,
+  "totalTimeMin": 185,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "barbeque",
+    "braised",
+    "comfort-food",
+    "egg-free",
+    "sick-day",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 34,
+    "carbs": 62,
+    "fat": 60
+  },
+  "slug": "charred-crunchy-ukrainian-barbeque-sauce-braised",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-crunchy-ukrainian-barbeque-sauce-braised",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:53:35Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crunchy",
+    "mood": "sick-day",
+    "technique": "infuse-oil",
+    "primaryIngredient": "barbeque sauce",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "barbeque sauce",
+    "descriptor": "charred crunchy",
+    "dishForm": "Braised"
+  }
+}
