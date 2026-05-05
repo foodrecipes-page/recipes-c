@@ -1,0 +1,110 @@
+{
+  "title": "Crispy Shattering Italian Teque Os Ravioli",
+  "description": "A quick-fix, pungent, Italian dish featuring pre-fried Teque Os slow-cooked in a rich sauce and served in a delicate ti-leaf wrap.",
+  "cuisine": "venetian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "teque os",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "ti-leaf wraps",
+      "amount": "4-6 wraps",
+      "notes": "for serving"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for pre-frying Teque Os"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "canned crushed tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "to balance acidity"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "0.5 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add minced garlic and cook for an additional minute, until fragrant.",
+    "Add canned crushed tomatoes, sugar, salt, and pepper. Stir to combine.",
+    "Add pre-fried Teque Os to the skillet and simmer, uncovered, for 10-12 minutes, or until the sauce has thickened slightly.",
+    "Meanwhile, preheat a dry non-stick skillet or griddle over medium heat.",
+    "Once the ti-leaf wraps are pliable, wrap each one around a portion of the Teque Os and sauce, forming a ravioli shape.",
+    "Cook the ti-leaf wraps for 30-60 seconds on each side, until slightly crispy and golden brown.",
+    "Serve immediately, topped with grated Parmesan cheese.",
+    "Repeat with remaining Teque Os and ti-leaf wraps.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "italian",
+    "italian-teque-os",
+    "one-pan",
+    "slow-cooked",
+    "venetian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 24,
+    "carbs": 30,
+    "fat": 16
+  },
+  "slug": "crispy-shattering-italian-teque-os-ravioli",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-shattering-italian-teque-os-ravioli",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:14:51Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "shattering",
+    "mood": "quick-fix",
+    "technique": "slow-cook",
+    "primaryIngredient": "pre-fried teque os",
+    "diet": "halal",
+    "region": "venetian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Teque Os",
+    "descriptor": "Crispy Shattering",
+    "dishForm": "Ravioli"
+  }
+}

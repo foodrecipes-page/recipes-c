@@ -1,0 +1,112 @@
+{
+  "title": "Cozy Mexican Cheese Mole Poblano",
+  "description": "A rich and comforting dish featuring a complex mole sauce with the added depth of gherkin relish and confit-tomato served atop a bed of warm tortillas and melted cheese, inspired by the cuisine of Chiapas.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gherkin relish",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Confit-tomato",
+      "amount": "1 cup",
+      "notes": "slow-cooked in lard or vegetable oil"
+    },
+    {
+      "name": "Mole paste",
+      "amount": "2 tbsp",
+      "notes": "Chiapan-style with chocolate and spices"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tbsp",
+      "notes": "for thickening the sauce"
+    },
+    {
+      "name": "Cocoa powder",
+      "amount": "1 tsp",
+      "notes": "for added depth"
+    },
+    {
+      "name": "Grated cheese (Oaxaca or Monterey Jack)",
+      "amount": "1 cup",
+      "notes": "for the cheese topping"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for saut\u000730ing"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ground ancho chili",
+      "amount": "1 tsp",
+      "notes": "adds a rich, slightly sweet flavor"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a medium saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the mole paste, flour, cocoa powder, and ground ancho chili. Cook, stirring constantly, for 2 minutes.",
+    "Gradually add 1 cup of chicken broth, whisking constantly to avoid lumps. Bring the mixture to a simmer and cook until thickened, about 10 minutes.",
+    "Stir in the confit-tomato and cook for an additional 2 minutes.",
+    "Season the sauce with salt and pepper to taste.",
+    "Warm 4-6 corn tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "In a large skillet, melt 1 tablespoon of vegetable oil over medium heat.",
+    "Add 1 cup of grated cheese and cook until melted and bubbly, about 2-3 minutes per side.",
+    "To assemble the dish, place 1-2 tortillas on a plate, spoon the mole sauce over the top, and sprinkle with cheese and gherkin relish.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "cheesy",
+    "mexican",
+    "one-pan",
+    "rich",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 18,
+    "carbs": 44,
+    "fat": 32
+  },
+  "slug": "cozy-mexican-cheese-mole-poblano",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-mexican-cheese-mole-poblano",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:15:08Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "cheese-pull",
+    "mood": "cozy",
+    "technique": "confit-tomato",
+    "primaryIngredient": "gherkin relish",
+    "diet": "raw",
+    "region": "chiapan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Cheese",
+    "descriptor": "Cozy",
+    "dishForm": "Mole Poblano"
+  }
+}
