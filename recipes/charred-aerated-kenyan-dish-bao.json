@@ -1,0 +1,109 @@
+{
+  "title": "Charred Bao",
+  "description": "A charred, aerated kenyan dish featuring ginger paste, infuse-oil, and ayurvedic-tamasic-friendly ingredients. This kid-friendly dish is perfect for a weeknight dinner.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "ginger paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "infuse-oil",
+      "amount": "4 tablespoons",
+      "notes": "olive oil infused with ginger and garlic"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 teaspoon",
+      "notes": "use a tamasic-friendly curry powder"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "corn",
+      "amount": "1 cup",
+      "notes": "frozen, thawed"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Peel the sweet potatoes and chop them into 1-inch pieces.",
+    "In a bowl, mix together the ginger paste, curry powder, salt, and black pepper.",
+    "Add the chickpeas, corn, and chopped green onions to the bowl and mix until well combined.",
+    "Transfer the mixture to a baking sheet lined with parchment paper and drizzle with the infused oil.",
+    "Toss the mixture to coat evenly with the oil.",
+    "Roast the mixture in the preheated oven for 20 minutes.",
+    "Remove the baking sheet from the oven and sprinkle with sesame seeds.",
+    "Serve the charred bao hot, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 18,
+    "carbs": 90,
+    "fat": 14
+  },
+  "slug": "charred-aerated-kenyan-dish-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-aerated-kenyan-dish-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:28:49Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "aerated",
+    "mood": "kid-friendly",
+    "technique": "infuse-oil",
+    "primaryIngredient": "ginger paste",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "kenyan",
+    "mainIngredient": "dish",
+    "descriptor": "charred, aerated",
+    "dishForm": "Bao"
+  }
+}
