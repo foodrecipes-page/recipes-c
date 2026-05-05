@@ -1,0 +1,85 @@
+{
+  "title": "CZ Zesty Crispy Squash Wrap",
+  "description": "A grassy and dense Portuguese dish featuring squash wrapped in a savory mixture, served as a solo dinner option. Sugar-free-friendly and suitable for hot pot vessels.",
+  "cuisine": "Portuguese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Squash",
+      "amount": 1
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": 50
+    },
+    {
+      "name": "Olive Oil",
+      "amount": 25
+    },
+    {
+      "name": "Salt",
+      "amount": 10
+    },
+    {
+      "name": "Black Pepper",
+      "amount": 5
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": 10
+    },
+    {
+      "name": "Red Chili Flakes (optional)",
+      "amount": 5
+    },
+    {
+      "name": "Sugar-Free Crema (or substitute)",
+      "amount": 25
+    }
+  ],
+  "instructions": [
+    "Preheat your hot pot vessel to 180°C.",
+    "Cut the squash into slices and season with salt, black pepper, garlic powder. Add a pinch of red chili flakes for extra heat if desired.",
+    "In another mixing bowl, combine all-purpose flour with olive oil until you achieve a crumbly consistency. Mix in sugar-free crema.",
+    "Dip the squash slices into the flour mixture and coat evenly. Heat your cooking surface (like a skillet or griddle) over medium-high heat.",
+    "Once hot, cook the coated squash pieces for 2 minutes per side. They should be crispy but still hold their shape slightly.",
+    "Transfer cooked squash to your heated hot pot vessel. Pour remaining crema mixture into vessel and mix well until combined with squash slices.",
+    "Serve hot with additional garnishes if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-setup",
+    "garden-variety",
+    "low-effort",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 3
+  },
+  "slug": "cz-zesty-crispy-squash-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cz-zesty-crispy-squash-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T01:33:15Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "dense",
+    "mood": "solo-dinner",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "squash",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "squash",
+    "descriptor": "Crispy Zesty",
+    "dishForm": "Wrap"
+  }
+}
