@@ -1,0 +1,82 @@
+{
+  "title": "Citrusy Argentinian Cheese Grill",
+  "description": "A refreshing, post-workout dish that combines the flavors of Argentina with the creaminess of melted cheese.",
+  "cuisine": "argentinian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Skirt steak",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Orange juice",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garden herbs (such as oregano, thyme, rosemary)",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large resealable plastic bag, combine orange and lime juice, garlic, and garden herbs.",
+    "Add the skirt steak, turning to coat evenly with the marinade.",
+    "Refrigerate for at least 2 hours or overnight, flipping the steak occasionally.",
+    "Preheat grill to medium-high heat.",
+    "Remove the steak from the marinade, letting any excess liquid drip off.",
+    "Grill the steak for 4-6 minutes per side, or until it reaches your desired level of doneness.",
+    "Transfer the steak to a cutting board and let it rest for 5 minutes.",
+    "Cut the steak against the grain into thin strips.",
+    "Place the cheese slices on the grill and cook until melted and bubbly.",
+    "To assemble the dish, place a portion of the steak onto a plate, top with a slice of melted cheese, and serve immediately.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "cheese",
+    "citrusy",
+    "grill",
+    "low-glycemic-friendly",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 30,
+    "carbs": 5,
+    "fat": 15
+  },
+  "slug": "citrusy-argentinian-cheese-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-argentinian-cheese-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:33:51Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "cheese-pull",
+    "mood": "post-workout",
+    "technique": "marinate",
+    "primaryIngredient": "star anise",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "argentinian",
+    "mainIngredient": "cheese",
+    "descriptor": "citrusy",
+    "dishForm": "grill"
+  }
+}
