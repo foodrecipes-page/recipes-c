@@ -1,0 +1,89 @@
+{
+  "title": "Chilled Crunchy Turkish Butter Bread",
+  "description": "A low-carb friendly Turkish bread dish featuring chilled butter and a crunchy crust. Perfect for a quick brunch or snack.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "chilled"
+    }
+  ],
+  "instructions": [
+    "Combine flour, yeast, and salt in a bowl.",
+    "Add sugar and warm water to the bowl and mix until a sticky dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat the oil in a deep frying pan to 350°F.",
+    "Divide the dough into 2 equal pieces and shape each piece into a log.",
+    "Heat the oil in a deep frying pan to 350°F.",
+    "Fry the dough logs for 2-3 minutes on each side until they are golden brown and crispy.",
+    "Drain the fried bread on paper towels and let it cool for 10 minutes.",
+    "Mix chilled butter with a fork until it becomes light and fluffy.",
+    "Place the fried bread on a serving plate and spread the butter on top of each bread piece."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bread",
+    "breakfast",
+    "butter",
+    "high-fat",
+    "low-carb",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 60
+  },
+  "slug": "chilled-crunchy-turkish-butter-bread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/chilled-crunchy-turkish-butter-bread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:48:34Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crunchy",
+    "mood": "brunch-mood",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "chilled butter",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "butter",
+    "descriptor": "chilled, crunchy",
+    "dishForm": "Bread"
+  }
+}
