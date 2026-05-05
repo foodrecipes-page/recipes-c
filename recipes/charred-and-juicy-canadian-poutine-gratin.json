@@ -1,0 +1,107 @@
+{
+  "title": "Charred and Juicy Canadian Poutine Gratin",
+  "description": "A nostalgic twist on the classic Canadian dish featuring charred, juicy, and creamy elements. Perfect for a cozy dinner or night in with friends.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Russet Potatoes",
+      "amount": "3",
+      "notes": "about 2 pounds total weight"
+    },
+    {
+      "name": "Beef Tallow",
+      "amount": "1/2 cup",
+      "notes": "or other high-smoke-point oil"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "2 tablespoons",
+      "notes": "for thickening Beurre-Monte"
+    },
+    {
+      "name": "Tarragon-Infused French Onion Soup Mix",
+      "amount": "1 tablespoon",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "4 tablespoons",
+      "notes": "for Beurre-Monte and greasing dish"
+    },
+    {
+      "name": "Beurre-Monte",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Fresh Tarragon Leaves",
+      "amount": "2 tablespoons",
+      "notes": "chopped and for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Prepare the potatoes by peeling and cutting them into 1/2-inch thick rounds.",
+    "Soak the potato slices in cold water for at least 30 minutes to remove excess starch.",
+    "Drain and pat dry the potato slices, then toss with beef tallow and sprinkle with salt and pepper.",
+    "Char the potatoes in two batches in a large skillet over medium-high heat for about 3-4 minutes per side. Set aside.",
+    "In a small saucepan, melt 2 tablespoons of butter over low heat. Whisk in Beurre-Monte and cook for 1-2 minutes to thicken.",
+    "Add the Tarragon-Infused French Onion Soup Mix and whisk until combined.",
+    "In a greased 9x13-inch baking dish, arrange the charred potatoes in a single layer.",
+    "Pour the Beurre-Monte mixture evenly over the potatoes, then sprinkle with chopped tarragon and grated cheese (if using).",
+    "Dot the top with remaining butter and cover the dish with aluminum foil.",
+    "Bake for 25 minutes, then remove the foil and continue baking for an additional 10-15 minutes, or until the top is golden brown and the potatoes are tender.",
+    "Let rest for 5 minutes before serving and garnishing with extra tarragon leaves, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "canadian",
+    "comfort-food",
+    "homemade",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 6,
+    "carbs": 80,
+    "fat": 32
+  },
+  "slug": "charred-and-juicy-canadian-poutine-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-and-juicy-canadian-poutine-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:40:11Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "juicy",
+    "mood": "nostalgic",
+    "technique": "beurre-monte",
+    "primaryIngredient": "tarragon-french",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "poutine",
+    "descriptor": "charred and juicy",
+    "dishForm": "Gratin"
+  }
+}

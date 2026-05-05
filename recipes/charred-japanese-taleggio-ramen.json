@@ -1,0 +1,75 @@
+{
+  "title": "Charred Japanese Taleggio Ramen",
+  "description": "Indulgent, charred, glassy-jelly dish featuring Taleggio cheese, inspired by traditional Japanese ramen cuisine.",
+  "cuisine": "Japanese",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Taleggio cheese",
+      "amount": "120g",
+      "notes": ""
+    },
+    {
+      "name": "Chicken or vegetable broth",
+      "amount": "1000ml",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp",
+      "notes": "(adjust to taste)"
+    }
+  ],
+  "instructions": [
+    "Prepare a sous-vide machine to 175\u00055C (350\u0000F)",
+    "In a large pot, combine chicken or vegetable broth and 1 tsp of soy sauce, bring to a simmer over medium heat.",
+    "Meanwhile, slice the Taleggio cheese into 1 cm thick rounds.",
+    "Using a blowtorch, caramelize the cheese on both sides until it develops a glassy-jelly appearance.",
+    "Transfer the caramelized cheese to a plate, then set aside to cool slightly."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 30,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "easy-dinner",
+    "one-pan",
+    "paleo",
+    "sous-vide",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 40
+  },
+  "slug": "charred-japanese-taleggio-ramen",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-japanese-taleggio-ramen",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:39:49Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "glassy-jelly",
+    "mood": "indulgent",
+    "technique": "sous-vide",
+    "primaryIngredient": "taleggio",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Taleggio",
+    "descriptor": "charred",
+    "dishForm": "Ramen"
+  }
+}

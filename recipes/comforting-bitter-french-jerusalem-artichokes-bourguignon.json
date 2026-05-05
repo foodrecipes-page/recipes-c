@@ -1,0 +1,124 @@
+{
+  "title": "comforting, bitter french jerusalem artichokes bourguignon",
+  "description": "a hearty, comforting french dish featuring jerusalem artichokes in a rich, sugary-free bourguignon sauce, inspired by the classic boeuf bourguignon.",
+  "cuisine": "french",
+  "diet": [
+    null,
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "jerusalem artichokes (4-6)",
+      "amount": "2 pounds",
+      "notes": "select artichokes with firm skin and no signs of sprouting."
+    },
+    {
+      "name": "bacon",
+      "amount": "6 slices",
+      "notes": "use a smoky, thick-cut bacon for best flavor."
+    },
+    {
+      "name": "shallots",
+      "amount": "6",
+      "notes": "thinly slice the shallots and separate into rings."
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "mince the garlic and press into oil until fragrant."
+    },
+    {
+      "name": "red wine",
+      "amount": "1 1/2 cups",
+      "notes": "use a full-bodied burgundy for best flavor."
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons",
+      "notes": "mix with 2 tablespoons red wine to create a marinade."
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "use a mild, fruity olive oil for sautéing."
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": "use a high-quality, low-sodium broth for best flavor."
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "use a high-quality, low-sodium paste for best flavor."
+    },
+    {
+      "name": "thyme",
+      "amount": "1 sprig",
+      "notes": "fresh thyme is best, but you can substitute with dried if necessary."
+    },
+    {
+      "name": "rosemary",
+      "amount": "1 sprig",
+      "notes": "fresh rosemary is best, but you can substitute with dried if necessary."
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large Dutch oven over medium-high heat.",
+    "add the bacon and cook until browned, about 4 minutes.",
+    "remove the bacon and set aside.",
+    "add the shallots and cook until caramelized, about 8 minutes.",
+    "add the garlic and cook for 1 minute, pressing into the pan to release fragrance.",
+    "add the jerusalem artichokes, red wine, miso paste, and beef broth.",
+    "bring to a boil, then reduce heat to low and simmer for 20 minutes, or until the artichokes are tender.",
+    "add the tomato paste and stir to combine.",
+    "return the bacon to the pot and stir to combine.",
+    "add the thyme and rosemary and season with salt and black pepper to taste.",
+    "simmer the stew for an additional 10 minutes, or until the flavors have melded together and the meat is tender."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pan",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "comforting-bitter-french-jerusalem-artichokes-bourguignon",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/comforting-bitter-french-jerusalem-artichokes-bourguignon",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:40:32Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "glassy-jelly",
+    "mood": "comforting",
+    "technique": "miso-marinate",
+    "primaryIngredient": "jerusalem artichokes",
+    "diet": "sugar-free",
+    "region": "burgundy",
+    "cuisineAdjective": "French",
+    "mainIngredient": "Jerusalem Artichokes",
+    "descriptor": "Comforting, Bitter",
+    "dishForm": "Bourguignon"
+  }
+}
