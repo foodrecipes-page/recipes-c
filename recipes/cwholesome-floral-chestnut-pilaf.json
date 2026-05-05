@@ -1,0 +1,85 @@
+{
+  "title": "CWholesome Floral Chestnut Pilaf",
+  "description": "A floral and dense Chinese dish featuring cooked chestnuts, lamination-puff, with low-sodium-friendly ingredients suitable for a mid-day meal.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup cooked chestnuts",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tbsp lamination-puff crumbs",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1/4 cup low-sodium chicken broth",
+      "amount": "cup"
+    },
+    {
+      "name": "1/8 tsp ground cinnamon",
+      "amount": "tsp"
+    },
+    {
+      "name": "Pinch of sea salt",
+      "amount": ""
+    },
+    {
+      "name": "1 pinch fresh ginger, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 cup quinoa",
+      "amount": "cup"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "cloves"
+    }
+  ],
+  "instructions": [
+    "In a saucepan, combine chestnuts with lamination-puff crumbs.",
+    "Add chicken broth and cinnamon. Bring to a boil then reduce heat to simmer for 5 minutes.",
+    "Stir in quinoa and fresh ginger. Add garlic and sea salt. Cook for an additional 10 minutes until the mixture is thickened.",
+    "Serve warm as a side dish or over steamed vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "floral",
+    "low-sodium-friendly",
+    "one-pot-meal",
+    "quick-cook",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 34,
+    "fat": 7
+  },
+  "slug": "cwholesome-floral-chestnut-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cwholesome-floral-chestnut-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T13:53:39Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "lamination-puff",
+    "primaryIngredient": "cooked chestnut",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Floral",
+    "mainIngredient": "Chestnut",
+    "descriptor": "Wholesome",
+    "dishForm": "Pilaf"
+  }
+}
