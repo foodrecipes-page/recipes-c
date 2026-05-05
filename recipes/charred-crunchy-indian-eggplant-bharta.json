@@ -1,0 +1,121 @@
+{
+  "title": "Charred, Crunchy Indian Eggplant Bharta",
+  "description": "A comforting and flavorful Indian dish featuring smoky eggplant, fresh herbs, and a hint of clear honey.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "macrobiotic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "2 medium",
+      "notes": "preferably Indian or Italian variety"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for roasting"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Clear honey",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "preferably sea salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the eggplant into 1-inch cubes and place them on a baking sheet lined with parchment paper.",
+    "Drizzle the eggplant with 1 tablespoon of olive oil and toss to coat evenly.",
+    "Roast the eggplant in the preheated oven for 20-25 minutes, or until it's charred and tender.",
+    "Heat the remaining 1 tablespoon of olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until it's translucent, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for another minute, stirring constantly.",
+    "Add the roasted eggplant, clear honey, lemon juice, salt, black pepper, cumin seeds, and coriander powder to the skillet.",
+    "Stir everything together and cook for 2-3 minutes, or until the flavors have melded together.",
+    "Garnish with chopped fresh cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "eggplant",
+    "indian",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "charred-crunchy-indian-eggplant-bharta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-crunchy-indian-eggplant-bharta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:47:32Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crunchy",
+    "mood": "comforting",
+    "technique": "brine-wet",
+    "primaryIngredient": "clear honey",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "eggplant",
+    "descriptor": "charred, crunchy",
+    "dishForm": "Bharta"
+  }
+}

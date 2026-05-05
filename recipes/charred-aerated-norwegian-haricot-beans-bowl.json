@@ -1,0 +1,118 @@
+{
+  "title": "Charred Aerated Norwegian Haricot Beans Bowl",
+  "description": "A hearty and energizing dish featuring charred haricot beans, crunchy kale, and a dollop of creamy yogurt, all coming together in a satisfying Norwegian-inspired bowl.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "haricot beans",
+      "amount": "1 cup dried",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chopped kale",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, rinse the haricot beans and soak them in water for at least 8 hours or overnight.",
+    "Drain and rinse the haricot beans, then transfer them to a large Dutch oven or oven-safe pot with a lid.",
+    "Add the chopped onion, minced garlic, and enough water to cover the beans by 2 inches, then cover the pot with a lid and transfer it to the preheated oven for 30 minutes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "haricot-beans",
+    "high-protein",
+    "norwegian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "charred-aerated-norwegian-haricot-beans-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-aerated-norwegian-haricot-beans-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:47:16Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "aerated",
+    "mood": "energizing",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "haricot beans",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "haricot beans",
+    "descriptor": "charred aerated",
+    "dishForm": "Bowl"
+  }
+}

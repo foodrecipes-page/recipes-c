@@ -1,0 +1,106 @@
+{
+  "title": "crunchy algerian banana tagine",
+  "description": "a unique fusion of traditional algerian flavors with the added crunch of toasted almonds and the sweetness of caramelized bananas. this dish is perfect for a weeknight dinner or a special occasion meal.",
+  "cuisine": "algerian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ripe bananas",
+      "amount": "4",
+      "notes": "preferably 3-4 days old for optimal fermentation flavor"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/2 cup",
+      "notes": "gluten-free and low-sodium option"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying the bananas and almonds"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": "optional, adjust to taste"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 teaspoon",
+      "notes": "traditional algerian spice"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": "traditional algerian spice"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "low-sodium option"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for the tagine sauce"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/2 cup",
+      "notes": "sliced and toasted for added crunch"
+    }
+  ],
+  "instructions": [
+    "in a large mortar and pestle, pound the ripe bananas to release their natural enzymes and create a fermented flavor.",
+    "add the almond flour, honey, ginger, cinnamon, and salt to the mortar and mix well.",
+    "heat the coconut oil in a large skillet over medium heat.",
+    "fry the sliced almonds until golden brown and crispy, then set aside.",
+    "add the water to the skillet and bring to a boil.",
+    "reduce heat to low and simmer for 10 minutes, stirring occasionally.",
+    "add the fried almonds and banana mixture to the skillet and stir to combine.",
+    "transfer the mixture to a serving dish and garnish with additional toasted almonds if desired.",
+    "serve warm or at room temperature, garnished with fresh mint leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "banana",
+    "caramelized",
+    "crowd-pleaser",
+    "fermented",
+    "gluten-free",
+    "low-sodium",
+    "one-pan",
+    "snack-worthy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "crunchy-algerian-banana-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-algerian-banana-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:47:49Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crunchy",
+    "mood": "crowd-pleaser",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "banana",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "banana",
+    "descriptor": "crunchy",
+    "dishForm": "Tagine"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "title": "Charred, Cheesy Jamaican Mushrooms Wrap",
+  "description": "A flavorful, vegan-friendly wrap featuring wood ear mushrooms and a shio-koji cure, perfect for a quick weeknight dinner.",
+  "cuisine": "jamaican",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "wood ear mushrooms",
+      "amount": "8 oz"
+    },
+    {
+      "name": "shio-koji cure",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "1 small"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "jamaican curry powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "cheddar cheese substitute",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tortilla wrap",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Heat a skillet over medium-high heat.",
+    "Add 1 tablespoon of coconut oil and swirl to coat the pan.",
+    "Add the onion and scotch bonnet peppers and sauté until softened, about 5 minutes.",
+    "Add the garlic and sauté for 1 minute, until fragrant.",
+    "Add the mushrooms and sauté until they release their liquid and start to brown, about 3-4 minutes.",
+    "Add the shio-koji cure and stir to combine.",
+    "Add the curry powder, smoked paprika, and flour, and stir to combine.",
+    "Add the cheddar cheese substitute and stir until melted and bubbly.",
+    "Warm the tortilla wrap in the microwave for 10-15 seconds.",
+    "Assemble the wrap by spooning the mushroom mixture onto the center of the tortilla, then folding the bottom half up and rolling the wrap into a tight cylinder.",
+    "Serve immediately, garnished with chopped scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "jamaican",
+    "one-pan",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "charred-cheesy-jamaican-mushrooms-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-cheesy-jamaican-mushrooms-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:47:24Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "cheese-pull",
+    "mood": "weeknight",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "wood ear mushrooms",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "mushrooms",
+    "descriptor": "charred, cheesy",
+    "dishForm": "Wrap"
+  }
+}
