@@ -1,0 +1,110 @@
+{
+  "title": "Chewy Egyptian Kabanos Kebabs",
+  "description": "A unique twist on traditional Egyptian street food, featuring chewy Polish kabanos sausage and crunchy nuka-pickle. This dish is perfect for festive gatherings and can be easily adapted to accommodate no-onion-no-garlic diets.",
+  "cuisine": "Egyptian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Polish Kabanos Sausage",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Nuka-Pickle",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade, no onion or garlic version"
+    },
+    {
+      "name": "Pita Bread",
+      "amount": "4-6 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread kabanos sausage onto skewers, leaving a small space between each piece.",
+    "Brush kabanos with olive oil and season with paprika, cumin, salt, and black pepper.",
+    "Grill kabanos for 4-5 minutes per side, or until lightly charred."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "grill",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "chewy-egyptian-kabanos-kebabs",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-egyptian-kabanos-kebabs",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:41:48Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "chewy",
+    "mood": "festive",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "polish kabanos",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Kabanos",
+    "descriptor": "Chewy",
+    "dishForm": "Kebabs"
+  }
+}

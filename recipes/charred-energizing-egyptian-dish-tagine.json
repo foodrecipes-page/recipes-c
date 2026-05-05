@@ -1,0 +1,108 @@
+{
+  "title": "Charred Energizing Egyptian Tagine",
+  "description": "A charred, pillowy Egyptian dish featuring shredded coconut, anti-inflammatory-friendly, and wrapped in a corn husk. This energizing recipe is perfect for a cozy night in.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "Use high-quality, cold-pressed coconut oil for best flavor."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chop the onion before cooking to ensure it cooks evenly."
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Mince the garlic before adding to the pot."
+    },
+    {
+      "name": "Dates",
+      "amount": "4",
+      "notes": "Choose fresh, pitted dates for the best flavor."
+    },
+    {
+      "name": "Shredded coconut",
+      "amount": "1 cup",
+      "notes": "Shredded coconut adds a unique texture and flavor to this dish."
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "Smoked paprika adds a deep, smoky flavor to this recipe."
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground cumin adds a warm, earthy flavor to this dish."
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Cayenne pepper adds a spicy kick to this recipe."
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Use high-quality, unrefined salt for best flavor."
+    },
+    {
+      "name": "Corn husks",
+      "amount": "4-6",
+      "notes": "Large corn husks work best for wrapping this dish."
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large clay pot or Dutch oven over medium heat.",
+    "Add chopped onion and cook until caramelized, stirring occasionally.",
+    "Add minced garlic and cook for 1-2 minutes, stirring constantly.",
+    "Add dates, shredded coconut, paprika, cumin, cayenne pepper, and salt. Stir to combine.",
+    "Cook for 2-3 minutes, stirring occasionally.",
+    "Transfer the mixture to a large bowl and let cool slightly.",
+    "Spoon the mixture onto the center of each corn husk, leaving a 1-inch border around the edges.",
+    "Fold the bottom edge of the corn husk up over the filling, then fold in the sides and roll the husk into a neat package.",
+    "Place the bundled tagine in a large steamer basket or Dutch oven and steam for 20-25 minutes, or until the coconut is tender and the filling is heated through."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cozy-night",
+    "gluten-free",
+    "one-pan",
+    "vegan-option"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 16
+  },
+  "slug": "charred-energizing-egyptian-dish-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-energizing-egyptian-dish-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:42:04Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "pillowy",
+    "mood": "energizing",
+    "technique": "tagine-cook",
+    "primaryIngredient": "shredded coconut",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "dish",
+    "descriptor": "charred energizing",
+    "dishForm": "Tagine"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "title": "Charred Korean Bacon Banchan",
+  "description": "A simple, smoky, and savory Korean-inspired banchan featuring charred bacon and a sweet and spicy fold.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bacon",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Green chilies",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili paste",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Cut the bacon into 1-inch pieces and set aside.",
+    "In a small bowl, whisk together the gochujang, soy sauce, brown sugar, rice vinegar, and ground black pepper.",
+    "Add the gochujang mixture, green chilies, green onions, Korean chili flakes, sesame oil, sesame seeds, and Korean chili paste to the bowl with the bacon and toss to coat.",
+    "Grill the bacon mixture for 2-3 minutes per side, or until the bacon is charred and caramelized.",
+    "Transfer the bacon mixture to a serving dish and serve immediately.",
+    "Garnish with additional green onions and serve with steamed rice or noodles, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "banchan",
+    "easy",
+    "korean",
+    "one-pan",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "charred-korean-bacon-banchan",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-korean-bacon-banchan",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:42:08Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "shaggy",
+    "mood": "kid-friendly",
+    "technique": "fold",
+    "primaryIngredient": "bacon",
+    "diet": "no-onion-no-garlic",
+    "region": "gyeongsang",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Bacon",
+    "descriptor": "Charred",
+    "dishForm": "Banchan"
+  }
+}
