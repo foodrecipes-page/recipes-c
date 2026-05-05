@@ -1,0 +1,128 @@
+{
+  "title": "Charred Filipino Chicken Adobo",
+  "description": "A flavorful, one-pot Filipino dish featuring charred chicken and a tangy adobo sauce. This lacto-vegetarian-friendly recipe is perfect for a quick weeknight dinner.",
+  "cuisine": "Filipino",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "bay leaves",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "black peppercorns",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "vinegar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chili peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large Dutch oven over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Remove the chicken from the pot and set aside.",
+    "Add the onion and garlic to the pot and cook until softened, about 5 minutes.",
+    "Add the bay leaves, black peppercorns, vinegar, water, fish sauce, salt, and sugar to the pot and stir to combine.",
+    "Return the chicken to the pot and bring the mixture to a boil.",
+    "Add the chili peppers and tomatoes to the pot and stir to combine.",
+    "Reduce the heat to low and simmer, covered, until the chicken is cooked through and the sauce has thickened, about 25 minutes.",
+    "Stir in the chopped cilantro and serve hot.",
+    "Season with additional salt and pepper to taste, if needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "charred-filipino-chicken-adobo",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-filipino-chicken-adobo",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:32:25Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "springy",
+    "mood": "one-pot",
+    "technique": "brine-wet",
+    "primaryIngredient": "salsa",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "chicken",
+    "descriptor": "charred",
+    "dishForm": "Adobo"
+  }
+}
