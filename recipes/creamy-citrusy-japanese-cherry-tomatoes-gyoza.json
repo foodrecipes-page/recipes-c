@@ -1,0 +1,95 @@
+{
+  "title": "Creamy Citrusy Japanese Cherry Tomatoes Gyoza",
+  "description": "A kid-friendly Japanese dish featuring cherry tomatoes, creamy sauce, and crispy gyoza wrappers, inspired by Okinawan flavors.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint"
+    },
+    {
+      "name": "gyoza wrappers",
+      "amount": "1 package (20 wrappers)"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sous-vide egg substitute",
+      "amount": "3 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Wrap gyoza wrappers around cherry tomatoes and set aside.",
+    "Heat a pan over medium heat and add grated ginger and garlic. Cook for 1 minute.",
+    "Add soy sauce, rice vinegar, and honey to the pan and stir to combine. Cook for 1 minute.",
+    "Add mayonnaise and stir to combine. Cook for 1 minute.",
+    "Add sous-vide egg substitute and stir to combine. Cook for 1 minute.",
+    "Add green onions and stir to combine. Cook for 1 minute.",
+    "Add the wrapped cherry tomatoes to the pan and cook for 2-3 minutes, until the gyoza wrappers are crispy and golden brown.",
+    "Serve the gyoza hot with a side of your favorite dipping sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "healthy",
+    "kid-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "creamy-citrusy-japanese-cherry-tomatoes-gyoza",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-citrusy-japanese-cherry-tomatoes-gyoza",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:18:29Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "creamy",
+    "mood": "kid-friendly",
+    "technique": "sous-vide",
+    "primaryIngredient": "cherry tomatoes",
+    "diet": "egg-free",
+    "region": "okinawa",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "cherry tomatoes",
+    "descriptor": "creamy citrusy",
+    "dishForm": "Gyoza"
+  }
+}

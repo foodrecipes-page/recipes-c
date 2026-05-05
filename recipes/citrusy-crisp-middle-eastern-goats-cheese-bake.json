@@ -1,0 +1,81 @@
+{
+  "title": "Citrusy Crisp Middle Eastern Goats Cheese Bake",
+  "description": "A refreshing and flavorful dish featuring tangy goats cheese, the crunch of pine nuts, and the zing of citrus, all in a salt-baked crust.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Goats cheese",
+      "amount": "1 block (250g)",
+      "notes": ""
+    },
+    {
+      "name": "Coarse salt",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Pine nuts",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemons",
+      "amount": "2",
+      "notes": "zest and juice"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Line a baking dish with parchment paper.",
+    "In a bowl, mix together goats cheese, pine nuts, parsley, lemon zest, and lemon juice.",
+    "Transfer the mixture to the prepared baking dish, leaving a 1-inch border around the edges.",
+    "Sprinkle coarse salt over the cheese mixture.",
+    "Bake for 20 minutes, or until the cheese is lightly browned and the crust is crispy.",
+    "Remove from oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "goats-cheese",
+    "middle-eastern",
+    "salt-bake",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 4,
+    "fat": 20
+  },
+  "slug": "citrusy-crisp-middle-eastern-goats-cheese-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-crisp-middle-eastern-goats-cheese-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:18:34Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crisp",
+    "mood": "midnight-craving",
+    "technique": "salt-bake",
+    "primaryIngredient": "goats cheese",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "goats cheese",
+    "descriptor": "Citrusy crisp",
+    "dishForm": "Bake"
+  }
+}

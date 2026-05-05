@@ -1,0 +1,109 @@
+{
+  "title": "Crispy Battered Dutch Plant-based Fries",
+  "description": "A Dutch twist on the classic French fry, featuring a crispy cornstarch-based batter infused with Chinese five spice powder and air-fried to perfection. Enjoy these addictive fries as a snack or side dish.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Potato sticks",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chinese five spice powder",
+      "amount": "2 teaspoons",
+      "notes": "use store-bought or homemade spice blend"
+    },
+    {
+      "name": "Vegan batter mix",
+      "amount": "1 cup",
+      "notes": "depending on brand, choose one that is gluten-free and vegan-friendly"
+    },
+    {
+      "name": "Vegan egg replacement",
+      "amount": "1 tablespoon",
+      "notes": "such as Ener-G Egg Replacer or flaxseed"
+    },
+    {
+      "name": "Vegan milk",
+      "amount": "1 cup",
+      "notes": "such as almond or soy milk"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 cup",
+      "notes": "for air frying"
+    }
+  ],
+  "instructions": [
+    "Cut the potato sticks into long, thin strips and soak them in cold water for at least 30 minutes to remove excess starch.",
+    "Drain the potato strips and pat them dry with paper towels to remove excess moisture.",
+    "In a shallow dish, mix together the cornstarch, Chinese five spice powder, and a pinch of salt and pepper.",
+    "Pour the vegan batter mix into a separate shallow dish and stir in the vegan egg replacement and vegan milk until smooth.",
+    "Dip each potato strip into the batter mix, coating it evenly, then roll it in the cornstarch mixture to coat, tapping off excess.",
+    "Place the battered potato strips in a single layer on a plate or tray, leaving space between each fry.",
+    "Heat 1 cup of vegetable oil in an air fryer to 400°F (200°C) and cook the fries in batches until crispy and golden brown, about 10-12 minutes per batch.",
+    "Repeat with the remaining potato strips, adjusting cooking time as needed.",
+    "Serve the crispy battered fries hot, garnished with additional Chinese five spice powder if desired.",
+    "Garnish with fresh herbs, such as parsley or chives, for added color and freshness.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 42,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "battered",
+    "crispy",
+    "gluten-free",
+    "one-pan",
+    "snack",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "crispy-battered-dutch-plant-based-fries",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-battered-dutch-plant-based-fries",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:17:28Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crispy",
+    "mood": "adventurous",
+    "technique": "air-fry",
+    "primaryIngredient": "chinese five spice powder",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "plant-based",
+    "descriptor": "Crispy Battered",
+    "dishForm": "Fries"
+  }
+}
