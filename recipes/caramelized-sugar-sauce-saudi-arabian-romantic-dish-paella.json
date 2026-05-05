@@ -1,0 +1,72 @@
+{
+  "title": "Romantic Saudi Arabian Paella",
+  "description": "Pungent, crumbly, romantic dish featuring caramelized sugar sauce, confit-tomato, shojin-friendly, vessel=raclette-grill. Perfect for a memorable evening with a loved one.",
+  "cuisine": "saudi arabian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "saffron rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "confit tomato",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "caramelized sugar sauce",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "saudi beef short ribs",
+      "amount": "1 pound",
+      "notes": "shojin-friendly alternative: portobello mushrooms"
+    }
+  ],
+  "instructions": [
+    "Heat the raclette grill to medium heat.",
+    "In a large pan, saut\u00057 the beef short ribs until browned. Remove from heat and set aside.",
+    "In the same pan, add the saffron rice and cook until lightly toasted.",
+    "Add the confit tomato and caramelized sugar sauce to the pan, stirring to combine."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "easy-romantic",
+    "one-pan",
+    "romantic",
+    "saudi-arabian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 50,
+    "fat": 20
+  },
+  "slug": "caramelized-sugar-sauce-saudi-arabian-romantic-dish-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/caramelized-sugar-sauce-saudi-arabian-romantic-dish-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:30:44Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crumbly",
+    "mood": "romantic",
+    "technique": "confit-tomato",
+    "primaryIngredient": "caramelized sugar sauce",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "saudi-arabian",
+    "mainIngredient": "romantic dish",
+    "descriptor": "caramelized sugar sauce",
+    "dishForm": "paella"
+  }
+}

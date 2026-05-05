@@ -1,0 +1,109 @@
+{
+  "title": "Charred Grilled Malaysian Chive Rice Bowl",
+  "description": "A grassy, bouncy-qq monsoon Malaysian dish featuring chopped chive and a bhuna-inspired flavor profile. Serve as a low-calorie-friendly vessel on a binchotan grill.",
+  "cuisine": "malaysian",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chopped chives",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "4 ounces",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "bhuna curry paste",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cooked white rice",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of coconut oil in a pan over medium-high heat. Sear the chicken breast for 5 minutes on each side, or until cooked through.",
+    "Transfer the chicken to a plate and set aside to rest.",
+    "In the same pan, add the remaining 1 tablespoon of coconut oil. Add the chopped onion and cook for 3-4 minutes, or until softened.",
+    "Add the minced garlic and grated ginger and cook for an additional minute, stirring constantly.",
+    "Stir in the bhuna curry paste and cook for 1 minute, or until fragrant.",
+    "Add the cooked white rice to the pan and stir to combine with the curry paste mixture.",
+    "Add the chopped chives, fish sauce, lime juice, salt, and pepper to the pan and stir to combine.",
+    "Slice the cooked chicken breast and place on top of the rice mixture.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "healthy",
+    "malaysian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 26,
+    "fat": 12
+  },
+  "slug": "charred-grilled-malaysian-chive-rice-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-grilled-malaysian-chive-rice-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:30:20Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "bouncy-qq",
+    "mood": "monsoon",
+    "technique": "bhuna",
+    "primaryIngredient": "chopped chive",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chive",
+    "descriptor": "Charred Grilled",
+    "dishForm": "Rice Bowl"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "title": "Cheesy Venezuelan Cheese Quesadilla",
+  "description": "A romantic Venezuelan dish featuring a citrusy beurre-monte sauce, pulled cheese, and crunchy chestnuts. Perfect for a low-carb-friendly dinner or snack.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chestnut flour tortillas",
+      "amount": "4",
+      "notes": "preferably made with chestnut flour for extra flavor"
+    },
+    {
+      "name": "Queso fresco",
+      "amount": "8 oz",
+      "notes": "or other young, crumbly cheese"
+    },
+    {
+      "name": "Monterey Jack cheese",
+      "amount": "4 oz",
+      "notes": "shredded for best melt"
+    },
+    {
+      "name": "Beurre-monte ingredients",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tsp",
+      "notes": "freshly squeezed for best flavor"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tsp",
+      "notes": "use a mild, neutral oil for best flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 pinch",
+      "notes": "use a flaky sea salt for best flavor"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": "use a freshly ground black pepper for best flavor"
+    },
+    {
+      "name": "Chestnuts",
+      "amount": "1 cup",
+      "notes": "roasted and chopped for best flavor"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat a griddle or skillet to 325°F (165°C).",
+    "Spread 1 tsp of olive oil on a chestnut flour tortilla. ",
+    "Place 2 oz of Queso fresco on half of the tortilla.",
+    "Add 1 oz of shredded Monterey Jack cheese on top of the Queso fresco.",
+    "Fold the tortilla in half to enclose the filling.",
+    "Cook for 2-3 minutes or until the tortilla is lightly browned and the cheese is melted.",
+    "Flip the quesadilla and cook for an additional 2 minutes or until the other side is lightly browned.",
+    "Repeat with the remaining tortillas and filling ingredients.",
+    "While the quesadillas are cooking, prepare the beurre-monte sauce by whisking together the lime juice, 2 tbsp of softened butter, and a pinch of salt in a small bowl.",
+    "Once the quesadillas are cooked, brush the beurre-monte sauce on top of each one.",
+    "Garnish with chopped fresh cilantro and serve immediately.",
+    "Roast 1 cup of chestnuts in a 400°F oven for 10-12 minutes or until tender, then chop and set aside for serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "high-protein",
+    "one-pan",
+    "venezuelan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 28,
+    "carbs": 4,
+    "fat": 42
+  },
+  "slug": "cheesy-venezuelan-cheese-quesadilla",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/cheesy-venezuelan-cheese-quesadilla",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:29:45Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "cheese-pull",
+    "mood": "romantic",
+    "technique": "beurre-monte",
+    "primaryIngredient": "chestnuts",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Cheese",
+    "descriptor": "Cheesy",
+    "dishForm": "Quesadilla"
+  }
+}
