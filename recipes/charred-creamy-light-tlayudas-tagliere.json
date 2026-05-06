@@ -1,0 +1,87 @@
+{
+  "title": "Charred Creamy Light Tlayudas Tagliere",
+  "description": "A macrobiotic-friendly charred and creamy light Mexican dish featuring emmentaler cheese, double-rise bread, and served on a tagliere plate.",
+  "cuisine": "Mexican",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Double Rise Bread",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "Emmentaler Cheese",
+      "amount": "10 oz"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 250 degrees F.",
+    "Slice bread into thin slices and brush with olive oil.",
+    "Arrange bread on a baking sheet in a single layer.",
+    "Sprinkle cheese, garlic, lemon zest, lime juice, salt, and pepper evenly over the top of each slice.",
+    "Bake for 12 minutes or until edges are golden brown and cheese is melted and bubbly.",
+    "Remove from oven and let cool slightly before slicing into tagliere portions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "charred",
+    "creamy",
+    "dessert",
+    "light",
+    "macrobiotic",
+    "mexican",
+    "tagliere"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 18,
+    "fat": 16
+  },
+  "slug": "charred-creamy-light-tlayudas-tagliere",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-creamy-light-tlayudas-tagliere",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T01:44:15Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "emmentaler cheese",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Emmentaler Cheese",
+    "descriptor": "Charred Creamy Light",
+    "dishForm": "Tlayudas Tagliere"
+  }
+}
