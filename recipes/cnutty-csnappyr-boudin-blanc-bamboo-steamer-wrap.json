@@ -1,0 +1,69 @@
+{
+  "title": "Cnutty, Csnappyr Boudin Blanc Bamboo-Steamer Wrap",
+  "description": "A low-carb Egyptian-inspired solo-dinner dish featuring boudin-blanc wrapped in a bamboo steamer for added crunch and texture.",
+  "cuisine": "Egyptian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boudin Blanc",
+      "amount": 100,
+      "notes": "Use low-carb variety"
+    },
+    {
+      "name": "Herbs (thyme, parsley, cilantro)",
+      "amount": "handful"
+    },
+    {
+      "name": "Peanut Oil",
+      "amount": 50,
+      "notes": "Lightly for pan-frying boudin if needed"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Heat peanut oil in a bamboo steamer and lightly fry the boudin on both sides until golden brown.",
+    "Season with salt and herbs, wrapping each piece of boudin in the bamboo steamers for added texture.",
+    "Serve hot as a light meal or snack.",
+    "Optional: serve with a side of cucumber relish for additional flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bamboo-steamer",
+    "egyptian-dish",
+    "low-carb",
+    "one-pan",
+    "snappy-canutty"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 35,
+    "carbs": 16,
+    "fat": 20
+  },
+  "slug": "cnutty-csnappyr-boudin-blanc-bamboo-steamer-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cnutty-csnappyr-boudin-blanc-bamboo-steamer-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T02:24:20Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "snappy",
+    "mood": "solo-dinner",
+    "technique": "reduce",
+    "primaryIngredient": "boudin-blanc",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Boudin Blanc",
+    "descriptor": "Nutty, Snappy",
+    "dishForm": "Wrap"
+  }
+}
