@@ -1,0 +1,94 @@
+{
+  "title": "crunchy vietnamese hake fry-grind-rice-khao-khua",
+  "description": "a cultured, crunchy weeknight vietnamese dish featuring hake, fry-grind-rice-khao-khua, egg-free-friendly and simple to make.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegan",
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hake fillets",
+      "amount": "400g",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "fry-grind-rice-khao-khua",
+      "amount": "1 cup",
+      "notes": "see notes for fry-grind-rice-khao-khua preparation"
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "4",
+      "notes": "chopped"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": "optional, omit for vegan/vegetarian version"
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "heat coconut oil in a large skillet over medium heat.",
+    "add the chopped kaffir lime leaves and saut\u00134 until fragrant, about 1 minute.",
+    "add the hake fillets and cook until golden brown, about 3-4 minutes per side.",
+    "add the fry-grind-rice-khao-khua and cook, stirring constantly, until lightly toasted, about 2-3 minutes.",
+    "season with fish sauce and black pepper to taste.",
+    "garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egg-free",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 48,
+    "carbs": 40,
+    "fat": 24
+  },
+  "slug": "crunchy-vietnamese-hake-fry-grind-rice-khao-khua",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-vietnamese-hake-fry-grind-rice-khao-khua",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:56:54Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crunchy",
+    "mood": "weeknight",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "hake",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "hake",
+    "descriptor": "crunchy",
+    "dishForm": "fry-grind-rice-khao-khua"
+  }
+}
