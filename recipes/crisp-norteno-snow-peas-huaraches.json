@@ -1,0 +1,54 @@
+{
+  "title": "Crisp Norteno Snow Peas Huaraches",
+  "description": "A nutty and snappy brunch-mood Mexican dish featuring steamed snow peas, crunchy huaraches, and a hint of lime.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Snow Peas",
+      "amount": "2 cups",
+      "notes": "fresh and trimmed"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the snow peas, water, and lime juice, and let it steam for 3 minutes in a microwave-safe bowl, covered with a paper towel."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "low-calorie",
+    "mexican",
+    "steamed"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 2
+  },
+  "slug": "crisp-norteno-snow-peas-huaraches",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-norteno-snow-peas-huaraches",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:51:10Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "snappy",
+    "mood": "brunch-mood",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "snow peas",
+    "diet": "low-calorie",
+    "region": "norteño",
+    "cuisineAdjective": "Norteno",
+    "mainIngredient": "Snow peas",
+    "descriptor": "Crisp",
+    "dishForm": "Huaraches"
+  }
+}
