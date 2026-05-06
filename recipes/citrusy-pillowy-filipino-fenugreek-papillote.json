@@ -1,0 +1,108 @@
+{
+  "title": "Citrusy Pillowy Filipino Fenugreek Papillote",
+  "description": "A flavorful and comforting Filipino-inspired dish featuring fenugreek, steamed in a pillow of citrusy goodness. Perfect for a lazy Sunday morning.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "low-fat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Fenugreek leaves",
+      "amount": "1 bunch",
+      "notes": "Choose fresh leaves with no signs of wilting."
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup",
+      "notes": "Full-fat or low-fat, whichever suits your taste."
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": "Adjust to taste."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Galangal",
+      "amount": "1 inch",
+      "notes": "Grated."
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "Grated."
+    },
+    {
+      "name": "Green chilies",
+      "amount": "2",
+      "notes": "Sliced."
+    },
+    {
+      "name": "Banana leaves",
+      "amount": "2",
+      "notes": "Fresh or frozen, thawed."
+    }
+  ],
+  "instructions": [
+    "Combine fenugreek leaves, lime juice, coconut milk, sugar, salt, black pepper, galangal, and ginger in a bowl. Mix well to coat the fenugreek evenly.",
+    "Heat a steamer or a pot with a steamer basket over boiling water.",
+    "Cut banana leaves into large squares, enough to wrap each serving as a papillote.",
+    "Place a large spoonful of the fenugreek mixture on the center of each banana leaf square.",
+    "Fold the banana leaves over the filling, creating a neat package.",
+    "Place the papillotes in the steamer, seam-side down, and steam for 10 minutes.",
+    "Remove the papillotes from the steamer and serve immediately, garnished with green chilies and a squeeze of lime juice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "filipino",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "citrusy-pillowy-filipino-fenugreek-papillote",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-pillowy-filipino-fenugreek-papillote",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:01:30Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "pillowy",
+    "mood": "lazy-sunday",
+    "technique": "papillote",
+    "primaryIngredient": "fenugreek",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "filipino",
+    "mainIngredient": "fenugreek",
+    "descriptor": "citrusy pillowy",
+    "dishForm": "papillote"
+  }
+}
