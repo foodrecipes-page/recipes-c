@@ -1,0 +1,115 @@
+{
+  "title": "Craving, rich Tunisian rice noodle Wrap",
+  "description": "A rich, pillowy Tunisian dish featuring brown rice noodle, temper, and a sugar-free-friendly twist, all wrapped up in a delicious ti-leaf wrap. Perfect for a midnight craving.",
+  "cuisine": "tunisian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "brown rice noodle",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "temper",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "ti-leaf wrap",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1/2",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chicken breast",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the onion and garlic and sauté until softened.",
+    "Add the chicken breast and cook until browned and cooked through.",
+    "Add the temper, cumin, coriander, salt, and black pepper to the skillet and stir to combine.",
+    "Add the grated ginger and stir to combine.",
+    "Add the brown rice noodle to the skillet and stir to combine.",
+    "Wrap the mixture in the ti-leaf wrap and serve hot.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "midnight-craving",
+    "rice-noodle",
+    "tunisian",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "craving-rich-tunisian-rice-noodle-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/craving-rich-tunisian-rice-noodle-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:45:30Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "pillowy",
+    "mood": "midnight-craving",
+    "technique": "temper",
+    "primaryIngredient": "brown rice noodle",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "rice noodle",
+    "descriptor": "Craving, rich",
+    "dishForm": "Wrap"
+  }
+}
