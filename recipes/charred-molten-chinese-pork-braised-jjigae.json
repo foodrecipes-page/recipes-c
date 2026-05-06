@@ -1,0 +1,120 @@
+{
+  "title": "Charred Molten Chinese Pork Braised Jjigae",
+  "description": "A rich and savory monsoon-inspired Chinese-Xinjiang dish featuring ground pork, a sticky glaze, and a medley of spices, all presented in the form of Buddha jumping over the wall. This vegetarian-friendly jjigae is designed to warm the senses and nourish the soul.",
+  "cuisine": "Chinese",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground pork",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Hoisin sauce",
+      "amount": "1 tablespoon",
+      "notes": "Vegetarian-friendly alternative to oyster sauce."
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Five-spice powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Sliced green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large wok or Dutch oven over medium-high heat.",
+    "Add the ground pork and cook, breaking it up with a spoon, until it is no longer pink, about 5 minutes.",
+    "Add the ginger and garlic and cook for 1 minute, stirring constantly.",
+    "Add the soy sauce, hoisin sauce, brown sugar, Korean chili flakes, and five-spice powder, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to medium-low and simmer, stirring occasionally, for 10 minutes.",
+    "Mix the cornstarch with a little water until smooth, then stir it into the pork mixture and cook for 2 minutes, or until the sauce has thickened.",
+    "Transfer the pork mixture to a large serving dish and top with sliced green onions and toasted sesame seeds.",
+    "Caramelize the glaze by heating the remaining 2 tablespoons of sesame oil in a small saucepan over medium heat.",
+    "Add the cornstarch mixture to the saucepan and cook, stirring constantly, for 2-3 minutes, or until the glaze is thick and bubbly.",
+    "Pour the glaze over the pork mixture and serve immediately.",
+    "Serve hot, garnished with additional green onions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buddha-jumps-over-wall",
+    "chinaxinjiang",
+    "high-protein",
+    "monsoon-braun",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "slug": "charred-molten-chinese-pork-braised-jjigae",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-molten-chinese-pork-braised-jjigae",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:55:36Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "molten",
+    "mood": "monsoon",
+    "technique": "glaze",
+    "primaryIngredient": "ground pork",
+    "diet": "vegetarian",
+    "region": "xinjiang",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "charred molten",
+    "dishForm": "Braised Jjigae"
+  }
+}

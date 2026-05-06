@@ -1,0 +1,106 @@
+{
+  "title": "Citrusy Aerated Portuguese Brioche French Toast",
+  "description": "A light and airy breakfast dish from Portugal featuring coconut cream and toasted coconut flakes.",
+  "cuisine": "portuguese",
+  "diet": [
+    "halal",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Coconut cream",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "4",
+      "notes": "room temperature"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Unsalted butter, melted",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "Brioche bread, cut into 1-inch cubes",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "Fresh orange zest",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh orange juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Toasted coconut flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together coconut cream, eggs, granulated sugar, vanilla extract, and salt until smooth.",
+    "Add the melted butter, orange zest, and orange juice to the bowl and whisk until combined.",
+    "Add the brioche bread cubes to the bowl and toss until the bread is evenly coated with the coconut cream mixture.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat oven to 375°F (190°C).",
+    "Line a baking sheet with parchment paper and arrange the bread cubes in a single layer.",
+    "Bake the bread for 15-20 minutes, or until golden brown and puffed.",
+    "While the bread is baking, toast the coconut flakes in a small skillet over medium heat until lightly browned and fragrant.",
+    "Remove the bread from the oven and sprinkle with toasted coconut flakes and fresh mint leaves.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "coconut",
+    "fluffy",
+    "portuguese",
+    "weekend"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 14
+  },
+  "slug": "citrusy-aerated-portuguese-dish-brunch",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-aerated-portuguese-dish-brunch",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:55:44Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "aerated",
+    "mood": "brunch-mood",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "coconut cream",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "portuguese",
+    "mainIngredient": "dish",
+    "descriptor": "citrusy aerated",
+    "dishForm": "brunch"
+  }
+}

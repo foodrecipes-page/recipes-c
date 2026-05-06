@@ -1,0 +1,142 @@
+{
+  "title": "crisp quick-fix german peppers stir-fry",
+  "description": "a buttery, light, quick-fix german dish featuring sweet red peppers, tadka, and ayurvedic-rajasic-friendly spices.",
+  "cuisine": "german",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sweet red peppers",
+      "amount": "2",
+      "notes": "",
+      "quantityUnit": "",
+      "quantityType": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "",
+      "quantityUnit": "",
+      "quantityType": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2",
+      "notes": "",
+      "quantityUnit": "",
+      "quantityType": ""
+    },
+    {
+      "name": "turmeric",
+      "amount": "1",
+      "notes": "",
+      "quantityUnit": "",
+      "quantityType": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1",
+      "notes": "",
+      "quantityUnit": "",
+      "quantityType": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "0",
+      "notes": "",
+      "quantityUnit": "",
+      "quantityType": ""
+    },
+    {
+      "name": "mustard oil",
+      "amount": "2",
+      "notes": "",
+      "quantityUnit": "",
+      "quantityType": ""
+    },
+    {
+      "name": "butter",
+      "amount": "1",
+      "notes": "",
+      "quantityUnit": "",
+      "quantityType": ""
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": "",
+      "quantityUnit": "",
+      "quantityType": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2",
+      "notes": "",
+      "quantityUnit": "",
+      "quantityType": ""
+    },
+    {
+      "name": "ras el hanout",
+      "amount": "1",
+      "notes": "",
+      "quantityUnit": "",
+      "quantityType": ""
+    },
+    {
+      "name": "ghee",
+      "amount": "1",
+      "notes": "",
+      "quantityUnit": "",
+      "quantityType": ""
+    }
+  ],
+  "instructions": [
+    "heat 1 teaspoon of mustard oil in a wok over medium-high heat.",
+    "add sliced onion and saut for 3 minutes until translucent.",
+    "add minced garlic and saut for 1 minute until fragrant.",
+    "add sliced red peppers and saut for 3 minutes until tender.",
+    "add ground turmeric, cumin, and cayenne pepper. stir well to combine.",
+    "add salt and stir well to combine.",
+    "add 1 tablespoon of butter and stir well to combine.",
+    "garnish with chopped cilantro and a sprinkle of ras el hanout.",
+    "serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "low-carb",
+    "one-pan",
+    "quick-fix",
+    "stir-fry",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 26
+  },
+  "slug": "crisp-quick-fix-german-peppers-stir-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-quick-fix-german-peppers-stir-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:55:21Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "light",
+    "mood": "quick-fix",
+    "technique": "tadka",
+    "primaryIngredient": "sweet red peppers",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "peppers",
+    "descriptor": "Crisp Quick-Fix",
+    "dishForm": "Stir-fry"
+  }
+}
