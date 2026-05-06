@@ -1,0 +1,72 @@
+{
+  "title": "Crusty Savory Comte Cheese Wraps",
+  "description": "Malty and juicy savoury wraps featuring low-carb-friendly Comte cheese glaze for a delicious brunch-mood Slovakian dish.",
+  "cuisine": "Slovakian",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Comte Cheese",
+      "amount": 4
+    },
+    {
+      "name": "Bread Wraps",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "Glaze Ingredients (for wraps)",
+      "amount": "To taste"
+    },
+    {
+      "name": "Vegetables for Garnish (optional)",
+      "amount": "As desired"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "Slice Comte cheese and place it in the bread wraps. Press slightly into each wrap.",
+    "Mix glaze ingredients and brush onto wraps evenly, focusing on top layers of cheese where they will be exposed after cooking.",
+    "Place wrapped slices on a baking sheet lined with parchment paper or lightly greased.",
+    "Bake for 15 minutes at 375°F. Check periodically to prevent burning; remove when golden brown but still soft inside (around 20-25 minutes total).",
+    "Let cool for a minute before serving, garnished with fresh vegetables if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "brunch-mood",
+    "comte",
+    "glazed",
+    "low-carb-friendly",
+    "savannah",
+    "savoury"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 40,
+    "carbs": 18,
+    "fat": 36
+  },
+  "slug": "crusty-savory-comte-cheese-wraps",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crusty-savory-comte-cheese-wraps",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T07:07:43Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "glaze",
+    "primaryIngredient": "comte",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Savory",
+    "mainIngredient": "Comte Cheese",
+    "descriptor": "Juicy",
+    "dishForm": "Wraps"
+  }
+}
