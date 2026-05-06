@@ -1,0 +1,83 @@
+{
+  "title": "Chewy Caramelized Dates Indian Custard Rasmalai",
+  "description": "A satvik-friendly date-night dish featuring ancho chillies and caramelized dates in a custard-like rasmalai form, perfect for snacking or as a dessert.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dates",
+      "amount": 8
+    },
+    {
+      "name": "Whole milk",
+      "amount": 200
+    },
+    {
+      "name": "Ghee",
+      "amount": 50
+    },
+    {
+      "name": "Ancho chilis (ground)",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Cardamom powder",
+      "amount": "1/8 tsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Caster sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Flour (besan)",
+      "amount": "50g"
+    }
+  ],
+  "instructions": [
+    "Heat milk and ghee in a pressure cooker until it starts simmering.",
+    "Add dates, ancho chilis, cardamom powder, sugar, caster sugar, and flour. Mix well.",
+    "Let the mixture cook for 15 minutes covered.",
+    "Open the cooker and let it cool slightly before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ancho-chili-friendly",
+    "date-based-custard",
+    "pressure-cooked",
+    "salty-date-night-dish",
+    "satvik"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 5,
+    "carbs": 37,
+    "fat": 10
+  },
+  "slug": "chewy-caramelized-dates-indian-custard-rasmalai",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-caramelized-dates-indian-custard-rasmalai",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T20:36:33Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "chewy",
+    "mood": "date-night",
+    "technique": "pressure-cook",
+    "primaryIngredient": "ancho chillies",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Dates",
+    "descriptor": "Chewy",
+    "dishForm": "Custard Rasmalai"
+  }
+}
