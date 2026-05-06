@@ -1,0 +1,78 @@
+{
+  "title": "Crispy Festive Festive Middle Eastern Cream Cheese Corn-Husk-Wrapped Whipped Cream Pie",
+  "description": "A funky, crispy, festive middle-eastern dish featuring whipping cream, dairy-free-friendly, wrapped in corn husks and baked into a pie. Perfect for any celebration.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Cream Cheese",
+      "amount": 1
+    },
+    {
+      "name": "Whipped Cream",
+      "amount": 2
+    },
+    {
+      "name": "Pickle Relish",
+      "amount": 1
+    },
+    {
+      "name": "Corn Husks",
+      "amount": "as needed"
+    },
+    {
+      "name": "Flour",
+      "amount": 1
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350 degrees F.",
+    "Mix cream cheese and whipped cream together in a bowl until smooth. Add pickle relish and mix well.",
+    "Divide the mixture into small portions for each corn husk wrapper.",
+    "Place a portion of filling onto each corn husk, then fold and wrap with the husk to form a mini pie shape.",
+    "Flatten wrapped pies slightly with your hands to help them rise during baking. Place on a greased baking sheet or tray.",
+    "Sprinkle flour over the tops of the pies to prevent sticking and for an extra crispy texture.",
+    "Bake in preheated oven for 15 minutes, or until golden brown and crisp.",
+    "Serve warm as is, or with a side of your favorite fruit dip for a festive treat."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "corn-husk",
+    "crispy",
+    "dessert",
+    "festive",
+    "funky",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "crispy-festive-festive-middle-eastern-cream-cheese-corn-husk-wrapped-whipped-cre",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-festive-festive-middle-eastern-cream-cheese-corn-husk-wrapped-whipped-cre",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T09:10:50Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crispy",
+    "mood": "festive",
+    "technique": "pickle",
+    "primaryIngredient": "whipping cream",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Festive Middle Eastern",
+    "mainIngredient": "Cream Cheese",
+    "descriptor": "Crispy Festive",
+    "dishForm": "Corn-Husk-Wrapped Whipped Cream Pie"
+  }
+}
