@@ -1,0 +1,78 @@
+{
+  "title": "Crispy Greek Date-Muffin Sandwich",
+  "description": "A grassy and crispy date-night dish featuring English muffins with a touch of bain-marie for added texture and Buddhist temple-friendly ingredients.",
+  "cuisine": "Greek",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "English Muffins",
+      "amount": 4
+    },
+    {
+      "name": "Greek Dates",
+      "amount": 20
+    },
+    {
+      "name": "Almond Meal",
+      "amount": 30
+    },
+    {
+      "name": "Greek Yoghurt",
+      "amount": 150
+    },
+    {
+      "name": "Demerrat Honey (or similar), warmed",
+      "amount": "as needed"
+    },
+    {
+      "name": "Coconut Oil or Avocado Oil for brushing",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "Place dates in a single layer on baking sheet, brush with warm honey and sprinkle with almond meal. Bake until caramelized, about 10-15 minutes.",
+    "Meanwhile, toast English muffins by lightly brushing with oil and placing under broiler for 2 minutes on each side.",
+    "Spoon yogurt over toasted muffin halves.",
+    "Arrange cooked dates in sandwich circles between two slices of toasted muffin. Drizzle with warm honey and gently press to adhere.",
+    "Serve immediately, garnished with fresh mint leaves if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buddhist-friendly",
+    "crispy",
+    "date-night",
+    "dessert",
+    "greek",
+    "snackable"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 8
+  },
+  "slug": "crispy-greek-date-muffin-sandwich",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-greek-date-muffin-sandwich",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T00:09:10Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crisp",
+    "mood": "date-night",
+    "technique": "bain-marie",
+    "primaryIngredient": "english muffins",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "dates",
+    "descriptor": "Crispy",
+    "dishForm": "Sandwich"
+  }
+}
