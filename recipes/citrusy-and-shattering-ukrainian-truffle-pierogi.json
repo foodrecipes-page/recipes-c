@@ -1,0 +1,91 @@
+{
+  "title": "citrusy and shattering Ukrainian truffle pierogi",
+  "description": "Delicate, citrus-infused pierogi filled with truffle oil and served in agave leaves. A low-calorie twist on a traditional Ukrainian dish.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dough ingredients",
+      "amount": "2 cups all-purpose flour",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup water",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2 eggs",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp salt",
+      "notes": ""
+    },
+    {
+      "name": "citron zest",
+      "amount": "2 tsp citron zest",
+      "notes": ""
+    },
+    {
+      "name": "truffle oil",
+      "amount": "2 tbsp truffle oil",
+      "notes": ""
+    },
+    {
+      "name": "agave leaves",
+      "amount": "1 agave leaf per serving",
+      "notes": "large, fresh agave leaves"
+    }
+  ],
+  "instructions": [
+    "Combine flour, water, eggs, and salt to form a dough. Let it rest for 30 minutes.",
+    "Divide the dough into 12 equal pieces. Roll each piece into a thin circle.",
+    "Place a small spoonful of truffle oil in the center of each circle. Fold the dough over the filling to form a half-moon shape, and press the edges together to seal the pierogi.",
+    "Bring a large pot of salted water to a boil. Cook the pierogi for 3-5 minutes, or until they float to the surface.",
+    "Remove the pierogi from the water with a slotted spoon and serve in agave leaves.",
+    "Drizzle with additional truffle oil and garnish with citron zest if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "low-calorie",
+    "truffle",
+    "ukrainian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "citrusy-and-shattering-ukrainian-truffle-pierogi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-and-shattering-ukrainian-truffle-pierogi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:04:52Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "shattering",
+    "mood": "show-off",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "truffle oil",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "truffle",
+    "descriptor": "citrusy and shattering",
+    "dishForm": "Pierogi"
+  }
+}

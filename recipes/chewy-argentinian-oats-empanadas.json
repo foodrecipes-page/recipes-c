@@ -1,0 +1,116 @@
+{
+  "title": "chewy argentinian oats empanadas",
+  "description": "Fermented, chewy, festive argentinian dish featuring rolled oats, brine-wet, pescatarian-friendly. Perfect for breakfast or snack ",
+  "cuisine": "argentinian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "2 cups",
+      "notes": "preferably old-fashioned or steel-cut"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ancho chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": " Rapid Rise or equivalent"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": "approximately 105°F (40°C) to 115°F (46°C) "
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "caramelized onion",
+      "amount": "1/2 cup",
+      "notes": "see Caramelized Onion recipe "
+    },
+    {
+      "name": "fresh oregano",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine oats, yeast, and warm water in a large mixing bowl. Mix well until smooth, then let sit in a warm place for 1 hour or until slightly effervescent.",
+    "Add ancho chili powder, salt, black pepper, and olive oil to the bowl. Mix until combined.",
+    "Stir in caramelized onion, fresh oregano, and egg. Mix until a cohesive dough forms.",
+    "Knead the dough for 5-7 minutes on a lightly floured surface until it reaches a smooth, pliable consistency.",
+    "Divide the dough into 8-10 equal pieces. Roll each piece into a ball, then flatten slightly into a disk shape.",
+    "Place a tablespoon of filling in the center of each disk. Fold the dough in half to enclose the filling, then press edges together to seal the empanada.",
+    "Heat a large skillet over medium heat, then add 1-2 tablespoons of water to the pan. Cook the empanadas for 4-5 minutes on each side, or until they're golden brown and crispy.",
+    "Serve warm, garnished with additional fresh oregano if desired.",
+    "Caramelize onion in a skillet over low heat for 20-25 minutes or until dark golden brown and fragrant. Let cool before using in empanada filling.",
+    "For a flaky, crispy crust, preheat the oven to 375°F (190°C). Bake the empanadas for 10-12 minutes, or until golden brown and crispy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "breakfast",
+    "chewy",
+    "empanadas",
+    "fermented",
+    "homemade",
+    "oats"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 72,
+    "fat": 16
+  },
+  "slug": "chewy-argentinian-oats-empanadas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-argentinian-oats-empanadas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:04:45Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "festive",
+    "technique": "brine-wet",
+    "primaryIngredient": "rolled oats",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "oats",
+    "descriptor": "chewy",
+    "dishForm": "Empanadas"
+  }
+}

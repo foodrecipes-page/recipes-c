@@ -1,0 +1,117 @@
+{
+  "title": "Charred Chewy Kenyan Gouda Cheese Tagine",
+  "description": "A spicy, smoky, and savory Kenyan-inspired dish featuring charred, chewy Gouda cheese, ideal for a weeknight high-protein meal. The earthy flavor of the ttukbaegi-earthenware-cook pot adds depth to the rich cheese and spices.",
+  "cuisine": "kenyan",
+  "diet": [
+    "gluten-free",
+    "high-protein",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gouda Cheese",
+      "amount": "12 oz",
+      "notes": "block or wheel form, with a natural rind"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Dried Lemon Peel",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Prepare the ttukbaegi-earthenware-cook pot by applying a thin layer of olive oil to the interior.",
+    "Slice the onion into 1-inch pieces and layer them at the bottom of the pot.",
+    "Add the garlic, ginger, cumin, coriander, cayenne pepper, salt, and black pepper on top of the onion, mixing to combine."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese",
+    "gouda",
+    "high-protein",
+    "kenyan",
+    "one-pan",
+    "tagine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 456,
+    "protein": 35,
+    "carbs": 24,
+    "fat": 30
+  },
+  "slug": "charred-chewy-kenyan-gouda-cheese-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-chewy-kenyan-gouda-cheese-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:04:53Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "chewy",
+    "mood": "weeknight",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "gouda cheese",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Gouda cheese",
+    "descriptor": "Charred, chewy",
+    "dishForm": "Tagine"
+  }
+}
