@@ -1,0 +1,91 @@
+{
+  "title": "Crispy Funky Midnight-Craving Boudin-Blanc Wrap",
+  "description": "A tender and midnight-craving Uruguayan dish featuring boudin-blanc with a touch of yuzu-cure for an Ayurvedic-sattvic-friendly twist.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Boudin Blanc",
+      "amount": 100,
+      "notes": "preferably aged and fermented"
+    },
+    {
+      "name": "Yuzu Cure",
+      "amount": 50
+    },
+    {
+      "name": "Avocado Oil",
+      "amount": 200
+    },
+    {
+      "name": "Olive Oil",
+      "amount": 200
+    },
+    {
+      "name": "Salt",
+      "amount": 30,
+      "notes": "kosher or sea salt"
+    },
+    {
+      "name": "Pepper",
+      "amount": 15,
+      "notes": "grated black pepper"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": 75
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": 4,
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Mix yuzu cure and garlic in a bowl.",
+    "Add Boudin Blanc to the curing mix and stir well.",
+    "Place the mixture on a baking sheet lined with parchment paper.",
+    "Preheat oven to 200°C (392°F). Bake for 15 minutes.",
+    "Reduce heat to 180°C (356°F) and bake for another 45 minutes or until desired crunchiness is achieved.",
+    "Prepare wrap by drizzling with a combination of avocado oil and olive oil.",
+    "Roll up Boudin Blanc in the prepared wrap, ensuring all sides are coated evenly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-sattvic-friendly",
+    "boudin-blanc",
+    "funky",
+    "midnight-craving",
+    "uruguayan",
+    "yuzu-cure"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 40
+  },
+  "slug": "crispy-funky-midnight-craving-boudin-blanc-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-funky-midnight-craving-boudin-blanc-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T23:19:05Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "tender",
+    "mood": "midnight-craving",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "boudin-blanc",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Funky",
+    "mainIngredient": "Boudin-Blanc",
+    "descriptor": "Midnight-Craving",
+    "dishForm": "Wrap"
+  }
+}
