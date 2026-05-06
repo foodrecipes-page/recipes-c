@@ -1,0 +1,110 @@
+{
+  "title": "caramel drizzled ukrainian cookies cobbler",
+  "description": "a sweet, crumbly ukrainian dessert featuring a rich caramel sauce, a hint of dashi-extract, and a crunchy cookie topping. perfect for a sick-day treat.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "saltine crackers",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "light brown sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "flaxseed",
+      "amount": "2 tablespoons",
+      "notes": "for egg substitute"
+    },
+    {
+      "name": "dashi-extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "baking soda",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "caramel sauce",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 375°f (190°c).",
+    "in a medium bowl, crush the saltine crackers into fine crumbs.",
+    "in a large bowl, cream together the butter and sugars until light and fluffy.",
+    "add the flaxseed and mix until well combined.",
+    "add the dashi-extract and vanilla extract and mix until smooth.",
+    "add the flour and baking soda and mix until a dough forms.",
+    "press the dough into the bottom of a 9x13 inch baking dish.",
+    "drizzle the caramel sauce over the dough.",
+    "bake for 25 minutes or until the edges are lightly golden brown.",
+    "remove from the oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cobbler",
+    "dessert",
+    "gluten-free",
+    "ukrainian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "caramel-drizzled-ukrainian-cookies-cobbler",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/caramel-drizzled-ukrainian-cookies-cobbler",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:58:24Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "dashi-extract",
+    "primaryIngredient": "caramel sauce",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "cookies",
+    "descriptor": "caramel drizzled",
+    "dishForm": "Cobbler"
+  }
+}

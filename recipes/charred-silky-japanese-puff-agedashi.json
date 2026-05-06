@@ -1,0 +1,107 @@
+{
+  "title": "Charred Silky Japanese Puff Agedashi",
+  "description": "A quick-fix Japanese dish featuring Thai red curry paste, lamination puff, and a halal-friendly twist. Agedashi is a popular Japanese street food that's perfect for a weeknight dinner.",
+  "cuisine": "Japanese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamination Puff Pastry (Halal-Friendly)",
+      "amount": "1 package (300g)"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Soy Sauce (Halal-Friendly)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup (chopped)"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon (grated)"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon (optional)"
+    },
+    {
+      "name": "Kombu Dashi Powder (Halal-Friendly)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Pork or Chicken Broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a deep frying pan or a deep fryer to 375°F (190°C).",
+    "Cut the lamination puff pastry into small squares, about 2 inches (5 cm) per side.",
+    "Cook the puff pastry squares in batches until golden brown, about 2-3 minutes per side.",
+    "Drain the fried pastry on paper towels.",
+    "In a small bowl, mix together the Thai red curry paste, soy sauce, sesame oil, and kombu dashi powder.",
+    "Heat the curry paste mixture in a small saucepan over medium heat.",
+    "Add the green onions and ginger to the curry paste mixture and cook for 1 minute.",
+    "Pour the hot broth over the fried puff pastry squares.",
+    "Add the curry paste mixture and sesame seeds (if using) to the puff pastry.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately and enjoy!",
+    "Note: For an extra crispy bottom, you can pan-fry the puff pastry for 1-2 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "japanese",
+    "one-pan",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 22
+  },
+  "slug": "charred-silky-japanese-puff-agedashi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-silky-japanese-puff-agedashi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:58:26Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "silky",
+    "mood": "quick-fix",
+    "technique": "lamination-puff",
+    "primaryIngredient": "thai red curry paste",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "puff",
+    "descriptor": "charred silky",
+    "dishForm": "Agedashi"
+  }
+}
