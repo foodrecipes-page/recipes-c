@@ -1,0 +1,112 @@
+{
+  "title": "crispy spicy dutch almonds hash",
+  "description": "a delicious and healthy breakfast or snack option made with almond butter and infused oil. served on a talavera plate, this dish is perfect for meal prep and is diabetic-friendly.",
+  "cuisine": "dutch",
+  "diet": [
+    "vegetarian",
+    "low-carb"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "almond butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "infused oil (e.g. chili pepper)",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "sliced almonds",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "0.25 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large skillet over medium-high heat.",
+    "add the sliced almonds and cook, stirring occasionally, for 4 minutes or until lightly browned.",
+    "add the onion, garlic, and bell pepper and cook, stirring occasionally, for 4 minutes or until the vegetables are tender.",
+    "add the almond butter, infused oil, salt, black pepper, and cayenne pepper and stir until well combined.",
+    "cook for an additional 1 minute, stirring constantly.",
+    "scoop the mixture onto a talavera plate and sprinkle with chopped parsley if desired.",
+    "serve warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 9,
+  "totalTimeMin": 24,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "high-protein",
+    "one-pan",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "crispy-spicy-dutch-almonds-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-spicy-dutch-almonds-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:46:50Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crispy",
+    "mood": "meal-prep",
+    "technique": "infuse-oil",
+    "primaryIngredient": "almond butter",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "almonds",
+    "descriptor": "Crispy Spicy",
+    "dishForm": "Hash"
+  }
+}
