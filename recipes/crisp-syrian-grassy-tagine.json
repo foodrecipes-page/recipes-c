@@ -1,0 +1,112 @@
+{
+  "title": "crisp syrian grassy tagine",
+  "description": "A comforting and dairy-free-friendly Syrian dish featuring the unique combination of dark chocolate and grassy herbs, served with a crispy crust.",
+  "cuisine": "syrian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups",
+      "notes": ""
+    },
+    {
+      "name": "dark chocolate chips (at least 70% cocoa)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh rosemary leaves",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh thyme leaves",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "for topping"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, yeast, salt, and sugar.",
+    "In a separate bowl, whisk together water and olive oil.",
+    "Add the wet ingredients to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Punch down the dough and shape it into a round or oblong shape.",
+    "Place the dough on a baking sheet lined with parchment paper, brush with olive oil, and sprinkle with sesame seeds.",
+    "Bake the crust for 20-25 minutes until it's golden brown and crispy.",
+    "While the crust is baking, melt the dark chocolate chips in a double boiler or in a microwave-safe bowl in 30-second increments, stirring between each interval until smooth.",
+    "Once the crust is done, remove it from the oven and let it cool for 5 minutes.",
+    "Spread the melted chocolate over the crust, leaving a 1-inch border around the edges.",
+    "Sprinkle the fresh rosemary and thyme leaves over the chocolate.",
+    "Let the tagine cool completely before serving."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 25,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate-dessert",
+    "dairy-free",
+    "high-calorie",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1080,
+    "protein": 10,
+    "carbs": 180,
+    "fat": 54
+  },
+  "slug": "crisp-syrian-grassy-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-syrian-grassy-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:00:15Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crisp",
+    "mood": "comforting",
+    "technique": "temper",
+    "primaryIngredient": "dark chocolate",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "grassy",
+    "descriptor": "crisp",
+    "dishForm": "Tagine"
+  }
+}
