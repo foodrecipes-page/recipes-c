@@ -1,0 +1,109 @@
+{
+  "title": "Creamy Caramelized Italian Eggplant Cacio E Pepe Paccheri",
+  "description": "A Tuscan-inspired brunch dish featuring dark, sweet caramelized eggplant, soft brown sugar, and a smoky twist on the classic Cacio E Pepe.",
+  "cuisine": "Tuscan",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Paccheri",
+      "amount": "12 oz"
+    },
+    {
+      "name": "Eggplant",
+      "amount": "2 large",
+      "notes": "cubed"
+    },
+    {
+      "name": "Dark brown sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Pecorino Romano cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Caramelized eggplant syrup",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cook the Paccheri in a large pot of boiling salted water until al dente. Reserve 1 cup of pasta water and then drain the Paccheri.",
+    "In a large copper pot, heat the olive oil over medium heat. Add the cubed eggplant and cook until caramelized, stirring occasionally. This will take about 20-25 minutes.",
+    "Add the smoked paprika, garlic, salt, and black pepper to the eggplant and stir to combine.",
+    "Add the Parmesan and Pecorino Romano cheese to the eggplant mixture and stir until melted and creamy.",
+    "Add the cooked Paccheri to the eggplant mixture and toss to combine, adding some reserved pasta water if the mixture seems dry.",
+    "Transfer the Paccheri to a serving dish and top with additional Parmesan cheese and chopped parsley. Drizzle with caramelized eggplant syrup.",
+    "Serve immediately, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "brunch",
+    "cacio-e-pepe",
+    "eggsplant",
+    "italian",
+    "smoked-paprika",
+    "tuscan"
+  ],
+  "nutrition": {
+    "calories": 544,
+    "protein": 23,
+    "carbs": 64,
+    "fat": 27
+  },
+  "slug": "creamy-caramelized-italian-eggplant-cacio-e-pepe-paccheri",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-caramelized-italian-eggplant-cacio-e-pepe-paccheri",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:49:03Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "shaggy",
+    "mood": "brunch-mood",
+    "technique": "smoke",
+    "primaryIngredient": "dark soft brown sugar",
+    "diet": "fodmap",
+    "region": "tuscan",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "eggplant",
+    "descriptor": "Creamy Caramelized",
+    "dishForm": "Cacio E Pepe Paccheri"
+  }
+}
