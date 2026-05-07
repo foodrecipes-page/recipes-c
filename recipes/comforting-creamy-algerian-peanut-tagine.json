@@ -1,0 +1,108 @@
+{
+  "title": "Comforting Creamy Algerian Peanut Tagine",
+  "description": "A salty, fluffy, and comforting Algerian dish featuring peanut butter and tadka, perfect for a sick day, and low-carb-friendly.",
+  "cuisine": "Algerian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "peanut butter",
+      "amount": "2 tablespoons",
+      "notes": "creamy"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "ghee or oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken breast or thighs",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee or oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the ground cumin, coriander, cayenne pepper, salt, and black pepper, and cook for 1 minute, stirring constantly.",
+    "Add the chicken to the pot and cook until browned on all sides, about 5-7 minutes.",
+    "Add the chicken broth and peanut butter to the pot, stirring to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to low and cook, covered, for 20-25 minutes, or until the chicken is cooked through and the sauce has thickened.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "low-carb",
+    "north-african",
+    "one-pot",
+    "peanut-butter"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "comforting-creamy-algerian-peanut-tagine",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/comforting-creamy-algerian-peanut-tagine",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-07T21:09:30Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "fluffy",
+    "mood": "sick-day",
+    "technique": "tadka",
+    "primaryIngredient": "peanut butter",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "peanuts",
+    "descriptor": "Comforting Creamy",
+    "dishForm": "Tagine"
+  }
+}
