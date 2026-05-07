@@ -1,0 +1,125 @@
+{
+  "title": "crispy roasted ukrainian fish fry",
+  "description": "a pescatarian-friendly dish featuring a crispy outside and a creamy interior, inspired by ukrainian cuisine.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "pescatarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillet",
+      "amount": "400g",
+      "notes": ""
+    },
+    {
+      "name": "fajita seasoning",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "4 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "enough for grill",
+      "notes": ""
+    },
+    {
+      "name": "baby potatoes",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "for brushing",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the grill to 400\t30c (200\u000f) on the binchotan charcoal.",
+    "brush the cod fillet with olive oil and season with fajita seasoning, salt and black pepper.",
+    "place the cod fillet on the grill and cook for 4 minutes per side.",
+    "meanwhile, slice the onion and garlic and saut\u000639 in butter until softened.",
+    "add the lemon juice and plain yogurt to the onion and garlic mixture and stir to combine.",
+    "add the chopped fresh dill to the onion and garlic mixture and stir to combine.",
+    "once the cod is cooked, place it on a plate and top with the onion and garlic mixture.",
+    "serve the cod with baby potatoes on the side, garnished with additional fresh dill if desired.",
+    "serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-dinner",
+    "high-protein",
+    "one-pan",
+    "pescatarian",
+    "ukrainian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 64,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "crispy-roasted-ukrainian-fish-fried",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-roasted-ukrainian-fish-fried",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:23:07Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "creamy",
+    "mood": "crowd-pleaser",
+    "technique": "fry",
+    "primaryIngredient": "fajita seasoning",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "fish",
+    "descriptor": "crispy roasted",
+    "dishForm": "Fried"
+  }
+}
