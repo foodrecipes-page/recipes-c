@@ -1,0 +1,88 @@
+{
+  "title": "Crispy Peri-Papas",
+  "description": "This crispy stuffed papa rellena is inspired by the traditional dish of Peru and packed with dates for a unique twist on a plant-based snack.",
+  "cuisine": "Peruvian",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Dates",
+      "amount": 8,
+      "notes": "pitted"
+    },
+    {
+      "name": "Tofu",
+      "amount": "250g",
+      "notes": "crumbled and seasoned with spices"
+    },
+    {
+      "name": "Corn Flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Almond Milk",
+      "amount": "8 fl oz"
+    },
+    {
+      "name": "Water",
+      "amount": "4 fl oz"
+    },
+    {
+      "name": "Papayas",
+      "amount": "2",
+      "notes": "canned or fresh, seeded and diced"
+    },
+    {
+      "name": "Flax Meal",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Combine dates, tofu, corn flour, almond milk, water, papayas, flax meal in a blender.",
+    "Blend until smooth and creamy. Add seasonings to taste.",
+    "Divide the mixture into 4 equal parts.",
+    "Wrap each part in a corn husk, leaving a small opening for steam release.",
+    "Place wrapped papa rellenas on a steaming rack over simmering water. Steam for 20 minutes at 100°C (212°F).",
+    "After cooking, remove from heat and let cool slightly before unwrapping to serve."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 60,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canned-papayas",
+    "cornhusk-wrap",
+    "date-filled",
+    "peruvian",
+    "plant-based",
+    "snack",
+    "stuffed-papas"
+  ],
+  "nutrition": {
+    "calories": 275,
+    "protein": 13,
+    "carbs": 40,
+    "fat": 6
+  },
+  "slug": "crispy-peri-papas",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-peri-papas",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T18:33:06Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "flaky",
+    "mood": "cozy",
+    "technique": "pressure-cook",
+    "primaryIngredient": "pitted dates",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Dates",
+    "descriptor": "Crispy Peri-",
+    "dishForm": "Papa-Rellena Corn-Husk-Wrapped"
+  }
+}
