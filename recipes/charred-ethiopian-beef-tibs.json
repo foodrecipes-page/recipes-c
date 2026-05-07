@@ -1,0 +1,92 @@
+{
+  "title": "Charred Ethiopian Beef Tibs",
+  "description": "A traditional Ethiopian dish made with charred beef, onions, and spices, perfect for a post-workout meal due to its high protein content and low glycemic index.",
+  "cuisine": "Ethiopian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "such as ribeye or sirloin, cut into thin strips"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 teaspoons",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 teaspoons",
+      "notes": "Ethiopian chili powder"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "such as canola or grapeseed"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "low-fat or full-fat, as desired"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "such as fleur de sel or kosher salt"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet or wok over high heat, then add the vegetable oil and swirl it around to coat the pan.",
+    "Add the beef strips and cook for 2-3 minutes on each side, or until charred and cooked to your desired level of doneness.",
+    "Remove the beef from the pan and set it aside, then add the sliced onion and cook for 3-4 minutes, or until it starts to caramelize.",
+    "Add the minced garlic and grated ginger to the pan and cook for 1 minute, or until fragrant."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "ethiopian",
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "charred-ethiopian-beef-tibs",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-ethiopian-beef-tibs",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:25:59Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "springy",
+    "mood": "post-workout",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "cream",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "beef",
+    "descriptor": "charred",
+    "dishForm": "Tibs"
+  }
+}

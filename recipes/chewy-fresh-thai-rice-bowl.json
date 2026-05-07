@@ -1,0 +1,131 @@
+{
+  "title": "Chewy Fresh Thai Rice Bowl",
+  "description": "A fresh, chewy Thai dish featuring hot chilli powder for added flavor. Perfect for meal prep, this recipe is egg-free-friendly and easy to make.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Thai Jasmine Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Hot Chilli Powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Green Chilli",
+      "amount": "1-2",
+      "notes": "sliced (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of vegetable oil in a large skillet over medium-high heat.",
+    "Add minced garlic and ginger and sauté for 1 minute.",
+    "Add sliced mushrooms, bell peppers, and onion. Cook until the vegetables are tender.",
+    "Stir in hot chilli powder, fish sauce, soy sauce, and lime juice.",
+    "Add cooked Thai Jasmine Rice to the skillet and stir-fry for 2-3 minutes.",
+    "Taste and adjust the seasoning with salt and black pepper.",
+    "Transfer the rice mixture to a serving bowl and garnish with chopped cilantro and sliced green chilli (if using).",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-fiber",
+    "one-pan",
+    "vegan-option"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "chewy-fresh-thai-rice-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-fresh-thai-rice-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:26:11Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "chewy",
+    "mood": "meal-prep",
+    "technique": "temper",
+    "primaryIngredient": "hot chilli powder",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Rice",
+    "descriptor": "Chewy Fresh",
+    "dishForm": "Bowl"
+  }
+}

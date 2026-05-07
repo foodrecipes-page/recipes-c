@@ -1,0 +1,100 @@
+{
+  "title": "citrusy light turkish pineapple bowl",
+  "description": "a refreshing and citrusy light turkish dish featuring pineapple and dashi extract served in an agave leaf.",
+  "cuisine": "turkish",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "pineapple chunks",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "agave nectar",
+      "amount": "1 tbsp",
+      "notes": "for sweetening the pineapple chunks"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "1 tsp",
+      "notes": "available at most japanese grocery stores or online"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "orange juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "ginger syrup",
+      "amount": "1 tsp",
+      "notes": "optional, for added spice"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "pinch",
+      "notes": "to taste"
+    },
+    {
+      "name": "sliced almonds",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "4-6",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "in a small bowl, whisk together agave nectar, dashi extract, lemon juice, and orange juice until well combined.",
+    "in a separate bowl, mix together pineapple chunks and ginger syrup (if using).",
+    "arrange the pineapple chunks in the center of the agave leaf, spooning some of the citrus mixture over the top.",
+    "sprinkle a pinch of kosher salt over the pineapple and garnish with sliced almonds and fresh mint leaves.",
+    "place the agave leaf on a serving plate and garnish with additional mint leaves, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "dessert",
+    "koshersnack",
+    "pineapple",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 3
+  },
+  "slug": "citrusy-light-turkish-pineapple-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-light-turkish-pineapple-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:26:15Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "glassy-jelly",
+    "mood": "light",
+    "technique": "dashi-extract",
+    "primaryIngredient": "pineapple",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Pineapple",
+    "descriptor": "Citrusy Light",
+    "dishForm": "Bowl"
+  }
+}
