@@ -1,0 +1,83 @@
+{
+  "title": "Floral Tender Carnaroli Rice Pilaf",
+  "description": "This post-workout Malaysian dish combines tender carnaroli rice with a creamy sauce for a light and flavorful meal.",
+  "cuisine": "Malaysian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup Carnaroli Rice",
+      "amount": "cup"
+    },
+    {
+      "name": "2 cups Water or Chicken Stock",
+      "amount": ""
+    },
+    {
+      "name": "3 tablespoons Olive Oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1/4 cup Fresh Chives, Finely Chopped",
+      "amount": ""
+    },
+    {
+      "name": "Pinch Salt",
+      "amount": ""
+    },
+    {
+      "name": "Pinch Black Pepper",
+      "amount": ""
+    },
+    {
+      "name": "2 tablespoons Butter",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1/4 cup Heavy Cream",
+      "amount": "cup"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a saucepan over medium heat.",
+    "Add rice and stir for about 2 minutes until the grains begin to lightly color.",
+    "Gradually add water or chicken stock, stirring occasionally to prevent sticking.",
+    "Lower heat to low, cover, and simmer until all liquid is absorbed (about 15-20 minutes).",
+    "Stir in chives, salt, pepper, butter, and cream. Simmer for another 2-3 minutes until thickened.",
+    "Remove from heat and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian-friendly",
+    "malaysian-floral",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 203,
+    "protein": 6,
+    "carbs": 25,
+    "fat": 8
+  },
+  "slug": "creamy-tender-carnaroli-rice-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-tender-carnaroli-rice-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T02:34:40Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "tender",
+    "mood": "post-workout",
+    "technique": "braise",
+    "primaryIngredient": "carnaroli-rice",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Fragrant",
+    "mainIngredient": "Carnaroli-Rice",
+    "descriptor": "Tender",
+    "dishForm": "Pilaf"
+  }
+}
