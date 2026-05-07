@@ -1,0 +1,105 @@
+{
+  "title": "Citrusy Chewy Quick-Fix Zambian Beef Shin Pilaf",
+  "description": "A keto-friendly and quick-fix dish featuring beef shin, fermented vegetables, and a citrusy sauce for a savory yet chewy texture.",
+  "cuisine": "jamaican",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef shin",
+      "amount": 250
+    },
+    {
+      "name": "fermented vegetables",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3"
+    },
+    {
+      "name": "orange zest",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ginger root",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "oil",
+      "amount": "3 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350 degrees F.",
+    "Sauté onion and garlic in oil until translucent, about 2 minutes.",
+    "Add orange zest and ginger root, cook for an additional minute.",
+    "Crush the fermented vegetables and mix with tomato paste, juice, salt, and pepper. Stir into the pan.",
+    "Transfer mixture to a baking dish, top with beef shin, cover with foil.",
+    "Bake for 25 minutes, then uncover and bake for another 10-15 minutes until the beef is cooked through and the sauce has thickened.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-shin",
+    "citrusy",
+    "fermented-vegetables",
+    "keto",
+    "quick-fix",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 32,
+    "carbs": 16,
+    "fat": 28
+  },
+  "slug": "citrusy-chewy-quick-fix-zambian-beef-shin-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-chewy-quick-fix-zambian-beef-shin-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T17:11:26Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "chewy",
+    "mood": "quick-fix",
+    "technique": "ferment",
+    "primaryIngredient": "beef shin",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Zambian",
+    "mainIngredient": "Beef Shin",
+    "descriptor": "Citrusy Chewy Quick-Fix",
+    "dishForm": "Pilaf"
+  }
+}
