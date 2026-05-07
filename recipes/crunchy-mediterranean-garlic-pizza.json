@@ -1,0 +1,110 @@
+{
+  "title": "Crunchy Mediterranean Garlic Pizza",
+  "description": "A winey, crunchy, crowd-pleaser mediterranean dish featuring ginger garlic paste, lardons-render, low-fat-friendly. Perfect for weeknights or special occasions",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pizza dough",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Ginger garlic paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lardons",
+      "amount": "6 oz",
+      "notes": ""
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "4 oz",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Crushed red pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Basil",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).\nPre-bake the pizza dough for 5 minutes.\nSpread the ginger garlic paste evenly over the pre-baked dough.\nBake the lardons in a skillet over medium heat until crispy.\nSprinkle the mozzarella cheese and feta cheese over the dough.\nAdd the baked lardons and sprinkle with parsley.\nDrizzle with olive oil and season with salt, black pepper, crushed red pepper, and garlic powder.\nBake the pizza in the oven for 15-20 minutes or until the crust is golden brown and the cheese is melted.\nLet the pizza cool for 5 minutes before slicing and serving.\nGarnish with fresh basil before serving.\n"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "garlic",
+    "low-fat",
+    "mediterranean",
+    "one-pan",
+    "pizza",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "crunchy-mediterranean-garlic-pizza",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-mediterranean-garlic-pizza",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:31:40Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crunchy",
+    "mood": "crowd-pleaser",
+    "technique": "lardons-render",
+    "primaryIngredient": "ginger garlic paste",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "garlic",
+    "descriptor": "crunchy",
+    "dishForm": "Pizza"
+  }
+}

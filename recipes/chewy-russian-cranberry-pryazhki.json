@@ -1,0 +1,68 @@
+{
+  "title": "Cranberry Pryazhki",
+  "description": "A traditional Russian bread filled with a sweet and tangy cranberry filling.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Cranberry filling",
+      "amount": "250g",
+      "notes": "Homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Combine warm milk, sugar, yeast, and a pinch of salt in a bowl. Let it sit for 5 minutes until frothy.",
+    "Add flour, egg, and melted butter to the bowl. Mix until a dough forms.",
+    "Knead the dough for 10 minutes until smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat oven to 180°C.",
+    "Punch down the dough and shape it into a round loaf. Place it on a baking sheet lined with parchment paper.",
+    "Bake for 25 minutes until golden brown.",
+    "Let the bread cool for 10 minutes before slicing.",
+    "Combine cranberry filling ingredients in a bowl and stir until well combined.",
+    "Spread the cranberry filling on the cooled bread, leaving a 1-inch border around the edges.",
+    "Cut the bread into 8 equal pieces.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 25,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "bread",
+    "breakfast",
+    "easy-to-make",
+    "gluten-free",
+    "rusian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "chewy-russian-cranberry-pryazhki",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-russian-cranberry-pryazhki",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:31:44Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "chewy",
+    "mood": "light",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "cranberry",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "cranberry",
+    "descriptor": "chewy",
+    "dishForm": "Pryazhki"
+  }
+}
