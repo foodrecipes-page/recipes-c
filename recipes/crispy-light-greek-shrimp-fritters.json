@@ -1,0 +1,98 @@
+{
+  "title": "Crispy Light Greek Shrimp Fritters",
+  "description": "Sweet, pillowy, light Greek dish featuring shrimp stock, perfect for a quick snack or dessert.",
+  "cuisine": "Greek",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Shrimp Stock",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Zest of 1 Lemon",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chopped Fresh Dill",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Egg Whites",
+      "amount": "2"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Basil",
+      "amount": "chopped (optional)"
+    },
+    {
+      "name": "Paprika",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Combine shrimp stock, Greek yogurt, feta cheese, lemon zest, and chopped fresh dill in a bowl. Mix well until a smooth batter forms. Add breadcrumbs, egg whites, salt, basil (if using), and paprika. Mix until just combined. Do not overmix. The batter should still be slightly lumpy.",
+    "Heat about 2-3 inches of vegetable oil in a deep frying pan over medium-high heat until it reaches 350°F.",
+    "Using a spoon, drop small balls of the shrimp fritter batter into the hot oil, being careful not to overcrowd the pan.",
+    "Fry the shrimp fritters for about 3-4 minutes on each side, or until they turn golden brown and crispy. Adjust the heat as needed to prevent burning.",
+    "Using a slotted spoon, remove the fried shrimp fritters from the oil and place them on a paper towel-lined plate to drain any excess oil.",
+    "Serve the crispy shrimp fritters warm with a side of your favorite dipping sauce, such as a tzatziki sauce or a simple lemon sauce.",
+    "Optional: Garnish with additional chopped fresh dill and a sprinkle of paprika.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 6,
+  "totalTimeMin": 21,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "easy-snack",
+    "grilled-fish-sides",
+    "high-protein",
+    "quick-snap",
+    "summer-sides"
+  ],
+  "nutrition": {
+    "calories": 128,
+    "protein": 18,
+    "carbs": 6,
+    "fat": 4
+  },
+  "slug": "crispy-light-greek-shrimp-fritters",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-light-greek-shrimp-fritters",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:19:48Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "pillowy",
+    "mood": "light",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "shrimp stock",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "shrimp",
+    "descriptor": "crispy light",
+    "dishForm": "fritters"
+  }
+}
