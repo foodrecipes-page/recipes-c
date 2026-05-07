@@ -1,0 +1,84 @@
+{
+  "title": "Charred Crumbly Meat Banh Mi Kazan Cauldron",
+  "description": "A kid-friendly Vietnamese dish featuring shredded meat, brine-dried in a Kazan cauldron for added smokiness and crunch.",
+  "cuisine": "Vietnamese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": 200
+    },
+    {
+      "name": "soy sauce",
+      "amount": 150
+    },
+    {
+      "name": "cooking oil",
+      "amount": 200
+    },
+    {
+      "name": "garlic cloves",
+      "amount": 6
+    },
+    {
+      "name": "lemon zest",
+      "amount": "to taste"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": 150
+    },
+    {
+      "name": "brown sugar",
+      "amount": 20
+    },
+    {
+      "name": "rice paper wraps",
+      "amount": 6
+    }
+  ],
+  "instructions": [
+    "Mix soy sauce, cooking oil, garlic, lemon zest, rice vinegar, and brown sugar in a large bowl.",
+    "Add shredded beef to the mixture and mix thoroughly. Marinate for at least 2 hours.",
+    "Heat Kazan cauldron over medium-high heat.",
+    "Pour marinated beef into the hot Kazan cauldron and cook for about 10 minutes, or until meat is charred and crumbly.",
+    "Remove from heat and let cool slightly.",
+    "Wrap cooled charred meat in rice paper for a satisfying bite."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "banh-mi",
+    "charred",
+    "crumbly",
+    "kid-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 28,
+    "carbs": 18,
+    "fat": 16
+  },
+  "slug": "charred-crumbly-meat-banh-mi-kazan-cauldron",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-crumbly-meat-banh-mi-kazan-cauldron",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T15:26:28Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crumbly",
+    "mood": "kid-friendly",
+    "technique": "brine-dry",
+    "primaryIngredient": "shredded meat",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Meat",
+    "descriptor": "Charred Crumbly",
+    "dishForm": "Banh Mi Kazan Cauldron"
+  }
+}
