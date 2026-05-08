@@ -1,0 +1,96 @@
+{
+  "title": "Comforting Creamy Malaysian Chicken Curry",
+  "description": "A cultured and light Malaysian dish featuring pancetta and soffritto-base, perfect for a comforting meal. This recipe is gluten-free friendly.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "pancetta",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat and cook the pancetta until crispy.",
+    "Remove the pancetta from the pan and set aside.",
+    "Add the chopped onion to the pan and cook until translucent.",
+    "Add the minced garlic and grated ginger to the pan and cook for 1 minute.",
+    "Add the chicken to the pan and cook until browned on all sides.",
+    "Add the curry powder to the pan and cook for 1 minute.",
+    "Add the coconut milk and chicken broth to the pan and bring to a simmer.",
+    "Reduce the heat to low and let the curry simmer for 20 minutes.",
+    "Stir in the cooked pancetta and season with salt and pepper to taste.",
+    "Serve the curry hot over rice or noodles."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "malaysian-cuisine",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 26
+  },
+  "slug": "comforting-creamy-malaysian-chicken-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/comforting-creamy-malaysian-chicken-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:33:22Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "light",
+    "mood": "comforting",
+    "technique": "soffritto-base",
+    "primaryIngredient": "pancetta",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "Comforting Creamy",
+    "dishForm": "Curry"
+  }
+}
