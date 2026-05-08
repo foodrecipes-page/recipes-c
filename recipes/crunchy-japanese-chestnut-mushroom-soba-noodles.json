@@ -1,0 +1,97 @@
+{
+  "title": "Crunchy Japanese Chestnut Mushroom Soba Noodles",
+  "description": "A pungent and crunchy Japanese dish featuring chestnut mushroom and infused oil, perfect for a romantic dinner",
+  "cuisine": "Japanese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "soba noodles",
+      "amount": "8 oz",
+      "notes": "preferably buckwheat"
+    },
+    {
+      "name": "chestnut mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "infused oil",
+      "amount": "2 tbsp",
+      "notes": "with garlic and ginger"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the soba noodles according to the package instructions",
+    "In a large skillet, heat the infused oil over medium heat and saute the sliced chestnut mushrooms until they are tender and lightly browned",
+    "In a small bowl, whisk together the soy sauce and sesame oil",
+    "Add the cooked soba noodles to the skillet with the mushrooms and pour the soy sauce mixture over the top",
+    "Toss the noodles and mushrooms to combine and cook for an additional 2 minutes",
+    "Sprinkle the sesame seeds and chopped scallions over the top of the noodles and mushrooms",
+    "Season with salt and pepper to taste",
+    "Serve the noodles hot and enjoy"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese-cuisine",
+    "mushroom-recipes",
+    "noodle-dishes",
+    "pescatarian-friendly",
+    "romantic-dinners"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "crunchy-japanese-chestnut-mushroom-soba-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-japanese-chestnut-mushroom-soba-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:25:37Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crunchy",
+    "mood": "romantic",
+    "technique": "infuse-oil",
+    "primaryIngredient": "chestnut mushroom",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "chestnut mushroom",
+    "descriptor": "crunchy creamy",
+    "dishForm": "Soba Noodles"
+  }
+}
