@@ -1,0 +1,124 @@
+{
+  "title": "crunchy german potato bowl",
+  "description": "fermented, crunchy, midnight-craving german dish featuring apple cider vinegar, stone-bowl dolsot. a twist on classic potato bowls, with a tangy fermented slaw and crispy potatoes.",
+  "cuisine": "german",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "1.5 kg",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "120 ml",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "3 g",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1.5 g",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "30 ml",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar fermented slaw (see below)",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "60g",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "dolsot stone bowl",
+      "amount": "1",
+      "notes": "available at most asian grocery stores"
+    }
+  ],
+  "instructions": [
+    "preheat the dolsot stone bowl in a toaster oven at 220°C (425°F) for at least 30 minutes before cooking.",
+    "peel the potatoes and cut them into 1-inch cubes, making sure they are all roughly the same size.",
+    "in a large bowl, mix together the apple cider vinegar, sugar, caraway seeds, salt, and black pepper.",
+    "add the cubed potatoes to the bowl and toss to coat with the vinegar mixture.",
+    "heat 2 tbsp of olive oil in a large skillet over medium heat.",
+    "add the onion and carrots to the skillet and cook, stirring occasionally, until they are caramelized and crispy, about 30 minutes.",
+    "remove the skillet from the heat and stir in the apple cider vinegar fermented slaw.",
+    "to assemble the bowls, place some of the potato mixture on the bottom of the dolsot stone bowl, followed by a spoonful of the onion and carrot mixture, and ending with a dollop of sour cream and a sprinkle of fresh parsley.",
+    "serve immediately and enjoy!",
+    "to make the apple cider vinegar fermented slaw, simply mix 200g of shredded cabbage with 120ml of apple cider vinegar and let it sit at room temperature for at least 2 hours, or until it reaches your desired level of fermentation."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 30,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "fermented",
+    "german",
+    "one-pan",
+    "veggie-friendly"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "crunchy-german-potato-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-german-potato-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T08:03:20Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crunchy",
+    "mood": "midnight-craving",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "apple cider vinegar",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "potato",
+    "descriptor": "crunchy",
+    "dishForm": "Bowl"
+  }
+}

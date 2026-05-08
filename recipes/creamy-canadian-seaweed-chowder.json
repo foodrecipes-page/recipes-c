@@ -1,0 +1,109 @@
+{
+  "title": "Creamy Canadian Seaweed Chowder",
+  "description": "A hearty, earthy, and juicy Canadian dish featuring dasima-kombu seaweed, perfect for a lazy Sunday, with an al-dente finish and jain-friendly ingredients.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "jain"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dasima-kombu seaweed",
+      "amount": "2 cups dried",
+      "notes": "rehydrated"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "diced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Rehydrate the dasima-kombu seaweed according to package instructions and set aside.",
+    "In a large pot, saute the onion, garlic, carrot, and celery in a little bit of water until the vegetables are tender.",
+    "Add the diced potato, rehydrated seaweed, and vegetable broth to the pot, and bring to a boil.",
+    "Reduce the heat and let simmer for 20 minutes or until the potato is al-dente.",
+    "Use an immersion blender to puree the soup until it is slightly smooth.",
+    "Stir in the coconut cream and let heat through.",
+    "Season with salt and black pepper to taste, if desired.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "comfort-food",
+    "jain-friendly",
+    "lazy-sunday",
+    "one-pot",
+    "seaweed-based"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "creamy-canadian-seaweed-chowder",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-canadian-seaweed-chowder",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:03:43Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "juicy",
+    "mood": "lazy-sunday",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "dasima-kombu",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "seaweed",
+    "descriptor": "comforting creamy",
+    "dishForm": "Chowder"
+  }
+}
