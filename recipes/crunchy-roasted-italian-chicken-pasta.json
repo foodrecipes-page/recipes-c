@@ -1,0 +1,93 @@
+{
+  "title": "Crunchy Roasted Italian Chicken Pasta",
+  "description": "A springy weeknight Italian dish featuring roasted chicken and pasta, with a unique twist of Marmite flavor, made easy with air fryer and dash-friendly ingredients.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free",
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 ounces",
+      "notes": "penne or fusilli work well"
+    },
+    {
+      "name": "Marmite",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 400 degrees Fahrenheit.",
+    "Toss the chicken with olive oil, garlic powder, salt, and black pepper, and cook in the air fryer for 10 minutes.",
+    "Cook the pasta according to package instructions until al dente.",
+    "In a large bowl, combine cooked pasta, roasted chicken, and Marmite, and toss to combine.",
+    "Sprinkle grated Parmesan cheese on top and serve hot.",
+    "Garnish with chopped fresh parsley or basil, if desired.",
+    "Serve immediately and enjoy.",
+    "Refrigerate or freeze leftovers for up to 3 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken-recipes",
+    "easy-meals",
+    "italian-food",
+    "one-pan",
+    "pasta-dishes",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "crunchy-roasted-italian-chicken-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-roasted-italian-chicken-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:30:20Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "springy",
+    "mood": "weeknight",
+    "technique": "air-fry",
+    "primaryIngredient": "marmite",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "chicken",
+    "descriptor": "Crunchy Roasted",
+    "dishForm": "Pasta"
+  }
+}
