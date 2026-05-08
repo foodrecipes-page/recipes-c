@@ -1,0 +1,89 @@
+{
+  "title": "Comforting Crunchy Italian Almond Panforte",
+  "description": "A traditional Italian dessert featuring coriander seeds and almonds, with a crunchy texture and comforting flavor, made keto-friendly by using almond flour and sweetened with sugar-free honey.",
+  "cuisine": "Italian",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "2 cups",
+      "notes": "finely ground"
+    },
+    {
+      "name": "sugar-free honey",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "almonds",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, combine the almond flour, coriander seeds, and sliced almonds.",
+    "In a separate bowl, whisk together the sugar-free honey, coconut oil, eggs, and vanilla extract until well emulsified.",
+    "Add the wet ingredients to the dry ingredients and mix until a dough forms.",
+    "Press the dough into a 9-inch round pan lined with parchment paper.",
+    "Bake for 25 minutes or until the edges are lightly golden.",
+    "Remove from the oven and let cool completely before slicing and serving.",
+    "To enhance the crunch, bake the panforte for an additional 5 minutes after slicing."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "almond-based",
+    "comfort-food",
+    "crunchy-texture",
+    "gluten-free",
+    "italian-dessert",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 28
+  },
+  "slug": "comforting-crunchy-italian-almond-panforte",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/comforting-crunchy-italian-almond-panforte",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:57:31Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "shattering",
+    "mood": "comforting",
+    "technique": "emulsify",
+    "primaryIngredient": "coriander seeds",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "almonds",
+    "descriptor": "Comforting Crunchy",
+    "dishForm": "Panforte"
+  }
+}
