@@ -1,0 +1,111 @@
+{
+  "title": "Creamy Smoky Moroccan Lamb Tagine",
+  "description": "A rich and flavorful Moroccan dish featuring tender lamb, smoky spices, and a creamy sauce, all slow-cooked to perfection in a traditional ttukbaegi earthenware pot. This kosher-friendly recipe is perfect for a special occasion or a cozy night in.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "garlic bulb",
+      "amount": "1 whole",
+      "notes": "broken into individual cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the ttukbaegi earthenware pot over medium heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the garlic cloves, smoked paprika, cumin, coriander, and cayenne pepper, and cook for 1 minute, stirring constantly.",
+    "Add the chicken broth, heavy cream, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to low and cook, covered, for 2 1/2 hours, or until the lamb is tender.",
+    "Remove the pot from the heat and let it cool slightly.",
+    "Stir in the chopped parsley and serve the tagine hot, garnished with additional parsley if desired.",
+    "Traditionally, the tagine is served with crusty bread or over couscous, but it can also be served with rice or roasted vegetables.",
+    "Leftovers can be refrigerated for up to 3 days or frozen for up to 2 months."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "kosher",
+    "lamb",
+    "moroccan",
+    "one-pot",
+    "slow-cooker",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "creamy-smoky-moroccan-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-smoky-moroccan-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:42:27Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "molten",
+    "mood": "meal-prep",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "garlic bulb",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "Creamy Smoky",
+    "dishForm": "Tagine"
+  }
+}
