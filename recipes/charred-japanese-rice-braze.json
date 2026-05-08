@@ -1,0 +1,102 @@
+{
+  "title": "Charred Japanese Rice Braise",
+  "description": "A hearty, kid-friendly dish featuring charred Japanese rice, inspired by Okinawan cuisine. Use of vanilla pod adds a subtle depth of flavor.",
+  "cuisine": "Japanese",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Japanese Rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla Pod",
+      "amount": "1",
+      "notes": "split lengthwise"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sushi Vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 teaspoon",
+      "notes": "for browning rice"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a cast-iron pot over medium-high heat.",
+    "Add Japanese rice and cook until lightly browned, stirring occasionally.",
+    "Add water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 18 minutes, or until water is absorbed.",
+    "In a small bowl, whisk together soy sauce, sushi vinegar, and sugar.",
+    "Remove rice from heat and stir in soy sauce mixture, vanilla pod, ginger, and green onions.",
+    "Cover pot and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 23,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "kid-friendly",
+    "oklahoma",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 8,
+    "carbs": 120,
+    "fat": 8
+  },
+  "slug": "charred-japanese-rice-braze",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-japanese-rice-braze",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:38:31Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "chewy",
+    "mood": "kid-friendly",
+    "technique": "braise",
+    "primaryIngredient": "vanilla pod",
+    "diet": "macrobiotic",
+    "region": "okinawa",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Rice",
+    "descriptor": "charred",
+    "dishForm": "Braze"
+  }
+}

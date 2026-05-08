@@ -1,0 +1,103 @@
+{
+  "title": "Charred Tunisian Cookies Patisserie",
+  "description": "A diabetic-friendly Tunisian dish featuring peanut cookies, tadka, and a velvety charred texture.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "diabetic",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "peanut cookies",
+      "amount": "12 pieces",
+      "notes": ""
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon peanut oil in a large skillet over medium-high heat.",
+    "Add cumin seeds and cook for 1 minute, until fragrant.",
+    "Add coriander powder and cook for 1 minute, until fragrant.",
+    "Add garlic and ginger and cook for 1 minute, until fragrant.",
+    "Add peanut cookies and cook for 2-3 minutes, until lightly charred.",
+    "Add heavy cream and stir to combine.",
+    "Bring the mixture to a simmer and cook for 5-7 minutes, until thickened.",
+    "Season with salt and black pepper to taste.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "diabetic-friendly",
+    "tunisian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 22
+  },
+  "slug": "charred-tunisian-cookies-patisserie",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-tunisian-cookies-patisserie",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:38:43Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "velvety",
+    "mood": "weeknight",
+    "technique": "tadka",
+    "primaryIngredient": "peanut cookies",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "cookies",
+    "descriptor": "charred",
+    "dishForm": "Patisserie"
+  }
+}
