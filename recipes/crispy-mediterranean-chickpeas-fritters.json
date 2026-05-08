@@ -1,0 +1,107 @@
+{
+  "title": "Crispy Mediterranean Chickpeas Fritters",
+  "description": "A spicy and fluffy Mediterranean dish featuring yellow food colouring, these fritters are a nostalgic treat that combines the best of Ayurvedic and Rajasic friendly ingredients, perfect for a snack or light meal.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 cup",
+      "notes": "canned, drained, and rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "yellow food colouring",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mash the chickpeas using a fork or a potato masher until they are mostly smooth.",
+    "Add the chopped onion, minced garlic, yellow food colouring, cumin, paprika, salt, and black pepper to the bowl and mix well.",
+    "Gradually add the flour to the bowl and mix until a thick batter forms.",
+    "Add the lemon juice to the bowl and mix until the batter is smooth and fluffy.",
+    "Heat about 2-3 inches of oil in a deep frying pan over medium-high heat until it reaches 350 degrees Fahrenheit.",
+    "Using a spoon, drop small balls of the batter into the hot oil, about 1/4 cupfuls.",
+    "Fry the fritters for about 3-4 minutes on each side, until they are golden brown and crispy.",
+    "Remove the fritters from the oil with a slotted spoon and drain on paper towels.",
+    "Serve the fritters hot and enjoy.",
+    "Repeat the frying process with the remaining batter.",
+    "Serve the fritters with your favorite dipping sauce or chutney."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "mediterranean",
+    "one-pan",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "crispy-mediterranean-chickpeas-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-mediterranean-chickpeas-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:17:08Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "fluffy",
+    "mood": "nostalgic",
+    "technique": "fry",
+    "primaryIngredient": "yellow food colouring",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Crispy Creamy",
+    "dishForm": "Fritters"
+  }
+}
