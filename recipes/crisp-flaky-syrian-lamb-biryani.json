@@ -1,0 +1,105 @@
+{
+  "title": "crisp flaky syrian lamb biryani",
+  "description": "a flavorful and aromatic syrian dish made with lamb, rice, and a touch of cultured creme fraiche, finished with a crispy flaky crust.",
+  "cuisine": "syrian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cultured creme fraiche",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "for egg wash"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 400 f (200 c).",
+    "in a large bowl, combine lamb shoulder, onion, garlic, curry powder, salt, and black pepper. mix well.",
+    "heat ghee in a large skillet over medium heat. add lamb mixture and cook until browned, about 5 minutes.",
+    "in a large saucepan, combine basmati rice and 2 cups of water. bring to a boil, then reduce heat to low and cover.",
+    "once rice is cooked, fluff with a fork and stir in cultured creme fraiche.",
+    "to make the egg wash, beat eggs with a fork in a small bowl.",
+    "to assemble the biryani, place a layer of cooked rice in the bottom of a 9x13 inch baking dish. top with a layer of lamb mixture, followed by a layer of flaky dough (see notes). repeat this process until all ingredients are used, finishing with a layer of rice on top.",
+    "brush the top of the biryani with egg wash and sprinkle with chopped fresh parsley.",
+    "bake in the preheated oven for 25-30 minutes, or until the top is golden brown and crispy.",
+    "remove from the oven and let rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "easy-meal-prep",
+    "flaky-crust",
+    "lamb-dishes",
+    "one-pan-dishes",
+    "rice-biryani",
+    "syrian-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 34,
+    "fat": 34
+  },
+  "slug": "crisp-flaky-syrian-lamb-biryani",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-flaky-syrian-lamb-biryani",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:09:29Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "flaky",
+    "mood": "meal-prep",
+    "technique": "spherify",
+    "primaryIngredient": "cultured-creme-fraiche",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Lamb",
+    "descriptor": "Crisp Flaky",
+    "dishForm": "Biryani"
+  }
+}
