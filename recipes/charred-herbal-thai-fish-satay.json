@@ -1,0 +1,131 @@
+{
+  "title": "Charred Herbal Thai Fish Satay",
+  "description": "Charred, shaggy, cozy Thai (Isaan) dish featuring brown sugar, deglaze, pescatarian-friendly. Perfect for slate-tile cooking.",
+  "cuisine": "Thai",
+  "diet": [
+    "pescatarian",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "500g firm white fish (such as cod or tilapia)",
+      "amount": "1 piece",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons brown sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons fish sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon grated fresh ginger",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon Thai red curry paste",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon vegetable oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "20g fresh Thai basil leaves",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "40g fresh cilantro leaves",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "20g chopped peanuts",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon honey",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons chopped fresh mint leaves",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a slate-tile grill to medium-high heat, about 200°C (400°F).",
+    "Thread 500g of firm white fish onto skewers, leaving a little space between each piece.",
+    "Brush the fish with 2 tablespoons of vegetable oil and season with salt and pepper.",
+    "Grill the fish for 2-3 minutes per side, or until charred and cooked through.",
+    "Meanwhile, mix together 2 tablespoons of brown sugar, 2 tablespoons of fish sauce, 2 cloves of minced garlic, 1 tablespoon of grated fresh ginger, and 1 tablespoon of Thai red curry paste in a small bowl.",
+    "Once the fish is cooked, brush the glaze all over the fish while it's still on the grill.",
+    "Transfer the fish to a plate and garnish with 20g of fresh Thai basil leaves, 40g of fresh cilantro leaves, 20g of chopped peanuts, and 2 tablespoons of chopped fresh mint leaves.",
+    "Serve immediately, with additional lime wedges and honey on the side if desired.",
+    "Let the fish rest for 5 minutes before slicing into thin strips and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easyentree",
+    "glutenfree",
+    "grill",
+    "herbs",
+    "pescatarian",
+    "thaifood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 18,
+    "fat": 10
+  },
+  "slug": "charred-herbal-thai-fish-satay",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-herbal-thai-fish-satay",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:25:27Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "shaggy",
+    "mood": "cozy",
+    "technique": "deglaze",
+    "primaryIngredient": "brown sugar",
+    "diet": "pescatarian",
+    "region": "isaan",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Fish",
+    "descriptor": "Charred Herbal",
+    "dishForm": "Satay"
+  }
+}
