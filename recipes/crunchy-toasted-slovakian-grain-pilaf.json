@@ -1,0 +1,96 @@
+{
+  "title": "Crunchy Toasted Slovakian Grain Pilaf",
+  "description": "A traditional Slovakian dish with a buttery, crunchy texture made with mixed grain, mortar-pestle-pounded, and cooked in a scallop shell.",
+  "cuisine": "slovakian",
+  "diet": [
+    "macrobiotic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pearled Barley",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Buckwheat Groats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Kamut",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a mortar, pound the garlic and onion with a pestle until well combined.",
+    "Heat the butter in the scallop shell over medium heat.",
+    "Add the pounded garlic and onion mixture and cook for 1 minute.",
+    "Add the pearled barley, buckwheat groats, and Kamut. Cook for 2 minutes, stirring frequently.",
+    "Add 2 cups of water and bring to a boil. Reduce heat to low and simmer for 20 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grain-pilaf",
+    "one-pan",
+    "slovakian",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 15,
+    "carbs": 90,
+    "fat": 20
+  },
+  "slug": "crunchy-toasted-slovakian-grain-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-toasted-slovakian-grain-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:31:12Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crunchy",
+    "mood": "nostalgic",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "mixed grain",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "grain",
+    "descriptor": "crunchy toasted",
+    "dishForm": "Pilaf"
+  }
+}
