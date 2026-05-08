@@ -1,0 +1,100 @@
+{
+  "title": "Crunchy Italian Onion Calzone",
+  "description": "A midnight craving Italian dish featuring onion rings and Mediterranean friendly ingredients, this calzone is a funky twist on traditional Italian cuisine. It is a shaggy, satisfying meal that is perfect for a late night snack.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pizza dough",
+      "amount": "1 pound",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "onion rings",
+      "amount": "1 cup",
+      "notes": "breaded and fried"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1/2 cup",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "Roll out the pizza dough to a thickness of about 1/4 inch.",
+    "Spread the tomato sauce over the center of the dough, leaving a 1 inch border around the edges.",
+    "Top the sauce with the mozzarella cheese, onion rings, garlic, salt, and pepper.",
+    "Fold the dough over the filling to form a half circle shape, pressing the edges to seal.",
+    "Brush the top of the calzone with olive oil and sprinkle with chopped basil.",
+    "Place the calzone on a baking sheet and bake for 15-20 minutes, or until the crust is golden brown.",
+    "Remove the calzone from the oven and let it cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "calzone",
+    "italian-food",
+    "mediterranean",
+    "onion-rings",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 45,
+    "fat": 20
+  },
+  "slug": "crunchy-italian-onion-calzone",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-italian-onion-calzone",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:27:09Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "shaggy",
+    "mood": "midnight-craving",
+    "technique": "poach",
+    "primaryIngredient": "onion rings",
+    "diet": "mediterranean",
+    "region": "puglian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "onion",
+    "descriptor": "Crunchy",
+    "dishForm": "Calzone"
+  }
+}
