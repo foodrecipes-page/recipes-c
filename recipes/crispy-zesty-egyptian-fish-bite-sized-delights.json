@@ -1,0 +1,111 @@
+{
+  "title": "Crispy Zesty Egyptian Fish Bite-Sized Delights",
+  "description": "A citrusy and crispy Egyptian dish featuring bite-sized fish pieces coated with a light cornstarch mixture and spherified for a fun and unique texture.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "gluten-free",
+    "fodmap-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "300g",
+      "notes": "fresh and sustainable"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "75g",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "50g",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Orange juice",
+      "amount": "25g",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "5g",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Salt",
+      "amount": "5g",
+      "notes": "unrefined"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "2g",
+      "notes": "unrefined"
+    },
+    {
+      "name": "Vinegar (apple cider or white wine)",
+      "amount": "25g",
+      "notes": "for spherification"
+    },
+    {
+      "name": "Water",
+      "amount": "50g",
+      "notes": "for spherification"
+    },
+    {
+      "name": "Ghee or vegetable oil",
+      "amount": "20g",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Cut the cod fillets into small bite-sized pieces and season with salt and black pepper.",
+    "In a shallow dish, mix together the cornstarch, lemon juice, orange juice, garlic powder, and a pinch of salt.",
+    "Dip each piece of cod into the cornstarch mixture, coating it evenly.",
+    "Heat the ghee or vegetable oil in a deep frying pan over medium-high heat.",
+    "Carefully place the coated cod pieces into the hot oil and fry until golden brown and crispy, about 3-4 minutes.",
+    "Using a slotted spoon, remove the fried cod from the oil and place it on a paper towel-lined plate to drain excess oil.",
+    "To spherify the vinegar and water mixture, combine it in a small saucepan with 1g of sodium alginate and heat it over low heat, stirring constantly, until the mixture thickens and forms a gel-like consistency.",
+    "Using a spoon or piping bag, drop small amounts of the spherified mixture into a bath of cold water to form small balls.",
+    "Once the balls have formed, remove them from the water and place them on a plate or tray.",
+    "To assemble the dish, place a few pieces of fried cod on a serving plate and top with a few spherified balls.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "european",
+    "gluten-free",
+    "seafood",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "slug": "crispy-zesty-egyptian-fish-bite-sized-delights",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-zesty-egyptian-fish-bite-sized-delights",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T10:00:40Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "spherify",
+    "primaryIngredient": "cornstarch",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Fish",
+    "descriptor": "Crispy Zesty",
+    "dishForm": "Bite-Sized Delights"
+  }
+}
