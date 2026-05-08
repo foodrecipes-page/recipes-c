@@ -1,0 +1,102 @@
+{
+  "title": "Crisp Citrusy Japanese Crustaceans Yakitori Skewers",
+  "description": "A tangy and bouncy Japanese dish featuring crustaceans, ferment kimchi, and a citrusy twist, perfect for crowds, this egg-free friendly yakitori is cooked to perfection in a paella pan.",
+  "cuisine": "Japanese",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "scallops",
+      "amount": "1/2 pound",
+      "notes": "rinsed and patted dry"
+    },
+    {
+      "name": "kimchi",
+      "amount": "1 cup",
+      "notes": "fermented Korean chili-fermented cabbage"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "yakitori sauce",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the paella pan over medium-high heat, adding sesame oil to coat the bottom.",
+    "Thread the shrimp and scallops onto yakitori skewers, leaving a small space between each piece.",
+    "In a small bowl, whisk together lemon juice, soy sauce, brown sugar, garlic, and ginger to make the citrusy glaze.",
+    "Brush the glaze onto the crustaceans, then cook the skewers in the paella pan for 2-3 minutes per side, until pink and cooked through.",
+    "Add the kimchi to the paella pan, stirring to combine with the crustaceans and glaze.",
+    "Cook for an additional 2 minutes, until the kimchi is heated through and starting to caramelize.",
+    "Brush the yakitori sauce onto the skewers during the last minute of cooking.",
+    "Remove the skewers from the paella pan and serve immediately, garnished with additional kimchi and citrus wedges if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "high-protein",
+    "japanese-cuisine",
+    "one-pan",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "crisp-citrusy-japanese-crustaceans-yakitori-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-citrusy-japanese-crustaceans-yakitori-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:54:03Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "bouncy-qq",
+    "mood": "crowd-pleaser",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "crustaceans",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "crustaceans",
+    "descriptor": "Crisp Citrusy",
+    "dishForm": "Yakitori Skewers"
+  }
+}
