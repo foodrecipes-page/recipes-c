@@ -1,0 +1,91 @@
+{
+  "title": "Comforting Ukrainian Bread Pilaf",
+  "description": "A sweet and dense one-pot Ukrainian dish featuring bread flour, perfect for a cold winter night. This low-sodium-friendly recipe is sure to become a favorite.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bread flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large saucepan, combine the bread flour, water, milk, and unsalted butter, and stir until a shaggy dough forms.",
+    "Add the egg, granulated sugar, active dry yeast, and salt to the saucepan, and stir until the dough comes together in a ball.",
+    "Knead the dough on a floured surface for 5 minutes, until it becomes smooth and elastic.",
+    "Return the dough to the saucepan, cover it with a lid, and let it rise in a warm place for 30 minutes.",
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "Punch down the dough, and shape it into a round loaf.",
+    "Place the loaf in the saucepan, cover it with a lid, and bake for 25 minutes.",
+    "Remove the lid, and continue baking for an additional 10 minutes, until the bread is golden brown.",
+    "Remove the saucepan from the oven, and let the bread cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "homemade-bread",
+    "low-sodium",
+    "one-pot",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "comforting-ukrainian-bread-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/comforting-ukrainian-bread-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:11:53Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "cure",
+    "primaryIngredient": "bread flour",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "bread",
+    "descriptor": "compact dense",
+    "dishForm": "Pilaf"
+  }
+}
