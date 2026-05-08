@@ -1,0 +1,99 @@
+{
+  "title": "Crispy Chinese Pineapple Skewers",
+  "description": "A buttery and flaky Chinese dish featuring a mix of fruit, perfect for crowds and grill lovers, with no onions or garlic. This dish is a crowd pleaser and can be served as a snack or dessert.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "no onion",
+    "no garlic"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pineapple chunks",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "peach chunks",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "kiwi chunks",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "flaky pastry dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium heat.",
+    "Thread the fruit chunks onto skewers.",
+    "Roll out the flaky pastry dough to a thickness of about 1/8 inch.",
+    "Cut the pastry dough into strips about 1 inch wide.",
+    "Wrap each skewer with a strip of pastry dough, brushing with melted butter.",
+    "Brush the tops of the pastry with the beaten egg.",
+    "Sprinkle the tops with sugar and salt.",
+    "Grill the skewers for about 5 minutes on each side, or until the pastry is golden brown.",
+    "Serve the skewers hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "fruit-based",
+    "grilled",
+    "no-garlic",
+    "no-onion",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "crispy-chinese-pineapple-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-chinese-pineapple-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:31:27Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "flaky",
+    "mood": "crowd-pleaser",
+    "technique": "grill",
+    "primaryIngredient": "fruit mix",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pineapple",
+    "descriptor": "Buttery Crispy",
+    "dishForm": "Skewers"
+  }
+}
