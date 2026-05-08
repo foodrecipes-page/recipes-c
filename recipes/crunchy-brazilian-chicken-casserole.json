@@ -1,0 +1,99 @@
+{
+  "title": "Crunchy Brazilian Chicken Casserole",
+  "description": "A kid-friendly Brazilian dish featuring little gem lettuce and a crunchy topping, cooked to perfection in a clay pot. This flexitarian-friendly recipe is perfect for a weeknight dinner.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "little gem lettuce",
+      "amount": "2 heads",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "crushed crackers",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat and cook the chopped onion until softened.",
+    "Add the minced garlic and cook for an additional minute.",
+    "In a large bowl, combine the cooked onion and garlic, chopped little gem lettuce, and cut chicken breast.",
+    "In a separate bowl, mix the crushed crackers and grated cheddar cheese.",
+    "In a clay pot, create a layer of the chicken and lettuce mixture, followed by a layer of the cracker and cheese mixture.",
+    "Repeat the layers until all ingredients are used, ending with a layer of the cracker and cheese mixture on top.",
+    "Cover the clay pot with a lid and bake for 30 minutes.",
+    "Remove the lid and continue baking for an additional 15 minutes, or until the top is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "casserole",
+    "flexitarian",
+    "kid-friendly",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "crunchy-brazilian-chicken-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-brazilian-chicken-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:03:53Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "flaky",
+    "mood": "kid-friendly",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "little gem lettuce",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "crunchy flaky",
+    "dishForm": "Casserole"
+  }
+}
