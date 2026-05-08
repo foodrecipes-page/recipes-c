@@ -1,0 +1,73 @@
+{
+  "title": "Charred Shattering Croatian Mincemeat Tagine",
+  "description": "A hearty, paleo-friendly solo dinner featuring charred mincemeat and a hint of cure. Perfect for a weeknight dinner.",
+  "cuisine": "croatian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "lamb fat",
+      "amount": "2 tablespoons",
+      "notes": "rendered to prevent burning"
+    }
+  ],
+  "instructions": [
+    "Preheat a ceramic tagine over medium heat.",
+    "Sear the ground pork in the rendered lamb fat until browned, breaking it up with a spoon as it cooks.",
+    "Add a pinch of cure to the mincemeat and stir to combine.",
+    "Chop 2 cloves of garlic and add them to the tagine, stirring to prevent burning.",
+    "Add 250ml of stock to the tagine and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 30 minutes.",
+    "While the tagine simmers, prepare a bed of mixed greens.",
+    "To assemble the dish, place a portion of the mixed greens in the bottom of a bowl and top with a portion of the charred mincemeat.",
+    "Garnish with a sprig of parsley and serve immediately.",
+    "Reheat the tagine over medium heat, stirring occasionally, until the mincemeat is heated through.",
+    "Serve hot, garnished with a sprinkle of paprika.",
+    "Chop a handful of parsley and stir it into the remaining mincemeat.",
+    "Spoon the parsley and mincemeat mixture into the bottom of the tagine and smooth the top.",
+    "Brush the lid of the tagine with a little lamb fat and replace the lid.",
+    "Place the tagine over medium heat and simmer, covered, for 10 minutes, or until the meat is heated through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 60,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "charred-shattering-croatian-mincemeat-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-shattering-croatian-mincemeat-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:53:40Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "shattering",
+    "mood": "solo-dinner",
+    "technique": "cure",
+    "primaryIngredient": "mincemeat",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "mincemeat",
+    "descriptor": "charred, shattering",
+    "dishForm": "Tagine"
+  }
+}

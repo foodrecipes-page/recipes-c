@@ -1,0 +1,98 @@
+{
+  "title": "Crunchy Australian Fish Pilaf",
+  "description": "A crispy, flavorful pilaf made with Australian native spices, featuring scallops served in their shells.",
+  "cuisine": "Australian",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Australian Sardines in Oil",
+      "amount": "2 cans (120g each)",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "uncooked long-grain rice"
+    },
+    {
+      "name": "Scallop shells",
+      "amount": "12",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted, softened"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "flaky sea salt"
+    },
+    {
+      "name": "Celery Salt",
+      "amount": "0.5 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "0.25 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped",
+      "notes": "optional for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Heat butter in a saucepan over medium heat. Add chopped Australian sardines and cook, stirring occasionally, until fragrant and lightly browned, 4 minutes.",
+    "Add uncooked rice to the saucepan and cook, stirring occasionally, 1-2 minutes until lightly toasted.",
+    "Transfer the saucepan contents to a baking dish and add scallop shells. Cover with aluminum foil and bake in the preheated oven, 15 minutes.",
+    "Remove foil and continue baking, 5-7 minutes, or until rice is tender and golden brown.",
+    "Season with flaky sea salt, celery salt, and black pepper to taste. Garnish with chopped fresh parsley, if desired.",
+    "Transfer pilaf to scallop shells and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 22,
+  "totalTimeMin": 27,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "easy-dinner",
+    "fish",
+    "one-pan",
+    "pilaf",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 48,
+    "carbs": 80,
+    "fat": 28
+  },
+  "slug": "crunchy-australian-fish-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-australian-fish-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:53:33Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crunchy",
+    "mood": "show-off",
+    "technique": "boil",
+    "primaryIngredient": "celery salt",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Fish",
+    "descriptor": "Intensely Yeasty Crunchy",
+    "dishForm": "Pilaf"
+  }
+}

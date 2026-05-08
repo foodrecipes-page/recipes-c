@@ -1,0 +1,102 @@
+{
+  "title": "Crispy Caramelized Mediterranean Thai Eggplant Flatbread",
+  "description": "A solo dinner Mediterranean dish featuring Thai eggplant makhua with a jammy and flaky texture, this flatbread combines the flavors of the Mediterranean with the wok-hei of Thai cuisine, making it a dash-friendly meal option.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Thai eggplant",
+      "amount": "2 medium",
+      "notes": "makhua variety"
+    },
+    {
+      "name": "flatbread",
+      "amount": "1 large",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "Slice the Thai eggplant into 1/2 inch thick rounds and brush with olive oil.",
+    "Season the eggplant with salt and black pepper, then roast in the oven for 20 minutes.",
+    "Meanwhile, heat a wok or large skillet over high heat and add a small amount of oil.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly.",
+    "Add the roasted eggplant to the wok and stir-fry for 2 minutes.",
+    "Brush the flatbread with olive oil and top with the eggplant mixture, crumbly feta cheese, and chopped parsley.",
+    "Drizzle with lemon juice and season with salt and black pepper.",
+    "Bake the flatbread in the oven for 10 minutes, or until crispy and golden brown.",
+    "Remove from the oven and let cool for 2 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "mediterranean-cuisine",
+    "one-pan",
+    "thai-inspired",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "crispy-caramelized-mediterranean-thai-eggplant-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-caramelized-mediterranean-thai-eggplant-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T07:54:01Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "flaky",
+    "mood": "solo-dinner",
+    "technique": "wok-hei",
+    "primaryIngredient": "thai-eggplant-makhua",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "thai eggplant",
+    "descriptor": "Crispy caramelized",
+    "dishForm": "Flatbread"
+  }
+}

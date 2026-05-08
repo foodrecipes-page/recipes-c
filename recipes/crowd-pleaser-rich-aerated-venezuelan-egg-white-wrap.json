@@ -1,0 +1,55 @@
+{
+  "title": "venezuelan aerated egg white wrap",
+  "description": "a crowd-pleasing venezuelan dish made with steamed egg whites wrapped in a leafy green, served on a robata grill. this vegetarian-friendly recipe combines the richness of egg whites with the simplicity of fresh vegetables.",
+  "cuisine": "venezuelan",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large egg whites",
+      "amount": "6",
+      "notes": "room temperature"
+    }
+  ],
+  "instructions": [
+    "whisk egg whites in a mixing bowl until frothy.",
+    "add a pinch of salt and continue whisking until soft peaks form.",
+    "heat a robata grill to medium-high heat.",
+    "place a large collard green leaf on the grill, with the stem facing up."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "latin-inspired",
+    "vegan-option"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 36,
+    "carbs": 0,
+    "fat": 0
+  },
+  "slug": "crowd-pleaser-rich-aerated-venezuelan-egg-white-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crowd-pleaser-rich-aerated-venezuelan-egg-white-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:53:36Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "aerated",
+    "mood": "crowd-pleaser",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "egg white",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "venezuelan",
+    "mainIngredient": "egg white",
+    "descriptor": "crowd-pleaser, rich, aerated",
+    "dishForm": "Wrap"
+  }
+}
