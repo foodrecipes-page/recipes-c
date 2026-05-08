@@ -1,0 +1,93 @@
+{
+  "title": "Crispy Ukrainian Jam N Ib Rico Fried-Rice",
+  "description": "A delicious, crispy fried-rice dish from Ukraine featuring jam n ib rico, perfect for a lazy Sunday",
+  "cuisine": "ukrainian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "uncooked basmati rice",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "canned jam n ib rico",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium-high heat.",
+    "Add the chopped parsley and cook until wilted, about 1 minute.",
+    "Add the egg and scramble until cooked through, breaking up into small pieces.",
+    "Add the cooked rice to the skillet and stir-fry for 2-3 minutes, breaking up any clumps.",
+    "Add the jam n ib rico, salt, and pepper, and stir-fry for an additional 2 minutes.",
+    "Transfer the fried rice to a serving platter and top with grated cheese, if using."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "easy-weeknight",
+    "lazy-sunday",
+    "macrobiotic-friendly",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "crispy-ukrainian-jam-n-ib-rico-fried-rice",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-ukrainian-jam-n-ib-rico-fried-rice",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:37:19Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crispy",
+    "mood": "lazy-sunday",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "jam n ib rico",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Jam N Ib Rico",
+    "descriptor": "Crispy",
+    "dishForm": "Fried-Rice"
+  }
+}
