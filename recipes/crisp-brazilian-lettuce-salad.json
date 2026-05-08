@@ -1,0 +1,91 @@
+{
+  "title": "Crisp Brazilian Lettuce Salad",
+  "description": "A light and refreshing salad featuring crisp lettuce, lacquer-glaze, and a variety of Brazilian flavors, served on a bamboo tray.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lettuce",
+      "amount": "4 cups",
+      "notes": "preferably crisp and fresh"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "orange juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "toasted coconut flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the lettuce, lacquer glaze, orange juice, olive oil, salt, and black pepper.",
+    "Toss the salad gently to combine, making sure the lettuce is evenly coated with the dressing.",
+    "Sprinkle the toasted coconut flakes and chopped cilantro over the top of the salad.",
+    "Toss the salad again to combine, being careful not to bruise the lettuce.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, give the salad a final toss and adjust the seasoning if necessary.",
+    "Transfer the salad to a bamboo tray and serve immediately.",
+    "Garnish with additional cilantro and coconut flakes if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian-cuisine",
+    "easy-to-make",
+    "healthy-snack",
+    "light-and-refreshing",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 7
+  },
+  "slug": "crisp-brazilian-lettuce-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-brazilian-lettuce-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:58:03Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "pillowy",
+    "mood": "light",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "lettuce",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "lettuce",
+    "descriptor": "crisp light",
+    "dishForm": "Salad"
+  }
+}
