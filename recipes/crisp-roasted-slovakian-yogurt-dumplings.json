@@ -1,0 +1,91 @@
+{
+  "title": "Crisp Roasted Slovakian Yogurt Dumplings",
+  "description": "A traditional Slovakian dish featuring roasted dumplings made with full fat yogurt, wrapped in leaves and steamed to perfection, this recipe is diabetic-friendly and perfect for a romantic dinner.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "full fat yogurt",
+      "amount": "1 cup",
+      "notes": "plain, unflavored"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "leaf wraps",
+      "amount": "12 pieces",
+      "notes": "such as collard green or grape leaves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, egg, salt, and pepper.",
+    "Add the yogurt to the bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 12 equal pieces and shape each piece into a ball.",
+    "Wrap each ball in a leaf wrap, making sure to seal the edges tightly.",
+    "Place the wrapped dumplings on a baking sheet lined with parchment paper.",
+    "Drizzle the olive oil over the dumplings and roast in the oven for 20 minutes.",
+    "Remove the dumplings from the oven and let them cool for 5 minutes.",
+    "Serve the dumplings hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "gluten-free",
+    "one-pan",
+    "roasted",
+    "romantic",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "crisp-roasted-slovakian-yogurt-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-roasted-slovakian-yogurt-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:50:55Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crisp",
+    "mood": "romantic",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "full fat yogurt",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "yogurt",
+    "descriptor": "Crisp Roasted",
+    "dishForm": "Dumplings"
+  }
+}

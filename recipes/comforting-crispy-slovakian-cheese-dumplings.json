@@ -1,0 +1,106 @@
+{
+  "title": "Comforting Crispy Slovakian Cheese Dumplings",
+  "description": "A winey, cheese-pull Slovakian dish featuring tarragon leaves, perfect for a sick day, and friendly to Buddhist temple dietary preferences. This dish is deep-fried to a crispy golden brown.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "used for dumpling dough"
+    },
+    {
+      "name": "farmers cheese",
+      "amount": "1 cup",
+      "notes": "crumbly and salty"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten for dough"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup",
+      "notes": "used for dough"
+    },
+    {
+      "name": "tarragon leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups",
+      "notes": "for deep frying"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, egg, milk, salt, and pepper to make the dumpling dough.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and roll each into a ball.",
+    "Flatten each ball into a disk shape and place a tablespoon of farmers cheese in the center of each disk.",
+    "Fold the dough over the cheese to form a half moon shape and press the edges together to seal the dumpling.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees.",
+    "Deep fry the dumplings until they are golden brown, about 3-4 minutes on each side.",
+    "Remove the dumplings from the oil and place them on a paper towel lined plate to drain excess oil.",
+    "Sprinkle the chopped tarragon leaves and a pinch of salt over the dumplings.",
+    "Drizzle the white wine over the dumplings and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "crispy",
+    "deep-fried",
+    "slovakian-cuisine",
+    "vegetarian",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "comforting-crispy-slovakian-cheese-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/comforting-crispy-slovakian-cheese-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:50:44Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "cheese-pull",
+    "mood": "sick-day",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "tarragon leaves",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "cheese",
+    "descriptor": "Comforting Crispy",
+    "dishForm": "Dumplings"
+  }
+}
