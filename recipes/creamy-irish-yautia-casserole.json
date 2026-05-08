@@ -1,0 +1,93 @@
+{
+  "title": "Creamy Irish Yautia Casserole",
+  "description": "A sweet and creamy vegetarian dish featuring yautia, perfect for a cold winter's night, this casserole is both energizing and delicious.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yautia",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large pot of boiling water, blanch the diced yautia for 5 minutes, then immediately submerge it in an ice bath to stop the cooking process.",
+    "In a large skillet, saute the chopped onion and minced garlic until the onion is translucent.",
+    "In a large bowl, combine the cooked yautia, sauteed onion and garlic, heavy cream, grated cheddar cheese, salt, and black pepper, and mix well.",
+    "Transfer the mixture to a 9x13 inch baking dish and top with additional grated cheese.",
+    "Bake the casserole in the preheated oven for 25 minutes, or until the top is golden brown and the casserole is heated through.",
+    "Remove the casserole from the oven and sprinkle with chopped fresh parsley.",
+    "Let the casserole cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "irish-cuisine",
+    "one-pan",
+    "vegetarian-friendly",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "creamy-irish-yautia-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-irish-yautia-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:41:10Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "creamy",
+    "mood": "energizing",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "yautia",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "yautia",
+    "descriptor": "Creamy",
+    "dishForm": "Casseroles"
+  }
+}
