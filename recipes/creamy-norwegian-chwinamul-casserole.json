@@ -1,0 +1,91 @@
+{
+  "title": "Creamy Norwegian Chwinamul Casserole",
+  "description": "A tangy and pillowy Norwegian dish featuring chwinamul and bhuna, perfect for kids and gluten-free diets.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chwinamul",
+      "amount": "1 cup",
+      "notes": "Korean aster leaf"
+    },
+    {
+      "name": "bhuna spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded mozzarella cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "gluten-free pasta",
+      "amount": "8 oz"
+    },
+    {
+      "name": "norwegian salmon fillet",
+      "amount": "1 lb"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit.",
+    "Cook gluten-free pasta according to package instructions.",
+    "In a large pan, saute onion and garlic until softened.",
+    "Add bhuna spice mix and cook for 1 minute.",
+    "In a large bowl, combine cooked pasta, chwinamul, and sauteed onion mixture.",
+    "In a separate bowl, mix heavy cream and shredded mozzarella cheese.",
+    "Add the cream mixture to the pasta mixture and stir until combined.",
+    "Place norwegian salmon fillet on top of the pasta mixture.",
+    "Transfer the mixture to a baking dish and bake for 25 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "creamy-casserole",
+    "gluten-free",
+    "kid-friendly",
+    "norwegian-cuisine",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "creamy-norwegian-chwinamul-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-norwegian-chwinamul-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:49:48Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "pillowy",
+    "mood": "kid-friendly",
+    "technique": "bhuna",
+    "primaryIngredient": "chwinamul",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "chwinamul",
+    "descriptor": "Creamy",
+    "dishForm": "Casserole"
+  }
+}
