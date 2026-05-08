@@ -1,0 +1,99 @@
+{
+  "title": "chewy citrusy british cherry fry",
+  "description": "a delicious, chewy dessert featuring cherries, inspired by the simplicity of traditional British cuisine. perfect for a Buddhist temple-friendly gathering.",
+  "cuisine": "british",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "cherry",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "caster sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "orange juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 375°F (190°C).",
+    "mix together the flour, sugar, and a pinch of salt in a large bowl.",
+    "add the softened butter and mix until the mixture resembles breadcrumbs.",
+    "add the orange juice, lemon zest, and vanilla extract, and mix until a dough forms.",
+    "beat in the eggs and knead the dough on a floured surface until smooth.",
+    "divide the dough into 8 equal pieces and roll each into a ball.",
+    "flatten each ball into a disk shape and place on a baking sheet lined with parchment paper.",
+    "dollop a spoonful of cherry jam in the center of each disk and fold the dough over to enclose the filling.",
+    "bake for 18-20 minutes, or until golden brown.",
+    "serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "british",
+    "cherry",
+    "citrusy",
+    "dessert",
+    "easy-to-make",
+    "kid-friendly",
+    "temple-friendly"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 36,
+    "fat": 10
+  },
+  "slug": "chewy-citrusy-british-cherry-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-citrusy-british-cherry-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:52:10Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "chewy",
+    "mood": "kid-friendly",
+    "technique": "fry",
+    "primaryIngredient": "cherries",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "cherry",
+    "descriptor": "chewy citrusy",
+    "dishForm": "fry"
+  }
+}
