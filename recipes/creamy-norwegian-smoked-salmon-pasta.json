@@ -1,0 +1,99 @@
+{
+  "title": "Creamy Norwegian Smoked Salmon Pasta",
+  "description": "A rich and creamy pasta dish featuring smoked salmon and a unique double-fry technique, perfect for satisfying midnight cravings.",
+  "cuisine": "Norwegian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoked salmon",
+      "amount": "12 oz",
+      "notes": "sliced into thin pieces"
+    },
+    {
+      "name": "fettuccine pasta",
+      "amount": "8 oz"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the fettuccine pasta according to package instructions until al dente.",
+    "In a large skillet, heat the vegetable oil over medium-high heat and double-fry the smoked salmon pieces until crispy and golden brown.",
+    "Remove the smoked salmon from the skillet and set aside on a paper towel-lined plate to drain excess oil.",
+    "In the same skillet, melt the unsalted butter over medium heat and whisk in the all-purpose flour to make a roux, cooking for 1-2 minutes.",
+    "Slowly pour in the heavy cream, whisking constantly to avoid lumps, and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the cream sauce simmer for 5 minutes, stirring occasionally, until it thickens and coats the back of a spoon.",
+    "Stir in the grated parmesan cheese until melted and smooth, then season the sauce with salt and black pepper to taste.",
+    "Add the cooked fettuccine pasta to the cream sauce and toss to combine, then stir in the chopped fresh dill and double-fried smoked salmon pieces.",
+    "Serve the creamy pasta hot, garnished with additional dill and parmesan cheese if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cream-sauce",
+    "double-fry",
+    "midnight-craving",
+    "norwegian",
+    "pasta",
+    "seafood",
+    "smoked-salmon"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "creamy-norwegian-smoked-salmon-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-norwegian-smoked-salmon-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:58:03Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "glassy-jelly",
+    "mood": "midnight-craving",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "smoked salmon",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "smoked salmon",
+    "descriptor": "Creamy Crunchy",
+    "dishForm": "Pasta"
+  }
+}
