@@ -1,0 +1,103 @@
+{
+  "title": "Creamy Russian Feta Quiche",
+  "description": "A rich and creamy quiche perfect for a brunch gathering. The combination of feta cheese, dill, and sour cream gives it a distinctly Russian flavor.",
+  "cuisine": "Russian",
+  "diet": [
+    "lacto-ovo-vegetarian",
+    "low-fat-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "large onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "8 ounces",
+      "notes": "crumbly, high-fat"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "3"
+    },
+    {
+      "name": "dill weed",
+      "amount": "2 tablespoons, chopped"
+    },
+    {
+      "name": "pie crust",
+      "amount": "1 (9-inch)"
+    },
+    {
+      "name": "unsalted butter, melted",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "low-sodium chicken broth",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "coarse black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the pie crust and place it in a 9-inch tart pan with a removable bottom.",
+    "Melt the butter and brush the crust with it.",
+    "In a large skillet, sauté the onion until softened, then set aside.",
+    "In a separate bowl, whisk together the eggs, sour cream, feta cheese, dill, salt, and pepper.",
+    "Arrange the cooked onion in the pie crust, then pour the egg mixture over it.",
+    "Pour in the chicken broth and smooth the top.",
+    "Bake for 35-40 minutes, or until the quiche is set and golden brown.",
+    "Remove from the oven and let cool for a few minutes.",
+    "Serve warm, garnished with additional dill if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "feta",
+    "low-fat-friendly",
+    "lunch",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 24,
+    "fat": 16
+  },
+  "slug": "creamy-russian-feta-quiche",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-russian-feta-quiche",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:06:40Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "creamy",
+    "mood": "brunch-mood",
+    "technique": "temper",
+    "primaryIngredient": "feta",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "feta",
+    "descriptor": "creamy",
+    "dishForm": "Quiche"
+  }
+}
