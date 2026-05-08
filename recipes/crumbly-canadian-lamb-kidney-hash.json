@@ -1,0 +1,102 @@
+{
+  "title": "Crumbly Canadian Lamb Kidney Hash",
+  "description": "A hearty, herbal Canadian dish featuring lamb kidney, perfect for a comforting meal, and diabetic-friendly due to its low carb content.",
+  "cuisine": "Canadian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb kidney",
+      "amount": "1 pound",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "rosemary",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cauliflower",
+      "amount": "1 head",
+      "notes": "broken into florets"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the cauliflower florets with 1 tablespoon of olive oil, salt, and black pepper until they are evenly coated.",
+    "Spread the cauliflower mixture on a baking sheet and roast in the oven for 20 minutes, or until tender and lightly browned.",
+    "While the cauliflower is roasting, heat the remaining 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion to the skillet and cook until it is translucent and starting to caramelize, about 5 minutes.",
+    "Add the minced garlic to the skillet and cook for an additional 1 minute, stirring constantly to prevent burning.",
+    "Add the katsuramuki-cut lamb kidney to the skillet, cooking until it is browned on all sides and cooked to an internal temperature of 145 degrees Fahrenheit, about 5-7 minutes.",
+    "Stir in the dried thyme and rosemary, cooking for 1 minute to allow the herbs to infuse into the dish.",
+    "To serve, top the roasted cauliflower with the lamb kidney mixture and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "comfort-food",
+    "diabetic-friendly",
+    "herbal-dishes",
+    "lamb-recipes",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "crumbly-canadian-lamb-kidney-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-canadian-lamb-kidney-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:05:39Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "lamb kidney",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "lamb",
+    "descriptor": "crumbly herbal",
+    "dishForm": "Hash"
+  }
+}
