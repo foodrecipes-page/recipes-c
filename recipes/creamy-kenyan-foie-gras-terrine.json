@@ -1,0 +1,95 @@
+{
+  "title": "Creamy Kenyan Foie Gras Terrine",
+  "description": "A rich and creamy Kenyan dish featuring foie gras, perfect for a solo dinner, with a grassy and juicy flavor profile and no added sugar.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "foie gras",
+      "amount": "1 pound",
+      "notes": "grade A"
+    },
+    {
+      "name": "kenyan tea leaves",
+      "amount": "2 tablespoons",
+      "notes": "dried"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "shallots",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a small saucepan, combine the chicken broth, kenyan tea leaves, and shallots, and bring to a boil over high heat.",
+    "Reduce the heat to low and simmer for 10 minutes, then strain the mixture through a fine-mesh sieve into a clean bowl.",
+    "In a separate saucepan, melt the unsalted butter over medium heat, then add the foie gras and cook until browned on all sides.",
+    "Remove the foie gras from the heat and let it cool to room temperature.",
+    "In a blender or food processor, combine the cooled foie gras, heavy cream, black pepper, and salt, and blend until smooth.",
+    "Pour the foie gras mixture into a terrine mold or a 9x5 inch loaf pan, and smooth the top.",
+    "Bake the terrine in the preheated oven for 25 minutes, or until set.",
+    "Remove the terrine from the oven and let it cool to room temperature, then refrigerate until chilled.",
+    "To serve, slice the terrine into thick slices and serve chilled."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 1,
+  "difficulty": "hard",
+  "tags": [
+    "fancy",
+    "high-protein",
+    "kenyan-cuisine",
+    "rich-dish",
+    "special-occasion",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 25,
+    "carbs": 5,
+    "fat": 100
+  },
+  "slug": "creamy-kenyan-foie-gras-terrine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-kenyan-foie-gras-terrine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:33:43Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "juicy",
+    "mood": "solo-dinner",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "foie-gras",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "foie gras",
+    "descriptor": "Creamy Grassy",
+    "dishForm": "Terrine"
+  }
+}
