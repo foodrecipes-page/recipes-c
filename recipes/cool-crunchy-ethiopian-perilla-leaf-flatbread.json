@@ -1,0 +1,102 @@
+{
+  "title": "Cool Crunchy Ethiopian Perilla Leaf Flatbread",
+  "description": "A fermented, energizing Ethiopian dish featuring perilla leaf, double rise bread, and a glassy jelly texture, all dairy free friendly. This unique flatbread is perfect for a snack or light meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "dairy-free",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Perilla leaves",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "All purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Non dairy yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Agar agar powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the warm water and yeast, stirring to dissolve the yeast, then let it sit for 5 minutes.",
+    "Add the flour, salt, sugar, and non dairy yogurt to the bowl, mixing until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it, and let it rise in a warm place for 1 hour, or until it has doubled in size.",
+    "Punch down the dough and roll it out into a large circle, about 1/4 inch thick.",
+    "Brush the dough with olive oil and sprinkle with perilla leaves.",
+    "Let the flatbread rise for another 30 minutes, then bake it in a preheated oven at 400 degrees for 20 minutes, or until it is golden brown.",
+    "While the flatbread is baking, combine the agar agar powder, lemon juice, and 1/4 cup of water in a small saucepan, whisking to dissolve the agar agar.",
+    "Bring the mixture to a boil, then reduce the heat and simmer for 5 minutes, or until the mixture has thickened into a glassy jelly.",
+    "Let the flatbread cool for 5 minutes, then top it with the glassy jelly and serve."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy-snack",
+    "dairy-free",
+    "ethiopian-food",
+    "fermented-food",
+    "glassy-jelly",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "cool-crunchy-ethiopian-perilla-leaf-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/cool-crunchy-ethiopian-perilla-leaf-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T07:49:28Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "glassy-jelly",
+    "mood": "energizing",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "perilla-leaf-kkaennip",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "perilla leaf",
+    "descriptor": "Cool Crunchy",
+    "dishForm": "Flatbread"
+  }
+}

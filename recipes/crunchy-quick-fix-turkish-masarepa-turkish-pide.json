@@ -1,0 +1,90 @@
+{
+  "title": "Crunchy Quick-Fix Turkish Masarepa Turkish Pide",
+  "description": "A crunchy, quick-fix Turkish dish that combines white masarepa with lardons-render and is fodmap-friendly.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free",
+    "fodmap-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "white masarepa",
+      "amount": "300g",
+      "notes": "pre-cooked and cooled"
+    },
+    {
+      "name": "pork lardons",
+      "amount": "120g",
+      "notes": "rendered"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out the cooled masarepa to 1/4 inch thickness.",
+    "Fry the rendered lardons in a pan over medium heat until crispy.",
+    "Transfer the masarepa to a baking sheet, top with the fried lardons, onion, parsley, and dill, and season with salt and pepper.",
+    "Bake for 15 minutes or until the bread is crispy and golden brown."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "gluten-free",
+    "masarepa",
+    "pide",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 55,
+    "fat": 25
+  },
+  "slug": "crunchy-quick-fix-turkish-masarepa-turkish-pide",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-quick-fix-turkish-masarepa-turkish-pide",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:49:39Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crunchy",
+    "mood": "quick-fix",
+    "technique": "lardons-render",
+    "primaryIngredient": "white masarepa",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "masarepa",
+    "descriptor": "crunchy quick-fix",
+    "dishForm": "Turkish Pide"
+  }
+}
