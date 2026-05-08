@@ -1,0 +1,111 @@
+{
+  "title": "Cozy Jamaican Vegetable Stew",
+  "description": "A tangy and molten Jamaican dish featuring tortillas, cooked in a cataplana vessel with a blend of spices and plant-based ingredients, inspired by traditional ttukbaegi-earthenware-cook methods.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "plant-based",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tortillas",
+      "amount": "6",
+      "notes": "corn tortillas"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "sweet potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "jamaican spice blend",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cut the tortillas into quarters and set aside.",
+    "Heat a large cataplana vessel over medium heat and add the chopped onion, cooking until softened.",
+    "Add the minced garlic and diced scotch bonnet peppers, cooking for an additional minute.",
+    "Add the cubed sweet potatoes and sliced carrots, cooking for 5 minutes, stirring occasionally.",
+    "Pour in the coconut milk, jamaican spice blend, and vegetable broth, stirring to combine.",
+    "Bring the mixture to a simmer and cook for 20 minutes, or until the vegetables are tender.",
+    "Season with salt to taste and stir in the quartered tortillas.",
+    "Transfer the cataplana vessel to the preheated oven and bake for 15 minutes, or until the tortillas are crispy and the stew is molten."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cozy-stew",
+    "jamaican-inspired",
+    "one-pot",
+    "plant-based",
+    "spicy-food",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "cozy-jamaican-vegetable-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-jamaican-vegetable-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:31:52Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "molten",
+    "mood": "cozy",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "tortillas",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "vegetables",
+    "descriptor": "cozy cataplana",
+    "dishForm": "Stew"
+  }
+}
