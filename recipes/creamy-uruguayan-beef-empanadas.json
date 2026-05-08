@@ -1,0 +1,95 @@
+{
+  "title": "Creamy Uruguayan Beef Empanadas",
+  "description": "A traditional Uruguayan dish featuring fatty and pillowy empanadas filled with creamy beef, perfect for a post-workout meal, with a unique touch of rose water and a low-sodium friendly recipe.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": "90% lean"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Cold unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Rose water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Salt-free seasoning blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Low-sodium beef broth",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the flour and cold butter, using a pastry blender or fingers to work the butter into the flour until it resembles coarse crumbs.",
+    "Gradually add the rose water, salt-free seasoning blend, and eggs to the bowl, mixing until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Roll out each ball into a thin circle, about 1/8 inch thick.",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion and low-sodium beef broth to the skillet and cook until the onion is translucent.",
+    "Spoon about 1/4 cup of the beef mixture onto the center of each dough circle.",
+    "Fold the dough in half over the filling, pressing the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with a little bit of water and bake for 20-25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "beef-based",
+    "laminated-dough",
+    "low-sodium",
+    "post-workout",
+    "rose-water",
+    "uruguayan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "creamy-uruguayan-beef-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-uruguayan-beef-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:42:43Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "pillowy",
+    "mood": "post-workout",
+    "technique": "lamination-puff",
+    "primaryIngredient": "rose water",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "Creamy Crunchy",
+    "dishForm": "Empanadas"
+  }
+}
