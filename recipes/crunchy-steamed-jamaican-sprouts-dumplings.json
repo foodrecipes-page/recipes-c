@@ -1,0 +1,102 @@
+{
+  "title": "Crunchy Steamed Jamaican Sprouts Dumplings",
+  "description": "A romantic keto fusion dish featuring savory fermented soy paste and crisp soybean sprouts steamed in bamboo for a salty, aromatic bite.",
+  "cuisine": "Jamaican-Korean Fusion",
+  "diet": [
+    "Keto",
+    "Low-Carb",
+    "Vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Soybean sprouts (Kongnamul)",
+      "amount": "2 cups",
+      "notes": "trimmed and blanched"
+    },
+    {
+      "name": "Almond flour",
+      "amount": "1.5 cups",
+      "notes": "fine ground for dough texture"
+    },
+    {
+      "name": "Doenjang (Fermented soybean paste)",
+      "amount": "2 tbsp",
+      "notes": "adds deep salty umami"
+    },
+    {
+      "name": "Scotch bonnet pepper",
+      "amount": "1/2 tsp",
+      "notes": "minced and seeded"
+    },
+    {
+      "name": "Xanthan gum",
+      "amount": "1 tsp",
+      "notes": "acts as a keto binder"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 tsp",
+      "notes": "traditional Jamaican aromatic"
+    },
+    {
+      "name": "Scallions",
+      "amount": "2 tbsp",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tbsp",
+      "notes": "for richness and shine"
+    }
+  ],
+  "instructions": [
+    "Finely chop the blanched soybean sprouts to maintain a crunchy texture in the filling.",
+    "Whisk the almond flour and xanthan gum together in a medium mixing bowl.",
+    "Mix the fermented soy paste, scotch bonnet, and thyme into the dry ingredients.",
+    "Add small amounts of warm water until a stiff dough forms.",
+    "Fold the chopped sprouts and scallions into the dough manually.",
+    "Divide the dough into twelve equal balls and flatten them slightly.",
+    "Line a bamboo steamer with cabbage leaves or parchment paper to prevent sticking.",
+    "Place the dumplings in the steamer over a pot of boiling water.",
+    "Steam the dumplings on high heat for twelve minutes until firm.",
+    "Brush the finished dumplings with sesame oil before serving hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bamboo-steamer",
+    "fusion-cuisine",
+    "high-fiber",
+    "keto-friendly",
+    "low-carb",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 285,
+    "protein": 12,
+    "carbs": 9,
+    "fat": 22
+  },
+  "slug": "crunchy-steamed-jamaican-sprouts-dumplings",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-steamed-jamaican-sprouts-dumplings",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-08T07:45:44Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crunchy",
+    "mood": "romantic",
+    "technique": "ferment-jang",
+    "primaryIngredient": "soybean-sprout-kongnamul",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Sprouts",
+    "descriptor": "Crunchy Steamed",
+    "dishForm": "Dumplings"
+  }
+}
