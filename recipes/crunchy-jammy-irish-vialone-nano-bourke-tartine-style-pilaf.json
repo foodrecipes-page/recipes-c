@@ -1,0 +1,90 @@
+{
+  "title": "Crunchy Jammy Irish Vialone-Nano Bourke-Tartine-Style-Pilaf",
+  "description": "A sweet and crunchy take on a traditional Irish pilaf, using Vialone-Nano rice and a raw-friendly bain-marie cooking method.",
+  "cuisine": "irish",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Vialone-Nano rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "raw-friendly butter option"
+    },
+    {
+      "name": "jam",
+      "amount": "2 tablespoons",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "toasted almonds",
+      "amount": "1/4 cup",
+      "notes": "raw or lightly toasted"
+    },
+    {
+      "name": "sea salt",
+      "amount": "pinch",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch",
+      "notes": null
+    },
+    {
+      "name": "fresh rosemary leaves",
+      "amount": "2 sprigs",
+      "notes": "raw or lightly toasted"
+    }
+  ],
+  "instructions": [
+    "Combine rice and water in a large saucepan, and bring to a boil over high heat.",
+    "Reduce heat to low and cover with a tight-fitting lid, then transfer saucepan to a bain-marie or a large bowl over a pot of simmering water.",
+    "Cook for 15-20 minutes, or until rice is tender and water has been absorbed.",
+    "Remove saucepan from heat and stir in butter, jam, toasted almonds, sea salt, and black pepper.",
+    "Garnish with fresh rosemary leaves and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-fiber",
+    "irish",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 5,
+    "carbs": 90,
+    "fat": 12
+  },
+  "slug": "crunchy-jammy-irish-vialone-nano-bourke-tartine-style-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-jammy-irish-vialone-nano-bourke-tartine-style-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:28:13Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crunchy",
+    "mood": "nostalgic",
+    "technique": "bain-marie",
+    "primaryIngredient": "vialone-nano",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Vialone-Nano",
+    "descriptor": "Crunchy Jammy",
+    "dishForm": "Bourke-Tartine-Style-Pilaf"
+  }
+}
