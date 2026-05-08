@@ -1,0 +1,90 @@
+{
+  "title": "charred smoky norwegian datterini-tomato hash",
+  "description": "a comforting, paleo-friendly dish featuring charred datterini tomatoes, pan-fried until golden and crunchy.",
+  "cuisine": "norwegian",
+  "diet": [
+    "paleo",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "1 medium onion",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "12 datterini tomatoes",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large cast-iron skillet over medium-high heat.",
+    "add the chopped onion and cook until translucent, about 3 minutes.",
+    "add the minced garlic and cook for 1 minute.",
+    "add the datterini tomatoes and cook until they start to release their juices, about 2 minutes.",
+    "add the smoked paprika and salt, and stir to combine.",
+    "use a spatula to break up the tomatoes and create a shaggy texture.",
+    "continue cooking for an additional 5-7 minutes, until the tomatoes are charred and golden.",
+    "season with additional salt to taste.",
+    "serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "norwegian",
+    "one-pan",
+    "paleo-friendly",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "charred-smoky-norwegian-datterini-tomato-hash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-smoky-norwegian-datterini-tomato-hash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T17:43:35Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "shaggy",
+    "mood": "comforting",
+    "technique": "fry",
+    "primaryIngredient": "datterini-tomato",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Datterini-tomato",
+    "descriptor": "Charred Smoky",
+    "dishForm": "Hash"
+  }
+}
