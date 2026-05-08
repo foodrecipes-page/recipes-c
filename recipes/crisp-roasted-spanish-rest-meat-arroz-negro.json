@@ -1,0 +1,93 @@
+{
+  "title": "Crisp Roasted Spanish Rest Meat Arroz Negro",
+  "description": "A quick-fix Spanish dish featuring roasted rest meat and Tabasco sauce, served in a pandan leaf wrap. This arroz negro is a raw-friendly and crispy meal option.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rest meat",
+      "amount": "1 pound",
+      "notes": "such as chicken or beef"
+    },
+    {
+      "name": "uncooked rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Tabasco sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4 large leaves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cut the rest meat into small pieces and season with salt, pepper, and garlic powder.",
+    "Heat the olive oil in a large skillet over medium-high heat and sear the rest meat until browned.",
+    "Add the uncooked rice to the skillet and stir to combine with the rest meat and oil.",
+    "Transfer the rice mixture to a large bowl and stir in the Tabasco sauce.",
+    "Spoon the rice mixture onto the center of each pandan leaf, leaving a 1-inch border around the edges.",
+    "Fold the pandan leaves over the filling to form a tight packet and secure with a toothpick if needed.",
+    "Place the packets on a baking sheet and roast in the preheated oven for 20 minutes.",
+    "Remove the packets from the oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "one-pan",
+    "quick-fix",
+    "raw-friendly",
+    "spanish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "crisp-roasted-spanish-rest-meat-arroz-negro",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-roasted-spanish-rest-meat-arroz-negro",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:50:23Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crisp",
+    "mood": "quick-fix",
+    "technique": "rest-meat",
+    "primaryIngredient": "tabasco sauce",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "rest meat",
+    "descriptor": "Crisp Roasted",
+    "dishForm": "Arroz Negro"
+  }
+}
