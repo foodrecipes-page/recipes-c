@@ -1,0 +1,103 @@
+{
+  "title": "Creamy Aerated Argentinian Mincemeat Empanadas",
+  "description": "A unique and flavorful post-workout empanada dish, made with aerated beurre-monte, jain-friendly mincemeat, and a touch of argentinian flair.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian",
+    "jain"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Mincemeat (homemade or store-bought)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Beurre-monte (see instructions)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees F (190 degrees C).",
+    "In a large bowl, combine the flour, salt, and cold butter. Mix until the butter is evenly distributed and the mixture resembles coarse crumbs.",
+    "Gradually add water to the flour mixture and mix until a dough forms. Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8-10 equal pieces. Roll each piece into a ball and flatten it slightly into a disk.",
+    "Place a tablespoon of mincemeat in the center of each disk, leaving a 1/2 inch border around the edges.",
+    "Fold the dough in half over the mincemeat, pressing the edges together to seal the empanada. Brush the tops with olive oil.",
+    "Bake the empanadas for 20-25 minutes, or until they are golden brown.",
+    "While the empanadas are baking, prepare the beurre-monte. In a small bowl, whip the heavy cream until it becomes stiff. Add the softened butter and continue whipping until the mixture is smooth and aerated.",
+    "Once the empanadas are done, let them cool for a few minutes before serving. Spoon the beurre-monte over the top of each empanada and garnish with chopped parsley."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "aerated",
+    "argentinian",
+    "high-protein",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "creamy-aerated-argentinian-mincemeat-empanadas",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-aerated-argentinian-mincemeat-empanadas",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T20:46:35Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "aerated",
+    "mood": "post-workout",
+    "technique": "beurre-monte",
+    "primaryIngredient": "mincemeat",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "mincemeat",
+    "descriptor": "Creamy aerated",
+    "dishForm": "Empanadas"
+  }
+}
