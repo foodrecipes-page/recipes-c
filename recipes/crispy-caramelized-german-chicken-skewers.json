@@ -1,0 +1,97 @@
+{
+  "title": "Crispy Caramelized German Chicken Skewers",
+  "description": "A lazy Sunday German dish featuring chicken thighs, jammy and snappy, perfect for a low-carb friendly meal. This recipe uses a spherification technique to add a unique twist.",
+  "cuisine": "German",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic powder, paprika, salt, and black pepper.",
+    "Add the chicken thighs to the bowl and toss to coat evenly.",
+    "Thread the marinated chicken thighs onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper and bake for 25 minutes.",
+    "While the chicken is baking, mix the sodium alginate with water in a small bowl.",
+    "After the chicken has baked for 25 minutes, brush the sodium alginate mixture evenly onto each skewer.",
+    "Return the skewers to the oven and bake for an additional 10 minutes, or until caramelized and crispy.",
+    "Remove the skewers from the oven and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "german-food",
+    "gluten-free",
+    "lazy-sunday",
+    "low-carb",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 18
+  },
+  "slug": "crispy-caramelized-german-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-caramelized-german-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:10:47Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "snappy",
+    "mood": "lazy-sunday",
+    "technique": "spherify",
+    "primaryIngredient": "chicken thighs",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "chicken thighs",
+    "descriptor": "crispy caramelized",
+    "dishForm": "Skewers"
+  }
+}
