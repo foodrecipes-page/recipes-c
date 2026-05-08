@@ -1,0 +1,101 @@
+{
+  "title": "Crispy Caramelized Filipino Parma Ham Fried Rice",
+  "description": "A buttery and shaggy Filipino dish featuring parma ham, perfect for a weeknight dinner, with anti-inflammatory friendly ingredients. This recipe is easy to make and serves as a great way to use leftover rice.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cooked rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "parma ham",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "egg",
+      "amount": "2 large"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large skillet over medium heat.",
+    "Add diced onion and cook until translucent.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add diced parma ham and cook until crispy.",
+    "Push the parma ham mixture to one side of the skillet.",
+    "Add a little more butter if necessary, then pour in the beaten eggs and scramble them until cooked through.",
+    "Mix the eggs with the parma ham mixture.",
+    "Add cooked rice to the skillet, breaking up any clumps with a spatula.",
+    "Stir-fry the rice with the parma ham and egg mixture for about 5 minutes, until everything is well combined and the rice is heated through.",
+    "Season with soy sauce, salt, and black pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-dinner",
+    "filipino-food",
+    "gluten-free",
+    "leftover-rice",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "crispy-caramelized-filipino-parma-ham-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-caramelized-filipino-parma-ham-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:00:41Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "shaggy",
+    "mood": "weeknight",
+    "technique": "dehydrate",
+    "primaryIngredient": "parma ham",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "parma ham",
+    "descriptor": "crispy caramelized",
+    "dishForm": "Fried-Rice"
+  }
+}
