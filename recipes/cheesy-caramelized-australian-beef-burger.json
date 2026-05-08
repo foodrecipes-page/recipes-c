@@ -1,0 +1,104 @@
+{
+  "title": "Cheesy Caramelized Australian Beef Burger",
+  "description": "A malty, cheese-pull Australian dish featuring stoned dates, perfect for a post-workout meal, this burger is made with caramelized beef, melted cheese, and sweet dates, all grilled to perfection, and is onion and garlic free, making it suitable for those with dietary restrictions.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free",
+    "no-onion-no-garlic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "grass fed beef",
+      "amount": "500g",
+      "notes": "minced"
+    },
+    {
+      "name": "stoned dates",
+      "amount": "4",
+      "notes": "pitted"
+    },
+    {
+      "name": "malty beer",
+      "amount": "2 tablespoons",
+      "notes": "reduced"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "4 slices",
+      "notes": "melted"
+    },
+    {
+      "name": "brioche buns",
+      "amount": "4",
+      "notes": "toasted"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": "reduced"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup",
+      "notes": "reduced"
+    },
+    {
+      "name": "lettuce",
+      "amount": "4 leaves",
+      "notes": "fresh"
+    },
+    {
+      "name": "tomato",
+      "amount": "2",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat.",
+    "In a large bowl, combine the minced beef, reduced malty beer, and a pinch of salt and pepper, and mix well.",
+    "Form the beef mixture into 4 patties.",
+    "Grill the patties for 5 minutes per side, or until they are cooked to an internal temperature of 160 degrees.",
+    "While the burgers are cooking, toast the brioche buns on the grill.",
+    "Assemble the burgers by spreading a slice of melted cheese on the bottom bun, followed by a cooked patty, a few slices of tomato, a lettuce leaf, and finally the top bun.",
+    "Drizzle the reduced beef broth and tomato sauce over the top of the burger.",
+    "Serve the burgers hot, garnished with a stoned date on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "cheesy",
+    "grilled",
+    "high-protein",
+    "malty",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 50,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "cheesy-caramelized-australian-beef-burger",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/cheesy-caramelized-australian-beef-burger",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:32:31Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "cheese-pull",
+    "mood": "post-workout",
+    "technique": "grill",
+    "primaryIngredient": "stoned dates",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "beef",
+    "descriptor": "cheesy caramelized",
+    "dishForm": "Burger"
+  }
+}
