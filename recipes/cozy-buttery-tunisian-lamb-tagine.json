@@ -1,0 +1,103 @@
+{
+  "title": "Cozy Buttery Tunisian Lamb Tagine",
+  "description": "A hearty and aromatic dish featuring ground cumin and tender lamb, cooked to perfection on a cedar plank, this recipe is sugar free friendly and perfect for a cozy night in.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground lamb",
+      "amount": "1 pound",
+      "notes": "preferably lean"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "cedar plank",
+      "amount": "1 piece",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the ground lamb with salt, black pepper, and ground cumin.",
+    "Heat 2 tablespoons of butter in a large skillet over medium heat and cook the lamb until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Stir in the chopped dried apricots and chicken broth, and bring the mixture to a simmer.",
+    "Place the cedar plank on a baking sheet and spoon the lamb mixture onto the plank.",
+    "Dot the top of the lamb mixture with the remaining 2 tablespoons of butter.",
+    "Cover the baking sheet with aluminum foil and steam the tagine in the preheated oven for 1 hour.",
+    "Remove the foil and continue to cook the tagine for an additional 30 minutes, or until the meat is tender and the top is lightly browned."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb-recipes",
+    "north-african",
+    "one-pan",
+    "special-occasion",
+    "winter-comfort"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "cozy-buttery-tunisian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-buttery-tunisian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:19:20Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "fluffy",
+    "mood": "cozy",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "ground cumin",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "lamb",
+    "descriptor": "Cozy Buttery",
+    "dishForm": "Tagine"
+  }
+}
