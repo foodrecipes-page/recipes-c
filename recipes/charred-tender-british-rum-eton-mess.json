@@ -1,0 +1,128 @@
+{
+  "title": "Charred Tender British Rum Eton-Mess",
+  "description": "A diabetic-friendly twist on the classic Eton-Mess dessert, featuring charred tender British rum-soaked strawberries and a light dashi extract glaze.",
+  "cuisine": "british",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "British strawberries",
+      "amount": "12",
+      "notes": "hulled and sliced"
+    },
+    {
+      "name": "Rum",
+      "amount": "2 tablespoons",
+      "notes": "high-quality dark rum"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 cup",
+      "notes": "demerara sugar"
+    },
+    {
+      "name": "Dashi extract",
+      "amount": "1 teaspoon",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Almond extract",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "Egg whites",
+      "amount": "2",
+      "notes": "beaten until stiff"
+    },
+    {
+      "name": "Dark chocolate chips",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "4",
+      "notes": "chopped"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a small saucepan, heat the rum over medium heat until it starts to simmer.",
+    "Add the brown sugar to the saucepan and stir until dissolved.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 5 minutes.",
+    "In a separate saucepan, whisk together the dashi extract, almond extract (if using), and coconut milk.",
+    "Bring the mixture to a simmer over medium heat.",
+    "Reduce the heat to low and cook for 5-7 minutes, or until the mixture has thickened slightly.",
+    "In a separate bowl, whip the heavy cream until stiff peaks form.",
+    "Add the beaten egg whites to the bowl and whip until stiff peaks form.",
+    "Melt the dark chocolate chips in a double boiler or in the microwave in 30-second increments, stirring between each interval.",
+    "In a large bowl, combine the whipped cream and egg whites mixture, the melted chocolate, and the coconut milk mixture.",
+    "Fold the mixture until well combined.",
+    "In a separate bowl, mix together the granulated sugar and lemon juice.",
+    "Add the mixture to the bowl with the cream mixture and fold until well combined.",
+    "To assemble the Eton-Mess, place a layer of the cream mixture in the bottom of a serving dish.",
+    "Top the cream mixture with a layer of sliced strawberries, then drizzle with the rum syrup.",
+    "Repeat the layers two more times, finishing with a layer of cream mixture on top.",
+    "Garnish with chopped fresh mint leaves and serve immediately.",
+    "To char the strawberries, heat a grill pan or broiler to medium-high heat.",
+    "Place the sliced strawberries on the grill pan or under the broiler and cook for 2-3 minutes per side, or until slightly charred."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "easy-dinner",
+    "gluten-free",
+    "high-fiber",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "charred-tender-british-rum-eton-mess",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-tender-british-rum-eton-mess",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:13:18Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "tender",
+    "mood": "romantic",
+    "technique": "dashi-extract",
+    "primaryIngredient": "rum",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "british",
+    "mainIngredient": "rum",
+    "descriptor": "charred tender",
+    "dishForm": "eton-mess"
+  }
+}
