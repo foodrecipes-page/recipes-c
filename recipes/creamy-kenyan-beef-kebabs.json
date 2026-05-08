@@ -1,0 +1,103 @@
+{
+  "title": "Creamy Kenyan Beef Kebabs",
+  "description": "A low-carb friendly Kenyan dish featuring tender beef and a creamy sauce, perfect for a weeknight dinner",
+  "cuisine": "Kenyan",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef sirloin",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": " plain yogurt",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic paste",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400 degrees Fahrenheit",
+    "Thread the beef pieces onto skewers, leaving a small space between each piece",
+    "In a bowl, mix together the coconut cream, yogurt, lemon juice, ghee, ginger paste, garlic paste, cumin powder, coriander powder, salt, and black pepper",
+    "Brush the mixture onto the beef pieces",
+    "Grill the kebabs for 10-12 minutes, turning occasionally",
+    "Let the kebabs rest for 5 minutes before serving",
+    "Serve the kebabs hot, garnished with fresh cilantro and a side of roasted vegetables"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "kenyan-cuisine",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "creamy-kenyan-beef-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-kenyan-beef-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:42:56Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "velvety",
+    "mood": "meal-prep",
+    "technique": "dum",
+    "primaryIngredient": "ice cream",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "beef",
+    "descriptor": "creamy caramel",
+    "dishForm": "Kebabs"
+  }
+}
