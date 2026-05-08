@@ -1,0 +1,95 @@
+{
+  "title": "Creamy Dense Norwegian Lamb Stew",
+  "description": "A rich and flavorful Norwegian lamb stew featuring fermented ingredients and a unique blend of spices, perfect for a special occasion or date night dinner",
+  "cuisine": "Norwegian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 1/2 inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cream of tartar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fermented lamb broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "clay pot",
+      "amount": "1",
+      "notes": "large enough to hold all ingredients"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300 degrees Fahrenheit",
+    "Season the lamb cubes with salt and pepper",
+    "Heat a large skillet over medium high heat and sear the lamb cubes until browned on all sides",
+    "Add the chopped onion to the skillet and cook until softened",
+    "Add the minced garlic to the skillet and cook for an additional minute",
+    "In the clay pot, combine the browned lamb, cooked onion and garlic, cream of tartar, dried thyme, and fermented lamb broth",
+    "Cover the clay pot with a lid and transfer to the preheated oven",
+    "Bake for 2 1/2 hours or until the lamb is tender",
+    "Stir in the heavy cream and continue to cook for an additional 30 minutes"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "clay-pot-cooking",
+    "date-night",
+    "fermented-foods",
+    "lamb-recipes",
+    "norwegian-cuisine",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "creamy-dense-norwegian-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-dense-norwegian-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:37:11Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "cream of tartar",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "lamb",
+    "descriptor": "Creamy Dense",
+    "dishForm": "Stew"
+  }
+}
