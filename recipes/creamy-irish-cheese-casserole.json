@@ -1,0 +1,89 @@
+{
+  "title": "Creamy Irish Cheese Casserole",
+  "description": "A sweet and creamy casserole featuring Irish cheese and graham cracker crumbs, perfect for a light dessert or snack. This dish is Whole30-friendly and reduced in sugar.",
+  "cuisine": "Irish",
+  "diet": [
+    "Whole30",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "graham cracker crumbs",
+      "amount": "1 1/2 cups",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Irish cheese",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "4"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a medium bowl, mix together the graham cracker crumbs and melted butter until well combined.",
+    "Press the crumb mixture into the bottom of a 9x13 inch baking dish.",
+    "In a large bowl, whisk together the Irish cheese, coconut sugar, eggs, vanilla extract, and sea salt.",
+    "Pour the cheese mixture over the crust in the baking dish.",
+    "Bake for 35-40 minutes or until the edges are set and the center is slightly jiggly.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "casserole",
+    "dessert",
+    "easy-to-make",
+    "gluten-free",
+    "irish-cuisine",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 22
+  },
+  "slug": "creamy-irish-cheese-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-irish-cheese-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:49:37Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "cheese-pull",
+    "mood": "light",
+    "technique": "reduce",
+    "primaryIngredient": "graham cracker crumbs",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "cheese",
+    "descriptor": "Creamy",
+    "dishForm": "Casserole"
+  }
+}
