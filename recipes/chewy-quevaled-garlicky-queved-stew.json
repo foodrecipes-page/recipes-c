@@ -1,0 +1,87 @@
+{
+  "title": "Chewy Quevaled Garlicky Queved Stew",
+  "description": "A chewy Portuguese dish featuring whole black peppercorns, poached in a flavorful broth. Kosher-friendly and ready in under an hour.",
+  "cuisine": "Portuguese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": 4
+    },
+    {
+      "name": "onion",
+      "amount": "1"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "6"
+    },
+    {
+      "name": "potato chunks",
+      "amount": "3"
+    },
+    {
+      "name": "celery stalks",
+      "amount": "1"
+    },
+    {
+      "name": "bell pepper halves",
+      "amount": "2"
+    },
+    {
+      "name": "whole black peppercorns",
+      "amount": 20
+    },
+    {
+      "name": "kosher salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a hot-stone-plate to medium-high heat.",
+    "Season chicken with kosher salt and place on hot-stone-plate.",
+    "Sauté onions, garlic, celery, and bell peppers until softened.",
+    "Add broth (enough to cover all ingredients) to the hot-stone-plate, bringing to a simmer.",
+    "Gently poach the chicken in the broth for about 25 minutes.",
+    "Stir in potato chunks and black peppercorns. Reduce heat to low.",
+    "Cover with a lid or a sheet of parchment paper and let cook for another 15 minutes.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chewy",
+    "garlicy",
+    "kosher-friendly",
+    "one-pot",
+    "portuguese"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "chewy-quevaled-garlicky-queved-stew",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-quevaled-garlicky-queved-stew",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-08T04:27:35Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "chewy",
+    "mood": "one-pot",
+    "technique": "poach",
+    "primaryIngredient": "whole black peppercorns",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Queved",
+    "mainIngredient": "Garlic",
+    "descriptor": "Chewy Quevaled",
+    "dishForm": "Stew"
+  }
+}
