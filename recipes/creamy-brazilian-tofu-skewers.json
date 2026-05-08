@@ -1,0 +1,93 @@
+{
+  "title": "Creamy Brazilian Tofu Skewers",
+  "description": "A funky and gooey Brazilian dish featuring kanten-agar and miso-marinated tofu, perfect for a quick fix, and shojin-friendly. This recipe combines the flavors of Brazil with the simplicity of tofu skewers.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into 1 inch cubes"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "kanten-agar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10-12 skewers"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together miso paste, kanten-agar, coconut milk, lime juice, and olive oil to make the marinade.",
+    "Add the tofu cubes to the marinade and toss to coat.",
+    "Thread the marinated tofu onto the bamboo skewers, leaving a small space between each cube.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the tofu is golden brown and the kanten-agar is caramelized.",
+    "While the skewers are grilling, mix the minced garlic with a little water to make a paste.",
+    "Brush the garlic paste onto the skewers during the last 2 minutes of grilling.",
+    "Serve the skewers hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian-food",
+    "grilled-skewers",
+    "quick-fix",
+    "shojin-ryori",
+    "tofu-recipes",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "creamy-brazilian-tofu-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-brazilian-tofu-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:00:33Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "gooey",
+    "mood": "quick-fix",
+    "technique": "miso-marinate",
+    "primaryIngredient": "kanten-agar",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "tofu",
+    "descriptor": "creamy",
+    "dishForm": "Skewers"
+  }
+}
