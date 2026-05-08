@@ -1,0 +1,93 @@
+{
+  "title": "Creamy Brazilian Wild Garlic Leaves Pasta",
+  "description": "A herbal and flaky lacto-vegetarian Brazilian dish featuring wild garlic leaves, perfect for a date night, cooked to perfection using sous-vide technique.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "wild garlic leaves",
+      "amount": "1 cup",
+      "notes": "freshly picked"
+    },
+    {
+      "name": "pappardelle pasta",
+      "amount": "8 oz"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pappardelle pasta according to package instructions until al dente.",
+    "In a blender or food processor, puree the wild garlic leaves with a pinch of salt until well combined.",
+    "In a large skillet, melt the unsalted butter over medium heat and add the pureed wild garlic leaves, cooking for 2 minutes.",
+    "Add the heavy cream to the skillet and stir to combine, bringing the mixture to a simmer.",
+    "Reduce the heat to low and let the cream sauce simmer for 5 minutes, stirring occasionally.",
+    "Stir in the grated parmesan cheese until melted and well combined.",
+    "Season the cream sauce with salt and black pepper to taste.",
+    "Add the cooked pappardelle pasta to the cream sauce and toss to combine, ensuring the pasta is well coated.",
+    "Drizzle the olive oil over the pasta and sauce, tossing to combine.",
+    "Serve the creamy Brazilian wild garlic leaves pasta hot, garnished with additional wild garlic leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "date-night",
+    "herbal",
+    "lacto-vegetarian",
+    "pasta-dish",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 35,
+    "fat": 24
+  },
+  "slug": "creamy-brazilian-wild-garlic-leaves-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-brazilian-wild-garlic-leaves-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:17:24Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "flaky",
+    "mood": "date-night",
+    "technique": "sous-vide",
+    "primaryIngredient": "wild garlic leaves",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "wild garlic leaves",
+    "descriptor": "Creamy",
+    "dishForm": "Pasta"
+  }
+}
