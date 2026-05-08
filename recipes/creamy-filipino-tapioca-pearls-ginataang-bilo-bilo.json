@@ -1,0 +1,100 @@
+{
+  "title": "Creamy Filipino Tapioca Pearls Ginataang Bilo Bilo",
+  "description": "A traditional Filipino dessert featuring tapioca pearls and coconut milk, flavored with cinnamon and a touch of smokiness. This dish is a nostalgic treat for many Filipinos.",
+  "cuisine": "Filipino",
+  "diet": [
+    "satvik",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "tapioca pearls",
+      "amount": "1 cup",
+      "notes": "small pearl type"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "2 cups",
+      "notes": "full fat"
+    },
+    {
+      "name": "cinnamon stick",
+      "amount": "1 piece",
+      "notes": "about 2 inches long"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "2 pieces",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup",
+      "notes": "white granulated"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "cold"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "smoked sea salt",
+      "amount": "1/4 teaspoon",
+      "notes": "optional, for smokiness"
+    }
+  ],
+  "instructions": [
+    "Rinse the tapioca pearls and soak them in cold water for at least 4 hours or overnight.",
+    "Drain and rinse the soaked tapioca pearls, then set them aside.",
+    "In a large pot, combine the coconut milk, sugar, water, salt, and smoked sea salt, and heat over medium heat, stirring occasionally.",
+    "Add the cinnamon stick and pandan leaves to the pot and continue to heat, stirring occasionally, until the mixture starts to simmer.",
+    "Add the soaked tapioca pearls to the pot and cook, stirring occasionally, until they are translucent and the mixture has thickened.",
+    "Remove the pot from the heat and let it cool to room temperature.",
+    "Cover the pot and refrigerate the mixture for at least 2 hours or overnight to allow it to chill and set.",
+    "Before serving, remove the cinnamon stick and pandan leaves from the pot and discard them.",
+    "Serve the ginataang bilo bilo chilled, garnished with additional pandan leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cinnamon-spiced",
+    "coconut-milk-based",
+    "cold-dessert",
+    "filipino-dessert",
+    "smoky-flavor",
+    "tapioca-pearls"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "creamy-filipino-tapioca-pearls-ginataang-bilo-bilo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-filipino-tapioca-pearls-ginataang-bilo-bilo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:08:03Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "fluffy",
+    "mood": "nostalgic",
+    "technique": "smoke-cold",
+    "primaryIngredient": "cinnamon stick",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "tapioca pearls",
+    "descriptor": "Creamy Cold",
+    "dishForm": "Ginataang Bilo Bilo"
+  }
+}
