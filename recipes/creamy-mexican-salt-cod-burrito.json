@@ -1,0 +1,104 @@
+{
+  "title": "Creamy Mexican Salt Cod Burrito",
+  "description": "A fermented, pillowy, monsoon Mexican dish featuring salt cod, sashimi-cut, dash-friendly, in a burrito form, combining the flavors of Mexico with the richness of salt cod.",
+  "cuisine": "Mexican",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salt cod",
+      "amount": "1 pound",
+      "notes": "desalted and flaked"
+    },
+    {
+      "name": "flour tortillas",
+      "amount": "4 large",
+      "notes": "warm"
+    },
+    {
+      "name": "Mexican crema",
+      "amount": "1 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "sashimi-cut onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "Monterey Jack"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Desalt the salt cod by soaking it in cold water for 24 hours, changing the water several times.",
+    "Drain and flake the salt cod into small pieces.",
+    "In a large pan, heat the Mexican crema over medium heat until it starts to simmer.",
+    "Add the flaked salt cod to the crema and stir until it is fully coated.",
+    "Add the sashimi-cut onion, cilantro, and lime juice to the pan and stir to combine.",
+    "Warm the flour tortillas by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the burritos by spooning the salt cod mixture onto the center of each tortilla, followed by a spoonful of diced tomatoes and a sprinkle of shredded cheese.",
+    "Fold the bottom edge of the tortilla up over the filling, then fold in the sides and roll the burrito up tightly.",
+    "Serve the burritos hot, garnished with chopped fresh cilantro."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "burritos",
+    "comfort-food",
+    "fish",
+    "latin-american",
+    "mexican-food",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "creamy-mexican-salt-cod-burrito",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-mexican-salt-cod-burrito",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:16:47Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "pillowy",
+    "mood": "monsoon",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "salt cod",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "salt cod",
+    "descriptor": "Creamy Crunchy",
+    "dishForm": "Burrito"
+  }
+}
