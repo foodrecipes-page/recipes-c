@@ -1,0 +1,98 @@
+{
+  "title": "Crispy Cozy Kenyan Vegetable Skewers",
+  "description": "A mustardy and crispy Kenyan dish featuring garlic powder and infuse-oil, perfect for a cozy snack. This raw-friendly recipe is easy to make and delicious to eat.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "mixed vegetables",
+      "amount": "1 cup",
+      "notes": "such as bell peppers, onions, and mushrooms"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "infuse-oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "skewers",
+      "amount": "10"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together garlic powder, infuse-oil, mustard, salt, and black pepper.",
+    "Add the mixed vegetables to the bowl and toss to coat with the marinade.",
+    "Thread the marinated vegetables onto the skewers.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Drizzle the skewers with lemon juice.",
+    "Bake the skewers in the preheated oven for 20 minutes.",
+    "Remove the skewers from the oven and garnish with chopped fresh parsley if desired.",
+    "Serve the skewers hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "snack",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 2
+  },
+  "slug": "crispy-cozy-kenyan-vegetable-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-cozy-kenyan-vegetable-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:29:26Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crispy",
+    "mood": "cozy",
+    "technique": "infuse-oil",
+    "primaryIngredient": "garlic powder",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "vegetables",
+    "descriptor": "Crispy Cozy",
+    "dishForm": "Skewers"
+  }
+}
