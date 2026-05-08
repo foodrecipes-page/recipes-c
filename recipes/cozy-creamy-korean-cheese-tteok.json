@@ -1,0 +1,103 @@
+{
+  "title": "Cozy Creamy Korean Cheese Tteok",
+  "description": "A low-calorie, cheesy Korean dish made with fast action yeast and toasted ingredients, perfect for a cozy meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fast action yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry yeast can be used as a substitute"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "melted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "shredded mozzarella cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "toasted bread crumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, yeast, salt, and sugar.",
+    "Gradually add the warm water to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Punch down the dough and shape it into small cylindrical shapes.",
+    "Place the shaped dough on a baking sheet lined with parchment paper.",
+    "Brush the tops with melted butter and sprinkle with shredded mozzarella cheese and toasted bread crumbs.",
+    "Bake for 15 minutes or until the cheese is melted and the bread is golden brown.",
+    "Remove from the oven and sprinkle with chopped green onions and soy sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "easy-to-make",
+    "korean-food",
+    "low-calorie",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "cozy-creamy-korean-cheese-tteok",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-creamy-korean-cheese-tteok",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:06:19Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "cheese-pull",
+    "mood": "cozy",
+    "technique": "toast",
+    "primaryIngredient": "fast action yeast",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "cheese",
+    "descriptor": "Cozy Creamy",
+    "dishForm": "Tteok"
+  }
+}
