@@ -1,0 +1,100 @@
+{
+  "title": "Char Grilled Indian Lamb Kebabs",
+  "description": "A malty and shattering Indian dish featuring palm sugar and tamarind, char grilled to perfection, kosher friendly.",
+  "cuisine": "Indian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together palm sugar, tamarind paste, garam masala, cumin powder, coriander powder, cayenne pepper, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and mix until they are well coated with the spice mixture.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill to medium high heat.",
+    "Thread the marinated lamb cubes onto skewers, leaving a small space between each cube.",
+    "Brush the grill with oil to prevent sticking.",
+    "Grill the kebabs for 8-10 minutes per side, or until they are charred and cooked through.",
+    "Serve the kebabs hot with a side of yogurt sauce.",
+    "To make the yogurt sauce, mix together yogurt and a pinch of salt.",
+    "Refrigerate the yogurt sauce until ready to serve."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner-ideas",
+    "grilled-meats",
+    "indian-food",
+    "kosher-friendly",
+    "lamb-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "char-grilled-indian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/char-grilled-indian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:39:51Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "shattering",
+    "mood": "show-off",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "palm-sugar-nam-tan-pip",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "lamb",
+    "descriptor": "Char Grilled",
+    "dishForm": "Kebabs"
+  }
+}
