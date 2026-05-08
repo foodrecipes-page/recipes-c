@@ -1,0 +1,107 @@
+{
+  "title": "Crunchy Crumbly Portuguese Cod Skillet",
+  "description": "This dish features cod cooked in a crumbly mixture of breadcrumbs and spices, served with a side of sauteed vegetables and a drizzle of fish sauce, making for a satisfying midnight craving snack. It is prepared in a way that is friendly to Buddhist temple dietary preferences.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4 fillets",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the breadcrumbs, salt, and black pepper.",
+    "Dip each cod fillet into the breadcrumb mixture, coating both sides evenly.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until it is translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chopped bell pepper and cook until it is tender, about 5 minutes.",
+    "Add the coated cod fillets to the skillet and cook for 3-4 minutes on each side, until they are golden brown and cooked through.",
+    "Transfer the skillet to the preheated oven and bake for 10 minutes.",
+    "Remove the skillet from the oven and drizzle the fish sauce over the top of the cod fillets.",
+    "Sprinkle the chopped parsley over the top of the dish and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "fish-based",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "crunchy-crumbly-portuguese-cod-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-crumbly-portuguese-cod-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:11:02Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crumbly",
+    "mood": "midnight-craving",
+    "technique": "saute",
+    "primaryIngredient": "fish-sauce-nam-pla",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "cod",
+    "descriptor": "crunchy crumbly",
+    "dishForm": "Skillet"
+  }
+}

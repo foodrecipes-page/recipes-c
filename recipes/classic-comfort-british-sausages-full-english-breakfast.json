@@ -1,0 +1,97 @@
+{
+  "title": "Classic Comfort British Sausages Full English Breakfast",
+  "description": "A hearty, comforting dish featuring sausages, eggs, and mirepoix-base vegetables, perfect for a midnight craving, this satvik-friendly full English breakfast is grilled to perfection on a binchotan grill and served with a side of sugar syrup for a touch of sweetness and a drizzle of mustard for added flavor.",
+  "cuisine": "British",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "British sausages",
+      "amount": "4",
+      "notes": "preferably made with pork and seasoned with salt, pepper, and herbs"
+    },
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": "large eggs, preferably free-range"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sugar syrup",
+      "amount": "1/4 cup",
+      "notes": "made by dissolving sugar in water"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tablespoons",
+      "notes": "preferably English mustard"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "1 bag",
+      "notes": "for grilling"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to a medium-high heat, ensuring the charcoal is spread evenly and the grill is clean.",
+    "Grill the British sausages for 5-7 minutes on each side, or until they are cooked through and lightly charred.",
+    "While the sausages are cooking, heat a non-stick pan over medium heat and add a small amount of oil.",
+    "Add the sliced onions to the pan and cook for 5 minutes, or until they are softened and lightly browned.",
+    "Add the grated carrots and sliced celery to the pan and cook for a further 5 minutes, stirring occasionally.",
+    "Crack the eggs into a bowl and whisk them together, then pour them into a non-stick pan coated with a small amount of oil and scramble them until they are cooked through.",
+    "To serve, place the grilled sausages onto a plate, then add a spoonful of the mirepoix-base vegetables and a scrambled egg.",
+    "Drizzle the sugar syrup over the top of the dish, followed by a dollop of mustard."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "grilled-meals",
+    "hearty-breakfast",
+    "high-protein",
+    "satvik-friendly"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "classic-comfort-british-sausages-full-english-breakfast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/classic-comfort-british-sausages-full-english-breakfast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:11:24Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "velvety",
+    "mood": "midnight-craving",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "sugar syrup",
+    "diet": "satvik",
+    "region": "northern-irish",
+    "cuisineAdjective": "British",
+    "mainIngredient": "sausages",
+    "descriptor": "Classic Comfort",
+    "dishForm": "Full English Breakfast"
+  }
+}
