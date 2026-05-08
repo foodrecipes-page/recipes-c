@@ -1,0 +1,135 @@
+{
+  "title": "Charred Kenyan Sirloin Steak Paella",
+  "description": "A hearty and flavorful brunch dish from Kenya featuring charred sirloin steak, pickled vegetables, and fluffy rice. Served in a traditional paella pan.",
+  "cuisine": "kenyan",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1.5 lbs sirloin steak",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 cup uncooked paella rice",
+      "amount": "1",
+      "notes": "Spanish or short-grain rice is best for paella."
+    },
+    {
+      "name": "2 cups chicken broth",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 cup mixed pickled vegetables (such as carrots, onions, and bell peppers)",
+      "amount": "1",
+      "notes": "Store-bought or homemade, drained and chopped."
+    },
+    {
+      "name": "2 tsp smoked paprika",
+      "amount": "1",
+      "notes": "Spanish smoked paprika gives the dish its signature smoky flavor."
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp salt",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/2 tsp black pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 cup diced tomatoes",
+      "amount": "1",
+      "notes": "Fresh or canned."
+    },
+    {
+      "name": "2 sprigs fresh thyme",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup chopped fresh cilantro",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 lemon, cut into wedges",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup crumbled feta cheese (optional)",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the sirloin steak and cook until browned, about 2-3 minutes per side. Remove from the pan and set aside.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the smoked paprika, cumin, salt, and pepper. Cook for 1 minute, stirring constantly.",
+    "Add the chicken broth and diced tomatoes. Bring to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Add the paella rice to the pan and stir to coat with the tomato mixture.",
+    "Return the sirloin steak to the pan, nestling it into the rice mixture.",
+    "Add the pickled vegetables, thyme, and cilantro. Stir gently to combine.",
+    "Cover the pan with a lid and transfer to the oven. Bake at 375°F for 25-30 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Remove from the oven and let rest for 5 minutes before slicing the steak and serving with a wedge of lemon.",
+    "Garnish with chopped cilantro and crumbled feta cheese, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "high-protein",
+    "kenyan",
+    "one-pan",
+    "paella",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 55,
+    "carbs": 45,
+    "fat": 25
+  },
+  "slug": "charred-kenyan-sirloin-steak-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-kenyan-sirloin-steak-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:23:31Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "fluffy",
+    "mood": "brunch-mood",
+    "technique": "pickle",
+    "primaryIngredient": "sirloin steak",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "sirloin steak",
+    "descriptor": "charred",
+    "dishForm": "paella"
+  }
+}
