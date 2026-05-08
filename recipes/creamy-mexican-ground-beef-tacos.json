@@ -1,0 +1,94 @@
+{
+  "title": "Creamy Mexican Ground Beef Tacos",
+  "description": "A nutty and velvety weeknight Mexican dish featuring ground annatto and a flexitarian-friendly twist, shaped like nigiri for a unique presentation.",
+  "cuisine": "Mexican",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "annatto powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "taco seasoning",
+      "amount": "1 packet"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10"
+    }
+  ],
+  "instructions": [
+    "Brown the ground beef in a large skillet over medium-high heat, breaking it up into small pieces as it cooks.",
+    "Add the annatto powder, onion, and garlic to the skillet and cook until the onion is translucent.",
+    "Stir in the taco seasoning and cook for 1-2 minutes, until fragrant.",
+    "Reduce heat to low and stir in the sour cream, letting it simmer for 5-7 minutes, until the mixture is creamy and heated through.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the beef mixture onto a tortilla and topping with shredded cheese.",
+    "Use your hands to shape each taco into a nigiri-like shape, applying gentle pressure to form a compact shape.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional sour cream, cheese, and any other desired toppings.",
+    "Store leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "flexitarian",
+    "ground-beef",
+    "mexican",
+    "one-pan",
+    "tacos",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 28
+  },
+  "slug": "creamy-mexican-ground-beef-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-mexican-ground-beef-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:38:37Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "velvety",
+    "mood": "weeknight",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "ground annatto",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "ground beef",
+    "descriptor": "Creamy",
+    "dishForm": "Tacos"
+  }
+}
