@@ -1,0 +1,104 @@
+{
+  "title": "Comforting Australian Lentil Stew",
+  "description": "A savory and fluffy one-pot Australian dish featuring plum jam, this stew is a perfect comfort food for any time of the year. It is also shojin-friendly, making it accessible to a wide range of diets.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "plum jam",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until it is translucent, about 5 minutes.",
+    "Add the chopped carrots and potatoes, and cook for an additional 5 minutes.",
+    "Add the rinsed lentils, vegetable broth, tomato paste, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 30 minutes.",
+    "Stir in the plum jam and continue to simmer for an additional 10 minutes, or until the stew has thickened slightly.",
+    "Use a whisk to stir the stew and ensure that the flavors are well combined.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "australian-cuisine",
+    "comfort-food",
+    "lentil-stew",
+    "one-pot",
+    "shojin-friendly",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "comforting-australian-lentil-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/comforting-australian-lentil-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:56:12Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "fluffy",
+    "mood": "one-pot",
+    "technique": "whisk",
+    "primaryIngredient": "plum jam",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "lentils",
+    "descriptor": "Comforting",
+    "dishForm": "Stew"
+  }
+}
