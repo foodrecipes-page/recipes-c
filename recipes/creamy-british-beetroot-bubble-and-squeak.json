@@ -1,0 +1,95 @@
+{
+  "title": "Creamy British Beetroot Bubble And Squeak",
+  "description": "A lacto-vegetarian-friendly Welsh dish featuring cooked beetroot in a creamy bubble and squeak form, steamed to perfection in a ceramic tagine.",
+  "cuisine": "British",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beetroot",
+      "amount": "4 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "double cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large pot, boil the diced beetroot and potatoes until they are tender.",
+    "In a large pan, heat the vegetable oil over medium heat and saute the chopped onion until it is translucent.",
+    "Add the minced garlic to the pan and cook for an additional minute.",
+    "Drain the cooked beetroot and potatoes, then add them to the pan with the onion and garlic.",
+    "Mash the mixture together with a spoon until it is mostly smooth.",
+    "Stir in the double cream, salt, and black pepper until the mixture is creamy and well combined.",
+    "Transfer the mixture to a ceramic tagine and steam it in the preheated oven for 20 minutes.",
+    "Remove the tagine from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "ceramic-cooking",
+    "comfort-food",
+    "lacto-vegetarian",
+    "root-vegetables",
+    "steamed-dishes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "creamy-british-beetroot-bubble-and-squeak",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-british-beetroot-bubble-and-squeak",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:29:57Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "juicy",
+    "mood": "monsoon",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "cooked beetroot",
+    "diet": "lacto-vegetarian",
+    "region": "welsh",
+    "cuisineAdjective": "British",
+    "mainIngredient": "beetroot",
+    "descriptor": "Creamy Juicy",
+    "dishForm": "Bubble And Squeak"
+  }
+}

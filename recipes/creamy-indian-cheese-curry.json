@@ -1,0 +1,101 @@
+{
+  "title": "Creamy Indian Cheese Curry",
+  "description": "A rich and creamy Indian cheese curry with an earthy flavor, featuring sriracha and ayurvedic-sattvic friendly ingredients, cooked in a claypot.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "250g",
+      "notes": "Indian cheese"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "sriracha",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "curry leaves",
+      "amount": "10"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat ghee in a claypot over medium heat.",
+    "Add onion, garlic, and ginger, and saute until the onion is translucent.",
+    "Add curry leaves and saute for another minute.",
+    "Add sriracha, salt, and black pepper, and stir well.",
+    "Add paneer and stir gently to combine with the spice mixture.",
+    "Pour in coconut milk and bring the mixture to a simmer.",
+    "Reduce heat to low and let the curry simmer for 10 minutes.",
+    "Stir occasionally to prevent the cheese from sticking to the bottom of the claypot.",
+    "Remove from heat and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-lovers",
+    "gluten-free",
+    "indian-cuisine",
+    "one-pot",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "creamy-indian-cheese-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-indian-cheese-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:29:17Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "cheese-pull",
+    "mood": "one-pot",
+    "technique": "brine-dry",
+    "primaryIngredient": "sriracha",
+    "diet": "ayurvedic-sattvic",
+    "region": "south",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "cheese",
+    "descriptor": "Creamy Claypot",
+    "dishForm": "Curry"
+  }
+}
