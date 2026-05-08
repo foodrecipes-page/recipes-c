@@ -1,0 +1,94 @@
+{
+  "title": "Crunchy Light Japanese Fregola Zenzai",
+  "description": "A kid-friendly Japanese dish featuring fregola, double-rise-bread, and a keto-friendly twist, served in a bamboo steamer.",
+  "cuisine": "Japanese",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fregola",
+      "amount": "1 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "double-rise-bread",
+      "amount": "2 slices",
+      "notes": "cubed"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated daikon",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Toast the fregola in a dry pan over medium heat until lightly browned.",
+    "Cut the double-rise-bread into small cubes and toast until crispy.",
+    "In a large bowl, whisk together the sesame oil, soy sauce, and salt.",
+    "Add the toasted fregola, bread cubes, grated daikon, and green onions to the bowl and toss to combine.",
+    "Spoon the mixture into a bamboo steamer lined with parchment paper.",
+    "Sprinkle the sesame seeds over the top of the mixture.",
+    "Steam the zenzai over boiling water for 5 minutes.",
+    "Serve the zenzai hot, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bamboo-steamer",
+    "japanese",
+    "keto",
+    "kid-friendly",
+    "low-carb",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "crunchy-light-japanese-fregola-zenzai",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-light-japanese-fregola-zenzai",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:41:10Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "light",
+    "mood": "kid-friendly",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "fregola",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "fregola",
+    "descriptor": "crunchy light",
+    "dishForm": "Zenzai"
+  }
+}
