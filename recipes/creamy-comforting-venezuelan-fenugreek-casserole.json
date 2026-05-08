@@ -1,0 +1,97 @@
+{
+  "title": "Creamy Comforting Venezuelan Fenugreek Casserole",
+  "description": "A fresh and molten Venezuelan dish featuring fenugreek, this casserole is a perfect hangover cure, wood-fired-baked to perfection and macrobiotic-friendly.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fenugreek leaves",
+      "amount": "2 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 400 degrees Fahrenheit.",
+    "Chop the onion and mince the garlic.",
+    "Sauté the onion and garlic in olive oil until softened.",
+    "Add the fenugreek leaves and cook until wilted.",
+    "Boil the sweet potatoes until tender, then mash.",
+    "In a separate saucepan, heat the coconut milk over low heat.",
+    "Add the nutritional yeast, salt, and black pepper to the coconut milk and stir until combined.",
+    "In a large bowl, combine the sautéed onion and garlic, wilted fenugreek, mashed sweet potatoes, and coconut milk mixture.",
+    "Transfer the mixture to a baking dish and bake for 30 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fenugreek",
+    "macrobiotic",
+    "sweet-potato",
+    "vegan-friendly",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "creamy-comforting-venezuelan-fenugreek-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-comforting-venezuelan-fenugreek-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:39:41Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "molten",
+    "mood": "hangover-cure",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "fenugreek",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "fenugreek",
+    "descriptor": "Creamy Comforting",
+    "dishForm": "Casserole"
+  }
+}
