@@ -1,0 +1,96 @@
+{
+  "title": "Charred Juicy Australian Meat Barbie",
+  "description": "A hangover-cure dish featuring fresh thyme and a spicy kick from bhuna. Perfect for a hearty Australian meal.",
+  "cuisine": "Australian",
+  "diet": [
+    "omnivore",
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rump Steak",
+      "amount": "1 kg",
+      "notes": ""
+    },
+    {
+      "name": "Thyme",
+      "amount": "4 sprigs",
+      "notes": "Fresh thyme for added flavor."
+    },
+    {
+      "name": "Bhuna Curry Sauce",
+      "amount": "250g",
+      "notes": "Store-bought or homemade."
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the grill to medium-high heat, about 200°C.",
+    "Pat the rump steak dry with paper towels.",
+    "Season the steak with salt and pepper.",
+    "Grill the steak for 4-5 minutes per side, or until it reaches your desired level of doneness.",
+    "While the steak is cooking, heat the olive oil in a small pan over medium heat.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the bhuna curry sauce and cook for a further 2 minutes, stirring constantly.",
+    "Once the steak is cooked, let it rest for 5 minutes before slicing it thinly.",
+    "To serve, place the sliced steak on a plate, spoon the bhuna sauce over the top, and sprinkle with fresh thyme.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "grilled",
+    "high-protein",
+    "meat",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 60,
+    "carbs": 20,
+    "fat": 45
+  },
+  "slug": "charred-juicy-australian-meat-barbie",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-juicy-australian-meat-barbie",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:30:51Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "juicy",
+    "mood": "hangover-cure",
+    "technique": "bhuna",
+    "primaryIngredient": "fresh thyme",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "meat",
+    "descriptor": "charred juicy",
+    "dishForm": "barbie"
+  }
+}
