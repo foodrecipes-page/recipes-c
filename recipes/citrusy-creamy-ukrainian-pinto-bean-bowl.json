@@ -1,0 +1,110 @@
+{
+  "title": "Citrusy Creamy Ukrainian Pinto Bean Bowl",
+  "description": "A spring-inspired Ukrainian dish featuring pinto beans, served in a stone bowl with a citrusy twist, perfect for a brunch mood. This shojin-friendly recipe is both refreshing and filling.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pinto beans",
+      "amount": "1 cup",
+      "notes": "cooked and drained"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "1/2 cup",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "dill",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "vegan sour cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Add the chopped onion and cook for 3 minutes until translucent.",
+    "Add the grated carrots and cook for 2 minutes until they start to soften.",
+    "In a large bowl, whisk together the lemon juice, orange juice, and a pinch of salt and pepper.",
+    "Add the cooked pinto beans, chopped dill, and cooked carrot mixture to the bowl and stir to combine.",
+    "Stir in the vegan sour cream until well combined.",
+    "Season with salt and black pepper to taste.",
+    "Serve the bean mixture in a stone bowl, garnished with additional chopped fresh dill if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brunch-ideas",
+    "high-fiber",
+    "spring-inspired",
+    "stone-bowl-recipes",
+    "ukrainian-cuisine",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "citrusy-creamy-ukrainian-pinto-bean-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-creamy-ukrainian-pinto-bean-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:03:23Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "springy",
+    "mood": "brunch-mood",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "pinto beans",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "pinto beans",
+    "descriptor": "Citrusy Creamy",
+    "dishForm": "Bowl"
+  }
+}
