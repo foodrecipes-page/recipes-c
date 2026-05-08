@@ -1,0 +1,107 @@
+{
+  "title": "Creamy Brazilian Vegetable Gratin",
+  "description": "A tender and romantic Brazilian dish featuring a variety of vegetables in a creamy sauce, topped with Parmigiano-Reggiano cheese. This mustardy gratin is perfect for a special occasion.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "yellow squash",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tablespoons",
+      "notes": "whole-grain"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Parmigiano-Reggiano cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large pot of boiling salted water, blanch the sliced zucchini and yellow squash for 3 minutes.",
+    "Add the sliced carrots to the pot and continue to boil for an additional 3 minutes.",
+    "Drain the vegetables and set them aside.",
+    "In a large skillet, saute the chopped onion and minced garlic in a little bit of oil until they are tender.",
+    "In a separate saucepan, combine the heavy cream, whole-grain mustard, salt, and black pepper, and bring the mixture to a simmer over medium heat.",
+    "Reduce the heat to low and let the cream sauce simmer for 5 minutes, stirring occasionally.",
+    "In a large bowl, combine the blanched vegetables, sauteed onion and garlic, and the cream sauce, and toss until the vegetables are well coated.",
+    "Transfer the vegetable mixture to a slate-tile vessel and top with the shredded Parmigiano-Reggiano cheese.",
+    "Bake the gratin in the preheated oven for 20 minutes, or until the top is golden brown and the vegetables are tender."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "gratin",
+    "one-pan",
+    "romantic",
+    "special-occasion",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "creamy-brazilian-vegetable-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-brazilian-vegetable-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:20:21Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "tender",
+    "mood": "romantic",
+    "technique": "boil",
+    "primaryIngredient": "parmigiano-reggiano",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "vegetables",
+    "descriptor": "creamy tender",
+    "dishForm": "Gratin"
+  }
+}
