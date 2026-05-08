@@ -1,0 +1,97 @@
+{
+  "title": "Chewy Crazy Mexican Beef Kidney Tacos",
+  "description": "A sweet and chewy Mexican dish featuring beef kidney, perfect for a brunch mood, with ayurvedic tamasic friendly ingredients and infused oil.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef kidney",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "infused oil",
+      "amount": "1/4 cup",
+      "notes": "with garlic and chili flakes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "taco seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the infused oil in a large skillet over medium-high heat.",
+    "Add the sliced beef kidney to the skillet and cook until browned, about 5 minutes.",
+    "Add the chopped onion and bell pepper to the skillet and cook until the vegetables are tender.",
+    "Add the taco seasoning to the skillet and stir to combine.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing a portion of the beef kidney mixture onto a tortilla and topping with shredded cheese, chopped cilantro, and a squeeze of lime juice.",
+    "Serve the tacos immediately and enjoy.",
+    "Garnish with additional chopped cilantro and lime wedges, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-kidney",
+    "brunch-ideas",
+    "gluten-free",
+    "mexican-food",
+    "taco-tuesday"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "chewy-crazy-mexican-beef-kidney-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-crazy-mexican-beef-kidney-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:14:40Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "chewy",
+    "mood": "brunch-mood",
+    "technique": "infuse-oil",
+    "primaryIngredient": "beef kidney",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "beef kidney",
+    "descriptor": "Chewy Crazy",
+    "dishForm": "Tacos"
+  }
+}
