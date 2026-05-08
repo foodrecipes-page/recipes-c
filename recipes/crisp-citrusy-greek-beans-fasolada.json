@@ -1,0 +1,98 @@
+{
+  "title": "Crisp Citrusy Greek Beans Fasolada",
+  "description": "A tangy and crisp Greek dish featuring poppy seeds, perfect for a brunch mood, this pescatarian-friendly fasolada is a delicious twist on traditional Greek cuisine. It combines the freshness of citrus with the comfort of beans.",
+  "cuisine": "Greek",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "navy beans",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "poppy seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Rinse the navy beans and soak them in water for at least 8 hours or overnight.",
+    "Drain and rinse the soaked beans, then place them in a pressure cooker with 4 cups of water.",
+    "Add the chopped onion, minced garlic, salt, and black pepper to the pressure cooker.",
+    "Close the lid and cook on high pressure for 20 minutes, then let the pressure release naturally.",
+    "In a small bowl, whisk together the lemon juice and olive oil.",
+    "Stir the lemon juice mixture into the cooked beans.",
+    "Sprinkle the poppy seeds over the top of the beans and serve.",
+    "Garnish with additional lemon wedges if desired.",
+    "Serve hot, garnished with chopped fresh parsley or dill if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bean-recipes",
+    "brunch-ideas",
+    "citrus-recipes",
+    "greek-cuisine",
+    "pescatarian-friendly",
+    "pressure-cooker-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "crisp-citrusy-greek-beans-fasolada",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-citrusy-greek-beans-fasolada",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:19:04Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crisp",
+    "mood": "brunch-mood",
+    "technique": "pressure-cook",
+    "primaryIngredient": "poppy seeds",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "beans",
+    "descriptor": "Crisp Citrusy",
+    "dishForm": "Fasolada"
+  }
+}
