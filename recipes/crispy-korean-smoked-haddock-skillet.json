@@ -1,0 +1,97 @@
+{
+  "title": "Crispy Korean Smoked Haddock Skillet",
+  "description": "A crispy and grassy one-pot Korean dish featuring smoked haddock, spherified for a unique texture, and is keto-friendly",
+  "cuisine": "Korean",
+  "diet": [
+    "keto",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoked haddock",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "xanthan gum",
+      "amount": "1/4 teaspoon",
+      "notes": "for spherification"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large skillet over medium-high heat",
+    "Add the garlic and cook for 1 minute until fragrant",
+    "Add the smoked haddock and cook for 3-4 minutes until crispy and golden brown",
+    "In a small bowl, whisk together the gochujang and soy sauce",
+    "Pour the gochujang mixture over the smoked haddock and stir to combine",
+    "Sprinkle the toasted sesame seeds and chopped green onions over the top",
+    "Using a syringe or spoon, drop small amounts of the xanthan gum mixture into the skillet to create spheres",
+    "Cook for an additional 1-2 minutes until the spheres are set",
+    "Serve the crispy smoked haddock skillet hot, garnished with additional green onions and sesame seeds if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "gluten-free",
+    "keto-friendly",
+    "korean-inspired",
+    "low-carb",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "crispy-korean-smoked-haddock-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-korean-smoked-haddock-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:15:39Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "spherify",
+    "primaryIngredient": "smoked haddock",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "haddock",
+    "descriptor": "Crispy Grassy",
+    "dishForm": "Skillet"
+  }
+}
