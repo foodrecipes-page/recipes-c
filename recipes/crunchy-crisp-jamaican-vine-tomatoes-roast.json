@@ -1,0 +1,100 @@
+{
+  "title": "Crunchy Crisp Jamaican Vine Tomatoes Roast",
+  "description": "A light and peppery Jamaican dish featuring vine tomatoes, this lacto-vegetarian friendly roast is perfect for a snack or dinner.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vine tomatoes",
+      "amount": "4 large",
+      "notes": "on the vine"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "bread crumbs",
+      "amount": "1/4 cup",
+      "notes": "plain"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the vine tomatoes with olive oil, scotch bonnet peppers, garlic, thyme, salt, and black pepper until they are evenly coated.",
+    "Spread the tomatoes out in a single layer on a baking sheet.",
+    "Roast the tomatoes in the preheated oven for 20 minutes.",
+    "While the tomatoes are roasting, mix the feta cheese and bread crumbs in a small bowl.",
+    "After the tomatoes have roasted for 20 minutes, sprinkle the feta cheese and bread crumb mixture evenly over the top of the tomatoes.",
+    "Return the tomatoes to the oven and continue roasting for an additional 10 minutes, or until the bread crumbs are golden brown and the tomatoes are tender.",
+    "Remove the tomatoes from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy-snack",
+    "jamaican-cuisine",
+    "lacto-vegetarian",
+    "one-pan",
+    "roasted-vegetables",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "crunchy-crisp-jamaican-vine-tomatoes-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-crisp-jamaican-vine-tomatoes-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:31:13Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "shattering",
+    "mood": "light",
+    "technique": "roast",
+    "primaryIngredient": "vine tomatoes",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "vine tomatoes",
+    "descriptor": "crunchy crisp",
+    "dishForm": "Roast"
+  }
+}
