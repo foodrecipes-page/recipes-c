@@ -1,0 +1,89 @@
+{
+  "title": "Crunchy Dutch Cobnut Pancakes",
+  "description": "A delicious and healthy Dutch dish featuring cobnuts, perfect for a brunch mood, with a jammy and bouncy texture, and a low-glycemic friendly soffritto base.",
+  "cuisine": "Dutch",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "cobnuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "almond flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "4"
+    },
+    {
+      "name": "soffritto mix",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "jam",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "In a large bowl, whisk together the almond flour, eggs, soffritto mix, and salt.",
+    "Add the chopped cobnuts and melted butter to the bowl and stir until well combined.",
+    "Using a 1/4 cup measuring cup, scoop the batter onto the skillet or griddle.",
+    "Cook the pancakes for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Flip the pancakes and cook for another 1-2 minutes, until golden brown.",
+    "Serve the pancakes warm with a dollop of jam on top.",
+    "Garnish with additional chopped cobnuts if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "cobnut-recipes",
+    "dutch-cuisine",
+    "gluten-free",
+    "healthy-breakfast",
+    "low-glycemic"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "crunchy-dutch-cobnut-pancakes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-dutch-cobnut-pancakes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:30:24Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "bouncy-qq",
+    "mood": "brunch-mood",
+    "technique": "soffritto-base",
+    "primaryIngredient": "cobnuts",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "cobnuts",
+    "descriptor": "crunchy bouncy",
+    "dishForm": "Pancakes"
+  }
+}
