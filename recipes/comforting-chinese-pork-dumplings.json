@@ -1,0 +1,93 @@
+{
+  "title": "Comforting Chinese Pork Dumplings",
+  "description": "A traditional Zhejiang dish featuring ground ginger and juicy pork, perfect for a sick day, cooked in an iron teppan and served in a papillote, this recipe is low in carbs and full of flavor.",
+  "cuisine": "Chinese",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "preferably with some fat for flavor"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "wonton wrappers",
+      "amount": "20-24 pieces"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the ground pork, ground ginger, green onions, soy sauce, and sesame oil, and mix well until just combined.",
+    "Lay a wonton wrapper on a flat surface and place a small spoonful of the pork mixture in the center of the wrapper.",
+    "Dip your finger in a small amount of water and run it along the edges of the wrapper, then fold the wrapper into a triangle by bringing the two opposite corners together to form a point.",
+    "Press the edges together to seal the dumpling, and repeat with the remaining wrappers and filling.",
+    "Heat the iron teppan over medium-high heat and add a small amount of oil to the pan.",
+    "When the oil is hot, add the dumplings to the pan, being careful not to overcrowd, and cook until the bottoms are golden brown.",
+    "Add the chicken broth to the pan and bring to a boil, then reduce the heat to low and cover the pan with a papillote.",
+    "Simmer the dumplings for 10-12 minutes, or until they are cooked through and the yeast has activated, giving the dish a yeasty flavor.",
+    "Serve the dumplings hot, garnished with additional green onions and soy sauce if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-inspired",
+    "comfort-food",
+    "healthy",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "comforting-chinese-pork-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/comforting-chinese-pork-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:06:11Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "juicy",
+    "mood": "sick-day",
+    "technique": "papillote",
+    "primaryIngredient": "ground ginger",
+    "diet": "low-carb",
+    "region": "zhejiang",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "Comforting Crispy",
+    "dishForm": "Dumplings"
+  }
+}
