@@ -1,0 +1,109 @@
+{
+  "title": "Creamy Tunisian Prawn Tagine",
+  "description": "A romantic Tunisian dish featuring raw tiger prawns in a creamy sauce, this recipe is lacto-vegetarian-friendly and perfect for a special occasion.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tiger prawns",
+      "amount": "12 large",
+      "notes": "raw, peeled and deveined"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Melt the butter in a large saucepan over medium heat, then add the olive oil and swirl it around.",
+    "Add the chopped onion to the saucepan and cook, stirring occasionally, until it is softened and lightly browned.",
+    "Add the minced garlic to the saucepan and cook for 1 minute, stirring constantly to prevent burning.",
+    "Stir in the ground cumin, paprika, and cayenne pepper and cook for 1 minute.",
+    "Add the heavy cream to the saucepan and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the sauce simmer, stirring occasionally, until it has thickened slightly.",
+    "Add the raw tiger prawns to the saucepan and cook, stirring occasionally, until they are pink and cooked through.",
+    "Stir in the chopped fresh parsley and season the sauce with salt and black pepper to taste.",
+    "Transfer the creamy prawn tagine to a lazy-susan-spinner and serve hot, with the sauce spooned over the top of the prawns.",
+    "Place the lazy-susan-spinner over a bain-marie to keep the dish warm during serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lacto-vegetarian",
+    "north-african",
+    "one-pot",
+    "romantic",
+    "seafood",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "creamy-tunisian-prawn-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-tunisian-prawn-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:51:27Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "fluffy",
+    "mood": "romantic",
+    "technique": "bain-marie",
+    "primaryIngredient": "raw tiger prawns",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "prawns",
+    "descriptor": "Creamy Bitter",
+    "dishForm": "Tagine"
+  }
+}
