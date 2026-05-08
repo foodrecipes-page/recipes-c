@@ -1,0 +1,107 @@
+{
+  "title": "Caramelized Crunchy Italian Vegetable Ribollita",
+  "description": "A hearty and flavorful Italian dish featuring caramelized vegetables and crunchy texture, perfect for a midnight craving. This ribollita is made with demerara sugar and ayurvedic-rajasic-friendly ingredients.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cannellini beans",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "demerara sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "kale",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onions and cook until they are translucent and starting to caramelize.",
+    "Add the chopped carrots and celery and cook for an additional 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the demerara sugar and cook for 1 minute, stirring constantly.",
+    "Add the chopped kale and cook until it is wilted.",
+    "Add the cannellini beans, vegetable broth, and salt and pepper to taste.",
+    "Bring the mixture to a boil, then reduce the heat and simmer for 20 minutes.",
+    "Use an immersion blender to puree the soup until it is partially smooth.",
+    "Serve the ribollita hot, topped with grated parmesan cheese if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "healthy-dinner",
+    "italian-food",
+    "one-pot",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "caramelized-crunchy-italian-vegetable-ribollita",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/caramelized-crunchy-italian-vegetable-ribollita",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:47:34Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "springy",
+    "mood": "midnight-craving",
+    "technique": "caramelize",
+    "primaryIngredient": "demerara sugar",
+    "diet": "ayurvedic-rajasic",
+    "region": "piedmontese",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Caramelized Crunchy",
+    "dishForm": "Ribollita"
+  }
+}
