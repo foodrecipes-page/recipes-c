@@ -1,0 +1,101 @@
+{
+  "title": "Crisp Portuguese Chicken Skewers",
+  "description": "A weeknight Portuguese dish featuring charred and crisp chicken skewers with pomegranate, cooked to perfection in a ti-leaf wrap, this recipe is onion and garlic free.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "pomegranate juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "4-6 leaves"
+    },
+    {
+      "name": "pomegranate seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the pressure cooker to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together pomegranate juice, olive oil, lemon juice, paprika, salt, and black pepper.",
+    "Add the chicken pieces to the bowl and toss to coat with the marinade.",
+    "Thread 3-4 pieces of chicken onto each skewer, leaving a small space between each piece.",
+    "Wrap each skewer in a ti leaf, securing with a toothpick if needed.",
+    "Place the skewers in the pressure cooker and cook for 10 minutes.",
+    "Remove the skewers from the pressure cooker and brush with additional pomegranate juice if desired.",
+    "Serve the skewers hot, garnished with pomegranate seeds and chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken-recipes",
+    "gluten-free",
+    "low-carb",
+    "portuguese-cuisine",
+    "pressure-cooker",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "crisp-portuguese-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-portuguese-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:41:46Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crisp",
+    "mood": "weeknight",
+    "technique": "pressure-cook",
+    "primaryIngredient": "pomegranate",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "chicken",
+    "descriptor": "Charred Crisp",
+    "dishForm": "Skewers"
+  }
+}
