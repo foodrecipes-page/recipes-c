@@ -1,0 +1,93 @@
+{
+  "title": "Crispy Resinous Norwegian Pork Skewers",
+  "description": "A paleo-friendly Norwegian dish featuring crispy pork skewers with a resinous flavor, paired with raspberries and pickle, perfect for a quick dinner or meal prep",
+  "cuisine": "Norwegian",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "raspberries",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "pickle juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "arrowroot powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together coconut sugar, arrowroot powder, salt, and black pepper",
+    "Add the pork cubes to the bowl and toss to coat with the sugar mixture",
+    "Thread the coated pork cubes onto skewers, leaving a small space between each cube",
+    "Place the skewers on a baking sheet lined with parchment paper",
+    "Drizzle the coconut oil over the skewers and toss to coat",
+    "Bake the skewers in the preheated oven for 20 minutes, or until crispy and golden brown",
+    "While the skewers are baking, mix the pickle juice and raspberries in a small bowl",
+    "Serve the crispy pork skewers with the raspberry pickle sauce"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy-pork",
+    "meal-prep",
+    "norwegian-cuisine",
+    "paleo-friendly",
+    "resinous-flavor"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "crispy-resinous-norwegian-pork-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-resinous-norwegian-pork-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:44:08Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crispy",
+    "mood": "meal-prep",
+    "technique": "pickle",
+    "primaryIngredient": "raspberries",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "pork",
+    "descriptor": "Crispy resinous",
+    "dishForm": "Skewers"
+  }
+}
