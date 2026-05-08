@@ -1,0 +1,101 @@
+{
+  "title": "Comforting Cheesy Irish Beef Casserole",
+  "description": "A hearty, comforting casserole featuring ground beef, cheese, and a crunchy Grape Nut cereal topping, perfect for a lazy Sunday. This dish is also ayurvedic-rajasic-friendly, promoting energy and vitality.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 lb",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Grape Nut cereal",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion to the skillet and cook until it is translucent and starting to caramelize.",
+    "Add the beef broth, tomato paste, salt, and black pepper to the skillet, stirring to combine, and bring to a boil.",
+    "Reduce the heat to low and simmer the mixture for 10 minutes, stirring occasionally, to allow the flavors to meld and the liquid to reduce.",
+    "While the beef mixture is simmering, prepare the cheese topping by mixing the shredded cheddar cheese and crushed Grape Nut cereal in a bowl.",
+    "Transfer the beef mixture to a 9x13 inch baking dish and top with the cheese and Grape Nut mixture.",
+    "Dot the top of the casserole with the butter and place it in the oven to bake for 25 minutes, or until the top is golden brown and the cheese is melted and bubbly.",
+    "Remove the casserole from the oven and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "casserole",
+    "cheesy",
+    "comfort-food",
+    "irish-inspired",
+    "meat-based",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 37
+  },
+  "slug": "comforting-cheesy-irish-beef-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/comforting-cheesy-irish-beef-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:22:49Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "cheese-pull",
+    "mood": "lazy-sunday",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "grape nut cereal",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "beef",
+    "descriptor": "Comforting Cheesy",
+    "dishForm": "Casserole"
+  }
+}
