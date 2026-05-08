@@ -1,0 +1,106 @@
+{
+  "title": "Crisp Moroccan Pepper Tagine",
+  "description": "A crispy, malty Moroccan dish perfect for a post-workout meal featuring bell peppers and temper for a plant-based protein boost.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bell Peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "Heat-safe"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "1/2 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Temper",
+      "amount": "1 cup",
+      "notes": " Cooked"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "",
+      "notes": "Chopped (for garnish)"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pan over medium-high heat.",
+    "Add the onion and garlic and cook until the onion is translucent.",
+    "Add the ginger and cook for 1 minute.",
+    "Add the bell peppers and cook until they start to soften.",
+    "Add the cumin, cayenne pepper, and salt. Cook for 1 minute.",
+    "Pour in the temper and bring to a simmer.",
+    "Reduce heat to low and cook, covered, for 10 minutes.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "moroccan",
+    "one-pan",
+    "post-workout",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "crisp-moroccan-pepper-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-moroccan-pepper-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:41:33Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crisp",
+    "mood": "post-workout",
+    "technique": "temper",
+    "primaryIngredient": "pepper",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "pepper",
+    "descriptor": "crisp",
+    "dishForm": "Tagine"
+  }
+}
