@@ -1,0 +1,106 @@
+{
+  "title": "Cozy Chinese Cabbage Shui Zhu Yu",
+  "description": "A pungent and tender Chinese dish featuring cabbage, this recipe is an ayurvedic-tamasic-friendly version of the classic Shui Zhu Yu, with a rich deglaze-fond adding depth to the cozy meal. It is made with a variety of ingredients, including cabbage, fish, and spices.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese cabbage",
+      "amount": "1 head",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fish fillets",
+      "amount": "4 pieces",
+      "notes": "cod or tilapia"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large skillet or wok over medium-high heat.",
+    "Add sliced ginger and cook for 1 minute, until fragrant.",
+    "Add minced garlic and cook for another minute, until lightly browned.",
+    "Add chopped Chinese cabbage and cook until it starts to wilt, about 2 minutes.",
+    "Add fish fillets and cook for 2-3 minutes per side, until cooked through.",
+    "Remove the fish from the skillet and set aside.",
+    "Add soy sauce, rice vinegar, salt, and black pepper to the skillet, stirring to combine.",
+    "Scrape up any browned bits from the bottom of the skillet.",
+    "Return the fish to the skillet and spoon some of the sauce over the top of each fillet.",
+    "Garnish with chopped scallions and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "dairy-free",
+    "fish-recipes",
+    "gluten-free",
+    "healthy-dinner",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "cozy-chinese-cabbage-shui-zhu-yu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-chinese-cabbage-shui-zhu-yu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:42:47Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "tender",
+    "mood": "cozy",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "cabbage",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "cabbage",
+    "descriptor": "cozy tender",
+    "dishForm": "Shui Zhu Yu"
+  }
+}
