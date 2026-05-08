@@ -1,0 +1,99 @@
+{
+  "title": "Crispy Cedar Ukrainian Teque os Skewers",
+  "description": "Indulgent Ukrainian dish featuring pre-fried teque os, served on a cedar plank with herbal notes, this recipe is ayurvedic-tamasic-friendly and offers a snappy texture.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "teque os",
+      "amount": "12 pieces",
+      "notes": "pre-fried"
+    },
+    {
+      "name": "cedar planks",
+      "amount": "4 pieces",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Thread the pre-fried teque os onto skewers, leaving a small space between each piece.",
+    "In a small bowl, mix together olive oil, garlic, dill, parsley, salt, and black pepper.",
+    "Brush the mixture onto the teque os, making sure they are fully coated.",
+    "Place the skewers onto the soaked cedar planks, leaving a small space between each skewer.",
+    "Drizzle the lemon juice over the teque os.",
+    "Bake the skewers in the preheated oven for 15 minutes, or until crispy and golden brown.",
+    "Remove the skewers from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cedar-plank",
+    "gluten-free",
+    "herbal-notes",
+    "ukrainian-cuisine",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "crispy-cedar-ukrainian-teque-os-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-cedar-ukrainian-teque-os-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:56:10Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "snappy",
+    "mood": "indulgent",
+    "technique": "blanch",
+    "primaryIngredient": "pre-fried teque os",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "teque os",
+    "descriptor": "crispy cedar",
+    "dishForm": "Skewers"
+  }
+}
