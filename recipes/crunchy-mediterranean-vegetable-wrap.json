@@ -1,0 +1,101 @@
+{
+  "title": "Crunchy Mediterranean Vegetable Wrap",
+  "description": "A fresh and crunchy Mediterranean dish featuring sour cream and ssam-wrap, served on a talavera plate, perfect for a light lunch or snack. This vegetarian-friendly wrap is filled with a variety of vegetables and flavors.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "whole wheat tortilla",
+      "amount": "1 large",
+      "notes": "or ssam-wrap"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "hummus",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "1 cup"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbly"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet or griddle over medium heat.",
+    "Spread the hummus on the tortilla, leaving a small border around the edges.",
+    "Arrange the sliced cucumber, bell pepper, and carrots on one half of the tortilla.",
+    "Top the vegetables with cherry tomatoes, mixed greens, and crumbly feta cheese.",
+    "Drizzle the sour cream over the filling.",
+    "Fold the tortilla in half to enclose the filling.",
+    "Cook the wrap for 2-3 minutes on each side, until the tortilla is crispy and the filling is heated through.",
+    "Cut the wrap in half and serve on a talavera plate.",
+    "Garnish with additional mixed greens and cherry tomatoes, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 6,
+  "totalTimeMin": 21,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "healthy",
+    "lunch",
+    "mediterranean",
+    "vegetarian",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "crunchy-mediterranean-vegetable-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-mediterranean-vegetable-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:08:06Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crunchy",
+    "mood": "show-off",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "sour cream",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "vegetables",
+    "descriptor": "Colorful Crunchy",
+    "dishForm": "Wrap"
+  }
+}
