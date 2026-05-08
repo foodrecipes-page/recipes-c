@@ -1,0 +1,95 @@
+{
+  "title": "Creamy Tunisian Chicken Tagine",
+  "description": "A traditional Tunisian dish made with chicken, mustard, and shortening, served with a side of fluffy couscous, this recipe is gluten-free-friendly and perfect for meal prep. It is typically cooked in a lazy-susan-spinner vessel.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "shortening",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "couscous",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large pot, bring the chicken broth to a boil over high heat.",
+    "Add the chicken to the pot and cook until browned on all sides, about 5 minutes.",
+    "Remove the chicken from the pot and set aside.",
+    "In the same pot, add the shortening and cook over medium heat until melted.",
+    "Add the Dijon mustard, olive oil, salt, black pepper, and garlic powder to the pot and stir to combine.",
+    "Add the chicken back to the pot and stir to coat with the mustard mixture.",
+    "Reduce heat to low and simmer, covered, for 20 minutes or until the chicken is cooked through.",
+    "While the chicken is cooking, prepare the couscous according to package instructions.",
+    "To serve, place the chicken on top of the couscous and spoon some of the sauce over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "gluten-free",
+    "meal-prep",
+    "north-african",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "creamy-tunisian-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-tunisian-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:29:23Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "fluffy",
+    "mood": "meal-prep",
+    "technique": "boil",
+    "primaryIngredient": "shortening",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "chicken",
+    "descriptor": "comforting creamy",
+    "dishForm": "Tagine"
+  }
+}
