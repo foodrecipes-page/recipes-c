@@ -1,0 +1,92 @@
+{
+  "title": "Crispy Tunisian Flour Flatbread",
+  "description": "A traditional Tunisian dish featuring strong white flour and bhuna, this crispy flatbread is both bitter and tender, perfect for showing off your culinary skills. It is ovo-vegetarian friendly and can be served as a snack or side dish.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "strong white flour",
+      "amount": "2 cups",
+      "notes": "high protein content"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "bhuna",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "water",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the strong white flour, salt, sugar, and bhuna.",
+    "Gradually add the olive oil, egg, and water to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 4-6 equal pieces, depending on the desired size of the flatbread.",
+    "Roll out each piece of dough into a thin circle, about 1/8 inch thick.",
+    "Heat a non-stick skillet or griddle over medium-high heat and cook the flatbread for 1-2 minutes on each side, until crispy and golden brown.",
+    "Brush the flatbread with olive oil and sprinkle with sesame seeds, if desired.",
+    "Serve the crispy Tunisian flour flatbread hot, either on its own or with your favorite dips and spreads."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "flatbread",
+    "middle-eastern",
+    "ovo-vegetarian",
+    "snack",
+    "tunisian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 2
+  },
+  "slug": "crispy-tunisian-flour-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-tunisian-flour-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:10:07Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "tender",
+    "mood": "show-off",
+    "technique": "bhuna",
+    "primaryIngredient": "strong white flour",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "flour",
+    "descriptor": "crispy tender",
+    "dishForm": "Flatbread"
+  }
+}
