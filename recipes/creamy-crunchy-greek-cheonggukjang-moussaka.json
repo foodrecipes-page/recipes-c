@@ -1,0 +1,101 @@
+{
+  "title": "Creamy Crunchy Greek Cheonggukjang Moussaka",
+  "description": "A winey and springy Greek dish featuring cheonggukjang, perfect for a brunch mood, made with whole30-friendly ingredients in a moussaka form",
+  "cuisine": "Greek",
+  "diet": [
+    "whole30",
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cheonggukjang",
+      "amount": "1 cup",
+      "notes": "Korean fermented soybean paste"
+    },
+    {
+      "name": "Lardons",
+      "amount": "6 slices",
+      "notes": "Rendered pork fat"
+    },
+    {
+      "name": "Eggplant",
+      "amount": "2 medium",
+      "notes": "Sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "Ground lamb",
+      "amount": "1 pound",
+      "notes": "Cooked and drained"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1/2 cup",
+      "notes": "Dry red wine"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "Concentrated tomato puree"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/2 cup",
+      "notes": "Crumbly"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Render the lardons in a skillet over medium heat until crispy.",
+    "In a large bowl, combine the cooked ground lamb, cheonggukjang, red wine, and tomato paste, and mix well.",
+    "In a separate bowl, whisk together the eggs and a pinch of salt.",
+    "Dip each eggplant slice into the egg mixture, coating both sides, then place in a baking dish.",
+    "Spread a layer of the lamb and cheonggukjang mixture over the eggplant slices.",
+    "Sprinkle a layer of crumbled feta cheese over the top.",
+    "Repeat the layers two more times, ending with a layer of cheese on top.",
+    "Bake the moussaka in the preheated oven for 45 minutes, or until the top is golden brown.",
+    "Remove from the oven and let cool for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "greek-inspired",
+    "high-protein",
+    "lamb-based",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "creamy-crunchy-greek-cheonggukjang-moussaka",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-crunchy-greek-cheonggukjang-moussaka",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:46:26Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "springy",
+    "mood": "brunch-mood",
+    "technique": "lardons-render",
+    "primaryIngredient": "cheonggukjang",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "cheonggukjang",
+    "descriptor": "Creamy Crunchy",
+    "dishForm": "Moussaka"
+  }
+}
