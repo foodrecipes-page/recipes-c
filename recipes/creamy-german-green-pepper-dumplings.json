@@ -1,0 +1,104 @@
+{
+  "title": "Creamy German Green Pepper Dumplings",
+  "description": "A traditional German dish featuring green peppers and a creamy sauce, steamed to perfection in a leaf wrap, this recipe is vegetarian friendly and perfect for a monsoon day. The resinous and gooey texture of the dumplings is sure to delight.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably German type 405"
+    },
+    {
+      "name": "green peppers",
+      "amount": "4 large",
+      "notes": "any color"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, salt, and black pepper.",
+    "Gradually add the vegetable oil and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and roll each into a ball.",
+    "Flatten each ball into a disk shape and place a green pepper slice in the center of each disk.",
+    "Fold the dough over the pepper to form a half-moon shape and press the edges together to seal the dumpling.",
+    "Repeat with the remaining dough and peppers.",
+    "In a large pot, bring 2 inches of water to a boil and reduce the heat to a simmer.",
+    "Place a steamer basket over the pot and add the dumplings.",
+    "Cover the pot with a lid and steam the dumplings for 15 minutes.",
+    "While the dumplings are steaming, heat the sour cream and grated cheese in a saucepan over low heat until the cheese is melted and the sauce is smooth.",
+    "Serve the dumplings hot with the creamy sauce spooned over the top and garnished with chopped parsley."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "german-cuisine",
+    "monsoon-recipes",
+    "steamed-dishes",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "creamy-german-green-pepper-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-german-green-pepper-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:20:50Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "gooey",
+    "mood": "monsoon",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "green pepper",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "green pepper",
+    "descriptor": "creamy",
+    "dishForm": "Dumplings"
+  }
+}
