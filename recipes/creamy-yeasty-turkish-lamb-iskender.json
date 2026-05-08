@@ -1,0 +1,97 @@
+{
+  "title": "Creamy Yeasty Turkish Lamb Iskender",
+  "description": "A traditional Turkish dish featuring lamb, sun-dried tomatoes, and a creamy yeasty sauce, wrapped in ti leaves for a nostalgic and diabetic-friendly meal.",
+  "cuisine": "Turkish",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "sun-dried tomatoes",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry"
+    },
+    {
+      "name": "cream",
+      "amount": "1 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "4-6 leaves",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, combine the lamb strips, yeast, and a pinch of salt, and knead for 5 minutes.",
+    "Heat the olive oil in a large skillet over medium heat and cook the lamb mixture for 5 minutes.",
+    "Add the chopped sun-dried tomatoes, garlic, and a pinch of salt to the skillet and cook for an additional 2 minutes.",
+    "In a small bowl, whisk together the cream and a pinch of salt.",
+    "Add the cream mixture to the skillet and stir to combine.",
+    "Simmer the mixture over low heat for 10 minutes or until the sauce has thickened.",
+    "Wrap the mixture in ti leaves and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "lamb-recipes",
+    "sun-dried-tomatoes",
+    "turkish-cuisine",
+    "yeasty-dishes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "creamy-yeasty-turkish-lamb-iskender",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-yeasty-turkish-lamb-iskender",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:45:19Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "creamy",
+    "mood": "nostalgic",
+    "technique": "knead",
+    "primaryIngredient": "sun-dried tomatoes",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "Creamy Yeasty",
+    "dishForm": "Iskender"
+  }
+}
