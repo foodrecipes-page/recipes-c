@@ -1,0 +1,108 @@
+{
+  "title": "Creamy Croatian Cheese Lasagna",
+  "description": "A malty, cheese-pull, crowd-pleaser Croatian dish featuring tarragon-french flavors, this lasagna is a jain-friendly option for any occasion. It is a rich and satisfying meal that combines the best of Croatian cuisine with French influences.",
+  "cuisine": "Croatian",
+  "diet": [
+    "jain-friendly",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna noodles",
+      "amount": "8 ounces",
+      "notes": "dried"
+    },
+    {
+      "name": "tarragon",
+      "amount": "2 tablespoons",
+      "notes": "fresh"
+    },
+    {
+      "name": "french cheese blend",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "croatian cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "malty beer",
+      "amount": "1 cup",
+      "notes": "any dark beer"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the lasagna noodles according to the package instructions and set aside.",
+    "In a large skillet, heat the olive oil over medium heat and saute the onion and garlic until softened.",
+    "Add the tarragon to the skillet and cook for an additional minute.",
+    "In a large bowl, combine the french cheese blend, croatian cheese, and a pinch of salt and pepper.",
+    "In a separate bowl, whisk together the malty beer and a pinch of salt and pepper.",
+    "To assemble the lasagna, spread a layer of the beer mixture in the bottom of a 9x13 inch baking dish.",
+    "Arrange 4 lasagna noodles on top of the beer mixture.",
+    "Spread half of the cheese mixture over the noodles, followed by half of the skillet mixture.",
+    "Repeat the layers, starting with the noodles, then the beer mixture, then the cheese mixture, and finally the skillet mixture.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "jain-friendly",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "creamy-croatian-cheese-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-croatian-cheese-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:29:36Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "cheese-pull",
+    "mood": "crowd-pleaser",
+    "technique": "simmer",
+    "primaryIngredient": "tarragon-french",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "cheese",
+    "descriptor": "Creamy",
+    "dishForm": "Lasagna"
+  }
+}
