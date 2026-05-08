@@ -1,0 +1,94 @@
+{
+  "title": "Charred Flaky Syrian Burrata Hash",
+  "description": "A flavorful and nutritious Syrian dish made with charred cauliflower, flaky phyllo, and creamy burrata cheese, perfect for meal prep.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 head of cauliflower",
+      "amount": "",
+      "notes": "broken into florets"
+    },
+    {
+      "name": "1 package of phyllo dough",
+      "amount": "",
+      "notes": "thawed"
+    },
+    {
+      "name": "1 cup of burrata cheese",
+      "amount": "",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "2 tablespoons of olive oil",
+      "amount": "",
+      "notes": "for brushing phyllo"
+    },
+    {
+      "name": "1 teaspoon of sumac",
+      "amount": "",
+      "notes": "Syrian spice blend"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup of chopped fresh parsley",
+      "amount": "",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Brush the phyllo dough with olive oil and season with sumac.",
+    "Arrange the phyllo in a single layer on a baking sheet.",
+    "Char the cauliflower florets in a skillet over medium-high heat.",
+    "Transfer the charred cauliflower to a baking sheet and set aside.",
+    "Layer the phyllo on top of the cauliflower, brushing with olive oil between each layer.",
+    "Top with burrata cheese and season with salt and pepper.",
+    "Bake in the preheated oven for 20 minutes or until golden brown.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "charred-flaky-syrian-burrata-hash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-flaky-syrian-burrata-hash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:45:14Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "flaky",
+    "mood": "meal-prep",
+    "technique": "rest",
+    "primaryIngredient": "burrata",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "burrata",
+    "descriptor": "charred flaky",
+    "dishForm": "Hash"
+  }
+}

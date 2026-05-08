@@ -1,0 +1,111 @@
+{
+  "title": "crispy fizzy indian lentil khichdi",
+  "description": "a comforting indian dish made with lentils, spices, and elderflower, perfect for post-workout recovery",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "low-calorie"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "red split lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "elderflower syrup",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "red chili pepper",
+      "amount": "1 small"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "frozen spinach",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "heat coconut oil in an iron teppan pan over medium heat",
+    "add the onion, ginger, and red chili pepper, and sauté until the onion is translucent",
+    "add the cumin, coriander, turmeric powder, salt, and black pepper, and stir for 1 minute",
+    "add the lentils, elderflower syrup, and 2 cups of water to the pan",
+    "bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes",
+    "mash some of the lentils against the side of the pan to break them down and create a creamy consistency",
+    "add the frozen spinach to the pan and stir until wilted",
+    "reduce heat to low and allow the khichdi to rest, covered, for 10 minutes",
+    "serve hot, garnished with fresh cilantro if desired",
+    "dry the dish in a dehydrator at 135°f for 1 hour to enhance the crispy texture"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "indian-inspired",
+    "lentil-based",
+    "one-pan",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "crispy-fizzy-indian-lentil-khichdi",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-fizzy-indian-lentil-khichdi",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:45:54Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "pillowy",
+    "mood": "post-workout",
+    "technique": "dehydrate",
+    "primaryIngredient": "elderflower",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "lentils",
+    "descriptor": "Lightly Crispy Fizzy",
+    "dishForm": null
+  }
+}
