@@ -1,0 +1,98 @@
+{
+  "title": "Creamy Spanish Chicken Tapas Platter",
+  "description": "A fresh and creamy post-workout Spanish dish featuring chicken cooked in a clay pot with stout, served as a tapas platter.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "stout beer",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Heat the olive oil in the clay pot over medium heat.",
+    "Add the chicken to the pot and cook until browned on all sides.",
+    "Add the garlic, smoked paprika, salt, and black pepper to the pot and cook for 1 minute.",
+    "Add the stout beer and chicken broth to the pot and bring to a boil.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Bake for 25 minutes or until the chicken is cooked through.",
+    "Stir in the heavy cream and cook for an additional 5 minutes.",
+    "Remove the pot from the oven and let it cool for a few minutes.",
+    "Serve the chicken and sauce in small bowls as a tapas platter."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "clay-pot-cooking",
+    "one-pot",
+    "post-workout",
+    "spanish-cuisine",
+    "tapas"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "creamy-spanish-chicken-tapas-platter",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-spanish-chicken-tapas-platter",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:28:25Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "creamy",
+    "mood": "post-workout",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "stout",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chicken",
+    "descriptor": "Creamy",
+    "dishForm": "Tapas Platter"
+  }
+}
