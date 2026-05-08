@@ -1,0 +1,103 @@
+{
+  "title": "crispy golden portuguese fish bake",
+  "description": "A sweet and creamy portuguese dish featuring fish seasoning, wood-fired bake, and pescatarian-friendly ingredients. Perfect for a cozy night in or a special occasion.",
+  "cuisine": "portuguese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4",
+      "notes": "preferably fresh, about 150g each"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon",
+      "amount": "1",
+      "notes": "juiced, about 2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "divided"
+    },
+    {
+      "name": "portuguese fish seasoning",
+      "amount": "1 tsp",
+      "notes": "available at most grocery stores or online"
+    },
+    {
+      "name": "creamy mashed potatoes",
+      "amount": "1 cup",
+      "notes": "to serve"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, to garnish"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "melted, to drizzle"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, mix together thinly sliced onion and minced garlic.",
+    "Add the lemon juice, olive oil, and portuguese fish seasoning to the bowl and toss to combine.",
+    "Add the cod fillets to the bowl and coat with the onion and garlic mixture, making sure each fillet is well-coated.",
+    "Arrange the cod fillets in a single layer on a baking sheet lined with parchment paper, leaving about 1 inch of space between each fillet.",
+    "Bake the cod in the preheated oven for 12-15 minutes, or until cooked through and flakes easily with a fork.",
+    "While the cod is baking, prepare the creamy mashed potatoes according to package instructions.",
+    "Once the cod is done, remove it from the oven and let it rest for a few minutes before serving.",
+    "Serve each cod fillet with a scoop of creamy mashed potatoes and a sprinkle of chopped parsley, and drizzle with melted butter.",
+    "Garnish with additional parsley and lemon wedges, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 54,
+    "carbs": 30,
+    "fat": 24
+  },
+  "slug": "crispy-golden-portuguese-fish-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-golden-portuguese-fish-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:47:16Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "creamy",
+    "mood": "cozy",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "fish seasoning",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "fish",
+    "descriptor": "crispy golden",
+    "dishForm": "bake"
+  }
+}
