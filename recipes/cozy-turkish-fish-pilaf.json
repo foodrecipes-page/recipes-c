@@ -1,0 +1,92 @@
+{
+  "title": "Cozy Turkish Fish Pilaf",
+  "description": "A hearty and flavorful Turkish dish featuring fish, long-fermentation-dough, and dried oregano, cooked to perfection on a salt block.",
+  "cuisine": "Turkish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish fillets",
+      "amount": "4",
+      "notes": "any white fish"
+    },
+    {
+      "name": "long-fermentation-dough",
+      "amount": "1 cup",
+      "notes": "or substitute with regular dough"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the salt block in the oven at 400 degrees for 30 minutes.",
+    "Roll out the long-fermentation-dough to a thickness of about 1/4 inch.",
+    "Place the dough on the preheated salt block and cook for 5 minutes on each side.",
+    "In a bowl, mix together the mustard, olive oil, salt, and black pepper.",
+    "Add the fish fillets to the bowl and coat with the mustard mixture.",
+    "Place the fish fillets on the cooked dough and sprinkle with dried oregano.",
+    "Pour the water over the fish and dough, making sure that the dough is covered.",
+    "Cover the salt block with aluminum foil and cook in the oven at 375 degrees for 20 minutes.",
+    "Remove the foil and cook for an additional 10 minutes, or until the fish is cooked through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fish-recipes",
+    "one-pan",
+    "pescatarian-friendly",
+    "turkish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "cozy-turkish-fish-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-turkish-fish-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:43:18Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "glassy-jelly",
+    "mood": "cozy",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "dried oregano",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "fish",
+    "descriptor": "cozy creamy",
+    "dishForm": "Pilaf"
+  }
+}
