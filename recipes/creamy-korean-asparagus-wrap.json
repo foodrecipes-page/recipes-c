@@ -1,0 +1,106 @@
+{
+  "title": "Creamy Korean Asparagus Wrap",
+  "description": "A creamy and cheesy Korean dish featuring asparagus, wrapped in a pandan leaf, perfect for brunch",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "asparagus",
+      "amount": "1 bunch",
+      "notes": "fresh"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4 leaves",
+      "notes": "fresh"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cream cheese",
+      "amount": "8 ounces",
+      "notes": "softened"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "grated mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "low-fat"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "Rinse the asparagus and trim the ends",
+    "Line a baking sheet with parchment paper and arrange the asparagus in a single layer",
+    "Drizzle the sesame oil over the asparagus and sprinkle with salt and black pepper",
+    "Roast the asparagus in the oven for 12 minutes or until tender",
+    "In a blender or food processor, whisk together the gochujang, cream cheese, garlic, and green onions",
+    "Stir in the grated mozzarella cheese until well combined",
+    "To assemble the wraps, lay a pandan leaf flat and spread a quarter of the cheese mixture down the center of the leaf",
+    "Arrange 4-5 spears of roasted asparagus on top of the cheese mixture",
+    "Fold the bottom edge of the pandan leaf over the filling, then fold in the sides and roll up the wrap to form a tight cylinder"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-inspired",
+    "brunch-ideas",
+    "gluten-free",
+    "korean-fusion",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 20
+  },
+  "slug": "creamy-korean-asparagus-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-korean-asparagus-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:24:35Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "cheese-pull",
+    "mood": "brunch-mood",
+    "technique": "whisk",
+    "primaryIngredient": "asparagus",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "asparagus",
+    "descriptor": "creamy cheesy",
+    "dishForm": "Wrap"
+  }
+}
