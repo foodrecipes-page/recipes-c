@@ -1,0 +1,110 @@
+{
+  "title": "Creamy Irish Potato Frittata",
+  "description": "A nutty and fluffy Irish dish perfect for brunch, featuring potatoes and a creamy texture, made in a paella pan with all purpose flour and mantecare emulsification for a low sodium friendly meal.",
+  "cuisine": "Irish",
+  "diet": [
+    "low-sodium",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup",
+      "notes": "for dusting paella pan"
+    },
+    {
+      "name": "large potatoes",
+      "amount": "2",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "onions",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "eggs",
+      "amount": "6",
+      "notes": "beaten"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "low fat"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "chives",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "low sodium"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit.",
+    "Dust the paella pan with all purpose flour, shaking out excess.",
+    "In the paella pan, saute the diced potatoes and chopped onions in melted butter over medium heat until they are tender.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "In a large bowl, whisk together the beaten eggs, low fat milk, salt, and black pepper.",
+    "Pour the egg mixture over the potato mixture in the paella pan.",
+    "Transfer the paella pan to the preheated oven and bake for 25 minutes, until the eggs are set.",
+    "Remove the paella pan from the oven and sprinkle the chopped chives over the top.",
+    "Return the paella pan to the oven and bake for an additional 5 minutes, until the chives are lightly browned.",
+    "Remove the paella pan from the oven and let it cool for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-recipe",
+    "irish-food",
+    "low-sodium",
+    "one-pan",
+    "potato-recipe"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "creamy-irish-potato-frittata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-irish-potato-frittata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:49:52Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "fluffy",
+    "mood": "brunch-mood",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "all purpose flour",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "potatoes",
+    "descriptor": "Creamy Crunchy",
+    "dishForm": "Frittata"
+  }
+}
