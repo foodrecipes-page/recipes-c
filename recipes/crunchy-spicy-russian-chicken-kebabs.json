@@ -1,0 +1,102 @@
+{
+  "title": "Crunchy Spicy Russian Chicken Kebabs",
+  "description": "A spicy and crunchy post-workout Russian dish featuring shaoxing wine and shio-koji-cure, this recipe is FODMAP-friendly and perfect for dinner. It combines the flavors of Russia with the spices of Asia.",
+  "cuisine": "Russian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "shaoxing wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "shio-koji-cure",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sriracha sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together shaoxing wine, shio-koji-cure, sriracha sauce, rice vinegar, olive oil, garlic powder, paprika, salt, and black pepper.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes or until the chicken is cooked through.",
+    "Increase the oven temperature to broil and cook for an additional 2-3 minutes or until the chicken is crispy and golden brown.",
+    "Remove the skewers from the oven and let them cool for a few minutes.",
+    "Serve the kebabs hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "high-protein",
+    "kebabs",
+    "one-pan",
+    "russian",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "crunchy-spicy-russian-chicken-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-spicy-russian-chicken-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:21:59Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crunchy",
+    "mood": "post-workout",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "shaoxing wine",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "chicken",
+    "descriptor": "Crunchy Spicy",
+    "dishForm": "Kebabs"
+  }
+}

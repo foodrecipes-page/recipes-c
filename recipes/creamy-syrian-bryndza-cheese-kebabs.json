@@ -1,0 +1,105 @@
+{
+  "title": "Creamy Syrian Bryndza Cheese Kebabs",
+  "description": "A rich and savory Syrian dish featuring bryndza cheese, perfect for a date night, with a jammy and chewy texture, and sugar-free friendly options.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free",
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bryndza cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "lamb meat",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "sumac",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 slices",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, combine the lamb meat, onion, garlic, salt, black pepper, and sumac, and mix well with your hands until just combined.",
+    "Crumble the bryndza cheese into the bowl and mix until the cheese is evenly distributed throughout the lamb mixture.",
+    "Thread the lamb and cheese mixture onto skewers, leaving a little space between each piece.",
+    "Brush the grill with olive oil to prevent sticking, then grill the kebabs for about 8-10 minutes per side, or until the lamb is cooked through.",
+    "Meanwhile, warm the pita bread by wrapping it in foil and heating it in the oven at 350 degrees Fahrenheit for a few minutes.",
+    "Serve the kebabs hot with the warm pita bread and your choice of toppings, such as chopped parsley or tomato.",
+    "Garnish with a sprinkle of sumac, if desired, and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "date-night",
+    "gluten-free",
+    "grilled-meats",
+    "lamb-recipes",
+    "middle-eastern",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "creamy-syrian-bryndza-cheese-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-syrian-bryndza-cheese-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:21:42Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "chewy",
+    "mood": "date-night",
+    "technique": "grill",
+    "primaryIngredient": "bryndza cheese",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "bryndza cheese",
+    "descriptor": "Creamy Chewy",
+    "dishForm": "Kebabs"
+  }
+}
