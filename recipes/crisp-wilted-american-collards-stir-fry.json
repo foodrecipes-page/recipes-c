@@ -1,0 +1,107 @@
+{
+  "title": "Crisp Wilted American Collards Stir-fry",
+  "description": "A winey, shaggy, energizing American dish featuring collards, mantecare-emulsify and low-sodium-friendly. This dish is perfect for a weeknight dinner.",
+  "cuisine": "American",
+  "diet": [
+    "low-sodium",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Collard Greens",
+      "amount": "1 bunch",
+      "notes": "Chop into 1-inch pieces"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For wok-searing"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Mince"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Mince"
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1/2 teaspoon",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Salt-Free Seasoning",
+      "amount": "1/2 teaspoon",
+      "notes": "Use as substitute for salt"
+    },
+    {
+      "name": "Red Wine",
+      "amount": "2 tablespoons",
+      "notes": "For a winey flavor"
+    },
+    {
+      "name": "Manteca",
+      "amount": "1 tablespoon",
+      "notes": "Melted into the dish"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped, 2 tablespoons",
+      "notes": "Garnish"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium-high heat.",
+    "Add minced garlic and ginger to the wok, stir-frying until fragrant.",
+    "Add chili flakes and stir-fry for 1 minute.",
+    "Add chopped collard greens to the wok, stir-frying until wilted.",
+    "Add melted manteca to the wok, stirring to combine.",
+    "Pour in red wine, stirring to deglaze the pan.",
+    "Season with salt-free seasoning to taste.",
+    "Stir-fry for an additional 2-3 minutes, until flavors have melded together.",
+    "Garnish with chopped cilantro before serving.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-cuisine",
+    "collard-greens",
+    "low-sodium",
+    "one-pan",
+    "quick-meal",
+    "vegetarian",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 20,
+    "fat": 14
+  },
+  "slug": "crisp-wilted-american-collards-stir-fry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-wilted-american-collards-stir-fry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:59:45Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "shaggy",
+    "mood": "energizing",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "collards",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "collards",
+    "descriptor": "Crisp Wilted",
+    "dishForm": "Stir-fry"
+  }
+}
