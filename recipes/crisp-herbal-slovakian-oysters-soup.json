@@ -1,0 +1,114 @@
+{
+  "title": "Crisp Herbal Slovakian Oysters Soup",
+  "description": "A soothing Slovakian dish that combines the freshness of herbs with the richness of oysters, perfect for a cozy evening meal, ovo-vegetarian-friendly.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fresh parsley",
+      "amount": "2 bunches"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "4 sprigs"
+    },
+    {
+      "name": "Oysters (fresh or canned)",
+      "amount": "12",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "White wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large saucepan over medium heat.",
+    "Add chopped onion and cook until translucent.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add chopped thyme and cook for 30 seconds.",
+    "Add flour and cook for 1 minute, stirring constantly.",
+    "Gradually add chicken broth and white wine, whisking continuously.",
+    "Bring the mixture to a boil, then reduce heat and simmer for 10 minutes.",
+    "Add heavy cream and cook for an additional 5 minutes or until the soup thickens slightly.",
+    "Stir in chopped parsley and dill. Season with salt and black pepper to taste.",
+    "Serve warm, garnished with additional herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "cozy-night",
+    "european",
+    "herbal",
+    "seafood",
+    "slovakian",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 34,
+    "carbs": 24,
+    "fat": 26
+  },
+  "slug": "crisp-herbal-slovakian-oysters-soup",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-herbal-slovakian-oysters-soup",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:59:37Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crisp",
+    "mood": "cozy",
+    "technique": "whisk",
+    "primaryIngredient": "oysters",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "slovakian",
+    "mainIngredient": "oysters",
+    "descriptor": "crisp herbal",
+    "dishForm": "soup"
+  }
+}
