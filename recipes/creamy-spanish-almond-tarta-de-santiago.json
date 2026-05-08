@@ -1,0 +1,95 @@
+{
+  "title": "Creamy Spanish Almond Tarta De Santiago",
+  "description": "A rich and creamy Spanish dessert featuring digestive biscuits and almonds, perfect for a date night, this dish is high in protein and made with an iron teppan, the tarta de santiago form is a classic spanish dessert",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "digestive biscuits",
+      "amount": "200g",
+      "notes": "crushed"
+    },
+    {
+      "name": "almonds",
+      "amount": "100g",
+      "notes": "sliced"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "100g",
+      "notes": "melted"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "200ml"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "150g"
+    },
+    {
+      "name": "large eggs",
+      "amount": "4"
+    },
+    {
+      "name": "pure almond extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the iron teppan to 180 degrees Celsius",
+    "In a large bowl, mix together the crushed digestive biscuits and melted unsalted butter until well combined",
+    "Press the mixture into the iron teppan to form the base of the tarta",
+    "In a separate bowl, whisk together the heavy cream, granulated sugar, large eggs, pure almond extract, and salt",
+    "Pour the cream mixture over the biscuit base",
+    "Bake the tarta for 35 minutes or until the edges are set and the center is slightly jiggly",
+    "Remove the tarta from the oven and let it cool completely",
+    "Sprinkle the sliced almonds over the top of the tarta",
+    "Refrigerate the tarta for at least 2 hours before serving"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "almond-based",
+    "cream-based",
+    "high-protein",
+    "one-pan",
+    "spanish-dessert",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 18
+  },
+  "slug": "creamy-spanish-almond-tarta-de-santiago",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-spanish-almond-tarta-de-santiago",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:17:31Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "silky",
+    "mood": "date-night",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "digestive biscuits",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "almonds",
+    "descriptor": "Creamy Silky",
+    "dishForm": "Tarta De Santiago"
+  }
+}
