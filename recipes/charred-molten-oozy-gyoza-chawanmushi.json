@@ -1,0 +1,90 @@
+{
+  "title": "Charred Molten Oozy Gyoza Chawanmushi",
+  "description": "A meal-prep Japanese dish featuring charred gyoza and a mother-sauce-base for chawanmushi, prepared in potatoe buns, suitable for ayurvedic-rajasic-friendly diets.",
+  "cuisine": "Japanese",
+  "diet": [
+    "ayurveda",
+    "rajasic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup potato flour",
+      "amount": "cup"
+    },
+    {
+      "name": "3 tablespoons soy sauce",
+      "amount": "tbsp"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "tsp"
+    },
+    {
+      "name": "1 large egg",
+      "amount": "piece"
+    },
+    {
+      "name": "50 grams butter",
+      "amount": "grams"
+    },
+    {
+      "name": "Salt to taste",
+      "notes": "to flavor the chawanmushi base"
+    },
+    {
+      "name": "Charred gyoza fillings (adjust based on preference)",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "Mix together potato flour, soy sauce, minced garlic, and black pepper in a bowl.",
+    "Add salt to taste and mix well until the mixture is smooth.",
+    "Heat butter in a small pan over medium heat. Pour in the chawanmushi base mixture and stir until fully incorporated into the butter.",
+    "Let it simmer for about 2-3 minutes or until slightly thickened, stirring occasionally.",
+    "In separate bowls, beat one egg lightly and pour it gently into the simmering chawanmushi mixture to create a smooth consistency.",
+    "Fold in charred gyoza fillings evenly across the chawanmushi base.",
+    "Carefully place folded bun wrappers over each cup of chawanmushi. Ensure no air pockets are formed during assembly.",
+    "Cover the assembled cups with plastic wrap or lid, and refrigerate for at least 30 minutes before serving to allow the gyoza fillings to set slightly.",
+    "Refrigerated portions can be stored in an airtight container for up to one week."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurveda-friendly",
+    "easy-setup-dinner",
+    "fusion-japanese",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 15,
+    "carbs": 28,
+    "fat": 7
+  },
+  "slug": "charred-molten-oozy-gyoza-chawanmushi",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-molten-oozy-gyoza-chawanmushi",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-08T01:00:47Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "molten",
+    "mood": "meal-prep",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "potatoe buns",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Potato",
+    "descriptor": "Charred Molten",
+    "dishForm": "Oozy Charred Potato Gyoza Chawanmushi"
+  }
+}
