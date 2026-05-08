@@ -1,0 +1,105 @@
+{
+  "title": "Crunchy Croatian Rest-Meat Sandwich",
+  "description": "A nostalgic and peppery dish featuring crispy rest-meat, buns, and an iron teppan, suitable for a Whole30 diet.",
+  "cuisine": "Croatian",
+  "diet": [
+    "paleo",
+    "Whole30"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rest-meat",
+      "amount": "400g",
+      "notes": ""
+    },
+    {
+      "name": "Cabbage",
+      "amount": "100g",
+      "notes": "Finely shredded"
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "5g",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "3g",
+      "notes": ""
+    },
+    {
+      "name": "Iron teppan-cured buns",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "10g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick iron teppan over medium heat.",
+    "Rub the teppan with coconut oil to prevent sticking.",
+    "Grill the buns for 2-3 minutes, or until lightly toasted.",
+    "Cook the rest-meat in a separate pan over medium heat for 10-12 minutes, or until crispy, breaking it up occasionally with a spatula.",
+    "Add the shredded cabbage to the rest-meat and cook for an additional 2-3 minutes until wilted.",
+    "Sprinkle the caraway seeds over the rest-meat mixture and toss to combine.",
+    "Season with black pepper and salt to taste.",
+    "Assemble the sandwiches by placing the rest-meat mixture onto the grilled buns.",
+    "Top each sandwich with a sprinkle of fresh parsley and a squeeze of lemon juice.",
+    "Serve immediately, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "high-protein",
+    "one-pan",
+    "weeknight",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "crunchy-croatian-rest-meat-sandwich",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-croatian-rest-meat-sandwich",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:27:16Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "nostalgic",
+    "technique": "rest-meat",
+    "primaryIngredient": "buns",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "rest-meat",
+    "descriptor": "peppery, crispy",
+    "dishForm": "Sandwich"
+  }
+}

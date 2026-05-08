@@ -1,0 +1,54 @@
+{
+  "title": "Crispy Comforting Peruvian Potato Fritters",
+  "description": "Crispy on the outside, fluffy on the inside, these Peruvian potato fritters are a comforting treat. Perfect for a snack or dessert.",
+  "cuisine": "Peruvian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Russet potatoes",
+      "amount": "4 large",
+      "notes": "peeled and grated"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the grated potatoes and a pinch of salt. Let it sit for 10 minutes to draw out excess moisture."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comforting",
+    "crispy",
+    "peruvian",
+    "potato",
+    "snack",
+    "street-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "crispy-comforting-peruvian-potato-fritters",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-comforting-peruvian-potato-fritters",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:27:44Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crispy",
+    "mood": "comforting",
+    "technique": "fry",
+    "primaryIngredient": "potatoe buns",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "potato",
+    "descriptor": "crispy comforting",
+    "dishForm": "Fritters"
+  }
+}
