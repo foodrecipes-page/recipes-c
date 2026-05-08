@@ -1,0 +1,101 @@
+{
+  "title": "Creamy Croatian Suet Casserole",
+  "description": "A hearty, earthy Croatian dish featuring suet, perfect for a sick day, made with ovo-vegetarian friendly ingredients. It has a rich, gooey texture and a savory flavor.",
+  "cuisine": "Croatian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "suet",
+      "amount": "1 cup",
+      "notes": "beef or vegetable suet, shredded"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "2 cups",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large skillet, saute the chopped onions and sliced mushrooms in a little bit of oil until they are softened.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "In a large bowl, whisk together the vegetable broth and all-purpose flour until smooth.",
+    "Add the shredded suet, egg, sour cream, salt, and black pepper to the bowl and stir until well combined.",
+    "Add the sauteed onion and mushroom mixture to the bowl and stir until well combined.",
+    "Transfer the mixture to a 9x13 inch baking dish and bake for 35 minutes.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casseroles",
+    "comfort-food",
+    "europian-dishes",
+    "hearty-meals",
+    "winter-meals"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 28
+  },
+  "slug": "creamy-croatian-suet-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-croatian-suet-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:38:09Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "gooey",
+    "mood": "sick-day",
+    "technique": "saute",
+    "primaryIngredient": "suet",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "suet",
+    "descriptor": "Comforting Creamy",
+    "dishForm": "Casserole"
+  }
+}
