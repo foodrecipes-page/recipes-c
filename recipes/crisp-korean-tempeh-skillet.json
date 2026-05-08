@@ -1,0 +1,104 @@
+{
+  "title": "Crisp Korean Tempeh Skillet",
+  "description": "A one-pot Korean dish featuring tempeh, lacquer-glaze, and roasted vegetables, served on a talavera plate. This vegetarian-friendly dish is perfect for a weeknight dinner.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tempeh",
+      "amount": "1 block",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "gochujang",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the tempeh and cook until golden brown, about 5 minutes.",
+    "Add the soy sauce, gochujang, and brown sugar, and stir to combine.",
+    "Add the garlic and ginger, and cook for 1 minute.",
+    "Add the bell peppers and onions, and cook until tender, about 5 minutes.",
+    "Stir in the green onions and cook for an additional minute.",
+    "Serve the skillet hot, garnished with additional green onions if desired.",
+    "Place the skillet on a talavera plate and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-meal",
+    "high-protein",
+    "korean-food",
+    "one-pot",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "crisp-korean-tempeh-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-korean-tempeh-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:47:30Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "shattering",
+    "mood": "one-pot",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "tempeh",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "tempeh",
+    "descriptor": "Crisp Lacquer Glaze",
+    "dishForm": "Skillet"
+  }
+}
