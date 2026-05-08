@@ -57,7 +57,8 @@
     "Gradually add water or chicken broth while stirring continuously to prevent lumps from forming.",
     "Bring the sauce to a simmer then reduce heat to low.",
     "Add egg noodles and cook until tender yet still al dente (about 10-12 minutes), tossing occasionally.",
-    "Remove from heat and let sit for a few minutes before serving."
+    "Remove from heat and let sit for a few minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 40,
@@ -92,5 +93,9 @@
     "mainIngredient": "egg noodle",
     "descriptor": "Crumbly",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

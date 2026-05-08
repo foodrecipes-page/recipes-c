@@ -77,7 +77,8 @@
     "season with salt and black pepper",
     "transfer to a tagliere and serve",
     "garnish with ginger slices",
-    "drizzle with additional olive oil if desired"
+    "drizzle with additional olive oil if desired",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -115,5 +116,9 @@
     "mainIngredient": "dish",
     "descriptor": "charred chewy",
     "dishForm": "tagliere"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

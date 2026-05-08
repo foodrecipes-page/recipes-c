@@ -3,7 +3,6 @@
   "description": "A creamy, hangover-cure Tunisian dish featuring dried chillies and a mother sauce base. Perfect for breakfast or brunch.",
   "cuisine": "Tunisian",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "breakfast",
@@ -81,8 +80,7 @@
     "breakfast",
     "creamy",
     "gluten-free",
-    "hangover-cure",
-    "vegan"
+    "hangover-cure"
   ],
   "nutrition": {
     "calories": 640,
@@ -107,5 +105,9 @@
     "mainIngredient": "grassy dish",
     "descriptor": "creamy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

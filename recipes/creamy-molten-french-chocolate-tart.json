@@ -2,9 +2,7 @@
   "title": "Creamy Molten French Chocolate Tart",
   "description": "A rich and decadent French dessert featuring plain chocolate and a malty flavor, perfect for special occasions",
   "cuisine": "French",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -62,7 +60,6 @@
     "chocolate-tart",
     "decadent",
     "french-dessert",
-    "gluten-free",
     "rich-dessert",
     "special-occasion"
   ],
@@ -89,5 +86,9 @@
     "mainIngredient": "chocolate",
     "descriptor": "Creamy molten",
     "dishForm": "Tart"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A vibrant, floral, and festive Ethiopian-inspired dish featuring a creamy peanut butter sauce, traditionally pounded in a mortar-pestle.",
   "cuisine": "Ethiopian",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -76,7 +75,8 @@
     "Reduce the heat to low and cook, covered, for 10 minutes.",
     "Stir in the heavy cream and cook for an additional 2-3 minutes, or until the sauce thickens slightly.",
     "Taste and adjust the seasoning as needed.",
-    "Serve hot, garnished with chopped fresh parsley."
+    "Serve hot, garnished with chopped fresh parsley.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -89,7 +89,6 @@
     "high-protein",
     "one-pan",
     "peanut-butter",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -115,5 +114,10 @@
     "mainIngredient": "peanut butter",
     "descriptor": "Colorful, Creamy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

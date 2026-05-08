@@ -3,7 +3,6 @@
   "description": "A crowd-pleasing, umami-rich pasta dish featuring rye flour for a unique twist, crispy outside and chewy inside, perfect as a savory snack or light meal.",
   "cuisine": "Italian",
   "diet": [
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "snack",
@@ -45,7 +44,7 @@
     "Combine cooked Rye Pasta and Tomato Sauce in a mixing bowl.",
     "Add Garlic Powder, Italian Seasoning Blend, Red Pepper Flakes (if using), and Parmesan Cheese. Mix well.",
     "In another small bowl, mix Olive Oil with Baking Powder until smooth. Drizzle over the pasta mixture and toss gently to coat evenly.",
-    "Preheat air fryer to 400\u00b0F (200\u00b0C). Place the coated pasta on a baking sheet lined with parchment paper or cooking spray.",
+    "Preheat air fryer to 400°F (200°C). Place the coated pasta on a baking sheet lined with parchment paper or cooking spray.",
     "Cook for about 15-20 minutes, shaking every 7 minutes, until golden brown and crispy. Toss with more olive oil if needed before serving."
   ],
   "prepTimeMin": 3,
@@ -81,5 +80,9 @@
     "mainIngredient": "rye",
     "descriptor": "Crispy",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

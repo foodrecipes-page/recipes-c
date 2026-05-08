@@ -35,7 +35,8 @@
     "Add sweetcorn, ginger, and almond milk to the pot. Stir well to combine all ingredients.",
     "Reduce heat to low and simmer for about 15 minutes until the mixture is thickened slightly.",
     "Stir occasionally to prevent scorching on bottom of pan.",
-    "Remove from heat and let cool before serving."
+    "Remove from heat and let cool before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -66,5 +67,9 @@
     "primaryIngredient": "sweetcorn",
     "diet": "low-calorie",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

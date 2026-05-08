@@ -65,7 +65,8 @@
     "Return the coated haddock to the skillet and add water or chicken broth (if using). Bring to a simmer, cover partially with a lid, and reduce heat to low.",
     "Let cook for about 5-7 minutes covered until cheese is fully melted and sauce slightly thickened. Stir gently with a spoon so not all pieces of haddock are submerged under the sauce.",
     "Remove from heat and garnish if desired with additional fresh orange zest or parsley sprigs before serving.",
-    "Serve hot and enjoy your delicious Citrusy Gooey Jamaican Haddock Stir-fry!"
+    "Serve hot and enjoy your delicious Citrusy Gooey Jamaican Haddock Stir-fry!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -104,5 +105,9 @@
     "mainIngredient": "Haddock",
     "descriptor": "Citrusy Gooey",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

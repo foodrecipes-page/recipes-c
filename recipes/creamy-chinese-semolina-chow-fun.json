@@ -3,7 +3,6 @@
   "description": "A pungent and shaggy Chinese dish featuring semolina, this creamy chow fun is a show-off recipe that is dairy-free-friendly.",
   "cuisine": "Chinese",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -74,7 +73,6 @@
   "difficulty": "medium",
   "tags": [
     "chinese-food",
-    "dairy-free",
     "noodle-dish",
     "one-pan",
     "vegetarian",
@@ -103,5 +101,9 @@
     "mainIngredient": "semolina",
     "descriptor": "Creamy",
     "dishForm": "Chow Fun"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

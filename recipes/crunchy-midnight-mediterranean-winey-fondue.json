@@ -3,8 +3,7 @@
   "description": "A rich and satisfying mediterranean dish, made with crunchy ingredients and a hint of wine. Enjoy with pita or crackers.",
   "cuisine": "mediterranean",
   "diet": [
-    "dairy-free",
-    "gluten-free"
+    "dairy-free"
   ],
   "meal": "snack",
   "ingredients": [
@@ -42,7 +41,6 @@
   "difficulty": "medium",
   "tags": [
     "dairy-free",
-    "gluten-free",
     "lacquer-glaze",
     "mediterranean",
     "sake-fondue",
@@ -71,5 +69,9 @@
     "mainIngredient": "winey",
     "descriptor": "crunchy midnight",
     "dishForm": "fondue"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

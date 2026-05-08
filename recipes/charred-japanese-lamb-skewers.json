@@ -3,14 +3,10 @@
   "description": "Inspired by the traditional Japanese dish yakitori, these charred lamb skewers are a comforting twist on a classic cuisine. This dish is suitable for an Ayurvedic sattvic diet.",
   "cuisine": "Japanese",
   "diet": [
-    "vegan",
     "gluten-free",
     "dairy-free",
     "low-carb",
     "low-fat",
-    "pescatarian",
-    "vegetarian",
-    "halal",
     "kosher"
   ],
   "meal": "lunch",
@@ -157,18 +153,14 @@
     "easy-meals",
     "gluten-free",
     "grilled",
-    "halal",
     "japanese",
     "kosher",
     "lamb",
     "low-carb",
     "low-fat",
     "one-pan",
-    "pescatarian",
     "quick-meals",
     "skewers",
-    "vegan",
-    "vegetarian",
     "weeknight-meals",
     "yakitori"
   ],
@@ -195,5 +187,12 @@
     "mainIngredient": "lamb",
     "descriptor": "charred",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian",
+    "removed-diet-pescatarian",
+    "removed-diet-halal"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Citrusy Tender Egyptian Lemon Pastry Pie",
   "description": "A citrusy and tender dessert designed to be enjoyed as a solo dinner dish featuring shortcrust pastry, marinated lemons, and dairy-free-friendly ingredients.",
   "cuisine": "Egyptian",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -74,5 +72,9 @@
     "mainIngredient": "lemon",
     "descriptor": "Citrusy Tender",
     "dishForm": "Pastry Pie"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

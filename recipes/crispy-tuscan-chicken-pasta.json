@@ -3,7 +3,6 @@
   "description": "A fresh and crispy Italian dish featuring chicken, pasta, and blueberries, perfect for a date night. This recipe uses a pressure cooker for efficient cooking.",
   "cuisine": "Italian",
   "diet": [
-    "gluten-free",
     "nut-free"
   ],
   "meal": "dinner",
@@ -60,7 +59,8 @@
     "Close the lid and set the valve to 'sealing'. Cook on high pressure for 5 minutes.",
     "Let the pressure release naturally for 5 minutes, then quick-release any remaining pressure.",
     "Stir in the parmesan cheese until melted and well combined.",
-    "Serve the chicken and pasta hot, garnished with additional blueberries if desired."
+    "Serve the chicken and pasta hot, garnished with additional blueberries if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 15,
@@ -98,5 +98,10 @@
     "mainIngredient": "chicken",
     "descriptor": "fresh crispy",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

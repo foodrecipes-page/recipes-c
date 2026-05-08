@@ -77,11 +77,15 @@
     "mood": "indulgent",
     "technique": "ferment",
     "primaryIngredient": "orange blossom water",
-    "diet": "kosher",
+    "diet": "salty",
     "region": null,
     "cuisineAdjective": "Tunisian",
     "mainIngredient": "Orange Peel",
     "descriptor": "Citrusy Fermented",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Crispy Springy Thai Fry Rice",
   "description": "Peppery and light Thai dish featuring tomato ketchup, made with crispy Thai fried rice and a dash of fresh herbs.",
   "cuisine": "Thai",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -70,7 +68,8 @@
     "Serve immediately and enjoy!",
     "Note: You can also add cooked shrimp or chicken to make this dish more substantial.",
     "Tips: Use a non-stick copper pot to prevent the rice from sticking and making a mess.",
-    "Tips: Adjust the amount of curry paste to your desired level of spiciness."
+    "Tips: Adjust the amount of curry paste to your desired level of spiciness.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -83,7 +82,6 @@
     "one-pan",
     "rice-bowl",
     "thaifood",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -109,5 +107,10 @@
     "mainIngredient": "fry",
     "descriptor": "Crispy Springy",
     "dishForm": "Fried-Rice"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

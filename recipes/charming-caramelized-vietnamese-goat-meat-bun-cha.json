@@ -3,7 +3,6 @@
   "description": "A winey and springy Vietnamese dish featuring goat meat, perfect for a lazy Sunday, made with robata-grill and sugar-free-friendly ingredients, served in a ramekin as bun cha.",
   "cuisine": "Vietnamese",
   "diet": [
-    "gluten-free",
     "sugar-free"
   ],
   "meal": "lunch",
@@ -74,7 +73,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "goat-meat",
     "ramekin-recipe",
     "robata-grill",
@@ -104,5 +102,9 @@
     "mainIngredient": "goat meat",
     "descriptor": "charmingly caramelized",
     "dishForm": "Bun Cha"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

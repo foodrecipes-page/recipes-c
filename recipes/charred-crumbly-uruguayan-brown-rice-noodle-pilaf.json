@@ -91,11 +91,15 @@
     "mood": "cozy",
     "technique": "shio-koji-cure",
     "primaryIngredient": "brown rice noodle",
-    "diet": "paleo",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Uruguayan",
     "mainIngredient": "brown rice noodle",
     "descriptor": "charred, crumbly",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

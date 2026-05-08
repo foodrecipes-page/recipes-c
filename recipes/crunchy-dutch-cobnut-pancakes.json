@@ -3,8 +3,7 @@
   "description": "A delicious and healthy Dutch dish featuring cobnuts, perfect for a brunch mood, with a jammy and bouncy texture, and a low-glycemic friendly soffritto base.",
   "cuisine": "Dutch",
   "diet": [
-    "low-glycemic",
-    "gluten-free"
+    "low-glycemic"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -58,7 +57,6 @@
     "brunch-ideas",
     "cobnut-recipes",
     "dutch-cuisine",
-    "gluten-free",
     "healthy-breakfast",
     "low-glycemic"
   ],
@@ -85,5 +83,9 @@
     "mainIngredient": "cobnuts",
     "descriptor": "crunchy bouncy",
     "dishForm": "Pancakes"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

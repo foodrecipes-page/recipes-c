@@ -3,7 +3,6 @@
   "description": "A hearty, satisfying dish featuring woodfired pork belly slices, perfect for a post-workout meal, with vegan-friendly alternatives available. This recipe combines the richness of pork belly with the brightness of Mediterranean flavors.",
   "cuisine": "Mediterranean",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -73,7 +72,6 @@
   "difficulty": "medium",
   "tags": [
     "dairy-free",
-    "gluten-free",
     "mediterranean",
     "pork-belly",
     "post-workout",
@@ -97,11 +95,16 @@
     "mood": "post-workout",
     "technique": "wood-fired-bake",
     "primaryIngredient": "pork belly slices",
-    "diet": "vegan",
+    "diet": "dairy-free",
     "region": null,
     "cuisineAdjective": "Mediterranean",
     "mainIngredient": "pork belly",
     "descriptor": "Crusty Woodfired",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "aligned-axes-diet"
+  ]
 }

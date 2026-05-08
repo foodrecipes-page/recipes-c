@@ -3,7 +3,6 @@
   "description": "A malty, cheese-pull Australian dish featuring stoned dates, perfect for a post-workout meal, this burger is made with caramelized beef, melted cheese, and sweet dates, all grilled to perfection, and is onion and garlic free, making it suitable for those with dietary restrictions.",
   "cuisine": "Australian",
   "diet": [
-    "gluten-free",
     "no-onion-no-garlic"
   ],
   "meal": "dinner",
@@ -100,5 +99,9 @@
     "mainIngredient": "beef",
     "descriptor": "cheesy caramelized",
     "dishForm": "Burger"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

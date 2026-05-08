@@ -28,7 +28,7 @@
     {
       "name": "Vegetable oil",
       "amount": "2 tablespoons",
-      "notes": "For saut\u00e9ing vegetables and adding flavor to the fish."
+      "notes": "For sautéing vegetables and adding flavor to the fish."
     },
     {
       "name": "Salt",
@@ -46,9 +46,9 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 375\u00b0F.",
-    "Saut\u00e9 onion and cilantro until translucent, about 4 minutes.",
-    "Add vegetable oil and saut\u00e9 for an additional minute.",
+    "Preheat oven to 375°F.",
+    "Sauté onion and cilantro until translucent, about 4 minutes.",
+    "Add vegetable oil and sauté for an additional minute.",
     "Toss in canned white fish pieces and cook over medium heat until browned on all sides, about 5 minutes.",
     "Stir in lime juice, salt, and vegetable stock. Reduce by half if using regular sour cream or to taste with fresh lime juice.",
     "Add can of chickpeas and cooked vegetables mix into the white fish mixture.",
@@ -64,8 +64,7 @@
   "tags": [
     "ceviche",
     "bacalao",
-    "maripaha",
-    "vegetarian"
+    "maripaha"
   ],
   "nutrition": {
     "calories": 350,
@@ -86,5 +85,9 @@
     "primaryIngredient": "cod",
     "diet": "vegetarian",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

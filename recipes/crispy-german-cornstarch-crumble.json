@@ -2,10 +2,7 @@
   "title": "Crispy German Cornstarch Crumble",
   "description": "A festive, bitter, crispy German dish featuring cornstarch and other natural plant-based ingredients to create a delightful, gluten-free crumble suitable for all dietary needs.",
   "cuisine": "German",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -83,5 +80,10 @@
     "mainIngredient": "cornstarch",
     "descriptor": "Crispy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

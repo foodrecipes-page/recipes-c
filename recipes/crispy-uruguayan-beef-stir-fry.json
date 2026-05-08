@@ -38,7 +38,8 @@
     "In a pan, heat up oil over medium-high heat. Add minced garlic and lemongrass for about 1 minute until fragrant.",
     "Add the beef pieces to the pan and stir fry for about 5 minutes or until browned on all sides.",
     "Remove from heat and add soy sauce to the pan, stirring well to coat the beef evenly with sauce.",
-    "Serve hot as a main course."
+    "Serve hot as a main course.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -74,5 +75,9 @@
     "mainIngredient": "Beef",
     "descriptor": "Crispy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A rich and creamy Spanish dessert featuring digestive biscuits and almonds, perfect for a date night, this dish is high in protein and made with an iron teppan, the tarta de santiago form is a classic spanish dessert",
   "cuisine": "Spanish",
   "diet": [
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "dessert",
@@ -91,5 +90,9 @@
     "mainIngredient": "almonds",
     "descriptor": "Creamy Silky",
     "dishForm": "Tarta De Santiago"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

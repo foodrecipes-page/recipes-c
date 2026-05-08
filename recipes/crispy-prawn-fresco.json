@@ -3,8 +3,7 @@
   "description": "A quick-fix Mediterranean dish featuring fermented prawns, crispy texture, and low-calorie-friendly option.",
   "cuisine": "Mediterranean",
   "diet": [
-    "low-calorie",
-    "vegetarian"
+    "low-calorie"
   ],
   "meal": "snack",
   "ingredients": [
@@ -35,7 +34,7 @@
     "Add the olive oil to the mixture and mix well until everything is evenly coated.",
     "Place the prawns on a plate or tray lined with parchment paper, ensuring they are not overlapping.",
     "Drizzle the marinade over the prawns evenly. Let them marinate for 10 minutes at room temperature.",
-    "Preheat your oven to 425\u00b0F (220\u00b0C).",
+    "Preheat your oven to 425°F (220°C).",
     "Once ready, place the prawn mixture in the preheated oven and bake for about 8-10 minutes or until they turn golden brown and crispy.",
     "Serve immediately while hot."
   ],
@@ -68,5 +67,9 @@
     "primaryIngredient": "prawns",
     "diet": "low-calorie",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

@@ -75,7 +75,8 @@
     "Remove chicken from the skillet and set aside. Add celery to the same skillet and sauté for 2-3 minutes or until slightly softened.",
     "Add onions and garlic to the skillet and cook until translucent, about 5 minutes.",
     "Return chicken to the skillet with onions and garlic. Stir in soy sauce, lime juice, mayonnaise, ginger, salt, pepper, chili flakes, and sesame seeds. Cook for another 10-15 minutes or until fully heated through and slightly thickened.",
-    "Serve hot as a main dish."
+    "Serve hot as a main dish.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 40,
@@ -110,5 +111,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Creamy Crunchy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

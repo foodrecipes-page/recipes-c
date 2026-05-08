@@ -3,8 +3,7 @@
   "description": "A nostalgic American dish featuring crispy, umami-rich chicken and rice, perfect for a diabetic-friendly meal. This recipe uses brown rice and controlled sugar content to make it a healthier option.",
   "cuisine": "American",
   "diet": [
-    "diabetic-friendly",
-    "gluten-free"
+    "diabetic-friendly"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -105,5 +104,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Crispy Umami",
     "dishForm": "Fried Rice"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

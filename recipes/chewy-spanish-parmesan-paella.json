@@ -59,7 +59,8 @@
     "Add peas after 10 minutes of cooking and stir to combine.",
     "Once rice is al dente and liquid absorbed, remove from heat.",
     "Sprinkle grated Parmesan over the top, cover, and let sit 5 minutes to melt, then fluff with a fork.",
-    "Garnish with parsley, season with salt and pepper, and serve immediately."
+    "Garnish with parsley, season with salt and pepper, and serve immediately.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -97,5 +98,9 @@
     "mainIngredient": "parmesan",
     "descriptor": "Chewy",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

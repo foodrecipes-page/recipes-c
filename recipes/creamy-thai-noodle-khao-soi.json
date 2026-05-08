@@ -2,9 +2,7 @@
   "title": "Creamy Thai Noodle Khao Soi",
   "description": "A pungent and tender Thai dish featuring peanut cookies and nuka-pickle, served in a molcajete, this khao soi is gluten-free friendly and full of energizing flavors.",
   "cuisine": "Thai",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -75,7 +73,6 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "gluten-free",
     "noodle-dish",
     "one-pot",
     "street-food",
@@ -104,5 +101,9 @@
     "mainIngredient": "noodles",
     "descriptor": "Creamy Crunchy",
     "dishForm": "Khao Soi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

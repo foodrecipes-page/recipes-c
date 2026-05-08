@@ -3,8 +3,7 @@
   "description": "a refreshing and citrusy light turkish dish featuring pineapple and dashi extract served in an agave leaf.",
   "cuisine": "turkish",
   "diet": [
-    "kosher",
-    "vegetarian"
+    "kosher"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -96,5 +95,9 @@
     "mainIngredient": "Pineapple",
     "descriptor": "Citrusy Light",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

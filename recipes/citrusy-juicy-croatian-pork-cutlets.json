@@ -3,8 +3,7 @@
   "description": "A tender and juicy Croatian-inspired dish featuring pork cutlets, citrus, and caramelized onions. Perfect for a solo dinner.",
   "cuisine": "Croatian",
   "diet": [
-    "gluten-free",
-    "pescatarian"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -108,5 +107,9 @@
     "mainIngredient": "Pork",
     "descriptor": "Citrusy Juicy",
     "dishForm": "Cutlets"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

@@ -57,7 +57,8 @@
     "In a clay pot, create a layer of the chicken and lettuce mixture, followed by a layer of the cracker and cheese mixture.",
     "Repeat the layers until all ingredients are used, ending with a layer of the cracker and cheese mixture on top.",
     "Cover the clay pot with a lid and bake for 30 minutes.",
-    "Remove the lid and continue baking for an additional 15 minutes, or until the top is golden brown."
+    "Remove the lid and continue baking for an additional 15 minutes, or until the top is golden brown.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 45,
@@ -95,5 +96,9 @@
     "mainIngredient": "chicken",
     "descriptor": "crunchy flaky",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

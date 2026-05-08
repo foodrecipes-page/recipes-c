@@ -53,7 +53,8 @@
     "Add the chopped onion and low-sodium beef broth to the skillet and cook until the onion is translucent.",
     "Spoon about 1/4 cup of the beef mixture onto the center of each dough circle.",
     "Fold the dough in half over the filling, pressing the edges together to seal the empanada.",
-    "Brush the tops of the empanadas with a little bit of water and bake for 20-25 minutes, or until golden brown."
+    "Brush the tops of the empanadas with a little bit of water and bake for 20-25 minutes, or until golden brown.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 25,
@@ -91,5 +92,9 @@
     "mainIngredient": "beef",
     "descriptor": "Creamy Crunchy",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

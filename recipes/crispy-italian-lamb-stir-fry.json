@@ -2,9 +2,7 @@
   "title": "Crispy Italian Lamb Stir-fry",
   "description": "A kid-friendly Italian dish featuring sweet and crispy lamb loin chops, suitable for pescatarian diets.",
   "cuisine": "Italian",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -91,5 +89,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Crispy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

@@ -3,8 +3,6 @@
   "description": "A Greek-inspired post-workout meal featuring tender lamb cooked in a garlicky, crunchy sauce with garlic, lemon, and herbs.",
   "cuisine": "Greek",
   "diet": [
-    "vegan",
-    "pescatarian",
     "halal"
   ],
   "meal": "lunch",
@@ -81,5 +79,10 @@
     "mainIngredient": "Lamb",
     "descriptor": "Crunchy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-pescatarian"
+  ]
 }

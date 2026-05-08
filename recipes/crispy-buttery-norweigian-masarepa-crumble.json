@@ -3,8 +3,7 @@
   "description": "A buttery and crisp dish featuring yellow masarepa that is both a show-off Norwegian dish and suitable for those with dietary restrictions like low FODMAP.",
   "cuisine": "Norwegian",
   "diet": [
-    "lactose-free",
-    "gluten-free"
+    "lactose-free"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -31,7 +30,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350\u00b0F (175\u00b0C).",
+    "Preheat oven to 350°F (175°C).",
     "In a mixing bowl, combine masarepa, melted butter, sugar, flour, and vanilla extract.",
     "Stir until well combined. Transfer the mixture onto a baking sheet lined with parchment paper or cooking spray for non-stick purposes.",
     "Bake in preheated oven for 15-20 minutes or until golden brown.",
@@ -71,5 +70,9 @@
     "mainIngredient": "Masarepa",
     "descriptor": "buttery crisp show-off",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

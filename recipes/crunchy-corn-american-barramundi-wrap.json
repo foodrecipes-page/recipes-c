@@ -3,8 +3,7 @@
   "description": "A savory and crunchy American dish featuring barramundi, served in a corn husk wrap, perfect for a lazy Sunday lunch.",
   "cuisine": "American",
   "diet": [
-    "pescatarian",
-    "gluten-free"
+    "pescatarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -103,5 +102,9 @@
     "mainIngredient": "barramundi",
     "descriptor": "crunchy corn",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

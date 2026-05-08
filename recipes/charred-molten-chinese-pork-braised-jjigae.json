@@ -79,7 +79,8 @@
     "Caramelize the glaze by heating the remaining 2 tablespoons of sesame oil in a small saucepan over medium heat.",
     "Add the cornstarch mixture to the saucepan and cook, stirring constantly, for 2-3 minutes, or until the glaze is thick and bubbly.",
     "Pour the glaze over the pork mixture and serve immediately.",
-    "Serve hot, garnished with additional green onions and sesame seeds if desired."
+    "Serve hot, garnished with additional green onions and sesame seeds if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -116,5 +117,9 @@
     "mainIngredient": "pork",
     "descriptor": "charred molten",
     "dishForm": "Braised Jjigae"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

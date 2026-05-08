@@ -62,7 +62,8 @@
     "Add chicken strips and tofu to the heated mixture; cook for about 2 minutes per side, or until browned on all sides.",
     "Push aside the cooked ingredients to one side of the wok. Add cherry tomatoes, shredded carrots, and green onions to the empty space in the wok; stir-fry for another minute.",
     "Return the chicken and tofu to the wok with the vegetables. Pour soy sauce, rice vinegar, and gluten-free seasoning over the ingredients. Stir everything together until well combined and heated through.",
-    "Add ground white pepper to taste. Serve immediately."
+    "Add ground white pepper to taste. Serve immediately.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -97,5 +98,9 @@
     "mainIngredient": "Cheese",
     "descriptor": "Crunchy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

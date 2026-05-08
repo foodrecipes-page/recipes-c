@@ -45,7 +45,8 @@
     "Melt the butter in a small saucepan over low heat. Add minced garlic and sauté for about 1 minute until fragrant but not browned.",
     "Pour in the heavy cream, then gradually add the sherry vinegar while continuously stirring to prevent lumps from forming. Let it simmer gently for about 5 minutes.",
     "If using Dijon mustard, whisk it into the sauce now and let it cook for an additional minute to allow flavors to meld together.",
-    "Season with salt and pepper as needed. Serve immediately or warm through before serving."
+    "Season with salt and pepper as needed. Serve immediately or warm through before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -81,5 +82,9 @@
     "mainIngredient": "Butter",
     "descriptor": "Velvety Cozy",
     "dishForm": "Dish"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

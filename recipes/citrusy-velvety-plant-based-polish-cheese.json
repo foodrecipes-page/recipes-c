@@ -3,7 +3,6 @@
   "description": "A comforting dish featuring a plant-based version of Polish cheese, infused with the freshness of citrus and cheddar cheese, perfect for breakfast or snack time.",
   "cuisine": "Polish",
   "diet": [
-    "vegan",
     "plant-based"
   ],
   "meal": "snack",
@@ -52,7 +51,6 @@
   "servings": 6,
   "difficulty": "easy",
   "tags": [
-    "vegan",
     "plant-based",
     "comfort-food",
     "velvety",
@@ -81,5 +79,9 @@
     "mainIngredient": "Cheese",
     "descriptor": "Citrusy Velvety",
     "dishForm": "Polish"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A traditional Norwegian dish featuring a bitter flavor profile, pillowy texture and refreshing mint glaze, perfect for a snappy snack.",
   "cuisine": "Norwegian",
   "diet": [
-    "gluten-free",
-    "vegan"
+    "gluten-free"
   ],
   "meal": "snack",
   "ingredients": [
@@ -66,8 +65,7 @@
     "gluten-free",
     "low-calorie",
     "quick-bread",
-    "snack",
-    "vegan"
+    "snack"
   ],
   "nutrition": {
     "calories": 120,
@@ -92,5 +90,9 @@
     "mainIngredient": "mattor",
     "descriptor": "Crisp Crunchy",
     "dishForm": "Bread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

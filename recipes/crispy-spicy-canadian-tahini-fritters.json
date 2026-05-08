@@ -2,9 +2,7 @@
   "title": "Crispy Spicy Canadian Tahini Fritters",
   "description": "These golden, crunchy fritters fuse the nutty richness of tahini with a fiery kick, inspired by classic Canadian poutine but with a vegan twist.",
   "cuisine": "Canadian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -82,7 +80,6 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "vegan",
     "spicy",
     "crispy",
     "tahini",
@@ -114,5 +111,9 @@
     "mainIngredient": "tahini",
     "descriptor": "Crispy Spicy",
     "dishForm": "Fritters"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

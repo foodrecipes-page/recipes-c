@@ -3,8 +3,7 @@
   "description": "A rich and creamy lacto-vegetarian lasagna featuring paneer, perfect for a cozy dinner.",
   "cuisine": "ukrainian",
   "diet": [
-    "lacto-vegetarian",
-    "gluten-free"
+    "lacto-vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -70,7 +69,6 @@
   "tags": [
     "cheesy",
     "comfort-food",
-    "gluten-free",
     "high-protein",
     "one-pan",
     "weeknight"
@@ -98,5 +96,9 @@
     "mainIngredient": "paneer",
     "descriptor": "Cheesy",
     "dishForm": "Lasagna"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Citrusy Crumbly British Filo Pastry Crock",
   "description": "This dairy-free-friendly citrusy crumbly pastry dish is perfect for a hangover cure with its tender filo crust and zesty topping.",
   "cuisine": "British",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -74,5 +72,9 @@
     "mainIngredient": "Filo Pastry",
     "descriptor": "Citrusy Crumbly",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

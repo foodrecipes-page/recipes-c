@@ -3,8 +3,7 @@
   "description": "A funky and gooey Brazilian dish featuring kanten-agar and miso-marinated tofu, perfect for a quick fix, and shojin-friendly. This recipe combines the flavors of Brazil with the simplicity of tofu skewers.",
   "cuisine": "Brazilian",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -89,5 +88,9 @@
     "mainIngredient": "tofu",
     "descriptor": "creamy",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

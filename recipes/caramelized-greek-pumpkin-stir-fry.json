@@ -2,10 +2,7 @@
   "title": "Caramelized Greek Pumpkin Stir-fry with Tiger Prawns",
   "description": "A nutritious and adventurous low-carb-friendly greek dish featuring tiger prawns, pumpkin, and other aromatic vegetables for a delightful nutty and velvety taste.",
   "cuisine": "Greek",
-  "diet": [
-    "vegan",
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -51,7 +48,7 @@
     {
       "name": "Olive Oil",
       "amount": "3 tbsp",
-      "notes": "For both frying and saut\u00e9ing."
+      "notes": "For both frying and sautéing."
     },
     {
       "name": "Kalamata Olives",
@@ -70,7 +67,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 200\u00b0C (400\u00b0F).",
+    "Preheat oven to 200°C (400°F).",
     "Slice pumpkin into thin rounds and lightly spray with olive oil, then place on a baking sheet lined with parchment paper. Roast for about 15 minutes or until tender.",
     "Wash, peel, and dice onion; mince garlic finely and slice zucchini.",
     "In a skillet, heat 1 tbsp olive oil over medium-high heat. Add minced garlic, diced onions, and sliced zucchini. Cook for about 5 minutes until vegetables soften slightly.",
@@ -79,7 +76,8 @@
     "In a separate pan, fry sliced red bell peppers (if not already cooked), add low-sodium chicken broth or water, bring to a boil, then reduce heat and simmer until liquid is reduced by half.",
     "Pour the strained broth mixture over the pumpkin-prawn mix in the main pan. Stir well to combine all ingredients evenly.",
     "Add pomegranate seeds and fresh basil leaves on top of the dish for garnish before serving if desired.",
-    "Serve hot with additional low-carb crackers or bread, if you prefer."
+    "Serve hot with additional low-carb crackers or bread, if you prefer.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 45,
@@ -116,5 +114,11 @@
     "mainIngredient": "pumpkin",
     "descriptor": "Caramelized",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-pescatarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

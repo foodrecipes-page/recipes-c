@@ -2,9 +2,7 @@
   "title": "Custard Crisp Crunch",
   "description": "A salty and crispy Filipino dish featuring custard powder that's perfect for weeknight meals, gluten-free-friendly.",
   "cuisine": "Filipino",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -45,7 +43,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350\u00b0F (180\u00b0C).",
+    "Preheat oven to 350°F (180°C).",
     "Mix custard powder, flour, baking powder, and salt in a bowl.",
     "Add oil, coconut flakes, brown sugar, and enough water to make a thick batter. Mix well until smooth.",
     "Pour the mixture into an ungreased 9x13 inch pan. Sprinkle almond flour evenly over the top for extra crunch if desired.",
@@ -60,8 +58,7 @@
   "tags": [
     "custard",
     "crisp",
-    "salty",
-    "gluten-free"
+    "salty"
   ],
   "nutrition": {
     "calories": 398,
@@ -82,5 +79,9 @@
     "primaryIngredient": "custard powder",
     "diet": "gluten-free",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

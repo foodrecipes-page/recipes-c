@@ -2,9 +2,7 @@
   "title": "Caramelized Floral Oats Porridge",
   "description": "A floral, crisp, indulgent Turkish dish featuring porridge oats, air-fried and vegan-friendly.",
   "cuisine": "Turkish",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -45,8 +43,7 @@
     "floral",
     "crisp",
     "indulgent",
-    "turkish",
-    "vegan"
+    "turkish"
   ],
   "nutrition": {
     "calories": 300,
@@ -71,5 +68,9 @@
     "mainIngredient": "Oats",
     "descriptor": "Floral Caramelized",
     "dishForm": "Porridge"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

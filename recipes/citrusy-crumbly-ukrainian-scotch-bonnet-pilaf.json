@@ -60,7 +60,8 @@
     "Add the cooked onion and scotch bonnet mixture to the bowl and stir to combine.",
     "Transfer the mixture to a baking dish and top with grated orange zest.",
     "Bake for 20-25 minutes, until the top is lightly browned and the pilaf is heated through.",
-    "Remove from the oven and let rest for 5 minutes before serving."
+    "Remove from the oven and let rest for 5 minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -97,5 +98,9 @@
     "mainIngredient": "scotch bonnet peppers",
     "descriptor": "citrusy crumbly",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

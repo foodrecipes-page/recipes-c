@@ -55,7 +55,8 @@
     "Increase temperature to 190 C and fry again for 2 minutes to achieve extra crispness.",
     "Remove skewers, let rest 2 minutes, then sprinkle with additional salt if desired.",
     "Serve hot with a side of fresh cucumber salad or yogurt dip.",
-    "Store leftovers in an airtight container in the fridge for up to 2 days."
+    "Store leftovers in an airtight container in the fridge for up to 2 days.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 10,
@@ -94,5 +95,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Crispy",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

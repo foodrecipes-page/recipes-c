@@ -3,7 +3,6 @@
   "description": "A traditional Slovakian dish featuring fluffy potato dumplings infused with rosemary and a hint of mustard, served with a rich beurre-monte sauce, this recipe is sugar-free-friendly and perfect for a comforting meal.",
   "cuisine": "Slovakian",
   "diet": [
-    "gluten-free",
     "sugar-free"
   ],
   "meal": "dinner",
@@ -89,5 +88,9 @@
     "mainIngredient": "potatoes",
     "descriptor": "Creamy Comforting",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

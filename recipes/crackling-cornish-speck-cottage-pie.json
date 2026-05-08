@@ -70,7 +70,8 @@
     "Transfer the mixture to a baking dish and top with cauliflower mash.",
     "Scatter bacon bits over the mash and dot with butter.",
     "Bake in a preheated oven at 200°C for 20 minutes until the top is golden.",
-    "Let rest 5 minutes before serving."
+    "Let rest 5 minutes before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 40,
@@ -108,5 +109,9 @@
     "mainIngredient": "Speck",
     "descriptor": "Crackling",
     "dishForm": "Cottage Pie"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

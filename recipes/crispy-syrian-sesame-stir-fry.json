@@ -78,11 +78,15 @@
     "mood": "adventurous",
     "technique": "bake",
     "primaryIngredient": "sake",
-    "diet": "nut-free",
+    "diet": "sugar-free",
     "region": null,
     "cuisineAdjective": "Syrian",
     "mainIngredient": "sesame",
     "descriptor": "Crispy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

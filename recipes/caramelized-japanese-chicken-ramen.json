@@ -3,7 +3,6 @@
   "description": "A comforting, creamy ramen that caramelizes tender chicken in a savory stock, tailored as a hangover cure and FODMAP-friendly.",
   "cuisine": "Japanese",
   "diet": [
-    "gluten-free",
     "fodmap-friendly"
   ],
   "meal": "dinner",
@@ -65,7 +64,8 @@
     "Return the chicken to the pot, reduce heat to low, cover, and simmer for 15 minutes until the chicken is tender and the stock thickens slightly.",
     "Stir in the grated carrot and cucumber ribbons, cooking for 3 minutes until softened.",
     "Meanwhile, cook the ramen noodles in a separate pot according to package instructions, draining well.",
-    "Divide the noodles into bowls, ladle the hot chicken and sauce over them, and garnish with scallion greens and toasted sesame seeds before serving."
+    "Divide the noodles into bowls, ladle the hot chicken and sauce over them, and garnish with scallion greens and toasted sesame seeds before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -76,8 +76,7 @@
     "caramelized",
     "ramen",
     "hangover-cure",
-    "fodmap-friendly",
-    "gluten-free"
+    "fodmap-friendly"
   ],
   "nutrition": {
     "calories": 580,
@@ -102,5 +101,10 @@
     "mainIngredient": "Chicken",
     "descriptor": "Caramelized",
     "dishForm": "Ramen"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

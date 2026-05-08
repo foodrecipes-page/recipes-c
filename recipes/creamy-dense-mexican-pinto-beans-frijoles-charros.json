@@ -3,8 +3,7 @@
   "description": "A nutty and dense Mexican dish featuring pinto beans and amaretti, perfect for meal prep. This recipe is onion and garlic free, making it friendly for those with sensitivities.",
   "cuisine": "Mexican",
   "diet": [
-    "gluten-free",
-    "vegetarian"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -69,7 +68,8 @@
     "Use an immersion blender to puree the beans to a creamy consistency, or allow them to cool and puree them in a blender.",
     "Taste and adjust the seasoning as needed.",
     "Serve the frijoles charros hot, garnished with chopped fresh cilantro.",
-    "Allow the beans to cool, then refrigerate or freeze them for later use."
+    "Allow the beans to cool, then refrigerate or freeze them for later use.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 60,
@@ -107,5 +107,10 @@
     "mainIngredient": "pinto beans",
     "descriptor": "Creamy Dense",
     "dishForm": "Frijoles Charros"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

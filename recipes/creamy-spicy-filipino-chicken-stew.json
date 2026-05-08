@@ -11,7 +11,7 @@
     {
       "name": "boneless skinless chicken thighs",
       "amount": "1.5 lbs",
-      "notes": "cut into 1\u00bd\" cubes"
+      "notes": "cut into 1½\" cubes"
     },
     {
       "name": "onion",
@@ -36,22 +36,22 @@
     {
       "name": "coconut milk",
       "amount": "1 cup",
-      "notes": "full\u2011fat"
+      "notes": "full‑fat"
     },
     {
-      "name": "low\u2011sodium chicken broth",
+      "name": "low‑sodium chicken broth",
       "amount": "1 cup",
       "notes": ""
     },
     {
-      "name": "sugar\u2011free duck sauce",
+      "name": "sugar‑free duck sauce",
       "amount": "2 tbsp",
-      "notes": "use low\u2011sugar or homemade"
+      "notes": "use low‑sugar or homemade"
     },
     {
       "name": "soy sauce",
       "amount": "1 tbsp",
-      "notes": "low\u2011sodium"
+      "notes": "low‑sodium"
     },
     {
       "name": "sesame oil",
@@ -71,13 +71,14 @@
   ],
   "instructions": [
     "Heat the sesame oil in a Dutch oven over medium heat.",
-    "Add onions, garlic, and ginger; saut\u00e9 until translucent, about 3 minutes.",
-    "Add chicken cubes and brown on all sides, about 4\u20115 minutes.",
+    "Add onions, garlic, and ginger; sauté until translucent, about 3 minutes.",
+    "Add chicken cubes and brown on all sides, about 4‑5 minutes.",
     "Stir in bell pepper and cook for another 2 minutes.",
     "Pour in coconut milk and chicken broth, bring to a gentle simmer.",
-    "Add sugar\u2011free duck sauce, soy sauce, and chili paste; let flavors meld, simmer 15 minutes.",
-    "Whisk the cornstarch slurry and stir into the stew; cook 2\u20113 minutes until thickened.",
-    "Taste and season with salt if needed. Reduce heat to low and simmer 5 more minutes.\nServe hot over steamed rice or noodles."
+    "Add sugar‑free duck sauce, soy sauce, and chili paste; let flavors meld, simmer 15 minutes.",
+    "Whisk the cornstarch slurry and stir into the stew; cook 2‑3 minutes until thickened.",
+    "Taste and season with salt if needed. Reduce heat to low and simmer 5 more minutes.\nServe hot over steamed rice or noodles.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -118,5 +119,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Creamy Spicy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

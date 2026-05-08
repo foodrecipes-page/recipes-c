@@ -2,9 +2,7 @@
   "title": "Citrusy Velvety Light Polish Dish",
   "description": "A light and flavorful dish featuring a citrusy velvety sauce infused with ginger cordial for an aromatic twist, perfect as a breakfast or snack option.",
   "cuisine": "Polish",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -95,5 +93,9 @@
     "mainIngredient": "orange",
     "descriptor": "Citrusy Velvety Light",
     "dishForm": "Polish Dish"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

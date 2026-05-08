@@ -42,7 +42,8 @@
     "Preheat the oven to 375°F.",
     "Toast the taco shells in a copper mug until they are lightly charred, about 6 minutes per side on high heat.",
     "In a separate bowl, mix together tomato, cilantro, chili peppers, lime juice, fish sauce, and chicken broth. Add garlic cloves if using.",
-    "Serve hot with the charred taco shells as a topping or in individual serving dishes."
+    "Serve hot with the charred taco shells as a topping or in individual serving dishes.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -81,5 +82,9 @@
     "mainIngredient": "Taco Shells",
     "descriptor": "Charred Light",
     "dishForm": "Som-Tum Taco Shells In Copper Mug"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

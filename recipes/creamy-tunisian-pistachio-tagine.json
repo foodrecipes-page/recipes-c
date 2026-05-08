@@ -4,8 +4,7 @@
   "cuisine": "Tunisian",
   "diet": [
     "low-carb",
-    "gluten-free",
-    "vegetarian"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -27,7 +26,7 @@
     {
       "name": "Spice blend (cumin, coriander, smoked paprika, turmeric, harissa paste)",
       "amount": "1 tbsp total",
-      "notes": "cumin 1 tsp, coriander 1 tsp, smoked paprika 1 tsp, turmeric \u00bd tsp, harissa paste 1 tbsp"
+      "notes": "cumin 1 tsp, coriander 1 tsp, smoked paprika 1 tsp, turmeric ½ tsp, harissa paste 1 tbsp"
     },
     {
       "name": "Chicken or vegetable broth",
@@ -78,7 +77,8 @@
     "Pour in the broth, bring to a gentle simmer, and let it reduce slightly for 5 minutes.",
     "Reduce heat to low, then stir in the almond milk and let the mixture thicken for 3 minutes.",
     "Fold in the chopped pistachios and diced pickles, seasoning with salt, pepper, and lemon juice; simmer for another 4 minutes.",
-    "Remove from heat, stir in fresh cilantro, and serve immediately over cauliflower rice or low\u2011carb couscous."
+    "Remove from heat, stir in fresh cilantro, and serve immediately over cauliflower rice or low‑carb couscous.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 15,
@@ -89,7 +89,6 @@
     "tunisian",
     "creamy",
     "low-carb",
-    "vegetarian",
     "hangover-cure",
     "pistachio",
     "pickle"
@@ -117,5 +116,10 @@
     "mainIngredient": "pistachio",
     "descriptor": "Creamy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

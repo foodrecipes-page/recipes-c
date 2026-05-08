@@ -63,7 +63,8 @@
     "Bring to a simmer and let it cook for an additional 5 minutes.",
     "Meanwhile, boil fettuccine according to package instructions. Drain well and toss in the pan along with chicken mixture.",
     "Serve hot as a main course.",
-    "Optional: garnish with more fresh herbs or serve with quinoa or rice."
+    "Optional: garnish with more fresh herbs or serve with quinoa or rice.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -99,5 +100,9 @@
     "mainIngredient": "Herbs",
     "descriptor": "Crispy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

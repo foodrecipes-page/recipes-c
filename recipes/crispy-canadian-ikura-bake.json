@@ -2,9 +2,7 @@
   "title": "Crispy Canadian Ikura Bake",
   "description": "A floral and shattering post-workout Canadian dish featuring ikura, wood-fired-bake, and halal-friendly ingredients, served in a banana leaf vessel.",
   "cuisine": "Canadian",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -96,5 +94,9 @@
     "mainIngredient": "ikura",
     "descriptor": "crispy caramelized",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

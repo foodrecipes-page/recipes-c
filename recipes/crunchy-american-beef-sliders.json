@@ -3,8 +3,7 @@
   "description": "A low-carb-friendly American dish featuring a bitter and pillowy beef patty, served on a tagliere with a side of nimono-simmered vegetables, perfect for a energizing snack or lunch.",
   "cuisine": "American",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -64,7 +63,6 @@
   "tags": [
     "american-classics",
     "beef-recipes",
-    "gluten-free",
     "low-carb",
     "lunch-ideas",
     "snack-time"
@@ -92,5 +90,9 @@
     "mainIngredient": "beef",
     "descriptor": "crunchy bitter",
     "dishForm": "Sliders"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "This low-calorie-friendly dish features a rich apricot jam thats simmered with citrus and served as a velvety side dish for an eye-catching presentation.",
   "cuisine": "Brazilian",
   "diet": [
-    "low-calorie",
-    "gluten-free"
+    "low-calorie"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -75,5 +74,9 @@
     "mainIngredient": "Apricot",
     "descriptor": "Citrusy Velvety",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

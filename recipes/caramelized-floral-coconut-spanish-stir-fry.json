@@ -42,7 +42,8 @@
     "Remove the sous-vide bag from the machine, open, and stir in floral-infused water or infused olive oil evenly. Let it come to a boil over medium heat.",
     "Pour in low-sodium soy sauce and chicken broth marinade into the pan with onions and garlic. Bring to a simmer for 5-7 minutes until slightly thickened.",
     "Add shredded unsweetened coconut to the pan, stir gently to coat evenly, cook on low heat for an additional 10 minutes or until the coconut becomes caramelized and golden brown.",
-    "Serve hot as a side dish with grilled meats or as a main course with crusty bread."
+    "Serve hot as a side dish with grilled meats or as a main course with crusty bread.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 45,
@@ -78,5 +79,9 @@
     "mainIngredient": "Coconut",
     "descriptor": "Floral Caramelized",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

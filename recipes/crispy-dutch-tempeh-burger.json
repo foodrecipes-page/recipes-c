@@ -68,7 +68,8 @@
     "While the tempeh cooks, toast the burger buns lightly in a separate pan or toaster.",
     "Spread a spoonful of vegan ketchup on the bottom bun, add a lettuce leaf, then place the crispy tempeh patty on top.",
     "Top the patty with pickled cucumber slices and cover with the top bun.",
-    "Serve immediately, optionally with extra ketchup on the side. Enjoy!"
+    "Serve immediately, optionally with extra ketchup on the side. Enjoy!",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 15,
@@ -108,5 +109,9 @@
     "mainIngredient": "Tempeh",
     "descriptor": "Crispy",
     "dishForm": "Burger"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

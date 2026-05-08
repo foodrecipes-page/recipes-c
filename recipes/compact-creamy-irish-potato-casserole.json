@@ -2,9 +2,7 @@
   "title": "Compact Creamy Irish Potato Casserole",
   "description": "A pungent and dense Irish dish featuring light brown soft sugar and salt-bake potatoes, perfect for a show-off dinner party. The combination of creamy sauce and crispy top makes it a delightful treat.",
   "cuisine": "Irish",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -95,5 +93,9 @@
     "mainIngredient": "potatoes",
     "descriptor": "Creamy Compact",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Citrus Crumble Chicken Skivers",
   "description": "A light and citrusy Norwegian-inspired dish featuring gluten-free-friendly chicken legs topped with a crumbly citrus crust.",
   "cuisine": "Norwegian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -60,8 +58,7 @@
     "citrusy",
     "crumbly",
     "light",
-    "norwegian",
-    "gluten-free"
+    "norwegian"
   ],
   "nutrition": {
     "calories": 360,
@@ -82,5 +79,9 @@
     "primaryIngredient": "chicken legs",
     "diet": "gluten-free",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

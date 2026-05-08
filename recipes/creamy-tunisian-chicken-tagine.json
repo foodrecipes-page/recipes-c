@@ -2,9 +2,7 @@
   "title": "Creamy Tunisian Chicken Tagine",
   "description": "A traditional Tunisian dish made with chicken, mustard, and shortening, served with a side of fluffy couscous, this recipe is gluten-free-friendly and perfect for meal prep. It is typically cooked in a lazy-susan-spinner vessel.",
   "cuisine": "Tunisian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -63,7 +61,6 @@
   "difficulty": "medium",
   "tags": [
     "chicken-recipes",
-    "gluten-free",
     "meal-prep",
     "north-african",
     "one-pot"
@@ -91,5 +88,9 @@
     "mainIngredient": "chicken",
     "descriptor": "comforting creamy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

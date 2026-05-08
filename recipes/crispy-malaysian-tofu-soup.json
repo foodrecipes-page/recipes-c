@@ -3,7 +3,6 @@
   "description": "Fresh, crisp, monsoon Malaysian dish featuring a vegetable stock cube, simmered to perfection and high-protein-friendly.",
   "cuisine": "Malaysian",
   "diet": [
-    "vegetarian",
     "high-protein"
   ],
   "meal": "lunch",
@@ -83,7 +82,6 @@
   "servings": 2,
   "difficulty": "easy",
   "tags": [
-    "vegetarian",
     "high-protein",
     "malaysian",
     "quick",
@@ -113,5 +111,9 @@
     "mainIngredient": "tofu",
     "descriptor": "Crispy",
     "dishForm": "Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

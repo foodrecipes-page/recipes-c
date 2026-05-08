@@ -51,7 +51,8 @@
     "In a separate bowl, mix the coconut cream and dashi extract.",
     "Pour the cream mixture over the pasta mixture and stir until combined.",
     "Transfer the mixture to a baking dish and bake for 25 minutes.",
-    "Season with salt and black pepper to taste."
+    "Season with salt and black pepper to taste.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -87,5 +88,9 @@
     "mainIngredient": "chicken",
     "descriptor": "comforting creamy",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

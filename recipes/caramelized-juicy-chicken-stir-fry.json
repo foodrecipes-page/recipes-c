@@ -42,7 +42,8 @@
     "Whisk together lemon juice, olive oil, garlic powder, salt, and black pepper in a bowl. Add the chicken strips to the mixture and toss until well coated.",
     "Place the chicken on an oven-safe baking sheet lined with parchment paper.",
     "Bake for 15 minutes or until golden brown and crispy on top.",
-    "Remove from oven and let cool slightly before serving with fresh herbs."
+    "Remove from oven and let cool slightly before serving with fresh herbs.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -79,5 +80,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Juicy Caramelized",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

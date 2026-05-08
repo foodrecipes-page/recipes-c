@@ -3,7 +3,6 @@
   "description": "Savory, pillowy, one-pot Australian dish featuring squid, char-grill-yang, halal-friendly.\nPerfect for a quick lunch or dinner.",
   "cuisine": "australian",
   "diet": [
-    "halal",
     "gluten-free"
   ],
   "meal": "lunch",
@@ -121,7 +120,6 @@
   "difficulty": "medium",
   "tags": [
     "australian",
-    "halal",
     "one-pan",
     "seafood",
     "weeknight"
@@ -149,5 +147,9 @@
     "mainIngredient": "squid",
     "descriptor": "char-grill-yang",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

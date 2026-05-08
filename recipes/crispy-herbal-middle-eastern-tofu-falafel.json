@@ -3,9 +3,7 @@
   "description": "a crispy and flavorful middle-eastern tofu falafel recipe, great for a sick day. perfect for low-carb diets and easy to make in under 30 minutes.",
   "cuisine": "middle eastern",
   "diet": [
-    "low-carb",
-    "vegan",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -156,13 +154,11 @@
   "difficulty": "medium",
   "tags": [
     "falafel",
-    "gluten-free",
     "high-protein",
     "low-carb",
     "middle-eastern",
     "one-pan",
     "tofu",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -188,5 +184,10 @@
     "mainIngredient": "tofu",
     "descriptor": "crispy herbal",
     "dishForm": "Falafel"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

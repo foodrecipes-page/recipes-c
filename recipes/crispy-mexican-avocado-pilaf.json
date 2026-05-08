@@ -73,11 +73,15 @@
     "mood": "date-night",
     "technique": "slow-cook",
     "primaryIngredient": "dark chocolate chips",
-    "diet": "nut-free",
+    "diet": "vegan",
     "region": null,
     "cuisineAdjective": "Mexican",
     "mainIngredient": "avocado",
     "descriptor": "Crispy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

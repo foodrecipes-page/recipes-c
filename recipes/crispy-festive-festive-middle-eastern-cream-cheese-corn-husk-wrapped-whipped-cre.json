@@ -2,9 +2,7 @@
   "title": "Crispy Festive Festive Middle Eastern Cream Cheese Corn-Husk-Wrapped Whipped Cream Pie",
   "description": "A funky, crispy, festive middle-eastern dish featuring whipping cream, dairy-free-friendly, wrapped in corn husks and baked into a pie. Perfect for any celebration.",
   "cuisine": "Middle Eastern",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -36,7 +34,8 @@
     "Flatten wrapped pies slightly with your hands to help them rise during baking. Place on a greased baking sheet or tray.",
     "Sprinkle flour over the tops of the pies to prevent sticking and for an extra crispy texture.",
     "Bake in preheated oven for 15 minutes, or until golden brown and crisp.",
-    "Serve warm as is, or with a side of your favorite fruit dip for a festive treat."
+    "Serve warm as is, or with a side of your favorite fruit dip for a festive treat.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -74,5 +73,10 @@
     "mainIngredient": "Cream Cheese",
     "descriptor": "Crispy Festive",
     "dishForm": "Corn-Husk-Wrapped Whipped Cream Pie"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free",
+    "added-safety-preserving_no_acid"
+  ]
 }

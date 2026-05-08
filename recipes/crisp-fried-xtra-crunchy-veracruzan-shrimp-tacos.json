@@ -3,8 +3,7 @@
   "description": "a vibrant, crunchy, and flavorful twist on traditional mexican shrimp tacos, featuring a hint of brandy and a crispy exterior.",
   "cuisine": "mexican",
   "diet": [
-    "keto",
-    "gluten-free"
+    "keto"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -109,5 +108,9 @@
     "mainIngredient": "Shrimp",
     "descriptor": "Crisp Fried Xtra Crunchy",
     "dishForm": "Tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

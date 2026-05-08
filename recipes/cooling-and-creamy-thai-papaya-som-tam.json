@@ -93,7 +93,6 @@
     "high-protein",
     "one-pan",
     "vegan-friendly",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -119,5 +118,9 @@
     "mainIngredient": "Papaya",
     "descriptor": "Cooling and Creamy",
     "dishForm": "Som Tam"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

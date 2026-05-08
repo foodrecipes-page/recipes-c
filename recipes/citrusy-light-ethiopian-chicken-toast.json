@@ -2,9 +2,7 @@
   "title": "Citrusy Light Ethiopian Chicken Toast",
   "description": "A comforting and citrusy Ethiopian dish featuring tender chicken, toasted bread, and a blend of aromatic spices, perfect for a light and satisfying meal. This halal-friendly recipe is easy to make and packed with flavor.",
   "cuisine": "Ethiopian",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -70,8 +68,7 @@
     "ethiopian",
     "chicken",
     "toast",
-    "comfort-food",
-    "halal"
+    "comfort-food"
   ],
   "nutrition": {
     "calories": 320,
@@ -96,5 +93,9 @@
     "mainIngredient": "chicken",
     "descriptor": "citrusy light",
     "dishForm": "Toast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Creamy Smoky Moroccan Lamb Tagine",
   "description": "A rich and flavorful Moroccan dish featuring tender lamb, smoky spices, and a creamy sauce, all slow-cooked to perfection in a traditional ttukbaegi earthenware pot. This kosher-friendly recipe is perfect for a special occasion or a cozy night in.",
   "cuisine": "Moroccan",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -68,7 +66,8 @@
     "Remove the pot from the heat and let it cool slightly.",
     "Stir in the chopped parsley and serve the tagine hot, garnished with additional parsley if desired.",
     "Traditionally, the tagine is served with crusty bread or over couscous, but it can also be served with rice or roasted vegetables.",
-    "Leftovers can be refrigerated for up to 3 days or frozen for up to 2 months."
+    "Leftovers can be refrigerated for up to 3 days or frozen for up to 2 months.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 150,
@@ -77,7 +76,6 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "kosher",
     "lamb",
     "moroccan",
     "one-pot",
@@ -107,5 +105,10 @@
     "mainIngredient": "lamb",
     "descriptor": "Creamy Smoky",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-kosher",
+    "added-safety-poultry_no_temp"
+  ]
 }

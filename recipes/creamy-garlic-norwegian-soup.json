@@ -3,8 +3,7 @@
   "description": "An energizing norwegian dish featuring a blend of vegetable stock, low-fat-friendly ingredients, and a rich garlic flavor profile to start your day or as a light lunch option.",
   "cuisine": "norwegian",
   "diet": [
-    "low-fat",
-    "vegan"
+    "low-fat"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -84,5 +83,9 @@
     "mainIngredient": "Garlic",
     "descriptor": "Creamy",
     "dishForm": "Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

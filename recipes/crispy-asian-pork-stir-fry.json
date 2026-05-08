@@ -3,8 +3,7 @@
   "description": "A rich and comforting Polish dish featuring crispy pork slices in a blend of pineapple juice and other aromatic seasonings, perfect for a light dinner that's both low-fat-friendly and satisfying.",
   "cuisine": "Polish",
   "diet": [
-    "low-fat",
-    "vegan"
+    "low-fat"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -74,7 +73,8 @@
     "Add marinated pork to the skillet. Let cook for about 2-3 minutes on each side until golden brown.",
     "Deglaze the pan with pork stock and pour in a cup of pineapple juice. Stir well to combine all ingredients, adding more pineapple juice if necessary for desired consistency.",
     "Bring to a boil, reduce heat, cover, and simmer for 5-7 minutes or until sauce thickens slightly.",
-    "Add chopped green onions just before serving. Garnish with additional green onions if desired."
+    "Add chopped green onions just before serving. Garnish with additional green onions if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -110,5 +110,10 @@
     "mainIngredient": "pork",
     "descriptor": "Richly Crispy Roasted",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "added-safety-pork_no_temp"
+  ]
 }

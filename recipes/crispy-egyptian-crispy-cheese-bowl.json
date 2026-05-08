@@ -63,12 +63,17 @@
     "mood": "quick-fix",
     "technique": "dum",
     "primaryIngredient": "shredded monterey jack cheese",
-    "diet": "dairy-free",
+    "diet": "dairy-free-friendly",
     "region": null,
     "cuisineAdjective": "Egyptian",
     "mainIngredient": "cheese",
     "descriptor": "Crispy",
     "dishForm": "Bowl"
   },
-  "totalTimeMin": 40
+  "totalTimeMin": 5,
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet",
+    "recomputed-totalTime"
+  ]
 }

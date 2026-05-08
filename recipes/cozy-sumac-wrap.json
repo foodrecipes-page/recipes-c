@@ -3,8 +3,7 @@
   "description": "A peppery and silky Mediterranean dish featuring sumac that is cozy and low-fat-friendly, perfect for a snack or light meal.",
   "cuisine": "Mediterranean",
   "diet": [
-    "low-fat",
-    "gluten-free"
+    "low-fat"
   ],
   "meal": "snack",
   "ingredients": [
@@ -78,5 +77,9 @@
     "primaryIngredient": "sumac",
     "diet": "low-fat",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

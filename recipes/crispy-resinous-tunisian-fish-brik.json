@@ -3,8 +3,7 @@
   "description": "A crispy, lazy-sunday dish featuring molasses and coconut cream, perfect for a pescatarian-friendly lunch.",
   "cuisine": "tunisian",
   "diet": [
-    "pescatarian",
-    "vegetarian"
+    "pescatarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -108,5 +107,9 @@
     "mainIngredient": "fish",
     "descriptor": "crispy resinous",
     "dishForm": "Brik"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

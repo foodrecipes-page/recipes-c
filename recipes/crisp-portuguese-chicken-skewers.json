@@ -59,7 +59,8 @@
     "Wrap each skewer in a ti leaf, securing with a toothpick if needed.",
     "Place the skewers in the pressure cooker and cook for 10 minutes.",
     "Remove the skewers from the pressure cooker and brush with additional pomegranate juice if desired.",
-    "Serve the skewers hot, garnished with pomegranate seeds and chopped parsley."
+    "Serve the skewers hot, garnished with pomegranate seeds and chopped parsley.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 10,
@@ -97,5 +98,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Charred Crisp",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

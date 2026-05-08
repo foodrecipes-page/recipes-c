@@ -2,10 +2,7 @@
   "title": "Citrusy Norwegian Linguine Pasta with Browned Butter and Crispy Bacon",
   "description": "Indulge in this Norwegian-inspired linguine pasta dish featuring citrus-infused browned butter, crispy bacon, and a sprinkle of parmesan cheese.",
   "cuisine": "Norwegian",
-  "diet": [
-    "vegetarian",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -109,5 +106,10 @@
     "mainIngredient": "linguine",
     "descriptor": "citrusy, tender",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

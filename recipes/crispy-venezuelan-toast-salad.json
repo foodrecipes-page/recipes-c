@@ -3,13 +3,12 @@
   "description": "A light, umami-packed salad that pairs fresh vegetables with crispy glutenfree toast, finished with a tangy cream of tartar dressing.",
   "cuisine": "Venezuelan",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "lunch",
   "ingredients": [
     {
-      "name": "gluten\u2011free sandwich bread",
+      "name": "gluten‑free sandwich bread",
       "amount": "4 slices",
       "notes": "thin, lightly toasted"
     },
@@ -75,8 +74,8 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350\u00b0F (175\u00b0C).",
-    "Slice the gluten\u2011free bread and toast in the oven until lightly golden, about 5 minutes.",
+    "Preheat oven to 350°F (175°C).",
+    "Slice the gluten‑free bread and toast in the oven until lightly golden, about 5 minutes.",
     "In a medium bowl, combine diced cucumber, halved cherry tomatoes, diced red onion, diced avocado, and chopped cilantro.",
     "In a separate small bowl, whisk the lime juice, olive oil, salt, pepper, and cream of tartar until the mixture emulsifies.",
     "Drizzle the dressing over the vegetables and toss gently to combine.",
@@ -116,5 +115,9 @@
   "tags": [
     "venezuelan",
     "lunch"
+  ],
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
   ]
 }

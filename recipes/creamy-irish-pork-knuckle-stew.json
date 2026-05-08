@@ -60,7 +60,8 @@
     "Return the pork knuckle to the pot and cover it with a lid.",
     "Transfer the pot to the preheated oven and braise the pork knuckle for 2 hours.",
     "Remove the pot from the oven and stir in the heavy cream.",
-    "Simmer the stew over low heat for an additional 10 minutes."
+    "Simmer the stew over low heat for an additional 10 minutes.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 150,
@@ -98,5 +99,9 @@
     "mainIngredient": "pork knuckle",
     "descriptor": "Creamy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

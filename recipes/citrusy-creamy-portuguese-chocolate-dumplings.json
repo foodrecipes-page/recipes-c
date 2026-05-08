@@ -3,7 +3,6 @@
   "description": "A quick, jain-friendly Portuguese dessert that pairs rich dark chocolate with bright citrus zest in soft, bite-sized dumplings.",
   "cuisine": "Portuguese",
   "diet": [
-    "vegan",
     "gluten-free",
     "jain-friendly"
   ],
@@ -74,7 +73,6 @@
   "difficulty": "medium",
   "tags": [
     "dessert",
-    "vegan",
     "gluten-free",
     "jain-friendly",
     "quick",
@@ -103,5 +101,9 @@
     "mainIngredient": "Chocolate",
     "descriptor": "Citrusy Creamy",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

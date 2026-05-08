@@ -3,7 +3,6 @@
   "description": "A tangy, creamy, halal-friendly tofu curry packed with szechuan peppercorn flavor, perfect for a cozy date night.",
   "cuisine": "Malaysian",
   "diet": [
-    "halal",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -84,7 +83,6 @@
   "difficulty": "medium",
   "tags": [
     "malaysian",
-    "halal",
     "vegetarian",
     "tofu",
     "curry",
@@ -114,5 +112,9 @@
     "mainIngredient": "tofu",
     "descriptor": "Creamy",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

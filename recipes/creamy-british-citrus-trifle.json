@@ -62,7 +62,7 @@
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 0,
-  "totalTimeMin": 60,
+  "totalTimeMin": 30,
   "servings": 8,
   "difficulty": "medium",
   "tags": [
@@ -96,5 +96,9 @@
     "mainIngredient": "citrus",
     "descriptor": "Creamy Comforting",
     "dishForm": "Trifle"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

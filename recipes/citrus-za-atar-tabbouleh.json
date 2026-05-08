@@ -59,8 +59,7 @@
   "tags": [
     "tabbouleh",
     "citrus",
-    "sweet-chilli-sauce",
-    "gluten-free"
+    "sweet-chilli-sauce"
   ],
   "nutrition": {
     "calories": 200,
@@ -81,5 +80,9 @@
     "primaryIngredient": "sweet chilli sauce",
     "diet": "gluten-free",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

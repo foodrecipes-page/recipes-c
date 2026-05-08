@@ -3,8 +3,7 @@
   "description": "A Peruvian dish featuring charred, chewy uni in a flavorful tacu tacu, inspired by Ayurvedic Rajasic principles to soothe the senses.",
   "cuisine": "peruvian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -107,5 +106,9 @@
     "mainIngredient": "uni",
     "descriptor": "charred oven-roasted",
     "dishForm": "Tacu Tacu"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

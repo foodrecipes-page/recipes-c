@@ -2,9 +2,7 @@
   "title": "Creamy Vietnamese Peanut Stir-fry",
   "description": "A tangy and creamy vegan-friendly dish featuring roasted peanuts, pickled vegetables, and aromatic spices in a rich sauce.",
   "cuisine": "Vietnamese",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -85,7 +83,6 @@
     "creamy",
     "vietnamese",
     "stir-fry",
-    "vegan",
     "tangy"
   ],
   "nutrition": {
@@ -111,5 +108,9 @@
     "mainIngredient": "peanut",
     "descriptor": "Creamy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

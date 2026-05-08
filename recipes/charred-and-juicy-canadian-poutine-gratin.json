@@ -2,10 +2,7 @@
   "title": "Charred and Juicy Canadian Poutine Gratin",
   "description": "A nostalgic twist on the classic Canadian dish featuring charred, juicy, and creamy elements. Perfect for a cozy dinner or night in with friends.",
   "cuisine": "Canadian",
-  "diet": [
-    "vegetarian",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -103,5 +100,10 @@
     "mainIngredient": "poutine",
     "descriptor": "charred and juicy",
     "dishForm": "Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

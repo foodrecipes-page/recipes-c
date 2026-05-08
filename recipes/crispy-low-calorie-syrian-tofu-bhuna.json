@@ -3,7 +3,6 @@
   "description": "This herbal, crispy, comforting Syrian dish features marinated tofu cooked in a spicy bhuna sauce, perfect for those looking to enjoy a low-calorie-friendly meal.",
   "cuisine": "Syrian",
   "diet": [
-    "vegan",
     "low-carb"
   ],
   "meal": "snack",
@@ -92,5 +91,9 @@
     "mainIngredient": "Tofu",
     "descriptor": "Crispy Low Calorie",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

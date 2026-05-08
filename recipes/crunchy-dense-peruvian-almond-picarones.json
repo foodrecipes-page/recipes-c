@@ -3,8 +3,7 @@
   "description": "Nutty, crisp peruvian breakfast treats made with almond flour, perfect for a weekend brunch.",
   "cuisine": "peruvian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -87,5 +86,9 @@
     "mainIngredient": "almond",
     "descriptor": "dense crunchy",
     "dishForm": "Picarones"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

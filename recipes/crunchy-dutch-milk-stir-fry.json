@@ -50,7 +50,8 @@
     "Add sliced vegetables and cook until soft but not mushy.",
     "Drain soy sauce marinade from chicken and mix cornstarch with 2 tbsp water. Add back to the marinated chicken, toss well and simmer for about 5 minutes.",
     "Combine stir-fried vegetables, crunchy chicken mixture, and toasted sesame seeds in a bowl. Serve immediately.",
-    "Enjoy your deliciously spicy and crunchy Dutch Milk Stir-fry!"
+    "Enjoy your deliciously spicy and crunchy Dutch Milk Stir-fry!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -85,5 +86,9 @@
     "mainIngredient": "Milk",
     "descriptor": "Crunchy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

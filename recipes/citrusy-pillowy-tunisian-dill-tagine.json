@@ -4,7 +4,6 @@
   "cuisine": "North African",
   "diet": [
     "vegetarian",
-    "gluten-free",
     "low-sodium"
   ],
   "meal": "breakfast",
@@ -81,7 +80,6 @@
     "breakfast",
     "brunch",
     "dinner",
-    "gluten-free",
     "healthy",
     "low-sodium",
     "lunch",
@@ -111,5 +109,9 @@
     "mainIngredient": "dill",
     "descriptor": "citrusy pillowy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

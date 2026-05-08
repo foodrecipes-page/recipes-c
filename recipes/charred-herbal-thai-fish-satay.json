@@ -4,7 +4,6 @@
   "cuisine": "Thai",
   "diet": [
     "pescatarian",
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -127,5 +126,9 @@
     "mainIngredient": "Fish",
     "descriptor": "Charred Herbal",
     "dishForm": "Satay"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

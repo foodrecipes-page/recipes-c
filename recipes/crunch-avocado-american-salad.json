@@ -58,7 +58,8 @@
     "Meanwhile, in a mixing bowl, combine lime juice, tomato sauce (tomato paste), dijon mustard, olive oil, unsweetened shredded coconut, and zest. Mix well to create the dressing.",
     "After marinating chicken breasts, cut them into wedges about 1 cm thick.",
     "To assemble: place slices of avocado on a serving plate. Top with sliced red onion. Arrange chicken pieces on top of avocado. Drizzle dressing over all and sprinkle with coconut. Serve immediately.",
-    "Broil the salad for an additional 2-3 minutes until crispy, watching carefully to avoid burning."
+    "Broil the salad for an additional 2-3 minutes until crispy, watching carefully to avoid burning.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 10,
@@ -95,5 +96,9 @@
     "mainIngredient": "avocado",
     "descriptor": "Creamy Crunch",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

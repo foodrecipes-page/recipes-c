@@ -50,7 +50,8 @@
     "In a saucepan, combine diced tomatoes with bell peppers and onions.",
     "Stir in cornstarch, oregano, paprika, lemon juice, and chicken broth. Bring to a simmer.",
     "Reduce heat and let cook for about 10 minutes until thickened.",
-    "Serve hot as a snack or appetizer."
+    "Serve hot as a snack or appetizer.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -86,5 +87,9 @@
     "mainIngredient": "Cornstarch",
     "descriptor": "Crunchy Cozy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

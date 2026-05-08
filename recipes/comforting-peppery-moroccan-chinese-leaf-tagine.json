@@ -3,8 +3,7 @@
   "description": "velvety and comforting moroccan dish featuring chinese leaf and a hint of peppery flavors",
   "cuisine": "moroccan",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -77,7 +76,6 @@
   "tags": [
     "comforting",
     "easy",
-    "gluten-free",
     "moroccan",
     "vegetarian"
   ],
@@ -104,5 +102,9 @@
     "mainIngredient": "Chinese Leaf",
     "descriptor": "Comforting Peppery",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

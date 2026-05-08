@@ -83,11 +83,15 @@
     "mood": "kid-friendly",
     "technique": "smoke",
     "primaryIngredient": "corn flour",
-    "diet": "keto",
+    "diet": "keto-friendly",
     "region": null,
     "cuisineAdjective": "Uruguayan",
     "mainIngredient": "cornflour",
     "descriptor": "Crispy Floral",
     "dishForm": "Fritters"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

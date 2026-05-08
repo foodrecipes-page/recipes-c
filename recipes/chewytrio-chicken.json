@@ -44,16 +44,16 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 375\u00b0F (190\u00b0C).",
+    "Preheat oven to 375°F (190°C).",
     "Mix ginger, sugar, vinegar, oregano, and lemon juice in a bowl. Add olive oil and mix well until smooth.",
     "Place chicken pieces on a baking sheet lined with parchment paper.",
     "Brush the marinade mixture evenly over each chicken piece.",
-    "Bake for 45 minutes or until fully cooked (internal temperature reaches at least 165\u00b0F).",
+    "Bake for 45 minutes or until fully cooked (internal temperature reaches at least 165°F).",
     "Serve hot with your choice of side dishes."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 45,
-  "totalTimeMin": 45,
+  "totalTimeMin": 65,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
@@ -80,5 +80,9 @@
     "primaryIngredient": "chicken",
     "diet": "nut-free",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A sour and crispy dish with a cozy twist featuring chicken, vegetables, and a homemade sauce that's sugar-free-friendly.",
   "cuisine": "Australian",
   "diet": [
-    "sugar-free",
-    "vegan"
+    "sugar-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -30,7 +29,8 @@
     "Remove the chicken from the pan and set aside. In the same pan, add more oil if needed and sauté sliced carrots and onions until they become soft but not mushy.",
     "Deglaze the pan with a little water or chicken broth to reduce any stuck bits at the bottom of the wok. Stir in 1 teaspoon of sugar-free soy sauce for a touch of sweetness (or omitted).",
     "Return the marinated chicken to the pan, add fresh herbs like coriander (cilantro) and basil to enhance flavor.",
-    "Mix all ingredients together until well combined and serve with steamed rice or noodles."
+    "Mix all ingredients together until well combined and serve with steamed rice or noodles.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -66,5 +66,10 @@
     "mainIngredient": "Chicken",
     "descriptor": "Crispy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "added-safety-poultry_no_temp"
+  ]
 }

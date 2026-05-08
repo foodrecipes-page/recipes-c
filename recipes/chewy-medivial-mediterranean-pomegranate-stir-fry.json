@@ -48,7 +48,8 @@
     "Add onion and garlic to the skillet; sauté for about 5 minutes or until softened.",
     "Stir in diced tomatoes along with their juice, ginger, Szechuan peppercorns, and a splash of water (about 1/4 cup). Let it simmer for about 10 minutes.",
     "Increase heat to high and add pomegranate arils. Stir well to combine and cook for an additional 5-7 minutes or until the sauce thickens slightly and all ingredients are heated through.",
-    "Serve hot as a main dish, garnished with extra pomegranate arils if desired."
+    "Serve hot as a main dish, garnished with extra pomegranate arils if desired.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -84,5 +85,9 @@
     "mainIngredient": "pomegranate",
     "descriptor": "Chewy Medivial",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A rich and crumbly post-workout dish featuring penne pasta mixed with a savory sauce that's easy to digest.",
   "cuisine": "Chinese",
   "diet": [
-    "vegan",
     "paleo"
   ],
   "meal": "snack",
@@ -78,5 +77,9 @@
     "mainIngredient": "Penne",
     "descriptor": "Crumbly",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

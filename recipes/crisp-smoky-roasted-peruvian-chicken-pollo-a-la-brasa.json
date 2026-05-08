@@ -75,7 +75,8 @@
     "Once the oil has reached the correct temperature, place the chicken in the oil and fry for 5-7 minutes on each side, or until it's golden brown and crispy.",
     "Remove the chicken from the oil with a slotted spoon and place it on a paper towel-lined plate to drain any excess oil.",
     "Let the chicken rest for 5 minutes before slicing it thinly and serving it hot with chopped cilantro and a squeeze of lime juice.",
-    "Garnish with chopped fresh cilantro and serve with lime wedges on the side."
+    "Garnish with chopped fresh cilantro and serve with lime wedges on the side.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 55,
@@ -113,5 +114,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Crisp Smoky Roasted",
     "dishForm": "Pollo A La Brasa"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

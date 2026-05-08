@@ -43,7 +43,8 @@
     "In a pan with oil, sauté diced onion and minced garlic until translucent, adding sliced meat if using.",
     "Add the steamed oats mixture into the pan, mixing well to incorporate all ingredients. Add soy sauce, sugar-free sweetener (if using), and any additional liquid for binding.",
     "Simmer gently, ensuring the dish is heated through and reaches your desired consistency. Adjust seasoning as needed.",
-    "Serve hot with additional vegetables or on its own as a savory side."
+    "Serve hot with additional vegetables or on its own as a savory side.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -79,5 +80,9 @@
     "mainIngredient": "rolled oats",
     "descriptor": "Crispy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

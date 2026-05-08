@@ -2,9 +2,7 @@
   "title": "Citrusy Fish Bites",
   "description": "A kid-friendly American dish featuring a citrusy fish sauce marinade that's gooey and perfect for snacks or as an appetizer.",
   "cuisine": "American",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -91,5 +89,9 @@
     "primaryIngredient": "fish sauce",
     "diet": "gluten-free",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -26,7 +26,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 400\u00b0F (200\u00b0C).",
+    "Preheat your oven to 400°F (200°C).",
     "In a bowl, mix dates with ground sugar and water.",
     "Heat the vegetable oil in a pan over medium heat. Pour the date mixture into the pan and stir-fry until it thickens and forms small crispy pieces.",
     "Transfer the crispy mixture to an oven-safe dish. Bake for 10 minutes or until golden brown.",
@@ -61,11 +61,15 @@
     "mood": "midnight-craving",
     "technique": "dum",
     "primaryIngredient": "ground sugar",
-    "diet": "kosher",
+    "diet": "keto",
     "region": null,
     "cuisineAdjective": "Turkish",
     "mainIngredient": "dates",
     "descriptor": "Crispy Midnight Craving",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

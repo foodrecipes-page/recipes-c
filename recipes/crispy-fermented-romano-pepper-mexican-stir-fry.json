@@ -2,9 +2,7 @@
   "title": "Crispy Fermented Romano Pepper Mexican Stir-fry",
   "description": "A brunch-mood vegan-friendly dish featuring crispy fermented romano pepper mixed with a flavorful sauce and vegetables for an indulgent yet healthy breakfast option.",
   "cuisine": "Mexican",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -41,7 +39,7 @@
     }
   ],
   "instructions": [
-    "Heat the air fryer to 375\u00b0F (190\u00b0C).",
+    "Heat the air fryer to 375°F (190°C).",
     "Add the fermented romano pepper and bell peppers into a bowl, season with salt and cumin seeds. Toss until well coated.",
     "Spread the seasoned mixture evenly on a baking sheet lined with parchment paper.",
     "Air-fry for about 20-25 minutes or until crispy, flipping halfway through cooking time.",
@@ -82,5 +80,9 @@
     "mainIngredient": "Romano Pepper",
     "descriptor": "Fermented, Crispy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

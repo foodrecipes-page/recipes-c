@@ -3,7 +3,6 @@
   "description": "A savory, umami-packed flank steak grilled to perfection and topped with a crisp, sweetfree panko crunch for a bold Russian-inspired dinner.",
   "cuisine": "Russian",
   "diet": [
-    "gluten-free",
     "sugar-free"
   ],
   "meal": "dinner",
@@ -38,11 +37,11 @@
     },
     {
       "name": "Black pepper",
-      "amount": "\u00bd tsp"
+      "amount": "½ tsp"
     },
     {
       "name": "Crushed panko breadcrumbs",
-      "amount": "\u00bd cup"
+      "amount": "½ cup"
     },
     {
       "name": "Butter",
@@ -60,9 +59,9 @@
   "instructions": [
     "Season the flank steak on both sides with salt, pepper, garlic powder, and smoked paprika.",
     "Heat a grill or grill pan over medium-high heat and brush with olive oil.",
-    "Place the steak on the grill and sear for 4\u20135 minutes per side for medium-rare, or longer to desired doneness. While the steak is resting, toast the panko in a small pan with butter, adding a pinch of smoked paprika for flavor.",
+    "Place the steak on the grill and sear for 4–5 minutes per side for medium-rare, or longer to desired doneness. While the steak is resting, toast the panko in a small pan with butter, adding a pinch of smoked paprika for flavor.",
     "Toss the shredded cabbage and carrot with a splash of olive oil, salt, and pepper, and microwave for 2 minutes or until just tender.",
-    "Slice the steak against the grain, top with the toasted panko crunch, and serve alongside the lightly saut\u00e9ed cabbage and carrot salad."
+    "Slice the steak against the grain, top with the toasted panko crunch, and serve alongside the lightly sautéed cabbage and carrot salad."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 12,
@@ -74,7 +73,6 @@
     "crunchy",
     "umami",
     "sugar-free",
-    "gluten-free",
     "rus-food",
     "quick-meal"
   ],
@@ -101,5 +99,9 @@
     "mainIngredient": "beef",
     "descriptor": "Crunchy",
     "dishForm": "Grill"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

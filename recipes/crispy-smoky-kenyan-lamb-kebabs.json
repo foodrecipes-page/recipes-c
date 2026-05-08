@@ -2,9 +2,7 @@
   "title": "Crispy Smoky Kenyan Lamb Kebabs",
   "description": "Savory, chewy lamb kebabs marinated in a smoky tandoori yogurt sauce, coated with toasted graham cracker crumbs for a crunchy finish.",
   "cuisine": "kenyan",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -92,7 +90,6 @@
   "difficulty": "medium",
   "tags": [
     "kebab",
-    "halal",
     "smoky-flavour",
     "grill",
     "lamb",
@@ -121,5 +118,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Crispy Smoky",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

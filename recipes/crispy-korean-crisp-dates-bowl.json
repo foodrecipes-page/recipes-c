@@ -3,8 +3,7 @@
   "description": "A sweet, crispy solo dinner bowl featuring stoned dates, boiled to perfection, and dash-friendly for a quick Korean-inspired snack.",
   "cuisine": "korean",
   "diet": [
-    "dash-friendly",
-    "vegan"
+    "dash-friendly"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -51,7 +50,6 @@
   "tags": [
     "korean",
     "dash-friendly",
-    "vegan",
     "crispy",
     "sweet",
     "dinner"
@@ -80,5 +78,10 @@
     "descriptor": "Crispy",
     "dishForm": "Bowl"
   },
-  "totalTimeMin": 40
+  "totalTimeMin": 7,
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "recomputed-totalTime"
+  ]
 }

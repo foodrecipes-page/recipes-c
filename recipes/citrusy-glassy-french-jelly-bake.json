@@ -3,8 +3,7 @@
   "description": "a monsoon french dish featuring dark soy sauce, wood-fired-bake, and a low-carb-friendly twist.",
   "cuisine": "french",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -86,7 +85,6 @@
   "tags": [
     "dessert",
     "french",
-    "gluten-free",
     "high-protein",
     "low-carb",
     "monsoon"
@@ -114,5 +112,9 @@
     "mainIngredient": "jelly",
     "descriptor": "citrusy glassy",
     "dishForm": "bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

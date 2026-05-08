@@ -65,7 +65,9 @@
     "Add the double-rise bread, torn into small pieces, and stir to combine.",
     "Add the water and bring the mixture to a boil.",
     "Transfer the donabe to a preheated oven at 375°F (190°C) and cook for 30 minutes, or until the liquid has been absorbed and the bread is crispy.",
-    "Remove from the oven and let cool for 10 minutes before serving."
+    "Remove from the oven and let cool for 10 minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -102,5 +104,10 @@
     "mainIngredient": "peppers",
     "descriptor": "Crispy Mixed",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

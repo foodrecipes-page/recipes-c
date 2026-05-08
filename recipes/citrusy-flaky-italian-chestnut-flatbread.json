@@ -74,7 +74,7 @@
   ],
   "prepTimeMin": 25,
   "cookTimeMin": 15,
-  "totalTimeMin": 70,
+  "totalTimeMin": 40,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
@@ -109,5 +109,9 @@
     "mainIngredient": "chestnut",
     "descriptor": "Citrusy Flaky",
     "dishForm": "Flatbread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

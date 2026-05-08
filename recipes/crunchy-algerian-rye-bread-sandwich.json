@@ -41,7 +41,8 @@
     "Slice the rye bread and place it on a baking sheet lined with parchment paper.",
     "Toast the slices in the preheated oven for about 2 minutes or until golden brown. Remove from the oven and let them cool slightly.",
     "Assemble the sandwich by spreading avocado spread and plant-based mayonnaise on one slice of toasted rye bread, followed by pickled vegetables, fresh herbs (if using), lettuce leaves, cherry tomatoes, and finally the other slice of toasted rye bread.",
-    "For an added crunch, sprinkle some extra crunchy toppings such as seeds or nuts over the assembled sandwich before serving."
+    "For an added crunch, sprinkle some extra crunchy toppings such as seeds or nuts over the assembled sandwich before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 2,
@@ -76,5 +77,9 @@
     "mainIngredient": "Rye bread",
     "descriptor": "Crunchy",
     "dishForm": "Sandwich"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A funky and dense Middle Eastern dish featuring bok choi and dashi extract, perfect for a quick fix, and macrobiotic friendly. It combines the flavors of the Middle East with the nutrition of bok choi.",
   "cuisine": "Middle Eastern",
   "diet": [
-    "macrobiotic",
-    "vegetarian"
+    "macrobiotic"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -64,8 +63,7 @@
     "macrobiotic",
     "middle-eastern",
     "one-pan",
-    "quick-fix",
-    "vegetarian"
+    "quick-fix"
   ],
   "nutrition": {
     "calories": 420,
@@ -90,5 +88,9 @@
     "mainIngredient": "bok choi",
     "descriptor": "Compact Crisp",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

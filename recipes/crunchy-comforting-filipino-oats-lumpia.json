@@ -70,7 +70,8 @@
     "Place a poached egg on top of the oat mixture.",
     "Top with thinly sliced cucumber.",
     "Repeat with the remaining ingredients.",
-    "Serve hot."
+    "Serve hot.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 25,
@@ -105,5 +106,9 @@
     "mainIngredient": "oats",
     "descriptor": "Crunchy comforting",
     "dishForm": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

@@ -74,7 +74,9 @@
     "Pour in the chicken broth and coconut cream, and bring to a simmer.",
     "Transfer the skillet to the preheated oven and bake for 15 minutes, until the liquid has thickened and the top is crispy.",
     "Remove the skillet from the oven and sprinkle with chopped parsley, if using.",
-    "Serve immediately, garnished with additional parsley if desired."
+    "Serve immediately, garnished with additional parsley if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -82,7 +84,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "gluten-free",
     "high-protein",
     "one-pan",
@@ -112,5 +113,11 @@
     "mainIngredient": "pickle",
     "descriptor": "charred zesty",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free",
+    "added-safety-poultry_no_temp",
+    "added-safety-preserving_no_acid"
+  ]
 }

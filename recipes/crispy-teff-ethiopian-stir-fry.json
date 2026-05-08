@@ -3,7 +3,6 @@
   "description": "A tangy, crisp, kid-friendly ethiopian dish featuring teff pasta, parmesan cheese, and other delicious ingredients for a crispy texture suitable for vegetarians.",
   "cuisine": "Ethiopian",
   "diet": [
-    "vegan",
     "jain-friendly"
   ],
   "meal": "snack",
@@ -96,5 +95,9 @@
     "mainIngredient": "Teff",
     "descriptor": "Crispy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

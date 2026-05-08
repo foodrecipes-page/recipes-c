@@ -71,7 +71,8 @@
     "Bring the mixture to a boil, then reduce heat and simmer for 10 minutes.",
     "Add heavy cream and cook for an additional 5 minutes or until the soup thickens slightly.",
     "Stir in chopped parsley and dill. Season with salt and black pepper to taste.",
-    "Serve warm, garnished with additional herbs if desired."
+    "Serve warm, garnished with additional herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -110,5 +111,9 @@
     "mainIngredient": "oysters",
     "descriptor": "crisp herbal",
     "dishForm": "soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

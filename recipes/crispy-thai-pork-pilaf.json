@@ -2,10 +2,7 @@
   "title": "Crispy Thai Pork Pilaf",
   "description": "An earthy and festive Thai dish featuring pork chops caramelized in a nut-free-friendly crispy sauce.",
   "cuisine": "Thai",
-  "diet": [
-    "vegetarian",
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -60,7 +57,8 @@
     "Add diced red bell pepper if using, and cook for another minute. Pour in the soy sauce and lime juice, stir to combine, then add marinated pork chops, skin-side down. Cook for 6-8 minutes per side or until golden-brown on both sides.",
     "Meanwhile, prepare rice vermicelli by adding hot water to them in a medium-sized pot and simmering until tender but still firm. Drain well and set aside.",
     "To finish the dish, remove pork chops from skillet and place over low heat; add rice vermicelli into the skillet along with a tablespoon of oil. Cook for about 2-3 minutes stirring occasionally to prevent sticking.",
-    "Serve the crispy Thai Pork Pilaf topped with fresh scallions as garnish."
+    "Serve the crispy Thai Pork Pilaf topped with fresh scallions as garnish.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 45,
   "cookTimeMin": 30,
@@ -96,5 +94,11 @@
     "mainIngredient": "pork",
     "descriptor": "Crispy",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-pescatarian",
+    "added-safety-pork_no_temp"
+  ]
 }

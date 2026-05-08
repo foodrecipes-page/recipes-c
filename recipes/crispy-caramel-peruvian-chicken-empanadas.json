@@ -55,7 +55,8 @@
     "Brush the empanadas with an egg wash and place them in a bain-marie.",
     "Bake the empanadas in the preheated oven for 20 minutes, or until they are golden brown and crispy.",
     "Remove the empanadas from the oven and let them cool for 5 minutes before serving.",
-    "Serve the empanadas warm and enjoy."
+    "Serve the empanadas warm and enjoy.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -93,5 +94,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Crispy caramel",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

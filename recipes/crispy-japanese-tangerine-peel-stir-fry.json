@@ -33,10 +33,11 @@
   "instructions": [
     "Wash and pat dry the tangerine peel.",
     "Slice off any tough parts of the peel, then finely chop the remaining peel.",
-    "In a large skillet over medium heat, add the chopped tangerine peel and minced garlic. Saut\u00e9 until fragrant, about 2 minutes.",
+    "In a large skillet over medium heat, add the chopped tangerine peel and minced garlic. Sauté until fragrant, about 2 minutes.",
     "Add red pepper flakes and soy sauce to the skillet; stir well for another minute.",
     "Gradually pour in water or chicken broth while continuously stirring to prevent burning. Let it simmer for about 5-7 minutes until slightly thickened.",
-    "Stir in chopped parsley just before serving to keep its vibrant color and texture."
+    "Stir in chopped parsley just before serving to keep its vibrant color and texture.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -73,5 +74,9 @@
     "mainIngredient": "Tangerine Peel",
     "descriptor": "Crispy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

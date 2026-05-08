@@ -83,11 +83,15 @@
     "mood": "comforting",
     "technique": "roast",
     "primaryIngredient": "pork knuckle",
-    "diet": "kosher",
+    "diet": "keto",
     "region": null,
     "cuisineAdjective": "Mediterranean",
     "mainIngredient": "pork knuckle",
     "descriptor": "Crispy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

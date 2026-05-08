@@ -3,7 +3,6 @@
   "description": "A cozy and garlicky dish featuring raw tiger prawns with a touch of fermentation for an authentic Slovakian twist. Perfect as a snack to start your day.",
   "cuisine": "Slovakian",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "snack",
@@ -77,5 +76,9 @@
     "mainIngredient": "Tiger prawns",
     "descriptor": "Garlicky, Crisp",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

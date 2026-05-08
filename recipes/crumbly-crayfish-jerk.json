@@ -2,9 +2,7 @@
   "title": "Crumbly Crayfish Jerk",
   "description": "An earthy and crumbly Ukrainian dish featuring a savory blend of jerk seasoning combined with crispy plant-based elements.",
   "cuisine": "Ukrainian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -91,5 +89,9 @@
     "mainIngredient": "Jerk seasoning",
     "descriptor": "crumbly",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

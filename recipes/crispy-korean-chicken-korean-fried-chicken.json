@@ -2,9 +2,7 @@
   "title": "Crispy Korean Chicken",
   "description": "A salty, crumbly Korean fried chicken dish featuring Monterey Jack cheese, served in a lacquerware bowl.",
   "cuisine": "Korean",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -99,5 +97,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Crunchy Crispy",
     "dishForm": "Korean Fried Chicken"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

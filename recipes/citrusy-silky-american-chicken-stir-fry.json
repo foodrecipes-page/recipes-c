@@ -56,7 +56,8 @@
     "Remove chicken from skillet and set aside. Lower heat to medium, add green onions to the skillet without oil.",
     "Pour the sauce mixture over the cooked chicken in the skillet, stir gently to coat all pieces evenly with the sauce.",
     "Stir in chili flakes if using, then return the chicken to the skillet along with any leftover marinade from the bowl. Cook for an additional minute until heated through and most of the liquid has evaporated.",
-    "Serve hot garnished with extra green onions if desired."
+    "Serve hot garnished with extra green onions if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -93,5 +94,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Citrusy Silky",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

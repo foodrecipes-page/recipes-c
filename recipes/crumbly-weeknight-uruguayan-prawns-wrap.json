@@ -3,7 +3,6 @@
   "description": "A yeasty, crumbly, weeknight Uruguayan dish featuring prawns, pasta-water-emulsion, and ayurvedic-rajasic-friendly ingredients, served in a lotus-leaf wrap.",
   "cuisine": "uruguayan",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -69,7 +68,6 @@
     "high-protein",
     "one-pan",
     "uruguayan",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -95,5 +93,9 @@
     "mainIngredient": "prawns",
     "descriptor": "crumbly weeknight",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

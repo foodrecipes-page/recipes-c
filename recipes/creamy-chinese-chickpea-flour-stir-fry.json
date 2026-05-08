@@ -3,8 +3,7 @@
   "description": "A savory, creamy festive Chinese (Cantonese) dish featuring chickpea flour with a low-carb-friendly twist, enhanced with pickled vegetables for added flavor and texture.",
   "cuisine": "Chinese (Cantonese)",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -40,7 +39,8 @@
     "Mix chickpea flour with water until no lumps remain. Heat oil in a wok or large skillet over medium-high heat.",
     "Add garlic and onion; cook for about 2 minutes until fragrant. Stir in the chickpea mixture, ginger, and pickled vegetables.",
     "Pour in coconut milk and bring to a simmer. Reduce heat to low, stir occasionally, and let it thicken slightly for about 5 minutes.",
-    "Season with salt to taste. Serve hot over cooked rice or noodles."
+    "Season with salt to taste. Serve hot over cooked rice or noodles.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -76,5 +76,10 @@
     "mainIngredient": "Chickpea Flour",
     "descriptor": "Creamy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-preserving_no_acid"
+  ]
 }

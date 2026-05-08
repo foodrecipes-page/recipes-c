@@ -31,7 +31,7 @@
     },
     {
       "name": "Lime",
-      "amount": "\u00bd",
+      "amount": "½",
       "notes": "juiced"
     },
     {
@@ -40,24 +40,25 @@
     },
     {
       "name": "Salt",
-      "amount": "\u00bc tsp"
+      "amount": "¼ tsp"
     },
     {
       "name": "Black pepper",
-      "amount": "\u215b tsp"
+      "amount": "⅛ tsp"
     }
   ],
   "instructions": [
-    "Preheat a non\u2011stick skillet over medium\u2011high heat.",
-    "In a bowl, combine shredded chicken with 60\u202fml of enchilada sauce, lime juice, salt, and pepper; toss to coat.",
-    "Warm each tortilla in a microwave for 20\u202fseconds or on a dry pan for 5\u202fseconds to make it pliable.",
-    "Spread 2\u202ftbsp of the remaining enchilada sauce onto each tortilla, then top with the chicken mixture, crumbled queso fresco, and chopped cilantro.",
-    "Fold the tortillas over the filling to form a half\u2011moon shape.",
-    "Brush the skillet lightly with olive oil and place one quesadilla in the pan; cook 2\u20113\u202fminutes until the bottom is golden brown.",
-    "Flip carefully and cook the other side for another 2\u20113\u202fminutes until crisp and cheese has melted.",
-    "Remove the quesadilla, let it rest 1\u202fminute, then slice into wedges.",
+    "Preheat a non‑stick skillet over medium‑high heat.",
+    "In a bowl, combine shredded chicken with 60 ml of enchilada sauce, lime juice, salt, and pepper; toss to coat.",
+    "Warm each tortilla in a microwave for 20 seconds or on a dry pan for 5 seconds to make it pliable.",
+    "Spread 2 tbsp of the remaining enchilada sauce onto each tortilla, then top with the chicken mixture, crumbled queso fresco, and chopped cilantro.",
+    "Fold the tortillas over the filling to form a half‑moon shape.",
+    "Brush the skillet lightly with olive oil and place one quesadilla in the pan; cook 2‑3 minutes until the bottom is golden brown.",
+    "Flip carefully and cook the other side for another 2‑3 minutes until crisp and cheese has melted.",
+    "Remove the quesadilla, let it rest 1 minute, then slice into wedges.",
     "Garnish with extra cilantro and lime wedges, and serve hot.",
-    "Enjoy with a side of fresh corn or a light salad if desired."
+    "Enjoy with a side of fresh corn or a light salad if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 8,
@@ -96,5 +97,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Crispy",
     "dishForm": "Quesadilla"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

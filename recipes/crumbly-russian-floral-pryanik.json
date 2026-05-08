@@ -3,8 +3,7 @@
   "description": "A crumbly, spicy, and sweet monsoon-inspired Russian dessert featuring Chinese five-spice powder, caramelized sugar, and a hint of ayurvedic spices.",
   "cuisine": "Russian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -82,7 +81,6 @@
     "ayurvedic",
     "crumbly",
     "dessert",
-    "gluten-free",
     "monsoon",
     "tamasic-friendly",
     "vegetarian"
@@ -110,5 +108,9 @@
     "mainIngredient": "floral",
     "descriptor": "crumbly",
     "dishForm": "Pryanik"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Cilantro Fold Vegan Jerk",
   "description": "A buttery and juicy vegan jerk dish featuring cilantro, plant-based friendly and perfect for a solo dinner.",
   "cuisine": "jamaican",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -76,7 +74,6 @@
     "jamaican",
     "vindaloo-style",
     "quick-and-easy",
-    "vegan",
     "lunch-dinner"
   ],
   "nutrition": {
@@ -98,5 +95,9 @@
     "primaryIngredient": "cilantro",
     "diet": "plant-based",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

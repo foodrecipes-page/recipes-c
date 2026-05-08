@@ -3,8 +3,7 @@
   "description": "A light and delicious Brazilian-inspired dish featuring crispy chicken, sweet and tangy glaze, and fresh vegetables, all wrapped in a delicate Brazilian-style ti-leaf wrap.",
   "cuisine": "Brazilian",
   "diet": [
-    "ovo-vegetarian",
-    "gluten-free"
+    "ovo-vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -68,7 +67,6 @@
   "difficulty": "medium",
   "tags": [
     "brazilian",
-    "gluten-free",
     "high-protein",
     "one-pan",
     "ovo-vegetarian",
@@ -97,5 +95,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Crispy-Caipira",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

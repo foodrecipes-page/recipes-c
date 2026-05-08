@@ -3,8 +3,7 @@
   "description": "A light, refreshing salad that balances the umami of shrimp paste with zesty lime, a hint of heat, and chewy tapioca pearls, perfect for a quick sick-day meal.",
   "cuisine": "Thai",
   "diet": [
-    "pescatarian",
-    "gluten-free"
+    "pescatarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -35,7 +34,7 @@
     },
     {
       "name": "cucumber",
-      "amount": "\u00bd medium",
+      "amount": "½ medium",
       "notes": "sliced into thin half-moons"
     },
     {
@@ -96,5 +95,9 @@
   "tags": [
     "thai",
     "lunch"
+  ],
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
   ]
 }

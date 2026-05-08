@@ -3,8 +3,6 @@
   "description": "a cultured, crunchy weeknight vietnamese dish featuring hake, fry-grind-rice-khao-khua, egg-free-friendly and simple to make.",
   "cuisine": "vietnamese",
   "diet": [
-    "vegan",
-    "vegetarian",
     "gluten-free",
     "dairy-free"
   ],
@@ -90,5 +88,10 @@
     "mainIngredient": "hake",
     "descriptor": "crunchy",
     "dishForm": "fry-grind-rice-khao-khua"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

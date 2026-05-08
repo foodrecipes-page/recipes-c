@@ -52,7 +52,8 @@
     "Add low-sodium chicken broth and almond milk. Bring to a simmer.",
     "Stir in herbs and soy sauce. Simmer for about 5 minutes or until thickened.",
     "Combine the creamy sauce with the cooked pasta, ensuring all grains are moist.",
-    "Sprinkle with fresh basil leaves before serving."
+    "Sprinkle with fresh basil leaves before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -87,5 +88,9 @@
     "mainIngredient": "Herb",
     "descriptor": "Creamy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

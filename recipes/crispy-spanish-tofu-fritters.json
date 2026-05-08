@@ -64,7 +64,8 @@
     "Drop spoonfuls of the tofu mixture into the skillet, flattening them slightly with the back of a spatula.",
     "Cook each fritter for 3-4 minutes per side, or until golden brown and crispy, checking the internal temperature reaches 160°F (71°C).",
     "Transfer the fritters to a paper towel-lined plate to drain excess oil.",
-    "Serve hot, topped with a spoonful of diced pickled red onions and a drizzle of extra soy sauce if desired."
+    "Serve hot, topped with a spoonful of diced pickled red onions and a drizzle of extra soy sauce if desired.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 10,
@@ -102,5 +103,9 @@
     "mainIngredient": "Tofu",
     "descriptor": "Crispy",
     "dishForm": "Fritters"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

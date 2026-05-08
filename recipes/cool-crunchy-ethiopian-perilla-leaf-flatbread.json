@@ -2,10 +2,7 @@
   "title": "Cool Crunchy Ethiopian Perilla Leaf Flatbread",
   "description": "A fermented, energizing Ethiopian dish featuring perilla leaf, double rise bread, and a glassy jelly texture, all dairy free friendly. This unique flatbread is perfect for a snack or light meal.",
   "cuisine": "Ethiopian",
-  "diet": [
-    "dairy-free",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -69,7 +66,6 @@
   "difficulty": "medium",
   "tags": [
     "crunchy-snack",
-    "dairy-free",
     "ethiopian-food",
     "fermented-food",
     "glassy-jelly",
@@ -98,5 +94,10 @@
     "mainIngredient": "perilla leaf",
     "descriptor": "Cool Crunchy",
     "dishForm": "Flatbread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-dairy-free"
+  ]
 }

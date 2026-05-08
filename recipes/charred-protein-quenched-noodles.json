@@ -28,7 +28,8 @@
     "Add vermicelli noodles to another pan and toss with olive oil for about 2-3 minutes or until just tender.",
     "Combine charred cheese cubes and cooked protein in the oven-safe bento box",
     "Top with charred noodle pieces and bake at 400 degrees F for 15 minutes, or until noodles are crispy and cheese is melted.",
-    "Let it rest for a couple of minutes before serving."
+    "Let it rest for a couple of minutes before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -64,5 +65,9 @@
     "mainIngredient": "Protein",
     "descriptor": "Charred",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

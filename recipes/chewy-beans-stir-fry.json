@@ -54,7 +54,6 @@
   "difficulty": "easy",
   "tags": [
     "ethiopian",
-    "vegan",
     "buttery",
     "chewy",
     "slow-cooked"
@@ -82,5 +81,9 @@
     "mainIngredient": "beans",
     "descriptor": "buttery chewy festive",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

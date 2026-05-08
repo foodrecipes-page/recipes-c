@@ -4,8 +4,7 @@
   "cuisine": "Mediterranean",
   "diet": [
     "vegetarian",
-    "vegan",
-    "gluten-free"
+    "vegan"
   ],
   "meal": "snack",
   "ingredients": [
@@ -72,7 +71,6 @@
   "servings": 8,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-protein",
     "mediterranean",
     "one-pan",
@@ -103,5 +101,9 @@
     "mainIngredient": "chickpeas",
     "descriptor": "Crispy Creamy",
     "dishForm": "Fritters"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -69,7 +69,8 @@
     "Add the garlic, cabbage, flour, ale, salt, and pepper. Stir to combine.",
     "Reduce heat to low and simmer, stirring occasionally, for 10 minutes.",
     "Stir in the crumbled cheddar cheese until melted and well combined.",
-    "Spoon the mixture into the stone bowls and serve hot, garnished with a sprig of fresh parsley."
+    "Spoon the mixture into the stone bowls and serve hot, garnished with a sprig of fresh parsley.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -107,5 +108,9 @@
     "mainIngredient": "turkey mince",
     "descriptor": "crumbly, bitter",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

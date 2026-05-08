@@ -3,7 +3,6 @@
   "description": "A charred, snappy, comforting Thai dish featuring raw tiger prawns, served in a style inspired by traditional Bangkok street food.",
   "cuisine": "Thai",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -105,5 +104,9 @@
     "mainIngredient": "tiger prawns",
     "descriptor": "charred comforting",
     "dishForm": "Pad See Ew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

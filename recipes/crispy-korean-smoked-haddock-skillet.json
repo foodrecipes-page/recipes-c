@@ -4,8 +4,7 @@
   "cuisine": "Korean",
   "diet": [
     "keto",
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -64,7 +63,6 @@
   "difficulty": "medium",
   "tags": [
     "crispy",
-    "gluten-free",
     "keto-friendly",
     "korean-inspired",
     "low-carb",
@@ -93,5 +91,9 @@
     "mainIngredient": "haddock",
     "descriptor": "Crispy Grassy",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

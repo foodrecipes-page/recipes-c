@@ -2,9 +2,7 @@
   "title": "Citrus Panang Crunch",
   "description": "An adventurous Egyptian dish featuring a citrusy and crunchy twist on the classic panang curry with vegan-friendly elements, prepared in a pressure cooker for an easy dinner option.",
   "cuisine": "Egyptian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -85,5 +83,9 @@
     "primaryIngredient": "panang curry paste",
     "diet": "vegan",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A kid-friendly, vegan-friendly Japanese dish featuring vermicelli rice noodles, crispy fried shallots, and fermented umeboshi plum sauce. This crunchy noodle dish is perfect for a quick and easy lunch or dinner.",
   "cuisine": "Japanese",
   "diet": [
-    "vegan",
-    "gluten-free"
+    "vegan"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -68,7 +67,6 @@
   "tags": [
     "japanese",
     "vegan",
-    "gluten-free",
     "noodle-dish",
     "crunchy",
     "fermented"
@@ -96,5 +94,9 @@
     "mainIngredient": "noodles",
     "descriptor": "crunchy fermented",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

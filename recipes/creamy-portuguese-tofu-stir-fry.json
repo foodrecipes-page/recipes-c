@@ -2,9 +2,7 @@
   "title": "Creamy Portuguese Tofu Stir-Fry",
   "description": "Savory, creamy, and energizing vegan tofu stir-fry infused with Portuguese spices and a splash of rum.",
   "cuisine": "portuguese",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -85,7 +83,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "vegan",
     "stir-fry",
     "creamy",
     "portuguese-flavor",
@@ -117,5 +114,9 @@
     "mainIngredient": "tofu",
     "descriptor": "Creamy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

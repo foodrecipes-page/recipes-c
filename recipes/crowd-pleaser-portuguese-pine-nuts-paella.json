@@ -50,7 +50,8 @@
     "Heat the olive oil in a large paella pan over medium-high heat.",
     "Add the chicken breast and cook until browned, about 5 minutes.",
     "Remove the chicken from the pan and set aside.",
-    "Add the onion and garlic to the pan and cook until the onion is translucent, about 3-4 minutes."
+    "Add the onion and garlic to the pan and cook until the onion is translucent, about 3-4 minutes.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -87,5 +88,9 @@
     "mainIngredient": "pine nuts",
     "descriptor": "crowd-pleaser",
     "dishForm": "paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

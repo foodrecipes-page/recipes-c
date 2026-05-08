@@ -3,7 +3,6 @@
   "description": "A citrusy and indulgent Norwegian dish featuring tomatoes, this gratin is perfect for a dinner party. The combination of citrus and tomatoes creates a unique flavor profile.",
   "cuisine": "Norwegian",
   "diet": [
-    "gluten-free",
     "nut-free"
   ],
   "meal": "dinner",
@@ -100,5 +99,9 @@
     "mainIngredient": "Tomato",
     "descriptor": "Crisp Citrusy",
     "dishForm": "Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A umami-rich, creamy tagine featuring chicken stock concentrate for deep flavor and quick prep. Perfect for meal prepping with raw-friendly ingredients.",
   "cuisine": "moroccan",
   "diet": [
-    "vegetarian",
     "vegetarian-friendly",
     "gluten-free",
     "high-protein",
@@ -70,7 +69,8 @@
     "Pour in chicken stock concentrate and 1 cup water; bring to a simmer.",
     "Cover and cook on low heat for 20 minutes until chicken is tender.",
     "Adjust seasoning with salt and pepper to taste.",
-    "Serve warm with rice or crusty bread."
+    "Serve warm with rice or crusty bread.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 5,
   "cookTimeMin": 25,
@@ -108,5 +108,10 @@
     "mainIngredient": "chicken",
     "descriptor": "creamy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

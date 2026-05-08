@@ -62,7 +62,9 @@
     "Add onions, bell peppers, and cinnamon; stir-fry for 5 minutes or until the vegetables are translucent.",
     "Mix in ground beef, lemon juice from all lemons (6 oz), chicken broth, lime juice, salt, and pepper. Stir well to combine.",
     "Bring the mixture to a simmer. Reduce heat to medium-low and let it cook uncovered, stirring occasionally, for 15-20 minutes or until slightly thickened.",
-    "Serve hot as a main dish with whole grain bread."
+    "Serve hot as a main dish with whole grain bread.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -98,5 +100,10 @@
     "mainIngredient": "lemon",
     "descriptor": "Citrusy Velvety",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

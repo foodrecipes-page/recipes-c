@@ -3,8 +3,7 @@
   "description": "A hearty, garlicky Irish dish featuring thyme and puff pastry, perfect for a lazy Sunday. This low-glycemic-friendly casserole is sure to become a family favorite.",
   "cuisine": "Irish",
   "diet": [
-    "low-glycemic",
-    "gluten-free"
+    "low-glycemic"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -105,5 +104,9 @@
     "mainIngredient": "potatoes",
     "descriptor": "Comforting Creamy",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "This low-sodium-friendly dutch dish features crispy and comforting potatoes prepared with vegan butter for a comforting meal.",
   "cuisine": "Dutch",
   "diet": [
-    "vegan",
     "low-sodium"
   ],
   "meal": "dinner",
@@ -76,5 +75,9 @@
     "mainIngredient": "Potato",
     "descriptor": "bitter crispy comforting",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

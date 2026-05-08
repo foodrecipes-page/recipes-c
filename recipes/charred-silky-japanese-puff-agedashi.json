@@ -66,7 +66,8 @@
     "Add the curry paste mixture and sesame seeds (if using) to the puff pastry.",
     "Season with salt and black pepper to taste.",
     "Serve immediately and enjoy!",
-    "Note: For an extra crispy bottom, you can pan-fry the puff pastry for 1-2 minutes before serving."
+    "Note: For an extra crispy bottom, you can pan-fry the puff pastry for 1-2 minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -103,5 +104,9 @@
     "mainIngredient": "puff",
     "descriptor": "charred silky",
     "dishForm": "Agedashi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

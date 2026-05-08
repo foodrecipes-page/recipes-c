@@ -70,8 +70,7 @@
   "tags": [
     "creamyspicy",
     "kidfriendly",
-    "indiandish",
-    "halal"
+    "indiandish"
   ],
   "nutrition": {
     "calories": 376,
@@ -96,5 +95,9 @@
     "mainIngredient": "Onion",
     "descriptor": "Creamy Spicy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

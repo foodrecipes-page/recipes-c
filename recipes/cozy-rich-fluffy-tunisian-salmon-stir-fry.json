@@ -2,9 +2,7 @@
   "title": "Cozy Rich Fluffy Tunisian Salmon Stir-fry",
   "description": "A rich and fluffy Cozy dish featuring salmon with a Mediterranean twist, perfect for a cozy dinner.",
   "cuisine": "Mediterranean",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -74,8 +72,7 @@
     "salmon",
     "tunisian",
     "fluffy",
-    "rich",
-    "vegan"
+    "rich"
   ],
   "nutrition": {
     "calories": 436,
@@ -100,5 +97,10 @@
     "mainIngredient": "Salmon",
     "descriptor": "Rich Fluffy Cozy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-dairy-free"
+  ]
 }

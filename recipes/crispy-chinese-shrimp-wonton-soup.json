@@ -77,7 +77,8 @@
     "Add the crispy wontons to the simmering broth, letting them warm through for 2 minutes.",
     "Ladle soup into bowls, drizzle with remaining sesame oil, and sprinkle sliced scallions on top.",
     "Adjust seasoning with extra salt or chili flakes if desired.",
-    "Serve immediately while the broth remains clear and slightly thickened."
+    "Serve immediately while the broth remains clear and slightly thickened.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -115,5 +116,9 @@
     "mainIngredient": "shrimp",
     "descriptor": "Crispy",
     "dishForm": "Wonton Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

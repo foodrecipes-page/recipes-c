@@ -2,9 +2,7 @@
   "title": "Clove Garlic Porridge",
   "description": "A dairy-free and comforting porridge with a garlicky kick to aid in hangover recovery, inspired by Turkish cuisine.",
   "cuisine": "Turkish",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -40,7 +38,6 @@
     "porridge",
     "garlic",
     "cloves",
-    "dairy-free",
     "hangover-cure"
   ],
   "nutrition": {
@@ -62,5 +59,9 @@
     "primaryIngredient": "ground clove",
     "diet": "dairy-free",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

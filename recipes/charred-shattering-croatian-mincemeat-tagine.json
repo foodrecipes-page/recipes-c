@@ -33,7 +33,8 @@
     "Chop a handful of parsley and stir it into the remaining mincemeat.",
     "Spoon the parsley and mincemeat mixture into the bottom of the tagine and smooth the top.",
     "Brush the lid of the tagine with a little lamb fat and replace the lid.",
-    "Place the tagine over medium heat and simmer, covered, for 10 minutes, or until the meat is heated through."
+    "Place the tagine over medium heat and simmer, covered, for 10 minutes, or until the meat is heated through.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -69,5 +70,9 @@
     "mainIngredient": "mincemeat",
     "descriptor": "charred, shattering",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

@@ -53,8 +53,7 @@
   "tags": [
     "ukrainian",
     "date-night",
-    "salty-chewy",
-    "gluten-free"
+    "salty-chewy"
   ],
   "nutrition": {
     "calories": 210,
@@ -79,5 +78,9 @@
     "mainIngredient": "Dates",
     "descriptor": "Chewy",
     "dishForm": "Poaching"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

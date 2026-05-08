@@ -62,7 +62,8 @@
     "Add the cooked spaghetti to the skillet, tossing to combine with the uni sauce.",
     "Season with black pepper to taste.",
     "Transfer the pasta to a serving dish and top with grated parmesan and chopped parsley.",
-    "Serve immediately and enjoy."
+    "Serve immediately and enjoy.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -99,5 +100,9 @@
     "mainIngredient": "uni",
     "descriptor": "Creamy",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

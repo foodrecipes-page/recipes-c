@@ -60,7 +60,8 @@
     "Baste the haggis every 10 minutes with a mixture of olive oil, minced garlic, rosemary, salt, and pepper to build a flavorful crust.",
     "Scatter pickled green mango and sliced radicchio around the haggis and bake for 35 minutes until the surface is golden and crisp.",
     "Remove the pan, sprinkle lemon zest over the roast, and let it rest for 5 minutes before slicing.",
-    "Serve the haggis slices with a side of cooked quinoa for an extra protein boost and a garnish of fresh herbs."
+    "Serve the haggis slices with a side of cooked quinoa for an extra protein boost and a garnish of fresh herbs.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 45,
@@ -98,5 +99,9 @@
     "mainIngredient": "haggis",
     "descriptor": "Crisp Bitter",
     "dishForm": "Roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

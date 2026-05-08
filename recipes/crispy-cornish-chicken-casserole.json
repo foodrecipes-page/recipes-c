@@ -65,7 +65,8 @@
     "Mix the arrowroot powder with two tablespoons of water to create a slurry, then stir it into the pot until the glaze thickens.",
     "Return the chicken to the pot, nestle it in the glaze, cover, and bake in the preheated oven for 25 minutes.",
     "Uncover the pot, bake an additional five minutes to develop a crispy golden crust.",
-    "Remove the pot from the oven, let the casserole rest for five minutes, then serve hot."
+    "Remove the pot from the oven, let the casserole rest for five minutes, then serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 35,
@@ -103,5 +104,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Crispy",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

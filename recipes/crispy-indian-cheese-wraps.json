@@ -3,8 +3,7 @@
   "description": "This tangy, crisp dish features mature cheddar cheese wrapped in a plant-based-friendly wrap and topped with a spicy sauce for a brunch-mood Indian (Gujarati) delight.",
   "cuisine": "Indian (Gujarati)",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -34,7 +33,7 @@
     }
   ],
   "instructions": [
-    "Preheat your pan or fryer to 375\u00b0F (190\u00b0C).",
+    "Preheat your pan or fryer to 375°F (190°C).",
     "Grate the mature cheddar cheese and mix it with ginger paste, sugar, and red chili powder.",
     "Heat oil in the preheated pan. Carefully place grated cheese mixture into the hot oil and cook for about 2-3 minutes or until golden brown and crispy.",
     "Remove from heat and let it cool slightly before wrapping each piece of cheese in a wrap tortilla or flatbread, ensuring not to break the cheese inside."
@@ -74,5 +73,9 @@
     "mainIngredient": "cheese",
     "descriptor": "Crispy",
     "dishForm": "Wraps"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

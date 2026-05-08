@@ -51,7 +51,8 @@
     "Add the seasoned pork pieces to the pan and cook until browned on all sides, approximately 5-7 minutes.",
     "Pour in the caramel sauce base. Stir well to combine with the ingredients.",
     "Lower heat to medium-low, cover the pan with a lid, and let it simmer for about 10 minutes.",
-    "After 10 minutes, remove from heat, garnish with celery leaves and thyme sprigs if desired, serve hot."
+    "After 10 minutes, remove from heat, garnish with celery leaves and thyme sprigs if desired, serve hot.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 25,
   "cookTimeMin": 35,
@@ -81,11 +82,16 @@
     "mood": "comforting",
     "technique": "simmer",
     "primaryIngredient": "caramel",
-    "diet": "kosher",
+    "diet": "kosher-friendly",
     "region": null,
     "cuisineAdjective": "French",
     "mainIngredient": "Caramel",
     "descriptor": "Spicy Crumbly",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp",
+    "aligned-axes-diet"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A herbal and creamy show-off mediterranean dish featuring cauliflower and dairy-free-friendly ingredients.",
   "cuisine": "Mediterranean",
   "diet": [
-    "vegetarian",
-    "dairy-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -77,8 +76,7 @@
     "creamy",
     "show-off",
     "mediterranean",
-    "herbal",
-    "dairy-free"
+    "herbal"
   ],
   "nutrition": {
     "calories": 280,
@@ -103,5 +101,9 @@
     "mainIngredient": "Cauliflower",
     "descriptor": "Creamy Showoff",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

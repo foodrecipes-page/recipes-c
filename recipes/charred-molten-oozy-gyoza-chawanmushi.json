@@ -54,7 +54,7 @@
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 12,
-  "totalTimeMin": 45,
+  "totalTimeMin": 27,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
@@ -86,5 +86,9 @@
     "mainIngredient": "Potato",
     "descriptor": "Charred Molten",
     "dishForm": "Oozy Charred Potato Gyoza Chawanmushi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

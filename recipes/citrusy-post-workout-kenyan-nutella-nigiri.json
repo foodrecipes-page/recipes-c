@@ -3,8 +3,7 @@
   "description": "A refreshing post-workout snack combining Kenyan flair with Italian chocolate-hazelnut goodness. This nigiri-style treat is shaped like sushi but packs a keto-friendly punch.",
   "cuisine": "kenyan",
   "diet": [
-    "keto",
-    "gluten-free"
+    "keto"
   ],
   "meal": "snack",
   "ingredients": [
@@ -77,7 +76,6 @@
   "difficulty": "medium",
   "tags": [
     "dessert-replacement",
-    "gluten-free",
     "high-protein",
     "keto",
     "low-carb",
@@ -108,5 +106,9 @@
     "mainIngredient": "nutella",
     "descriptor": "citrusy post-workout",
     "dishForm": "nigiri"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -2,10 +2,7 @@
   "title": "Citrusy Crispy British Spotted Dick Pudding",
   "description": "A vegan-friendly, citrusy and crispy British dessert featuring English mustard and rice flour.",
   "cuisine": "British",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -63,7 +60,6 @@
   "tags": [
     "british-cuisine",
     "citrusy",
-    "gluten-free",
     "vegan-desserts"
   ],
   "nutrition": {
@@ -89,5 +85,10 @@
     "mainIngredient": "Dick",
     "descriptor": "Citrusy Crispy",
     "dishForm": "Spotted Dick Pudding"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

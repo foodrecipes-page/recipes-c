@@ -2,9 +2,7 @@
   "title": "Comforting Middle Eastern Apricot Tagine",
   "description": "A sweet and savory dish featuring dried apricots, perfect for a sick day, made with halal-friendly ingredients and a poaching method to create a jammy and gooey texture.",
   "cuisine": "Middle Eastern",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -75,7 +73,6 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "halal",
     "middle-eastern",
     "one-pot",
     "weeknight"
@@ -103,5 +100,9 @@
     "mainIngredient": "apricots",
     "descriptor": "Comforting",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

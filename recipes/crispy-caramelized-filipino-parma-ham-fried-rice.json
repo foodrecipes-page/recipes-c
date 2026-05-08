@@ -3,7 +3,6 @@
   "description": "A buttery and shaggy Filipino dish featuring parma ham, perfect for a weeknight dinner, with anti-inflammatory friendly ingredients. This recipe is easy to make and serves as a great way to use leftover rice.",
   "cuisine": "Filipino",
   "diet": [
-    "gluten-free",
     "dairy"
   ],
   "meal": "dinner",
@@ -69,7 +68,6 @@
   "tags": [
     "easy-dinner",
     "filipino-food",
-    "gluten-free",
     "leftover-rice",
     "one-pan",
     "weeknight"
@@ -97,5 +95,9 @@
     "mainIngredient": "parma ham",
     "descriptor": "crispy caramelized",
     "dishForm": "Fried-Rice"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

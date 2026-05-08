@@ -2,9 +2,7 @@
   "title": "Crispy Knead Vegan Shrimp Bowl",
   "description": "A buttery and crispy shrimp bowl with a touch of chewiness from the kneaded texture, perfect for kids and vegan families.",
   "cuisine": "Chinese (Zhejiang)",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -69,7 +67,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "vegan",
     "crispy",
     "knead",
     "chinese",
@@ -96,5 +93,9 @@
     "primaryIngredient": "jumbo shrimp",
     "diet": "vegan",
     "region": "zhejiang"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

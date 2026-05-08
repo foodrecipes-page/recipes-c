@@ -28,9 +28,9 @@
       "notes": "leaves only"
     },
     {
-      "name": "extra\u2011virgin olive oil",
+      "name": "extra‑virgin olive oil",
       "amount": "2 tbsp",
-      "notes": "for saut\u00e9ing"
+      "notes": "for sautéing"
     },
     {
       "name": "lemon juice",
@@ -60,9 +60,9 @@
   ],
   "instructions": [
     "Prepare all ingredients and set aside.",
-    "Heat olive oil in a non\u2011stick skillet over medium heat until shimmering but not smoking.",
+    "Heat olive oil in a non‑stick skillet over medium heat until shimmering but not smoking.",
     "Add the cream of tartar to the oil and stir for 10 seconds to dissolve.",
-    "Add diced cucumber to the skillet, saut\u00e9 for 2 minutes, stirring frequently, until just tender but still crisp.",
+    "Add diced cucumber to the skillet, sauté for 2 minutes, stirring frequently, until just tender but still crisp.",
     "Transfer the cucumber to a large bowl and immediately add sliced red onion, pomegranate seeds, and chopped mint.",
     "Whisk together lemon juice, salt, pepper, and honey in a small cup until smooth.",
     "Pour the dressing over the vegetables and gently fold to combine, ensuring even coverage.",
@@ -79,7 +79,7 @@
     "mood": "romantic",
     "technique": "fold",
     "primaryIngredient": "cream of tartar",
-    "diet": "low-sodium",
+    "diet": "low-sodium-friendly",
     "region": null,
     "cuisineAdjective": "Egyptian",
     "mainIngredient": "pomegranate",
@@ -100,5 +100,9 @@
   "tags": [
     "egyptian",
     "lunch"
+  ],
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
   ]
 }

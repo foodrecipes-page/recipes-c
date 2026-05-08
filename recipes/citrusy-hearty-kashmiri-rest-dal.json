@@ -4,8 +4,7 @@
   "cuisine": "Kashmiri Indian",
   "diet": [
     "vegetarian",
-    "egg-free",
-    "dairy-free"
+    "egg-free"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -112,5 +111,9 @@
     "mainIngredient": "Rest",
     "descriptor": "Citrusy Hearty",
     "dishForm": "Dal"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

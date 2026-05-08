@@ -2,10 +2,7 @@
   "title": "Cozy Crumbly Russian Bulgur Wheat Pilaf",
   "description": "A hearty and comforting Russian dish made with bulgur wheat, featuring a fresh and crumbly texture, perfect for a cozy meal. This recipe is onion and garlic free, making it suitable for those with dietary restrictions.",
   "cuisine": "Russian",
-  "diet": [
-    "vegetarian",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -56,7 +53,8 @@
     "Bring the mixture to a boil, then reduce the heat to low, cover, and simmer for 15 minutes.",
     "Fluff the pilaf with a fork and serve hot.",
     "Garnish with fresh herbs, if desired.",
-    "Serve with a side of steamed vegetables or a salad, if desired."
+    "Serve with a side of steamed vegetables or a salad, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -65,10 +63,8 @@
   "difficulty": "easy",
   "tags": [
     "comfort-food",
-    "gluten-free",
     "healthy",
     "one-pan",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -94,5 +90,11 @@
     "mainIngredient": "bulgur wheat",
     "descriptor": "Cozy Crumbly",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

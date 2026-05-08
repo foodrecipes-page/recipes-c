@@ -73,7 +73,6 @@
     "caramelized",
     "crowd-pleaser",
     "fermented",
-    "gluten-free",
     "low-sodium",
     "one-pan",
     "snack-worthy",
@@ -102,5 +101,9 @@
     "mainIngredient": "banana",
     "descriptor": "crunchy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

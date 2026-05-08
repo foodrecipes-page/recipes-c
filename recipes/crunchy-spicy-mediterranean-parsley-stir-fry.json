@@ -40,7 +40,8 @@
     "Stir in chopped parsley and pickled vegetables. Cook for about 1 minute to combine flavors.",
     "Pour in tomato sauce and stir well to combine all ingredients.",
     "Reduce heat to low, cover the pan and let simmer for another 2-3 minutes.",
-    "Serve hot as a snack or light meal."
+    "Serve hot as a snack or light meal.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 5,
   "cookTimeMin": 7,
@@ -79,5 +80,9 @@
     "mainIngredient": "Parsley",
     "descriptor": "Spicy Crunchy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "a pescatarian-friendly dish featuring a crispy outside and a creamy interior, inspired by ukrainian cuisine.",
   "cuisine": "ukrainian",
   "diet": [
-    "pescatarian",
-    "vegetarian"
+    "pescatarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -121,5 +120,9 @@
     "mainIngredient": "fish",
     "descriptor": "crispy roasted",
     "dishForm": "Fried"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

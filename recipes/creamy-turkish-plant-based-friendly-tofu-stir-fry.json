@@ -3,8 +3,7 @@
   "description": "A light and romantic turkish dish featuring tofu in a creamy sauce with the perfect blend of flavors from worcestershire sauce, prepared sous-vide style for added tenderness.",
   "cuisine": "Turkish",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -97,5 +96,9 @@
     "mainIngredient": "plant_based_friendly_tofu",
     "descriptor": "Creamy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

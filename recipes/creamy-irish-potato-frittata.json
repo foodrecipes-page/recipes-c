@@ -3,8 +3,7 @@
   "description": "A nutty and fluffy Irish dish perfect for brunch, featuring potatoes and a creamy texture, made in a paella pan with all purpose flour and mantecare emulsification for a low sodium friendly meal.",
   "cuisine": "Irish",
   "diet": [
-    "low-sodium",
-    "gluten-free"
+    "low-sodium"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -106,5 +105,9 @@
     "mainIngredient": "potatoes",
     "descriptor": "Creamy Crunchy",
     "dishForm": "Frittata"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

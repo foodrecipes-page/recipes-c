@@ -3,7 +3,6 @@
   "description": "Rich and gooey Irish dish featuring v sterbottensost cheese for a cozy and satisfying snack or dessert.",
   "cuisine": "Irish",
   "diet": [
-    "dairy-free",
     "saturated-fat-free"
   ],
   "meal": "snack",
@@ -75,5 +74,9 @@
     "primaryIngredient": "v sterbottensost cheese",
     "diet": "fodmap",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

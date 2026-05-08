@@ -2,9 +2,7 @@
   "title": "Crispy Peppery Chinese Stir-fry",
   "description": "A monsoon-inspired gluten-free Chinese dish featuring pickled vegetables, caramelized garlic, and a spicy kick.",
   "cuisine": "Chinese",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -51,7 +49,8 @@
     "Toss in the carrots and continue cooking for another 2 minutes.",
     "Sprinkle cornstarch into a small bowl with water, then pour it over vegetables. Stir until thickened.",
     "Add pickled vegetables, green onion, and soy sauce; stir-fry for an additional minute.",
-    "Serve hot."
+    "Serve hot.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -60,7 +59,6 @@
   "difficulty": "medium",
   "tags": [
     "stir-fry",
-    "gluten-free",
     "peppery",
     "caramelized"
   ],
@@ -87,5 +85,10 @@
     "mainIngredient": "Pepper",
     "descriptor": "Crispy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-preserving_no_acid"
+  ]
 }

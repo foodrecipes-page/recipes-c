@@ -51,7 +51,8 @@
     "Add the shio koji to the onigiri mixture and stir well.",
     "Once the chicken is done, let it rest for 5 minutes before slicing into thin strips.",
     "Shape the onigiri mixture into triangles and pan fry until crispy and golden brown.",
-    "Serve the sliced chicken with the crunchy onigiri and enjoy."
+    "Serve the sliced chicken with the crunchy onigiri and enjoy.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -89,5 +90,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Crunchy Roasted",
     "dishForm": "Onigiri"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

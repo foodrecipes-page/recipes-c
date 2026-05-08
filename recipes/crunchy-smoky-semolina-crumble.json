@@ -2,9 +2,7 @@
   "title": "Crunchy Smoky Semolina Crumble",
   "description": "A dairy-free version of a nostalgic Kenyan dish featuring crunchy semolina crumbles with a hint of smokiness.",
   "cuisine": "Kenyan",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -76,5 +74,9 @@
     "mainIngredient": "Semolina",
     "descriptor": "Smoky Crunchy",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

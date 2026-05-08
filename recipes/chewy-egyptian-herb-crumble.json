@@ -2,9 +2,7 @@
   "title": "Chewy Egyptian Herb Crumble",
   "description": "A vegan-friendly and chewy herbal crumble that is perfect for a weeknight dinner featuring shredded Mexican cheese.",
   "cuisine": "Egyptian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -55,8 +53,7 @@
   "tags": [
     "egyptian",
     "herbal",
-    "chewy",
-    "vegan"
+    "chewy"
   ],
   "nutrition": {
     "calories": 270,
@@ -81,5 +78,9 @@
     "mainIngredient": "herb",
     "descriptor": "Chewy",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

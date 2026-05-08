@@ -27,7 +27,8 @@
     "Gently spread duck fat evenly across each slice. Ensure not to use too much, as it will melt quickly and distribute nicely across the toast.",
     "Sprinkle a pinch of sea salt over the top of each slice to enhance the flavors without making the dish overly salty.",
     "Place the baking sheet in the preheated oven and bake for about 5 minutes or until golden brown on the edges, being careful not to burn the bread.",
-    "Remove from the oven and let cool slightly before serving. The toast can be served as a quick snack or paired with your favorite spreads or toppings."
+    "Remove from the oven and let cool slightly before serving. The toast can be served as a quick snack or paired with your favorite spreads or toppings.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 5,
   "cookTimeMin": 5,
@@ -62,5 +63,9 @@
     "mainIngredient": "duck fat",
     "descriptor": "Crusty",
     "dishForm": "Toast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

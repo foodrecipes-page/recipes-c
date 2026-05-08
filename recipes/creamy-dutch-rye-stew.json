@@ -3,8 +3,7 @@
   "description": "A sweet, creamy, comforting Dutch dish made with rye bread, simmered to perfection for a pescatarian-friendly meal.",
   "cuisine": "dutch",
   "diet": [
-    "pescatarian",
-    "vegan"
+    "pescatarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -77,7 +76,6 @@
     "stew",
     "sweet",
     "pescatarian",
-    "vegan",
     "comforting"
   ],
   "nutrition": {
@@ -103,5 +101,9 @@
     "mainIngredient": "rye",
     "descriptor": "creamy",
     "dishForm": "stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

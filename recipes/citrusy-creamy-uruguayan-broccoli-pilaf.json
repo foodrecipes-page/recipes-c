@@ -27,7 +27,8 @@
     "Season with salt and pepper to taste.",
     "Flamb\u00019 the mixture with a tablespoon of white wine and cook for an additional minute, stirring constantly.",
     "Transfer the pilaf to a serving dish and garnish with lemon wedges.",
-    "Serve immediately, garnished with lemon wedges if desired."
+    "Serve immediately, garnished with lemon wedges if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -69,5 +70,9 @@
     "mainIngredient": "Broccoli",
     "descriptor": "Citrusy creamy",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

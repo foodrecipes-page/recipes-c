@@ -62,11 +62,9 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "grain-pilaf",
     "one-pan",
     "slovakian",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -92,5 +90,10 @@
     "mainIngredient": "grain",
     "descriptor": "crunchy toasted",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

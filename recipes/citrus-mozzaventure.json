@@ -2,9 +2,7 @@
   "title": "Citrus Mozzaventure",
   "description": "A citrusy, chewy, adventurous Filipino dish featuring mozzarella in a dairy-free friendly version.",
   "cuisine": "Filipino",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -74,5 +72,9 @@
     "primaryIngredient": "mozzarella",
     "diet": "dairy-free",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

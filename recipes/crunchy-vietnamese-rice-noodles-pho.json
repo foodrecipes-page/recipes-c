@@ -3,8 +3,7 @@
   "description": "Cultured, crunchy, adventurous Vietnamese dish featuring dark soft brown sugar and coconut cream. Satvik-friendly and ideal for a comforting dinner.",
   "cuisine": "vietnamese",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -89,7 +88,6 @@
   "difficulty": "medium",
   "tags": [
     "dinner",
-    "gluten-free",
     "noodle",
     "vegetarian",
     "vietnamese"
@@ -117,5 +115,9 @@
     "mainIngredient": "rice noodles",
     "descriptor": "crunchy",
     "dishForm": "Pho"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

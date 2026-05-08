@@ -3,8 +3,7 @@
   "description": "A savory and crisp quick-fix dish featuring blue food coloring for a fun twist on traditional Turkish spinach dishes, made gluten-free-friendly.",
   "cuisine": "Turkish",
   "diet": [
-    "vegan",
-    "gluten-free"
+    "vegan"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -52,8 +51,7 @@
     "turkish",
     "spinach",
     "stir-fry",
-    "vegan-friendly",
-    "gluten-free"
+    "vegan-friendly"
   ],
   "nutrition": {
     "calories": 95,
@@ -78,5 +76,9 @@
     "mainIngredient": "spinach",
     "descriptor": "Crispy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

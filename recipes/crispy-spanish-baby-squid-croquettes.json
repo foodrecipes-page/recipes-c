@@ -3,8 +3,7 @@
   "description": "A romantic Spanish dish featuring crispy baby squid, perfect for a special occasion. This dairy-free-friendly recipe combines citrusy flavors with a crunchy exterior and tender interior.",
   "cuisine": "Spanish",
   "diet": [
-    "dairy-free",
-    "gluten-free"
+    "dairy-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -98,5 +97,9 @@
     "mainIngredient": "baby squid",
     "descriptor": "citrusy crispy",
     "dishForm": "Croquettes"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

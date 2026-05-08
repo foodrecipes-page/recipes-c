@@ -37,7 +37,8 @@
     "In the same pan, add minced garlic and stir-fry for about 1 minute until fragrant.",
     "Add red bell pepper and onion; stir-fry for another 2-3 minutes or until vegetables are just tender.",
     "Return ground beef to the pan with vegetables, then pour in soy sauce. Stir everything together well.",
-    "Garnish with chopped parsley on top before serving."
+    "Garnish with chopped parsley on top before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -72,5 +73,9 @@
     "mainIngredient": "Garlic",
     "descriptor": "Crispy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A flavorful and comforting Filipino-inspired dish featuring stir-fried celery with garlic, onions, and a hint of coconut milk.",
   "cuisine": "filipino",
   "diet": [
-    "vegetarian",
     "gluten-free",
     "low-carb"
   ],
@@ -63,7 +62,6 @@
     "gluten-free",
     "low-carb",
     "one-pan",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -89,5 +87,9 @@
     "mainIngredient": "celery",
     "descriptor": "comforting",
     "dishForm": "stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

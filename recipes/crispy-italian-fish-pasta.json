@@ -57,7 +57,8 @@
     "Cook the pasta according to package instructions until al dente. Drain well and return it to the pot with the sauce.",
     "Toss the pasta gently with the sauce, allowing it to coat evenly but not overmix or flatten the pasta shapes too much.",
     "Transfer the cooked pasta onto a baking sheet lined with parchment paper. Bake in preheated oven for 10-15 minutes, tossing occasionally to achieve a crispy exterior and golden-brown edges on the pasta.",
-    "Serve hot, garnished with fresh herbs if desired."
+    "Serve hot, garnished with fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 40,
@@ -69,8 +70,7 @@
     "pasta",
     "grilled",
     "sweet",
-    "adventurous",
-    "gluten-free"
+    "adventurous"
   ],
   "nutrition": {
     "calories": 350,
@@ -95,5 +95,10 @@
     "mainIngredient": "Fish",
     "descriptor": "Crispy",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

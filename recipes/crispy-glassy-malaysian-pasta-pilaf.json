@@ -4,7 +4,6 @@
   "cuisine": "malaysian",
   "diet": [
     "flexitarian",
-    "vegetarian",
     "pescatarian"
   ],
   "meal": "dinner",
@@ -120,5 +119,9 @@
     "mainIngredient": "pasta",
     "descriptor": "Crispy Glassy",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

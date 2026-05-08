@@ -104,11 +104,15 @@
     "mood": "show-off",
     "technique": "pickle",
     "primaryIngredient": "molasses",
-    "diet": "kosher",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Jamaican",
     "mainIngredient": "Avocado",
     "descriptor": "Creamy",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

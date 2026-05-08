@@ -3,7 +3,6 @@
   "description": "A pungent and tender Chinese dish featuring cabbage, this recipe is an ayurvedic-tamasic-friendly version of the classic Shui Zhu Yu, with a rich deglaze-fond adding depth to the cozy meal. It is made with a variety of ingredients, including cabbage, fish, and spices.",
   "cuisine": "Chinese",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -75,7 +74,6 @@
     "chinese-cuisine",
     "dairy-free",
     "fish-recipes",
-    "gluten-free",
     "healthy-dinner",
     "one-pan"
   ],
@@ -102,5 +100,9 @@
     "mainIngredient": "cabbage",
     "descriptor": "cozy tender",
     "dishForm": "Shui Zhu Yu"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

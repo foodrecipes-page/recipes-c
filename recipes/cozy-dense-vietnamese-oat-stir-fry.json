@@ -2,9 +2,7 @@
   "title": "Cozy Dense Vietnamese Oat Stir-fry",
   "description": "A cozy and dense vegan dish featuring roasted oats with umami flavors, perfect for a satisfying breakfast or light lunch.",
   "cuisine": "Vietnamese",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -86,5 +84,9 @@
     "mainIngredient": "oats",
     "descriptor": "dense cozy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

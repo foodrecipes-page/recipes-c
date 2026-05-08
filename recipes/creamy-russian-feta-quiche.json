@@ -60,7 +60,8 @@
     "Pour in the chicken broth and smooth the top.",
     "Bake for 35-40 minutes, or until the quiche is set and golden brown.",
     "Remove from the oven and let cool for a few minutes.",
-    "Serve warm, garnished with additional dill if desired."
+    "Serve warm, garnished with additional dill if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -99,5 +100,9 @@
     "mainIngredient": "feta",
     "descriptor": "creamy",
     "dishForm": "Quiche"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

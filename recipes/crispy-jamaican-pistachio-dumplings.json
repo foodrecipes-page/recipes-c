@@ -2,9 +2,7 @@
   "title": "Crispy Jamaican Pistachio Dumplings",
   "description": "Umami rich, creamy, nostalgic Jamaican dumplings with a pistachio coconut glaze, deep fried to crispy perfection.",
   "cuisine": "Jamaican",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -78,7 +76,6 @@
     "fried",
     "jamaican",
     "nutritious",
-    "vegan",
     "vegetarian"
   ],
   "nutrition": {
@@ -104,5 +101,9 @@
     "mainIngredient": "pistachio",
     "descriptor": "Crispy",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

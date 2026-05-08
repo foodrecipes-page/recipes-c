@@ -2,10 +2,7 @@
   "title": "Chewy Fresh Thai Rice Bowl",
   "description": "A fresh, chewy Thai dish featuring hot chilli powder for added flavor. Perfect for meal prep, this recipe is egg-free-friendly and easy to make.",
   "cuisine": "Thai",
-  "diet": [
-    "vegetarian",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -127,5 +124,10 @@
     "mainIngredient": "Rice",
     "descriptor": "Chewy Fresh",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

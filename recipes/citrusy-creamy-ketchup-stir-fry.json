@@ -71,7 +71,7 @@
     "mood": "comforting",
     "technique": "toast",
     "primaryIngredient": "ketchup",
-    "diet": "kosher",
+    "diet": "kosher-friendly",
     "region": null,
     "cuisineAdjective": "Jamaican",
     "mainIngredient": "Ketchup",
@@ -82,5 +82,9 @@
   "cookTimeMin": 25,
   "totalTimeMin": 40,
   "servings": 4,
-  "difficulty": "medium"
+  "difficulty": "medium",
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

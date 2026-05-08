@@ -2,9 +2,7 @@
   "title": "Citrusy Thai Lime Crisp",
   "description": "This meal-prep Thai dish combines citrus zest with rum and an air-fried base for a festive, dairy-free dessert.",
   "cuisine": "Thai",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -84,5 +82,9 @@
     "mainIngredient": "lime",
     "descriptor": "Citrusy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

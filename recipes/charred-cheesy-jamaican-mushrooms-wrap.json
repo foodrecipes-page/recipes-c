@@ -2,10 +2,7 @@
   "title": "Charred, Cheesy Jamaican Mushrooms Wrap",
   "description": "A flavorful, vegan-friendly wrap featuring wood ear mushrooms and a shio-koji cure, perfect for a quick weeknight dinner.",
   "cuisine": "jamaican",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -105,5 +102,10 @@
     "mainIngredient": "mushrooms",
     "descriptor": "charred, cheesy",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A healthy and flavorful post-workout dish featuring kielbasa, toast, and a creamy sauce for a Jain-friendly meal.",
   "cuisine": "French",
   "diet": [
-    "vegan",
     "jain-friendly"
   ],
   "meal": "snack",
@@ -39,7 +38,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 350\u00b0F (175\u00b0C).",
+    "Preheat your oven to 350°F (175°C).",
     "Slice the kielbasa into bite-sized pieces.",
     "Toast the bread slices in a toaster or pan until golden brown. Brush them lightly with olive oil for extra flavor.",
     "In a small saucepan, heat vegetable broth and add cream cheese and almond milk. Stir until smooth and simmer for 2 minutes.",
@@ -82,5 +81,9 @@
     "mainIngredient": "Kielbasa",
     "descriptor": "Creamy",
     "dishForm": "Toast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

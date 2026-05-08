@@ -3,8 +3,7 @@
   "description": "This adventurous plant-based dish features pinto beans marinated in a peppery sauce for an added depth of flavor, topped with a crumbly crust.",
   "cuisine": "Slovakian",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -98,5 +97,9 @@
     "mainIngredient": "Pinto Beans",
     "descriptor": "Peppery Crumbly Adventurous",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -51,7 +51,9 @@
     "Knead the dough for 5 minutes until it becomes smooth and elastic.",
     "Divide the dough into 8 equal pieces and shape each into a ball.",
     "Flatten each ball into a disk shape and cook in boiling water for 10 minutes.",
-    "Serve the dumplings hot with your favorite dipping sauce."
+    "Serve the dumplings hot with your favorite dipping sauce.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -88,5 +90,10 @@
     "mainIngredient": "pork",
     "descriptor": "Comforting Light",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-pork_no_temp"
+  ]
 }

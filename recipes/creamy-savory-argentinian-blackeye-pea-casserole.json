@@ -85,7 +85,8 @@
     "Transfer the mixture to a 9x13 inch baking dish and top with additional grated cheese if desired.",
     "Bake for 25-30 minutes or until the casserole is golden brown and hot throughout.",
     "Remove from the oven and sprinkle with chopped parsley. Serve hot and enjoy!",
-    "Let the casserole rest for 10-15 minutes before serving to allow the flavors to meld together."
+    "Let the casserole rest for 10-15 minutes before serving to allow the flavors to meld together.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -121,5 +122,9 @@
     "mainIngredient": "blackeye pea",
     "descriptor": "creamy savory",
     "dishForm": "casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

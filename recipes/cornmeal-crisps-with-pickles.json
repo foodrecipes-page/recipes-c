@@ -24,7 +24,8 @@
     "Line a baking sheet with parchment paper.",
     "Spread the cornmeal-pickle mixture out in an even layer on the prepared pan.",
     "Bake at 250°F for about 1 hour, or until crisp (check periodically).",
-    "Serve warm as a snack or side dish."
+    "Serve warm as a snack or side dish.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 60,
@@ -56,5 +57,9 @@
     "primaryIngredient": "white cornmeal",
     "diet": "kosher",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

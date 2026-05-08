@@ -2,9 +2,7 @@
   "title": "Cardamom Bliss Custard Tart",
   "description": "A creamy, savory American dish featuring roasted green cardamom pods in a dairy-free custard filling served as a light dessert.",
   "cuisine": "American",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -55,7 +53,6 @@
   "tags": [
     "cardamom",
     "tart",
-    "dairy-free",
     "creamy"
   ],
   "nutrition": {
@@ -77,5 +74,9 @@
     "primaryIngredient": "green cardamom pods",
     "diet": "dairy-free",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

@@ -66,11 +66,15 @@
     "mood": "midnight-craving",
     "technique": "broil",
     "primaryIngredient": "yellow masarepa",
-    "diet": "paleo",
+    "diet": "paleo-friendly",
     "region": null,
     "cuisineAdjective": "Argentinian",
     "mainIngredient": "Masarepa",
     "descriptor": "Creamy",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

@@ -10,12 +10,12 @@
     {
       "name": "smoked turkey necks",
       "amount": "4 (about 4 x 160g)",
-      "notes": "cut into 2\u2011inch pieces"
+      "notes": "cut into 2‑inch pieces"
     },
     {
       "name": "olive oil",
       "amount": "2 tbsp",
-      "notes": "for saut\u00e9ing"
+      "notes": "for sautéing"
     },
     {
       "name": "medium onion",
@@ -44,7 +44,7 @@
     },
     {
       "name": "ground cumin",
-      "amount": "\u00bd tsp",
+      "amount": "½ tsp",
       "notes": ""
     },
     {
@@ -54,7 +54,7 @@
     },
     {
       "name": "black pepper",
-      "amount": "\u00bd tsp",
+      "amount": "½ tsp",
       "notes": ""
     },
     {
@@ -99,7 +99,7 @@
     },
     {
       "name": "almond flour",
-      "amount": "\u00bd cup",
+      "amount": "½ cup",
       "notes": ""
     },
     {
@@ -114,8 +114,8 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 375\u00b0F (190\u00b0C).",
-    "In a large skillet, heat 2 tbsp olive oil over medium heat. Add onions, garlic, carrots, and potatoes; saut\u00e9 until onions are translucent, about 5 minutes.",
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat 2 tbsp olive oil over medium heat. Add onions, garlic, carrots, and potatoes; sauté until onions are translucent, about 5 minutes.",
     "Add smoked paprika, cumin, salt, pepper, and bay leaf; stir for 30 seconds until fragrant.",
     "Pour in the broth and bring to a simmer. Reduce heat to low, cover, and let the vegetables cook for 15 minutes, stirring occasionally.",
     "While the vegetables are cooking, prepare the citrus mixture: combine lemon zest, lemon juice, orange zest, orange juice, and chopped dill in a small bowl.",
@@ -124,7 +124,8 @@
     "Transfer the casserole to a greased baking dish, top evenly with the crumb mixture.",
     "Bake in the preheated oven for 25 minutes, or until the crust is golden and the casserole is heated through.",
     "Remove from oven, let rest 5 minutes, then serve warm.",
-    "Enjoy your citrusy, smoky, dairy\u2011free Russian comfort dish!"
+    "Enjoy your citrusy, smoky, dairy‑free Russian comfort dish!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 70,
@@ -162,5 +163,9 @@
     "mainIngredient": "Turkey Neck",
     "descriptor": "Citrus Smoky",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

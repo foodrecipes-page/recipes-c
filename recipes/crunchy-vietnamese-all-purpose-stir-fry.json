@@ -2,9 +2,7 @@
   "title": "Crunchy Vietnamese All-Purpose Stir-fry",
   "description": "A crowd-pleaser Vietnamese dish featuring all-purpose seasoning, dumplings, and gluten-free-friendly, this spicy stir-fry is perfect for a quick lunch or dinner.",
   "cuisine": "Vietnamese",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -74,8 +72,7 @@
     "crunchy",
     "spicy",
     "vietnamese",
-    "all-purpose-seasoning",
-    "gluten-free"
+    "all-purpose-seasoning"
   ],
   "nutrition": {
     "calories": 500,
@@ -100,5 +97,9 @@
     "mainIngredient": "All-Purpose Seasoning",
     "descriptor": "Crunchy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

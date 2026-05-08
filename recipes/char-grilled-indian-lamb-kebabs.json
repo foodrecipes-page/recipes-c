@@ -2,9 +2,7 @@
   "title": "Char Grilled Indian Lamb Kebabs",
   "description": "A malty and shattering Indian dish featuring palm sugar and tamarind, char grilled to perfection, kosher friendly.",
   "cuisine": "Indian",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -96,5 +94,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Char Grilled",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-kosher"
+  ]
 }

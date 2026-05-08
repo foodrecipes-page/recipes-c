@@ -60,11 +60,15 @@
     "mood": "crowd-pleaser",
     "technique": "boil",
     "primaryIngredient": "dutch stroop",
-    "diet": "nut-free",
+    "diet": "nut-free-friendly",
     "region": null,
     "cuisineAdjective": "Ethiopian",
     "mainIngredient": "Dates",
     "descriptor": "Citrusy Chewy",
     "dishForm": "Tartar Sauce"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

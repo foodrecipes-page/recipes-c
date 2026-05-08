@@ -80,8 +80,7 @@
     "comforting",
     "cozy",
     "one-pan",
-    "south-american",
-    "vegan"
+    "south-american"
   ],
   "nutrition": {
     "calories": 450,
@@ -106,5 +105,9 @@
     "mainIngredient": "none",
     "descriptor": "comforting",
     "dishForm": "Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

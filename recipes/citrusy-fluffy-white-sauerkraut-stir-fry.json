@@ -2,9 +2,7 @@
   "title": "Citrusy Fluffy White Sauerkraut Stir-fry",
   "description": "This citrusy, fluffy white sauerkraut dish is energizing and features a gluten-free-friendly twist for a delicious Jamaican-inspired breakfast option.",
   "cuisine": "Jamaican",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -65,8 +63,7 @@
     "fluffy",
     "energizing",
     "jamaican",
-    "white-sauerkraut-stir-fry",
-    "gluten-free"
+    "white-sauerkraut-stir-fry"
   ],
   "nutrition": {
     "calories": 150,
@@ -91,5 +88,9 @@
     "mainIngredient": "White Sauerkraut",
     "descriptor": "Citrusy Fluffy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A springy weeknight Italian dish featuring roasted chicken and pasta, with a unique twist of Marmite flavor, made easy with air fryer and dash-friendly ingredients.",
   "cuisine": "Italian",
   "diet": [
-    "gluten-free",
     "low-sodium"
   ],
   "meal": "dinner",
@@ -51,7 +50,8 @@
     "Sprinkle grated Parmesan cheese on top and serve hot.",
     "Garnish with chopped fresh parsley or basil, if desired.",
     "Serve immediately and enjoy.",
-    "Refrigerate or freeze leftovers for up to 3 days."
+    "Refrigerate or freeze leftovers for up to 3 days.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -89,5 +89,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Crunchy Roasted",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -4,7 +4,6 @@
   "cuisine": "Russian",
   "diet": [
     "vegetarian",
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -68,8 +67,7 @@
     "gluten-free",
     "one-pot",
     "quick",
-    "savory",
-    "vegan"
+    "savory"
   ],
   "nutrition": {
     "calories": 330,
@@ -94,5 +92,9 @@
     "mainIngredient": "cabbage",
     "descriptor": "Creamy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

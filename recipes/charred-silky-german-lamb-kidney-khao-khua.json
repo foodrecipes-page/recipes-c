@@ -3,8 +3,7 @@
   "description": "A monsoon-inspired German dish featuring lamb kidney, fry-grind-rice-khao-khua, and a silky, charred finish. This keto-friendly recipe is perfect for a weeknight dinner. ",
   "cuisine": "german",
   "diet": [
-    "keto",
-    "gluten-free"
+    "keto"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -118,5 +117,9 @@
     "mainIngredient": "lamb kidney",
     "descriptor": "charred silky",
     "dishForm": "khao khua"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

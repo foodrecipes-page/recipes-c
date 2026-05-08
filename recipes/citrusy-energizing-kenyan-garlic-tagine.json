@@ -2,9 +2,7 @@
   "title": "Citrusy Energizing Kenyan Garlic Tagine",
   "description": "A vibrant and energizing Kenyan dish featuring a rich citrus glaze and velvety texture, all made with minced garlic and dairy-free-friendly ingredients.",
   "cuisine": "kenyan",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -110,5 +108,9 @@
     "mainIngredient": "garlic",
     "descriptor": "citrusy energizing",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

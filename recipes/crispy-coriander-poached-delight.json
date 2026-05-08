@@ -31,7 +31,8 @@
     "Bring the broth to a boil and reduce heat to low. Add soy sauce and stir well.",
     "Gently add chopped coriander leaves to the simmering broth, covering them with a lid and cooking until they are tender yet crisp, about 15 minutes. Adjust seasoning as needed based on taste preference.",
     "Preheat grill or skillet for a drizzle of oil if necessary to lightly toast Sriramurthi slices (around medium-high heat).",
-    "Serve the poached coriander leaves over grilled or toasted Sriramurthi with green onions garnished."
+    "Serve the poached coriander leaves over grilled or toasted Sriramurthi with green onions garnished.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -63,5 +64,9 @@
     "primaryIngredient": "coriander leaves",
     "diet": "low-sodium",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

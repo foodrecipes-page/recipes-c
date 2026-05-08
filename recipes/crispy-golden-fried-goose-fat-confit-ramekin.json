@@ -72,7 +72,8 @@
     "Crack an egg into each ramekin and sprinkle with palm sugar if desired.",
     "Return to the oven and bake for an additional 10-12 minutes, or until the egg whites are set and the yolks are still runny.",
     "Garnish with chopped cilantro if desired.",
-    "Serve immediately, with toasted bread or crackers on the side."
+    "Serve immediately, with toasted bread or crackers on the side.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 35,
@@ -110,5 +111,9 @@
     "mainIngredient": "goose",
     "descriptor": "Crispy Golden Fried",
     "dishForm": "Ramekin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

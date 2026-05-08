@@ -3,8 +3,7 @@
   "description": "A cultured, springy, and cozy Jamaican dish featuring shiso-leaf, agemono-deep-fry, and keto-friendly ingredients. Perfect for a weeknight dinner.",
   "cuisine": "jamaican",
   "diet": [
-    "keto",
-    "gluten-free"
+    "keto"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -67,7 +66,8 @@
     "Cut the chicken breast into small pieces and dredge them in the almond flour mixture.",
     "Add the chicken pieces to the hot oil and fry until golden brown.",
     "Add the shiso leaves to the oil and fry for 1-2 minutes or until they start to wilt.",
-    "Drain the agemono on paper towels and serve hot."
+    "Drain the agemono on paper towels and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -103,5 +103,10 @@
     "mainIngredient": "shiso-leaf",
     "descriptor": "cozy springy",
     "dishForm": "agemono"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

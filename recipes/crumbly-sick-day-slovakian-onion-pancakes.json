@@ -2,9 +2,7 @@
   "title": "Palacinky S Plnenom Cesnakom",
   "description": "These crumbly Slovakian onion pancakes are the perfect comfort food for a sick day. Serve warm with a dollop of sour cream and some pickled mustard seeds.",
   "cuisine": "Slovakian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -53,7 +51,8 @@
     "Loosen the pancake with a spatula and flip it over. Cook for another 1-2 minutes or until golden brown.",
     "Repeat with the remaining batter. Serve warm with a dollop of sour cream and some pickled mustard seeds.",
     "Serve immediately, or store in an airtight container in the fridge for up to 2 days or freeze for up to 2 months.",
-    "To reheat, cook in a toaster oven at 375°F (190°C) for 5-7 minutes, or until crispy and golden brown."
+    "To reheat, cook in a toaster oven at 375°F (190°C) for 5-7 minutes, or until crispy and golden brown.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -64,8 +63,7 @@
     "slovakian",
     "onion",
     "pancakes",
-    "comfort-food",
-    "gluten-free"
+    "comfort-food"
   ],
   "nutrition": {
     "calories": 220,
@@ -90,5 +88,10 @@
     "mainIngredient": "onion",
     "descriptor": "crumbly, sick-day",
     "dishForm": "Pancakes"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-preserving_no_acid"
+  ]
 }

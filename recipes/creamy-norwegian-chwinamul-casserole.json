@@ -2,9 +2,7 @@
   "title": "Creamy Norwegian Chwinamul Casserole",
   "description": "A tangy and pillowy Norwegian dish featuring chwinamul and bhuna, perfect for kids and gluten-free diets.",
   "cuisine": "Norwegian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -59,7 +57,6 @@
   "difficulty": "medium",
   "tags": [
     "creamy-casserole",
-    "gluten-free",
     "kid-friendly",
     "norwegian-cuisine",
     "seafood"
@@ -87,5 +84,9 @@
     "mainIngredient": "chwinamul",
     "descriptor": "Creamy",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

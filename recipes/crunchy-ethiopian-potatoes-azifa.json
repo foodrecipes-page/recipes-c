@@ -3,8 +3,7 @@
   "description": "A traditional Ethiopian one-pot dish featuring small potatoes and herbal flavors, made in a terracotta dish with render-fat, jain-friendly and flaky, served as azifa.",
   "cuisine": "Ethiopian",
   "diet": [
-    "jain",
-    "vegetarian"
+    "jain"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -76,8 +75,7 @@
     "ethiopian-cuisine",
     "herbal",
     "jain-friendly",
-    "one-pot",
-    "vegetarian"
+    "one-pot"
   ],
   "nutrition": {
     "calories": 250,
@@ -102,5 +100,9 @@
     "mainIngredient": "potatoes",
     "descriptor": "Crunchy Flaky",
     "dishForm": "Azifa"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

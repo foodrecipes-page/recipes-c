@@ -3,8 +3,7 @@
   "description": "A bitter-sweet, creamy vegan dish featuring yellow masarepa pasta cooked in a tandoor-style sauce with dates and herbs. Perfect for a date-night Croatian-inspired meal.",
   "cuisine": "croatian",
   "diet": [
-    "vegan",
-    "gluten-free"
+    "vegan"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -67,8 +66,7 @@
     "vegan",
     "date-night",
     "pasta",
-    "creamy",
-    "gluten-free"
+    "creamy"
   ],
   "nutrition": {
     "calories": 320,
@@ -93,5 +91,9 @@
     "mainIngredient": "dates",
     "descriptor": "Creamy",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -60,7 +60,8 @@
     "Place the empanadas on a baking sheet lined with parchment paper and brush the tops with olive oil.",
     "Bake the empanadas in the preheated oven for 12 minutes, or until crispy and golden brown.",
     "Remove the empanadas from the oven and let them cool for a few minutes before serving.",
-    "Serve the empanadas hot and enjoy."
+    "Serve the empanadas hot and enjoy.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 12,
@@ -99,5 +100,9 @@
     "mainIngredient": "wonton skin",
     "descriptor": "Crunchy Smoky",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

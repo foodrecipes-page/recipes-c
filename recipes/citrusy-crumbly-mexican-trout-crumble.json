@@ -2,9 +2,7 @@
   "title": "Citrusy Crumbly Mexican Trout Crumble",
   "description": "A lazy Sunday dish featuring vegan rainbow trout blended with citrus flavors and served as a crumbly topping over warm quinoa.",
   "cuisine": "Mexican",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -91,5 +89,9 @@
     "mainIngredient": "Trout",
     "descriptor": "Citrusy Crumbly",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

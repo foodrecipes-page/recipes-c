@@ -48,7 +48,8 @@
     "Heat oil in a pan over medium heat. Add garlic cloves and cook until fragrant but not browned.",
     "Add soy sauce, lime juice, fish sauce (if using), oyster sauce (if using) to taste. Stir well to combine the flavors.",
     "Toss the cooked rice noodles into the pan with the sauce mixture, ensuring all the noodles are coated evenly and heated through.",
-    "Serve immediately while warm, garnished with grilled meat or vegetables if desired."
+    "Serve immediately while warm, garnished with grilled meat or vegetables if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -85,5 +86,9 @@
     "mainIngredient": "Rice Noodles",
     "descriptor": "Tangy Chewy Adventurous",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

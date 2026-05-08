@@ -49,7 +49,7 @@
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 10,
-  "totalTimeMin": 60,
+  "totalTimeMin": 25,
   "servings": 2,
   "difficulty": "easy",
   "tags": [
@@ -82,5 +82,9 @@
     "mainIngredient": "dulce de leche",
     "descriptor": "citrusy creamy indulgent",
     "dishForm": "Panna Cotta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

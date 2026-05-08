@@ -65,7 +65,8 @@
     "Fold the pastry to cover the filling and seal the edges.",
     "Place the papillote on a baking sheet and bake for 20 minutes.",
     "Remove the papillote from the oven and let it rest for 5 minutes.",
-    "Carefully open the papillote and serve the chicken hot."
+    "Carefully open the papillote and serve the chicken hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -102,5 +103,9 @@
     "mainIngredient": "shaggy",
     "descriptor": "citrusy zesty",
     "dishForm": "papillote"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

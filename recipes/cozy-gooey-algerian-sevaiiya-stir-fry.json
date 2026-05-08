@@ -47,7 +47,8 @@
     "Pour the mixture evenly onto the sevaiiya, tossing gently to coat thoroughly.",
     "Transfer coated sevaiiya to an oven-safe baking dish and bake for 10 minutes or until golden brown and bubbly on top.",
     "Garnish with fresh parsley if desired. Serve hot as a side or main course.",
-    "Let it cool slightly before serving to avoid burning your tongue."
+    "Let it cool slightly before serving to avoid burning your tongue.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 5,
   "cookTimeMin": 10,
@@ -82,5 +83,9 @@
     "mainIngredient": "Sevaiiya",
     "descriptor": "Gooey Cozy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

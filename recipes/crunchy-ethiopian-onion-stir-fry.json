@@ -2,9 +2,7 @@
   "title": "Crunchy Ethiopian Onion Stir-fry",
   "description": "This weeknight dish combines the umami flavors of chives with crispy onions in a gluten-free-friendly recipe thats perfect for any evening.",
   "cuisine": "Ethiopian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -73,5 +71,9 @@
     "mainIngredient": "Onion",
     "descriptor": "crunchy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

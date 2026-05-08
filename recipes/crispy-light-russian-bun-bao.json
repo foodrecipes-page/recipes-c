@@ -4,8 +4,7 @@
   "cuisine": "Russian",
   "diet": [
     "pescatarian",
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -122,5 +121,9 @@
     "mainIngredient": "bun",
     "descriptor": "crispy light",
     "dishForm": "Bao"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

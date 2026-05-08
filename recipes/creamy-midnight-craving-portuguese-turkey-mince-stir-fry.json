@@ -59,7 +59,9 @@
     "Stir in tomato paste and red pepper flakes, cooking for an additional 2 minutes.",
     "Gradually add heavy cream and cream cheese into the pan. Bring to a simmer and cook for another 3-4 minutes, stirring occasionally.",
     "Mix cumin powder into the stew and season with salt and pepper as needed.",
-    "Once done, transfer the mixture to a warm serving dish and garnish with pickled onions if desired."
+    "Once done, transfer the mixture to a warm serving dish and garnish with pickled onions if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -95,5 +97,10 @@
     "mainIngredient": "Turkey Mince",
     "descriptor": "Creamy Midnight-Craving",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-preserving_no_acid"
+  ]
 }

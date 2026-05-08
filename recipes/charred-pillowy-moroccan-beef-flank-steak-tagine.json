@@ -2,10 +2,7 @@
   "title": "Charred Pillowy Moroccan Beef Flank Steak Tagine",
   "description": "A romantic Moroccan dish featuring charred beef flank steak, en-croute, in a flavorful tagine sauce.",
   "cuisine": "Moroccan",
-  "diet": [
-    "vegetarian",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -117,5 +114,10 @@
     "mainIngredient": "beef flank steak",
     "descriptor": "charred pillowy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

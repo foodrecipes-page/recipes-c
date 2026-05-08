@@ -51,7 +51,8 @@
     "Use your hands to shape each taco into a nigiri-like shape, applying gentle pressure to form a compact shape.",
     "Serve immediately and enjoy.",
     "Garnish with additional sour cream, cheese, and any other desired toppings.",
-    "Store leftovers in an airtight container in the refrigerator for up to 3 days."
+    "Store leftovers in an airtight container in the refrigerator for up to 3 days.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -90,5 +91,9 @@
     "mainIngredient": "ground beef",
     "descriptor": "Creamy",
     "dishForm": "Tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Crispy Filipino Apple Crumble with Apple Cider Vinegar",
   "description": "A sour and crispy post-workout dish featuring apple cider vinegar as a key ingredient, perfect for those who prefer dairy-free options.",
   "cuisine": "Filipino",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -41,7 +39,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350\u00b0F (175\u00b0C).",
+    "Preheat oven to 350°F (175°C).",
     "Combine apples, apple cider vinegar, flour, cinnamon, and salt in a large bowl.",
     "Slowly pour in almond milk while stirring until the mixture reaches a smooth consistency.",
     "Fold in grated lime zest and juice gently.",
@@ -86,5 +84,9 @@
     "mainIngredient": "apple",
     "descriptor": "Crispy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

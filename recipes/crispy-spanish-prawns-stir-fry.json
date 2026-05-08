@@ -56,7 +56,8 @@
     "While the prawns are blanching, mix together the sauce ingredients in another pan with olive oil. Heat over medium-high heat until the mixture is bubbling but not smoking hot.",
     "Place the prawns on a baking sheet lined with parchment paper or aluminum foil and drizzle them lightly with olive oil. Season generously with salt.",
     "Sear the prawns for about 30 seconds per side, turning carefully to coat evenly in the sauce. Reduce heat to medium-low if they start to burn.",
-    "When done, remove from the oven and let rest for a few minutes before serving warm or at room temperature."
+    "When done, remove from the oven and let rest for a few minutes before serving warm or at room temperature.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -93,5 +94,9 @@
     "mainIngredient": "Prawns",
     "descriptor": "Crispy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -33,7 +33,7 @@
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 0,
-  "totalTimeMin": 60,
+  "totalTimeMin": 15,
   "servings": 2,
   "difficulty": "easy",
   "tags": [
@@ -64,5 +64,9 @@
     "mainIngredient": "celery",
     "descriptor": "Chewy Light",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A bright, savory, plant-based salad featuring roasted corn, fresh veggies, and a creamy coconut dressing with a touch of lime and spice.",
   "cuisine": "Mexican",
   "diet": [
-    "vegan",
     "plant-based"
   ],
   "meal": "lunch",
@@ -29,7 +28,7 @@
       "notes": "diced"
     },
     {
-      "name": "jalape\u00f1o",
+      "name": "jalapeño",
       "amount": "1",
       "notes": "finely sliced, seeds removed for milder heat"
     },
@@ -50,7 +49,7 @@
     {
       "name": "coconut heavy cream",
       "amount": "2 tablespoons",
-      "notes": "for a creamy, plant\u2011based dressing"
+      "notes": "for a creamy, plant‑based dressing"
     },
     {
       "name": "ground cumin",
@@ -75,10 +74,10 @@
     }
   ],
   "instructions": [
-    "Preheat the oven to 400\u00b0F (200\u00b0C).",
-    "Spread the corn kernels on a baking sheet and roast for 8\u201310 minutes, or until lightly browned and crisp.",
-    "While the corn roasts, dice the bell pepper, cucumber, and red onion, slice the jalape\u00f1o, and chop the cilantro.",
-    "In a large bowl, combine the roasted corn, diced vegetables, sliced jalape\u00f1o, and cilantro.",
+    "Preheat the oven to 400°F (200°C).",
+    "Spread the corn kernels on a baking sheet and roast for 8–10 minutes, or until lightly browned and crisp.",
+    "While the corn roasts, dice the bell pepper, cucumber, and red onion, slice the jalapeño, and chop the cilantro.",
+    "In a large bowl, combine the roasted corn, diced vegetables, sliced jalapeño, and cilantro.",
     "Whisk together the lime juice, olive oil, coconut heavy cream, cumin, smoked paprika, salt, and pepper until smooth.",
     "Pour the dressing over the salad and toss gently to coat evenly.",
     "Cover the bowl and let the salad rest at room temperature for about 10 minutes to allow flavors to meld.",
@@ -116,5 +115,9 @@
   "tags": [
     "mexican",
     "lunch"
+  ],
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
   ]
 }

@@ -60,7 +60,7 @@
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 0,
-  "totalTimeMin": 30,
+  "totalTimeMin": 10,
   "servings": 4,
   "difficulty": "easy",
   "tags": [
@@ -96,5 +96,9 @@
     "mainIngredient": "lemon",
     "descriptor": "citrusy juicy",
     "dishForm": "Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

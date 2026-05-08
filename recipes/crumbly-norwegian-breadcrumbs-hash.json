@@ -3,8 +3,7 @@
   "description": "A peppery, crumbly breakfast dish that can be prepared ahead of time, made with breadcrumbs and infused oil, egg-free and friendly.",
   "cuisine": "Norwegian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -60,7 +59,6 @@
   "difficulty": "easy",
   "tags": [
     "breakfast",
-    "gluten-free",
     "one-pan",
     "weeknight"
   ],
@@ -87,5 +85,9 @@
     "mainIngredient": "Breadcrumbs",
     "descriptor": "Crumbly",
     "dishForm": "Hash"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

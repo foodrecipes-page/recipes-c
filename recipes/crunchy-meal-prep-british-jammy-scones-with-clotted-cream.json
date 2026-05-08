@@ -3,8 +3,7 @@
   "description": "A macrobiotic-friendly twist on traditional British scones, served with a dollop of clotted cream and a touch of crunchy chili powder.\nThese scones make a delicious and healthy snack or dessert, perfect for meal prep or a quick breakfast treat.",
   "cuisine": "British",
   "diet": [
-    "macrobiotic",
-    "vegetarian"
+    "macrobiotic"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -106,5 +105,9 @@
     "mainIngredient": "jammy",
     "descriptor": "crunchy meal-prep",
     "dishForm": "Scones with Clotted Cream"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

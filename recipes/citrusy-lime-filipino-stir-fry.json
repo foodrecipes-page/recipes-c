@@ -2,9 +2,7 @@
   "title": "Citrusy Lime Filipino Stir-fry",
   "description": "A dense citrusy dish featuring green olives and bhuna spices in a creamy sauce for brunch time.",
   "cuisine": "Filipino",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -100,5 +98,9 @@
     "mainIngredient": "lime",
     "descriptor": "Citrusy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

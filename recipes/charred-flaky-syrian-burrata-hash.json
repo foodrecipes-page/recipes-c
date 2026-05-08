@@ -3,8 +3,7 @@
   "description": "A flavorful and nutritious Syrian dish made with charred cauliflower, flaky phyllo, and creamy burrata cheese, perfect for meal prep.",
   "cuisine": "Syrian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -61,7 +60,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-protein",
     "one-pan",
     "vegan-friendly",
@@ -90,5 +88,9 @@
     "mainIngredient": "burrata",
     "descriptor": "charred flaky",
     "dishForm": "Hash"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

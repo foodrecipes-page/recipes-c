@@ -64,7 +64,8 @@
     "Stir in namul blanch seasoning and cook for an additional 1-2 minutes.",
     "Meanwhile, blanch banana leaves in boiling water for 30 seconds to make them pliable. Drain and set aside.",
     "To assemble the dish, place a portion of the chicken and sauce onto a banana leaf, followed by a sprinkle of green onions and toasted peanuts.",
-    "Fold the banana leaf to form a packet and serve immediately."
+    "Fold the banana leaf to form a packet and serve immediately.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -72,7 +73,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-protein",
     "low-carb",
     "one-pan",
@@ -102,5 +102,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Creamy Coconut",
     "dishForm": "Shoyu Ramen Aji-De-Gallina"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

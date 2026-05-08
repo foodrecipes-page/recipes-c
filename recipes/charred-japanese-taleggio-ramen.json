@@ -33,7 +33,8 @@
     "In a large pot, combine chicken or vegetable broth and 1 tsp of soy sauce, bring to a simmer over medium heat.",
     "Meanwhile, slice the Taleggio cheese into 1 cm thick rounds.",
     "Using a blowtorch, caramelize the cheese on both sides until it develops a glassy-jelly appearance.",
-    "Transfer the caramelized cheese to a plate, then set aside to cool slightly."
+    "Transfer the caramelized cheese to a plate, then set aside to cool slightly.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 45,
   "cookTimeMin": 30,
@@ -71,5 +72,9 @@
     "mainIngredient": "Taleggio",
     "descriptor": "charred",
     "dishForm": "Ramen"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Crispy Uruguayan Liver Delight",
   "description": "A nutty, crisp dish featuring chicken liver in a deglazed sauce for those sick-day cravings, with pescatarian-friendly options.",
   "cuisine": "Uruguayan",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -72,5 +70,9 @@
     "primaryIngredient": "chicken liver",
     "diet": "pescatarian",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

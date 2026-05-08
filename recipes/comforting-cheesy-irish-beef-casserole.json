@@ -58,7 +58,8 @@
     "While the beef mixture is simmering, prepare the cheese topping by mixing the shredded cheddar cheese and crushed Grape Nut cereal in a bowl.",
     "Transfer the beef mixture to a 9x13 inch baking dish and top with the cheese and Grape Nut mixture.",
     "Dot the top of the casserole with the butter and place it in the oven to bake for 25 minutes, or until the top is golden brown and the cheese is melted and bubbly.",
-    "Remove the casserole from the oven and let it rest for 10 minutes before serving."
+    "Remove the casserole from the oven and let it rest for 10 minutes before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -97,5 +98,9 @@
     "mainIngredient": "beef",
     "descriptor": "Comforting Cheesy",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

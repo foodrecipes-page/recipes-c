@@ -2,10 +2,7 @@
   "title": "Crispy Ukrainian Duck Pilaf",
   "description": "This herbal and crisp dish features a vegetarian-friendly twist on traditional Ukrainian cuisine, utilizing duck for added richness.",
   "cuisine": "Ukrainian",
-  "diet": [
-    "vegetarian",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -63,8 +60,7 @@
   "tags": [
     "duck",
     "pilaf",
-    "ukrainian",
-    "vegetarian"
+    "ukrainian"
   ],
   "nutrition": {
     "calories": 350,
@@ -89,5 +85,10 @@
     "mainIngredient": "duck",
     "descriptor": "Crispy",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

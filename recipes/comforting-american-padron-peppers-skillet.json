@@ -52,7 +52,9 @@
     "Add the padron peppers to the skillet and cook until they start to soften, about 3 minutes.",
     "Season with salt and black pepper to taste.",
     "Pour in the chicken broth and bring the mixture to a simmer.",
-    "Reduce the heat to low and let cook, covered, for 10 minutes."
+    "Reduce the heat to low and let cook, covered, for 10 minutes.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -89,5 +91,10 @@
     "mainIngredient": "padron peppers",
     "descriptor": "Comforting",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "This recipe combines the classic flavor of digestive biscuits with a spicy, crunchy crumble topping for a delightful and romantic twist on an everyday dessert.",
   "cuisine": "Australian",
   "diet": [
-    "gluten-free",
     "nut-free"
   ],
   "meal": "dessert",
@@ -35,7 +34,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350\u00b0F (175\u00b0C).",
+    "Preheat oven to 350°F (175°C).",
     "In a large bowl, mix together the crushed digestive biscuits and sugar until well combined.",
     "Stir in the melted butter, cinnamon, and salt. Mix thoroughly until evenly distributed throughout the mixture.",
     "Press the biscuit crumble mixture into an 8-inch square baking dish lined with parchment paper for easy removal.",
@@ -77,5 +76,9 @@
     "mainIngredient": "Digestive biscuits",
     "descriptor": "Spicy Crunchy Romantic",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

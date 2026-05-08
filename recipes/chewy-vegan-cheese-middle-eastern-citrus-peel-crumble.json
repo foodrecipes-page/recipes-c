@@ -2,9 +2,7 @@
   "title": "Chewy Vegan Cheese Middle Eastern Citrus Peel Crumble",
   "description": "This citrusy, chewy vegan cheese crumble features a blend of parmesan alternatives and is perfect for breakfast or a romantic dinner accompaniment.",
   "cuisine": "Middle Eastern",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -70,5 +68,9 @@
     "mainIngredient": "Citrus Peel",
     "descriptor": "Chewy Vegan Cheese",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

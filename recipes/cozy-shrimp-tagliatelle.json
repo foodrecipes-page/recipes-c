@@ -39,7 +39,8 @@
     "Add minced garlic and onion to the pot. Cook for about 2 minutes until onions are translucent.",
     "Gently place shrimp in the pot (do not overcrowd). Cover with lid, seal the valve, and cook on high pressure for 5-7 minutes or as per manufacturer's instructions.",
     "Allow natural release for 10 minutes, then quick-release any remaining pressure. Stir in chopped parsley to taste.",
-    "Drain excess liquid from the shrimp. Toss in cooked tagliatelle ensuring it’s fully coated with sauce and garnished with more parsley if desired."
+    "Drain excess liquid from the shrimp. Toss in cooked tagliatelle ensuring it’s fully coated with sauce and garnished with more parsley if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -71,5 +72,9 @@
     "primaryIngredient": "jumbo shrimp",
     "diet": "low-sodium",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A quick, earthy, and crunchy Korean-inspired dish featuring steam-cooked cod and a sweet and spicy gochujang sauce. Serve over warm brown rice and garnish with toasted seaweed for added texture.",
   "cuisine": "Korean",
   "diet": [
-    "pescatarian",
-    "gluten-free"
+    "pescatarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -106,5 +105,9 @@
     "mainIngredient": "fish",
     "descriptor": "crunchy, earthy",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

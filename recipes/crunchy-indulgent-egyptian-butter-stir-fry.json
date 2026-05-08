@@ -71,11 +71,15 @@
     "mood": "indulgent",
     "technique": "steam",
     "primaryIngredient": "whole black peppercorns",
-    "diet": "low-sodium",
+    "diet": "low-sodium-friendly",
     "region": null,
     "cuisineAdjective": "Egyptian",
     "mainIngredient": "Butter",
     "descriptor": "Crunchy Indulgent",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

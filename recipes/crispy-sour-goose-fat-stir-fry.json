@@ -33,12 +33,13 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 400\u00b0F (205\u00b0C).",
+    "Preheat your oven to 400°F (205°C).",
     "Mix together the goose fat, ginger paste, soy sauce, sugar, and vinegar in a bowl until well combined.",
     "Heat a large skillet over medium-high heat. Add the mixture from step 2 to the skillet and cook for about 3 minutes or until the mixture starts to thicken and turns golden brown.",
     "Add the salt to taste and mix thoroughly. Remove from heat and let it cool slightly before using as a stir-fry sauce.",
     "Prepare your vegetables, tofu, or any protein of choice. Heat another skillet over medium-high heat and add 1 tablespoon of the goose fat mixture for each serving.",
-    "Stir fry your prepared ingredients until heated through. Garnish with fresh cilantro if desired."
+    "Stir fry your prepared ingredients until heated through. Garnish with fresh cilantro if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -67,11 +68,16 @@
     "mood": "crowd-pleaser",
     "technique": "bake",
     "primaryIngredient": "goose fat",
-    "diet": "kosher",
+    "diet": "kosher-friendly",
     "region": null,
     "cuisineAdjective": "Portuguese",
     "mainIngredient": "goose fat",
     "descriptor": "sour crispy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "aligned-axes-diet"
+  ]
 }

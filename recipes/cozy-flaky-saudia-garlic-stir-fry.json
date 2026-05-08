@@ -50,7 +50,8 @@
     "Add canned tomatoes and stir to release juices. Cover and simmer gently for about 10-15 minutes, stirring occasionally.",
     "Fold in protein source and continue to cook until heated through and sauce is slightly reduced.",
     "Season with salt to taste.",
-    "Serve hot as a side dish or over rice."
+    "Serve hot as a side dish or over rice.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -84,5 +85,9 @@
     "mainIngredient": "Garlic",
     "descriptor": "Flaky Cozy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

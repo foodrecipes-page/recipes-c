@@ -2,9 +2,7 @@
   "title": "Crashing Vietnamese Rocket Wrap",
   "description": "Funky, shattering, romantic Vietnamese dish featuring rocket, tempering chocolate, dairy-free-friendly, made as banh cuon on an iron teppan.",
   "cuisine": "Vietnamese",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -66,7 +64,6 @@
   "servings": 2,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "one-pan",
     "shocking",
     "vegan-friendly",
@@ -96,5 +93,9 @@
     "mainIngredient": "rocket",
     "descriptor": "Crashing",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

@@ -2,10 +2,7 @@
   "title": "creamy Turkish herbal Pilaf",
   "description": "A simple, comforting dish featuring a blend of fragrant herbs atop a creamy pilaf. Suitable for busy weeknights, this recipe is also vegan-friendly, making it a great option for those following a Buddhist diet.",
   "cuisine": "turkish",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -81,10 +78,8 @@
   "difficulty": "easy",
   "tags": [
     "comfort-food",
-    "gluten-free",
     "one-pan",
     "turkish",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -110,5 +105,10 @@
     "mainIngredient": "herbal",
     "descriptor": "creamy",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

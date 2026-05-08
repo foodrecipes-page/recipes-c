@@ -2,9 +2,7 @@
   "title": "Crunchy Thai Peanuts Curry",
   "description": "A nutty, crunchy Thai curry that blends creamy coconut milk with a fragrant peanut sauce, topped with toasted peanuts for extra texture.",
   "cuisine": "Thai",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -75,7 +73,6 @@
   "difficulty": "easy",
   "tags": [
     "thai",
-    "vegan",
     "curry",
     "peanut",
     "crunchy",
@@ -105,5 +102,9 @@
     "mainIngredient": "peanuts",
     "descriptor": "Crunchy",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

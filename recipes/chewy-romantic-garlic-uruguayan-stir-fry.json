@@ -47,7 +47,8 @@
     "Remove from heat and set aside. In the same pan, add minced garlic and sauté for an additional minute until fragrant but not burnt.",
     "Pour in red wine vinegar if using, then slowly pour in cream of tartar while continuously whisking to prevent burning. Simmer for 2-3 minutes or until slightly thickened.",
     "Return the seasoned meat back into the skillet and stir-fry gently over low-medium heat for another 5-7 minutes, allowing it to absorb the sauce evenly.",
-    "Transfer the dish to a warm plate and let rest for a minute before serving. Garnish with fresh herbs if desired."
+    "Transfer the dish to a warm plate and let rest for a minute before serving. Garnish with fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -83,5 +84,9 @@
     "mainIngredient": "Garlic",
     "descriptor": "Chewy Romantic",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -52,7 +52,8 @@
     "In the same pan, add tomato paste followed by sugar. Stir continuously until a thick caramel sauce forms.",
     "Return the chicken to the pan, allowing it to soak in the caramel sauce for about 2 minutes.",
     "Add cherry tomatoes to the pan and cook for another minute or two, ensuring they are slightly softened but not mushy.",
-    "Serve hot as a side dish or main course."
+    "Serve hot as a side dish or main course.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 15,
@@ -88,5 +89,9 @@
     "mainIngredient": "pork",
     "descriptor": "Caramelized",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Crunchy Garlic Indian Stir-fry",
   "description": "A gluten-free and easy-to-make dish featuring a garlicky, crunchy texture with the addition of chives to add more depth of flavor and aroma.",
   "cuisine": "Indian (South)",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -53,8 +51,7 @@
     "garlic",
     "indian",
     "stir-fry",
-    "south-american",
-    "gluten-free"
+    "south-american"
   ],
   "nutrition": {
     "calories": 350,
@@ -79,5 +76,9 @@
     "mainIngredient": "Garlic",
     "descriptor": "Crunchy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

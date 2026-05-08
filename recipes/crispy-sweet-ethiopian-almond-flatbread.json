@@ -4,8 +4,7 @@
   "cuisine": "Ethiopian",
   "diet": [
     "low-carb",
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -67,7 +66,6 @@
   "tags": [
     "low-carb",
     "vegetarian",
-    "vegan",
     "ethiopian",
     "breakfast",
     "flatbread",
@@ -96,5 +94,9 @@
     "mainIngredient": "Almond",
     "descriptor": "Crispy Sweet",
     "dishForm": "Flatbread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

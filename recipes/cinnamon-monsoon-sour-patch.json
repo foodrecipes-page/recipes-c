@@ -36,7 +36,8 @@
   "instructions": [
     "Blend cream cheese, sour cream, dill pickle slices, unsweetened almond milk or water, cinnamon powder, and vanilla extract until smooth.",
     "Transfer the mixture to a serving dish and garnish with additional dill if desired.",
-    "Serve immediately as a creamy and umami snack."
+    "Serve immediately as a creamy and umami snack.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 5,
   "cookTimeMin": 0,
@@ -68,5 +69,9 @@
     "primaryIngredient": "cinnamon",
     "diet": "sugar-free",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

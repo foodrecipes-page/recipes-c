@@ -2,9 +2,7 @@
   "title": "Caramelized Crunchy American Carrot Crumble",
   "description": "A rich and crunchy vegan treat featuring caramelized carrots with a touch of white wine vinegar for extra depth.",
   "cuisine": "American",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -74,5 +72,9 @@
     "mainIngredient": "Carrot",
     "descriptor": "Caramelized",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

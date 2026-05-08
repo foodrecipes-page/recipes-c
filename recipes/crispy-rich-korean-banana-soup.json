@@ -2,10 +2,7 @@
   "title": "Crispy Rich Korean Banana Soup",
   "description": "A comforting, dairyfree soup that blends sweet bananas, savory Korean seasonings, and crispy banana chips for a satisfying crunch.",
   "cuisine": "Korean",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -15,7 +12,7 @@
     {
       "name": "coconut milk",
       "amount": "1 cup",
-      "notes": "light, dairy\u2011free"
+      "notes": "light, dairy‑free"
     },
     {
       "name": "brown sugar",
@@ -79,8 +76,6 @@
   "difficulty": "medium",
   "tags": [
     "korean",
-    "dairy-free",
-    "vegan",
     "soup",
     "comfort-food",
     "banana",
@@ -109,5 +104,11 @@
     "mainIngredient": "Banana",
     "descriptor": "Crispy Rich",
     "dishForm": "Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free"
+  ]
 }

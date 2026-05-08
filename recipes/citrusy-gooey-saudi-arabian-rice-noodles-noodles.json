@@ -3,8 +3,7 @@
   "description": "A post-workout, Buddhist-temple-friendly dish featuring rice noodles, citrus, and a gooey sauce, all cooked in a wok.",
   "cuisine": "Saudi Arabian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -67,7 +66,6 @@
   "difficulty": "medium",
   "tags": [
     "buddhist-temple-friendly",
-    "gluten-free",
     "low-calorie",
     "one-pan",
     "post-workout",
@@ -96,5 +94,9 @@
     "mainIngredient": "rice noodles",
     "descriptor": "citrusy gooey",
     "dishForm": "noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

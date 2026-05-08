@@ -3,7 +3,6 @@
   "description": "A vibrant Brazilian mango salad with sweet poached mango, crunchy chickpeas, and a creamy vegan mayo dressing, perfect for monsoon-season afternoons.",
   "cuisine": "Brazilian",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "lunch",
@@ -67,7 +66,6 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "vegan",
     "gluten-free",
     "salad",
     "summer",
@@ -103,5 +101,9 @@
     "mainIngredient": "Mango",
     "descriptor": "Crispy Sweet",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

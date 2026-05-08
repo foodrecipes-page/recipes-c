@@ -2,10 +2,7 @@
   "title": "Comforting Japanese Manchego Shoyu Ramen",
   "description": "A comforting and flavorful Japanese ramen dish featuring Manchego cheese and a rich shoyu broth, made with Buddhist-temple-friendly ingredients. This velvety and grassy ramen is perfect for a cold winter night.",
   "cuisine": "Japanese",
-  "diet": [
-    "vegetarian",
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -47,7 +44,8 @@
     "Assemble the ramen by placing the cooked noodles in a bowl, then adding the hot shoyu broth and diced pork belly.",
     "Top the ramen with grated Manchego cheese, chopped green onions, sesame seeds, and pickled ginger.",
     "Serve immediately and enjoy.",
-    "Garnish with additional green onions and sesame seeds if desired."
+    "Garnish with additional green onions and sesame seeds if desired.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -84,5 +82,11 @@
     "mainIngredient": "manchego",
     "descriptor": "Comforting Creamy",
     "dishForm": "Shoyu Ramen"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-pescatarian",
+    "added-safety-preserving_no_acid"
+  ]
 }

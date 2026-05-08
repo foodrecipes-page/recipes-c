@@ -2,9 +2,7 @@
   "title": "CrispSourLambLeg",
   "description": "A quick and flavorful French dish featuring halal-friendly lamb leg marinated in tangy spices before grilling for a crisp exterior and savory interior.",
   "cuisine": "French",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -67,8 +65,7 @@
   "tags": [
     "lamb",
     "grilled",
-    "marinated",
-    "halal"
+    "marinated"
   ],
   "nutrition": {
     "calories": 390,
@@ -89,5 +86,9 @@
     "primaryIngredient": "lamb leg",
     "diet": "halal",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

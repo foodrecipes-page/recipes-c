@@ -119,11 +119,15 @@
     "mood": "cozy",
     "technique": "dum",
     "primaryIngredient": "lamb loin chops",
-    "diet": "nut-free",
+    "diet": "lamb",
     "region": null,
     "cuisineAdjective": "Dutch",
     "mainIngredient": "Lamb",
     "descriptor": "Cozy and Briny",
     "dishForm": "Braised"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

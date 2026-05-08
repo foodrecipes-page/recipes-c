@@ -80,7 +80,6 @@
     "gluten-free",
     "high-protein",
     "one-pan",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -106,5 +105,9 @@
     "mainIngredient": "mussels",
     "descriptor": "Creamy Coconut Brine",
     "dishForm": "Yum Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

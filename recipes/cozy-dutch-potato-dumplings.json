@@ -68,7 +68,8 @@
     "Cook the dumplings in batches, turning gently, until they are golden brown on all sides, about 4-5 minutes per batch.",
     "Remove the dumplings from the skillet and drain on a paper towel.",
     "Sprinkle with chopped parsley and serve hot with a side of mustard or a light salad.",
-    "Enjoy the chewy, comforting flavor of this Dutch-inspired potato dumpling."
+    "Enjoy the chewy, comforting flavor of this Dutch-inspired potato dumpling.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -107,5 +108,9 @@
     "mainIngredient": "potato",
     "descriptor": "Cozy",
     "dishForm": "dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

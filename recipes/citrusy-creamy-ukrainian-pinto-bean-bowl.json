@@ -3,8 +3,7 @@
   "description": "A spring-inspired Ukrainian dish featuring pinto beans, served in a stone bowl with a citrusy twist, perfect for a brunch mood. This shojin-friendly recipe is both refreshing and filling.",
   "cuisine": "Ukrainian",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -106,5 +105,9 @@
     "mainIngredient": "pinto beans",
     "descriptor": "Citrusy Creamy",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

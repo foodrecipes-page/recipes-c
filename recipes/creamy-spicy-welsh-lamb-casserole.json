@@ -2,9 +2,7 @@
   "title": "Creamy Spicy Welsh Lamb Casserole",
   "description": "A romantic and spicy Welsh dish featuring lamb, brown rice, and cheese, perfect for a cozy night in. This kosher-friendly recipe is sure to impress.",
   "cuisine": "British",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -92,5 +90,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Creamy Spicy",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-kosher"
+  ]
 }

@@ -47,7 +47,8 @@
     "Add chopped garlic, thyme leaves, oregano twigs, and courgette slices to the pan. Season with salt.",
     "Pour in enough water to cover the vegetables by about an inch. Bring to a simmer, then reduce the heat to low. Cover partially and cook for 1 hour or until tender-crisp.",
     "Add pickled herbs during the last 30 minutes of cooking, stirring occasionally.",
-    "Let the dish cool slightly before serving. Garnish with fresh thyme leaves if desired."
+    "Let the dish cool slightly before serving. Garnish with fresh thyme leaves if desired.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 60,
@@ -79,5 +80,9 @@
     "primaryIngredient": "courgettes",
     "diet": "mediterranean",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

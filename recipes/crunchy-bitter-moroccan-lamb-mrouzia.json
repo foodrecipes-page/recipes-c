@@ -67,7 +67,8 @@
     "Add the chopped pickles and cooked rice, and stir well.",
     "Add the fried khao khuay and stir well.",
     "Reduce heat to low and simmer for 10 minutes.",
-    "Serve hot, garnished with additional pickles if desired."
+    "Serve hot, garnished with additional pickles if desired.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -104,5 +105,9 @@
     "mainIngredient": "lamb",
     "descriptor": "crunchy bitter",
     "dishForm": "Mrouzia"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

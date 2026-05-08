@@ -62,7 +62,8 @@
     "Add grana padano cheese and cook until melted and smooth.",
     "Add cooked chicken breast and cook until heated through.",
     "Season with salt and black pepper to taste.",
-    "Garnish with chopped fresh parsley and serve hot."
+    "Garnish with chopped fresh parsley and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -100,5 +101,9 @@
     "mainIngredient": "fregola",
     "descriptor": "Creamy Silky",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

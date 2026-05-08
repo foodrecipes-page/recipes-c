@@ -2,9 +2,7 @@
   "title": "Creamy British Napa Cabbage Soup",
   "description": "A kid-friendly and vegan-friendly creamy British soup featuring napa cabbage that is both sour from lemon juice and rich with cream for a comforting meal.",
   "cuisine": "British",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -59,8 +57,7 @@
     "creamy",
     "british",
     "kid-friendly",
-    "sour",
-    "vegan"
+    "sour"
   ],
   "nutrition": {
     "calories": 200,
@@ -85,5 +82,9 @@
     "mainIngredient": "Napa Cabbage",
     "descriptor": "Creamy",
     "dishForm": "Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

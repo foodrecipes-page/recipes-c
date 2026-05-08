@@ -3,8 +3,7 @@
   "description": "A traditional Ukrainian dish featuring feather blade beef, these dumplings are fermented, dense, and kid-friendly, making them a great low-carb option for dinner.",
   "cuisine": "Ukrainian",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -53,7 +52,8 @@
     "Fold the dough over the filling to form a half-moon shape and press the edges together to seal the dumpling.",
     "Place the dumplings in a large pot of boiling water and cook for 10 minutes, or until they float to the surface.",
     "Remove the dumplings from the water with a slotted spoon and place them in a bain-marie to keep warm.",
-    "Serve the dumplings hot, garnished with chopped fresh parsley or dill."
+    "Serve the dumplings hot, garnished with chopped fresh parsley or dill.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -91,5 +91,10 @@
     "mainIngredient": "beef",
     "descriptor": "Comforting Dense",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

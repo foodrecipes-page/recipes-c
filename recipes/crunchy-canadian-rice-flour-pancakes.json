@@ -3,8 +3,7 @@
   "description": "A roasted and juicy post-workout Canadian dish featuring rice flour pancakes, this recipe is ayurvedic-sattvic-friendly and perfect for a healthy breakfast, the rice flour provides a crunchy texture while the maple syrup adds a touch of sweetness",
   "cuisine": "Canadian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -56,7 +55,6 @@
   "tags": [
     "breakfast-ideas",
     "canadian-cuisine",
-    "gluten-free",
     "healthy-recipes",
     "high-protein",
     "post-workout"
@@ -84,5 +82,9 @@
     "mainIngredient": "pancakes",
     "descriptor": "Crunchy Canadian",
     "dishForm": "Pancakes"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A velvety, tangy beet soup with a fiery kick of cayenne, served steaming and vegan-friendly.",
   "cuisine": "Russian",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -90,8 +89,7 @@
     "silky",
     "egg-free",
     "beet",
-    "russian",
-    "vegan"
+    "russian"
   ],
   "nutrition": {
     "calories": 170,
@@ -116,5 +114,9 @@
     "mainIngredient": "beets",
     "descriptor": "Cayenne Silky",
     "dishForm": "Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

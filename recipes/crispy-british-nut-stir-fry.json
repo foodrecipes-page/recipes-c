@@ -50,7 +50,8 @@
     "Pour in soy sauce over all ingredients and stir gently for about 1 minute to combine flavors.",
     "Push vegetables and chicken back into the pressure cooker; cover and cook on high pressure for 3 minutes if using a multi-stage pressure cooker, or slightly longer for non-multi stage.",
     "Let the steam release naturally by itself for about 5 minutes before carefully releasing any remaining pressure manually. Taste and adjust seasoning as needed.",
-    "Serve hot with additional chopped pecans on top to garnish."
+    "Serve hot with additional chopped pecans on top to garnish.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -87,5 +88,9 @@
     "mainIngredient": "Nut",
     "descriptor": "Crispy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

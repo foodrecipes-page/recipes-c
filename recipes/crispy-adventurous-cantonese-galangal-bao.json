@@ -78,7 +78,10 @@
     "Let the buns rest for a few minutes before serving to allow the filling to set.",
     "You can also cook the buns in a skillet on the stovetop if you prefer.",
     "You can adjust the amount of galangal paste to your liking, but make sure to use fresh galangal for the best flavor.",
-    "You can substitute the ground pork with ground beef or ground chicken if you prefer."
+    "You can substitute the ground pork with ground beef or ground chicken if you prefer.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -117,5 +120,11 @@
     "mainIngredient": "galangal",
     "descriptor": "Crispy Adventurous",
     "dishForm": "Bao"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-pork_no_temp",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

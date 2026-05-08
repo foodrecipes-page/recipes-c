@@ -3,8 +3,7 @@
   "description": "A sweet and indulgent mediterranean dish featuring almond flour that's perfect for a dessert or snack option.",
   "cuisine": "Mediterranean",
   "diet": [
-    "sweets",
-    "gluten-free"
+    "sweets"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -46,7 +45,6 @@
   "tags": [
     "mediterranean",
     "dessert",
-    "gluten-free",
     "almond-flour"
   ],
   "nutrition": {
@@ -72,5 +70,9 @@
     "mainIngredient": "Almond",
     "descriptor": "Chewy",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

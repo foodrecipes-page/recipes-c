@@ -44,7 +44,8 @@
     "Gradually add water or chicken stock, stirring occasionally to prevent sticking.",
     "Lower heat to low, cover, and simmer until all liquid is absorbed (about 15-20 minutes).",
     "Stir in chives, salt, pepper, butter, and cream. Simmer for another 2-3 minutes until thickened.",
-    "Remove from heat and serve hot."
+    "Remove from heat and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 40,
@@ -79,5 +80,9 @@
     "mainIngredient": "Carnaroli-Rice",
     "descriptor": "Tender",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

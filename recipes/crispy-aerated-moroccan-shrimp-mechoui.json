@@ -3,7 +3,6 @@
   "description": "Moroccan-inspired, aerated shrimp dish with spicy shrimp paste, inspired by the traditional Mechoui form.",
   "cuisine": "Moroccan",
   "diet": [
-    "vegetarian",
     "gluten-free",
     "vegan-friendly",
     "pescatarian"
@@ -105,5 +104,9 @@
     "mainIngredient": "shrimp",
     "descriptor": "crispy, aerated",
     "dishForm": "Mechoui"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

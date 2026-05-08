@@ -2,9 +2,7 @@
   "title": "Crispy Zanzibari Chicken Thighs Stir-fry",
   "description": "A tangy, crisp, indulgent Middle Eastern dish featuring chicken thighs that can be enjoyed as a vegetarian-friendly snack option.",
   "cuisine": "Middle Eastern",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -35,7 +33,8 @@
     "While cooking chicken, mince garlic finely and slice green chilies. In the same pan, sauté minced garlic and chopped onions until translucent. Add sliced green chilies and tomatoes, stir-fry for another minute.",
     "Add seasoned chicken pieces into the pan with vegetables, mix well. Pour in lemon juice (half a cup), olive oil, and sprinkle cinnamon powder over the mixture. Stir evenly.",
     "Transfer all ingredients to the preheated oven-safe dish, cover with foil and bake at 400°F (200°C) for 15 minutes. Uncover and continue baking for another 7-8 minutes until chicken thighs are crispy and golden brown.",
-    "Serve hot as a snack or side dish."
+    "Serve hot as a snack or side dish.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 25,
@@ -70,5 +69,10 @@
     "mainIngredient": "chicken thighs",
     "descriptor": "Crispy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

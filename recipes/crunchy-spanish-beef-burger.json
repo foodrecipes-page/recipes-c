@@ -3,7 +3,6 @@
   "description": "A savory, crunchy burger with ground beef, pickles, and dairy-free options for a quick sick-day meal.",
   "cuisine": "spanish",
   "diet": [
-    "dairy-free",
     "vegetarian-friendly"
   ],
   "meal": "snack",
@@ -48,7 +47,9 @@
     "In a bowl, mix ground beef, paprika, onion, garlic, and olive oil until combined.",
     "Heat a skillet over medium heat and add the beef mixture, cooking for 5 minutes until browned.",
     "Add diced pickles and cook for 2 minutes until slightly softened.",
-    "Serve the burger on a crisp bread or lettuce wrap for a crunchy bite."
+    "Serve the burger on a crisp bread or lettuce wrap for a crunchy bite.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 5,
   "cookTimeMin": 7,
@@ -61,7 +62,6 @@
     "burger",
     "crunchy",
     "sick-day",
-    "dairy-free",
     "snack"
   ],
   "nutrition": {
@@ -87,5 +87,11 @@
     "mainIngredient": "beef",
     "descriptor": "Crunchy",
     "dishForm": "Burger"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free",
+    "added-safety-ground_beef_no_temp",
+    "added-safety-preserving_no_acid"
+  ]
 }

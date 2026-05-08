@@ -3,7 +3,6 @@
   "description": "A refreshing and invigorating Middle-Eastern dish featuring tart citrus, chewy bulgur, and a hint of spice, perfect for a morning pick-me-up or a midday energy boost. Serve with naan or pita bread for a satisfying crunch.",
   "cuisine": "Middle Eastern",
   "diet": [
-    "gluten-free",
     "low-carb",
     "vegetarian"
   ],
@@ -79,7 +78,6 @@
     "breakfast",
     "brunch",
     "easy-to-make",
-    "gluten-free",
     "healthy",
     "low-carb",
     "middle-eastern",
@@ -108,5 +106,9 @@
     "mainIngredient": "tabbouleh",
     "descriptor": "citrusy chewy",
     "dishForm": "Fatteh"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

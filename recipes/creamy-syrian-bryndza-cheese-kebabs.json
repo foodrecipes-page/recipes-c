@@ -3,7 +3,6 @@
   "description": "A rich and savory Syrian dish featuring bryndza cheese, perfect for a date night, with a jammy and chewy texture, and sugar-free friendly options.",
   "cuisine": "Syrian",
   "diet": [
-    "gluten-free",
     "sugar-free"
   ],
   "meal": "dinner",
@@ -72,7 +71,6 @@
   "tags": [
     "cheesy",
     "date-night",
-    "gluten-free",
     "grilled-meats",
     "lamb-recipes",
     "middle-eastern",
@@ -101,5 +99,9 @@
     "mainIngredient": "bryndza cheese",
     "descriptor": "Creamy Chewy",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

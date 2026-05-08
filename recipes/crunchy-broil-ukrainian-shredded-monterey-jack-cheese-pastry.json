@@ -3,8 +3,7 @@
   "description": "Funky, crunchy brunch-mood Ukrainian dish featuring shredded Monterey Jack cheese, broil, and Ayurvedic-sattvic-friendly ingredients served on a slate-tile vessel.",
   "cuisine": "Ukrainian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -90,7 +89,6 @@
   "tags": [
     "ayurvedic",
     "breakfast",
-    "gluten-free",
     "high-protein",
     "one-pan",
     "ukrainian",
@@ -120,5 +118,9 @@
     "mainIngredient": "shredded monterey jack cheese",
     "descriptor": "crunchy, broil",
     "dishForm": "pastry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

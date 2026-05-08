@@ -3,8 +3,7 @@
   "description": "A nutty, crunchy, kidfriendly Irish salad featuring fresh greens, roasted almonds, and zesty gherkin relish for a lowcalorie, flavorful lunch.",
   "cuisine": "Irish",
   "diet": [
-    "low-calorie",
-    "gluten-free"
+    "low-calorie"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -16,7 +15,7 @@
     {
       "name": "almonds, roasted and chopped",
       "amount": "1/2 cup (60 g)",
-      "notes": "dry\u2011toasted in a skillet for 3\u20114 min"
+      "notes": "dry‑toasted in a skillet for 3‑4 min"
     },
     {
       "name": "cucumber, diced",
@@ -36,15 +35,15 @@
     {
       "name": "gherkin relish",
       "amount": "2 tbsp (30 g)",
-      "notes": "store\u2011bought or homemade"
+      "notes": "store‑bought or homemade"
     },
     {
-      "name": "low\u2011sodium soy sauce",
+      "name": "low‑sodium soy sauce",
       "amount": "1 tbsp (15 g)",
       "notes": "optional"
     },
     {
-      "name": "extra\u2011virgin olive oil",
+      "name": "extra‑virgin olive oil",
       "amount": "1 tbsp (15 ml)",
       "notes": null
     },
@@ -71,7 +70,7 @@
   ],
   "instructions": [
     "Wash and dry the spinach leaves; place them in a large salad bowl.",
-    "In a dry skillet over medium heat, toast the almonds for 3\u20114 minutes, stirring frequently, until lightly golden. Let cool.",
+    "In a dry skillet over medium heat, toast the almonds for 3‑4 minutes, stirring frequently, until lightly golden. Let cool.",
     "Add the diced cucumber, shredded carrots, and shredded red cabbage to the bowl.",
     "Stir in the chopped almonds.",
     "In a small bowl whisk together olive oil, lemon juice, soy sauce, honey, thyme, salt, and pepper until emulsified.",
@@ -117,5 +116,9 @@
     "mainIngredient": "almonds",
     "descriptor": "Crunchy",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

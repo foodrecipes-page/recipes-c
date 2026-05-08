@@ -68,7 +68,6 @@
   "servings": 6,
   "difficulty": "easy",
   "tags": [
-    "gluten-free",
     "chewy",
     "canadian-apple",
     "garlic-infused"
@@ -96,5 +95,9 @@
     "mainIngredient": "Garlic",
     "descriptor": "Chewy Show-off",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

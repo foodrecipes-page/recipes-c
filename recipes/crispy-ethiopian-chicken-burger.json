@@ -4,7 +4,6 @@
   "cuisine": "Ethiopian",
   "diet": [
     "whole30",
-    "gluten-free",
     "dairy-free",
     "high-protein"
   ],
@@ -65,7 +64,8 @@
     "Fry the patty halves for 3 minutes each, then transfer to a paper towel to drain.",
     "Increase the oil temperature to 190°C (375°F) and fry each patty again for 2 minutes until golden and crispy.",
     "While the second fry finishes, place the lettuce leaves on plates, top with basil, then add fried patty.",
-    "Drizzle hot sauce over the patty and serve immediately."
+    "Drizzle hot sauce over the patty and serve immediately.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 35,
@@ -103,5 +103,10 @@
     "mainIngredient": "Chicken",
     "descriptor": "Crispy",
     "dishForm": "Burger"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

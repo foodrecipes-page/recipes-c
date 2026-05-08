@@ -41,7 +41,8 @@
     "Add the rinsed rice into the pot along with 1 tablespoon garam masala powder. Simmer on low heat for about 15-20 minutes until all liquid is absorbed and rice is cooked.",
     "Heat a non-stick skillet over medium-high heat, add cumin seeds and fenugreek seeds. When they start to splutter, add the curry leaves.",
     "Drain any excess water from the rice and transfer it into the hot skillet. Toss gently with the tadka mixture until well combined and evenly coated in spices.",
-    "Let the pilaf sit for a couple of minutes before serving warm."
+    "Let the pilaf sit for a couple of minutes before serving warm.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -70,11 +71,16 @@
     "mood": "monsoon",
     "technique": "tadka",
     "primaryIngredient": "basmati rice",
-    "diet": "low-sodium",
+    "diet": "low-sodium-friendly",
     "region": "gujarati",
     "cuisineAdjective": "Indian",
     "mainIngredient": "basmati rice",
     "descriptor": "Crispy",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "aligned-axes-diet"
+  ]
 }

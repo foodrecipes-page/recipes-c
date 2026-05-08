@@ -3,7 +3,6 @@
   "description": "A creamy, citrus-infused tzatziki that captures the essence of a nostalgic Slovakian dish with a twist, made using tahini paste.",
   "cuisine": "Mediterranean",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "snack",
@@ -76,5 +75,9 @@
     "primaryIngredient": "tahini paste",
     "diet": "mediterranean",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

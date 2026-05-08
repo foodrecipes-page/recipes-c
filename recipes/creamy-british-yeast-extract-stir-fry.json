@@ -2,9 +2,7 @@
   "title": "Creamy British Yeast Extract Stir-fry",
   "description": "A salty and gooey weeknight dish featuring a fusion of chilli sauce, fermented flavors, and gluten-free-friendly ingredients.",
   "cuisine": "British",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -53,8 +51,7 @@
   "tags": [
     "british-dish",
     "weeknight-meal",
-    "salty-gooey",
-    "gluten-free"
+    "salty-gooey"
   ],
   "nutrition": {
     "calories": 200,
@@ -79,5 +76,9 @@
     "mainIngredient": "Yeast Extract",
     "descriptor": "Creamy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

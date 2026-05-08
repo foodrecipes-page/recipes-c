@@ -3,8 +3,7 @@
   "description": "A traditional Slovakian dish featuring roasted dumplings made with full fat yogurt, wrapped in leaves and steamed to perfection, this recipe is diabetic-friendly and perfect for a romantic dinner.",
   "cuisine": "Slovakian",
   "diet": [
-    "diabetic-friendly",
-    "gluten-free"
+    "diabetic-friendly"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -58,7 +57,6 @@
   "difficulty": "medium",
   "tags": [
     "diabetic-friendly",
-    "gluten-free",
     "one-pan",
     "roasted",
     "romantic",
@@ -87,5 +85,9 @@
     "mainIngredient": "yogurt",
     "descriptor": "Crisp Roasted",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

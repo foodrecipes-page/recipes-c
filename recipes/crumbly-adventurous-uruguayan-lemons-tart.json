@@ -3,7 +3,6 @@
   "description": "A unique dessert featuring lemons, binchotan charcoal, and a crumbly crust. Perfect for adventurous eaters and those with dietary restrictions.",
   "cuisine": "Uruguayan",
   "diet": [
-    "gluten-free",
     "sugar-free"
   ],
   "meal": "dessert",
@@ -82,7 +81,6 @@
   "tags": [
     "dessert",
     "easy-to-make",
-    "gluten-free",
     "high-protein",
     "sugar-free",
     "weeknight"
@@ -110,5 +108,9 @@
     "mainIngredient": "lemons",
     "descriptor": "crumbly adventurous",
     "dishForm": "tart"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

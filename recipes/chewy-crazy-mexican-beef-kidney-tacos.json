@@ -2,9 +2,7 @@
   "title": "Chewy Crazy Mexican Beef Kidney Tacos",
   "description": "A sweet and chewy Mexican dish featuring beef kidney, perfect for a brunch mood, with ayurvedic tamasic friendly ingredients and infused oil.",
   "cuisine": "Mexican",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -66,7 +64,6 @@
   "tags": [
     "beef-kidney",
     "brunch-ideas",
-    "gluten-free",
     "mexican-food",
     "taco-tuesday"
   ],
@@ -93,5 +90,9 @@
     "mainIngredient": "beef kidney",
     "descriptor": "Chewy Crazy",
     "dishForm": "Tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

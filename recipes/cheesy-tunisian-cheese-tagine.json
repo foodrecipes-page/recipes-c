@@ -60,16 +60,17 @@
     }
   ],
   "instructions": [
-    "Heat the pressure cooker on saut\u00e9 mode and melt the lard until liquid, then add olive oil, diced onion, and minced garlic. Cook until the onion turns translucent.",
+    "Heat the pressure cooker on sauté mode and melt the lard until liquid, then add olive oil, diced onion, and minced garlic. Cook until the onion turns translucent.",
     "Stir in cumin, coriander, smoked paprika, and tomato paste; cook for 1 minute to bloom the spices.",
     "Add the chicken broth, salt, and shredded chicken, mixing well to combine all ingredients.",
     "Seal the pressure cooker and cook on high pressure for 10 minutes.",
-    "Quick\u2011release the pressure, open the lid, and reduce the heat to low, letting the mixture thicken slightly for about 5 minutes.",
+    "Quick‑release the pressure, open the lid, and reduce the heat to low, letting the mixture thicken slightly for about 5 minutes.",
     "Add the crumbled fermented cheese, stirring until it melts and the sauce becomes gooey and evenly coated.",
     "Cover the pot and let it sit for 5 minutes to allow the cheese to set into a smooth, molten layer.",
     "Taste the tagine, adjust seasoning if needed, and remove from heat.",
     "Serve the cheesy Tunisian tagine hot, optionally garnished with a sprinkle of fresh herbs or a side of crisp greens.",
-    ""
+    "",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -107,5 +108,9 @@
     "mainIngredient": "Cheese",
     "descriptor": "Cheesy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

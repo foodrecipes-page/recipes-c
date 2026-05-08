@@ -2,9 +2,7 @@
   "title": "Creamy French Russet Potato Stir-fry",
   "description": "A fresh and light vegan-friendly meal for kids featuring russet potatoes, prepared with a quick deglazing process.",
   "cuisine": "French",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -72,5 +70,9 @@
     "mainIngredient": "Russet Potato",
     "descriptor": "Creamy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

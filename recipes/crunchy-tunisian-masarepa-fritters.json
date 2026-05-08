@@ -60,7 +60,8 @@
     "Carefully place 2-3 fritters into the hot oil and fry for 3-4 minutes on each side, or until golden brown.",
     "Remove the fritters from the oil with a slotted spoon and place them on a paper towel-lined plate to drain excess oil.",
     "Repeat the frying process with the remaining fritters.",
-    "Serve the Crunchy Tunisian Masarepa Fritters hot and enjoy!"
+    "Serve the Crunchy Tunisian Masarepa Fritters hot and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -98,5 +99,9 @@
     "mainIngredient": "masarepa",
     "descriptor": "Crunchy",
     "dishForm": "Fritters"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

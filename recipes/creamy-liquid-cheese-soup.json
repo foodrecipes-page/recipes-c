@@ -3,8 +3,7 @@
   "description": "A fresh, creamy Dutch dish featuring liquid cheese in a savory broth, perfect for adventurous palates and Jain-friendly.",
   "cuisine": "Dutch",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -42,7 +41,7 @@
     }
   ],
   "instructions": [
-    "Heat olive oil in a large pot over medium heat. Add garlic and saut\u00e9 until fragrant, about 2 minutes.",
+    "Heat olive oil in a large pot over medium heat. Add garlic and sauté until fragrant, about 2 minutes.",
     "Add vegetable stock and bring to a simmer. Reduce heat to low.",
     "Slowly stir in the grated Gouda cheese, stirring constantly with a wooden spoon until well combined and mixture starts to thicken.",
     "Stir in white pepper flakes and salt according to taste.",
@@ -80,5 +79,9 @@
     "primaryIngredient": "liquid cheese",
     "diet": "jain",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

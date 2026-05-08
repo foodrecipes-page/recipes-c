@@ -70,7 +70,8 @@
     "Add the lemon wedges to the herb mixture, gently tossing to coat.",
     "Drizzle the olive oil and date syrup over the salad, then sprinkle with sumac, cumin, salt, and pepper.",
     "Toss everything again until evenly seasoned and the lemon pieces are lightly coated.",
-    "Serve immediately to enjoy the crisp, fresh crunch and the sharp, bitter citrus notes."
+    "Serve immediately to enjoy the crisp, fresh crunch and the sharp, bitter citrus notes.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 0,
@@ -109,5 +110,9 @@
     "mainIngredient": "lemon",
     "descriptor": "Crispy Bitter",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

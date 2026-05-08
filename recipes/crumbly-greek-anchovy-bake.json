@@ -3,7 +3,6 @@
   "description": "A rich, crumbly Greek dish featuring sous-vide cooked anchovy fillets nestled in a fragrant herb and olive oil base, served with a simple side of fresh vegetables.",
   "cuisine": "greek",
   "diet": [
-    "vegetarian",
     "gluten-free",
     "dairy-free"
   ],
@@ -69,7 +68,6 @@
     "sous-vide",
     "crumbly",
     "dinner",
-    "vegetarian",
     "gluten-free",
     "dairy-free"
   ],
@@ -96,5 +94,9 @@
     "mainIngredient": "anchovy",
     "descriptor": "crumbly",
     "dishForm": "bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

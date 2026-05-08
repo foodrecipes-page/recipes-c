@@ -55,7 +55,6 @@
   "difficulty": "medium",
   "tags": [
     "egg-free",
-    "gluten-free",
     "light-dish",
     "spanish-specialty"
   ],
@@ -82,5 +81,9 @@
     "mainIngredient": "potato",
     "descriptor": "Citrusy",
     "dishForm": "Tostada Spanaeya"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

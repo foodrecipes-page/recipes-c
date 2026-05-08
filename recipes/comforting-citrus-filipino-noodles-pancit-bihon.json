@@ -3,7 +3,6 @@
   "description": "A Filipino dish featuring golden syrup and stir-fry, this recipe is an earthy and energizing take on the traditional pancit bihon, made with anti-inflammatory friendly ingredients and cooked to a glassy-jelly perfection on a raclette grill.",
   "cuisine": "Filipino",
   "diet": [
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "lunch",
@@ -64,7 +63,6 @@
   "tags": [
     "comfort-food",
     "filipino-cuisine",
-    "gluten-free",
     "noodle-dishes",
     "stir-fry",
     "vegetarian"
@@ -92,5 +90,9 @@
     "mainIngredient": "noodles",
     "descriptor": "Comforting Citrus",
     "dishForm": "Pancit Bihon"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

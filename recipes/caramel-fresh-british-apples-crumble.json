@@ -3,8 +3,7 @@
   "description": "A warm and comforting dessert featuring fresh British apples, crunchy oat topping, and a drizzle of caramel sauce, Whole30-friendly and perfect for meal prep.",
   "cuisine": "British",
   "diet": [
-    "Whole30",
-    "Gluten-free"
+    "Whole30"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -60,7 +59,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 375\u00b0F (190\u00b0C).",
+    "Preheat oven to 375°F (190°C).",
     "Peel, core, and slice the apples into thin wedges.",
     "In a large bowl, mix together the sliced apples, coconut sugar, cinnamon, and salt.",
     "Transfer the apple mixture to a 9x9-inch baking dish.",
@@ -81,7 +80,6 @@
     "british",
     "dessert",
     "whole30",
-    "gluten-free",
     "meal-prep",
     "caramel",
     "apples",
@@ -110,5 +108,9 @@
     "mainIngredient": "apples",
     "descriptor": "caramel fresh",
     "dishForm": "crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

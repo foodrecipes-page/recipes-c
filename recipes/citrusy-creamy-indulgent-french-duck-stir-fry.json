@@ -71,7 +71,8 @@
     "Add ginger to the pan, stir for about 30 seconds before adding broad beans. Cook for another minute or so.",
     "In a separate pan over low heat, combine heavy cream with lemon juice. Bring it to simmer without boiling.",
     "Slice cooked duck breast thinly and arrange on serving plates. Top with the bhuna vegetables, drizzle with the creamy sauce, garnish with cilantro.",
-    "Serve hot as an indulgent yet low-calorie-friendly dinner option."
+    "Serve hot as an indulgent yet low-calorie-friendly dinner option.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -109,5 +110,9 @@
     "mainIngredient": "duck",
     "descriptor": "Citrusy Creamy Indulgent",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

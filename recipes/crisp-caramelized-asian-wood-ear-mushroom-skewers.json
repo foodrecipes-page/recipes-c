@@ -3,8 +3,7 @@
   "description": "A malty, glassy-jelly, show-off polish dish featuring wood ear mushrooms, robata-grilled to perfection and served on a hot stone plate, this recipe is an ayurvedic-sattvic-friendly delight.",
   "cuisine": "Asian",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -98,5 +97,9 @@
     "mainIngredient": "wood ear mushrooms",
     "descriptor": "Crisp caramelized",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

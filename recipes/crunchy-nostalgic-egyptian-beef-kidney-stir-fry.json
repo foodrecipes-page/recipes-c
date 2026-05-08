@@ -86,11 +86,15 @@
     "mood": "nostalgic",
     "technique": "whisk",
     "primaryIngredient": "beef kidney",
-    "diet": "vegetarian",
+    "diet": "vegetarian-friendly",
     "region": null,
     "cuisineAdjective": "Egyptian",
     "mainIngredient": "beef kidney",
     "descriptor": "Crunchy Nostalgic",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

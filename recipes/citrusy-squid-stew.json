@@ -3,7 +3,6 @@
   "description": "A comforting and flavorful citrusy squid stew that is both vegetarian-friendly and reminiscent of a Syrian dish, perfect for those feeling under the weather.",
   "cuisine": "Middle Eastern/Asian Fusion",
   "diet": [
-    "vegetarian",
     "pescatarian"
   ],
   "meal": "dinner",
@@ -75,8 +74,7 @@
   "difficulty": "easy",
   "tags": [
     "citrusy",
-    "squid",
-    "vegetarian"
+    "squid"
   ],
   "nutrition": {
     "calories": 350,
@@ -97,5 +95,9 @@
     "primaryIngredient": "baby squid",
     "diet": "vegetarian",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

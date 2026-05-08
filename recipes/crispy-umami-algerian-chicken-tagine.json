@@ -31,7 +31,7 @@
       "amount": "200g"
     },
     {
-      "name": "Low\u2011sodium chicken broth",
+      "name": "Low‑sodium chicken broth",
       "amount": "200ml"
     },
     {
@@ -49,15 +49,16 @@
   ],
   "instructions": [
     "Pat chicken dry and sprinkle with a pinch of salt.",
-    "Heat 1 tbsp olive oil in a Dutch oven over medium\u2011high. Sear chicken pieces until golden brown on all sides, about 3\u20134 minutes per batch; set aside.",
-    "Add remaining 1 tbsp olive oil to the pot, saut\u00e9 sliced onion until translucent, about 3 minutes.",
+    "Heat 1 tbsp olive oil in a Dutch oven over medium‑high. Sear chicken pieces until golden brown on all sides, about 3–4 minutes per batch; set aside.",
+    "Add remaining 1 tbsp olive oil to the pot, sauté sliced onion until translucent, about 3 minutes.",
     "Add minced garlic and cook for 30 seconds until fragrant.",
     "Stir in the mixed spice powder and toast for 1 minute to release aromas.",
     "Add cherry tomato halves, cook until they soften, about 2 minutes.",
     "Return chicken to the pot, pour in chicken broth and lemon juice, and bring to a simmer.",
     "Reduce heat to low, cover, and cook for 20 minutes until chicken is tender and sauce thickens slightly.",
     "Remove the lid, increase heat to medium, and let the sauce reduce until it coats the chicken lightly, about 5 minutes.",
-    "Stir in chopped parsley, adjust seasoning with salt or pepper if needed, and serve hot over couscous or cauliflower rice."
+    "Stir in chopped parsley, adjust seasoning with salt or pepper if needed, and serve hot over couscous or cauliflower rice.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -95,5 +96,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Crispy Umami",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

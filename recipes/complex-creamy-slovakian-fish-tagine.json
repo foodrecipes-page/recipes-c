@@ -2,9 +2,7 @@
   "title": "Complex Creamy Slovakian Fish Tagine",
   "description": "A sour and dense pescatarian-friendly Slovakian dish featuring parma ham, served in a traditional clay tajine vessel.",
   "cuisine": "Slovakian",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -99,5 +97,9 @@
     "mainIngredient": "fish",
     "descriptor": "Complex Creamy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

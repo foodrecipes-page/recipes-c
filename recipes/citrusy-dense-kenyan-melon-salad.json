@@ -2,9 +2,7 @@
   "title": "Citrusy Dense Kenyan Melon Salad",
   "description": "This vegan-friendly and refreshing citrusy salad is perfect for a post-workout meal, featuring melons marinated with various citrus fruits and spices.",
   "cuisine": "Kenyan",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -60,8 +58,7 @@
     "citrusy",
     "dense",
     "kenyan",
-    "melon",
-    "vegan"
+    "melon"
   ],
   "nutrition": {
     "calories": 230,
@@ -86,5 +83,9 @@
     "mainIngredient": "Melons",
     "descriptor": "Citrusy Dense",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

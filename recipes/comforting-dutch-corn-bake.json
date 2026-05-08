@@ -3,8 +3,6 @@
   "description": "A hearty Dutch dish featuring dried white corn, rest-meat, and comforting flavors. Perfect for a weeknight dinner",
   "cuisine": "Dutch",
   "diet": [
-    "vegan",
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -95,5 +93,10 @@
     "mainIngredient": "corn",
     "descriptor": "Comforting",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

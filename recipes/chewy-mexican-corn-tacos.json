@@ -3,7 +3,6 @@
   "description": "These chewy tacos feature charred corn, fragrant marjoram, and a splash of lime, all tucked into corn tortillas and lightly bathed in rendered pork fat for extra flavor.",
   "cuisine": "Mexican",
   "diet": [
-    "gluten-free",
     "fodmap-friendly"
   ],
   "meal": "lunch",
@@ -68,7 +67,6 @@
     "chewy",
     "corn",
     "fodmap-friendly",
-    "gluten-free",
     "mexican",
     "taco"
   ],
@@ -95,5 +93,9 @@
     "mainIngredient": "corn",
     "descriptor": "Chewy",
     "dishForm": "Tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

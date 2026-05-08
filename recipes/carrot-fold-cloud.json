@@ -2,9 +2,7 @@
   "title": "Carrot Fold Cloud",
   "description": "A nutty and fluffy Mediterranean-inspired dish featuring carrots folded into a gluten-free base for a one-pot meal that's perfect as an easy breakfast or snack.",
   "cuisine": "Mediterranean",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -49,7 +47,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 400\u00b0F (205\u00b0C).",
+    "Preheat oven to 400°F (205°C).",
     "In a large mixing bowl, combine oat flour and lemon juice. Stir until well combined.",
     "Add grated carrots, olive oil, cumin, black pepper (if using), minced garlic, and chopped parsley. Mix thoroughly until the oats are evenly coated with the liquid mixture.",
     "Transfer the mixture to a baking dish lined with parchment paper. Press down gently but firmly to form an even layer.",
@@ -64,8 +62,7 @@
   "tags": [
     "carrot",
     "oat-flour",
-    "mediterranean",
-    "gluten-free"
+    "mediterranean"
   ],
   "nutrition": {
     "calories": 187,
@@ -86,5 +83,9 @@
     "primaryIngredient": "carrots",
     "diet": "gluten-free",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

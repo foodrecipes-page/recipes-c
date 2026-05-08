@@ -42,7 +42,8 @@
     "In the same skillet, add pickled onions and cook for 1 minute until slightly caramelized.",
     "Stir in smoked paprika and garlic powder, then add black pepper.",
     "Return bread to skillet and toss with the onion mixture until evenly coated (1 minute).",
-    "Serve immediately while hot and crunchy."
+    "Serve immediately while hot and crunchy.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 2,
   "cookTimeMin": 5,
@@ -80,5 +81,9 @@
     "mainIngredient": "bread",
     "descriptor": "Crunchy",
     "dishForm": "Toast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A tangy and creamy crowd-pleaser featuring Thai green curry paste, caramelize the tangerines for a unique twist that's raw-friendly.",
   "cuisine": "Moroccan with Thai influences",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -51,7 +50,8 @@
     "Meanwhile, mix all curry paste ingredients (except those mentioned earlier) in a bowl. Heat oil in a large skillet over medium-high heat.",
     "Add the protein and sauté until browned. Then add bell pepper and chopped green onions to the pan for 2-3 minutes or until softened.",
     "Pour in the tangerine juice, stir curry paste mixture into the pan with all ingredients. Simmer for about 5 minutes until thickened.",
-    "Garnish with fresh herbs if desired."
+    "Garnish with fresh herbs if desired.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -88,5 +88,10 @@
     "mainIngredient": "Tangerine",
     "descriptor": "Caramelized",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

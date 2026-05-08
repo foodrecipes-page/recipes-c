@@ -98,11 +98,15 @@
     "mood": "post-workout",
     "technique": "rest",
     "primaryIngredient": "sirloin steak tips",
-    "diet": "vegan",
+    "diet": "gluten-free",
     "region": null,
     "cuisineAdjective": "Middle Eastern",
     "mainIngredient": "sirloin steak tips",
     "descriptor": "citrusy flaky",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

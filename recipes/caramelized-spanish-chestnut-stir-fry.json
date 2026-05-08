@@ -48,7 +48,8 @@
     "Gradually pour chicken broth or water into the pan while continuously stirring to create a sauce consistency.",
     "Season with herbs de provence and salt. Let it simmer for about 5-7 minutes until thickened slightly.",
     "Gently add chestnuts in batches if necessary, as they can be difficult to stir without breaking. Stir occasionally until evenly caramelized (about 10-12 minutes).",
-    "Remove from heat and serve hot."
+    "Remove from heat and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -84,5 +85,9 @@
     "mainIngredient": "chestnut",
     "descriptor": "Caramelized",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

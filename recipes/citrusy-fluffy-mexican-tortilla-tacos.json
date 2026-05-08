@@ -3,8 +3,7 @@
   "description": "A cozy Mexican dish featuring the brightness of orange zest and the tanginess of nuka-pickle, perfect for a low-sodium-friendly meal.",
   "cuisine": "mexican",
   "diet": [
-    "low-sodium",
-    "gluten-free"
+    "low-sodium"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -77,7 +76,8 @@
     "Add the nuka-pickle and stir to combine.",
     "Warm the corn tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
     "Assemble the tacos by placing a spoonful of the chicken mixture onto a tortilla and topping with shredded cheese, chopped cilantro, and a dollop of sour cream.",
-    "Serve immediately and garnish with orange zest and a squeeze of lime juice."
+    "Serve immediately and garnish with orange zest and a squeeze of lime juice.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -86,7 +86,6 @@
   "difficulty": "medium",
   "tags": [
     "breakfast",
-    "gluten-free",
     "low-sodium",
     "one-pan",
     "weeknight"
@@ -114,5 +113,10 @@
     "mainIngredient": "tortilla",
     "descriptor": "citrusy fluffy",
     "dishForm": "Tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

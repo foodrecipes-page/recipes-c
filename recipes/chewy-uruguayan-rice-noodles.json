@@ -44,7 +44,8 @@
     "Cook uruguayan rice noodles according to package directions (use 150g water for best chew).",
     "In a small bowl, mix pickle juice, 2 tbsp fresh cilantro, and 1/4 tsp red chili flakes for floral flavor.",
     "Add cooked noodles to the pickle mixture, gently toss to coat.",
-    "Top with 10g minced black garlic and 1 tbsp toasted sesame seeds for umami depth."
+    "Top with 10g minced black garlic and 1 tbsp toasted sesame seeds for umami depth.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 5,
   "cookTimeMin": 10,
@@ -85,5 +86,9 @@
     "mainIngredient": "rice",
     "descriptor": "chewy",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

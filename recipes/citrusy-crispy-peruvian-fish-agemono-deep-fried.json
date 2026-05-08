@@ -4,7 +4,6 @@
   "cuisine": "Peruvian",
   "diet": [
     "high-protein",
-    "gluten-free",
     "fish-friendly"
   ],
   "meal": "lunch",
@@ -110,5 +109,9 @@
     "mainIngredient": "fish",
     "descriptor": "Citrusy Crispy",
     "dishForm": "Agemono-Deep-Fried"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

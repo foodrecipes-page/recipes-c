@@ -3,8 +3,7 @@
   "description": "A fresh and chewy low-fat dish featuring unwaxed limes, ideal for a quick weeknight meal.",
   "cuisine": "Canadian",
   "diet": [
-    "low-fat",
-    "vegan"
+    "low-fat"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -89,5 +88,9 @@
     "mainIngredient": "lime",
     "descriptor": "Chewy Low Fat",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

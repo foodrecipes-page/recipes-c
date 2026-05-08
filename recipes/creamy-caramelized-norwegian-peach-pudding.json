@@ -3,7 +3,6 @@
   "description": "A comforting and creamy dessert featuring caramelized peaches and a hint of floral flavor, perfect for a sweet treat or hangover cure. This dairy-free-friendly pudding is a unique twist on traditional Norwegian desserts.",
   "cuisine": "Norwegian",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "dessert",
@@ -75,7 +74,6 @@
     "peach",
     "caramelized",
     "creamy",
-    "dairy-free",
     "hangover-cure"
   ],
   "nutrition": {
@@ -101,5 +99,9 @@
     "mainIngredient": "peaches",
     "descriptor": "creamy caramelized",
     "dishForm": "Pudding"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

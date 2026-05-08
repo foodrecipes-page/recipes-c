@@ -42,7 +42,8 @@
     "Pour in the Chicken Stock and let it simmer for about 5 minutes to concentrate flavors.",
     "If using Bacan Tempering Paste, add it gradually while stirring continuously until no more clumps form.",
     "Season with salt and fresh ginger slices. Stir well.",
-    "Garnish with chopped cilantro before serving."
+    "Garnish with chopped cilantro before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -75,5 +76,9 @@
     "primaryIngredient": "chestnut mushroom",
     "diet": "low-carb",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A traditional Italian dessert featuring coriander seeds and almonds, with a crunchy texture and comforting flavor, made keto-friendly by using almond flour and sweetened with sugar-free honey.",
   "cuisine": "Italian",
   "diet": [
-    "keto",
-    "gluten-free"
+    "keto"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -58,7 +57,6 @@
     "almond-based",
     "comfort-food",
     "crunchy-texture",
-    "gluten-free",
     "italian-dessert",
     "keto-friendly"
   ],
@@ -85,5 +83,9 @@
     "mainIngredient": "almonds",
     "descriptor": "Comforting Crunchy",
     "dishForm": "Panforte"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

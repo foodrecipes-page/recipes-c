@@ -3,9 +3,7 @@
   "description": "A Mediterranean-inspired meal-prep dish featuring sour trout mixed with herbs and spices to create crispy pancakes that can be enjoyed as a quick breakfast or snack.",
   "cuisine": "Mediterranean",
   "diet": [
-    "sauces",
-    "gluten-free",
-    "dairy-free"
+    "sauces"
   ],
   "meal": "snack",
   "ingredients": [
@@ -80,5 +78,10 @@
     "mainIngredient": "Trout",
     "descriptor": "Crispy",
     "dishForm": "Pancakes"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Creamy Saudi Almond Grill",
   "description": "A nutty, creamy dish that blends almond flavor with a subtle Middle Eastern spice profile, cooked in a donabe on a yakimono grill for a smoky finish.",
   "cuisine": "Saudi Arabian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -70,7 +68,6 @@
   "tags": [
     "creamy",
     "donabe",
-    "gluten-free",
     "nutty",
     "saudi-arabian",
     "yakimono-grill"
@@ -98,5 +95,9 @@
     "mainIngredient": "Almond",
     "descriptor": "Creamy",
     "dishForm": "Grill"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

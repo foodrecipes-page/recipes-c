@@ -3,8 +3,7 @@
   "description": "Savory, crispy croquettes featuring tender corned beef, fluffy mashed potatoes, and a crunchy breadcrumb coating.",
   "cuisine": "Croatian",
   "diet": [
-    "high-protein",
-    "gluten-free"
+    "high-protein"
   ],
   "meal": "snack",
   "ingredients": [
@@ -107,5 +106,9 @@
     "mainIngredient": "corned beef",
     "descriptor": "Crispy",
     "dishForm": "Croquettes"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }
