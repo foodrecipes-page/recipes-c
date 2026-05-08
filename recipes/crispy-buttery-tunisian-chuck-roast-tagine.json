@@ -1,0 +1,111 @@
+{
+  "title": "Crispy Buttery Tunisian Chuck Roast Tagine",
+  "description": "A low-glycemic friendly Tunisian dish featuring chuck roast in a crispy buttery crust, infused with aromatic oils and spices. This monsoon-inspired recipe is perfect for a hearty dinner.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chuck roast",
+      "amount": "2 pounds",
+      "notes": "cut into 2 inch cubes"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "infuse oil",
+      "amount": "1/4 cup",
+      "notes": "with garlic and rosemary"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large Dutch oven, heat the infuse oil over medium heat.",
+    "Add the chopped onion and cook until caramelized, stirring occasionally.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly.",
+    "Add the cubed chuck roast and cook until browned on all sides, stirring occasionally.",
+    "Add the cumin, paprika, salt, and black pepper, and stir to combine.",
+    "Add the melted butter and stir to combine.",
+    "Cover the Dutch oven and transfer to the preheated oven.",
+    "Braise the tagine for 2 1/2 hours, or until the meat is tender and the crust is crispy.",
+    "Stir in the chopped dried apricots and cook for an additional 10 minutes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "dinner-ideas",
+    "gluten-free",
+    "low-glycemic",
+    "one-pot",
+    "tunisian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "crispy-buttery-tunisian-chuck-roast-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-buttery-tunisian-chuck-roast-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:17:08Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crispy",
+    "mood": "monsoon",
+    "technique": "infuse-oil",
+    "primaryIngredient": "chuck roast",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "chuck roast",
+    "descriptor": "Crispy Buttery",
+    "dishForm": "Tagine"
+  }
+}
