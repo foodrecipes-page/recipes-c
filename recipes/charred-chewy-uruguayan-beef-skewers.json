@@ -1,0 +1,103 @@
+{
+  "title": "Chimichurri-Grilled Uruguayan Beef Skewers",
+  "description": "A light and refreshing Uruguayan-inspired dish featuring tender beef skewers, smothered in a zesty chimichurri sauce. This recipe is perfect for a quick and easy dinner.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ribeye steak",
+      "amount": "12 oz",
+      "notes": "Cut into 1.5-inch pieces"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "For marinating"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Fresh oregano",
+      "amount": "2 tbsp",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 tsp",
+      "notes": "Optional for some heat"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Chimichurri sauce",
+      "amount": "1 cup",
+      "notes": "Store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together olive oil, parsley, oregano, garlic, red pepper flakes, salt, and black pepper.",
+    "Add the beef pieces to the bowl and toss to coat with the marinade. Cover and refrigerate for at least 2 hours or overnight.",
+    "Preheat grill to medium-high heat. Thread the marinated beef onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 8-10 minutes per side, or until they reach your desired level of doneness.",
+    "Transfer the skewers to a plate and brush with chimichurri sauce. Serve immediately.",
+    "To make chimichurri sauce, combine parsley, oregano, garlic, red pepper flakes, salt, and black pepper in a bowl. Stir in olive oil and lemon juice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grilled",
+    "quick-dinner",
+    "skewers",
+    "uruguayan",
+    "weeknight",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 4,
+    "fat": 18
+  },
+  "slug": "charred-chewy-uruguayan-beef-skewers",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-chewy-uruguayan-beef-skewers",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:34:18Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "chewy",
+    "mood": "light",
+    "technique": "marinate",
+    "primaryIngredient": "chimichurri sauce",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "charred, chewy",
+    "dishForm": "Skewers"
+  }
+}
