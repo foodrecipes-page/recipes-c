@@ -1,0 +1,106 @@
+{
+  "title": "Crisp Middle Eastern Phyllo Dough Samosas",
+  "description": "A snappy and energizing Middle Eastern dish featuring phyllo dough, perfect as a low-glycemic-friendly snack, with a bitter and refreshing taste. This recipe combines the crunch of phyllo dough with the zest of Middle Eastern spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "low-glycemic",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Phyllo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "Spinach",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Sumac",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the chopped spinach, crumbled feta cheese, chopped parsley, chopped green onions, lemon juice, salt, black pepper, and sumac.",
+    "Lay a sheet of phyllo dough on a flat surface and brush with olive oil.",
+    "Place a tablespoon of the spinach mixture in the center of the phyllo dough.",
+    "Fold the phyllo dough into a triangle and press the edges together to seal.",
+    "Repeat the process with the remaining phyllo dough and spinach mixture.",
+    "Place the samosas on a baking sheet lined with parchment paper and brush with olive oil.",
+    "Bake the samosas for 20 minutes or until golden brown.",
+    "Remove the samosas from the oven and immediately submerge them in an ice bath to stop the cooking process.",
+    "Serve the samosas warm or at room temperature."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "low-glycemic",
+    "middle-eastern",
+    "phylo-dough",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 10,
+    "fat": 7
+  },
+  "slug": "crisp-middle-eastern-phyllo-dough-samosas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-middle-eastern-phyllo-dough-samosas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:12:37Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "snappy",
+    "mood": "energizing",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "phyllo dough",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "phyllo dough",
+    "descriptor": "Crisp",
+    "dishForm": "Samosas"
+  }
+}
