@@ -1,0 +1,106 @@
+{
+  "title": "Creamy Roasted Algerian Lamb Tagine",
+  "description": "A rich and flavorful Algerian dish featuring roasted lamb in a creamy sauce, perfect for a special occasion or date night.",
+  "cuisine": "Algerian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, cut into 2 inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "pitted dates",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the lamb pieces with salt and pepper.",
+    "Heat the olive oil in a large paella pan over medium high heat.",
+    "Sear the lamb pieces until browned on all sides, about 5 minutes, then remove from the pan.",
+    "Add the chopped onion to the pan and cook until softened, about 5 minutes.",
+    "Add the minced garlic to the pan and cook for 1 minute.",
+    "Add the chopped apricots and dates to the pan and cook for 2 minutes.",
+    "Add the chicken broth, heavy cream, ground cumin, and smoked paprika to the pan, stirring to combine.",
+    "Return the lamb pieces to the pan and bring the mixture to a simmer.",
+    "Cover the pan with foil and transfer to the preheated oven.",
+    "Roast the tagine for 2 1/2 hours, or until the lamb is tender and the sauce has thickened."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "date-night",
+    "lamb-based",
+    "north-african",
+    "one-pan",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 23,
+    "fat": 35
+  },
+  "slug": "creamy-roasted-algerian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-roasted-algerian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:06:03Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "fluffy",
+    "mood": "date-night",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "milk",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "lamb",
+    "descriptor": "Creamy Roasted",
+    "dishForm": "Tagine"
+  }
+}
