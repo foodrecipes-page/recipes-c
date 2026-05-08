@@ -1,0 +1,97 @@
+{
+  "title": "Crispy Caramelized Greek Skirt Steak Kebabs",
+  "description": "A low-carb Greek dish featuring crispy caramelized skirt steak kebabs, perfect for a quick and delicious meal, with a bitter and gooey flavor profile.",
+  "cuisine": "Greek",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "skirt steak",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 cup",
+      "notes": "cherry, halved"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, oregano, salt, and pepper.",
+    "Add the skirt steak pieces to the bowl and toss to coat.",
+    "Thread the steak pieces onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Bake for 15 minutes, then increase the oven temperature to broil.",
+    "Broil for an additional 5 minutes, or until the steak is crispy and caramelized.",
+    "While the steak is cooking, heat about 1-2 inches of olive oil in a deep frying pan over medium-high heat.",
+    "Once the oil is hot, add the cherry tomatoes and fry until they are blistered and slightly charred.",
+    "Remove the skewers from the oven and serve with the fried tomatoes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caramelized",
+    "crispy",
+    "greek-food",
+    "kebabs",
+    "low-carb",
+    "skirt-steak"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 29
+  },
+  "slug": "crispy-caramelized-greek-skirt-steak-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-caramelized-greek-skirt-steak-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:23:33Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "gooey",
+    "mood": "meal-prep",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "skirty steak",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "skirt steak",
+    "descriptor": "crispy caramelized",
+    "dishForm": "Kebabs"
+  }
+}
