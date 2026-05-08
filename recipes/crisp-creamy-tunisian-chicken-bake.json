@@ -1,0 +1,96 @@
+{
+  "title": "Crisp Creamy Tunisian Chicken Bake",
+  "description": "A tangy and light Tunisian dish featuring chicken, rapeseed oil, and a blend of spices, perfect for a crowd-pleasing dinner. This low-carb-friendly recipe is easy to make and delicious to eat.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breasts",
+      "amount": "4",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "rapeseed oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together rapeseed oil, garlic powder, paprika, salt, and black pepper.",
+    "Add the chicken to the bowl and toss to coat with the spice mixture.",
+    "Transfer the chicken to a baking dish and bake for 20 minutes.",
+    "In a separate bowl, whisk together lemon juice and heavy cream.",
+    "Pour the cream mixture over the chicken and top with grated cheddar cheese.",
+    "Return the dish to the oven and bake for an additional 15 minutes, or until the cheese is melted and bubbly.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "crowd-pleaser",
+    "gluten-free",
+    "low-carb",
+    "one-pan",
+    "tunisian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 6,
+    "fat": 32
+  },
+  "slug": "crisp-creamy-tunisian-chicken-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-creamy-tunisian-chicken-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:07:49Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "light",
+    "mood": "crowd-pleaser",
+    "technique": "bake",
+    "primaryIngredient": "rapeseed oil",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "chicken",
+    "descriptor": "Creamy Crisp",
+    "dishForm": "Bake"
+  }
+}
