@@ -1,0 +1,114 @@
+{
+  "title": "Creamy Quick Malaysian Coconut Biryani",
+  "description": "This is a quick, creamy, and flavorful Malaysian-inspired dish that features a mix of coconut milk and spices. A perfect solo dinner option that's gluten-free-friendly.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free",
+    "vegetarian",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Uncooked white basmati rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": " thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": " minced"
+    },
+    {
+      "name": "Grated fresh ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground cardamom",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Ground turmeric",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Mixed nuts (almonds, cashews)",
+      "amount": "1/4 cup",
+      "notes": " chopped"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the sliced onions and cook until they are lightly browned, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for an additional 1-2 minutes.",
+    "Add the ground cinnamon, cardamom, cumin, and turmeric to the skillet and cook for 1 minute.",
+    "Add the uncooked rice to the skillet and stir to coat with the spice mixture, about 2 minutes.",
+    "Add 2 cups of water to the skillet and bring to a boil.",
+    "Reduce the heat to low, cover the skillet with a tight-fitting lid, and simmer for 15-20 minutes or until the liquid has been absorbed.",
+    "Stir in the chopped nuts and coconut milk, and cook for an additional 2-3 minutes or until the coconut milk has thickened slightly.",
+    "Fluff the biryani with a fork and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-snack",
+    "gluten-free",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "quick-dinner",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "creamy-quick-malaysian-coconut-biryani",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-quick-malaysian-coconut-biryani",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:25:42Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "creamy",
+    "mood": "solo-dinner",
+    "technique": "fry",
+    "primaryIngredient": "nuts",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "coconut",
+    "descriptor": "Creamy Quick",
+    "dishForm": "Biryani"
+  }
+}
