@@ -1,0 +1,111 @@
+{
+  "title": "Comforting Venezuelan Pak Choi Stew",
+  "description": "A hearty and comforting Venezuelan stew made with pak choi and cooked in a copper mug, perfect for a lazy Sunday. This dish is onion and garlic free, making it suitable for those with sensitivities.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pak choi",
+      "amount": "2 bunches",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 cups",
+      "notes": "canned and crushed"
+    },
+    {
+      "name": "corn",
+      "amount": "1 cup",
+      "notes": "frozen"
+    },
+    {
+      "name": "black beans",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the copper mug over medium heat.",
+    "Add the chopped carrots and potatoes and cook for 10 minutes, stirring occasionally.",
+    "Add the chopped pak choi and cook for an additional 5 minutes, stirring occasionally.",
+    "Add the crushed tomatoes, corn, black beans, cumin, paprika, salt, and pepper, and stir to combine.",
+    "Bring the mixture to a simmer and cook for 20 minutes, stirring occasionally.",
+    "Reduce the heat to low and cook for an additional 10 minutes, stirring occasionally.",
+    "Serve the stew hot, garnished with chopped fresh cilantro if desired.",
+    "Let the stew cool completely before refrigerating or freezing.",
+    "Reheat the stew over low heat, stirring occasionally, until warmed through.",
+    "Serve the stew with crusty bread or over rice, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "lazy-sunday",
+    "one-pot",
+    "south-american",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "comforting-venezuelan-pak-choi-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/comforting-venezuelan-pak-choi-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:40:34Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "dense",
+    "mood": "lazy-sunday",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "pak choi",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "pak choi",
+    "descriptor": "comforting clay pot",
+    "dishForm": "Stew"
+  }
+}
