@@ -1,0 +1,93 @@
+{
+  "title": "Comforting Slovakian Potato Dumplings",
+  "description": "A traditional Slovakian dish featuring fluffy potato dumplings infused with rosemary and a hint of mustard, served with a rich beurre-monte sauce, this recipe is sugar-free-friendly and perfect for a comforting meal.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free",
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "rosemary",
+      "amount": "2 sprigs",
+      "notes": "chopped"
+    },
+    {
+      "name": "mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the grated potatoes, flour, egg, rosemary, mustard, salt, and pepper, and mix until a dough forms.",
+    "Knead the dough for about 5 minutes until it becomes smooth and pliable.",
+    "Bring a large pot of salted water to a boil and gently add the dumplings.",
+    "Cook the dumplings for 10-12 minutes, or until they float to the surface.",
+    "While the dumplings are cooking, prepare the beurre-monte sauce by melting the butter in a saucepan over low heat.",
+    "Once the dumplings are done, remove them from the water with a slotted spoon and serve with the beurre-monte sauce.",
+    "Garnish with additional rosemary sprigs if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "eastern-european",
+    "homemade",
+    "potato-dishes",
+    "sugar-free",
+    "traditional"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "comforting-slovakian-potato-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/comforting-slovakian-potato-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:37:29Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "fluffy",
+    "mood": "nostalgic",
+    "technique": "beurre-monte",
+    "primaryIngredient": "rosemary",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Creamy Comforting",
+    "dishForm": "Dumplings"
+  }
+}
