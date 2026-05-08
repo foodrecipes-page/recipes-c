@@ -1,0 +1,109 @@
+{
+  "title": "citrusy gooey greek sevaiiya fritters",
+  "description": "delicious fried sevaiiyas filled with a tangy citrus and honey mixture, a crowd-pleasing greek dish that's also jain-friendly",
+  "cuisine": "greek",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sevaiiyas",
+      "amount": "1 package (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "orange juice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon zest",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "in a large mixing bowl, combine the orange juice, honey, lemon zest, lemon juice, and olive oil.",
+    "stir in the flour, salt, and cornstarch until a smooth batter forms.",
+    "gradually add the water to the batter and stir until well combined.",
+    "cover the batter and let it rest for 30 minutes.",
+    "heat the oil in a deep frying pan to 350°F (175°C).",
+    "carefully drop the sevaiiya batter by tablespoonfuls into the hot oil.",
+    "fry the sevaiiyas until golden brown, about 2-3 minutes on each side.",
+    "using a slotted spoon, remove the fritters from the oil and drain on paper towels.",
+    "serve the citrusy gooey greek sevaiiya fritters warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fried",
+    "finger-food",
+    "gluten-free",
+    "italian-greek-fusion",
+    "jain-friendly",
+    "one-pan",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "citrusy-gooey-greek-sevaiiya-fritters",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-gooey-greek-sevaiiya-fritters",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:06:19Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "gooey",
+    "mood": "crowd-pleaser",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "sevaiiya",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "sevaiiya",
+    "descriptor": "Citrusy Gooey",
+    "dishForm": "Fritters"
+  }
+}
