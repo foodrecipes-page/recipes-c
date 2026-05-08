@@ -1,0 +1,94 @@
+{
+  "title": "Crunchy Fermented Syrian Vinegar Bake",
+  "description": "A festive and low-carb-friendly Syrian dish featuring vin-santo, crunchy texture and yeasty flavors.",
+  "cuisine": "Syrian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "vin-santo wine",
+      "amount": "150ml",
+      "notes": "high-acidity wine"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp",
+      "notes": "rapid rise yeast"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "250g",
+      "notes": "bread flour for better texture"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "50g",
+      "notes": "low-carb alternative"
+    },
+    {
+      "name": "crushed black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "50g",
+      "notes": "melted for brushing"
+    },
+    {
+      "name": "raw sesame seeds",
+      "amount": "20g",
+      "notes": "crunchy topping"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Combine vin-santo wine, yeast, and 25g of warm water in a bowl, let it sit for 5 minutes to activate yeast.",
+    "Mix flour, parmesan cheese, and black pepper in a separate bowl.",
+    "Add the dry ingredients to the yeast mixture and mix until a sticky dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Transfer the dough to a greased baking dish and let it rise for 30 minutes.",
+    "Brush the dough with melted butter and sprinkle with sesame seeds.",
+    "Bake the dish in the preheated oven for 25 minutes, or until golden brown.",
+    "Remove from oven and let it cool for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "festive",
+    "low-carb",
+    "one-pan",
+    "syrian",
+    "yeast"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "crunchy-fermented-syrian-vinegar-wine-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-fermented-syrian-vinegar-wine-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T10:11:55Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crunchy",
+    "mood": "festive",
+    "technique": "bake",
+    "primaryIngredient": "vin-santo",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "vinegar wine",
+    "descriptor": "Crunchy Fermented",
+    "dishForm": "Bake"
+  }
+}
