@@ -1,0 +1,68 @@
+{
+  "title": "Creamy Egyptian Claypot Sake Dish",
+  "description": "A fresh, creamy, and quick-fix Egyptian dish featuring sake, clay-pot-cooked to perfection, and suitable for a macrobiotic-friendly diet.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sake",
+      "amount": "2 cups",
+      "notes": "Japanese rice wine"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Rinse a ceramic tagine or clay pot, and set it aside for use.",
+    "Heat 1 tablespoon of olive oil in the tagine over medium heat.",
+    "Add 1 small onion, finely chopped, and sauté until softened, about 3-4 minutes.",
+    "Add 2 cloves of garlic, minced, and sauté for another minute.",
+    "Stir in 1 cup of sake, and bring to a simmer.",
+    "Add 2 cups of mixed vegetables, such as carrots, zucchini, and bell peppers, and cook until they're tender, about 5-7 minutes.",
+    "Stir in 1/2 cup of plain yogurt, and cook for an additional 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Transfer the tagine to the preheated oven, and bake for 15-20 minutes, or until the flavors have melded together and the sauce has thickened slightly.",
+    "Garnish with chopped fresh parsley, and serve hot, over rice or with pita bread.",
+    "Let the dish rest for 5 minutes before serving, to allow the flavors to settle.",
+    "Serve warm, garnished with additional parsley, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "vegan-option",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "creamy-egyptian-claypot-sake-dish",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-egyptian-claypot-sake-dish",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:31:05Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "creamy",
+    "mood": "quick-fix",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "sake",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Sake",
+    "descriptor": "Creamy Quick Fix",
+    "dishForm": "Tagine"
+  }
+}
