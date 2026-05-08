@@ -1,0 +1,91 @@
+{
+  "title": "Creamy American Chicken Casserole",
+  "description": "A comforting and paleo-friendly casserole featuring chicken, rocket, and dashi extract, perfect for a sick day. This dish is jammy, fluffy, and full of flavor.",
+  "cuisine": "American",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "rocket",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 can"
+    },
+    {
+      "name": "paleo-friendly pasta",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "Cook the paleo-friendly pasta according to the package instructions.",
+    "In a large skillet, heat the olive oil over medium heat and cook the chicken until browned.",
+    "Add the chopped rocket to the skillet and cook until wilted.",
+    "In a large bowl, combine the cooked pasta, chicken, and rocket mixture.",
+    "In a separate bowl, mix the coconut cream and dashi extract.",
+    "Pour the cream mixture over the pasta mixture and stir until combined.",
+    "Transfer the mixture to a baking dish and bake for 25 minutes.",
+    "Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "one-pan",
+    "paleo-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "creamy-american-chicken-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-american-chicken-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:46:18Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "fluffy",
+    "mood": "sick-day",
+    "technique": "dashi-extract",
+    "primaryIngredient": "rocket",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "chicken",
+    "descriptor": "comforting creamy",
+    "dishForm": "Casserole"
+  }
+}
