@@ -1,0 +1,99 @@
+{
+  "title": "Creamy Indian Date Kheer",
+  "description": "A creamy and sweet Indian dessert made with dates, milk, and yeast, perfect for a date night, this kheer is a fresh and chewy treat that is low in fat and rich in flavor, featuring a deglaze-fond for added depth, served in a copper mug for a touch of elegance.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "low-fat"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "milk",
+      "amount": "2 cups",
+      "notes": "low-fat"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup",
+      "notes": "granulated"
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/4 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "copper mug",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "In a large saucepan, combine the milk, sugar, and yeast, and heat over medium heat, stirring occasionally, until the sugar has dissolved and the yeast is activated.",
+    "Add the pitted dates to the saucepan and cook, stirring occasionally, until they are soft and the mixture is creamy.",
+    "Stir in the cardamom powder and rose water, if using, and cook for an additional 2 minutes.",
+    "Remove the saucepan from the heat and let it cool slightly.",
+    "Deglaze the saucepan with a little water to remove any fond and add it back to the kheer.",
+    "Stir in the sliced almonds and let the kheer cool to room temperature.",
+    "Cover the kheer and refrigerate it for at least 2 hours or overnight.",
+    "Serve the kheer chilled, in a copper mug, garnished with additional sliced almonds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "copper-mug",
+    "date-night",
+    "indian-dessert",
+    "low-fat",
+    "vegetarian",
+    "yeast-based"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "creamy-indian-date-kheer",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-indian-date-kheer",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:32:12Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "chewy",
+    "mood": "date-night",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "yeast",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "dates",
+    "descriptor": "Creamy Chewy",
+    "dishForm": "Kheer"
+  }
+}
