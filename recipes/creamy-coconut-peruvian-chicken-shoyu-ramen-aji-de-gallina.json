@@ -1,0 +1,106 @@
+{
+  "title": "Creamy Coconut Peruvian Chicken Shoyu Ramen Aji-De-Gallina",
+  "description": "Light, cozy Peruvian dish featuring tender chicken, oranges, and a rich creamy sauce, served in a banana leaf. Vegan-friendly alternative available.",
+  "cuisine": "Peruvian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup",
+      "notes": "shoyu-style"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup",
+      "notes": "full-fat canned"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1/2 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "orange zest",
+      "amount": "2 tablespoons",
+      "notes": "from 1 orange"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "namul blanch seasoning",
+      "amount": "1 teaspoon",
+      "notes": "see notes"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4-6",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together soy sauce, coconut cream, orange juice, and orange zest. Set aside.",
+    "Heat coconut oil in a large skillet over medium-high heat. Add chicken and cook until browned, about 5 minutes.",
+    "Add onion and garlic to the skillet and cook until softened, about 3 minutes.",
+    "Pour in the soy sauce mixture and bring to a simmer. Reduce heat to low and cook until sauce has thickened, about 5 minutes.",
+    "Stir in namul blanch seasoning and cook for an additional 1-2 minutes.",
+    "Meanwhile, blanch banana leaves in boiling water for 30 seconds to make them pliable. Drain and set aside.",
+    "To assemble the dish, place a portion of the chicken and sauce onto a banana leaf, followed by a sprinkle of green onions and toasted peanuts.",
+    "Fold the banana leaf to form a packet and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 33
+  },
+  "slug": "creamy-coconut-peruvian-chicken-shoyu-ramen-aji-de-gallina",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-coconut-peruvian-chicken-shoyu-ramen-aji-de-gallina",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T10:05:53Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "light",
+    "mood": "cozy",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "oranges",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "Creamy Coconut",
+    "dishForm": "Shoyu Ramen Aji-De-Gallina"
+  }
+}
