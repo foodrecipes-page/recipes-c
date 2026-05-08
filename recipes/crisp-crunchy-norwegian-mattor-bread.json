@@ -1,0 +1,96 @@
+{
+  "title": "Crisp Crunchy Norwegian Mattor Bread",
+  "description": "A traditional Norwegian dish featuring a bitter flavor profile, pillowy texture and refreshing mint glaze, perfect for a snappy snack.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mattor dough",
+      "amount": "300 grams"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "20 grams",
+      "notes": "chopped"
+    },
+    {
+      "name": "Honey glaze",
+      "amount": "120 grams"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "50 grams",
+      "notes": "melted"
+    },
+    {
+      "name": "Ghee",
+      "amount": "30 grams"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "8 grams"
+    },
+    {
+      "name": "Salt",
+      "amount": "2 grams"
+    },
+    {
+      "name": "Almond milk",
+      "amount": "100 grams"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine mattor dough, yeast, salt and 70 grams of almond milk. Mix well to combine.",
+    "Knead the dough for 5 minutes until a smooth dough forms.",
+    "Transfer the dough to a greased surface and shape into a round loaf.",
+    "Place the dough in a greased bowl, cover with a damp cloth and let it rest in a warm place for 1 hour.",
+    "Preheat the oven to 375°F (190°C).",
+    "Transfer the dough to a baking sheet and brush the melted coconut oil on top.",
+    "Bake for 30 minutes or until the bread is golden brown.",
+    "While the bread is baking, prepare the honey glaze by whisking together 120 grams of honey and 50 grams of almond milk.",
+    "Remove the bread from the oven and brush the honey glaze on top.",
+    "Transfer the bread to a wire rack to cool.",
+    "Just before serving, garnish with chopped fresh mint leaves and a drizzle of honey glaze."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 30,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "ayurvedic-friendly",
+    "gluten-free",
+    "low-calorie",
+    "quick-bread",
+    "snack",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "crisp-crunchy-norwegian-mattor-bread",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-crunchy-norwegian-mattor-bread",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T22:52:26Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "pillowy",
+    "mood": "monsoon",
+    "technique": "glaze",
+    "primaryIngredient": "mint",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "mattor",
+    "descriptor": "Crisp Crunchy",
+    "dishForm": "Bread"
+  }
+}
