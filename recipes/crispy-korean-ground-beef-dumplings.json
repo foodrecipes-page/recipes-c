@@ -1,0 +1,95 @@
+{
+  "title": "Crispy Korean Ground Beef Dumplings",
+  "description": "A traditional Korean dish featuring ground beef and a mother sauce base, these dumplings are nutty, snappy, and nostalgic, with a raw-friendly twist.",
+  "cuisine": "Korean",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dumpling wrappers",
+      "amount": "20-24 wrappers"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine ground beef, Korean chili flakes, garlic, ginger, soy sauce, and sesame oil, and mix until just combined.",
+    "Lay a dumpling wrapper on a flat surface and place a tablespoon of the beef mixture in the center of the wrapper.",
+    "Dip your finger in a small amount of water and run it along the edge of the wrapper.",
+    "Fold the wrapper into a triangle by bringing the two opposite corners together to form a point.",
+    "Press the edges together to seal the dumpling.",
+    "Repeat with the remaining wrappers and filling.",
+    "Heat about 1/2 inch of oil in a large skillet over medium-high heat until it reaches 350 degrees.",
+    "When the oil is hot, add a few dumplings to the skillet and fry until crispy and golden brown, about 2-3 minutes on each side.",
+    "Remove the dumplings from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the dumplings hot with a dipping sauce made from equal parts soy sauce and sesame oil, garnished with chopped green onions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-cuisine",
+    "dumplings",
+    "ground-beef",
+    "korean-food",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "crispy-korean-ground-beef-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-korean-ground-beef-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:31:41Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "snappy",
+    "mood": "nostalgic",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "ground beef",
+    "diet": "raw",
+    "region": "seoul",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "ground beef",
+    "descriptor": "crispy nutty",
+    "dishForm": "Dumplings"
+  }
+}
