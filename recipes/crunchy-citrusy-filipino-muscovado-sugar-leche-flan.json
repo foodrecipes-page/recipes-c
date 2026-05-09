@@ -1,0 +1,110 @@
+{
+  "title": "Crunchy Citrusy Filipino Muscovado Sugar Leche Flan",
+  "description": "A Filipino dessert featuring muscovado sugar, crunchy citrusy topping, and a creamy leche flan base, perfect for a date night, this dish is gluten-free friendly and has a unique texture from the deep-fry tod crunch, the citrusy flavor is achieved through the use of citrus zest and juice in the recipe.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "muscovado sugar",
+      "amount": "1 1/2 cups",
+      "notes": "dark muscovado sugar preferred"
+    },
+    {
+      "name": "large eggs",
+      "amount": "6",
+      "notes": "room temperature"
+    },
+    {
+      "name": "sweetened condensed milk",
+      "amount": "1 can",
+      "notes": "14 oz can"
+    },
+    {
+      "name": "evaporated milk",
+      "amount": "1 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "orange zest",
+      "amount": "2 tablespoons",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "orange juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for water bath"
+    },
+    {
+      "name": "tod crunch",
+      "amount": "1 cup",
+      "notes": "deep fried and crushed"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "pure extract"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a medium saucepan, combine muscovado sugar, orange zest, and lemon zest, and cook over medium heat, stirring constantly, until the sugar has melted and the mixture is caramelized.",
+    "In a large bowl, whisk together eggs, sweetened condensed milk, evaporated milk, and vanilla extract.",
+    "Strain the egg mixture into a clean bowl to remove any air bubbles.",
+    "Pour the egg mixture into 6 1/2 cup ramekins or custard cups.",
+    "Place the ramekins in a large baking dish and add hot water to come halfway up the sides of the ramekins.",
+    "Bake for 45 minutes, or until the edges are set and the centers are still slightly jiggly.",
+    "Remove the ramekins from the water bath and let them cool to room temperature.",
+    "Cover and refrigerate for at least 2 hours, or overnight.",
+    "Just before serving, sprinkle the crushed tod crunch over the top of each leche flan."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy-topping",
+    "date-night",
+    "filipino-food",
+    "gluten-free",
+    "leche-flan",
+    "muscovado-sugar"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "crunchy-citrusy-filipino-muscovado-sugar-leche-flan",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-citrusy-filipino-muscovado-sugar-leche-flan",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:16:21Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crumbly",
+    "mood": "date-night",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "muscovado sugar",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "muscovado sugar",
+    "descriptor": "Crunchy Citrusy",
+    "dishForm": "Leche Flan"
+  }
+}
