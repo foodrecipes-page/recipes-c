@@ -1,0 +1,104 @@
+{
+  "title": "Creamy Chinese Corn Fried Rice",
+  "description": "A vegan-friendly Chinese dish featuring yellow masarepa and render-fat, with a creamy and briny flavor profile, perfect for a monsoon day.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "masarepa",
+      "amount": "2 cups",
+      "notes": "yellow"
+    },
+    {
+      "name": "render-fat",
+      "amount": "1/4 cup",
+      "notes": "or vegan alternative"
+    },
+    {
+      "name": "corn kernels",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the render-fat in a large skillet or wok over medium-high heat.",
+    "Add the grated ginger and minced garlic and cook for 1 minute.",
+    "Add the corn kernels and cook for 2-3 minutes, or until they start to brown.",
+    "Add the chopped scallions and cook for an additional minute.",
+    "Add the cooked masarepa to the skillet or wok, breaking it up with a spatula as you go.",
+    "Stir in the soy sauce and sesame oil, and cook for 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve the creamy Chinese corn fried rice hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "comfort-food",
+    "monsoon",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "creamy-chinese-corn-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-chinese-corn-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:17:48Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "shaggy",
+    "mood": "monsoon",
+    "technique": "render-fat",
+    "primaryIngredient": "yellow masarepa",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "corn",
+    "descriptor": "Creamy Crunchy",
+    "dishForm": "Fried-Rice"
+  }
+}
