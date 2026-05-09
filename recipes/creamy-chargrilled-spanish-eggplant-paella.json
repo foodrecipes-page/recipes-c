@@ -1,0 +1,106 @@
+{
+  "title": "Creamy Chargrilled Spanish Eggplant Paella",
+  "description": "A solo dinner Spanish dish featuring garlic and herbal flavors, made with chargrilled eggplant and a creamy mantecare emulsification, suitable for ovo-vegetarian diets.",
+  "cuisine": "Spanish",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "1 large",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "arborio rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated manchego cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Toss the eggplant cubes with 2 tablespoons of olive oil, salt, and black pepper, and spread on a baking sheet to roast for 30 minutes.",
+    "In a large skillet, heat the remaining olive oil over medium heat and saute the minced garlic for 1 minute.",
+    "Add the smoked paprika and saffron threads to the skillet and cook for 1 minute, stirring constantly.",
+    "Add the arborio rice to the skillet and cook for 2 minutes, stirring constantly.",
+    "Add the vegetable broth to the skillet and bring to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Stir in the grated manchego cheese and cooked eggplant cubes.",
+    "Transfer the skillet to the oven and bake for 10 minutes.",
+    "Remove the skillet from the oven and stir in the chopped fresh parsley.",
+    "Let the paella rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "ovo-vegetarian",
+    "spanish-food",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "creamy-chargrilled-spanish-eggplant-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-chargrilled-spanish-eggplant-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:38:52Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "shaggy",
+    "mood": "solo-dinner",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "garlic",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "eggplant",
+    "descriptor": "Creamy Chargrilled",
+    "dishForm": "Paella"
+  }
+}
