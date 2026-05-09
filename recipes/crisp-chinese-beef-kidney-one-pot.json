@@ -1,0 +1,104 @@
+{
+  "title": "Crisp Chinese Beef Kidney One-Pot",
+  "description": "A delicious and easy-to-make one-pot dish from Yunnan, China featuring beef kidney with a hint of yuzu-cure. Pungent and crisp, it's a great option for flexitarian diets.",
+  "cuisine": "Chinese",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef kidney",
+      "amount": "1",
+      "notes": "preferably grass-fed"
+    },
+    {
+      "name": "Yuzu juice",
+      "amount": "2 tablespoons",
+      "notes": "fresh or bottled"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Yunnan black pepper",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Bok choy",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large Dutch oven over medium-high heat.",
+    "Add beef kidney and cook until browned on all sides, about 5 minutes.",
+    "Remove kidney and set aside.",
+    "Add more oil if necessary, then saut\u00155 ginger and garlic until fragrant.",
+    "Add soy sauce, yuzu juice, and black pepper, stirring to combine.",
+    "Return the beef kidney to the pot and stir to coat with the sauce.",
+    "Add the chopped scallions and bok choy, and stir-fry for 2-3 minutes.",
+    "Add enough water to the pot to cover the ingredients and bring to a boil.",
+    "Reduce heat to medium-low and simmer, covered, until the kidney is tender, about 20 minutes.",
+    "Season with salt to taste and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "flexitarian",
+    "high-protein",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "crisp-chinese-beef-kidney-one-pot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-chinese-beef-kidney-one-pot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:58:54Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crisp",
+    "mood": "one-pot",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "beef kidney",
+    "diet": "flexitarian",
+    "region": "yunnan",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "beef kidney",
+    "descriptor": "crisp",
+    "dishForm": "one-pot"
+  }
+}
