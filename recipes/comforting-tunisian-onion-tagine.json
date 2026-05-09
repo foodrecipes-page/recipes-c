@@ -3,8 +3,7 @@
   "description": "A hearty and flavorful Tunisian dish featuring caramelized yellow onions, perfect for a post-workout meal or a comforting dinner",
   "cuisine": "Tunisian",
   "diet": [
-    "gluten-free",
-    "vegetarian"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -57,7 +56,8 @@
     "Reduce the heat to low and simmer, covered, for 20 minutes",
     "Stir in the chopped dried apricots and continue to simmer for an additional 10 minutes",
     "Serve the tagine hot, garnished with fresh parsley or cilantro",
-    "To cook using a bain-marie, place the saucepan in a larger pot filled with simmering water and cook, covered, for 30 minutes"
+    "To cook using a bain-marie, place the saucepan in a larger pot filled with simmering water and cook, covered, for 30 minutes",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -68,7 +68,6 @@
     "comfort-food",
     "north-african",
     "one-pot",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -88,7 +87,7 @@
     "mood": "post-workout",
     "technique": "bain-marie",
     "primaryIngredient": "yellow onion",
-    "diet": "nut-free",
+    "diet": "gluten-free",
     "region": null,
     "cuisineAdjective": "Tunisian",
     "mainIngredient": "onion",
