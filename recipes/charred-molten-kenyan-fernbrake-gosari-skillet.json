@@ -1,0 +1,95 @@
+{
+  "title": "Charred Molten Kenyan Fernbrake Gosari Skillet",
+  "description": "A weeknight Kenyan dish featuring fernbrake and gosari, charred to perfection and served molten hot, this recipe is a low-calorie friendly option for a quick dinner.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fernbrake",
+      "amount": "1 cup",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "gosari",
+      "amount": "1 cup",
+      "notes": "fresh or canned"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the fernbrake and gosari and stir to combine.",
+    "Add the diced tomato and cook until the mixture is heated through.",
+    "Season with salt and black pepper to taste.",
+    "Use a spatula to create a well in the center of the skillet and cook for an additional 2 minutes.",
+    "Serve the charred molten Kenyan fernbrake gosari skillet hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan-cuisine",
+    "low-calorie",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "charred-molten-kenyan-fernbrake-gosari-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-molten-kenyan-fernbrake-gosari-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:50:27Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "molten",
+    "mood": "weeknight",
+    "technique": "saute",
+    "primaryIngredient": "fernbrake-gosari",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "fernbrake gosari",
+    "descriptor": "charred molten",
+    "dishForm": "Skillet"
+  }
+}
