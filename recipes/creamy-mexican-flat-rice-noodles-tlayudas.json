@@ -1,0 +1,110 @@
+{
+  "title": "Creamy Mexican Flat Rice Noodles Tlayudas",
+  "description": "A funky and creamy Mexican dish featuring flat rice noodles and rest-meat, perfect for a weeknight dinner, and is Jain-friendly.",
+  "cuisine": "Mexican",
+  "diet": [
+    "Jain",
+    "Vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flat rice noodles",
+      "amount": "8 oz",
+      "notes": "available at Asian markets"
+    },
+    {
+      "name": "rest-meat",
+      "amount": "1 cup",
+      "notes": "such as leftover chicken or beans"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mexican cream",
+      "amount": "1 cup",
+      "notes": "or substitute with sour cream"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "Monterey Jack or Cheddar"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 tsp",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Cook the flat rice noodles according to package instructions and set aside.",
+    "In a large skillet, heat 2 tablespoons of oil over medium heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the rest-meat and cook until heated through.",
+    "Stir in the mexican cream, shredded cheese, cumin, paprika, salt, and pepper.",
+    "Add the cooked noodles to the skillet and toss to combine with the creamy sauce.",
+    "Reduce heat to low and simmer for 5 minutes, or until the sauce has thickened slightly.",
+    "Serve hot, garnished with additional shredded cheese and a sprinkle of paprika if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "creamy",
+    "jain-friendly",
+    "mexican",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "creamy-mexican-flat-rice-noodles-tlayudas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-mexican-flat-rice-noodles-tlayudas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:33:49Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "creamy",
+    "mood": "weeknight",
+    "technique": "rest-meat",
+    "primaryIngredient": "flat rice noodles",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "flat rice noodles",
+    "descriptor": "Creamy Crunchy",
+    "dishForm": "Tlayudas"
+  }
+}
