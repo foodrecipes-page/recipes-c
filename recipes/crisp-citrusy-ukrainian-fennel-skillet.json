@@ -1,0 +1,96 @@
+{
+  "title": "Crisp Citrusy Ukrainian Fennel Skillet",
+  "description": "A light and funky Ukrainian dish featuring katsuramuki-cut fennel, perfect for a weeknight dinner. This keto-friendly recipe is easy to make and packed with flavor.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fennel",
+      "amount": "2 bulbs",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the katsuramuki-cut fennel and cook until browned and crispy, about 5 minutes.",
+    "Add the sliced onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Pour in the lemon juice and chicken broth, and stir to combine.",
+    "Bring the mixture to a simmer and cook until the liquid has reduced by half, about 5 minutes.",
+    "Season with salt, black pepper, and paprika, and stir to combine.",
+    "Serve the fennel mixture hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "crispy",
+    "gluten-free",
+    "keto-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "crisp-citrusy-ukrainian-fennel-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-citrusy-ukrainian-fennel-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:15:54Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "light",
+    "mood": "weeknight",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "fennel",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "fennel",
+    "descriptor": "Crisp Citrusy",
+    "dishForm": "Skillet"
+  }
+}
