@@ -1,0 +1,92 @@
+{
+  "title": "Comforting Crispy German Chicken Drumsticks Roast",
+  "description": "Savory and comforting German dish featuring crispy chicken drumsticks and a delicious roast, perfect for a paleo-friendly dinner.",
+  "cuisine": "German",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken drumsticks",
+      "amount": "8 pieces",
+      "notes": "organic, free-range"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together almond flour, paprika, garlic powder, onion powder, salt, and black pepper.",
+    "Add the chicken drumsticks to the bowl and toss to coat evenly with the almond flour mixture.",
+    "Heat the coconut oil in a large skillet over medium-high heat and sear the chicken drumsticks until browned on all sides.",
+    "Transfer the chicken drumsticks to a baking sheet lined with parchment paper and roast in the preheated oven for 25 minutes.",
+    "Flip the chicken drumsticks over and continue roasting for an additional 15 minutes, or until crispy and cooked through.",
+    "Remove the chicken drumsticks from the oven and let rest for 5 minutes before serving.",
+    "Serve hot and enjoy!",
+    "Garnish with fresh parsley or thyme, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "crispy-chicken",
+    "german-cuisine",
+    "paleo-friendly",
+    "roasted-vegetables",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "comforting-crispy-german-chicken-drumsticks-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/comforting-crispy-german-chicken-drumsticks-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:41:22Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "flaky",
+    "mood": "comforting",
+    "technique": "roast",
+    "primaryIngredient": "chicken drumsticks",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "chicken drumsticks",
+    "descriptor": "Comforting Crispy",
+    "dishForm": "Roast"
+  }
+}
