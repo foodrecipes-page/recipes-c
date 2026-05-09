@@ -1,0 +1,95 @@
+{
+  "title": "Comforting Crunchy Mexican Rice Enchiladas",
+  "description": "A lazy Sunday Mexican dish featuring herbes-de-provence and fry-grind-rice-khao-khua, this recipe is egg-free friendly and perfect for a comforting meal. The combination of crunchy texture and herbal flavor will leave you wanting more.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cooked rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "herbes-de-provence",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "fry-grind-rice-khao-khua",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tortillas",
+      "amount": "6-8"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "salsa",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the vegetable oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Stir in the herbes-de-provence and cook for an additional minute.",
+    "In a large bowl, combine the cooked rice, fry-grind-rice-khao-khua, and cooked onion mixture.",
+    "Spoon about 1/2 cup of the rice mixture onto the center of a tortilla and roll up.",
+    "Place the rolled tortillas seam-side down in a baking dish and repeat with the remaining tortillas and rice mixture.",
+    "Pour the salsa over the top of the rolled tortillas and sprinkle with shredded cheese.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "lazy-sunday",
+    "mexican-food",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "comforting-crunchy-mexican-rice-enchiladas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/comforting-crunchy-mexican-rice-enchiladas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:42:40Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "flaky",
+    "mood": "lazy-sunday",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "herbes-de-provence",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "rice",
+    "descriptor": "Comforting Crunchy",
+    "dishForm": "Enchiladas"
+  }
+}
