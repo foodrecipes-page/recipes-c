@@ -1,0 +1,105 @@
+{
+  "title": "Creamy Smoky Indian Potato Hash",
+  "description": "A smoky and silky post-workout dish featuring floury potatoes, this recipe is an ayurvedic-rajasic-friendly polish dish cooked to perfection in an iron teppan, providing a delicious and satisfying meal after a workout.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "floury variety like Russet"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the iron teppan over medium heat and add the olive oil to heat for 1 minute.",
+    "Add the sliced onion to the teppan and cook until it is translucent and starting to caramelize, about 5 minutes.",
+    "Add the minced garlic to the teppan and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the diced potatoes to the teppan, stirring to combine with the onion and garlic mixture, and cook for 10 minutes, stirring occasionally.",
+    "Add the smoked paprika and garam masala to the teppan, stirring to combine, and cook for 1 minute.",
+    "Stir in the yogurt and cook for an additional 2 minutes, until the potatoes are coated in the creamy sauce.",
+    "Season the potato hash with salt and black pepper to taste.",
+    "Garnish the potato hash with chopped cilantro and serve hot.",
+    "Cook the potato hash for an additional 2 minutes, if desired, to crisp the bottom.",
+    "Remove the potato hash from the teppan and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-carb",
+    "indian-inspired",
+    "one-pan",
+    "post-workout",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "creamy-smoky-indian-potato-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-smoky-indian-potato-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:56:36Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "silky",
+    "mood": "post-workout",
+    "technique": "reduce",
+    "primaryIngredient": "floury potatoes",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Creamy Smoky",
+    "dishForm": "Hash"
+  }
+}
