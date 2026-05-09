@@ -1,0 +1,103 @@
+{
+  "title": "Comforting Crunchy Tunisian Lamb Flatbread",
+  "description": "A tangy and pillowy Tunisian dish featuring herbes-de-provence and long-fermentation-dough, perfect for a quick-fix meal, this anti-inflammatory-friendly flatbread is filled with lamb and spices.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "herbes-de-provence",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "long-fermentation-dough",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the long-fermentation-dough to a thickness of about 1/4 inch.",
+    "Mix the ground lamb shoulder with herbes-de-provence, olive oil, onion, garlic, salt, black pepper, turmeric, and paprika in a bowl.",
+    "Spread the lamb mixture evenly over the dough, leaving a 1 inch border around the edges.",
+    "Fold the edges of the dough over the lamb mixture to form a crust.",
+    "Place the flatbread on a baking sheet lined with parchment paper.",
+    "Bake the flatbread in the preheated oven for 25 minutes.",
+    "Remove the flatbread from the oven and let it cool for 5 minutes before slicing.",
+    "Serve the flatbread warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "mediterranean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "comforting-crunchy-tunisian-lamb-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/comforting-crunchy-tunisian-lamb-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:01:37Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "pillowy",
+    "mood": "quick-fix",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "herbes-de-provence",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "lamb",
+    "descriptor": "Comforting Crunchy",
+    "dishForm": "Flatbread"
+  }
+}
