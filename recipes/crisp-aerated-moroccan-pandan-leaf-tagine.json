@@ -1,0 +1,145 @@
+{
+  "title": "crisp Aerated Moroccan Pandan-Leaf Tagine",
+  "description": "A sour, aerated, and energizing Moroccan dish featuring pandan-leaf and tadka, perfect for a sugar-free diet.",
+  "cuisine": "moroccan",
+  "diet": [
+    "sugar-free",
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pandan leaves",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "date syrup",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "tadka spice blend",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "crispy fried shallots",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a tandoor clay pot over medium heat.",
+    "Add the onion and saut\t6 until softened, about 5 minutes.",
+    "Add the garlic, ginger, and pandan leaves, and cook for 1 minute.",
+    "Add the lemon juice, date syrup, paprika, cumin, coriander, salt, and black pepper, and stir to combine.",
+    "Add the water and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Stir in the yogurt and cook for 5 minutes.",
+    "Garnish with chopped fresh parsley and crispy fried shallots.",
+    "Serve hot, garnished with additional pandan leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-optional",
+    "gluten-free",
+    "moroccan",
+    "sugar-free",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "crisp-aerated-moroccan-pandan-leaf-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-aerated-moroccan-pandan-leaf-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:11:15Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "aerated",
+    "mood": "energizing",
+    "technique": "tadka",
+    "primaryIngredient": "pandan-leaf",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "pandan-leaf",
+    "descriptor": "Crisp Aerated",
+    "dishForm": "Tagine"
+  }
+}
