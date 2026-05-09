@@ -1,0 +1,101 @@
+{
+  "title": "Charred Crispy Turkish Monkfish Adana Kebap",
+  "description": "A Jain-friendly Turkish dish featuring monkfish, served as a solo dinner, with a charred and crispy texture, rendered in fat, and formed as Adana kebap",
+  "cuisine": "Turkish",
+  "diet": [
+    "Jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "monkfish",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "In a large bowl, whisk together paprika, garlic powder, salt, black pepper, cumin, and coriander.",
+    "Add the monkfish cubes to the bowl and toss to coat with the spice mixture.",
+    "Brush the grill or grill pan with vegetable oil to prevent sticking.",
+    "Thread the monkfish cubes onto skewers, if using, or place them directly on the grill.",
+    "Grill the monkfish for 4-5 minutes per side, or until charred and cooked through.",
+    "Transfer the monkfish to a plate and brush with lemon juice.",
+    "Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "jain-friendly",
+    "one-pan",
+    "seafood",
+    "turkish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "charred-crispy-turkish-monkfish-adana-kebap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-crispy-turkish-monkfish-adana-kebap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:22:49Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "shattering",
+    "mood": "solo-dinner",
+    "technique": "render-fat",
+    "primaryIngredient": "monkfish",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "monkfish",
+    "descriptor": "Charred Crispy",
+    "dishForm": "Adana Kebap"
+  }
+}
