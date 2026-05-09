@@ -1,0 +1,94 @@
+{
+  "title": "Crunchy Light Thai Noodles Kanom Jeen",
+  "description": "A light and crunchy Thai dish featuring white wine and tempering chocolate, egg-free friendly, in the form of kanom jeen noodles. This dish is a unique and delicious twist on traditional Thai cuisine.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice noodles",
+      "amount": "8 oz",
+      "notes": "kanom jeen style"
+    },
+    {
+      "name": "White wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tempering chocolate",
+      "amount": "2 oz"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Crushed peanuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to the package instructions and set aside.",
+    "In a large pan, heat the vegetable oil over medium heat.",
+    "Add the sesame seeds and cook for 1 minute, until fragrant.",
+    "Add the crushed peanuts and cook for 1 minute, until lightly toasted.",
+    "Add the white wine and bring to a simmer.",
+    "Reduce the heat to low and let the wine simmer for 2 minutes.",
+    "Melt the tempering chocolate in a double boiler or in the microwave in 30 second increments, stirring between each interval.",
+    "Add the cooked noodles to the pan and toss with the wine and chocolate sauce.",
+    "Season with salt and sugar to taste.",
+    "Serve immediately, garnished with additional sesame seeds and peanuts if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "easy-to-make",
+    "gluten-free",
+    "light",
+    "thai-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "crunchy-light-thai-noodles-kanom-jeen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-light-thai-noodles-kanom-jeen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:48:08Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crunchy",
+    "mood": "light",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "white wine",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "noodles",
+    "descriptor": "Crunchy Light",
+    "dishForm": "Kanom Jeen"
+  }
+}
