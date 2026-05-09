@@ -1,0 +1,93 @@
+{
+  "title": "Comforting Canadian Beef Wrap",
+  "description": "A hearty and savory dish featuring tender beef, crispy naan bread, and a rich pasta water emulsion, all coming together in a nostalgic Canadian-inspired wrap.",
+  "cuisine": "Canadian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "naan bread",
+      "amount": "4 pieces",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "pasta water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium high heat and cook the ground beef until browned, breaking it up into small pieces as it cooks.",
+    "Remove the cooked beef from the skillet and set it aside on a plate.",
+    "In the same skillet, add the diced onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic to the skillet and cook for an additional minute, until fragrant.",
+    "In a small bowl, whisk together the pasta water and all purpose flour to make a slurry.",
+    "Add the slurry to the skillet and cook for 2-3 minutes, until it thickens and forms a rich emulsion.",
+    "Add the beef broth to the skillet and stir to combine, bringing the mixture to a simmer.",
+    "Return the cooked beef to the skillet and stir to combine with the emulsion.",
+    "Butter the naan bread pieces on the outside and cook them in the skillet for 1-2 minutes on each side, until crispy and golden brown.",
+    "Assemble the wraps by spooning the beef and emulsion mixture onto the naan bread and serving immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "canadian-cuisine",
+    "comfort-food",
+    "halal-friendly",
+    "naan-bread"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "comforting-canadian-beef-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/comforting-canadian-beef-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:32:00Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "snappy",
+    "mood": "nostalgic",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "naan bread",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "beef",
+    "descriptor": "Comforting Crunchy",
+    "dishForm": "Wrap"
+  }
+}
