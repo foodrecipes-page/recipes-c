@@ -1,0 +1,104 @@
+{
+  "title": "Charred Tender Mediterranean Lamb Kebabs",
+  "description": "Indulge in the rich flavors of the Mediterranean with these charred tender lamb kebabs, featuring a delicious sesame butter sauce, perfect for a whole30-friendly dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "whole30",
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "sesame butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oregano",
+      "amount": "2 teaspoons",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch slices"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 medium",
+      "notes": "cut into 1-inch pieces"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together sesame butter, lemon juice, olive oil, garlic, oregano, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the sesame butter sauce.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat the grill to medium-high heat.",
+    "Thread the marinated lamb cubes, zucchini slices, and bell pepper pieces onto skewers.",
+    "Grill the kebabs for 8-10 minutes per side, or until the lamb is charred and cooked to an internal temperature of 145 degrees.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Serve the kebabs hot, garnished with fresh parsley and lemon wedges."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-meats",
+    "high-protein",
+    "mediterranean-diet",
+    "summer-recipes",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "charred-tender-mediterranean-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-tender-mediterranean-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:32:35Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "tender",
+    "mood": "indulgent",
+    "technique": "rest",
+    "primaryIngredient": "sesame butter",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lamb",
+    "descriptor": "Charred tender",
+    "dishForm": "Kebabs"
+  }
+}
