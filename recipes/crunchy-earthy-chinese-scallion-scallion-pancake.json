@@ -1,0 +1,86 @@
+{
+  "title": "crunchy earthen chinese scallion pancake",
+  "description": "earthy, crunchy, midnight-craving chinese dongbei dish featuring ssamjang, brine-dry, halal-friendly, form=scallion-pancake. perfect for a snack or light meal.",
+  "cuisine": "dongbei chinese",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "warm water",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "scallions",
+      "amount": "1 bunch",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ssamjang",
+      "amount": "2 tablespoons",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "in a large mixing bowl, combine flour, cornstarch, and salt.",
+    "gradually add warm water and mix until a dough forms.",
+    "knead the dough for 5-7 minutes until it becomes smooth."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "dongbei",
+    "high-protein",
+    "one-pan",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "crunchy-earthy-chinese-scallion-scallion-pancake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-earthy-chinese-scallion-scallion-pancake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:19:21Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crunchy",
+    "mood": "midnight-craving",
+    "technique": "brine-dry",
+    "primaryIngredient": "ssamjang",
+    "diet": "halal",
+    "region": "dongbei",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "scallion",
+    "descriptor": "crunchy earthy",
+    "dishForm": "Scallion Pancake"
+  }
+}

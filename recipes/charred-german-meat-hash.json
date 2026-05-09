@@ -1,0 +1,104 @@
+{
+  "title": "Charred German Meat Hash",
+  "description": "A crispy, charred post-workout dish that combines German sausage and potatoes with the flavors of white wine.",
+  "cuisine": "german",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "german sausage",
+      "amount": "1 pound",
+      "notes": "look for sausage that is labeled 'gluten-free'"
+    },
+    {
+      "name": "russet potatoes",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": "adds a classic German flavor"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup",
+      "notes": "dry white wine, such as riesling"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "for crisping the sausage"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "use a gluten-free salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400 degrees Fahrenheit.",
+    "Place the sausage in a sous-vide water bath at 130 degrees Fahrenheit for 1 hour.",
+    "Dice the potatoes and cook in a pan over medium heat with a little bit of oil until they are tender.",
+    "Add the caraway seeds, onion, and garlic to the pan and cook for an additional 2 minutes.",
+    "Melt the butter in a separate pan over medium heat. ",
+    "Add the cooked sausage to the pan and cook until crispy on all sides.",
+    "Add the cooked potatoes, white wine, salt, and pepper to the pan and stir to combine.",
+    "Transfer the pan to the preheated oven and cook for 5-7 minutes, or until the top is crispy and golden brown.",
+    "Serve hot, garnished with fresh parsley or chives, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 17,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "charred-german-meat-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-german-meat-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:19:17Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crispy",
+    "mood": "post-workout",
+    "technique": "sous-vide",
+    "primaryIngredient": "white wine",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "meat",
+    "descriptor": "charred",
+    "dishForm": "Hash"
+  }
+}
