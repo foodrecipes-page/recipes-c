@@ -1,0 +1,107 @@
+{
+  "title": "Crunchy Spicy Polish Beef Stew",
+  "description": "A spicy and light one-pot Polish dish featuring mixed beef cuts and lamination-puff, suitable for a sugar-free diet.",
+  "cuisine": "Polish",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "beef shank",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lard or vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Cut the beef brisket and shank into 1-inch cubes and season with salt, black pepper, and paprika.",
+    "Heat the lard or oil in a large pot over medium-high heat and brown the beef cubes in batches.",
+    "Add the onion and garlic to the pot and cook until the onion is translucent.",
+    "Add the caraway seeds to the pot and cook for 1 minute.",
+    "Sprinkle the flour over the beef and onion mixture and cook for 1 minute.",
+    "Gradually add the beef broth to the pot, whisking constantly to avoid lumps.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 1 1/2 hours.",
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Transfer the pot to the oven and bake for 20 minutes to crisp the top.",
+    "Remove the pot from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "hearty-stew",
+    "one-pot",
+    "polish-cuisine",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "crunchy-spicy-polish-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-spicy-polish-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:10:43Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "light",
+    "mood": "one-pot",
+    "technique": "lamination-puff",
+    "primaryIngredient": "mixed beef cuts",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "beef",
+    "descriptor": "Crunchy Spicy",
+    "dishForm": "Stew"
+  }
+}
