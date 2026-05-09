@@ -1,0 +1,99 @@
+{
+  "title": "Comforting Crisp Ethiopian Chicken Doro Wot",
+  "description": "A smoky and comforting Ethiopian dish featuring balsamic vinegar and a soffritto-base, cooked to crispy perfection in an iron teppan, this doro wot is a kosher-friendly delight.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the iron teppan over medium-high heat.",
+    "Add the olive oil and swirl it around to coat the bottom.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the chicken thighs and cook until they are browned on all sides.",
+    "Add the berbere spice and cook for 1 minute.",
+    "Add the balsamic vinegar and bring to a simmer.",
+    "Reduce the heat to medium-low and cook until the chicken is cooked through and the sauce is thick and syrupy.",
+    "Season with salt and black pepper to taste.",
+    "Serve the chicken and sauce hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "ethiopian-cuisine",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "comforting-crisp-ethiopian-chicken-doro-wot",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/comforting-crisp-ethiopian-chicken-doro-wot",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:33:29Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crisp",
+    "mood": "comforting",
+    "technique": "soffritto-base",
+    "primaryIngredient": "balsamic vinegar",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "chicken",
+    "descriptor": "Comforting Crisp",
+    "dishForm": "Doro Wot"
+  }
+}
