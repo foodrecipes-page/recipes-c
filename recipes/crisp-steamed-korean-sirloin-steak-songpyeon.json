@@ -1,0 +1,104 @@
+{
+  "title": "Crisp Steamed Korean Sirloin Steak Songpyeon",
+  "description": "Rich, silky Korean dish featuring sirloin steak, brine-dried, whole30-friendly, steamed to perfection in a songpyeon form.",
+  "cuisine": "Korean",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sirloin Steak",
+      "amount": "1 pound",
+      "notes": "preferably ribeye or strip loin"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "fine grain"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Korean Chili Flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "optional, for some heat"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing songpyeon"
+    },
+    {
+      "name": "Songpyeon Form",
+      "amount": ","
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "for steaming"
+    }
+  ],
+  "instructions": [
+    "Prepare a brine solution by dissolving 1 teaspoon of salt in 1 cup of water, and add 1/2 teaspoon of black pepper. Let it cool to room temperature.",
+    "In a small bowl, mix together 2 cloves of minced garlic, 1 tablespoon of grated ginger, and 1/4 teaspoon of Korean chili flakes (if using).",
+    "Add the garlic-ginger mixture to the cooled brine solution and stir to combine.",
+    "Place the sirloin steak in the brine solution and refrigerate for at least 2 hours or overnight.",
+    "Preheat a cataplana or a large skillet over medium-high heat. Remove the sirloin steak from the brine solution and pat it dry with paper towels.",
+    "Season the sirloin steak with salt and black pepper. Add 2 tablespoons of sesame oil to the preheated cataplana or skillet and sear the sirloin steak for 2-3 minutes per side, or until it reaches your desired level of doneness.",
+    "Transfer the sirloin steak to a plate and let it rest for 5 minutes.",
+    "Meanwhile, prepare the songpyeon form by brushing it with sesame oil and seasoning it with salt and black pepper.",
+    "Place the songpyeon form in a steamer basket and steam it over high heat for 2-3 minutes, or until it's lightly toasted.",
+    "Place the rested sirloin steak in the songpyeon form and serve immediately.",
+    "For a more authentic experience, serve the sirloin steak with a side of kimchi or other Korean fermented vegetables."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "brine",
+    "high-protein",
+    "korean-cuisine",
+    "songpyeon",
+    "steak"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 55,
+    "carbs": 0,
+    "fat": 35
+  },
+  "slug": "crisp-steamed-korean-sirloin-steak-songpyeon",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-steamed-korean-sirloin-steak-songpyeon",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:51:50Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "silky",
+    "mood": "hangover-cure",
+    "technique": "brine-dry",
+    "primaryIngredient": "sirloin steak",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "sirloin steak",
+    "descriptor": "Crisp Steamed",
+    "dishForm": "Songpyeon"
+  }
+}
