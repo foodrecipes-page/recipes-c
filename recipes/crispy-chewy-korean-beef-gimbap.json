@@ -1,0 +1,129 @@
+{
+  "title": "Korean Crispy Gimbap",
+  "description": "A delicious Korean dish that combines crispy rice paper sheets with chewy beef and fluffy rice. Perfect for a lazy Sunday afternoon.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Beef (thinly sliced)",
+      "amount": "1 pound",
+      "notes": "Low-sodium, brine-dried beef for optimal flavor."
+    },
+    {
+      "name": "Gimbap rice paper sheets",
+      "amount": "12 sheets",
+      "notes": "Fresh or frozen, thawed according to package instructions."
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Unsalted, for greasing the rice paper sheets."
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "Low-sodium, for flavor."
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Green onions (thinly sliced)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Gochujang (Korean chili paste)",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "Beaten, for egg wash."
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Pickled ginger (thinly sliced)",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "In a small bowl, whisk together soy sauce, sugar, sesame oil, gochujang, salt, and black pepper.",
+    "In a separate bowl, whisk together egg and a pinch of salt.",
+    "Dip each gimbap rice paper sheet into the egg wash, coating both sides evenly.",
+    "Place a sheet of gimbap rice paper on a flat surface and brush one side with butter.",
+    "Sprinkle a thin layer of rice onto the center of the rice paper sheet, leaving a 1-inch border around the edges.",
+    "Add a few slices of beef, some green onions, and a sprinkle of toasted sesame seeds on top of the rice.",
+    "Fold the bottom edge of the rice paper sheet up over the filling, then fold in the sides and roll into a tight cylinder.",
+    "Repeat with the remaining rice paper sheets and filling ingredients.",
+    "Heat the skillet or griddle over medium heat and cook the gimbap for 2-3 minutes on each side, or until crispy and golden brown.",
+    "Serve warm with pickled ginger and a side of kimchi, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 42,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chewy",
+    "crispy",
+    "easy-to-make",
+    "gimbap",
+    "korean",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "crispy-chewy-korean-beef-gimbap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-chewy-korean-beef-gimbap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T07:59:57Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "silky",
+    "mood": "lazy-sunday",
+    "technique": "brine-dry",
+    "primaryIngredient": "rice paper sheets",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "beef",
+    "descriptor": "Crispy, Chewy",
+    "dishForm": "Gimbap"
+  }
+}
