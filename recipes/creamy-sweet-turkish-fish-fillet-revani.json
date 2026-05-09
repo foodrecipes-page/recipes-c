@@ -1,0 +1,94 @@
+{
+  "title": "Creamy Sweet Turkish Fish Fillet Revani",
+  "description": "A sweet and gooey Turkish dish featuring fish fillet, perfect for a festive meal, this flexitarian-friendly recipe is a unique twist on traditional revani.",
+  "cuisine": "Turkish",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish fillet",
+      "amount": "4 fillets",
+      "notes": "any white fish"
+    },
+    {
+      "name": "semolina",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "rose water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "In a large bowl, whisk together semolina, sugar, and salt.",
+    "Add unsalted butter, milk, rose water, and orange zest to the bowl and mix until well combined.",
+    "Place the fish fillets in a separate bowl and coat with the semolina mixture.",
+    "Fold the fish fillets in half and place them in a baking dish.",
+    "Sprinkle pine nuts over the top of the fish.",
+    "Bake for 25 minutes or until the fish is cooked through.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "festive-meals",
+    "fish-recipes",
+    "flexitarian-friendly",
+    "sweet-and-savory",
+    "turkish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "creamy-sweet-turkish-fish-fillet-revani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-sweet-turkish-fish-fillet-revani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:25:38Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "gooey",
+    "mood": "festive",
+    "technique": "fold",
+    "primaryIngredient": "fish fillet",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "fish fillet",
+    "descriptor": "Creamy Sweet",
+    "dishForm": "Revani"
+  }
+}
