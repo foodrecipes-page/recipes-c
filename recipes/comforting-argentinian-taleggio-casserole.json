@@ -1,0 +1,102 @@
+{
+  "title": "Comforting Argentinian Taleggio Casserole",
+  "description": "A rich and comforting Argentinian dish featuring taleggio cheese, tandoor spices, and sugar-free friendly ingredients, perfect for a cold winter night.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "taleggio cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "tandoor spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sweet potato",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chicken breast and cook until browned on all sides, about 5-7 minutes.",
+    "Add the tandoor spice mix and cook for 1 minute, stirring constantly.",
+    "In a large bowl, combine the cooked chicken, sweet potato, salt, and black pepper.",
+    "In a greased 9x13 inch baking dish, arrange half of the sweet potato mixture in the bottom of the dish.",
+    "Top with the cooked chicken mixture, then the crumbly taleggio cheese.",
+    "Repeat the layers, starting with the sweet potato mixture, then the chicken mixture, and finally the taleggio cheese."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "comfort-food",
+    "gluten-free",
+    "one-pan",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "comforting-argentinian-taleggio-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/comforting-argentinian-taleggio-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:29:15Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "pillowy",
+    "mood": "comforting",
+    "technique": "tandoor",
+    "primaryIngredient": "taleggio",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Taleggio",
+    "descriptor": "Creamy Comforting",
+    "dishForm": "Casserole"
+  }
+}
