@@ -1,0 +1,104 @@
+{
+  "title": "Crumbly Light Greek Parma Ham Gyro",
+  "description": "A light and crumbly Greek dish featuring parma ham, simmered in a nimono-style broth and wrapped in a gyro, with a bitter twist from arugula and a mediterranean flair from feta cheese.",
+  "cuisine": "Greek",
+  "diet": [
+    "mediterranean"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "parma ham",
+      "amount": "8 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "arugula",
+      "amount": "1 cup"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Wrap the pita bread in foil and warm it in the oven for 5 minutes.",
+    "In a large skillet, heat the olive oil over medium heat and add the sliced red onion.",
+    "Cook the onion for 5 minutes, or until it is translucent and starting to caramelize.",
+    "Add the diced tomato to the skillet and cook for an additional 2 minutes.",
+    "In a small bowl, whisk together the lemon juice, salt, and pepper.",
+    "Brush the lemon juice mixture onto the warmed pita bread.",
+    "Assemble the gyro by spreading a layer of feta cheese on the pita bread, followed by a few slices of parma ham, some arugula, and finally the cooked onion and tomato mixture.",
+    "Serve immediately and enjoy.",
+    "To add a nimono-simmered twist, simmer the parma ham in a broth made with olive oil, lemon juice, and spices for 10 minutes before assembling the gyro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "feta-cheese",
+    "greek-food",
+    "gyro-recipes",
+    "lunch-ideas",
+    "mediterranean-diet",
+    "parma-ham"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "crumbly-light-greek-parma-ham-gyro",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-light-greek-parma-ham-gyro",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:50:42Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crumbly",
+    "mood": "light",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "parma ham",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "parma ham",
+    "descriptor": "crumbly light",
+    "dishForm": "Gyro"
+  }
+}
