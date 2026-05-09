@@ -1,0 +1,95 @@
+{
+  "title": "Caramelized Crunchy German Sausage Tacos",
+  "description": "A yeasty and snappy one-pot German dish featuring hard taco shells, caramelized onions, and German sausage, made in a Dutch oven, suitable for an ayurvedic tamasic diet",
+  "cuisine": "German",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "German sausage",
+      "amount": "1 pound",
+      "notes": "preferably knockwurst or bratwurst"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "hard taco shells",
+      "amount": "12 shells"
+    },
+    {
+      "name": "beer",
+      "amount": "1 cup"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sauerkraut",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    }
+  ],
+  "instructions": [
+    "Heat the Dutch oven over medium heat and add the sliced onions, cooking until they are caramelized and golden brown",
+    "Add the German sausage to the pot, slicing it into thin rounds as it cooks",
+    "Add the beer, caraway seeds, salt, and black pepper to the pot, stirring to combine",
+    "Bring the mixture to a simmer and cook until the liquid has reduced and the sausage is cooked through",
+    "Warm the hard taco shells according to package instructions",
+    "Assemble the tacos by spooning the sausage and onion mixture into the shells and topping with sauerkraut",
+    "Serve immediately and enjoy",
+    "Garnish with chopped fresh parsley or chives, if desired",
+    "Store leftovers in an airtight container in the refrigerator for up to 3 days"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "caramelized-onions",
+    "dutch-oven-cooking",
+    "german-cuisine",
+    "one-pot",
+    "sausage-recipes",
+    "taco-night"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "caramelized-crunchy-german-sausage-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/caramelized-crunchy-german-sausage-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:24:34Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "snappy",
+    "mood": "one-pot",
+    "technique": "caramelize",
+    "primaryIngredient": "hard taco shells",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "sausage",
+    "descriptor": "Caramelized Crunchy",
+    "dishForm": "Tacos"
+  }
+}
