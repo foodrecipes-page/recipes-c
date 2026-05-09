@@ -1,0 +1,102 @@
+{
+  "title": "Crispy Caramelized Kenyan Sweet Potato Bake",
+  "description": "A funky, crispy, brunch-mood Kenyan dish featuring candied peel and wood-fired bake, made with ayurvedic sattvic-friendly ingredients. This sweet potato bake is perfect for a unique breakfast or brunch option.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "candied orange peel",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the sliced sweet potatoes with coconut oil, ginger, cumin, turmeric, salt, and black pepper until they are evenly coated.",
+    "Spread the sweet potatoes out in a single layer on a baking sheet lined with parchment paper.",
+    "Bake the sweet potatoes in the wood-fired oven for 30 minutes, or until they are tender and lightly browned.",
+    "While the sweet potatoes are baking, prepare the candied orange peel by chopping it into small pieces.",
+    "After the sweet potatoes have baked for 30 minutes, remove them from the oven and sprinkle the chopped candied orange peel over the top.",
+    "Return the sweet potatoes to the oven and continue baking for an additional 10-15 minutes, or until the orange peel is caramelized and crispy.",
+    "Remove the sweet potatoes from the oven and sprinkle with chopped fresh cilantro.",
+    "Serve the crispy caramelized Kenyan sweet potato bake hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-recipe",
+    "caramelized",
+    "kenyan-cuisine",
+    "sweet-potato-recipe",
+    "vegan-friendly",
+    "wood-fired-oven"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "crispy-caramelized-kenyan-sweet-potato-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-caramelized-kenyan-sweet-potato-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:38:51Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crispy",
+    "mood": "brunch-mood",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "candied peel",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "sweet potatoes",
+    "descriptor": "Crispy Caramelized",
+    "dishForm": "Bake"
+  }
+}
