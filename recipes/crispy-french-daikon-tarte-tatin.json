@@ -1,0 +1,118 @@
+{
+  "title": "Crispy French Daikon Tarte Tatin",
+  "description": "A vegetarian French dish featuring caramelized daikon, crispy on the outside and soft on the inside, perfect for meal prep.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "daikon",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "unsalted, softened"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1/4 cup",
+      "notes": "such as Gruyère or Comté"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 sprigs",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a medium bowl, whisk together flour, sugar, salt, and pepper.",
+    "In a large skillet, melt 2 tablespoons of butter over medium heat. Add the sliced daikon and cook until slightly softened, about 5 minutes.",
+    "Transfer the daikon to a plate and set aside."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 20,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "caramelized-daikon",
+    "french",
+    "side-dish",
+    "tarte-tatin",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 15
+  },
+  "slug": "crispy-french-daikon-tarte-tatin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-french-daikon-tarte-tatin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:28:48Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "juicy",
+    "mood": "meal-prep",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "daikon",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Daikon",
+    "descriptor": "Crispy",
+    "dishForm": "Tarte Tatin"
+  }
+}
