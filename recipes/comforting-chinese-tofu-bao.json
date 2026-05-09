@@ -1,0 +1,103 @@
+{
+  "title": "Comforting Chinese Tofu Bao",
+  "description": "A nutty and pillowy Chinese dish from Zhejiang, featuring mayonnaise and smoke-hot flavors, all in a vegan-friendly package.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "1/2 cup",
+      "notes": "vegan mayonnaise"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "bao buns",
+      "amount": "4-6 buns"
+    },
+    {
+      "name": "pickled ginger",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sriracha",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the mayonnaise, smoked paprika, soy sauce, rice vinegar, and sesame oil.",
+    "Add the cubed tofu to the bowl and toss to coat with the mayonnaise mixture.",
+    "Spread the tofu mixture on a baking sheet and bake for 20 minutes.",
+    "While the tofu is baking, toast the bao buns by steaming them for 5 minutes.",
+    "Assemble the bao by spreading a layer of the tofu mixture on the bottom bun, followed by a slice of pickled ginger, a few slices of scallion, and a drizzle of sriracha.",
+    "Top with the top bun and serve immediately.",
+    "Garnish with additional scallions and pickled ginger if desired.",
+    "Serve with a side of steamed vegetables or a simple green salad for a well-rounded meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "comfort-food",
+    "easy-dinner",
+    "nutty-flavors",
+    "smoke-hot",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "comforting-chinese-tofu-bao",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/comforting-chinese-tofu-bao",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:03:24Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "pillowy",
+    "mood": "comforting",
+    "technique": "smoke-hot",
+    "primaryIngredient": "mayonnaise",
+    "diet": "vegan",
+    "region": "zhejiang",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "tofu",
+    "descriptor": "comforting creamy",
+    "dishForm": "Bao"
+  }
+}
