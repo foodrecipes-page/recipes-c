@@ -1,0 +1,127 @@
+{
+  "title": "Citrusy Fluffy Portuguese Lamb Stir-fry",
+  "description": "A quick and delicious weeknight meal featuring lamb stock, citrus flavors, and fluffy texture. Perfect for a low-calorie dinner option.",
+  "cuisine": "portuguese",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Lamb stock",
+      "amount": "250ml",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh lime juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Egg whites",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Zest of lemon and lime",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the lamb shoulder into 1-inch cubes and season with salt and black pepper.",
+    "Heat the olive oil in a large copper mug over medium-high heat.",
+    "Add the lamb cubes and cook until browned on all sides, about 5 minutes.",
+    "Add the garlic, ginger, and flour and cook for 1 minute.",
+    "Pour in the lamb stock and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Stir in the fresh lemon and lime juice and cook for an additional 2 minutes.",
+    "In a separate bowl, whisk together the egg whites and a pinch of salt until frothy.",
+    "Add the egg whites to the lamb mixture and stir to combine.",
+    "Cook for an additional 2-3 minutes, until the eggs are set.",
+    "Garnish with chopped fresh parsley and a sprinkle of lemon and lime zest.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "low-calorie",
+    "one-pan",
+    "portuguese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "citrusy-fluffy-portuguese-lamb-stir-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-fluffy-portuguese-lamb-stir-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:07:38Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "fluffy",
+    "mood": "weeknight",
+    "technique": "stir-fry",
+    "primaryIngredient": "lamb stock",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Lamb",
+    "descriptor": "Citrusy Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
