@@ -1,0 +1,104 @@
+{
+  "title": "Creamy Roasted Greek Chickpeas Revithia",
+  "description": "A roasted, velvety weeknight Greek dish featuring chickpeas, bhuna spice, and a low-carb friendly profile, served in an earthenware bowl in the form of revithia.",
+  "cuisine": "Greek",
+  "diet": [
+    "low-carb",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "bhuna spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the chickpeas with olive oil, bhuna spice, salt, and black pepper until they are evenly coated.",
+    "Spread the chickpeas in a single layer on a baking sheet and roast for 30 minutes.",
+    "In a large skillet, saute the chopped onion and minced garlic over medium heat until the onion is translucent.",
+    "Add the roasted chickpeas, lemon juice, and heavy cream to the skillet and stir to combine.",
+    "Reduce the heat to low and simmer the mixture for 10 minutes or until it has thickened slightly.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the revithia to an earthenware bowl and garnish with chopped fresh parsley.",
+    "Serve the revithia hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "greek-food",
+    "low-carb",
+    "one-pot",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "creamy-roasted-greek-chickpeas-revithia",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-roasted-greek-chickpeas-revithia",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:33:12Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "velvety",
+    "mood": "weeknight",
+    "technique": "bhuna",
+    "primaryIngredient": "seeds",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Creamy Roasted",
+    "dishForm": "Revithia"
+  }
+}
