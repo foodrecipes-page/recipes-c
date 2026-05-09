@@ -1,0 +1,109 @@
+{
+  "title": "Creamy Syrian Eggplant Gratin",
+  "description": "A cultured and velvety Syrian dish featuring roasted eggplant, rich spices, and a creamy sauce, perfect for a brunch mood, served in individual mini cocottes, vegan friendly.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 large",
+      "notes": "cut into 1/2 inch thick rounds"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "vegan cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Brush the eggplant slices with olive oil and season with salt, black pepper, paprika, and sumac.",
+    "Roast the eggplant slices in the oven for 20 minutes, or until they are tender and lightly browned.",
+    "Meanwhile, sauté the chopped onion and minced garlic in a pan until they are softened and fragrant.",
+    "Add the vegan cream, nutritional yeast, and a pinch of salt to the pan and stir to combine.",
+    "Arrange a layer of roasted eggplant slices in the bottom of each individual mini cocotte.",
+    "Spoon some of the creamy sauce over the eggplant slices in each cocotte.",
+    "Repeat the layers until all of the ingredients have been used, finishing with a layer of creamy sauce on top.",
+    "Cover each cocotte with foil and bake for an additional 15 minutes.",
+    "Remove the foil and bake for an additional 5 minutes, or until the top is lightly browned.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "comfort-food",
+    "middle-eastern",
+    "papillote",
+    "syrian-cuisine",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "creamy-syrian-eggplant-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-syrian-eggplant-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:35:03Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "velvety",
+    "mood": "brunch-mood",
+    "technique": "papillote",
+    "primaryIngredient": "seasoning",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "eggplant",
+    "descriptor": "Creamy velvety",
+    "dishForm": "Gratin"
+  }
+}
