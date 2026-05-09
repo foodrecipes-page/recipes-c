@@ -1,0 +1,105 @@
+{
+  "title": "Cooling Crunchy Syrian Beetroot Salad",
+  "description": "A salty and springy Syrian dish featuring cooked beetroot, perfect for a quick fix, with anti-inflammatory friendly ingredients. This salad is great for a light lunch or snack.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beetroot",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "toasted pine nuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "crunchy bulgur",
+      "amount": "1/2 cup",
+      "notes": "cooked and cooled"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "Wrap the chopped beetroot in foil and roast for 45 minutes, or until tender.",
+    "Let the beetroot cool, then peel and chop it into small pieces.",
+    "In a large bowl, whisk together the pomegranate molasses, lemon juice, olive oil, salt, black pepper, and sumac.",
+    "Add the cooled beetroot, toasted pine nuts, and chopped parsley to the bowl and toss to combine.",
+    "Stir in the cooked and cooled bulgur.",
+    "Chill the salad in the refrigerator for at least 30 minutes to allow the flavors to meld.",
+    "Serve the salad cold, garnished with additional parsley and pine nuts if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "anti-inflammatory",
+    "gluten-free",
+    "lunch",
+    "quick-fix",
+    "salad",
+    "syrian-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "cooling-crunchy-syrian-beetroot-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/cooling-crunchy-syrian-beetroot-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:19:41Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "springy",
+    "mood": "quick-fix",
+    "technique": "rest",
+    "primaryIngredient": "cooked beetroot",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "beetroot",
+    "descriptor": "Cooling Crunchy",
+    "dishForm": "Salad"
+  }
+}
