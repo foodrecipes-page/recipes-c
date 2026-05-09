@@ -1,0 +1,96 @@
+{
+  "title": "Crispy Golden Croatian Lamb Kidney Skewers",
+  "description": "A floral and tender Croatian dish featuring lamb kidney, perfect for a weeknight dinner, with an ovo-vegetarian friendly twist by using vegetable oil for deep-frying, and this recipe does not include any eggs",
+  "cuisine": "Croatian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb kidney",
+      "amount": "500g",
+      "notes": "sliced into 1 inch pieces"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together flour, paprika, garlic powder, salt, and black pepper.",
+    "Add the sliced lamb kidney to the bowl and toss to coat evenly with the flour mixture.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Using a skewer, thread 3-4 pieces of the coated lamb kidney.",
+    "Carefully place the skewers in the hot oil and deep-fry for 3-4 minutes on each side, until golden brown.",
+    "Remove the skewers from the oil and place them on a paper towel lined plate to drain excess oil.",
+    "Sprinkle the chopped parsley over the skewers and serve with a squeeze of lemon juice.",
+    "Repeat the frying process with the remaining lamb kidney pieces.",
+    "Serve the crispy golden lamb kidney skewers hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian-cuisine",
+    "deep-fried",
+    "lamb-recipes",
+    "ovo-vegetarian",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "crispy-golden-croatian-lamb-kidney-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-golden-croatian-lamb-kidney-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:14:58Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "tender",
+    "mood": "weeknight",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "lamb kidney",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "lamb kidney",
+    "descriptor": "Crispy golden",
+    "dishForm": "Skewers"
+  }
+}
