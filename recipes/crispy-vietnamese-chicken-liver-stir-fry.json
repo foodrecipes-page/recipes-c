@@ -1,0 +1,103 @@
+{
+  "title": "Crispy Vietnamese Chicken Liver Stir Fry",
+  "description": "A briny and silky Vietnamese dish featuring chicken liver and ferment-kimchi, made in a wok and friendly to nut-free diets.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken liver",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a wok over medium-high heat.",
+    "Add the sliced onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the sliced chicken liver and cook until it is browned and crispy.",
+    "Add the chopped ferment-kimchi, fish sauce, lime juice, salt, and black pepper, and stir-fry for 2 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the stir-fry to a serving platter and serve immediately.",
+    "Garnish with additional chopped ferment-kimchi and lime wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-liver",
+    "ferment-kimchi",
+    "nut-free",
+    "stir-fry",
+    "vietnamese-cuisine",
+    "wok-cooking"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "crispy-vietnamese-chicken-liver-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-vietnamese-chicken-liver-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:33:25Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "silky",
+    "mood": "light",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "chicken liver",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "chicken liver",
+    "descriptor": "crispy caramelized",
+    "dishForm": "Stir-fry"
+  }
+}
