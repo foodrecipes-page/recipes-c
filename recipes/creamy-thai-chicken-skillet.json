@@ -1,0 +1,103 @@
+{
+  "title": "Creamy Thai Chicken Skillet",
+  "description": "A kid-friendly Thai dish featuring parma ham and a sour yet pillowy texture, made in a cast-iron skillet with a low-calorie twist.",
+  "cuisine": "Thai",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "parma ham",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat a large cast-iron skillet over medium-high heat.",
+    "Add the diced parma ham and cook until crispy, about 2-3 minutes.",
+    "Remove the parma ham from the skillet and set aside.",
+    "Add the chicken to the skillet and cook until browned, about 5-6 minutes.",
+    "Add the fish sauce, lime juice, coconut milk, brown sugar, curry paste, salt, and pepper to the skillet and stir to combine.",
+    "Return the parma ham to the skillet and stir to combine.",
+    "Reduce heat to medium-low and simmer, uncovered, until the sauce has thickened and the chicken is cooked through, about 10-12 minutes.",
+    "Stir in the chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cast-iron-skillet",
+    "kid-friendly",
+    "low-calorie",
+    "one-pan",
+    "quick-dinner",
+    "thai-inspired"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "creamy-thai-chicken-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-thai-chicken-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:30:19Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "pillowy",
+    "mood": "kid-friendly",
+    "technique": "ferment",
+    "primaryIngredient": "parma ham",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "Creamy Crunchy",
+    "dishForm": "Skillet"
+  }
+}
