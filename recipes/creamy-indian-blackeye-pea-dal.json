@@ -1,0 +1,62 @@
+{
+  "title": "Creamy Indian Blackeye Pea Dal",
+  "description": "A fatty, creamy, and light Indian dish featuring blackeye peas, featuring layers of flavor and a paleo-friendly twist.",
+  "cuisine": "Indian",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "blackeye peas",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a medium saucepan over medium-high heat.",
+    "Add onion and saut\u00144e until translucent, about 3-4 minutes.",
+    "Add garlic and saut\u00144e for an additional 1-2 minutes.",
+    "Add ginger and stir for 1 minute.",
+    "Add turmeric, cumin, coriander, and cayenne pepper; stir for 1 minute.",
+    "Add blackeye peas and stir to combine.",
+    "Add broth and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20-25 minutes or until peas are tender."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "indian",
+    "paleo"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "creamy-indian-blackeye-pea-dal",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-indian-blackeye-pea-dal",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:03:16Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "lamination-puff",
+    "primaryIngredient": "blackeye pea",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "blackeye pea",
+    "descriptor": "creamy",
+    "dishForm": "Dal"
+  }
+}
