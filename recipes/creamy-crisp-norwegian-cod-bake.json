@@ -1,0 +1,108 @@
+{
+  "title": "Creamy Crisp Norwegian Cod Bake",
+  "description": "A tangy and creamy weeknight Norwegian dish featuring palm sugar and coconut cream.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 Cod fillets",
+      "amount": "6 oz",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "1/4 cup Palm sugar",
+      "amount": "",
+      "notes": "Or brown sugar"
+    },
+    {
+      "name": "1/2 cup Coconut cream",
+      "amount": "",
+      "notes": "Full-fat, refrigerated"
+    },
+    {
+      "name": "2 tablespoons Butter",
+      "amount": "",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "2 cloves Garlic",
+      "amount": "",
+      "notes": "Minced"
+    },
+    {
+      "name": "1/2 cup White wine",
+      "amount": "",
+      "notes": "Dry"
+    },
+    {
+      "name": "1/4 cup Fish broth",
+      "amount": "",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "2 tablespoons Fresh parsley",
+      "amount": "",
+      "notes": "Chopped"
+    },
+    {
+      "name": "1 teaspoon Dill weed",
+      "amount": "",
+      "notes": "Fresh or dried"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper or aluminum foil.",
+    "Season the cod fillets with salt and pepper.",
+    "In a large skillet, melt 1 tablespoon of butter over medium-high heat.",
+    "Add the cod fillets and cook for 2-3 minutes per side, until browned.",
+    "Transfer the cod to the prepared baking sheet.",
+    "In the same skillet, melt the remaining 1 tablespoon of butter over medium heat.",
+    "Add the garlic, white wine, fish broth, palm sugar, and dill weed.",
+    "Bring the mixture to a simmer and cook for 2-3 minutes, until slightly reduced.",
+    "Stir in the coconut cream.",
+    "Pour the creamy sauce over the cod fillets.",
+    "Sprinkle with parsley and bake for 10-12 minutes, until the cod is cooked through and the sauce is bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-cream-crack",
+    "easy-to-make",
+    "gluten-free-friendly",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "creamy-crisp-norwegian-cod-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-crisp-norwegian-cod-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T15:26:45Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "creamy",
+    "mood": "weeknight",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "palm sugar",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Cod",
+    "descriptor": "Creamy Crisp",
+    "dishForm": "Bake"
+  }
+}
