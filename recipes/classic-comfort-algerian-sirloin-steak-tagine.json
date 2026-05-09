@@ -1,0 +1,111 @@
+{
+  "title": "Classic Comfort Algerian Sirloin Steak Tagine",
+  "description": "A pungent and tender Algerian dish featuring sirloin steak, render fat, and a blend of spices, perfect for a midnight craving. This buddhist-temple-friendly recipe is free from animal by-products and harsh ingredients.",
+  "cuisine": "Algerian",
+  "diet": [
+    "halal",
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sirloin steak",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "0.5 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 teaspoon"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the chopped onion and cook until it is lightly browned, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute, stirring constantly.",
+    "Add the cubed sirloin steak and cook until it is browned on all sides, about 5 minutes.",
+    "Add the cumin, coriander, cayenne pepper, salt, and black pepper, and stir to combine.",
+    "Add the chopped dried apricots and chicken broth, and bring the mixture to a boil.",
+    "Reduce the heat to low, cover the Dutch oven, and simmer the tagine for 1.5 hours, or until the steak is tender.",
+    "Serve the tagine hot, garnished with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "classic-comfort-algerian-sirloin-steak-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/classic-comfort-algerian-sirloin-steak-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:50:18Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "tender",
+    "mood": "midnight-craving",
+    "technique": "render-fat",
+    "primaryIngredient": "sirloin steak",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "sirloin steak",
+    "descriptor": "Classic Comfort",
+    "dishForm": "Tagine"
+  }
+}
