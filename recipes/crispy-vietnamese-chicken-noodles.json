@@ -1,0 +1,93 @@
+{
+  "title": "Crispy Vietnamese Chicken Noodles",
+  "description": "A kid-friendly Vietnamese dish featuring crispy chicken and noodles in a savory mustardy sauce, served in a Korean brass bowl.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "kid-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over high heat.",
+    "Add the chicken to the skillet and cook until browned and crispy, about 5 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the minced garlic and grated ginger to the skillet and cook for 1 minute.",
+    "Add the mustard, soy sauce, and honey to the skillet and stir to combine.",
+    "Add the rice noodles to the skillet and cook for 2 minutes, stirring constantly.",
+    "Return the chicken to the skillet and stir to combine with the noodles and sauce.",
+    "Serve the crispy chicken and noodles in a Korean brass bowl.",
+    "Garnish with sliced green onions and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy-chicken",
+    "high-heat-cooking",
+    "kid-friendly",
+    "noodle-dish",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "crispy-vietnamese-chicken-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-vietnamese-chicken-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:19:05Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "molten",
+    "mood": "kid-friendly",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "high heat cooking oil",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "chicken",
+    "descriptor": "Crispy golden",
+    "dishForm": "Noodles"
+  }
+}
