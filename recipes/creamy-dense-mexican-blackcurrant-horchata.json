@@ -1,0 +1,86 @@
+{
+  "title": "Creamy Dense Mexican Blackcurrant Horchata",
+  "description": "A dense and earthy Mexican drink featuring blackcurrant jam, this horchata is a unique twist on the traditional Oaxacan beverage. It is a mediterranean-friendly drink that is perfect for warm weather.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "long grain rice",
+      "amount": "2 cups",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "blackcurrant jam",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cinnamon sticks",
+      "amount": "2"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "evaporated milk",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice and soak it in water for at least 4 hours.",
+    "Drain and rinse the rice again, then add it to a blender with 4 cups of water.",
+    "Blend the rice and water mixture until it is smooth and creamy.",
+    "Strain the mixture through a cheesecloth into a large bowl.",
+    "Add the blackcurrant jam, cinnamon sticks, and vanilla extract to the bowl and stir until the jam is dissolved.",
+    "Let the mixture steep in the refrigerator for at least 2 hours.",
+    "Strain the mixture again through a cheesecloth into a large pitcher.",
+    "Add the evaporated milk to the pitcher and stir until it is well combined.",
+    "Chill the horchata in the refrigerator for at least 30 minutes before serving.",
+    "Serve the horchata cold, garnished with a sprinkle of cinnamon if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "blackcurrant-jam",
+    "dense-drinks",
+    "horchata-recipes",
+    "mediterranean-friendly",
+    "mexican-drinks",
+    "unique-twists"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "creamy-dense-mexican-blackcurrant-horchata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-dense-mexican-blackcurrant-horchata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:55:52Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "dense",
+    "mood": "light",
+    "technique": "brine-dry",
+    "primaryIngredient": "blackcurrant jam",
+    "diet": "mediterranean",
+    "region": "oaxacan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "blackcurrant",
+    "descriptor": "Creamy Dense",
+    "dishForm": "Horchata"
+  }
+}
