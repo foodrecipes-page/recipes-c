@@ -1,0 +1,92 @@
+{
+  "title": "Crunchy Spanish Octopus Pulpo A La Gallega",
+  "description": "A traditional Spanish dish featuring tender octopus and crunchy texture, perfect for a midnight craving. This recipe is egg-free and friendly for various dietary needs.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "shellfish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "octopus",
+      "amount": "1 pound",
+      "notes": "cleaned and cut into bite-sized pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried mint",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large stone bowl or dolsot over medium-high heat.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the octopus and cook for 3-4 minutes, until browned and tender.",
+    "Add the smoked paprika, dried mint, salt, and black pepper, and stir to combine.",
+    "Squeeze the lemon juice over the top and stir to combine.",
+    "Cook for an additional 1-2 minutes, until the flavors are combined and the octopus is coated.",
+    "Remove from heat and let cool slightly.",
+    "Serve hot, garnished with additional dried mint if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "midnight-cravings",
+    "one-pan",
+    "seafood",
+    "spanish-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "crunchy-spanish-octopus-pulpo-a-la-gallega",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-spanish-octopus-pulpo-a-la-gallega",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:21:47Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "shattering",
+    "mood": "midnight-craving",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "dried mint",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "octopus",
+    "descriptor": "Crunchy Crispy",
+    "dishForm": "Pulpo A La Gallega"
+  }
+}
