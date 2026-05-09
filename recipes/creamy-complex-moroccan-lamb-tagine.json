@@ -1,0 +1,108 @@
+{
+  "title": "Creamy Complex Moroccan Lamb Tagine",
+  "description": "A light Moroccan dish featuring lamb, melons, and pickle, made in a copper mug, jain-friendly and perfect for a special occasion. This malty and gooey tagine is a unique twist on traditional Moroccan cuisine.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "melon",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "pickle",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup",
+      "notes": "plain"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a copper mug over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the lamb pieces and cook until they are browned on all sides.",
+    "Add the cumin, coriander, and cayenne pepper and cook for 1 minute.",
+    "Add the diced melon and chopped pickle and cook until the melon is tender.",
+    "Stir in the plain yogurt and cook until the mixture is heated through.",
+    "Reduce the heat to low and simmer the tagine for 10 minutes.",
+    "Serve the tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "copper-cooking",
+    "jain-friendly",
+    "lamb-recipes",
+    "moroccan-cuisine",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "creamy-complex-moroccan-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-complex-moroccan-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:41:50Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "gooey",
+    "mood": "light",
+    "technique": "pickle",
+    "primaryIngredient": "melons",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "Creamy Complex",
+    "dishForm": "Tagine Lamb"
+  }
+}
