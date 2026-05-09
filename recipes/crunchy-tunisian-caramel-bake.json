@@ -1,0 +1,109 @@
+{
+  "title": "Crunchy Tunisian Caramel Bake",
+  "description": "A buttery, crunchy brunch dish featuring caramel sauce and a wood-fired bake, suitable for dairy-free diets.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Almond Flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Caramel Sauce (dairy-free)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Almonds",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Egg Replacer",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Warm Water",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cardamom Ground",
+      "amount": "1/8 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your wood-fired oven to 400°F (200°C).",
+    "Prepare the bamboo tray by greasing it with coconut oil and setting it aside.",
+    "In a large bowl, whisk together almond flour, coconut sugar, and salt.",
+    "In a separate bowl, whisk together caramel sauce, coconut oil, vanilla extract, and egg replacer."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "dairy-free",
+    "easy-to-make",
+    "healthy",
+    "morning-dish",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 18
+  },
+  "slug": "crunchy-tunisian-caramel-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-tunisian-caramel-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:13:00Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crunchy",
+    "mood": "brunch-mood",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "caramel sauce",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "tunisian",
+    "mainIngredient": "caramel",
+    "descriptor": "crunchy, wood-fired",
+    "dishForm": "bake"
+  }
+}

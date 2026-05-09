@@ -1,0 +1,93 @@
+{
+  "title": "Crunchy Italian Pancetta Pizza",
+  "description": "A pungent, crunchy Italian dish featuring pancetta, perfect for a post-workout meal. Inspired by the Piedmontese region, this recipe is diabetic-friendly and features a mix of flavors and textures.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pizza dough",
+      "amount": "500g"
+    },
+    {
+      "name": "pancetta",
+      "amount": "120g"
+    },
+    {
+      "name": "bhuna",
+      "amount": "150g"
+    },
+    {
+      "name": "roma tomatoes",
+      "amount": "400g"
+    },
+    {
+      "name": "basil",
+      "amount": "20g"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "120g"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "200g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "20ml"
+    },
+    {
+      "name": "salt",
+      "amount": "10g"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 220\u00136C.",
+    "Roll out the pizza dough to a thickness of about 1 cm.",
+    "Spread the olive oil evenly over the dough, leaving a 2 cm border around the edges.",
+    "Sprinkle the pancetta, bhuna, roma tomatoes, basil, parmesan cheese, and mozzarella cheese over the dough.",
+    "Season with salt to taste.",
+    "Bake the pizza in the preheated oven for 15 minutes.",
+    "Remove the pizza from the oven and let it cool for 2 minutes.",
+    "Slice the pizza into 8 equal pieces.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "diabetic-friendly",
+    "italian",
+    "pizza",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 27,
+    "carbs": 40,
+    "fat": 34
+  },
+  "slug": "crunchy-italian-pancetta-pizza",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-italian-pancetta-pizza",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:13:04Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crunchy",
+    "mood": "post-workout",
+    "technique": "bhuna",
+    "primaryIngredient": "pancetta",
+    "diet": "diabetic-friendly",
+    "region": "piedmontese",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "pancetta",
+    "descriptor": "crunchy",
+    "dishForm": "Pizza"
+  }
+}
