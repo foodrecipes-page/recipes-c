@@ -1,0 +1,98 @@
+{
+  "title": "Imam Bayildi",
+  "description": "A hearty and flavorful Turkish dish featuring layers of caramelized onions, eggplant, and tomatoes. This chewy, crowd-pleasing recipe is perfect for a weeknight dinner.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yellow Onion",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Eggplant",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Canola Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Mince red pepper flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 cups",
+      "notes": "canned or fresh"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet over low heat.",
+    "Add the sliced onions and cook, stirring occasionally, for 20 minutes or until caramelized.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly.",
+    "Add the eggplant, salt, and red pepper flakes. Cook for 5 minutes, stirring occasionally.",
+    "Add the tomatoes and cook for 10 minutes, stirring occasionally.",
+    "Transfer the mixture to a serving dish and garnish with parsley.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "caramelized",
+    "eggplant",
+    "one-pan",
+    "onion",
+    "turkish",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "chewy-crowd-pleaser-turkish-onion-imam-bayildi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-crowd-pleaser-turkish-onion-imam-bayildi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:09:23Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "chewy",
+    "mood": "crowd-pleaser",
+    "technique": "tagine-cook",
+    "primaryIngredient": "yellow onion",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "onion",
+    "descriptor": "chewy crowd-pleaser",
+    "dishForm": "Imam Bayildi"
+  }
+}
