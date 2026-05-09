@@ -1,0 +1,108 @@
+{
+  "title": "Creamy Algerian Hazelnut Tagine",
+  "description": "A rich and creamy Algerian dish featuring hazelnuts, perfect for a date night, made with low calorie ingredients and cooked in a raclette grill to achieve a jammy and silky texture.",
+  "cuisine": "Algerian",
+  "diet": [
+    "low-calorie",
+    "brine-wet"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shelled hazelnuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette grill to medium heat.",
+    "In a bowl, mix together the chopped hazelnuts, cumin, coriander, salt, and black pepper.",
+    "In the raclette grill, heat the olive oil and saute the chopped onion until softened.",
+    "Add the minced garlic and grated ginger to the grill and cook for 1 minute.",
+    "Add the mixed hazelnut spice blend to the grill and cook for 2 minutes.",
+    "Pour in the chicken broth and heavy cream, and stir to combine.",
+    "Bring the mixture to a simmer and cook for 10 minutes or until the sauce has thickened.",
+    "Stir in the chopped hazelnuts and cook for an additional 2 minutes.",
+    "Serve the creamy tagine hot, garnished with additional chopped hazelnuts if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "creamy-sauce",
+    "date-night",
+    "hazelnut-recipes",
+    "low-calorie",
+    "raclette-grill"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "creamy-algerian-hazelnut-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-algerian-hazelnut-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:05:25Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "silky",
+    "mood": "date-night",
+    "technique": "brine-wet",
+    "primaryIngredient": "shelled hazelnuts",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "algerian",
+    "mainIngredient": "hazelnuts",
+    "descriptor": "creamy silky",
+    "dishForm": "Tagine"
+  }
+}
