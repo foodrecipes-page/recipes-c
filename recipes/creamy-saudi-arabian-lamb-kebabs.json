@@ -1,0 +1,101 @@
+{
+  "title": "Creamy Saudi Arabian Lamb Kebabs",
+  "description": "A salty and silky Saudi Arabian dish featuring tender lamb, this recipe is perfect for a Mediterranean-friendly dinner, made easy with a whisk and restaurant-quality results.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "halal",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, making sure it reaches 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the yogurt, lemon juice, olive oil, garlic, ginger, cumin, paprika, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and mix until they are well coated with the yogurt mixture.",
+    "Thread the lamb cubes onto skewers, leaving a little space between each cube.",
+    "Grill the kebabs for 10-12 minutes, turning occasionally, until the lamb is cooked through and slightly charred.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Serve the kebabs hot, garnished with fresh parsley and a side of creamy tzatziki sauce if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "lamb-recipes",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "creamy-saudi-arabian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-saudi-arabian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:05:57Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "silky",
+    "mood": "energizing",
+    "technique": "whisk",
+    "primaryIngredient": "restaurant",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "Creamy Silky",
+    "dishForm": "Kebabs"
+  }
+}
