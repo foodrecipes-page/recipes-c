@@ -1,0 +1,97 @@
+{
+  "title": "Crispy Charred Turkish Black Olive Skewers",
+  "description": "A fermented and snappy solo dinner dish featuring Turkish black olives, grilled to perfection on a robata grill, pescatarian friendly.",
+  "cuisine": "Turkish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Turkish black olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Bamboo skewers",
+      "amount": "10"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400 degrees Fahrenheit.",
+    "In a bowl, whisk together olive oil, garlic, lemon juice, salt, black pepper, and paprika.",
+    "Add the pitted Turkish black olives to the bowl and toss to coat with the marinade.",
+    "Thread 2-3 olives onto each bamboo skewer.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the olive skewers for 2-3 minutes per side, or until crispy and charred.",
+    "Serve the skewers hot, garnished with chopped fresh parsley.",
+    "Let the skewers cool for a minute or two before serving.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled-vegetables",
+    "mediterranean-diet",
+    "pescatarian-friendly",
+    "quick-dinner",
+    "turkish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 12,
+    "fat": 18
+  },
+  "slug": "crispy-charred-turkish-black-olive-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-charred-turkish-black-olive-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:23:00Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "snappy",
+    "mood": "solo-dinner",
+    "technique": "robata-grill",
+    "primaryIngredient": "black olives",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "black olives",
+    "descriptor": "crispy charred",
+    "dishForm": "Skewers"
+  }
+}
