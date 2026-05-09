@@ -1,0 +1,118 @@
+{
+  "title": "Crunchy American Courgettes Fried-Rice",
+  "description": "A low-carb friendly, cheesy, flavorful American dish that features crunchy courgettes, perfect for a weeknight dinner.",
+  "cuisine": "american",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Courgettes",
+      "amount": "2 medium",
+      "notes": "zucchinis"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Rice",
+      "amount": "2 cups",
+      "notes": "cooked, day-old"
+    },
+    {
+      "name": "Cheese",
+      "amount": "1 cup",
+      "notes": "shredded cheddar"
+    },
+    {
+      "name": "Bacon",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "Egg",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Heat the remaining 1 tablespoon of olive oil in a separate skillet over medium heat.",
+    "Cook the diced bacon in the first skillet until crispy, about 4 minutes.",
+    "Add the chopped onion to the first skillet and cook until translucent, about 3 minutes.",
+    "Add the minced garlic to the first skillet and cook for 1 minute.",
+    "Add the cooked rice to the first skillet and stir to combine with the bacon and onion mixture.",
+    "Push the rice mixture to one side of the skillet.",
+    "Add the beaten eggs to the empty side of the skillet and scramble until cooked through.",
+    "Combine the eggs with the rice mixture and stir to combine.",
+    "Add the shredded cheese to the rice mixture and stir to combine.",
+    "Add the diced courgettes to the rice mixture and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Transfer the fried rice to a serving platter and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-fusion",
+    "cheesy",
+    "crunchy",
+    "fried-rice",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 30,
+    "fat": 22
+  },
+  "slug": "crunchy-american-courgettes-fried-rice",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-american-courgettes-fried-rice",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:16:20Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "cheese-pull",
+    "mood": "crowd-pleaser",
+    "technique": "fry",
+    "primaryIngredient": "courgettes",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "courgettes",
+    "descriptor": "crunchy",
+    "dishForm": "Fried-Rice"
+  }
+}
