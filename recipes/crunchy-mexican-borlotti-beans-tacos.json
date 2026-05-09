@@ -1,0 +1,99 @@
+{
+  "title": "Crunchy Mexican Borlotti Beans Tacos",
+  "description": "A kid-friendly Mexican dish featuring borlotti beans and a mother-sauce base, this recipe is perfect for a weeknight dinner. The combination of crunchy taco shells, creamy beans, and fresh toppings makes for a delicious and satisfying meal.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "borlotti beans",
+      "amount": "1 cup",
+      "notes": "canned, drained, and rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "poblano pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "taco shells",
+      "amount": "8-10",
+      "notes": "crunchy, store-bought or homemade"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "Monterey Jack or Cheddar"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Heat the onion and garlic in a large skillet over medium heat until the onion is translucent.",
+    "Add the diced poblano pepper to the skillet and cook for an additional 2 minutes.",
+    "Stir in the tomato sauce and bring the mixture to a simmer.",
+    "Add the borlotti beans to the skillet and cook for 5 minutes, stirring occasionally.",
+    "Warm the taco shells according to the package instructions.",
+    "Assemble the tacos by spooning the bean and sauce mixture into the taco shells.",
+    "Top each taco with shredded cheese, chopped cilantro, and any other desired toppings.",
+    "Serve the tacos immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "kid-friendly",
+    "mexican",
+    "one-pan",
+    "tacos",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "crunchy-mexican-borlotti-beans-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-mexican-borlotti-beans-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:48:25Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "snappy",
+    "mood": "kid-friendly",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "borlotti beans",
+    "diet": "vegetarian",
+    "region": "poblano",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "borlotti beans",
+    "descriptor": "crunchy snappy",
+    "dishForm": "Tacos"
+  }
+}
