@@ -1,0 +1,104 @@
+{
+  "title": "Creamy Coconut Jamaican Vegetable Curry",
+  "description": "A peppery and silky monsoon Jamaican dish featuring a hint of powdered sugar, this curry is a delightful blend of flavors, served in a traditional lotus-leaf-wrap vessel, and is Jain-friendly, making it accessible to a wide range of diets.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "Jain",
+    "Vegetarian",
+    "Vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "powdered sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "mixed vegetables",
+      "amount": "2 cups",
+      "notes": "such as bell peppers, carrots, and potatoes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pan over medium heat.",
+    "Add the onion, garlic, and ginger, and saute until the onion is translucent.",
+    "Add the curry powder and cook for 1 minute, stirring constantly.",
+    "Add the mixed vegetables, salt, and black pepper, and cook for 5 minutes, stirring occasionally.",
+    "Pour in the coconut milk and bring the mixture to a simmer.",
+    "Reduce the heat to low and let cook for 10 minutes, stirring occasionally.",
+    "Stir in the powdered sugar and cook for an additional 2 minutes.",
+    "Deglaze the pan with a little water if the curry is too thick.",
+    "Serve the curry in lotus-leaf-wraps, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caribbean",
+    "coconut-based",
+    "jain-friendly",
+    "one-pot",
+    "spicy",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "creamy-coconut-jamaican-vegetable-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-coconut-jamaican-vegetable-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:40:33Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "silky",
+    "mood": "monsoon",
+    "technique": "deglaze",
+    "primaryIngredient": "powdered sugar",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "vegetables",
+    "descriptor": "creamy coconut",
+    "dishForm": "Curry"
+  }
+}
