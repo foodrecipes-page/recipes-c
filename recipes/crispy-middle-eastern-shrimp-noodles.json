@@ -1,0 +1,102 @@
+{
+  "title": "Crispy Middle Eastern Shrimp Noodles",
+  "description": "Buttery and snappy, this kid-friendly Middle Eastern dish features brown rice noodles and is pescatarian-friendly, served in a bamboo steamer.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "brown rice noodles",
+      "amount": "8 oz",
+      "notes": "cooked and drained"
+    },
+    {
+      "name": "large shrimp",
+      "amount": "1 lb",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Rinse the cooked brown rice noodles with cold water and set aside.",
+    "In a large bowl, whisk together smoked paprika, cumin, coriander, salt, and black pepper.",
+    "Add the peeled and deveined shrimp to the bowl and toss to coat with the spice mixture.",
+    "Heat 1 tablespoon of unsalted butter in a large skillet over medium-high heat.",
+    "Add the shrimp to the skillet and cook for 2-3 minutes per side, until pink and cooked through.",
+    "Remove the shrimp from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of unsalted butter.",
+    "Add the cooked brown rice noodles to the skillet and stir to coat with the butter.",
+    "Return the cooked shrimp to the skillet and stir to combine with the noodles.",
+    "Squeeze the lemon juice over the top of the shrimp and noodles.",
+    "Transfer the mixture to a bamboo steamer and garnish with chopped fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bamboo-steamer",
+    "kid-friendly",
+    "middle-eastern",
+    "noodle-dish",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "crispy-middle-eastern-shrimp-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-middle-eastern-shrimp-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:42:58Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "snappy",
+    "mood": "kid-friendly",
+    "technique": "smoke-hot",
+    "primaryIngredient": "brown rice noodle",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "shrimp",
+    "descriptor": "crispy caramelized",
+    "dishForm": "Noodles"
+  }
+}
