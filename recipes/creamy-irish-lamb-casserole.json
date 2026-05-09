@@ -1,0 +1,107 @@
+{
+  "title": "Creamy Irish Lamb Casserole",
+  "description": "A hearty and flavorful Irish dish featuring lamb, massaman paste, and lacquer glaze, made diabetic-friendly with careful ingredient selection. This recipe is designed for meal prep and can be cooked to perfection in a raclette grill.",
+  "cuisine": "Irish",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless and cut into 1-inch cubes"
+    },
+    {
+      "name": "massaman paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "low-fat cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette grill to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together massaman paste, lacquer glaze, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the paste mixture.",
+    "In a separate bowl, combine the chopped onion, sliced carrots, and sliced potatoes.",
+    "Add the low-fat cream to the bowl with the onion mixture and stir to combine.",
+    "Add the cream mixture to the lamb mixture and stir gently to combine.",
+    "Transfer the mixture to a raclette grill-safe dish and cook for 45 minutes.",
+    "Sprinkle the chopped parsley over the top of the casserole and cook for an additional 10 minutes.",
+    "Remove the casserole from the grill and let it rest for 10 minutes before serving.",
+    "Serve the casserole hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 55,
+  "totalTimeMin": 85,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "gluten-free",
+    "irish-cuisine",
+    "lamb-recipes",
+    "meal-prep",
+    "one-pan",
+    "raclette-grill"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "creamy-irish-lamb-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-irish-lamb-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:19:36Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "molten",
+    "mood": "meal-prep",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "massaman-paste",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "lamb",
+    "descriptor": "Creamy Chipotle",
+    "dishForm": "Casserole"
+  }
+}
