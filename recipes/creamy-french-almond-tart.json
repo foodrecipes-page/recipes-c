@@ -1,0 +1,101 @@
+{
+  "title": "Creamy French Almond Tart",
+  "description": "A traditional Normandy dessert featuring ground almonds and a caramelized flambe, with a briny and chewy texture, and tamasic-friendly ingredients according to Ayurvedic principles.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ground almonds",
+      "amount": "1 1/2 cups",
+      "notes": "blanched and finely ground"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "4"
+    },
+    {
+      "name": "pure vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fleur de sel",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Grand Marnier",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "confectioners sugar",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a medium bowl, whisk together the ground almonds, granulated sugar, and fleur de sel.",
+    "In a large bowl, whisk together the melted butter, eggs, and vanilla extract.",
+    "Add the almond mixture to the butter mixture and stir until well combined.",
+    "Roll out the dough on a lightly floured surface to a thickness of about 1/8 inch.",
+    "Transfer the dough to a 9-inch tart pan with a removable bottom.",
+    "In a small saucepan, combine the heavy cream and Grand Marnier, and bring to a simmer over medium heat.",
+    "Flambe the cream mixture by igniting it with a match and letting it burn for about 30 seconds.",
+    "Pour the flambeed cream mixture over the tart and smooth the top.",
+    "Bake the tart for 35-40 minutes, or until the edges are golden brown and the center is set.",
+    "Allow the tart to cool completely on a wire rack.",
+    "Just before serving, dust the tart with confectioners sugar."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 40,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "almond-based",
+    "flambe",
+    "french-pastry",
+    "gluten-free",
+    "tamasic-friendly",
+    "vegetarian-dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 25,
+    "fat": 22
+  },
+  "slug": "creamy-french-almond-tart",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-french-almond-tart",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-09T21:19:37Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "chewy",
+    "mood": "nostalgic",
+    "technique": "flambe",
+    "primaryIngredient": "ground almonds",
+    "diet": "ayurvedic-tamasic",
+    "region": "normandy",
+    "cuisineAdjective": "French",
+    "mainIngredient": "almonds",
+    "descriptor": "Chewy Creamy",
+    "dishForm": "Tart"
+  }
+}
