@@ -1,0 +1,108 @@
+{
+  "title": "Charred Juicy Malaysian Seafood Satay",
+  "description": "Grilled seafood skewers with a spicy and savory Malaysian twist. This dish is perfect for a dinner party or special occasion.",
+  "cuisine": "malaysian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "mussels",
+      "amount": "1 cup",
+      "notes": "scrubbed and debearded"
+    },
+    {
+      "name": "squid",
+      "amount": "1 cup",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fermented kimchi",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread chicken, shrimp, mussels, and squid onto skewers.",
+    "In a small bowl, whisk together coconut milk, fish sauce, lime juice, ginger, and sea salt.",
+    "Brush the seafood skewers with the marinade and let it sit for at least 30 minutes.",
+    "Grill the skewers for 8-10 minutes, or until the seafood is cooked through.",
+    "Meanwhile, heat a small saucepan over medium heat and add the fermented kimchi.",
+    "Stir the kimchi constantly until it is slightly caramelized, about 5 minutes.",
+    "Serve the seafood skewers with the spicy kimchi sauce and garnish with fresh cilantro.",
+    "Let the dish rest for 5 minutes before serving.",
+    "Slice the skewers and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "dinner-party",
+    "grilled",
+    "high-protein",
+    "indoor-grill",
+    "malaysian-cuisine",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 54,
+    "carbs": 14,
+    "fat": 34
+  },
+  "slug": "charred-juicy-malaysian-seafood-satay",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-juicy-malaysian-seafood-satay",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:48:02Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "juicy",
+    "mood": "show-off",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "sea salt",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Seafood",
+    "descriptor": "charred juicy",
+    "dishForm": "Satay"
+  }
+}
