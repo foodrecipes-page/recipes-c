@@ -1,0 +1,95 @@
+{
+  "title": "Crispy Fermented Brazilian Rice Flour Pancakes",
+  "description": "A crispy and flavorful solo dinner dish featuring fermented rice flour pancakes, served with a nimono simmer, this recipe is macrobiotic friendly and cooked to perfection on a raclette grill.",
+  "cuisine": "brazilian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice flour",
+      "amount": "2 cups",
+      "notes": "preferably fermented for 24 hours"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "nimono simmer sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the fermented rice flour, water, coconut oil, salt, and sugar to form a smooth batter.",
+    "Heat the raclette grill to medium high heat and brush with a small amount of coconut oil.",
+    "Using a 1/4 cup measuring cup, scoop the batter onto the grill and cook for 2-3 minutes on each side, until crispy and golden brown.",
+    "While the pancakes are cooking, heat the nimono simmer sauce in a small saucepan over low heat.",
+    "Once the pancakes are cooked, place them on a plate and brush with the warm nimono simmer sauce.",
+    "Sprinkle the chopped scallions and sesame seeds over the top of the pancakes.",
+    "Serve immediately and enjoy.",
+    "Repeat the cooking process until all the batter is used up, about 8-10 pancakes.",
+    "Keep the cooked pancakes warm in a low temperature oven while cooking the remaining batter."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "crispy",
+    "fermented",
+    "macrobiotic",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "crispy-fermented-brazilian-rice-flour-pancakes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-fermented-brazilian-rice-flour-pancakes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:48:53Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crispy",
+    "mood": "solo-dinner",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "rice flour pancakes",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "rice flour",
+    "descriptor": "Crispy Fermented",
+    "dishForm": "Pancakes"
+  }
+}
