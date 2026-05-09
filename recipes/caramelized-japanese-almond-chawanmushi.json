@@ -1,0 +1,100 @@
+{
+  "title": "Caramelized Japanese Almond Chawanmushi",
+  "description": "A traditional Japanese steamed egg custard dish with a caramelized almond flour twist, featuring anti-inflammatory friendly ingredients and a kid-friendly flavor profile. This floral and glassy-jelly dessert is a classic Shikoku dish",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "1 cup",
+      "notes": "finely ground"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup",
+      "notes": "granulated"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "cold"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 teaspoon",
+      "notes": "pure"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/4 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "ginger",
+      "amount": "1/4 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "caramel sauce",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat the steamer to 200 degrees Fahrenheit",
+    "In a medium bowl, whisk together the almond flour, sugar, and turmeric",
+    "In a large bowl, whisk together the eggs, water, and vanilla extract",
+    "Gradually add the dry ingredients to the wet ingredients and whisk until smooth",
+    "Strain the mixture into small cups or ramekins",
+    "Place the cups in the steamer and steam for 12 minutes",
+    "While the chawanmushi is steaming, heat the caramel sauce in a small saucepan over low heat",
+    "Remove the chawanmushi from the steamer and drizzle with the caramel sauce",
+    "Serve warm or at room temperature"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "almond-flour",
+    "anti-inflammatory",
+    "caramelized",
+    "japanese-dessert",
+    "kid-friendly",
+    "steamed-egg"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "caramelized-japanese-almond-chawanmushi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/caramelized-japanese-almond-chawanmushi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:45:03Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "glassy-jelly",
+    "mood": "kid-friendly",
+    "technique": "caramelize",
+    "primaryIngredient": "almond flour",
+    "diet": "anti-inflammatory",
+    "region": "shikoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "almonds",
+    "descriptor": "Caramelized",
+    "dishForm": "Chawanmushi"
+  }
+}
