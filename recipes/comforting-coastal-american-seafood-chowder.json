@@ -1,0 +1,104 @@
+{
+  "title": "Comforting Coastal American Seafood Chowder",
+  "description": "A spicy and comforting American seafood dish featuring a rich seafood stock and salt-bake flavors, served in a mason jar.",
+  "cuisine": "American",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "seafood stock",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "cod fillets",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1/2 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "mussels",
+      "amount": "1/2 pound",
+      "notes": "scrubbed and debearded"
+    },
+    {
+      "name": "salt-bake seasoning",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine seafood stock, salt-bake seasoning, onion, and garlic, and bring to a boil over high heat.",
+    "Reduce heat to medium-low and simmer for 10 minutes.",
+    "Add cod fillets, shrimp, and mussels to the pot, and cook until the seafood is opaque and flaky.",
+    "Stir in diced tomatoes and cook for an additional 2 minutes.",
+    "Use an immersion blender to puree the soup until slightly smooth.",
+    "If desired, stir in heavy cream to add richness and creaminess.",
+    "Ladle the chowder into mason jars and serve immediately.",
+    "Garnish with chopped fresh parsley or chives, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "american-cuisine",
+    "comfort-food",
+    "halal-friendly",
+    "mason-jar",
+    "one-pot",
+    "seafood",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "comforting-coastal-american-seafood-chowder",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/comforting-coastal-american-seafood-chowder",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:36:02Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "snappy",
+    "mood": "comforting",
+    "technique": "salt-bake",
+    "primaryIngredient": "seafood stock",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "seafood",
+    "descriptor": "Comforting Coastal",
+    "dishForm": "Chowder"
+  }
+}
