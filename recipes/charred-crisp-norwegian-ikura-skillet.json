@@ -1,0 +1,112 @@
+{
+  "title": "Charred Crisp Norwegian Ikura Skillet",
+  "description": "A show-off Norwegian dish featuring ikura, with a charred and crispy exterior and a molten, earthy interior, suitable for a special occasion.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "pescatarian",
+    "vegan-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rapeseed oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ikura",
+      "amount": "200g"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "a sprig"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Spherical agar agar",
+      "amount": "10g"
+    },
+    {
+      "name": "Water",
+      "amount": "50ml"
+    },
+    {
+      "name": "Safflower oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the rapeseed oil in a wok over medium-high heat.",
+    "Add the garlic and sauté for 1 minute until fragrant.",
+    "Add the ikura and cook for 2 minutes on each side, until charred and crispy.",
+    "Remove the ikura from the wok and set aside.",
+    "In the same wok, add the sesame oil and sauté the fresh dill for 30 seconds.",
+    "Add the spherical agar agar mixture and cook for 2 minutes, until it starts to set.",
+    "Add the sour cream and lemon juice to the wok, and stir to combine.",
+    "Return the ikura to the wok and toss to coat with the sauce.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the ikura to a serving plate and garnish with additional fresh dill if desired.",
+    "Drizzle the safflower oil over the top of the ikura and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "pescatarian",
+    "seafood",
+    "special-occasion",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "charred-crisp-norwegian-ikura-skillet",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-crisp-norwegian-ikura-skillet",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T04:23:47Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "molten",
+    "mood": "show-off",
+    "technique": "spherify",
+    "primaryIngredient": "ikura",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Ikura",
+    "descriptor": "Charred Crisp",
+    "dishForm": "Skillet"
+  }
+}
