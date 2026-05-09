@@ -1,0 +1,105 @@
+{
+  "title": "Citrusy Saudi-Arabian Lemon Fried Rice",
+  "description": "A weeknight friendly, satvik compliant, Saudi-Arabian dish featuring the bright flavors of lemon and the comforting texture of fried rice.",
+  "cuisine": "saudi-arabian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "green chili",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium-high.",
+    "Add the onion, ginger, and green chili, and stir-fry until the onion is translucent.",
+    "Add the rice and stir-fry until the rice is lightly toasted.",
+    "Add the lemon juice, lemon zest, chicken broth, salt, and black pepper.",
+    "Bring the mixture to a boil, then reduce the heat to low and cover.",
+    "Simmer for 5 minutes, or until the liquid has been absorbed.",
+    "Remove the skillet from the heat and stir in the chopped cilantro.",
+    "Serve the citrusy Saudi-Arabian lemon fried rice hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "fried-rice",
+    "high-protein",
+    "lemon",
+    "one-pan",
+    "saudi-arabian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "citrusy-saudi-arabian-lemon-fried-rice",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-saudi-arabian-lemon-fried-rice",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:49:49Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "bouncy-qq",
+    "mood": "weeknight",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "lemon",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "saudi-arabian",
+    "mainIngredient": "lemon",
+    "descriptor": "citrusy",
+    "dishForm": "fried-rice"
+  }
+}
