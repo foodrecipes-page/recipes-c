@@ -1,0 +1,99 @@
+{
+  "title": "Creamy Vietnamese Mars Bar Wrap",
+  "description": "A spicy and energizing Vietnamese dish featuring Mars bar, wrapped in a corn husk, perfect for a unique dessert or snack. This dish is kneaded to perfection and is onion and garlic friendly.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Mars bar",
+      "amount": "4",
+      "notes": "chopped"
+    },
+    {
+      "name": "corn husk",
+      "amount": "4",
+      "notes": "fresh"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "sriracha sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "granulated"
+    },
+    {
+      "name": "cream",
+      "amount": "1/2 cup",
+      "notes": "heavy"
+    },
+    {
+      "name": "rice flour",
+      "amount": "1 cup",
+      "notes": "for kneading"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Knead the rice flour with a small amount of water until it forms a dough.",
+    "Wrap the dough in a damp cloth and let it rest for 10 minutes.",
+    "In a blender, combine the coconut milk, fish sauce, sriracha sauce, and sugar, and blend until smooth.",
+    "Add the heavy cream to the blender and blend until well combined.",
+    "Chop the Mars bar into small pieces and fold them into the coconut milk mixture.",
+    "Spoon the mixture onto the center of a corn husk.",
+    "Fold the corn husk over the filling to form a wrap.",
+    "Place the wraps on a baking sheet and bake for 10 minutes.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-milk",
+    "corn-husk-wrap",
+    "spicy-food",
+    "unique-dessert",
+    "vietnamese-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "creamy-vietnamese-mars-bar-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-vietnamese-mars-bar-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:45:47Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "juicy",
+    "mood": "energizing",
+    "technique": "knead",
+    "primaryIngredient": "mars bar",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Mars Bar",
+    "descriptor": "Creamy Crunchy",
+    "dishForm": "Wrap"
+  }
+}
