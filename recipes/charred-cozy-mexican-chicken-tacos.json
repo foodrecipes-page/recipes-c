@@ -1,0 +1,96 @@
+{
+  "title": "Charred Cozy Mexican Chicken Tacos",
+  "description": "A cozy Mexican dish featuring charred chicken, crunchy graham cracker crumbs, and fresh toppings, all wrapped in a warm tortilla. This egg-free friendly recipe is perfect for a weeknight dinner.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "graham cracker crumbs",
+      "amount": "1 cup",
+      "notes": "finely ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "taco seasoning",
+      "amount": "1 packet"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, making sure it reaches 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lime juice, and taco seasoning.",
+    "Add the chicken pieces to the bowl and toss to coat with the marinade.",
+    "Sprinkle the graham cracker crumbs over the chicken and toss again to coat evenly.",
+    "Grill the chicken for 5-6 minutes per side, or until it reaches an internal temperature of 165 degrees Fahrenheit.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing the charred chicken onto a tortilla, followed by shredded cheese, diced tomatoes, and chopped cilantro.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cozy-dinner",
+    "grilled-chicken",
+    "mexican-food",
+    "one-pan-meal",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "charred-cozy-mexican-chicken-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-cozy-mexican-chicken-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:07:02Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "shattering",
+    "mood": "cozy",
+    "technique": "grill",
+    "primaryIngredient": "graham cracker crumbs",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chicken",
+    "descriptor": "charred cozy",
+    "dishForm": "Tacos"
+  }
+}
