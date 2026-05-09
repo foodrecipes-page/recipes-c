@@ -1,0 +1,122 @@
+{
+  "title": "Citrusy Jelly Argentinian Olives Tagine",
+  "description": "A festive Argentinian dish featuring glassy jelly and olives in a traditional cataplana, perfect for special occasions. Serve warm, garnished with fresh herbs.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian",
+    "jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kalamata olives",
+      "amount": "1 cup, pitted",
+      "notes": ""
+    },
+    {
+      "name": "Green olives",
+      "amount": "1 cup, pitted",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium, thinly sliced",
+      "notes": ""
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium, thinly sliced",
+      "notes": ""
+    },
+    {
+      "name": "Grapefruit juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece, grated",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fenugreek leaves",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large cataplana over medium heat.",
+    "Add sliced onion and cook until translucent, about 8 minutes.",
+    "Add sliced bell pepper and cook for an additional 4 minutes.",
+    "Add garlic, ginger, and cinnamon, and cook for 1 minute, until fragrant.",
+    "Add tomato paste and cook, stirring constantly, for 2 minutes.",
+    "Add water, grapefruit and lemon juice, honey, and chopped fenugreek leaves.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 20 minutes.",
+    "Add pitted olives and cook for an additional 10 minutes, until olives are tender.",
+    "Remove from heat and let cool slightly.",
+    "Transfer cataplana to an ice bath to shock, and let cool completely.",
+    "Refrigerate for at least 2 hours before serving.",
+    "Serve warm, garnished with fresh herbs.",
+    "Reheat gently before serving, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "one-pan",
+    "special-occasion",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "citrusy-jelly-argentinian-olives-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-jelly-argentinian-olives-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:46:11Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "glassy-jelly",
+    "mood": "festive",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "olives",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Olives",
+    "descriptor": "Citrusy Jelly",
+    "dishForm": "Tagine"
+  }
+}
