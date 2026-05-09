@@ -1,0 +1,101 @@
+{
+  "title": "Cozy Cheesy British Sausages Toad In The Hole",
+  "description": "A hearty, cheesy British dish featuring sausages cooked in a yellow masarepa crust, perfect for a cozy night in. This shojin-friendly recipe is slow-cooked to perfection.",
+  "cuisine": "British",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yellow masarepa",
+      "amount": "2 cups",
+      "notes": "also known as cornmeal"
+    },
+    {
+      "name": "vegetarian sausages",
+      "amount": "4",
+      "notes": "preferably British-style"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "cheese",
+      "amount": "1 cup",
+      "notes": "shredded, preferably cheddar"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the yellow masarepa, melted butter, and a pinch of salt.",
+    "Gradually add the milk to the bowl, stirring until a smooth batter forms.",
+    "Add the shredded cheese, chopped onion, and a pinch of pepper to the bowl, stirring until well combined.",
+    "Crack in the eggs and stir until the batter is smooth and creamy.",
+    "Pour the batter into a greased 9x13 inch baking dish.",
+    "Make 4 holes in the batter, spaced evenly apart, and place a sausage in each hole.",
+    "Bake the toad in the hole for 35-40 minutes, or until the crust is golden brown and the sausages are cooked through.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving.",
+    "Serve the cozy cheesy British sausages toad in the hole hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pan",
+    "shojin-friendly",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "cozy-cheesy-british-sausages-toad-in-the-hole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-cheesy-british-sausages-toad-in-the-hole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:25:56Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "cheese-pull",
+    "mood": "cozy",
+    "technique": "slow-cook",
+    "primaryIngredient": "yellow masarepa",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "sausages",
+    "descriptor": "Cozy Cheesy",
+    "dishForm": "Toad In The Hole"
+  }
+}
