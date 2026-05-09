@@ -1,0 +1,98 @@
+{
+  "title": "Crunchy Bitter Uruguayan Vegetable Skewers",
+  "description": "A flavorful and crunchy Uruguayan dish featuring bitter vegetables, seasoned rice vinegar, and a satvik-friendly approach, perfect for a weeknight dinner.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cauliflower",
+      "amount": "1 head",
+      "notes": "broken into florets"
+    },
+    {
+      "name": "broccoli",
+      "amount": "1 head",
+      "notes": "broken into florets"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together rice vinegar, olive oil, salt, black pepper, and garlic powder.",
+    "Add the cauliflower, broccoli, carrots, and red bell pepper to the bowl and toss to coat with the marinade.",
+    "Thread the marinated vegetables onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 12-15 minutes, turning occasionally, until the vegetables are tender and lightly charred.",
+    "Serve the skewers hot, garnished with chopped fresh parsley if desired.",
+    "Let the skewers cool for a few minutes before serving.",
+    "Serve with a side of quinoa or brown rice for a filling dinner."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "healthy",
+    "satvik",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 2
+  },
+  "slug": "crunchy-bitter-uruguayan-vegetable-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-bitter-uruguayan-vegetable-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:18:55Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crunchy",
+    "mood": "weeknight",
+    "technique": "grill",
+    "primaryIngredient": "seasoned rice vinegar",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "vegetables",
+    "descriptor": "Crunchy bitter",
+    "dishForm": "Skewers"
+  }
+}
