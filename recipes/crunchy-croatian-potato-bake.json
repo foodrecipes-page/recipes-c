@@ -1,0 +1,94 @@
+{
+  "title": "Crunchy Croatian Potato Bake",
+  "description": "A light and crunchy Croatian dish featuring potatoes, salt-bake, and a hint of wine, made in a comal for a delicious and anti-inflammatory friendly meal.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rosemary",
+      "amount": "2 sprigs",
+      "notes": "chopped"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the sliced potatoes with olive oil, salt, black pepper, and garlic powder until they are evenly coated.",
+    "Arrange the potatoes in a single layer on the preheated comal.",
+    "Roast the potatoes in the oven for 20 minutes, or until they start to brown.",
+    "Remove the comal from the oven and brush the potatoes with red wine.",
+    "Return the comal to the oven and continue to roast for an additional 15 minutes, or until the potatoes are crispy and golden brown.",
+    "Remove the comal from the oven and sprinkle the chopped rosemary and shredded grana padano cheese over the potatoes.",
+    "Return the comal to the oven and bake for an additional 5 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "crunchy",
+    "gluten-free",
+    "potato-bake",
+    "vegetarian",
+    "wine-infused"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "crunchy-croatian-potato-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-croatian-potato-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:08:41Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crunchy",
+    "mood": "light",
+    "technique": "salt-bake",
+    "primaryIngredient": "potatoes",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "potatoes",
+    "descriptor": "crunchy comal baked",
+    "dishForm": "Bake"
+  }
+}
