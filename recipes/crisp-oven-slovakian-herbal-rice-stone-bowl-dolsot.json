@@ -1,0 +1,78 @@
+{
+  "title": "Slovakian Herbal Rice Stone-Bowl-Dolsot",
+  "description": "A crisp and flavorful Slovakian dish featuring herbal rice, wine, and a stone bowl. Kid-friendly and kosher-friendly, this recipe is great for a weeknight dinner.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "basmati rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "dried rosemary",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Heat the butter in a large saucepan over medium heat.",
+    "Add the thyme and rosemary to the saucepan and cook for 1 minute.",
+    "Add the chicken broth and white wine to the saucepan and bring to a boil.",
+    "Add the basmati rice to the saucepan and stir to coat with the liquid.",
+    "Transfer the saucepan to a stone bowl or a ceramic dish with a heat-proof handle.",
+    "Cover the bowl with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 5-10 minutes, or until the rice is tender and crispy on the bottom.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "herbal",
+    "kid-friendly",
+    "kosher",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 70,
+    "fat": 12
+  },
+  "slug": "crisp-oven-slovakian-herbal-rice-stone-bowl-dolsot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-oven-slovakian-herbal-rice-stone-bowl-dolsot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:05:35Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crisp",
+    "mood": "kid-friendly",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "rice wine",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "herbal rice",
+    "descriptor": "crisp oven",
+    "dishForm": "stone-bowl-dolsot"
+  }
+}
