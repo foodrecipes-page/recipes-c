@@ -1,0 +1,111 @@
+{
+  "title": "Classic Chinese Tofu Mapo Tofu",
+  "description": "A tangy and light Chinese dish featuring jasmine rice and tofu, pressure-cooked to perfection, this kosher-friendly recipe is a quick-fix solution for a delicious meal.",
+  "cuisine": "Chinese",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "jasmine rice",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "cut into small cubes"
+    },
+    {
+      "name": "ground pork",
+      "amount": "1/2 pound",
+      "notes": "optional"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "szechuan peppercorns",
+      "amount": "1 teaspoon",
+      "notes": "toasted and ground"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in the pressure cooker over medium heat.",
+    "Add the grated ginger and minced garlic and cook until fragrant.",
+    "Add the ground pork, if using, and cook until browned, breaking it up into small pieces.",
+    "Add the soy sauce, rice vinegar, szechuan peppercorns, and red pepper flakes, and stir to combine.",
+    "Add the cubed tofu and stir gently to combine.",
+    "Add the chopped scallions and stir to combine.",
+    "Close the lid of the pressure cooker and cook for 10 minutes.",
+    "Let the pressure release naturally, then open the lid and stir the mapo tofu.",
+    "Serve the mapo tofu over cooked jasmine rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "kosher",
+    "one-pot",
+    "pressure-cooker",
+    "quick-fix",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "classic-chinese-tofu-mapo-tofu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/classic-chinese-tofu-mapo-tofu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:11:08Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "light",
+    "mood": "quick-fix",
+    "technique": "pressure-cook",
+    "primaryIngredient": "jasmine rice",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "tofu",
+    "descriptor": "Classic Chinese",
+    "dishForm": "Mapo Tofu"
+  }
+}
