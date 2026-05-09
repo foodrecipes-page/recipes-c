@@ -1,0 +1,104 @@
+{
+  "title": "Citrusy Fluffy Comforting Peruvian Jumbo Shrimp Relleno",
+  "description": "Peruvian dish featuring jumbo shrimp, grill, and whole30-friendly ingredients in a rocoto relleno form wrapped in pandan leaf.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jumbo Shrimp",
+      "amount": "12 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Pandan leaves",
+      "amount": "",
+      "notes": "use 4-6 leaves depending on size for wrapping"
+    },
+    {
+      "name": "Rocoto pepper",
+      "amount": "4",
+      "notes": "large, firm, preferably organic"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed, or sub with lemon juice"
+    },
+    {
+      "name": "White onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced, preferably organic"
+    },
+    {
+      "name": "Ginger, fresh",
+      "amount": "2 inches",
+      "notes": "peeled, thinly sliced, preferably organic"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/2 cup",
+      "notes": "chopped, preferably organic"
+    },
+    {
+      "name": "Garlic, fresh",
+      "amount": "2 cloves",
+      "notes": "minced, preferably organic"
+    },
+    {
+      "name": "Aji amarillo pepper",
+      "amount": "1 teaspoon",
+      "notes": "dried, or sub with jalape\u00185o powder"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "preferably organic, flaky sea salt"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "melted, or sub with avocado oil"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (around 400°F or 200°C)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grill",
+    "peruvian",
+    "shrimp",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 72,
+    "carbs": 6,
+    "fat": 24
+  },
+  "slug": "citrusy-fluffy-comforting-peruvian-jumbo-shrimp-relleno",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-fluffy-comforting-peruvian-jumbo-shrimp-relleno",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:46:56Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "fluffy",
+    "mood": "comforting",
+    "technique": "grill",
+    "primaryIngredient": "jumbo shrimp",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Jumbo shrimp",
+    "descriptor": "Citrusy fluffy comforting",
+    "dishForm": "Relleno"
+  }
+}
