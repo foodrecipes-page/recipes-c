@@ -1,0 +1,107 @@
+{
+  "title": "Charred Creamy Indian Vermicelli Paratha",
+  "description": "A charred, pillowy, lazy-sunday Indian dish featuring vermicelli pasta, wok-hei, and low-glycemic-friendly ingredients, formed into a paratha.",
+  "cuisine": "Indian",
+  "diet": [
+    "low-glycemic",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "vermicelli pasta",
+      "amount": "1 cup",
+      "notes": "broken into small pieces"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "curry leaves",
+      "amount": "10",
+      "notes": "fresh"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "whole wheat flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Heat ghee in a large skillet over medium heat.",
+    "Add chopped onion and cook until it is translucent.",
+    "Add minced garlic and grated ginger and cook for 1 minute.",
+    "Add curry leaves and cook until they are fragrant.",
+    "Add broken vermicelli pasta and cook for 2 minutes.",
+    "In a large bowl, combine whole wheat flour, salt, and cooked vermicelli pasta mixture.",
+    "Add yogurt and water to the bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it is smooth.",
+    "Divide the dough into 4 equal parts and roll each part into a ball.",
+    "Roll each ball into a thin circle.",
+    "Heat a non-stick skillet over medium heat and cook each paratha for 2 minutes on each side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian-breakfast",
+    "lazy-sunday",
+    "low-glycemic",
+    "paratha-recipe",
+    "vegetarian-option",
+    "weekend-brunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "charred-creamy-indian-vermicelli-paratha",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-creamy-indian-vermicelli-paratha",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:04:01Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "pillowy",
+    "mood": "lazy-sunday",
+    "technique": "wok-hei",
+    "primaryIngredient": "vermicelli pasta",
+    "diet": "low-glycemic",
+    "region": "tamil",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "vermicelli pasta",
+    "descriptor": "charred creamy",
+    "dishForm": "Paratha"
+  }
+}
