@@ -1,0 +1,107 @@
+{
+  "title": "Crunchy Crisp Egyptian Grains Pilaf",
+  "description": "A flavorful and nutritious Egyptian dish featuring a mix of grains and spices, perfect for a weeknight dinner. This recipe is vegan and low-glycemic-friendly.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegan",
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "brown rice",
+      "amount": "1 cup",
+      "notes": "preferably short grain"
+    },
+    {
+      "name": "quinoa",
+      "amount": "1/2 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "freekeh",
+      "amount": "1/2 cup",
+      "notes": "cracked and toasted"
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "2 tablespoons",
+      "notes": "vegan"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the brown rice, quinoa, and freekeh, then drain and set aside.",
+    "In a large saucepan, heat the olive oil over medium heat.",
+    "Add the sliced onion and cook, stirring occasionally, until it is lightly browned and crispy.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the brown rice, quinoa, freekeh, salt, black pepper, and paprika to the saucepan, stirring to combine.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce the heat to low, cover the saucepan, and simmer for 20 minutes, or until the water is absorbed and the grains are tender.",
+    "While the grains are cooking, prepare the mushimono-steam by boiling 2 cups of water in a separate saucepan.",
+    "Once the grains are cooked, fluff them with a fork and stir in the white wine vinegar.",
+    "Serve the pilaf hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grain-bowl",
+    "low-glycemic",
+    "middle-eastern",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "crunchy-crisp-egyptian-grains-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-crisp-egyptian-grains-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:10:30Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "snappy",
+    "mood": "monsoon",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "vegan white wine vinegar",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "grains",
+    "descriptor": "crunchy crisp",
+    "dishForm": "Pilaf"
+  }
+}
