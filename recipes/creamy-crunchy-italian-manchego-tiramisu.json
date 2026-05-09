@@ -1,0 +1,95 @@
+{
+  "title": "Creamy Crunchy Italian Manchego Tiramisu",
+  "description": "A gluten-free-friendly, briny and glassy-jelly Italian weeknight dish featuring manchego cheese in the form of creamy, crunchy tiramisu.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Manchego cheese, crumbled",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Ladyfingers",
+      "amount": "12-16",
+      "notes": "gluten-free, such as corn flour ladyfingers"
+    },
+    {
+      "name": "Italian espresso",
+      "amount": "",
+      "notes": "or strong brewed coffee"
+    },
+    {
+      "name": "Raspberry jam",
+      "amount": "4 oz",
+      "notes": "or other sweet and tart jam"
+    },
+    {
+      "name": "Fresh raspberries",
+      "amount": "1 cup",
+      "notes": "optional, for garnish"
+    },
+    {
+      "name": "Balsamic vinegar",
+      "amount": "2 tbsp",
+      "notes": "reduced and thickened"
+    },
+    {
+      "name": "Grana Padano",
+      "amount": "1/4 cup, grated",
+      "notes": ""
+    },
+    {
+      "name": "Xylitol",
+      "amount": "2 tbsp",
+      "notes": "or other sugar substitute"
+    },
+    {
+      "name": "Egg yolks",
+      "amount": "2 large",
+      "notes": "room temperature"
+    }
+  ],
+  "instructions": [
+    "Mix 1/2 cup xylitol and 2 egg yolks in a medium bowl until smooth and light."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "gluten-free",
+    "italian",
+    "low-carb",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 24,
+    "fat": 16
+  },
+  "slug": "creamy-crunchy-italian-manchego-tiramisu",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-crunchy-italian-manchego-tiramisu",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:57:18Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "glassy-jelly",
+    "mood": "weeknight",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "manchego",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "manchego",
+    "descriptor": "Creamy Crunchy",
+    "dishForm": "Tiramisu"
+  }
+}
