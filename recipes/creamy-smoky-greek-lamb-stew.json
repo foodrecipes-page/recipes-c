@@ -1,0 +1,97 @@
+{
+  "title": "Creamy Smoky Greek Lamb Stew",
+  "description": "A rich and smoky Greek lamb stew with a velvety texture, served with crumbled muffins, this solo dinner dish is a hearty and comforting meal.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "raw-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "mirepoix",
+      "amount": "1 cup",
+      "notes": "chopped carrots, celery, and onion"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "english muffins",
+      "amount": "2",
+      "notes": "toasted and crumbled"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Heat a Dutch oven over medium-high heat and sear the lamb cubes until browned on all sides.",
+    "Add the mirepoix to the pot and cook until the vegetables are tender.",
+    "Add the garlic, smoked paprika, and dried oregano to the pot and cook for 1 minute.",
+    "Add the heavy cream to the pot and stir to combine.",
+    "Bring the mixture to a simmer and cook for 10 minutes.",
+    "Stir in the crumbled feta cheese and cook until melted.",
+    "Serve the stew hot, topped with toasted and crumbled English muffins.",
+    "Let the stew rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "greek-cuisine",
+    "lamb-recipes",
+    "one-pan",
+    "smoky-flavors",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 820,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 60
+  },
+  "slug": "creamy-smoky-greek-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-smoky-greek-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:40:38Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "velvety",
+    "mood": "solo-dinner",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "muffins",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "Creamy Smoky",
+    "dishForm": "Stew"
+  }
+}
