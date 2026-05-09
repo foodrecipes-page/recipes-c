@@ -1,0 +1,105 @@
+{
+  "title": "Charred Smoky Ukrainian Meat Kebabs",
+  "description": "These Ukrainian meat kebabs are marinated in a sweet and tangy pomegranate molasses mixture, then grilled to perfection for a charred, gooey texture.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "beef striploin",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "60ml",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "20ml",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "10g",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "10g",
+      "notes": "chopped"
+    },
+    {
+      "name": "sea salt",
+      "amount": "5g",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "2g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Using a meat thermometer, cook the pork shoulder to 63°C, then set aside to cool. Cut into 2.5cm cubes.",
+    "Cut the beef striploin into 2.5cm cubes.",
+    "In a large bowl, whisk together pomegranate molasses, olive oil, garlic, thyme, rosemary, sea salt, and black pepper.",
+    "Add the pork and beef cubes to the marinade, and mix to coat.",
+    "Refrigerate for at least 2 hours, or overnight.",
+    "Preheat a sous vide water bath to 60°C.",
+    "Place the marinated meat cubes in a sous vide bag, and seal.",
+    "Cook the meat in the sous vide water bath for 4 hours.",
+    "Preheat a grill to high heat.",
+    "Thread the cooked meat cubes onto skewers, leaving a 2.5cm space between each cube.",
+    "Grill the kebabs for 2-3 minutes per side, or until charred and slightly caramelized."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 240,
+  "totalTimeMin": 270,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bbq",
+    "high-protein",
+    "kebabs",
+    "one-pan",
+    "outdoor",
+    "summer",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 120,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "charred-smoky-ukrainian-meat-kebabs",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-smoky-ukrainian-meat-kebabs",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T16:37:03Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "gooey",
+    "mood": "monsoon",
+    "technique": "sous-vide",
+    "primaryIngredient": "pomegranate molasses",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Meat",
+    "descriptor": "Charred Smoky",
+    "dishForm": "Kebabs"
+  }
+}
