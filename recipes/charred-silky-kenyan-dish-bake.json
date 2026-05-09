@@ -1,0 +1,74 @@
+{
+  "title": "Charred Silky Kenyan Dish Bake",
+  "description": "A traditional Kenyan dish featuring charred sweet potatoes and silky coconut milk, perfect for a weeknight dinner.",
+  "cuisine": "kenyan",
+  "diet": [
+    "whole30",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweeet potatoes",
+      "amount": "4-6 medium-sized",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "chilled"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit (220 degrees Celsius).",
+    "Line a baking sheet with parchment paper and arrange the sweet potatoes in a single layer.",
+    "Drizzle with 1 tablespoon of the vegetable oil and sprinkle with salt, pepper, cumin, coriander, and cayenne pepper.",
+    "Toss the sweet potatoes to coat evenly and roast in the preheated oven for 20 minutes, or until slightly charred.",
+    "While the sweet potatoes are roasting, prepare the brined then dried chicken thighs by patting them dry with paper towels and seasoning with salt and pepper.",
+    "Heat the remaining 1 tablespoon of vegetable oil in a large oven-safe skillet over medium-high heat.",
+    "Add the chicken thighs to the skillet and sear for 2-3 minutes on each side, or until browned and cooked through.",
+    "Transfer the skillet to the preheated oven and bake for an additional 10-12 minutes, or until the chicken is cooked through and slightly charred.",
+    "In a blender or food processor, combine the coconut milk, mirin, lime juice, and a pinch of salt and pepper.",
+    "Blend until smooth and creamy, then set aside.",
+    "To assemble the dish, arrange the roasted sweet potatoes on a serving platter or individual plates, then top with the baked chicken thighs and spoon the silky coconut milk sauce over the top.",
+    "Garnish with chopped fresh cilantro and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "kenyan",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "charred-silky-kenyan-dish-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-silky-kenyan-dish-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:59:55Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "silky",
+    "mood": "nostalgic",
+    "technique": "brine-dry",
+    "primaryIngredient": "mirin-hon",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "kenyan",
+    "mainIngredient": "dish",
+    "descriptor": "charred silky",
+    "dishForm": "bake"
+  }
+}

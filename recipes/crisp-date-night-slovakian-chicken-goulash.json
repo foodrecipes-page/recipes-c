@@ -1,0 +1,125 @@
+{
+  "title": "crisp date-night slovakian chicken goulash",
+  "description": "fatty, crisp, date-night slovakian dish featuring chicken stock concentrate and caramelized onions. Jain-friendly, low-acidity.",
+  "cuisine": "slovakian",
+  "diet": [
+    "jain",
+    "vegetarian",
+    "pescetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": 4,
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "large onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken stock concentrate",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sour cream",
+      "amount": "8 ounces",
+      "notes": "optional"
+    },
+    {
+      "name": "crushed saltines",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat oven to 400f.",
+    "season chicken thighs with caraway seeds, salt, and pepper.",
+    "caramelize onions in vegetable oil by cooking slowly over medium heat for 20 minutes.",
+    "in a large bowl, whisk together chicken stock concentrate, apple cider vinegar, and water to make the goulash stock.",
+    "add the cooked onions, garlic, and flour to the bowl and whisk until smooth.",
+    "heat the mixture over medium heat, stirring continuously, until it thickens.",
+    "add the chicken thighs to the bowl and coat with the goulash stock mixture.",
+    "transfer the mixture to a baking dish and bake for 25 minutes, or until the chicken is cooked through.",
+    "serve hot, garnished with chopped parsley and crushed saltines, and topped with a dollop of sour cream if desired.",
+    "cover and refrigerate leftover goulash for up to 3 days."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 25,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "date-night",
+    "high-calorie",
+    "slovakian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 60,
+    "carbs": 40,
+    "fat": 50
+  },
+  "slug": "crisp-date-night-slovakian-chicken-goulash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-date-night-slovakian-chicken-goulash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T23:00:15Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crisp",
+    "mood": "date-night",
+    "technique": "caramelize",
+    "primaryIngredient": "chicken stock concentrate",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "slovakian",
+    "mainIngredient": "chicken",
+    "descriptor": "crisp date-night",
+    "dishForm": "goulash"
+  }
+}

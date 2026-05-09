@@ -1,0 +1,116 @@
+{
+  "title": "Crispy Peppery British Penne Pasta",
+  "description": "A crispy and peppery British dish made with penne pasta, rice, and a variety of vegetables.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Penne pasta",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Fried rice (khao khua)",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Mixed bell peppers",
+      "amount": "1 cup",
+      "notes": "any color"
+    },
+    {
+      "name": "Grated carrot",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "2cm",
+      "notes": ""
+    },
+    {
+      "name": "Pepperoni",
+      "amount": "4 slices",
+      "notes": "or substitute with gluten-free alternative"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "to garnish",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large frying pan over medium-high heat.",
+    "Add the garlic and ginger and cook for 1 minute, until fragrant.",
+    "Add the mixed bell peppers and cook for 3-4 minutes, until tender.",
+    "Add the pepperoni and cook for 1-2 minutes, until crispy.",
+    "Add the cooked penne pasta and stir to combine.",
+    "Add the fried rice and stir-fry for 1-2 minutes, until combined.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped fresh parsley.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "pasta",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 532,
+    "protein": 27,
+    "carbs": 62,
+    "fat": 19
+  },
+  "slug": "crispy-peppery-british-penne-pasta-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-peppery-british-penne-pasta-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T23:00:19Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "meal-prep",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "penne pasta",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "penne pasta",
+    "descriptor": "crispy peppery",
+    "dishForm": "Pasta"
+  }
+}
