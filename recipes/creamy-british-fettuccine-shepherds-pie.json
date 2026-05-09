@@ -1,0 +1,97 @@
+{
+  "title": "Creamy British Fettuccine Shepherds Pie",
+  "description": "A light and nutty Welsh dish featuring fettuccine in a shepherds pie form, made with kosher-friendly ingredients and presented in individual mini cocottes.",
+  "cuisine": "British",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fettuccine",
+      "amount": "8 oz",
+      "notes": "cooked al dente"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 lb",
+      "notes": "brown it first"
+    },
+    {
+      "name": "mushroom gravy",
+      "amount": "2 cups",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "for the creamy sauce"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": "for greasing the cocottes"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 tbsp",
+      "notes": "for thickening the sauce"
+    },
+    {
+      "name": "frozen peas",
+      "amount": "1 cup",
+      "notes": "thawed"
+    },
+    {
+      "name": "mashed potatoes",
+      "amount": "2 cups",
+      "notes": "for the topping"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the fettuccine according to package instructions and set aside.",
+    "In a large skillet, brown the ground beef over medium high heat.",
+    "Add the mushroom gravy, heavy cream, and flour to the skillet and stir to combine.",
+    "Bring the mixture to a simmer and let cook for 5 minutes or until thickened.",
+    "Stir in the cooked fettuccine, frozen peas, and a pinch of salt and pepper.",
+    "Butter the individual mini cocottes and fill with the fettuccine mixture.",
+    "Top each cocotte with a spoonful of mashed potatoes and bake for 20 minutes or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "comfort-food",
+    "kosher-friendly",
+    "one-dish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "creamy-british-fettuccine-shepherds-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-british-fettuccine-shepherds-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:37:20Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "glassy-jelly",
+    "mood": "light",
+    "technique": "rest",
+    "primaryIngredient": "fettuccine",
+    "diet": "kosher",
+    "region": "welsh",
+    "cuisineAdjective": "British",
+    "mainIngredient": "fettuccine",
+    "descriptor": "Creamy Crunchy",
+    "dishForm": "Shepherds Pie"
+  }
+}
