@@ -1,0 +1,104 @@
+{
+  "title": "Comforting Middle Eastern Fenugreek Curry",
+  "description": "A cultured and tender weeknight Middle Eastern dish featuring fenugreek, this vegan-friendly curry is perfect for a comforting dinner, served in a lacquerware bowl.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fenugreek leaves",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pan over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and ginger and cook for 1 minute.",
+    "Add the curry powder and turmeric and cook for 1 minute, stirring constantly.",
+    "Add the fenugreek leaves and cook until wilted, about 3 minutes.",
+    "Pour in the coconut milk and bring to a simmer.",
+    "Reduce the heat to low and cook, covered, for 15 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot in a lacquerware bowl."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "curry",
+    "fenugreek",
+    "middle-eastern",
+    "one-pot",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "comforting-middle-eastern-fenugreek-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/comforting-middle-eastern-fenugreek-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:21:10Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "tender",
+    "mood": "weeknight",
+    "technique": "temper",
+    "primaryIngredient": "fenugreek",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "fenugreek",
+    "descriptor": "Creamy Comforting",
+    "dishForm": "Curry"
+  }
+}
