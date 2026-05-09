@@ -1,0 +1,100 @@
+{
+  "title": "Comforting Creamy Malaysian Sirloin Steak Noodles",
+  "description": "A fermented and fluffy Malaysian dish featuring sirloin steak and beurre-monte, perfect for a sick day, and friendly to those who dislike onion and garlic.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sirloin steak",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fermented shrimp paste",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the rice noodles according to the package instructions.",
+    "In a large skillet, heat the beurre-monte over medium-high heat and cook the sirloin steak strips until browned and cooked to an internal temperature of 145 degrees.",
+    "In a small bowl, whisk together the fish sauce, soy sauce, and lime juice.",
+    "Add the fermented shrimp paste to the bowl and whisk until smooth.",
+    "Pour the coconut milk into the bowl and whisk until well combined.",
+    "Add the cooked noodles to the skillet with the steak and pour the sauce over the top.",
+    "Stir everything together and cook for an additional 2 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "gluten-free",
+    "malaysian-cuisine",
+    "noodle-dishes",
+    "steak-recipes"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 35,
+    "fat": 28
+  },
+  "slug": "comforting-creamy-malaysian-sirloin-steak-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/comforting-creamy-malaysian-sirloin-steak-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:05:25Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "fluffy",
+    "mood": "sick-day",
+    "technique": "beurre-monte",
+    "primaryIngredient": "sirloin steak",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "sirloin steak",
+    "descriptor": "Comforting Creamy",
+    "dishForm": "Noodles"
+  }
+}
