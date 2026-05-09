@@ -1,0 +1,124 @@
+{
+  "title": "charred crunchy Kenyan post-workout food bowl",
+  "description": "a flavorful and nutritious Kenyan dish featuring charred vegetables, crunchy chickpeas, and warm turmeric-spiced rice, perfect for post-workout recovery",
+  "cuisine": "kenyan",
+  "diet": [
+    "macrobiotic",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "4",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "air fryer basket liner",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the air fryer to 400°f (200°c).",
+    "line the air fryer basket with a liner and add the chopped onion, sweet potatoes, bell peppers, and carrots. Toss with 1 tbsp of coconut oil and cook for 15 minutes, shaking halfway through.",
+    "in a large bowl, mix together the chickpeas, turmeric, garam masala, salt, and black pepper.",
+    "add the cooked sweet potato mixture to the chickpea mixture and toss to combine.",
+    "cook in the air fryer at 400°f (200°c) for an additional 10 minutes, shaking halfway through.",
+    "add the chopped scallions and lemon juice to the bowl and toss to combine.",
+    "fluff the cooked turmeric rice with a fork and divide among four bowls.",
+    "top each bowl with the charred sweet potato mixture and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-fiber",
+    "kenyan",
+    "post-workout",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "charred-crunchy-kenyan-post-workout-food-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-crunchy-kenyan-post-workout-food-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:56:03Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crunchy",
+    "mood": "post-workout",
+    "technique": "air-fry",
+    "primaryIngredient": "turmeric",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "post-workout food",
+    "descriptor": "charred crunchy",
+    "dishForm": "Bowl"
+  }
+}
