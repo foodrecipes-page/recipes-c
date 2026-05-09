@@ -1,0 +1,98 @@
+{
+  "title": "Charred Crispy Moroccan Duck Couscous Royal",
+  "description": "A flavorful Moroccan dish featuring charred and crispy duck confit leg, served with a side of bhuna sauce and couscous, perfect for curing hangovers, and pescatarian-friendly by substituting the traditional meat with seafood options if desired.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck confit leg",
+      "amount": "2",
+      "notes": "pre-cooked"
+    },
+    {
+      "name": "couscous",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bhuna sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the duck confit leg to the skillet and sear until charred and crispy on all sides.",
+    "Remove the duck from the skillet and set aside to rest.",
+    "Add the sliced onion to the skillet and cook until softened and translucent.",
+    "Add the minced garlic to the skillet and cook for an additional minute.",
+    "Add the bhuna sauce to the skillet and stir to combine with the onion and garlic mixture.",
+    "Bring the bhuna sauce to a simmer and let cook for 5 minutes.",
+    "Prepare the couscous according to package instructions.",
+    "Slice the rested duck confit leg into thin strips.",
+    "To assemble the dish, place a portion of couscous on a plate, top with sliced duck, and spoon the bhuna sauce over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bhuna-sauce",
+    "couscous-dishes",
+    "duck-recipes",
+    "hangover-cure",
+    "moroccan-cuisine",
+    "pescatarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 40
+  },
+  "slug": "charred-crispy-moroccan-duck-couscous-royal",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-crispy-moroccan-duck-couscous-royal",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:30:20Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crispy",
+    "mood": "hangover-cure",
+    "technique": "bhuna",
+    "primaryIngredient": "duck-confit-leg",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "duck",
+    "descriptor": "Charred Crispy",
+    "dishForm": "Couscous Royal"
+  }
+}
