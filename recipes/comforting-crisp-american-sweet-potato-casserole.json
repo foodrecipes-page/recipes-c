@@ -1,0 +1,124 @@
+{
+  "title": "Comforting Crisp American Sweet Potato Casserole",
+  "description": "A sweet, comforting American dish featuring caramelized sweet potatoes, crunchy pecans, and sweet sultanas, perfect for a cozy dinner or as a side for the holidays.",
+  "cuisine": "american",
+  "diet": [
+    "lacto-vegetarian",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter, softened",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sultanas",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground nutmeg",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pecans",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "confectioners' sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Pierce the sweet potatoes with a fork several times and bake them in the oven for 45 minutes, or until tender.",
+    "While the sweet potatoes are baking, prepare the streusel topping by mixing together the flour, brown sugar, and pecans in a bowl.",
+    "Add the softened butter to the bowl and mix until the streusel topping is crumbly.",
+    "In a separate bowl, whisk together the eggs, vanilla extract, and a pinch of salt.",
+    "When the sweet potatoes are done, let them cool for a few minutes before scooping the flesh into a bowl and mashing it with a fork.",
+    "Add the streusel topping to the mashed sweet potatoes and mix until well combined.",
+    "Pour the sweet potato mixture into a 9x13 inch baking dish.",
+    "Bake the casserole in the preheated oven for 25-30 minutes, or until the topping is golden brown.",
+    "Remove the casserole from the oven and sprinkle the sultanas and confectioners' sugar over the top.",
+    "Return the casserole to the oven and bake for an additional 5-10 minutes, or until the sultanas are caramelized.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "autumn-recipe",
+    "casserole-recipe",
+    "comfort-food",
+    "easy-weeknight-dinner",
+    "holiday-side-dish",
+    "sweet-potato-recipe"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "comforting-crisp-american-sweet-potato-casserole",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/comforting-crisp-american-sweet-potato-casserole",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T03:23:48Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crisp",
+    "mood": "comforting",
+    "technique": "spherify",
+    "primaryIngredient": "sultanas",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Sweet Potato",
+    "descriptor": "Comforting Crisp",
+    "dishForm": "Casserole"
+  }
+}
