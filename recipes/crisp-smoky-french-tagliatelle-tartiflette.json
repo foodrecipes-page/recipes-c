@@ -1,0 +1,106 @@
+{
+  "title": "Crisp Smoky French Tagliatelle Tartiflette",
+  "description": "A smoky and crisp French dish featuring tagliatelle, dry-brined and cooked to perfection in a tartiflette form, served in a bento box, this recipe is ayurvedic-rajasic-friendly and inspired by the flavors of Provence.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tagliatelle",
+      "amount": "8 oz",
+      "notes": "dry-brined for 2 hours"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "reblochon cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cook the tagliatelle according to package instructions and set aside.",
+    "In a large skillet, heat the olive oil over medium heat and add the minced garlic.",
+    "Add the smoked paprika and cook for 1 minute, stirring constantly.",
+    "Add the sliced potatoes and cook for 5 minutes, or until they start to brown.",
+    "In a large bowl, combine the cooked tagliatelle, potato mixture, crumbly reblochon cheese, salt, black pepper, and chopped fresh thyme.",
+    "Transfer the mixture to a bento box and drizzle with lemon juice.",
+    "Bake in the preheated oven for 20 minutes, or until the top is crispy and golden brown.",
+    "Remove from the oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crisp",
+    "french",
+    "gluten-free",
+    "one-pan",
+    "provence",
+    "smoky",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "crisp-smoky-french-tagliatelle-tartiflette",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-smoky-french-tagliatelle-tartiflette",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:03:25Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crisp",
+    "mood": "light",
+    "technique": "brine-dry",
+    "primaryIngredient": "tagliatelle",
+    "diet": "ayurvedic-rajasic",
+    "region": "provence",
+    "cuisineAdjective": "French",
+    "mainIngredient": "tagliatelle",
+    "descriptor": "Crisp Smoky",
+    "dishForm": "Tartiflette"
+  }
+}
