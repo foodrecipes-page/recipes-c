@@ -1,0 +1,105 @@
+{
+  "title": "Creamy Cultured Jamaican Clam Curry",
+  "description": "A sugar-free and cultured Jamaican dish featuring clams, cooked in a terracotta dish with a silky and creamy texture, reminiscent of a monsoon Jamaican meal",
+  "cuisine": "Jamaican",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "clams",
+      "amount": "2 pounds",
+      "notes": "freshly shucked"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ghee",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "scotch bonnet pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee in a terracotta dish over medium heat",
+    "Add the diced onion and cook until translucent",
+    "Add the minced garlic and grated ginger and cook for 1 minute",
+    "Add the curry powder and cook for 1 minute, stirring constantly",
+    "Add the coconut milk and bring to a simmer",
+    "Add the clams and cook until they open",
+    "Add the diced scotch bonnet pepper and cook for 1 minute",
+    "Season with salt and black pepper to taste",
+    "Serve hot, garnished with fresh cilantro"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-milk",
+    "curry",
+    "jamaican-cuisine",
+    "one-pot",
+    "seafood",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "creamy-cultured-jamaican-clam-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-cultured-jamaican-clam-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:21:13Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "silky",
+    "mood": "monsoon",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "clams",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "clams",
+    "descriptor": "creamy cultured",
+    "dishForm": "Curry"
+  }
+}
