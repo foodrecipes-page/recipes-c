@@ -1,0 +1,88 @@
+{
+  "title": "Chilled Shattering Middle-Eastern Eggplant Baba Ghanoush",
+  "description": "A rich, creamy, and refreshing dip that shatters in your mouth. Perfect for a date night.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Smoked eggplant",
+      "amount": "2 large"
+    },
+    {
+      "name": "Raw ground nut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Roasted garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "1/4 cup pitted"
+    },
+    {
+      "name": "Bhuna sauce (mild)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C) and roast the eggplant for 30-40 minutes, or until the skin is charred and collapsed.",
+    "Let the eggplant cool, then peel off the skin, chop it into large chunks, and puree in a blender until smooth.",
+    "Transfer the eggplant puree to a large bowl and stir in the ground nut oil, roasted garlic, Kalamata olives, and bhuna sauce.",
+    "Season with salt and black pepper, then refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, garnish with chopped fresh parsley and serve chilled."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "appetizer",
+    "date-night",
+    "dip",
+    "gluten-free",
+    "party-food",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 14,
+    "fat": 28
+  },
+  "slug": "chilled-shattering-middle-eastern-eggplant-baba-ghanoush",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/chilled-shattering-middle-eastern-eggplant-baba-ghanoush",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T13:47:01Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "shattering",
+    "mood": "date-night",
+    "technique": "bhuna",
+    "primaryIngredient": "ground nut oil",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "eggplant",
+    "descriptor": "Chilled Shattering",
+    "dishForm": "Baba Ghanoush"
+  }
+}
