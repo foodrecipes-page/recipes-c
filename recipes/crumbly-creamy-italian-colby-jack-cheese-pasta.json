@@ -1,0 +1,92 @@
+{
+  "title": "Crumbly Creamy Italian Colby Jack Cheese Pasta",
+  "description": "A paleo-friendly Italian dish featuring Colby Jack cheese and a crumbly texture, with a hint of herbal flavors from fresh parsley and basil.",
+  "cuisine": "Italian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Colby Jack cheese",
+      "amount": "8 oz",
+      "notes": "shredded"
+    },
+    {
+      "name": "gluten-free pasta",
+      "amount": "12 oz"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "Cook the gluten-free pasta according to the package instructions.",
+    "In a large bowl, combine the cooked pasta, shredded Colby Jack cheese, chopped parsley, and chopped basil.",
+    "In a separate bowl, mix together the almond flour, olive oil, garlic powder, and salt.",
+    "Add the dry mixture to the pasta mixture and stir until well combined.",
+    "Transfer the pasta mixture to a baking dish and top with additional shredded Colby Jack cheese.",
+    "Bake in the preheated oven for 20 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy-pasta",
+    "crumbly-texture",
+    "herbal-flavors",
+    "italian-cuisine",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "crumbly-creamy-italian-colby-jack-cheese-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-creamy-italian-colby-jack-cheese-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:18:33Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crumbly",
+    "mood": "show-off",
+    "technique": "spherify",
+    "primaryIngredient": "colby jack cheese",
+    "diet": "paleo",
+    "region": "piedmontese",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "colby jack cheese",
+    "descriptor": "crumbly creamy",
+    "dishForm": "Pasta"
+  }
+}
