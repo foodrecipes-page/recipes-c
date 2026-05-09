@@ -1,0 +1,102 @@
+{
+  "title": "Creamy Confit Saudi Arabian Lamb Tagine",
+  "description": "A mustardy, dense, and flavorful Saudi Arabian dish featuring confit tomatoes and Dutch stroop, perfect for a brunch mood, and is satvik friendly.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless and cut into 2 inch pieces"
+    },
+    {
+      "name": "Dutch stroop",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "confit tomatoes",
+      "amount": "1 cup",
+      "notes": "canned or homemade"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add the lamb pieces and cook until browned on all sides.",
+    "Add the mustard seeds, coriander powder, cumin powder, salt, and black pepper, and cook for 1 minute.",
+    "Stir in the Dutch stroop and cook for 1 minute.",
+    "Add the confit tomatoes and cook for 2 minutes.",
+    "Pour in the coconut cream and bring the mixture to a simmer.",
+    "Reduce the heat to low and cook, covered, for 1 1/2 hours.",
+    "Stir in the chopped parsley and serve hot.",
+    "Serve over rice or with naan bread.",
+    "Garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-recipe",
+    "coconut-cream-based",
+    "lamb-based",
+    "middle-eastern",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "creamy-confit-saudi-arabian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-confit-saudi-arabian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:00:17Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "dense",
+    "mood": "brunch-mood",
+    "technique": "confit-tomato",
+    "primaryIngredient": "dutch stroop",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "Creamy Confit",
+    "dishForm": "Tagine"
+  }
+}
