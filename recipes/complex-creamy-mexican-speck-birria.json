@@ -1,0 +1,112 @@
+{
+  "title": "Complex Creamy Mexican Speck Birria",
+  "description": "A rich and flavorful Oaxacan-inspired dish featuring speck, infused oil, and a variety of herbs, served in a bento box, this jain-friendly meal is perfect for a solo dinner",
+  "cuisine": "Mexican",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "speck",
+      "amount": "6 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "guajillo chili",
+      "amount": "2 dried",
+      "notes": "stemmed and seeded"
+    },
+    {
+      "name": "infused oil",
+      "amount": "1/4 cup",
+      "notes": "made with herbs like thyme and rosemary"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "crema",
+      "amount": "1/2 cup",
+      "notes": "or substitute with non-dairy alternative"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Heat the infused oil in a large saucepan over medium heat",
+    "Add the diced onion and cook until translucent, about 5 minutes",
+    "Add the minced garlic and cook for an additional minute",
+    "Add the diced tomato and cook until they start to break down, about 5 minutes",
+    "Add the guajillo chili and cook for 1 minute",
+    "Add the vegetable broth and bring to a boil, then reduce the heat to low and simmer for 10 minutes",
+    "Add the speck and cook until heated through, about 2 minutes",
+    "Stir in the crema and cook until the mixture is creamy and heated through",
+    "Season with salt and pepper to taste",
+    "Serve the birria in a bento box, garnished with chopped cilantro and a squeeze of lime juice"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "herbal",
+    "jain-friendly",
+    "mexican",
+    "oaxacan",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "complex-creamy-mexican-speck-birria",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/complex-creamy-mexican-speck-birria",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:48:44Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "glassy-jelly",
+    "mood": "solo-dinner",
+    "technique": "infuse-oil",
+    "primaryIngredient": "speck",
+    "diet": "jain",
+    "region": "oaxacan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "speck",
+    "descriptor": "Complex Creamy",
+    "dishForm": "Birria"
+  }
+}
