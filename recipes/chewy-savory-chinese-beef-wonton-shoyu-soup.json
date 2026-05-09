@@ -1,0 +1,116 @@
+{
+  "title": "chewy savory chinese beef wonton-shoyu soup",
+  "description": "hearty, comforting soup originating from xinjiang province, china, featuring chewy beef wontons and rich soy sauce broth.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "feather blade beef",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "shiitake mushrooms",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "scallions",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1 teaspoon",
+      "notes": "nut-free-friendly alternative to traditional fish sauce."
+    },
+    {
+      "name": "wonton wrappers",
+      "amount": "24 pieces",
+      "notes": "available in most chinese grocery stores."
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "star anise",
+      "amount": "2 pieces",
+      "notes": "optional, for added depth of flavor."
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon",
+      "notes": "optional, to balance flavor."
+    }
+  ],
+  "instructions": [
+    "in a large pot, combine soy sauce, sesame oil, ginger, garlic, and 2 cups of water.",
+    "bring the mixture to a boil over high heat, then reduce to a simmer and cook for 10 minutes.",
+    "in a separate pan, heat 2 tablespoons of oil over medium-high heat and cook the feather blade beef until browned, about 5 minutes.",
+    "add the shiitake mushrooms to the pan and cook until they release their liquid and start to brown, about 3 minutes.",
+    "add the cooked beef and mushrooms to the pot with the soy sauce mixture, along with the remaining 2 cups of water.",
+    "add the wonton wrappers to the pot, one at a time, and cook until they float to the surface, about 5 minutes.",
+    "add the bonito flakes and cook for an additional 2 minutes.",
+    "taste and adjust the seasoning with sugar if necessary.",
+    "serve the soup hot, garnished with scallions and a sprinkle of bonito flakes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chewy",
+    "high-protein",
+    "southern-china",
+    "weeknight",
+    "wonton"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "chewy-savory-chinese-beef-wonton-shoyu-soup",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-savory-chinese-beef-wonton-shoyu-soup",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:52:56Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "chewy",
+    "mood": "comforting",
+    "technique": "bonito-shave",
+    "primaryIngredient": "feather blade beef",
+    "diet": "nut-free",
+    "region": "xinjiang",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Beef",
+    "descriptor": "Chewy Savory",
+    "dishForm": "Wonton-Shoyu Soup"
+  }
+}

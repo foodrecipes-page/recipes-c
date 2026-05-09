@@ -1,0 +1,124 @@
+{
+  "title": "Charred, Glassy-Jelly Polish Pistachio Bowl",
+  "description": "Indulgent Polish dish featuring pistachio paste, clay-pot-cooked in an earthenware bowl.",
+  "cuisine": "polish",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "pistachio paste",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "raw sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sea salt",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "unbleached all-purpose flour",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "unsalted vegan butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "handful",
+      "notes": "",
+      "optional": true
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "In a small bowl, whisk together the pistachio paste, raw sugar, and cornstarch.",
+    "In a medium saucepan, whisk together the unsweetened almond milk, maple syrup, and lemon juice.",
+    "Add the pistachio mixture to the saucepan and whisk until smooth.",
+    "Cook over medium heat, stirring constantly, until the mixture thickens and comes to a boil.",
+    "Remove from heat and stir in the vanilla extract and sea salt.",
+    "Add the unsalted vegan butter and whisk until melted.",
+    "Pour the mixture into the prepared earthenware bowl and smooth the top.",
+    "Cover the bowl with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 5-7 minutes, or until the top is golden brown and the jelly has set.",
+    "Remove from the oven and let cool for a few minutes.",
+    "Garnish with fresh mint leaves, if desired.",
+    "Serve warm or at room temperature.",
+    "Refrigerate or freeze for later use."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "dessert",
+    "gluten-free",
+    "low-calorie",
+    "pistachio",
+    "polish",
+    "sugar-free",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 16
+  },
+  "slug": "charred-glassy-jelly-polish-pistachio-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-glassy-jelly-polish-pistachio-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:53:04Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "glassy-jelly",
+    "mood": "indulgent",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "pistachio paste",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Pistachio",
+    "descriptor": "Charred, glassy-jelly",
+    "dishForm": "Bowl"
+  }
+}
