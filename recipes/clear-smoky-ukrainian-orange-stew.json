@@ -1,0 +1,110 @@
+{
+  "title": "Clear Smoky Ukrainian Orange Stew",
+  "description": "A smoky and savory Ukrainian stew featuring orange, perfect for a solo dinner, and friendly to Buddhist temple dietary preferences.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "orange juice",
+      "amount": "2 cups",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "agave nectar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large kazan cauldron, heat the smoked paprika over low heat for 1 minute.",
+    "Add the chopped onions and cook until they are translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the sliced carrots and cubed potatoes, cook for 5 minutes, stirring occasionally.",
+    "Add the vegetable broth, tomato paste, agave nectar, salt, and black pepper, stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Add the freshly squeezed orange juice and stir to combine.",
+    "Continue to simmer for an additional 10 minutes, or until the stew has thickened and reduced slightly.",
+    "Remove the cauldron from the heat and let the stew cool slightly before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "one-pot",
+    "orange",
+    "smoky",
+    "stew",
+    "ukrainian",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "clear-smoky-ukrainian-orange-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/clear-smoky-ukrainian-orange-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:08:39Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "glassy-jelly",
+    "mood": "solo-dinner",
+    "technique": "reduce",
+    "primaryIngredient": "orange",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "orange",
+    "descriptor": "Clear Smoky",
+    "dishForm": "Stew"
+  }
+}
