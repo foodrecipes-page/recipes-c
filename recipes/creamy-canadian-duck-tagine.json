@@ -1,0 +1,101 @@
+{
+  "title": "Creamy Canadian Duck Tagine",
+  "description": "A romantic Canadian dish featuring tender duck and a rich, peppery sauce, cooked to perfection in a tagine with Shaoxing wine, and finished with a glassy jelly glaze.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck breast",
+      "amount": "4 6-oz breasts",
+      "notes": "skin removed"
+    },
+    {
+      "name": "Shaoxing wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "low-sodium chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the duck breasts with black pepper.",
+    "Heat a large skillet over medium-high heat and sear the duck breasts until browned on both sides.",
+    "Transfer the duck breasts to a tagine or a large Dutch oven.",
+    "In a small bowl, whisk together the Shaoxing wine, low-sodium chicken broth, honey, garlic, and ginger.",
+    "Pour the wine mixture over the duck breasts in the tagine.",
+    "Cover the tagine and transfer it to the preheated oven.",
+    "Braise the duck for 2 hours, or until tender and cooked through.",
+    "In a small bowl, whisk together the cornstarch and a splash of the cooking liquid until smooth.",
+    "Stir the cornstarch mixture back into the tagine and continue to cook for an additional 10 minutes, or until the sauce has thickened.",
+    "Stir in the chopped green onions and serve the duck breasts with the rich, peppery sauce spooned over the top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 130,
+  "totalTimeMin": 160,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "duck-recipes",
+    "low-sodium",
+    "one-pot",
+    "romantic-dinner",
+    "tagine-cooking"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "creamy-canadian-duck-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-canadian-duck-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:10:30Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "glassy-jelly",
+    "mood": "romantic",
+    "technique": "tagine-cook",
+    "primaryIngredient": "shaoxing wine",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "duck",
+    "descriptor": "Creamy Complex",
+    "dishForm": "Tagine"
+  }
+}
