@@ -1,0 +1,101 @@
+{
+  "title": "Crunchy Korean Herring Sujebi",
+  "description": "A peppery and bouncy Korean dish featuring herring, this lacto-vegetarian-friendly sujebi is air-fried to perfection, offering an adventurous twist on traditional Korean cuisine. It combines the flavors of the sea with a satisfying crunch.",
+  "cuisine": "Korean",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "herring fillets",
+      "amount": "12 oz",
+      "notes": "drained and cut into small pieces"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, cornstarch, salt, black pepper, garlic powder, and paprika.",
+    "Add the herring pieces to the bowl and toss to coat evenly with the flour mixture.",
+    "In a separate bowl, whisk together eggs and milk.",
+    "Add the egg mixture to the herring mixture and stir until just combined.",
+    "Heat the vegetable oil in an air fryer to 400 degrees Fahrenheit.",
+    "Using a spoon, drop small balls of the herring mixture into the air fryer basket, leaving about 1 inch of space between each sujebi.",
+    "Air-fry the sujebi for 5 minutes, shaking the basket halfway through.",
+    "Increase the air fryer temperature to 420 degrees Fahrenheit and continue to air-fry for an additional 2 minutes, or until the sujebi are golden brown and crispy.",
+    "Remove the sujebi from the air fryer and serve hot.",
+    "Garnish with chopped green onions and a sprinkle of toasted sesame seeds, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 7,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fryer",
+    "crunchy",
+    "korean-cuisine",
+    "lacto-vegetarian",
+    "seafood",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "crunchy-korean-herring-sujebi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-korean-herring-sujebi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:39:01Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "bouncy-qq",
+    "mood": "adventurous",
+    "technique": "air-fry",
+    "primaryIngredient": "herring",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "herring",
+    "descriptor": "Crunchy Bouncy",
+    "dishForm": "Sujebi"
+  }
+}
