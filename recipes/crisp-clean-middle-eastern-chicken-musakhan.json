@@ -1,0 +1,104 @@
+{
+  "title": "Crisp Clean Middle Eastern Chicken Musakhan",
+  "description": "A fresh and crisp Middle Eastern dish featuring chicken, sumac, and colatura, wrapped in papillote for a quick and healthy meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "sumac",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "colatura",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together sumac, colatura, olive oil, salt, and black pepper.",
+    "Add the chicken to the bowl and toss to coat with the sumac mixture.",
+    "Heat a large skillet over medium-high heat and cook the chicken until browned, about 5 minutes.",
+    "Add the sliced onion to the skillet and cook until softened, about 3 minutes.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Cut the pita bread into 1 inch pieces and place on a baking sheet lined with parchment paper.",
+    "Divide the chicken and onion mixture among the pita bread pieces, leaving a 1/2 inch border around the edges.",
+    "Fold the pita bread over the filling to form a triangle and brush with olive oil.",
+    "Bake the musakhan in the preheated oven for 15 minutes, or until the bread is crispy and golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken-recipe",
+    "healthy-dinner",
+    "middle-eastern",
+    "papillote",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "crisp-clean-middle-eastern-chicken-musakhan",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-clean-middle-eastern-chicken-musakhan",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:46:16Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crisp",
+    "mood": "quick-fix",
+    "technique": "papillote",
+    "primaryIngredient": "colatura",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "chicken",
+    "descriptor": "Crisp Clean",
+    "dishForm": "Musakhan"
+  }
+}
