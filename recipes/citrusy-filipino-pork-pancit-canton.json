@@ -1,0 +1,109 @@
+{
+  "title": "Citrusy Filipino Pork Pancit Canton",
+  "description": "A paleo-friendly Filipino dish featuring citrusy and indulgent flavors, made with vinegar and kombu-cold-extract, served in the form of pancit canton.",
+  "cuisine": "Filipino",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice flour",
+      "amount": "2 cups",
+      "notes": "preferably paleo-friendly"
+    },
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1/4 cup",
+      "notes": "apple cider or white"
+    },
+    {
+      "name": "kombu-cold-extract",
+      "amount": "2 tablespoons",
+      "notes": "dried and powdered"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine rice flour and a pinch of salt, then gradually add in water to form a dough, kneading for about 5 minutes until smooth and elastic.",
+    "Divide the dough into 4 equal pieces and roll out each piece into a long rope, then cut into thin strips to form the pancit canton noodles.",
+    "In a large pan, heat coconut oil over medium heat and stir-fry the pork shoulder until browned, about 5 minutes.",
+    "Add sliced onion and minced garlic to the pan and stir-fry until the onion is translucent, about 3 minutes.",
+    "Add vinegar, kombu-cold-extract, lemon juice, salt, and black pepper to the pan, stirring to combine.",
+    "Add the cooked pancit canton noodles to the pan, stirring to combine with the pork and sauce mixture.",
+    "Cook for an additional 2 minutes, until the noodles are well coated with the sauce.",
+    "Serve hot, garnished with sliced green onions and a sprinkle of salt and black pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "filipino-food",
+    "indulgent",
+    "noodle-dishes",
+    "paleo-friendly",
+    "pork-recipes",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "citrusy-filipino-pork-pancit-canton",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-filipino-pork-pancit-canton",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:13:48Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "bouncy-qq",
+    "mood": "indulgent",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "vinegar",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "pork",
+    "descriptor": "Citrusy Crunchy",
+    "dishForm": "Pancit Canton"
+  }
+}
