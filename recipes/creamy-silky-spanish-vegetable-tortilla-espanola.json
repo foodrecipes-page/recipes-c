@@ -1,0 +1,107 @@
+{
+  "title": "Creamy Silky Spanish Vegetable Tortilla Espanola",
+  "description": "A peppery and silky one pot Spanish dish featuring vegetable stock cube and roast, suitable for shojin friendly diet, formed as tortilla espanola.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "vegetable stock cube",
+      "amount": "1 cube",
+      "notes": "dissolved in 1 cup water"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "6 large"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large oven safe skillet, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the diced potato, sliced zucchini, and sliced red bell pepper, and cook for 10 minutes, stirring occasionally.",
+    "Add the dissolved vegetable stock cube and stir to combine.",
+    "In a large bowl, whisk together the eggs and season with salt and black pepper.",
+    "Pour the egg mixture over the vegetables in the skillet and transfer to the preheated oven.",
+    "Bake for 25 minutes, or until the eggs are set and the tortilla is golden brown.",
+    "Remove from the oven and let cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "one-pot",
+    "roasted-vegetables",
+    "shojin-friendly",
+    "spanish-cuisine",
+    "vegetarian",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "creamy-silky-spanish-vegetable-tortilla-espanola",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-silky-spanish-vegetable-tortilla-espanola",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:02:35Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "silky",
+    "mood": "one-pot",
+    "technique": "roast",
+    "primaryIngredient": "vegetable stock cube",
+    "diet": "shojin",
+    "region": "catalan",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "vegetables",
+    "descriptor": "Creamy Silky",
+    "dishForm": "Tortilla Espanola"
+  }
+}
