@@ -1,0 +1,106 @@
+{
+  "title": "Complex Creamy Vietnamese Shrimp Bun Cha",
+  "description": "A spicy and aerated Vietnamese dish featuring shrimp paste and chocolate, served in a cazuela, this bun cha is an anti-inflammatory friendly show stopper.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp paste",
+      "amount": "2 tablespoons",
+      "notes": "kapi style"
+    },
+    {
+      "name": "dark chocolate",
+      "amount": "1 ounce",
+      "notes": "for tempering"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grilled pork",
+      "amount": "4 ounces",
+      "notes": "optional"
+    },
+    {
+      "name": "pickled carrots",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the rice noodles according to package instructions.",
+    "In a small saucepan, melt the dark chocolate over low heat, stirring constantly.",
+    "In a large bowl, whisk together the shrimp paste, fish sauce, lime juice, and chili flakes.",
+    "Add the cooked noodles to the bowl and toss to combine with the shrimp paste mixture.",
+    "If using, slice the grilled pork into thin strips and add to the noodles.",
+    "If using, add the pickled carrots to the noodles and toss to combine.",
+    "Stir in the melted chocolate until well combined.",
+    "Transfer the noodle mixture to a large cazuela or serving dish.",
+    "Garnish with chopped cilantro and serve immediately.",
+    "Offer additional fish sauce, lime juice, and chili flakes on the side for added flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cazuela-recipes",
+    "one-pot-wonders",
+    "seafood-lovers",
+    "spicy-food",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 32,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "complex-creamy-vietnamese-shrimp-bun-cha",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/complex-creamy-vietnamese-shrimp-bun-cha",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:22:24Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "aerated",
+    "mood": "show-off",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "shrimp-paste-kapi",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "shrimp",
+    "descriptor": "Complex Creamy",
+    "dishForm": "Bun Cha"
+  }
+}
