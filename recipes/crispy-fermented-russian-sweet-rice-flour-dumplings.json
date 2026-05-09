@@ -1,0 +1,93 @@
+{
+  "title": "Crispy Fermented Russian Sweet Rice Flour Dumplings",
+  "description": "A traditional Russian dish featuring crispy fermented dumplings made with sweet rice flour, perfect for a snack or dessert. This recipe is Whole30-friendly and uses papillote for added flavor.",
+  "cuisine": "Russian",
+  "diet": [
+    "Whole30",
+    "Gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Sweet rice flour",
+      "amount": "2 cups",
+      "notes": "Chapssalgaru preferred"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Papillote paper",
+      "amount": "12 sheets"
+    }
+  ],
+  "instructions": [
+    "Combine sweet rice flour, water, salt, sugar, and yeast in a large bowl to make the dough.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a warm place to ferment for 2 hours.",
+    "Heat coconut oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Divide the fermented dough into 12 equal pieces and shape into balls.",
+    "Flatten each ball into a disk shape and wrap in papillote paper.",
+    "Fry the dumplings in batches until crispy and golden brown.",
+    "Drain excess oil on paper towels.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "crispy-dumplings",
+    "fermented-foods",
+    "gluten-free",
+    "russian-cuisine",
+    "snack-ideas",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "crispy-fermented-russian-sweet-rice-flour-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-fermented-russian-sweet-rice-flour-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:15:00Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crispy",
+    "mood": "meal-prep",
+    "technique": "papillote",
+    "primaryIngredient": "sweet-rice-flour-chapssalgaru",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "sweet rice flour",
+    "descriptor": "Crispy fermented",
+    "dishForm": "Dumplings"
+  }
+}
