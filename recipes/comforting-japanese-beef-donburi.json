@@ -1,0 +1,92 @@
+{
+  "title": "Comforting Japanese Beef Donburi",
+  "description": "A hearty Japanese dish featuring tender beef, flavorful mustard seeds, and a balance of earthy and juicy elements, making it a perfect comfort food for any time of day, and its ayurvedic-rajasic-friendly properties promote energy and vitality.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "soy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "rested meat, sliced into thin strips"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Japanese rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sake",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mirin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large skillet over medium-high heat.",
+    "Add the beef strips and cook until browned, about 3-4 minutes.",
+    "Add the mustard seeds and cook for 1 minute, until fragrant.",
+    "Add the sake, mirin, and soy sauce, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 5 minutes.",
+    "Prepare the Japanese rice according to the package instructions.",
+    "To assemble the donburi, place a scoop of rice in a bowl, then add the beef and sauce mixture on top.",
+    "Garnish with green onions and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "comfort-food",
+    "gluten-free",
+    "japanese-cuisine",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "comforting-japanese-beef-donburi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/comforting-japanese-beef-donburi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:14:25Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "juicy",
+    "mood": "comforting",
+    "technique": "rest-meat",
+    "primaryIngredient": "mustard seeds",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "beef",
+    "descriptor": "Comforting Juicy",
+    "dishForm": "Donburi"
+  }
+}
