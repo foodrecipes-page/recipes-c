@@ -1,0 +1,107 @@
+{
+  "title": "Charred Chewy Indian Shiitake Mushrooms Baingan Bharta",
+  "description": "A hearty and comforting Indian dish featuring charred and chewy shiitake mushrooms in a rich and smoky eggplant sauce, perfect for a sick day. This dish is nut-free and made using a bain-marie for gentle heating.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shiitake mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "charred and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ghee or oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Char the eggplant over an open flame or in the oven until the skin is blackened and blistered.",
+    "Peel the charred eggplant and chop it into small pieces.",
+    "Heat the ghee or oil in a pan over medium heat and saute the onion until it is translucent.",
+    "Add the minced garlic and grated ginger to the pan and cook for 1 minute.",
+    "Add the sliced shiitake mushrooms to the pan and cook until they are tender and chewy.",
+    "Stir in the tomato puree, salt, and garam masala, and bring the mixture to a simmer.",
+    "Reduce the heat to low and add the chopped eggplant to the pan, stirring to combine.",
+    "Use a bain-marie to gently heat the mixture over low heat for 10 minutes, stirring occasionally.",
+    "Taste and adjust the seasoning as needed.",
+    "Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "indian-cuisine",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "charred-chewy-indian-shiitake-mushrooms-baingan-bharta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-chewy-indian-shiitake-mushrooms-baingan-bharta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:37:03Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "chewy",
+    "mood": "sick-day",
+    "technique": "bain-marie",
+    "primaryIngredient": "shiitake mushrooms",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "shiitake mushrooms",
+    "descriptor": "Charred Chewy",
+    "dishForm": "Baingan Bharta"
+  }
+}
