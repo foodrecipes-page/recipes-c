@@ -1,0 +1,98 @@
+{
+  "title": "Comforting Creamy Croatian Molasses Pudding",
+  "description": "A traditional Croatian dessert featuring molasses, this pudding is a floral and aerated treat that is sure to bring back nostalgic memories, and its tamasic friendly ingredients make it suitable for an ayurvedic diet.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "molasses",
+      "amount": "1 cup",
+      "notes": "dark molasses"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "2 cups"
+    },
+    {
+      "name": "whole milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "rose water",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "egg yolks",
+      "amount": "3 large"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, whisk together the molasses, heavy cream, whole milk, sugar, and cornstarch.",
+    "Cook over medium heat, stirring constantly, until the mixture comes to a boil.",
+    "Reduce the heat to low and simmer for 5 minutes, or until the pudding has thickened.",
+    "Remove the saucepan from the heat and stir in the vanilla extract and rose water.",
+    "In a small bowl, whisk together the egg yolks and unsalted butter until well combined.",
+    "Temper the egg yolks by slowly pouring the warm pudding mixture into the egg yolks, whisking constantly.",
+    "Return the saucepan to the stovetop and cook over low heat, stirring constantly, until the pudding has thickened to your liking.",
+    "Remove the saucepan from the heat and let the pudding cool to room temperature.",
+    "Cover the pudding and refrigerate for at least 2 hours, or until chilled.",
+    "Serve the pudding chilled, garnished with a sprinkle of sugar if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cold-dessert",
+    "comfort-food",
+    "creamy",
+    "croatian",
+    "molasses",
+    "traditional"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "comforting-creamy-croatian-molasses-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/comforting-creamy-croatian-molasses-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:12:16Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "aerated",
+    "mood": "nostalgic",
+    "technique": "emulsify",
+    "primaryIngredient": "molasses",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "molasses",
+    "descriptor": "comforting creamy",
+    "dishForm": "Pudding"
+  }
+}
