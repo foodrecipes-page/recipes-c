@@ -1,0 +1,93 @@
+{
+  "title": "Creamy British Grain Trifle",
+  "description": "A creamy and rich dessert featuring layers of grain, creamy custard, and sweet fruit, all wrapped in a pandan leaf for a unique and flavorful treat. This dish is halal-friendly and made with unsalted butter and infused oil for added depth of flavor.",
+  "cuisine": "British",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "unsalted butter",
+      "amount": "1 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "infuse-oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "grain",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "custard powder",
+      "amount": "1 packet"
+    },
+    {
+      "name": "milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fruit",
+      "amount": "1 cup",
+      "notes": "mixed berries"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4-6 leaves"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees.",
+    "In a large bowl, whisk together the melted butter, infused oil, and custard powder.",
+    "Add the milk and sugar to the bowl and whisk until smooth.",
+    "Cook the mixture over medium heat, stirring constantly, until it thickens.",
+    "In a separate bowl, mix together the cooked grain and mixed berries.",
+    "To assemble the trifle, create a layer of grain in the bottom of a pandan leaf wrap.",
+    "Pour some of the creamy custard over the grain.",
+    "Repeat the layers until all ingredients are used, ending with a layer of custard on top.",
+    "Chill the trifle in the refrigerator for at least 30 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british-dessert",
+    "creamy-trifle",
+    "grain-based",
+    "halal-friendly",
+    "pandan-leaf"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "creamy-british-grain-trifle",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-british-grain-trifle",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:25:59Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "molten",
+    "mood": "monsoon",
+    "technique": "infuse-oil",
+    "primaryIngredient": "unsalted butter",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "grain",
+    "descriptor": "Creamy",
+    "dishForm": "Trifle"
+  }
+}
