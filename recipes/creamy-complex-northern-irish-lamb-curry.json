@@ -1,0 +1,105 @@
+{
+  "title": "Creamy Complex Northern Irish Lamb Curry",
+  "description": "A rich and aromatic curry featuring lamb, massaman curry paste, and a blend of briny and snappy flavors, perfect for a date night, this dish is also macrobiotic-friendly and incorporates dehydrated elements.",
+  "cuisine": "Northern Irish",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "massaman curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "dehydrated seaweed",
+      "amount": "1/4 cup",
+      "notes": "rehydrated in 1 cup hot water"
+    },
+    {
+      "name": "dates",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until it is lightly browned, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute, stirring constantly to prevent burning.",
+    "Add the lamb cubes and cook until they are browned on all sides, about 5 minutes.",
+    "Add the massaman curry paste and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the coconut milk, rehydrated seaweed, dates, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to low and cook, covered, until the lamb is tender, about 20 minutes.",
+    "Remove the pot from the heat and let it cool slightly before serving.",
+    "Serve the curry hot, garnished with additional rehydrated seaweed and dates if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-milk-based",
+    "curry",
+    "date-night",
+    "lamb-based",
+    "macrobiotic",
+    "northern-irish",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "creamy-complex-northern-irish-lamb-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-complex-northern-irish-lamb-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:44:34Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "snappy",
+    "mood": "date-night",
+    "technique": "dehydrate",
+    "primaryIngredient": "massaman curry paste",
+    "diet": "macrobiotic",
+    "region": "northern-irish",
+    "cuisineAdjective": "Northern Irish",
+    "mainIngredient": "lamb",
+    "descriptor": "Creamy Complex",
+    "dishForm": "Curry"
+  }
+}
