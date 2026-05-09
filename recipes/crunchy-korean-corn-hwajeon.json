@@ -1,0 +1,86 @@
+{
+  "title": "Crunchy Korean Corn Hwajeon",
+  "description": "A nutty and aerated Korean dish featuring corn arepa filled with mozzarella cheese, fried to a crispy perfection, and can be made dairy-free friendly.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cornmeal",
+      "amount": "2 cups",
+      "notes": "fine grind"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together cornmeal, salt, and sugar.",
+    "Gradually add in water and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes pliable.",
+    "Divide the dough into 4 equal pieces and shape into balls.",
+    "Flatten each ball into a disk shape.",
+    "Place a quarter cup of shredded mozzarella cheese in the center of each disk.",
+    "Fold the dough over the cheese and press the edges together to seal.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees.",
+    "Fry the hwajeon for 2-3 minutes on each side until golden brown.",
+    "Drain the hwajeon on paper towels and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy-snacks",
+    "dairy-free",
+    "fried-delights",
+    "korean-street-food",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "crunchy-korean-corn-hwajeon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-korean-corn-hwajeon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:16:47Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "aerated",
+    "mood": "adventurous",
+    "technique": "fry",
+    "primaryIngredient": "corn arepa filled with mozarella cheese",
+    "diet": "dairy-free",
+    "region": "gangwon",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "corn",
+    "descriptor": "Crunchy",
+    "dishForm": "Hwajeon"
+  }
+}
