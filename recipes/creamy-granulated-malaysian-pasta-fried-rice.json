@@ -1,0 +1,112 @@
+{
+  "title": "creamy granulated malaysian pasta fried-rice",
+  "description": "a creamy, indulgent twist on traditional fried rice, using malaysian flavors and pasta water emulsion. serves as a satisfying brunch option.",
+  "cuisine": "malaysian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "pasta (angel hair)",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "chicken bouillon",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tbsp",
+      "notes": "granulated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "pasta water",
+      "amount": "1 cup",
+      "notes": "cooled"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "whole milk"
+    }
+  ],
+  "instructions": [
+    "heat 2 tbsp of butter in a cataplana over medium heat.",
+    "add chopped onion and cook until translucent, about 3-4 minutes.",
+    "add minced garlic and cook for an additional minute.",
+    "add 2 cups of chicken bouillon and bring to a simmer.",
+    "stir in 2 tbsp of soy sauce and 1 tbsp of rice vinegar.",
+    "add 8 oz of pasta and cook until al dente, about 8-10 minutes.",
+    "reserving 1 cup of pasta water, drain the cooked pasta and set aside.",
+    "in a blender or food processor, blend together the pasta water, 1 cup of milk, and 2 tbsp of granulated sugar until smooth.",
+    "gradually stir the blended mixture into the cataplana with the cooked pasta.",
+    "cook for an additional 2-3 minutes, stirring constantly.",
+    "add 2 tbsp of unsalted butter and stir until melted.",
+    "season with salt to taste.",
+    "serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "lacto-vegetarian",
+    "malaysian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 530,
+    "protein": 14,
+    "carbs": 73,
+    "fat": 24
+  },
+  "slug": "creamy-granulated-malaysian-pasta-fried-rice",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-granulated-malaysian-pasta-fried-rice",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:01:42Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "creamy",
+    "mood": "brunch-mood",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "granulated sugar",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "pasta",
+    "descriptor": "creamy granulated",
+    "dishForm": "Fried-Rice"
+  }
+}
