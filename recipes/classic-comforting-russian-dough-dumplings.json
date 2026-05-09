@@ -1,0 +1,97 @@
+{
+  "title": "Classic Comforting Russian Dough Dumplings",
+  "description": "A traditional Russian dish featuring strong white flour dough wrapped around a savory filling, boiled to perfection and served with a side of sour cream or butter.",
+  "cuisine": "Russian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Strong white flour",
+      "amount": "2 cups",
+      "notes": "high protein content"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Ground beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Combine the flour, egg, water, and salt in a large mixing bowl and knead until a smooth dough forms.",
+    "Wrap the dough in plastic wrap and let it rest for 30 minutes.",
+    "Divide the dough into small balls, about the size of a small egg.",
+    "Roll out each ball of dough into a thin circle.",
+    "Place a tablespoon of ground beef and onion in the center of each circle.",
+    "Fold the dough over the filling to form a half-moon shape and press the edges together to seal the dumpling.",
+    "Bring a large pot of salted water to a boil and gently add the dumplings.",
+    "Reduce the heat to a simmer and cook the dumplings for 10-15 minutes, or until they float to the surface.",
+    "Serve the dumplings hot with a side of sour cream or butter."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "homemade",
+    "kid-friendly",
+    "one-pot",
+    "russian-cuisine",
+    "traditional"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "classic-comforting-russian-dough-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/classic-comforting-russian-dough-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:02:59Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "snappy",
+    "mood": "kid-friendly",
+    "technique": "boil",
+    "primaryIngredient": "strong white flour",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "dough",
+    "descriptor": "Classic Comforting",
+    "dishForm": "Dumplings"
+  }
+}
