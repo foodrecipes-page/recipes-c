@@ -1,0 +1,102 @@
+{
+  "title": "Comforting Chewy Spanish Peas Patatas Bravas",
+  "description": "A hearty and comforting Spanish dish featuring peas and patatas bravas, perfect for a sick day, made with score fat and vegetarian friendly ingredients. This herbal and chewy dish is a variation of the traditional Catalan recipe.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "peas",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "score fat",
+      "amount": "2 tablespoons",
+      "notes": "or vegetable oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store bought"
+    }
+  ],
+  "instructions": [
+    "Heat the score fat in a large pan over medium heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the diced potatoes and cook for about 10 minutes, until they start to brown.",
+    "Add the peas, smoked paprika, salt, and black pepper, and stir to combine.",
+    "Pour in the tomato sauce and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the mixture cook, covered, for about 20 minutes, until the potatoes are tender.",
+    "Serve the patatas bravas hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pan",
+    "spanish-food",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "comforting-chewy-spanish-peas-patatas-bravas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/comforting-chewy-spanish-peas-patatas-bravas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:06:37Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "chewy",
+    "mood": "sick-day",
+    "technique": "score-fat",
+    "primaryIngredient": "peas",
+    "diet": "vegetarian",
+    "region": "catalan",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "peas",
+    "descriptor": "Comforting Chewy",
+    "dishForm": "Patatas Bravas"
+  }
+}
