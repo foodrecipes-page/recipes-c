@@ -1,0 +1,100 @@
+{
+  "title": "Creamy Crusty Russian Squash Flatbread",
+  "description": "A fresh and flaky Russian dish featuring roasted squash on a double-rise bread, perfect for a brunch mood and FODMAP friendly.",
+  "cuisine": "Russian",
+  "diet": [
+    "FODMAP friendly",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "butternut squash",
+      "amount": "1 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "plain Greek yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "dill",
+      "amount": "1 tablespoon",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "garlic free seasoning",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the flour, yeast, salt, and sugar.",
+    "Add the melted butter, yogurt, and mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Let the dough rise in a warm place for 1 hour, or until it has doubled in size.",
+    "Punch down the dough and let it rise for another 30 minutes.",
+    "Roll out the dough to a thickness of 1/4 inch and place on a baking sheet.",
+    "Toss the squash with a little bit of oil and season with salt and garlic free seasoning, then spread over the dough.",
+    "Sprinkle the chopped dill over the squash.",
+    "Bake the flatbread in the preheated oven for 25 minutes, or until the crust is golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 85,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "flatbread",
+    "fodmap-friendly",
+    "russian-cuisine",
+    "squash",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "creamy-crusty-russian-squash-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-crusty-russian-squash-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:06:22Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "flaky",
+    "mood": "brunch-mood",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "squash",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "squash",
+    "descriptor": "Creamy Crusty",
+    "dishForm": "Flatbread"
+  }
+}
