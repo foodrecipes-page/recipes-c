@@ -1,0 +1,102 @@
+{
+  "title": "Creamy Italian Chicken Tagine",
+  "description": "A garlicky and silky Italian dish featuring chicken cooked in a clay tagine with white vinegar and broiled to perfection, halal-friendly and full of adventurous flavors.",
+  "cuisine": "Italian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "white vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400 degrees Fahrenheit.",
+    "In a large clay tagine, heat the olive oil over medium heat.",
+    "Add the minced garlic and cook until fragrant for 1 minute.",
+    "Add the chicken to the tagine and cook until browned on all sides for 5-6 minutes.",
+    "Add the white vinegar, chicken broth, and dried thyme to the tagine and stir to combine.",
+    "Bring the mixture to a simmer and cook for 10 minutes or until the chicken is cooked through.",
+    "Stir in the heavy cream and cook for an additional 2 minutes or until the sauce has thickened slightly.",
+    "Season the mixture with salt and black pepper to taste.",
+    "Transfer the tagine to the broiler and top with grated parmesan cheese.",
+    "Broil for 2-3 minutes or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "clay-cooking",
+    "garlic-lovers",
+    "halal-friendly",
+    "italian-food",
+    "one-pot-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "creamy-italian-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-italian-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:10:31Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "silky",
+    "mood": "adventurous",
+    "technique": "broil",
+    "primaryIngredient": "white vinegar",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "chicken",
+    "descriptor": "Creamy Garlicky",
+    "dishForm": "Tagine"
+  }
+}
