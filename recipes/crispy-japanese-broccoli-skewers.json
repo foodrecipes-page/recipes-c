@@ -1,0 +1,92 @@
+{
+  "title": "Crispy Japanese Broccoli Skewers",
+  "description": "A buttery and snappy solo dinner dish featuring broccoli, this recipe is perfect for a quick and delicious meal, and is also anti-inflammatory friendly.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "broccoli",
+      "amount": "1 head",
+      "notes": "cut into florets"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette grill to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together soy sauce, sesame oil, garlic powder, salt, and black pepper.",
+    "Add the broccoli florets to the bowl and toss to coat with the soy sauce mixture.",
+    "Thread the broccoli florets onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with unsalted butter and sprinkle with lemon juice.",
+    "Place the skewers on the raclette grill and cook for 10-12 minutes, or until crispy and tender.",
+    "Remove the skewers from the grill and let cool for a few minutes before serving.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "crispy-vegetables",
+    "gluten-free",
+    "healthy-dinner",
+    "japanese-cuisine",
+    "quick-meal",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 14
+  },
+  "slug": "crispy-japanese-broccoli-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-japanese-broccoli-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:26:09Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "snappy",
+    "mood": "solo-dinner",
+    "technique": "brine-dry",
+    "primaryIngredient": "broccoli",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "broccoli",
+    "descriptor": "crispy caramelized",
+    "dishForm": "Skewers"
+  }
+}
