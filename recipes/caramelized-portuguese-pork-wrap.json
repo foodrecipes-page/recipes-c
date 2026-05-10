@@ -1,0 +1,99 @@
+{
+  "title": "Caramelized Portuguese Pork Wrap",
+  "description": "Indulge in the rich flavors of Portugal with this caramelized pork wrap, featuring a sweet and sticky sauce, served in a traditional lacquerware bowl.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "ssam wrap",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small saucepan, combine brown sugar, soy sauce, garlic, and ginger, and bring to a boil over medium heat.",
+    "Reduce the heat to low and simmer the sauce for 10 minutes, or until it thickens and caramelizes.",
+    "Season the pork shoulder with salt and black pepper.",
+    "In a large skillet, heat the sesame oil over medium-high heat, then sear the pork shoulder until browned on all sides.",
+    "Transfer the pork to a lacquerware bowl and brush the caramelized sauce all over the pork.",
+    "Wrap the pork in ssam wrap pieces and top with green onions.",
+    "Serve the pork wrap hot, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-fusion",
+    "dinner-ideas",
+    "lacquerware-bowl",
+    "low-glycemic",
+    "pork-recipes",
+    "portuguese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "caramelized-portuguese-pork-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/caramelized-portuguese-pork-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:40:36Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "juicy",
+    "mood": "indulgent",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "caramelized sugar sauce",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "pork",
+    "descriptor": "caramelized juicy",
+    "dishForm": "Wrap"
+  }
+}
