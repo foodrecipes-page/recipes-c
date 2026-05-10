@@ -1,0 +1,91 @@
+{
+  "title": "Creamy Sweet Middle Eastern Buckwheat Bake",
+  "description": "A sweet and silky Middle Eastern inspired bake featuring buckwheat, perfect for a quick dessert or snack. This paleo-friendly dish is easy to make and delicious to eat.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "buckwheat",
+      "amount": "2 cups",
+      "notes": "soaked overnight and drained"
+    },
+    {
+      "name": "almond milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rose water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chopped pistachios",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a blender, combine the soaked and drained buckwheat, almond milk, honey, coconut oil, rose water, cardamom powder, and salt, and blend until smooth.",
+    "Pour the mixture into a 9x9 inch baking dish.",
+    "If using pistachios, sprinkle them on top of the mixture.",
+    "Bake for 35 minutes, or until the edges are set and the center is slightly jiggly.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Serve warm, garnished with additional pistachios if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "buckwheat",
+    "easy-desserts",
+    "middle-eastern",
+    "paleo-friendly",
+    "quick-fix",
+    "sweet-treats"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "creamy-sweet-middle-eastern-buckwheat-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-sweet-middle-eastern-buckwheat-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:36:20Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "silky",
+    "mood": "quick-fix",
+    "technique": "bake",
+    "primaryIngredient": "buckwheat",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "buckwheat",
+    "descriptor": "Creamy sweet",
+    "dishForm": "Bake"
+  }
+}
