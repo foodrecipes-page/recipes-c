@@ -1,0 +1,100 @@
+{
+  "title": "Charred Cozy Portuguese Blackcurrant Tart",
+  "description": "A sweet and tangy Portuguese tart featuring blackcurrant jam, with a charred and molten center, served on a traditional talavera plate. This dessert is perfect for a cozy evening.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "no onion no garlic"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "blackcurrant jam",
+      "amount": "1 cup",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup",
+      "notes": "granulated"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "pure"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "fine"
+    },
+    {
+      "name": "water",
+      "amount": "1 tablespoon",
+      "notes": "cold"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the puff pastry on a lightly floured surface to a thickness of about 1/8 inch.",
+    "In a small bowl, whisk together the eggs, sugar, and vanilla extract.",
+    "Spread the blackcurrant jam over the center of the pastry, leaving a 1 inch border around the edges.",
+    "Fold the edges of the pastry up over the jam, pressing gently to seal.",
+    "Brush the melted butter over the pastry, making sure to stay within the edges.",
+    "Sprinkle the salt over the pastry, then use a knife or kitchen torch to create a decorative edge.",
+    "Place the tart on a talavera plate and bake for 25 minutes, or until the pastry is golden brown and the center is molten.",
+    "Remove the tart from the oven and let it cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "blackcurrant-jam",
+    "cozy-desserts",
+    "no-onion-no-garlic",
+    "portuguese-desserts",
+    "talavera-plate",
+    "tart-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "charred-cozy-portuguese-blackcurrant-tart",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-cozy-portuguese-blackcurrant-tart",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:59:13Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "molten",
+    "mood": "cozy",
+    "technique": "fold",
+    "primaryIngredient": "blackcurrant jam",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "blackcurrant",
+    "descriptor": "charred cozy",
+    "dishForm": "Tart"
+  }
+}
