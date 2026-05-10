@@ -1,0 +1,93 @@
+{
+  "title": "Chewy Smoky Portuguese Pretzel Flatbread",
+  "description": "This nutty and chewy flatbread features pretzels and a smoky flavor, making it a romantic Portuguese dish, and its ingredients are anti-inflammatory friendly. It is perfect for a snack or light meal.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pretzels",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "whole wheat flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, smoked paprika, salt, and turmeric.",
+    "Add the crushed pretzels, olive oil, garlic, and water to the bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Roll out the dough into a large rectangle.",
+    "Place the dough on a baking sheet lined with parchment paper.",
+    "Bake the flatbread for 20 minutes or until it is golden brown.",
+    "Remove the flatbread from the oven and let it cool for 5 minutes.",
+    "Slice the flatbread into strips and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chewy-texture",
+    "gluten-free-option",
+    "portuguese-cuisine",
+    "smoky-flavor",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "chewy-smoky-portuguese-pretzel-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-smoky-portuguese-pretzel-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:11:14Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "chewy",
+    "mood": "romantic",
+    "technique": "smoke",
+    "primaryIngredient": "pretzels",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "pretzels",
+    "descriptor": "Chewy Smoky",
+    "dishForm": "Flatbread"
+  }
+}
