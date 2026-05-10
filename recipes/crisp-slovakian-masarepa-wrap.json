@@ -1,0 +1,90 @@
+{
+  "title": "Crisp Slovakian Masarepa Wrap",
+  "description": "A comforting Slovakian dish featuring crispy masarepa and ssam-wrap, perfect for a sick day.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "fodmap-friendly",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "White Masarepa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "1/4 cup, crumbled"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a bowl, mix together the masarepa, egg, feta cheese, parsley, garlic powder, salt, and black pepper.",
+    "Heat a non-stick pan with 1 tablespoon of vegetable oil over medium heat.",
+    "Shape the masarepa mixture into a ball and flatten it slightly into a disk shape.",
+    "Cook the masarepa disk in the pan for 2-3 minutes on each side, until crispy and golden brown.",
+    "Transfer the pan to the preheated oven and bake for 5-7 minutes, until the masarepa is crispy and cooked through.",
+    "Wrap the crispy masarepa in a ssam-wrap and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-to-make",
+    "fodmap-friendly",
+    "gluten-free",
+    "high-protein",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 30,
+    "fat": 18
+  },
+  "slug": "crisp-slovakian-masarepa-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-slovakian-masarepa-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T05:44:42Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crisp",
+    "mood": "sick-day",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "white masarepa",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Masarepa",
+    "descriptor": "Crisp",
+    "dishForm": "Wrap"
+  }
+}
