@@ -1,0 +1,96 @@
+{
+  "title": "Creamy Citrusy Italian Citrus Paccheri Pasta",
+  "description": "A show-off Italian dish featuring paccheri pasta, citrus flavors, and a glassy-jelly texture, made with baking powder and cooked in a bain-marie.",
+  "cuisine": "Italian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paccheri pasta",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the paccheri pasta according to package instructions until al dente.",
+    "In a medium saucepan, whisk together the heavy cream, lemon juice, orange juice, and baking powder.",
+    "Place the saucepan over a bain-marie and cook, stirring constantly, until the mixture thickens and forms a glassy-jelly texture.",
+    "Remove the saucepan from the bain-marie and stir in the unsalted butter until melted.",
+    "Add the grated parmesan cheese to the saucepan and stir until smooth and creamy.",
+    "Drain the cooked paccheri pasta and add it to the saucepan, tossing to combine with the creamy citrus sauce.",
+    "Season with salt to taste.",
+    "Serve the paccheri pasta hot, garnished with chopped fresh parsley.",
+    "Let the dish cool slightly before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrus-flavors",
+    "italian-food",
+    "pasta-dishes",
+    "special-occasion",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 24
+  },
+  "slug": "creamy-citrusy-italian-citrus-paccheri-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-citrusy-italian-citrus-paccheri-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:44:22Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "glassy-jelly",
+    "mood": "show-off",
+    "technique": "bain-marie",
+    "primaryIngredient": "baking powder",
+    "diet": "ovo-vegetarian",
+    "region": "calabrian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "citrus",
+    "descriptor": "Creamy Citrusy",
+    "dishForm": "Paccheri Pasta"
+  }
+}
