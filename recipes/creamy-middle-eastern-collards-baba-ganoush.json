@@ -1,0 +1,91 @@
+{
+  "title": "Creamy Middle Eastern Collards Baba Ganoush",
+  "description": "A quick and creamy Middle Eastern dish featuring collards in a baba ganoush form, made in a cast-iron skillet using a bain-marie method, and is macrobiotic-friendly.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "macrobiotic",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "collard greens",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tahini",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Fill a large pot with water and bring it to a boil to create a bain-marie.",
+    "Reduce the heat to a simmer and place a cast-iron skillet over the pot, making sure the bottom of the skillet is not touching the water.",
+    "Add the chopped collard greens to the skillet and cook, covered, until they are tender, about 10 minutes.",
+    "Remove the skillet from the heat and let it cool slightly.",
+    "Add the lemon juice, tahini, garlic, olive oil, salt, and paprika to the skillet with the collard greens.",
+    "Blend the mixture with an immersion blender until it is smooth and creamy.",
+    "Return the skillet to the bain-marie and cook, stirring constantly, until the mixture is heated through.",
+    "Remove the skillet from the heat and serve the baba ganoush warm.",
+    "Garnish with paprika and serve with pita bread or vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "macrobiotic",
+    "middle-eastern",
+    "one-pan",
+    "quick-fix",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "creamy-middle-eastern-collards-baba-ganoush",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-middle-eastern-collards-baba-ganoush",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:51:06Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "silky",
+    "mood": "quick-fix",
+    "technique": "bain-marie",
+    "primaryIngredient": "collards",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "collards",
+    "descriptor": "Creamy Silky",
+    "dishForm": "Baba Ganoush"
+  }
+}
