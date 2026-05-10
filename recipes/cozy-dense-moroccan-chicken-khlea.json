@@ -1,0 +1,94 @@
+{
+  "title": "Cozy Dense Moroccan Chicken Khlea",
+  "description": "A hearty and flavorful Moroccan dish featuring chicken, mustard, and tabasco sauce, cooked in a kazan cauldron to create a dense and cozy khlea, double-fry-kfc style and dairy-free friendly.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tabasco sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a kazan cauldron over medium-high heat.",
+    "Add the chicken thighs and cook until browned on all sides, about 5 minutes.",
+    "Remove the chicken from the cauldron and set aside.",
+    "Add the minced garlic and grated ginger to the cauldron and cook for 1 minute.",
+    "Add the mustard, tabasco sauce, cumin, and paprika to the cauldron and stir to combine.",
+    "Add the chicken back to the cauldron and stir to coat with the spice mixture.",
+    "Reduce heat to medium-low and simmer, covered, for 20 minutes.",
+    "Increase heat to medium-high and cook, uncovered, for an additional 10 minutes, or until the chicken is cooked through and the khlea is dense and cozy.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "cozy-dinners",
+    "dairy-free",
+    "moroccan-cuisine",
+    "one-pot",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "cozy-dense-moroccan-chicken-khlea",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-dense-moroccan-chicken-khlea",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:44:31Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "dense",
+    "mood": "cozy",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "tabasco sauce",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "chicken",
+    "descriptor": "Cozy Dense",
+    "dishForm": "Khlea"
+  }
+}

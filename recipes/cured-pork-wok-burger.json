@@ -1,0 +1,102 @@
+{
+  "title": "Cured Pork Wok Burger",
+  "description": "A smoky, savory, and velvety burger featuring cured ground pork, crispy lamination puff, and a rich wok-seared flavor, perfect for curing a hangover in a traditional Syrian dish.",
+  "cuisine": "Syrian",
+  "diet": [
+    "kosher",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Ground Pork",
+      "amount": "500g"
+    },
+    {
+      "name": "Lamination Puff Pastry",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the wok over medium heat.",
+    "In a bowl, combine ground pork, paprika, cumin, salt, and black pepper. Mix well.",
+    "Add olive oil to the wok and swirl to coat.",
+    "Add the onion and garlic to the wok and cook until softened.",
+    "Add the mixed ground pork to the wok and cook until browned, breaking up with a spatula.",
+    "Roll out the lamination puff pastry and place it in the wok.",
+    "Press the pastry into the wok to form a crust.",
+    "Top the pastry with the cooked pork mixture.",
+    "Fold the pastry edges to form a crust and press to seal.",
+    "Cook for 10 minutes or until the pastry is golden brown.",
+    "Serve hot garnished with fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "burger",
+    "gluten-free",
+    "kosher-friendly",
+    "syrian",
+    "wok-seared"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 36
+  },
+  "slug": "cured-pork-wok-burger",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/cured-pork-wok-burger",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T01:44:49Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "velvety",
+    "mood": "hangover-cure",
+    "technique": "lamination-puff",
+    "primaryIngredient": "ground pork",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "ground pork",
+    "descriptor": "smoky, velvety cured",
+    "dishForm": "Burger"
+  }
+}
