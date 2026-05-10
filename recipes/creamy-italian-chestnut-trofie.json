@@ -1,0 +1,99 @@
+{
+  "title": "Creamy Italian Chestnut Trofie",
+  "description": "A buttery and pillowy Italian dish from Piedmont, featuring chestnuts and dumplings, perfect for a sick day. This raw-friendly trofie recipe is a comforting and delicious meal.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chestnuts",
+      "amount": "1 1/2 cups",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour and eggs to make the trofie dough.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Wrap the dough in plastic wrap and let it rest for 30 minutes.",
+    "Roll out the dough to a thickness of 1/4 inch and cut it into trofie shapes.",
+    "Bring a large pot of salted water to a boil and cook the trofie for 3-5 minutes, or until they float to the surface.",
+    "In a large skillet, melt the butter over medium heat and add the chopped chestnuts.",
+    "Cook the chestnuts for 5 minutes, or until they are lightly browned and fragrant.",
+    "Add the heavy cream to the skillet and stir to combine with the chestnuts and butter.",
+    "Bring the cream mixture to a simmer and let it cook for 2-3 minutes, or until it has thickened slightly.",
+    "Add the cooked trofie to the cream mixture and toss to combine with the chestnuts and sauce.",
+    "Season the trofie with salt, black pepper, and grated grana padano cheese."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "italian-food",
+    "one-pot-meal",
+    "pasta-dish",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 18,
+    "carbs": 64,
+    "fat": 24
+  },
+  "slug": "creamy-italian-chestnut-trofie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-italian-chestnut-trofie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:31:31Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "pillowy",
+    "mood": "sick-day",
+    "technique": "dum",
+    "primaryIngredient": "chestnuts",
+    "diet": "raw",
+    "region": "piedmontese",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "chestnuts",
+    "descriptor": "Creamy",
+    "dishForm": "Trofie"
+  }
+}
