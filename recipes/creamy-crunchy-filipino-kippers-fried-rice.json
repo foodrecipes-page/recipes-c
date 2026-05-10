@@ -1,0 +1,107 @@
+{
+  "title": "Creamy Crunchy Filipino Kippers Fried Rice",
+  "description": "A resinous and bouncy Filipino dish featuring kippers, perfect for meal prep, and egg-free friendly. This recipe combines the flavors of kippers with the crunch of fried rice.",
+  "cuisine": "Filipino",
+  "diet": [
+    "egg-free",
+    "fish-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kippers",
+      "amount": "1 cup",
+      "notes": "drained and flaked"
+    },
+    {
+      "name": "cooked rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "calamansi juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "crushed ice",
+      "amount": "1 cup",
+      "notes": "for deglazing"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for another minute, until fragrant.",
+    "Add the flaked kippers and cook for about 2 minutes, until heated through.",
+    "Add the cooked rice to the skillet or wok, breaking up any clumps with a spatula.",
+    "Stir-fry the rice mixture for about 5 minutes, until everything is well combined and heated through.",
+    "Add the fish sauce, soy sauce, and calamansi juice to the rice mixture, stirring to combine.",
+    "Use the crushed ice to deglaze the skillet or wok, scraping up any browned bits from the bottom.",
+    "Transfer the fried rice to a serving platter and garnish with chopped scallions.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-food",
+    "fish-based",
+    "meal-prep",
+    "one-pan",
+    "quick-and-easy",
+    "resinous-dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "creamy-crunchy-filipino-kippers-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-crunchy-filipino-kippers-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:04:23Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "bouncy-qq",
+    "mood": "meal-prep",
+    "technique": "deglaze",
+    "primaryIngredient": "kippers",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "kippers",
+    "descriptor": "Creamy Crunchy",
+    "dishForm": "Fried-Rice"
+  }
+}
