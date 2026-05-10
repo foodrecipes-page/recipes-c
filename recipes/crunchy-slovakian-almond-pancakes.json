@@ -1,0 +1,95 @@
+{
+  "title": "Crunchy Slovakian Almond Pancakes",
+  "description": "A yeasty and crumbly Slovakian dish featuring almond milk and confit tomato, perfect for a midnight craving, and friendly to dairy free diets.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "almond milk",
+      "amount": "1 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "confit tomato",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "almond oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sliced almonds",
+      "amount": "1/4 cup",
+      "notes": "toasted"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, yeast, sugar, and salt.",
+    "Gradually add the chilled almond milk to the dry ingredients and mix until a smooth batter forms.",
+    "Fold in the diced confit tomato and toasted sliced almonds.",
+    "Heat the almond oil in a large non-stick skillet over medium heat.",
+    "Using a 1/4 cup measuring cup, scoop the batter into the skillet.",
+    "Cook the pancakes for 2-3 minutes on each side, until golden brown and crispy.",
+    "Serve the pancakes warm, garnished with additional sliced almonds if desired.",
+    "Repeat the cooking process until all the batter is used up.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 2 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "almond-based",
+    "crunchy",
+    "dairy-free",
+    "midnight-cravings",
+    "slovakian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "crunchy-slovakian-almond-pancakes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-slovakian-almond-pancakes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:04:16Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crumbly",
+    "mood": "midnight-craving",
+    "technique": "confit-tomato",
+    "primaryIngredient": "almond milk",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "almonds",
+    "descriptor": "Crumbly Crunchy",
+    "dishForm": "Pancakes"
+  }
+}
