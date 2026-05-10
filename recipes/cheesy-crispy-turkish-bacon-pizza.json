@@ -1,0 +1,105 @@
+{
+  "title": "Cheesy Crispy Turkish Bacon Pizza",
+  "description": "A deliciously buttery, cheese-pull Turkish dish featuring crispy bacon on a homemade pizza base, perfect for a crowd-pleasing meal.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 packet (2.25 teaspoons)"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dairy-free butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "turkish bacon",
+      "amount": "4 slices"
+    },
+    {
+      "name": "pizza sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded mozzarella cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded feta cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Combine 1 cup of warm water, yeast, and 1 teaspoon of sugar in a large mixing bowl. Let it sit for 10 minutes until foamy.",
+    "Add the flour, salt, and 1/4 cup of dairy-free butter to the bowl. Mix until a soft dough forms.",
+    "Knead the dough for 10 minutes until smooth and elastic. Place it in a greased bowl, cover, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 425°F (220°C). Punch down the dough and divide it into 4 equal portions.",
+    "Roll out each portion into a thin circle. Place the dough on a pizza sheet or a lazy Susan spinner.",
+    "Spread 1/4 cup of pizza sauce over the dough, leaving a 1/2 inch border around the edges.",
+    "Arrange 4 slices of turkish bacon on top of the sauce.",
+    "Sprinkle 1/2 cup of shredded mozzarella cheese and 1/4 cup of shredded feta cheese over the bacon.",
+    "Season with garlic powder and sprinkle some fresh parsley on top.",
+    "Bake in the preheated oven for 15-20 minutes until the crust is golden brown and the cheese is melted and bubbly.",
+    "Remove from the oven and let it cool for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bacon",
+    "cheesy",
+    "crowd-pleaser",
+    "dairy-free-friendly",
+    "homemade",
+    "lazy-susan",
+    "pizza",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 30,
+    "carbs": 80,
+    "fat": 48
+  },
+  "slug": "cheesy-crispy-turkish-bacon-pizza",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/cheesy-crispy-turkish-bacon-pizza",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T04:31:21Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "cheese-pull",
+    "mood": "crowd-pleaser",
+    "technique": "knead",
+    "primaryIngredient": "bacon",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "turkish",
+    "mainIngredient": "bacon",
+    "descriptor": "cheesy crispy",
+    "dishForm": "pizza"
+  }
+}
