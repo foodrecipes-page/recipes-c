@@ -1,0 +1,102 @@
+{
+  "title": "Crisp Citrus Spanish Shrimp Paella",
+  "description": "A briny and light Spanish dish featuring succulent shrimp, infused with the warmth of cayenne pepper, perfect for a romantic evening.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cauliflower rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the shrimp and cook until pink, about 2-3 minutes per side, then set aside.",
+    "Add the smoked paprika, cayenne pepper, sea salt, and black pepper to the skillet and stir for 1 minute.",
+    "Add the cauliflower rice to the skillet, stirring to combine with the spice mixture, and cook for 5 minutes.",
+    "Add the chicken broth to the skillet and bring to a boil, then reduce the heat to low and simmer, covered, for 10 minutes.",
+    "Stir in the lemon juice and cook for an additional 2 minutes.",
+    "Return the shrimp to the skillet and stir to combine with the cauliflower rice mixture.",
+    "Cook, uncovered, for an additional 2 minutes, until the shrimp are heated through and the liquid has been absorbed.",
+    "Stir in the chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "low-carb",
+    "one-pan",
+    "romantic-dinner",
+    "seafood",
+    "spanish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "crisp-citrus-spanish-shrimp-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-citrus-spanish-shrimp-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:24:04Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "light",
+    "mood": "romantic",
+    "technique": "blanch",
+    "primaryIngredient": "cayenne pepper",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "shrimp",
+    "descriptor": "Crisp Citrus",
+    "dishForm": "Paella"
+  }
+}
