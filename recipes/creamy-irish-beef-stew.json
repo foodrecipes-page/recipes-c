@@ -1,0 +1,106 @@
+{
+  "title": "Creamy Irish Beef Stew",
+  "description": "A hearty and comforting Irish dish featuring tender beef, rich praline-french mustard, and a hint of dashi extract, all while being diabetic-friendly.",
+  "cuisine": "Irish",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "praline-french mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, whisk together the praline-french mustard and dashi extract.",
+    "Add the beef to the bowl and toss to coat with the mustard mixture.",
+    "Heat a large skillet over medium-high heat and brown the beef on all sides.",
+    "Transfer the browned beef to a ramekin, leaving the drippings in the skillet.",
+    "Add the chopped onion to the skillet and cook until softened.",
+    "Add the chopped carrots and potatoes to the skillet and cook for 5 minutes.",
+    "Add the chicken broth, browned beef, salt, and pepper to the skillet and bring to a boil.",
+    "Cover the skillet and transfer to the preheated oven.",
+    "Bake for 2.5 hours or until the beef is tender.",
+    "Stir in the heavy cream and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "comfort-food",
+    "diabetic-friendly",
+    "hearty-stew",
+    "irish-cuisine",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "creamy-irish-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-irish-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:49:09Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "juicy",
+    "mood": "comforting",
+    "technique": "dashi-extract",
+    "primaryIngredient": "praline-french",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "beef",
+    "descriptor": "Comforting Creamy",
+    "dishForm": "Stew"
+  }
+}
