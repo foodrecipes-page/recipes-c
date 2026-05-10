@@ -1,0 +1,96 @@
+{
+  "title": "Comforting Charred British Lamb Sunday Roast",
+  "description": "A traditional British lamb roast with a charred crust, featuring papelon and a sweet glaze, cooked to perfection in a tagine pot. This dish is low in glycemic index, making it a great option for those with dietary restrictions.",
+  "cuisine": "British",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 kg",
+      "notes": "boneless"
+    },
+    {
+      "name": "papelon",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 220 degrees Celsius.",
+    "In a small bowl, mix together papelon, olive oil, garlic, honey, apple cider vinegar, thyme, salt, and black pepper to make the glaze.",
+    "Season the lamb shoulder with salt and black pepper.",
+    "Place the lamb shoulder in the tagine pot and brush the glaze all over the lamb.",
+    "Roast the lamb in the preheated oven for 20 minutes to char the crust.",
+    "Reduce the oven temperature to 180 degrees Celsius and continue roasting for 2 hours, or until the lamb is cooked to an internal temperature of 70 degrees Celsius.",
+    "Remove the lamb from the oven and let it rest for 15 minutes before slicing and serving.",
+    "Strain the juices from the tagine pot and serve alongside the lamb."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 140,
+  "totalTimeMin": 170,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "comfort-food",
+    "lamb-recipes",
+    "low-glycemic",
+    "sunday-roast",
+    "tagine-pot"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "comforting-charred-british-lamb-sunday-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/comforting-charred-british-lamb-sunday-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:16:26Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "flaky",
+    "mood": "comforting",
+    "technique": "glaze",
+    "primaryIngredient": "papelon",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "lamb",
+    "descriptor": "Comforting Charred",
+    "dishForm": "Sunday Roast"
+  }
+}
