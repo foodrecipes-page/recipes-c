@@ -1,0 +1,103 @@
+{
+  "title": "Crunchy Charred Venetian Napa Cabbage Cassata",
+  "description": "A spicy and flaky Italian dish featuring Napa cabbage, smoke, and high protein, wrapped in pandan leaves. This adventurous cassata is perfect for those looking for a unique and savory meal.",
+  "cuisine": "Italian",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Napa cabbage",
+      "amount": "1 head",
+      "notes": "shredded"
+    },
+    {
+      "name": "Prosciutto",
+      "amount": "6 slices",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ricotta cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Spicy Italian sausage",
+      "amount": "1 pound",
+      "notes": "casings removed"
+    },
+    {
+      "name": "Pandan leaves",
+      "amount": "6 leaves"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, cook the Italian sausage over medium-high heat, breaking it up with a spoon as it cooks.",
+    "Add the chopped prosciutto to the skillet and cook until crispy.",
+    "In a large bowl, combine the cooked sausage and prosciutto, shredded Napa cabbage, ricotta cheese, Parmesan cheese, salt, black pepper, and red pepper flakes.",
+    "Lay a pandan leaf flat on a work surface and place about 1/6 of the cabbage mixture in the center of the leaf.",
+    "Fold the leaf over the filling to form a triangle or square shape, and repeat with the remaining leaves and filling.",
+    "Place the cassata on a baking sheet lined with parchment paper, brush with olive oil, and bake for 25 minutes.",
+    "Increase the oven temperature to broil and cook for an additional 2-3 minutes, or until the leaves are charred and crispy.",
+    "Remove the cassata from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "italian-food",
+    "smoky-flavors",
+    "unique-ingredients",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "crunchy-charred-venetian-napa-cabbage-cassata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-charred-venetian-napa-cabbage-cassata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:08:39Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "flaky",
+    "mood": "adventurous",
+    "technique": "smoke",
+    "primaryIngredient": "napa cabbage",
+    "diet": "high-protein",
+    "region": "venetian",
+    "cuisineAdjective": "Venetian",
+    "mainIngredient": "napa cabbage",
+    "descriptor": "Crunchy Charred",
+    "dishForm": "Cassata"
+  }
+}
