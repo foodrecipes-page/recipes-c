@@ -1,0 +1,101 @@
+{
+  "title": "Creamy Vietnamese Rice Wrap",
+  "description": "A fatty and silky Vietnamese dish featuring seasoned rice vinegar and namul-blanch-season, perfect for a monsoon day. This vegetarian-friendly dish is wrapped in a ti-leaf vessel.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice vinegar",
+      "amount": "1/2 cup",
+      "notes": "seasoned with sugar and salt"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "12 pieces"
+    },
+    {
+      "name": "jasmine rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "namul",
+      "amount": "1 cup",
+      "notes": "blanched and seasoned"
+    },
+    {
+      "name": "mung bean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "julienned"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "tofu",
+      "amount": "1/2 cup",
+      "notes": "pan-fried"
+    },
+    {
+      "name": "peanut sauce",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Prepare the seasoned rice vinegar by mixing it with sugar and salt in a small bowl.",
+    "Cook the jasmine rice according to package instructions.",
+    "Blanch and season the namul in boiling water for 2 minutes.",
+    "Prepare the filling by mixing the cooked rice, namul, mung bean sprouts, carrots, cucumber, and tofu in a large bowl.",
+    "Add the peanut sauce to the filling and mix well.",
+    "Lay a ti leaf flat on a work surface and add about 1/2 cup of the filling in the center of the leaf.",
+    "Fold the bottom half of the leaf over the filling, then fold in the sides and roll up the leaf to form a tight wrap.",
+    "Repeat with the remaining ingredients to make 12 wraps.",
+    "Serve the wraps immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "monsoon-food",
+    "namul-blanch-season",
+    "rice-vinegar",
+    "ti-leaf-wrap",
+    "vegetarian-friendly",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "creamy-vietnamese-rice-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-vietnamese-rice-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:33:19Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "silky",
+    "mood": "monsoon",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "seasoned rice vinegar",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "rice",
+    "descriptor": "creamy silky",
+    "dishForm": "Wrap"
+  }
+}
