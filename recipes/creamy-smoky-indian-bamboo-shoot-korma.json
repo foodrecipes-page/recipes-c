@@ -1,0 +1,111 @@
+{
+  "title": "Creamy Smoky Indian Bamboo Shoot Korma",
+  "description": "A smoky and juicy Indian dish featuring bamboo shoot in a creamy korma sauce, perfect for flexitarian diets. This adventurous Udupi-style recipe is made with candy and cooked on a tava-griddle.",
+  "cuisine": "Indian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bamboo shoot",
+      "amount": "1 cup",
+      "notes": "canned or fresh, sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "candy",
+      "amount": "1/4 cup",
+      "notes": "chopped, like jaggery or caramel"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup",
+      "notes": "plain, low-fat"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons",
+      "notes": "vegetable or canola"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a tava-griddle over medium heat.",
+    "Add chopped onion and cook until translucent, about 5 minutes.",
+    "Add minced garlic and grated ginger, cook for 1 minute.",
+    "Add sliced bamboo shoot and cook until lightly browned, about 5 minutes.",
+    "Add chopped candy, garam masala, smoked paprika, and salt, stir well.",
+    "Cook for 2 minutes, until the candy is melted and the mixture is fragrant.",
+    "Stir in plain yogurt and cook for 2-3 minutes, until the sauce is creamy and smooth.",
+    "Reduce heat to low and simmer for 10 minutes, until the flavors are well combined.",
+    "Serve hot, garnished with chopped cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "creamy",
+    "flexitarian",
+    "indian-cuisine",
+    "one-pan",
+    "smoky",
+    "udupi-style"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "creamy-smoky-indian-bamboo-shoot-korma",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-smoky-indian-bamboo-shoot-korma",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:17:43Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "candy",
+    "primaryIngredient": "bamboo shoot",
+    "diet": "flexitarian",
+    "region": "udupi",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "bamboo shoot",
+    "descriptor": "Creamy Smoky",
+    "dishForm": "Korma"
+  }
+}
