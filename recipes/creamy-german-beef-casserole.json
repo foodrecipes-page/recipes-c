@@ -1,0 +1,105 @@
+{
+  "title": "Creamy German Beef Casserole",
+  "description": "A hearty German dish featuring feather blade beef in a rich creamy sauce, perfect for a crowd, this macrobiotic friendly recipe is also enhanced with bonito flakes for added depth of flavor.",
+  "cuisine": "German",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "feather blade beef",
+      "amount": "500g",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large pan over medium heat, melt 1 tablespoon of butter and cook the chopped onion until it is translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the cubed beef to the pan and cook until it is browned on all sides.",
+    "Add the bonito flakes, flour, thyme, salt, and pepper to the pan and stir to combine.",
+    "Gradually add the heavy cream and beef broth to the pan, whisking constantly to avoid lumps.",
+    "Bring the mixture to a simmer and cook until it has thickened, stirring occasionally.",
+    "Transfer the mixture to a 9x13 inch baking dish and dot the top with the remaining 1 tablespoon of butter.",
+    "Bake the casserole in the preheated oven for 25 minutes, or until it is hot and the top is lightly browned."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "crowd-pleaser",
+    "hearty",
+    "macrobiotic",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "creamy-german-beef-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-german-beef-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:38:49Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "creamy",
+    "mood": "crowd-pleaser",
+    "technique": "bonito-shave",
+    "primaryIngredient": "feather blade beef",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "beef",
+    "descriptor": "Creamy",
+    "dishForm": "Casserole"
+  }
+}
