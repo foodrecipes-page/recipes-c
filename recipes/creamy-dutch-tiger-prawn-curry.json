@@ -1,0 +1,103 @@
+{
+  "title": "Creamy Dutch Tiger Prawn Curry",
+  "description": "A nutty and tender monsoon Dutch dish featuring tiger prawns, this halal-friendly curry is made with a mortar-pestle-pound spice blend. It is a delicious and flavorful meal perfect for dinner.",
+  "cuisine": "Dutch",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tiger prawns",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pan over medium heat.",
+    "Add the onion and cook until it is translucent.",
+    "Add the garlic, coriander seeds, and cumin seeds, and cook for 1 minute.",
+    "Using a mortar and pestle, pound the curry powder into a fine paste.",
+    "Add the curry paste to the pan and cook for 1 minute.",
+    "Add the tiger prawns and cook until they are pink and fully cooked.",
+    "Add the coconut milk and stir to combine.",
+    "Bring the mixture to a simmer and cook until it has thickened slightly.",
+    "Season with salt and black pepper to taste.",
+    "Serve the curry hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-milk-based",
+    "curry",
+    "dutch-cuisine",
+    "halal-friendly",
+    "monsoon-season",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "creamy-dutch-tiger-prawn-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-dutch-tiger-prawn-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:11:59Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "tender",
+    "mood": "monsoon",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "tiger prawns",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "tiger prawns",
+    "descriptor": "creamy tender",
+    "dishForm": "Curry"
+  }
+}
