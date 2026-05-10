@@ -1,0 +1,101 @@
+{
+  "title": "Creamy Middle Eastern Lentils Harees",
+  "description": "A spicy and juicy slow-cooked Middle Eastern dish featuring clotted cream, perfect for a sick day, this vegetarian-friendly Harees is a comforting and flavorful meal. It is made with red lentils, onions, and aromatic spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "clotted cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the ground cumin, smoked paprika, salt, and black pepper, and cook for 1 minute, until the spices are fragrant.",
+    "Add the red lentils, water, and bring to a boil.",
+    "Reduce the heat to low, cover the pot, and simmer for 30 minutes, until the lentils are tender.",
+    "Stir in the clotted cream and cook for an additional 10 minutes, until the Harees has thickened slightly.",
+    "Serve the Harees hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lentil-dishes",
+    "middle-eastern",
+    "one-pot",
+    "slow-cooked",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "creamy-middle-eastern-lentils-harees",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-middle-eastern-lentils-harees",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:32:37Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "juicy",
+    "mood": "sick-day",
+    "technique": "slow-cook",
+    "primaryIngredient": "clotted cream",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "lentils",
+    "descriptor": "Creamy Comforting",
+    "dishForm": "Harees"
+  }
+}
