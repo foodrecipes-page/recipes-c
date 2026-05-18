@@ -1,0 +1,104 @@
+{
+  "title": "Charred Creamy Saudi-Arabian Long-Bean Mushimono",
+  "description": "A simple and delicious weeknight meal featuring charred long-beans and a creamy sauce, steam-cooked in a traditional Saudi-Arabian style.",
+  "cuisine": "Saudi-Arabian",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Long-beans",
+      "amount": "250g"
+    },
+    {
+      "name": "Ghee or vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Yogurt (fodmap-friendly)",
+      "amount": "150g"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Cut the long-beans into 5cm pieces and brush with 1 tablespoon of ghee or oil.",
+    "Grill the long-beans for 5 minutes on each side, or until charred and slightly tender.",
+    "In a pot, heat the remaining 1 tablespoon of ghee or oil over medium heat.",
+    "Add the chopped onion and cook for 3-4 minutes, or until translucent.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the cumin powder, coriander powder, salt, and black pepper, and cook for 1 minute.",
+    "Add the grilled long-beans to the pot and stir to combine.",
+    "In a small bowl, mix together the yogurt and a pinch of salt.",
+    "Pour the yogurt mixture over the long-beans and stir to combine.",
+    "Cook for another 2-3 minutes, or until the sauce has thickened slightly.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "saudi-arabian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 14
+  },
+  "slug": "charred-creamy-saudi-arabian-long-bean-mushimono",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-creamy-saudi-arabian-long-bean-mushimono",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:22:37Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "creamy",
+    "mood": "weeknight",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "long-bean",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "long-bean",
+    "descriptor": "charred creamy",
+    "dishForm": "Mushimono"
+  }
+}
