@@ -1,0 +1,108 @@
+{
+  "title": "Creamy Aerated Peruvian Rice Paella",
+  "description": "Rich, aerated Peruvian dish featuring cilantro leaves and nuka-pickle. Suitable for a lazy Sunday.",
+  "cuisine": "Peruvian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Peruvian Long Grain Rice",
+      "amount": "1 1/2 cups",
+      "notes": "medium-grain rice is ideal for paella"
+    },
+    {
+      "name": "Bone Broth",
+      "amount": "4 cups",
+      "notes": "use store-bought or homemade broth"
+    },
+    {
+      "name": "Cilantro Leaves",
+      "amount": "2 cups",
+      "notes": "fresh cilantro for garnish and added flavor"
+    },
+    {
+      "name": "Nuka-Pickle (Kimchi) Pieces",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade kimchi works well"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4",
+      "notes": "minced for added flavor"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp",
+      "notes": "optional, for added smokiness"
+    },
+    {
+      "name": "Kosher Salt",
+      "amount": "1 tsp",
+      "notes": "used to season the dish"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": "used to season the dish"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "used to heat the paella pan"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tbsp",
+      "notes": "used to enrich the dish"
+    }
+  ],
+  "instructions": [
+    "Heat the paella pan over medium-high heat.",
+    "Add the olive oil and swirl to coat the pan.",
+    "Add the minced garlic and cook for 2 minutes.",
+    "Add the Peruvian rice and cook for 2 minutes, stirring constantly.",
+    "Add the bone broth, smoked paprika, kosher salt, and black pepper.",
+    "Bring to a boil, then reduce heat to low and simmer for 20 minutes.",
+    "Stir in the nuka-pickle pieces and cook for an additional 5 minutes.",
+    "Stir in the unsalted butter until melted and fully incorporated.",
+    "Remove from heat and let rest for 5 minutes.",
+    "Garnish with fresh cilantro leaves before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "peruvian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 35,
+    "fat": 24
+  },
+  "slug": "creamy-aerated-peruvian-rice-paella",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-aerated-peruvian-rice-paella",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T21:15:23Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "aerated",
+    "mood": "lazy-sunday",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "cilantro leaves",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "rice",
+    "descriptor": "Creamy, Aerated",
+    "dishForm": "Paella"
+  }
+}
