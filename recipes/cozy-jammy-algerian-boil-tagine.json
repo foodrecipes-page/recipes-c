@@ -1,0 +1,112 @@
+{
+  "title": "cozy jammy algerian boil tagine",
+  "description": "a shaggy, low-fuss boil featuring mayonnaise and spices, inspired by algerian cuisine.",
+  "cuisine": "algerian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mayonnaise",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can (14 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "carrots",
+      "amount": "4",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "green beans",
+      "amount": "1 cup",
+      "notes": "trimmed and cut"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "heat the water in a large saucepan over medium heat.",
+    "add the onion and garlic and cook until softened, about 5 minutes.",
+    "add the carrots, potatoes, and green beans, and cook for another 5 minutes.",
+    "stir in the cumin, paprika, salt, and black pepper.",
+    "add the chickpeas and mayonnaise, and stir to combine.",
+    "reduce heat to low and simmer, covered, for 20 minutes.",
+    "serve hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "low-fuss",
+    "one-pan",
+    "shojin",
+    "tagine",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "cozy-jammy-algerian-boil-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-jammy-algerian-boil-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:34:46Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "shaggy",
+    "mood": "cozy",
+    "technique": "boil",
+    "primaryIngredient": "mayonnaise",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Boil",
+    "descriptor": "Cozy Jammy",
+    "dishForm": "Tagine"
+  }
+}

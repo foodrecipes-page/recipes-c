@@ -1,0 +1,101 @@
+{
+  "title": "Crisp Fried Spanish Fried Rice Paella",
+  "description": "A flavorful and crispy adaptation of traditional Spanish paella, made with fresh ingredients and a twist of Thai fried rice.",
+  "cuisine": "spanish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Thai fried rice khao khua",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Chorizo Spanish sausage",
+      "amount": "1/2 cup sliced"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves minced"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 cup peeled and deveined"
+    },
+    {
+      "name": "Bay leaves",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the chorizo and cook, stirring occasionally, until browned and crispy, about 4 minutes.",
+    "Add the garlic and smoked paprika and cook for 1 minute, stirring constantly.",
+    "Add the shrimp and cook until pink and just cooked through, about 2-3 minutes.",
+    "Stir in the Thai fried rice, bay leaves, salt, and black pepper.",
+    "Cook for 2-3 minutes, stirring constantly, until the rice is heated through and starting to brown.",
+    "Drizzle with lemon juice and stir to combine.",
+    "Remove from heat and garnish with chopped parsley if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "fodmap-friendly",
+    "one-pan",
+    "seafood",
+    "spanish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 26,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "crisp-fried-spanish-fried-rice-paella",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-fried-spanish-fried-rice-paella",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:34:40Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crisp",
+    "mood": "weeknight",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "bay leaves",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Fried Rice",
+    "descriptor": "Crisp Fried",
+    "dishForm": "Paella"
+  }
+}
