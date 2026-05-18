@@ -1,0 +1,111 @@
+{
+  "title": "Crispy Fried Peruvian Pumpkin Seeds Ceviche",
+  "description": "A Peruvian-inspired dish that combines the crunch of fried pumpkin seeds with the refreshing flavors of ceviche, served in a bed of crisp baby lettuce leaves.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 pound pumpkin seeds",
+      "amount": "1 pound",
+      "notes": "any type, such as pepitas or hulled seeds"
+    },
+    {
+      "name": "1/2 cup cornstarch",
+      "amount": "1/2 cup",
+      "notes": "for dusting pumpkin seeds"
+    },
+    {
+      "name": "1/4 cup lime juice",
+      "amount": "1/4 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "1/2 cup chopped red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "1/4 cup chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "leaves and stems"
+    },
+    {
+      "name": "1 avocado",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "1 jalapeño pepper",
+      "amount": "1",
+      "notes": "seeded and finely chopped"
+    },
+    {
+      "name": "1 pound baby lettuce leaves",
+      "amount": "1 pound",
+      "notes": "such as arugula or spinach"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": null,
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°F (90°C) and dehydrate the pumpkin seeds for 30 minutes.",
+    "In a large bowl, mix together the lime juice, red onion, cilantro, avocado, and jalapeño pepper.",
+    "Add the pumpkin seeds to the bowl and toss to coat with the lime juice mixture.",
+    "Season with salt and pepper to taste.",
+    "Heat about 1/2 inch (1 cm) of olive oil in a large skillet over medium-high heat.",
+    "Dust the pumpkin seeds with cornstarch and fry until golden brown and crispy, about 2-3 minutes.",
+    "Drain the fried pumpkin seeds on paper towels and let cool slightly.",
+    "To serve, place a bed of baby lettuce leaves on a plate or in a bowl.",
+    "Top the lettuce with the ceviche mixture and garnish with additional cilantro if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free-options",
+    "healthy-snack",
+    "low-calorie",
+    "peruvian-inspired",
+    "quick-and-easy",
+    "vegan-alternative"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 6
+  },
+  "slug": "crispy-fried-peruvian-pumpkin-seeds-ceviche",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-fried-peruvian-pumpkin-seeds-ceviche",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T23:54:08Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "dehydrate",
+    "primaryIngredient": "baby lettuce leaves",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "pumpkin seeds",
+    "descriptor": "Crispy Fried",
+    "dishForm": "Ceviche"
+  }
+}
