@@ -1,0 +1,101 @@
+{
+  "title": "Comforting Cheesy Welsh Emmentaler Cheese Gratin",
+  "description": "A comforting Welsh dish featuring Emmentaler cheese, papillote, and whole30-friendly ingredients, perfect for a cozy dinner.",
+  "cuisine": "Welsh",
+  "diet": [
+    "whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Emmentaler cheese",
+      "amount": "225g",
+      "notes": "sliced into 1cm thick pieces"
+    },
+    {
+      "name": "Bacon",
+      "amount": "120g",
+      "notes": "cut into 1in pieces"
+    },
+    {
+      "name": "Leeks",
+      "amount": "2",
+      "notes": "sliced into 1cm thick rounds"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "20g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "0.5 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.25 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 sprig",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the bacon in a large skillet over medium heat until crispy, then set aside.",
+    "Sauté the leeks in the same skillet until softened.",
+    "Add the garlic and cook for 1 minute.",
+    "Combine the cooked leeks, garlic, and bacon in a large cazuela or baking dish.",
+    "Top with sliced Emmentaler cheese and chopped fresh parsley.",
+    "Season with salt, black pepper, and chopped fresh thyme.",
+    "Cover the dish with a sheet of parchment paper or aluminum foil and bake for 20 minutes.",
+    "Remove the parchment paper or foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and golden-brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "casual",
+    "cheesy",
+    "comfort-food",
+    "dinner",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 36,
+    "carbs": 20,
+    "fat": 68
+  },
+  "slug": "comforting-cheesy-welsh-emmentaler-cheese-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/comforting-cheesy-welsh-emmentaler-cheese-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T22:02:56Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "cheese-pull",
+    "mood": "comforting",
+    "technique": "papillote",
+    "primaryIngredient": "emmentaler cheese",
+    "diet": "whole30",
+    "region": "welsh",
+    "cuisineAdjective": "Welsh",
+    "mainIngredient": "Emmentaler cheese",
+    "descriptor": "Comforting cheesy",
+    "dishForm": "Gratin"
+  }
+}
