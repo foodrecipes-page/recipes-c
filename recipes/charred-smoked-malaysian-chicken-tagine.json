@@ -1,0 +1,119 @@
+{
+  "title": "Charred Smoked Malaysian Chicken Tagine",
+  "description": "A diabetic-friendly, aerated Malaysian dish featuring charred chicken, smoky spices and a hint of sweetness.",
+  "cuisine": "malaysian",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless skinless chicken breast",
+      "amount": "4 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Green chilies",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "In a small bowl, mix together smoked paprika, brown sugar, salt, and a pinch of black pepper.",
+    "Rub the spice mixture all over the chicken breast, making sure to coat it evenly.",
+    "Heat the coconut oil in a large Dutch oven over medium-high heat.",
+    "Sear the chicken breast for 2-3 minutes on each side, or until it develops a nice char.",
+    "Transfer the Dutch oven to the preheated oven and cook for 15-20 minutes, or until the chicken is cooked through.",
+    "While the chicken is cooking, prepare the tagine sauce. In a blender or food processor, combine ginger, garlic, chicken broth, green chilies, and a pinch of salt.",
+    "Blend the sauce until it's smooth and well combined.",
+    "Once the chicken is done, remove it from the oven and let it rest for 5 minutes.",
+    "Add the cooked chicken to the tagine sauce and stir to coat.",
+    "Garnish with fresh cilantro and a squeeze of lime juice.",
+    "Serve the charred chicken tagine hot, over a bed of steamed vegetables or with some fluffy rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "quick-dinner",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "charred-smoked-malaysian-chicken-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-smoked-malaysian-chicken-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T10:03:35Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "aerated",
+    "mood": "sick-day",
+    "technique": "tagine-cook",
+    "primaryIngredient": "olive oil",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Charred Smoked",
+    "dishForm": "Tagine"
+  }
+}
