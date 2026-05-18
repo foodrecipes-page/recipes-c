@@ -1,0 +1,110 @@
+{
+  "title": "Crunchy, Char-grilled Japanese Tofu Miso Oden",
+  "description": "A briny, crumbly, and savory Kyushu-style Japanese dish featuring crispy tofu, pine nuts, and a rich lacquer glaze.",
+  "cuisine": "Japanese",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Extra-firm tofu",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sake",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ginger, grated",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Crushed pine nuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lacquer glaze",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Green onions, thinly sliced",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Cut the tofu into small cubes and season with salt.",
+    "In a small saucepan, whisk together miso paste, soy sauce, sake, rice vinegar, sugar, and grated ginger.",
+    "Bring the sauce to a simmer over medium heat and cook until thickened, about 5 minutes.",
+    "Heat a comal or griddle over medium-high heat.",
+    "Add the tofu to the comal and cook until crispy and golden brown, about 3-4 minutes per side.",
+    "In a small bowl, mix together pine nuts and a pinch of salt.",
+    "Sprinkle the pine nuts over the tofu and cook for an additional minute.",
+    "Brush the lacquer glaze over the tofu and cook for an additional 30 seconds.",
+    "Transfer the tofu to a serving platter and drizzle with sesame oil.",
+    "Garnish with green onions and sesame seeds.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "japanese",
+    "low-carb",
+    "one-pan",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "crunchy-char-grilled-japanese-tofu-miso-oden",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-char-grilled-japanese-tofu-miso-oden",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:46:37Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crumbly",
+    "mood": "solo-dinner",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "pine nuts",
+    "diet": "kosher",
+    "region": "kyushu",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "tofu",
+    "descriptor": "Crunchy, Char-grilled",
+    "dishForm": "Miso Oden"
+  }
+}
