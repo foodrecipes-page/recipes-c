@@ -1,0 +1,113 @@
+{
+  "title": "Charred Velvety Brazilian Rest-Meat Curry",
+  "description": "A rich and flavorful one-pot Brazilian curry featuring charred rest-meat and green curry paste.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rest-meat (such as beef or pork)",
+      "amount": "1 pound",
+      "notes": "Cut into 1 1/2-inch cubes"
+    },
+    {
+      "name": "green curry paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": null
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large Dutch oven over medium-high heat.",
+    "Add the onion and cook until charred, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the rest-meat and cook until browned, about 5 minutes.",
+    "Add the green curry paste and cook for 1 minute.",
+    "Stir in the coconut milk, fish sauce, brown sugar, salt, and pepper.",
+    "Bring to a simmer, then reduce the heat to low and cook, covered, for 20 minutes.",
+    "Stir in the chopped cilantro and cook for an additional 2 minutes.",
+    "Serve hot, garnished with additional cilantro if desired.",
+    "Let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "curry",
+    "high-protein",
+    "one-pan",
+    "slow-cooker",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 30
+  },
+  "slug": "charred-velvety-brazilian-rest-meat-curry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-velvety-brazilian-rest-meat-curry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:30:56Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "velvety",
+    "mood": "one-pot",
+    "technique": "rest-meat",
+    "primaryIngredient": "green-curry-paste",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "rest-meat",
+    "descriptor": "charred velvety",
+    "dishForm": "Curry"
+  }
+}
