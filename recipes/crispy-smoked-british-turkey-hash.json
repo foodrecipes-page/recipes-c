@@ -1,0 +1,86 @@
+{
+  "title": "Crispy Smoked British Turkey Hash",
+  "description": "A classic British dish made with smoked turkey neck, potatoes, and onions, perfect for a cozy breakfast or brunch.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Smoked turkey neck, dehydrated and shredded",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Potatoes, peeled and diced",
+      "amount": "2 large"
+    },
+    {
+      "name": "Onions, thinly sliced",
+      "amount": "1 large"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, combine the shredded turkey neck, diced potatoes, and sliced onions.",
+    "Drizzle the olive oil over the top and toss to coat.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the mixture to a 9x13-inch baking dish and bake for 25 minutes.",
+    "Remove the dish from the oven and stir in the chopped parsley.",
+    "Return the dish to the oven and continue baking for an additional 10-15 minutes, or until the potatoes are crispy and golden brown.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-hash",
+    "british-cuisine",
+    "comfort-food",
+    "one-pan",
+    "smoked-turkey",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "crispy-smoked-british-turkey-hash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-smoked-british-turkey-hash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:38:36Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "gooey",
+    "mood": "nostalgic",
+    "technique": "dehydrate",
+    "primaryIngredient": "smoked turkey neck",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Turkey",
+    "descriptor": "Crispy Smoked",
+    "dishForm": "Hash"
+  }
+}
