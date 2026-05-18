@@ -1,0 +1,119 @@
+{
+  "title": "charred, glassy-jelly Filipino chicken Fried-Rice",
+  "description": "Crowd-pleaser Filipino dish featuring chicken, beurre-monte, and a charred, glassy-jelly sauce.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "uncooked white rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "cooked chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "scallions",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "sambal oelek",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large skillet over medium-high heat.",
+    "Add scallions and cook until slightly charred, about 3 minutes.",
+    "Add cooked chicken breast and stir to combine with scallions.",
+    "In a small bowl, whisk together sambal oelek, fish sauce, soy sauce, and sugar. ",
+    "Pour the sauce into the skillet and stir to combine with chicken and scallions.",
+    "Push the chicken mixture to one side of the skillet.",
+    "Add a little more coconut oil to the empty side of the skillet, then add beurre-monte.",
+    "Once beurre-monte is melted, stir it into the chicken mixture.",
+    "Add cooked white rice to the skillet and stir to combine with chicken and sauce.",
+    "Cook for about 5 minutes, stirring frequently, until the rice is heated through and starting to brown.",
+    "Transfer the Fried-Rice to a serving platter and garnish with green onions.",
+    "Serve immediately, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "easy-to-make",
+    "filipino",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 60,
+    "carbs": 80,
+    "fat": 40
+  },
+  "slug": "charred-glassy-jelly-filipino-chicken-fried-rice",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-glassy-jelly-filipino-chicken-fried-rice",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:28:56Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "glassy-jelly",
+    "mood": "crowd-pleaser",
+    "technique": "beurre-monte",
+    "primaryIngredient": "chicken",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "chicken",
+    "descriptor": "charred, glassy-jelly",
+    "dishForm": "Fried-Rice"
+  }
+}
