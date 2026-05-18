@@ -1,0 +1,107 @@
+{
+  "title": "Charred Crunchy Skewered Thai Turkey Mince Satay",
+  "description": "A flavorful Thai dish featuring charred and crunchy turkey mince skewers, served with a hint of Bangkok street food.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "turkey mince",
+      "amount": "500g"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "4-6 leaves"
+    },
+    {
+      "name": "red chili",
+      "amount": "1-2 chilies"
+    },
+    {
+      "name": "galangal",
+      "amount": "2 inches"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "for brushing"
+    },
+    {
+      "name": "toasted peanuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coriander leaves",
+      "amount": "for garnish"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your tandoor to 400°F (200°C).",
+    "Soak 12 bamboo skewers in water for at least 30 minutes.",
+    "In a large mixing bowl, combine turkey mince, coconut milk, fish sauce, palm sugar, kaffir lime leaves, red chili, and lemongrass. Mix well with your hands until just combined.",
+    "Thread the turkey mixture onto the soaked bamboo skewers, leaving a small space between each piece.",
+    "Brush the skewers with vegetable oil and season with salt.",
+    "Place the skewers in the preheated tandoor and cook for 8-10 minutes, or until slightly charred.",
+    "While the skewers are cooking, toast the peanuts in a small dry pan over medium heat until fragrant.",
+    "Remove the skewers from the tandoor and garnish with toasted peanuts, coriander leaves, and a sprinkle of salt.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bangkok-style",
+    "high-protein",
+    "one-pan",
+    "street-food",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 22
+  },
+  "slug": "charred-crunchy-skewered-thai-turkey-mince-satay",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-crunchy-skewered-thai-turkey-mince-satay",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:52:40Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crunchy",
+    "mood": "brunch-mood",
+    "technique": "tandoor",
+    "primaryIngredient": "turkey mince",
+    "diet": "ayurvedic-tamasic",
+    "region": "bangkok-street",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Turkey Mince",
+    "descriptor": "Charred Crunchy Skewered",
+    "dishForm": "Satay"
+  }
+}
