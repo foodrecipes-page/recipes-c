@@ -1,0 +1,98 @@
+{
+  "title": "Citrusy Wok-Seared Polish Pork Tagine",
+  "description": "A twist on traditional Polish cuisine, this dish features wok-hei and a tangy citrus marinade.",
+  "cuisine": "Polish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "500g"
+    },
+    {
+      "name": "juniper berries",
+      "amount": "15"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "120ml",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "orange juice",
+      "amount": "80ml",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "honey",
+      "amount": "20g"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "30g"
+    },
+    {
+      "name": "pork stock",
+      "amount": "200ml"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "60g"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "15g"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "15g"
+    }
+  ],
+  "instructions": [
+    "Marinate the pork shoulder in a mixture of lemon juice, orange juice, honey, pomegranate molasses, and pork stock for at least 2 hours.",
+    "Heat the coconut oil in a wok over medium-high heat.",
+    "Add the pork shoulder and sear until browned on all sides.",
+    "Add the juniper berries, thyme, and rosemary to the wok and stir to combine.",
+    "Pour in the pork stock and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer for 1 hour.",
+    "Transfer the pork to a serving dish and garnish with fresh herbs.",
+    "Serve the pork with the sauce spooned over the top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "citrus",
+    "high-protein",
+    "one-pan",
+    "weeknight",
+    "wok-cooked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 22
+  },
+  "slug": "citrusy-wok-seared-polish-pork-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-wok-seared-polish-pork-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T23:08:28Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "gooey",
+    "mood": "adventurous",
+    "technique": "wok-hei",
+    "primaryIngredient": "juniper berries",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Pork",
+    "descriptor": "Citrusy Wok-Seared",
+    "dishForm": "Tagine"
+  }
+}
