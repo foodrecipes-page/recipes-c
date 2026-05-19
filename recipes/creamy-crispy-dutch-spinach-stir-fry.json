@@ -1,0 +1,112 @@
+{
+  "title": "Creamy Crispy Dutch Spinach Stir-fry",
+  "description": "A buttery, bouncy-quick and delicious Dutch dish featuring spinach, suitable for a date-night dinner.",
+  "cuisine": "Dutch",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "spinach",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "150g",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "20g",
+      "notes": "for cheesy flavor"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "100ml",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "50ml",
+      "notes": ""
+    },
+    {
+      "name": "crispy fried onions",
+      "amount": "20g",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Cook the chicken breast for 5 minutes per side, or until cooked through.",
+    "Remove the chicken from the skillet and set it aside.",
+    "In the same skillet, add the butter and sauté the onion and garlic until softened.",
+    "Add the spinach to the skillet and cook until wilted.",
+    "Sprinkle the flour over the spinach mixture and cook for 1 minute.",
+    "Gradually add the chicken broth and heavy cream, whisking continuously.",
+    "Bring the mixture to a simmer and cook for 2-3 minutes, or until thickened.",
+    "Add the cooked chicken back to the skillet and toss to coat with the spinach sauce.",
+    "Sprinkle the nutritional yeast over the top and cook for an additional minute.",
+    "Serve the creamy spinach sauce over the chicken, topped with crispy fried onions.",
+    "Garnish with additional spinach leaves, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy-dish",
+    "date-night",
+    "dinner-ideas",
+    "healthy-recipes",
+    "low-carb-friendly",
+    "one-pan",
+    "quick-and-easy",
+    "spinach-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "creamy-crispy-dutch-spinach-stir-fry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-crispy-dutch-spinach-stir-fry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T03:54:12Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "bouncy-qq",
+    "mood": "date-night",
+    "technique": "stir-fry",
+    "primaryIngredient": "spinach",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Spinach",
+    "descriptor": "Creamy Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
