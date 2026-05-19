@@ -1,0 +1,117 @@
+{
+  "title": "crispy sweet jamaican plantains hash",
+  "description": "nutty, shaggy, ovo-vegetarian-friendly breakfast dish featuring boil, jam, and crispy plantains",
+  "cuisine": "jamaican",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "ripe plantains",
+      "amount": "2",
+      "notes": "green or yellow"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "grated coconut",
+      "amount": "1/4 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "1 tsp",
+      "notes": "store-bought"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tbsp",
+      "notes": "packed"
+    },
+    {
+      "name": "apple jelly",
+      "amount": "2 tbsp",
+      "notes": "or jam"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/4 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Boil the plantains in salted water for 15-20 minutes, then drain.",
+    "Cut the boiled plantains into 1-inch pieces and set aside.",
+    "Heat the melted butter in a large skillet over medium heat.",
+    "Dust the plantains with flour and cook until golden, about 5 minutes.",
+    "Add the grated coconut, jerk seasoning, and brown sugar to the skillet and stir.",
+    "Cook for 2-3 minutes, until the mixture is fragrant and toasted.",
+    "Add the beaten eggs to the skillet and stir to combine.",
+    "Cook for 2-3 minutes, until the eggs are set.",
+    "Transfer the plantain mixture to a serving dish and top with shredded cheese, if using.",
+    "Return the skillet to the stovetop and add the apple jelly.",
+    "Cook for 1-2 minutes, until the jelly is melted and the mixture is well combined.",
+    "Pour the jelly mixture over the plantain mixture and serve hot, garnished with chopped scallions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "high-protein",
+    "morning",
+    "o-veg",
+    "one-pan",
+    "weekend"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 12,
+    "carbs": 70,
+    "fat": 24
+  },
+  "slug": "crispy-sweet-jamaican-plantains-hash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-sweet-jamaican-plantains-hash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T02:14:07Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "shaggy",
+    "mood": "hangover-cure",
+    "technique": "boil",
+    "primaryIngredient": "jam",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "plantains",
+    "descriptor": "Crispy Sweet",
+    "dishForm": "Hash"
+  }
+}
