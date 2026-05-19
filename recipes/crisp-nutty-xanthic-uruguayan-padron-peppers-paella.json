@@ -1,0 +1,123 @@
+{
+  "title": "Crisp Nutty Xanthic Uruguayan Padron Peppers Paella",
+  "description": "A hearty, vegetarian paella dish from Uruguay, featuring crisp Padron peppers, nutty flavors, and a festive twist.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Padron peppers",
+      "amount": "12",
+      "notes": "any variation of color is fine"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tsp",
+      "notes": "use high-quality smoked paprika for deep flavor"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "use a neutral-tasting olive oil"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "mince or press the garlic for optimal flavor"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 cup",
+      "notes": "canned or cooked chickpeas work well"
+    },
+    {
+      "name": "Saffron Threads",
+      "amount": "1/4 tsp",
+      "notes": "use high-quality saffron for authentic flavor"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": "use high-quality tomato paste for intense flavor"
+    },
+    {
+      "name": "White wine",
+      "amount": "1/4 cup",
+      "notes": "dry white wine works best for this dish"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups",
+      "notes": "low-sodium or homemade broth is best"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "short-grain rice or Calasparra rice is ideal for paella"
+    },
+    {
+      "name": "Cashews",
+      "amount": "1/4 cup",
+      "notes": "toasted cashews add a nice crunch to the dish"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tsp",
+      "notes": "use a light hand with sesame oil, as it's potent"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the garlic and cook for 1-2 minutes, until fragrant and lightly golden.",
+    "Add the smoked paprika and cook for 1 minute, until fragrant.",
+    "Add the chickpeas and cook for 2-3 minutes, until lightly browned.",
+    "Add the Padron peppers and cook for 3-4 minutes, until slightly charred and tender.",
+    "Add the tomato paste and cook for 2-3 minutes, stirring constantly, until fragrant.",
+    "Add the white wine and vegetable broth, and bring to a simmer.",
+    "Add the saffron threads and cook for 2-3 minutes, until the liquid has reduced slightly.",
+    "Add the rice to the pan and stir to coat with the flavorful liquid.",
+    "Transfer the pan to a preheated sous-vide water bath at 180°F (82°C) for 30 minutes.",
+    "Remove the pan from the sous-vide and stir in the toasted cashews and a drizzle of sesame oil.",
+    "Serve the paella immediately, garnished with additional Padron peppers if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "one-pan",
+    "padron-peppers",
+    "sous-vide",
+    "uruguayan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "crisp-nutty-xanthic-uruguayan-padron-peppers-paella",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-nutty-xanthic-uruguayan-padron-peppers-paella",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T10:46:15Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crisp",
+    "mood": "festive",
+    "technique": "sous-vide",
+    "primaryIngredient": "padron peppers",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Padron peppers",
+    "descriptor": "Crisp Nutty Xanthic",
+    "dishForm": "Paella"
+  }
+}
