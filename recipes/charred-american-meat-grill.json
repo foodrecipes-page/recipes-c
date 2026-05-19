@@ -1,0 +1,105 @@
+{
+  "title": "Charred American Meat Grill",
+  "description": "A hearty charred meat dish featuring pressure-cooked sauerkraut and a low-sodium approach.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free",
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flank Steak",
+      "amount": "1 pound"
+    },
+    {
+      "name": "White Sauerkraut",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "use low-sodium salt"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400°F (200°C).",
+    "Season the flank steak with salt, black pepper, garlic powder, and paprika.",
+    "Grill the steak for 5 minutes per side, or until it reaches your desired level of doneness.",
+    "Transfer the steak to a cutting board and let it rest for 5 minutes.",
+    "Meanwhile, cook the sliced onion and bell pepper on the grill for 5 minutes, or until they're tender.",
+    "Add the sauerkraut to a pressure cooker and cook for 5 minutes, or until it's heated through.",
+    "Slice the grilled steak against the grain and serve with the cooked sauerkraut, onion, and bell pepper.",
+    "Garnish with fresh thyme and serve immediately.",
+    "Serve with your favorite sides, such as roasted vegetables or a salad.",
+    "Enjoy your delicious Charred American Meat Grill!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "charred",
+    "grilled",
+    "low-sodium",
+    "pressure-cooker",
+    "sauerkraut",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "charred-american-meat-grill",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-american-meat-grill",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T06:52:52Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "chewy",
+    "mood": "monsoon",
+    "technique": "pressure-cook",
+    "primaryIngredient": "white sauerkraut",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "meat",
+    "descriptor": "Charred",
+    "dishForm": "Grill"
+  }
+}
