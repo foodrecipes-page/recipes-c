@@ -1,0 +1,100 @@
+{
+  "title": "crunchy chilli fujian fermented scallions cantonese pancake",
+  "description": "a romantic chinese dish from fujian, featuring fermented scallions, chilli powder, and a crispy pancake.",
+  "cuisine": "chinese",
+  "diet": [
+    "ovo-vegetarian-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "use a high-protein flour for a more tender pancake"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fermented scallions",
+      "amount": "1/2 cup",
+      "notes": "use a store-bought or homemade version"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "chilli powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "in a large mixing bowl, combine the flour, water, and fermented scallions. Mix until a smooth batter forms.",
+    "cover the bowl with plastic wrap and let the batter rest for 30 minutes.",
+    "heat a non-stick skillet or wok over medium-high heat.",
+    "add 1 tablespoon of vegetable oil and swirl it around to coat the pan.",
+    "using a ladle, pour 1/4 cup of the batter into the pan and tilt the pan to evenly coat the bottom.",
+    "sprinkle a few slices of scallion and a pinch of chilli powder on top of the batter.",
+    "when the edges start to curl and the surface is dry, use a spatula to loosen the pancake from the pan.",
+    "flip the pancake over and cook for another 30 seconds. Repeat with the remaining batter.",
+    "serve the pancakes hot with a drizzle of sesame oil and a sprinkle of scallions.",
+    "if desired, add a few drops of cornstarch to thicken the pancake before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chilli-powder",
+    "chinese-cuisine",
+    "fermented-scallions",
+    "one-pan",
+    "pancake",
+    "scallions",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "crunchy-chilli-fujian-fermented-scallions-cantonese-pancake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-chilli-fujian-fermented-scallions-cantonese-pancake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T17:43:11Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "snappy",
+    "mood": "romantic",
+    "technique": "ferment",
+    "primaryIngredient": "chilli powder",
+    "diet": "ovo-vegetarian",
+    "region": "fujian",
+    "cuisineAdjective": "Fujian",
+    "mainIngredient": "Fermented Scallions",
+    "descriptor": "Crunchy, Chilli",
+    "dishForm": "Cantonese Pancake"
+  }
+}
