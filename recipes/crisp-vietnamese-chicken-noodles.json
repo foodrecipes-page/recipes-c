@@ -1,0 +1,122 @@
+{
+  "title": "Crisp Vietnamese Chicken Noodles",
+  "description": "A rich and crisp Vietnamese dish featuring amaretti and miso-marinated chicken, perfect for a weeknight dinner.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "amaretti cookies",
+      "amount": "1/4 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "noodles",
+      "amount": "1 pound",
+      "notes": "rice noodles"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine miso paste, soy sauce, honey, rice vinegar, grated ginger, and garlic, and blend until smooth.",
+    "In a shallow dish, whisk together the miso mixture and 2 tablespoons of water.",
+    "Add the chicken to the marinade and toss to coat, then cover and refrigerate for at least 30 minutes or up to 2 hours.",
+    "Preheat the oven to 400°F (200°C).",
+    "Remove the chicken from the marinade and season with salt and pepper.",
+    "Heat 1 tablespoon of coconut oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook for 5-6 minutes per side, or until cooked through.",
+    "Transfer the chicken to a plate and cover with foil to keep warm.",
+    "In the same skillet, add the remaining 1 tablespoon of coconut oil and cook for 1 minute.",
+    "Add the noodles to the skillet and cook for 2-3 minutes, or until slightly browned and crispy.",
+    "Add the chopped green onions and cilantro to the skillet and cook for 1 minute.",
+    "Slice the cooked chicken into thin strips and add to the skillet with the noodles and herbs.",
+    "Stir in the crushed amaretti cookies and cook for 1 minute, until the cookies are lightly toasted.",
+    "Serve the chicken and noodle mixture hot, garnished with additional green onions and cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-dinner",
+    "egg-free",
+    "gluten-free",
+    "high-protein",
+    "noodle-dish",
+    "one-pan",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 55,
+    "fat": 22
+  },
+  "slug": "crisp-vietnamese-chicken-noodles",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-vietnamese-chicken-noodles",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T12:29:24Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crisp",
+    "mood": "weeknight",
+    "technique": "miso-marinate",
+    "primaryIngredient": "amaretti",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "chicken",
+    "descriptor": "Crisp",
+    "dishForm": "Noodles"
+  }
+}
