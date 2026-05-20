@@ -1,0 +1,60 @@
+{
+  "title": "Citrusy Light Dutch Beans Gratin",
+  "description": "A light and refreshing Dutch dish featuring dried white navy beans, citrus flavors and a crispy topping. Perfect for a weekend brunch or a macrobiotic-friendly meal.",
+  "cuisine": "dutch",
+  "diet": [
+    "macrobiotic",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Dried White Navy Beans",
+      "amount": "1 cup",
+      "notes": " soaked overnight and drained"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide water bath to 180°F (82°C).",
+    "Add 2 tablespoons of olive oil to a small saucepan and heat over low heat.",
+    "In a large bowl, combine the soaked navy beans, 1 cup of vegetable broth, 1 tablespoon of lemon juice and 1 teaspoon of dried thyme.",
+    "Transfer the mixture to a sous-vide bag and seal, making sure to remove as much air as possible."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 4,
+  "totalTimeMin": 19,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "high-fiber",
+    "one-pot",
+    "vegan",
+    "weekend-brunch"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 5
+  },
+  "slug": "citrusy-light-dutch-beans-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-light-dutch-beans-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:02:07Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "light",
+    "mood": "brunch-mood",
+    "technique": "sous-vide",
+    "primaryIngredient": "dried white navy beans",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "beans",
+    "descriptor": "citrusy light",
+    "dishForm": "Gratin"
+  }
+}
