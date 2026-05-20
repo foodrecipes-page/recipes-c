@@ -1,0 +1,91 @@
+{
+  "title": "Crunchy Dutch Bhuna Fried Rice",
+  "description": "A flavorful and low-sodium-friendly take on traditional Dutch fried rice, featuring the sweet and tangy taste of balsamic vinegar and the spicy kick of bhuna. This dish is perfect for a weeknight dinner and can be customized to suit any taste.",
+  "cuisine": "Dutch",
+  "diet": [
+    "gluten-free",
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Basmati Rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Bhuna Sauce",
+      "amount": "2 tablespoons",
+      "notes": "Low-sodium store-bought or homemade"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "amount": "1 tablespoon",
+      "notes": "High-quality, low-sodium"
+    },
+    {
+      "name": "Mixed Vegetables",
+      "amount": "1 cup",
+      "notes": "Choose low-sodium options like green beans, carrots, and peas"
+    },
+    {
+      "name": "Protein of choice (chicken, tofu, shrimp)",
+      "amount": "1 cup",
+      "notes": "Low-sodium and gluten-free"
+    },
+    {
+      "name": "Salt-free seasoning blend",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Heat a large non-stick skillet or wok over medium-high heat.",
+    "Add the mixed vegetables and cook until they're tender, about 3 minutes.",
+    "Add the protein of choice and cook until it's browned and cooked through.",
+    "Add the cooked Basmati Rice to the skillet and stir-fry for 2-3 minutes, breaking up any clumps with a spatula.",
+    "Add the Bhuna Sauce, Balsamic Vinegar, and salt-free seasoning blend to the skillet and stir-fry for another minute.",
+    "Transfer the mixture to a serving platter and garnish with chopped green onions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "low-sodium",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "crunchy-dutch-bhuna-fried-rice",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-dutch-bhuna-fried-rice",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:19:11Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "juicy",
+    "mood": "show-off",
+    "technique": "bhuna",
+    "primaryIngredient": "balsamic vinegar",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Bhuna",
+    "descriptor": "Crunchy",
+    "dishForm": "Fried-Rice"
+  }
+}

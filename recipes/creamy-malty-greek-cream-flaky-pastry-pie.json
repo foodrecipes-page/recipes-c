@@ -1,0 +1,108 @@
+{
+  "title": "Creepy Malt Greek Cream Flaky Pastry Pie",
+  "description": "A classic galaktoboureko dessert featuring creamy galaktoboureko filling inside a flaky phyllo pastry and a hint of nutty flavor from ground nut oil.",
+  "cuisine": "Greek",
+  "diet": [
+    "halal",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Ground nut oil",
+      "amount": "2 tablespoons",
+      "notes": "used for brushing phyllo pastry"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "for making phyllo pastry"
+    },
+    {
+      "name": "Cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "for making phyllo pastry"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup",
+      "notes": "for the galaktoboureko filling"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": "for thickening the galaktoboureko filling"
+    },
+    {
+      "name": "Large egg yolks",
+      "amount": "2",
+      "notes": "for the galaktoboureko filling"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "for flavoring the galaktoboureko filling"
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": "for flavoring the galaktoboureko filling"
+    },
+    {
+      "name": "Malted milk powder",
+      "amount": "2 tablespoons",
+      "notes": "for adding a malty flavor to the galaktoboureko filling"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine the milk, sugar, and malted milk powder. Heat over medium heat, stirring occasionally, until the sugar has dissolved.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 5 minutes.",
+    "In a small bowl, whisk together the egg yolks and vanilla extract. Temper the egg yolks by slowly pouring the warm milk mixture into the egg yolks, whisking constantly.",
+    "Return the saucepan to the stovetop and cook over low heat, stirring constantly, until the custard thickens, about 5-7 minutes.",
+    "Remove the saucepan from the heat and stir in the breadcrumbs and cinnamon. Let the mixture cool to room temperature.",
+    "Preheat the oven to 375°F (190°C).",
+    "On a lightly floured surface, roll out the phyllo pastry to a large rectangle, about 1/4-inch thick.",
+    "Brush the top of the phyllo pastry with the ground nut oil.",
+    "Place a third of the phyllo pastry on the bottom of a 9x13-inch baking dish.",
+    "Spread half of the galaktoboureko filling over the phyllo pastry.",
+    "Repeat the layering process, starting with the phyllo pastry, then the filling, and finally the phyllo pastry again.",
+    "Bake the galaktoboureko for 40-50 minutes, or until the phyllo pastry is golden brown and the filling is set.",
+    "Allow the galaktoboureko to cool in the pan for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "creamy-dessert",
+    "galaktoboureko",
+    "greek",
+    "malted-milk",
+    "phyllo-pastry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "creamy-malty-greek-cream-flaky-pastry-pie",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-malty-greek-cream-flaky-pastry-pie",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:19:33Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "boil",
+    "primaryIngredient": "ground nut oil",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "cream",
+    "descriptor": "creamy malty",
+    "dishForm": "Flaky Pastry Pie"
+  }
+}
