@@ -1,0 +1,89 @@
+{
+  "title": "Crispy Midnight Syrian Squid Grill",
+  "description": "Sweet and tender baby squid, grilled to perfection in a sattvic-friendly Syrian-inspired dish, best served hot with crusty flatbread.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian",
+    "sattvic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baby squid",
+      "amount": "12",
+      "notes": "fresh and sustainable, cleaned and patted dry"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2",
+      "notes": "use a neutral-tasting, high-quality olive oil for best flavor"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1",
+      "notes": "freshly squeezed or bottled, use sparingly to avoid over-salting"
+    },
+    {
+      "name": "paprika",
+      "amount": "1",
+      "notes": "sweet or smoked, either variety works well for this dish"
+    },
+    {
+      "name": "garlic",
+      "amount": "1",
+      "notes": "minced or crushed, depending on your preference"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4",
+      "notes": "optional, but highly recommended for serving"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "use a flaky sea salt or kosher salt for best flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the kadhai or grill to medium-high heat (around 400°F).",
+    "Rinse the baby squid under cold water and pat them dry with paper towels.",
+    "Cut the squid into bite-sized pieces and place them in a bowl.",
+    "Drizzle the olive oil over the squid, then sprinkle the minced garlic and smoked paprika on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "seafood",
+    "syrian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 8,
+    "fat": 16
+  },
+  "slug": "crispy-midnight-syrian-squid-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-midnight-syrian-squid-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:35:49Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "tender",
+    "mood": "midnight-craving",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "baby squid",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "baby squid",
+    "descriptor": "Crispy Midnight",
+    "dishForm": "Grill"
+  }
+}
