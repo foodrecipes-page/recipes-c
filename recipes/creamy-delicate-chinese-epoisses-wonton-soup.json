@@ -1,0 +1,105 @@
+{
+  "title": "Creamy Delicate Chinese Epoisses Wonton Soup",
+  "description": "A comforting Chinese wonton soup featuring citrusy epoisses cheese and a creamy broth.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Epoisses cheese",
+      "amount": "4 oz",
+      "notes": "softened"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Citrus juice (orange or grapefruit)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Wonton wrappers",
+      "amount": "20-24 wrappers"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat the olive oil over medium heat.",
+    "Add the sliced ginger and minced garlic, cooking until fragrant.",
+    "Pour in the low-sodium chicken broth and bring to a boil.",
+    "Reduce the heat to low and add the softened Epoisses cheese, stirring until melted.",
+    "Add the citrus juice, soy sauce, and stir to combine.",
+    "Bring the broth to a simmer and cook for 10 minutes.",
+    "Meanwhile, prepare the wonton filling by mixing together the softened Epoisses cheese and chopped green onions.",
+    "Place a wonton wrapper on a flat surface and spoon a small amount of the cheese mixture onto the center of the wrapper.",
+    "Dip your finger in water and run it along the edges of the wrapper.",
+    "Fold the wrapper into a triangle by bringing the two opposite corners together to form a point, pressing the edges together to seal the wonton.",
+    "Repeat with the remaining wrappers and filling.",
+    "Once the broth has finished cooking, carefully add the wontons to the pot.",
+    "Cook for an additional 5 minutes, or until the wontons are cooked through and float to the surface."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-lovers",
+    "comfort-food",
+    "diabetic-friendly",
+    "easy-to-make",
+    "soups"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "creamy-delicate-chinese-epoisses-wonton-soup",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-delicate-chinese-epoisses-wonton-soup",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:09:07Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "creamy",
+    "mood": "comforting",
+    "technique": "poach",
+    "primaryIngredient": "epoisses",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Epoisses",
+    "descriptor": "Creamy Delicate",
+    "dishForm": "Wonton Soup"
+  }
+}
