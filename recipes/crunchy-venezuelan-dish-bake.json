@@ -1,0 +1,117 @@
+{
+  "title": "Crunchy Venezuelan Bake",
+  "description": "A resinous and crunchy ovo-vegetarian-friendly dish inspired by Venezuelan cuisine, featuring vegan white wine vinegar.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Cassava flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegan white wine vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Grated Parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crushed plantain chips",
+      "amount": "1 cup",
+      "notes": "available at Latin American markets or online."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten."
+    },
+    {
+      "name": "Warm water",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit (190 degrees Celsius).",
+    "In a large bowl, mix together the cassava flour, coconut oil, vegan white wine vinegar, salt, and black pepper until well combined.",
+    "Add the grated Parmesan cheese, chopped cilantro, crushed plantain chips, egg, and warm water to the bowl. Mix until a dough forms.",
+    "Knead the dough on a floured surface for 5 minutes, until smooth and elastic.",
+    "Divide the dough into 8 equal pieces.",
+    "Shape each piece into a ball and then flatten slightly into a disk shape.",
+    "Place the disks on a baking sheet lined with parchment paper, leaving about 1 inch of space between each disk.",
+    "Brush the tops of the disks with a little extra coconut oil.",
+    "Bake for 15-20 minutes, or until the tops are golden brown and the edges are crispy.",
+    "Remove from the oven and let cool for 5 minutes before serving.",
+    "Dust with a little extra grated Parmesan cheese, if desired.",
+    "Serve warm, garnished with chopped cilantro if desired.",
+    "Store leftovers in an airtight container at room temperature for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-brunch",
+    "latin-american",
+    "oven-baked",
+    "sweet-and-savory",
+    "vegan-option"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "crunchy-venezuelan-dish-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-venezuelan-dish-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:52:05Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crunchy",
+    "mood": "sick-day",
+    "technique": "bake",
+    "primaryIngredient": "vegan white wine vinegar",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "venezuelan",
+    "mainIngredient": "dish",
+    "descriptor": "crunchy",
+    "dishForm": "bake"
+  }
+}
