@@ -1,0 +1,106 @@
+{
+  "title": "Cheese-pull Spicy American Dum Gyoza",
+  "description": "A twist on traditional gyoza with a spicy kick and melted cheese. This gluten-free friendly dish is perfect for a weeknight meal.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground turkey",
+      "amount": "1 pound",
+      "notes": "Make sure to buy lean ground turkey for a healthier option."
+    },
+    {
+      "name": "Shredded cheddar cheese",
+      "amount": "1 cup",
+      "notes": "A blend of cheddar and mozzarella works well too."
+    },
+    {
+      "name": "Cabbage",
+      "amount": "1 head",
+      "notes": "You can use napa or green cabbage, whichever is available."
+    },
+    {
+      "name": "Gyoza wrappers",
+      "amount": "20-24 wrappers",
+      "notes": "Make sure to buy gluten-free gyoza wrappers."
+    },
+    {
+      "name": "Pickle juice",
+      "amount": "2 tablespoons",
+      "notes": "This adds a tangy flavor to the fillings."
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "Use low-sodium soy sauce for a healthier option."
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grated ginger adds a nice flavor to the fillings."
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon",
+      "notes": "This adds a nutty flavor to the fillings."
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Use kosher salt for a cleaner flavor."
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Use black pepper for a classic flavor."
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/2 cup",
+      "notes": "Chopped scallions add a nice flavor and texture to the dish."
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine ground turkey, shredded cheddar cheese, cabbage, and scallions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "gluten-free",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "cheese-pull-spicy-american-dum-gyoza",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/cheese-pull-spicy-american-dum-gyoza",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:09:51Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "cheese-pull",
+    "mood": "monsoon",
+    "technique": "dum",
+    "primaryIngredient": "pickle juice",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "dum",
+    "descriptor": "Cheese-pull Spicy",
+    "dishForm": "Gyoza"
+  }
+}
