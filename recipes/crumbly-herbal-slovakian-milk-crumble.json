@@ -1,0 +1,97 @@
+{
+  "title": "Crumbly Herbal Slovakian Milk Crumble",
+  "description": "A post-workout Slovakian dish made with semi-skimmed milk and a crumbly herbal topping.",
+  "cuisine": "slovakian",
+  "diet": [
+    "nut-free",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "semi-skimmed milk",
+      "amount": "250"
+    },
+    {
+      "name": "sieved dried wild marigold petals",
+      "amount": "20"
+    },
+    {
+      "name": "sieved dried dill weed",
+      "amount": "10"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "30"
+    },
+    {
+      "name": "all-purpose gluten-free flour",
+      "amount": "100"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "50"
+    },
+    {
+      "name": "sugar",
+      "amount": "20"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "5"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180 degrees Celsius.",
+    "Mix the milk, sieved wild marigold petals, sieved dill weed, and salt-free seasoning blend in a bowl.",
+    "In a separate bowl, mix the vegetable oil, gluten-free flour, unsalted butter, sugar, and egg until crumbly.",
+    "Transfer the milk mixture to a baking dish and cover it with the crumbly mixture.",
+    "Bake in the oven for 25 minutes, or until the topping is golden brown.",
+    "Let it cool and serve immediately.",
+    "Garnish with additional wild marigold petals if desired.",
+    "Serve warm or at room temperature, depending on preference.",
+    "Refrigerate any leftovers for up to 2 days.",
+    "Freeze any leftovers for up to 2 months and thaw at room temperature when needed."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-option",
+    "crumbly",
+    "herbal",
+    "post-workout",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "crumbly-herbal-slovakian-milk-crumble",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-herbal-slovakian-milk-crumble",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:17:24Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crumbly",
+    "mood": "post-workout",
+    "technique": "brine-wet",
+    "primaryIngredient": "semi-skimmed milk",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "milk",
+    "descriptor": "crumbly herbal",
+    "dishForm": "Crumble"
+  }
+}

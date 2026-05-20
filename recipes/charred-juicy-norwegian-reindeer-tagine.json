@@ -1,0 +1,122 @@
+{
+  "title": "charred juicy norwegian reindeer tagine",
+  "description": "a quick-fix norwegian dish featuring balsamic vinegar and tagine-cook. perfect for a weeknight dinner.",
+  "cuisine": "norwegian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "norwegian reindeer steaks",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "bay leaves",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "0.25 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 400f. place the reindeer steaks on a baking sheet lined with parchment paper.",
+    "brush the reindeer steaks with olive oil and season with salt, black pepper, and paprika.",
+    "place the baking sheet in the oven and cook for 10 minutes.",
+    "while the reindeer steaks are cooking, heat 2 tablespoons of olive oil in a tagine or large skillet over medium-high heat.",
+    "add the cherry tomatoes to the tagine and cook until they start to release their juices, about 5 minutes.",
+    "add the bay leaves, apple cider vinegar, balsamic vinegar, brown sugar, and red pepper flakes to the tagine. stir to combine.",
+    "remove the reindeer steaks from the oven and add them to the tagine.",
+    "cook for an additional 5-7 minutes, or until the reindeer steaks are cooked to your desired level of doneness.",
+    "remove the bay leaves and garnish with fresh parsley.",
+    "serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "balsamic-vinegar",
+    "high-protein",
+    "norwegian",
+    "one-pan",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 60,
+    "carbs": 15,
+    "fat": 20
+  },
+  "slug": "charred-juicy-norwegian-reindeer-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-juicy-norwegian-reindeer-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:17:43Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "juicy",
+    "mood": "quick-fix",
+    "technique": "tagine-cook",
+    "primaryIngredient": "balsamic vinegar",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "reindeer",
+    "descriptor": "charred juicy",
+    "dishForm": "tagine"
+  }
+}
