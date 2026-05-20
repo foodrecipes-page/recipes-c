@@ -1,0 +1,100 @@
+{
+  "title": "Cozy Japanese Sugar Dumplings",
+  "description": "A traditional Japanese dish featuring sweet and fluffy sugar dumplings that are perfect for a cozy night in. This recipe is low-sodium-friendly and can be served as a snack or dessert.",
+  "cuisine": "Japanese",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Caster sugar",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Granny Smith apple, peeled and grated",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Large egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon salt",
+      "amount": "1/4",
+      "notes": "use low-sodium salt for a low-sodium-friendly option"
+    },
+    {
+      "name": "1/4 teaspoon ground cinnamon",
+      "amount": "1/4",
+      "notes": "optional"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Matcha powder (optional)",
+      "amount": "1 teaspoon",
+      "notes": "for an extra Japanese twist"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine caster sugar, all-purpose flour, and salt. Mix well until combined.",
+    "Add the grated apple, egg, and cinnamon (if using) to the dry ingredients. Mix until a dough forms.",
+    "Knead the dough on a floured surface until it becomes smooth and pliable.",
+    "Divide the dough into 8-10 equal pieces. Shape each piece into a ball and then flatten it slightly into a disk shape.",
+    "Heat a non-stick pan or griddle over medium heat. Brush with a small amount of vegetable oil.",
+    "Cook the dumplings for 2-3 minutes on each side, or until they are golden brown and crispy on the outside.",
+    "Remove the dumplings from the pan and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the dumplings warm with a dusting of matcha powder (if using)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cozy",
+    "dessert",
+    "japanese",
+    "low-sodium",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 2,
+    "carbs": 60,
+    "fat": 2
+  },
+  "slug": "cozy-japanese-sugar-dumplings",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-japanese-sugar-dumplings",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:05:19Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "glassy-jelly",
+    "mood": "cozy",
+    "technique": "dum",
+    "primaryIngredient": "ground sugar",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "japanese",
+    "mainIngredient": "sugar",
+    "descriptor": "cozy",
+    "dishForm": "dumplings"
+  }
+}

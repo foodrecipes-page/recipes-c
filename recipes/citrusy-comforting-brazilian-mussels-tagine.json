@@ -1,0 +1,63 @@
+{
+  "title": "Citrusy Comforting Brazilian Mussels Tagine",
+  "description": "A hearty Brazilian dish featuring mussels, citrus, and a comforting glassy-jelly sauce, all cooked to perfection in a ceramic tagine.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mussels",
+      "amount": "1 pound",
+      "notes": "freshly scrubbed and debearded"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of olive oil in a ceramic tagine over medium heat.",
+    "Add 2 tablespoons of freshly squeezed orange juice and 1 tablespoon of freshly squeezed lime juice to the tagine.",
+    "Add 1 pound of mussels to the tagine, cover, and cook for 3-5 minutes or until the mussels open.",
+    "Add 1 cup of fish stock, 1 tablespoon of honey, and 1 teaspoon of grated ginger to the tagine. Stir to combine.",
+    "Bring the mixture to a gentle simmer and cook for an additional 5-7 minutes or until the sauce has thickened slightly.",
+    "Season the sauce with salt, pepper, and a squeeze of fresh lime juice.",
+    "Serve the mussels in the tagine, spooning some of the sauce over the top.",
+    "Garnish with chopped fresh cilantro, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "citrus",
+    "comforting",
+    "fish-friendly",
+    "mussels",
+    "no-onion-no-garlic",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "citrusy-comforting-brazilian-mussels-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-comforting-brazilian-mussels-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:05:14Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "glassy-jelly",
+    "mood": "comforting",
+    "technique": "temper",
+    "primaryIngredient": "mussels",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "mussels",
+    "descriptor": "Citrusy Comforting",
+    "dishForm": "Tagine"
+  }
+}

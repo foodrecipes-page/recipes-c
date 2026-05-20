@@ -1,0 +1,119 @@
+{
+  "title": "citrusy zesty mexican chicken tacos",
+  "description": "a vibrant and zesty taco recipe featuring grilled chicken, citrus marinated and then cooked to perfection in a sake and spice-infused sauce.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "4 lbs",
+      "notes": ""
+    },
+    {
+      "name": "orange juice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sake",
+      "amount": "2 cups",
+      "notes": "cook with high heat, reduce to 1 cup"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground coriander"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp",
+      "notes": "ground chili powder"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "table salt"
+    },
+    {
+      "name": "mirepoix",
+      "amount": "1 cup",
+      "notes": "diced onion, carrots, celery"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat grill to medium-high heat",
+    "season chicken breast with cumin, coriander, chili powder, and salt",
+    "grill chicken for 5 minutes per side, or until cooked through",
+    "set aside and rest for 5 minutes",
+    "heat 1 tbsp oil in a large skillet over medium-high heat",
+    "add mirepoix and cook until softened, about 5 minutes",
+    "add sake and cook for 2 minutes, or until reduced by half",
+    "add citrus juice and cook for 1 minute",
+    "add chicken to the skillet and toss to coat with sauce",
+    "serve with cilantro and your choice of toppings"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "mexican",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 64,
+    "carbs": 24,
+    "fat": 32
+  },
+  "slug": "citrusy-zesty-mexican-chicken-tacos",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-zesty-mexican-chicken-tacos",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:06:05Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "bouncy-qq",
+    "mood": "romantic",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "sake-cooking",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "mexican",
+    "mainIngredient": "chicken",
+    "descriptor": "citrusy zesty",
+    "dishForm": "Tacos"
+  }
+}
