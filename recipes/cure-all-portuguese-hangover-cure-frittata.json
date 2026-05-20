@@ -1,0 +1,94 @@
+{
+  "title": "cure-all portuguese hangover cure frittata",
+  "description": "briny, pillowy portuguese hangover cure featuring elderflower and nuka-pickle, ayurvedic-rajasic-friendly",
+  "cuisine": "portuguese",
+  "diet": [
+    "vegetarian",
+    "celiac-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "elderflower honey",
+      "amount": "2 tsp",
+      "notes": "raw, unfiltered"
+    }
+  ],
+  "chicken broth, low sodium, ": [
+    {
+      ",": "<<",
+      "amount": 100,
+      "ml": ",",
+      "notes": "    ",
+      "fresh parsley,": {
+        "amount": 4,
+        "sprigs": "",
+        "notes": "chopped"
+      }
+    },
+    {
+      "salt": {
+        "amount": 1,
+        "tsp": ""
+      }
+    },
+    {
+      "black pepper": {
+        "amount": 0.5,
+        "tsp": "",
+        "notes": "freshly ground"
+      }
+    }
+  ],
+  "instructions": [
+    "preheat oven to 375f.",
+    "chop parsley sprigs and set aside.",
+    "whisk eggs in a large mixing bowl, adding elderflower honey, nuka-pickle rehydrated with water, chopped parsley, salt, and black pepper.",
+    "heat a 9-inch skillet over medium heat, and brush with chicken broth low in sodium.",
+    "pour whisked egg mixture into the skillet and cook until the edges start to set.",
+    "transfer the skillet to the preheated oven and bake for 15 minutes, or until the frittata is just set.",
+    "remove the skillet from the oven, and let it cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "breakfast",
+    "brunch",
+    "hangover-cure",
+    "lunch",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 22,
+    "carbs": 14,
+    "fat": 12
+  },
+  "slug": "cure-all-portuguese-hangover-cure-frittata",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/cure-all-portuguese-hangover-cure-frittata",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:00:17Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "pillowy",
+    "mood": "hangover-cure",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "elderflower",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Hangover Cure",
+    "descriptor": "Cure-all",
+    "dishForm": "Frittata"
+  }
+}
