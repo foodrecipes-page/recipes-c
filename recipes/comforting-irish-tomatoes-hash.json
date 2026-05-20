@@ -1,0 +1,118 @@
+{
+  "title": "Comforting Irish Tomatoes Hash",
+  "description": "A citrusy twist on traditional Irish fried rice, featuring plum tomatoes and a hint of spice. This dish is a hearty breakfast option or a comforting lunch.",
+  "cuisine": "Irish",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Plum Tomatoes",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Khao Khua",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "handful",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "handful",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large skillet over medium heat. ",
+    "Add diced onion and saut\t4 until translucent, about 3-4 minutes. ",
+    "Add minced garlic and cook for an additional 1-2 minutes. ",
+    "Add chopped plum tomatoes, salt, and pepper. Cook for 4-5 minutes, stirring occasionally. ",
+    "Add khao khua and stir to combine. Cook for an additional 2-3 minutes. ",
+    "Stir in lemon juice, lemon zest, and red pepper flakes. ",
+    "Cook for an additional 1-2 minutes, stirring frequently. ",
+    "Stir in chopped parsley and basil. ",
+    "Serve hot and enjoy!",
+    "Taste and adjust seasoning as needed."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "comforting",
+    "irish",
+    "lunch",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "comforting-irish-tomatoes-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/comforting-irish-tomatoes-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:11:12Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "shaggy",
+    "mood": "comforting",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "plum tomatoes",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "tomatoes",
+    "descriptor": "Comforting",
+    "dishForm": "Hash"
+  }
+}
