@@ -1,0 +1,108 @@
+{
+  "title": "Creamy Earthy Argentinian Milk Bake",
+  "description": "A comforting weeknight dish from Argentina featuring semi-skimmed milk and earthy flavors.",
+  "cuisine": "argentinian",
+  "diet": [
+    null,
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "semi-skimmed milk",
+      "amount": "250ml",
+      "notes": ""
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "2g",
+      "notes": ""
+    },
+    {
+      "name": "ayurvedic ghee",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1tbsp",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a wok over medium heat.",
+    "Add the ghee and let melt.",
+    "Add the binchotan charcoal and let burn for 30 seconds.",
+    "Stir in the flour and cook for 1 minute.",
+    "Gradually add the semi-skimmed milk, whisking continuously.",
+    "Bring the mixture to a simmer.",
+    "Add the dried oregano, salt, thyme and grated cheddar cheese.",
+    "Reduce the heat to low and let cook for 5 minutes.",
+    "Stir in the chopped parsley.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "comfort-food",
+    "earth-tones",
+    "easy-weeknight-meals",
+    "milk-based",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "creamy-earthy-argentinian-milk-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-earthy-argentinian-milk-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:53:05Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "creamy",
+    "mood": "weeknight",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "semi-skimmed milk",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Milk",
+    "descriptor": "Creamy Earthy",
+    "dishForm": "Bake"
+  }
+}

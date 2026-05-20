@@ -1,0 +1,94 @@
+{
+  "title": "Charred Croatian Cheonggukjang Grill",
+  "description": "A hearty and savory dish featuring the bold flavors of cheonggukjang and ferment-jang, served with a charred twist.",
+  "cuisine": "croatian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cheonggukjang",
+      "amount": "1 cup",
+      "notes": "use a high-quality, fermented cheonggukjang paste"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "2 tablespoons",
+      "notes": "a thick, savory sauce made from fermented soybeans"
+    },
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": " boneless, skinless"
+    },
+    {
+      "name": "carrots",
+      "amount": "4",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "use a high-quality, extra-virgin olive oil"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "use a flaky, sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "use a freshly ground black pepper"
+    }
+  ],
+  "instructions": [
+    "preheat grill to medium-high heat (400-425°f).",
+    "in a small bowl, mix together cheonggukjang, ferment-jang, and 1 tablespoon of olive oil.",
+    "season pork shoulder with salt and black pepper.",
+    "add pork shoulder to the grill and cook for 5-7 minutes per side, or until slightly charred and cooked through.",
+    "add chopped carrots and minced garlic to the grill and cook for an additional 2-3 minutes, or until tender.",
+    "brush the charred carrots and garlic with the remaining 1 tablespoon of olive oil.",
+    "serve the charred Croatian cheonggukjang grill with the pork shoulder, carrots, and garlic."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "crowd-pleaser",
+    "grilled",
+    "high-protein",
+    "low-carb-friendly",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 53,
+    "carbs": 6,
+    "fat": 33
+  },
+  "slug": "charred-croatian-cheonggukjang-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-croatian-cheonggukjang-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:52:30Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "dense",
+    "mood": "crowd-pleaser",
+    "technique": "ferment-jang",
+    "primaryIngredient": "cheonggukjang",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Cheonggukjang",
+    "descriptor": "charred",
+    "dishForm": "Grill"
+  }
+}
