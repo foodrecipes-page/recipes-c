@@ -1,0 +1,104 @@
+{
+  "title": "Citrusy Velvety Croatian Solo-dinner Skewers",
+  "description": "Delicate and refreshing skewers from Croatia, perfect for a solo dinner.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "12 oz"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "2"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "2"
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "1"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Tempering chocolate",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Thread the chicken, red bell pepper, zucchini, and onion onto metal skewers.",
+    "In a small bowl, whisk together lemon zest, lemon juice, olive oil, garlic, salt, and black pepper.",
+    "Brush the skewers with the lemon mixture.",
+    "Heat an iron teppan or grill to medium-high heat.",
+    "Cook the skewers for 8-10 minutes, turning occasionally, until the chicken is cooked through.",
+    "While the skewers cook, melt the tempering chocolate in a small saucepan over low heat.",
+    "Once the skewers are cooked, brush them with the melted chocolate.",
+    "Garnish with fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "croatian-cuisine",
+    "high-protein",
+    "iron-teppan",
+    "low-calorie",
+    "solo-dinner",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 6
+  },
+  "slug": "citrusy-velvety-croatian-solo-dinner-skewers",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-velvety-croatian-solo-dinner-skewers",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:49:14Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "velvety",
+    "mood": "solo-dinner",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "lemon juice",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Solo-dinner",
+    "descriptor": "Citrusy Velvety",
+    "dishForm": "Skewers"
+  }
+}
