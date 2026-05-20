@@ -1,0 +1,110 @@
+{
+  "title": "Claypot-cooked Creamy Egyptian Grass Biryani",
+  "description": "A rich and creamy Egyptian-inspired dish featuring matcha and claypot-cooked basmati rice, perfect for a romantic dinner.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Basmati rice",
+      "amount": "2 cups",
+      "notes": "long-grain basmati rice is essential for this dish"
+    },
+    {
+      "name": "Matcha powder",
+      "amount": "2 teaspoons",
+      "notes": "use high-quality matcha powder for the best flavor"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "use a neutral-tasting oil like canola or grapeseed"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chop the onion for even cooking"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "mince the garlic for maximum flavor"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 cup",
+      "notes": "canned or cooked chickpeas work well in this dish"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "use fresh parsley for the best flavor"
+    },
+    {
+      "name": "Chopped fresh mint",
+      "amount": "1/4 cup",
+      "notes": "use fresh mint for a unique twist"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "use high-quality salt for the best flavor"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "use freshly ground black pepper for maximum flavor"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large clay pot over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for an additional minute.",
+    "Add the matcha powder and cook for 1 minute, stirring constantly.",
+    "Add the rice and cook for 2-3 minutes, stirring constantly.",
+    "Add the chickpeas, salt, and black pepper, and stir to combine.",
+    "Add 2 cups of water to the pot and bring to a boil.",
+    "Reduce the heat to low, cover the pot, and simmer for 20-25 minutes, or until the rice is cooked and creamy.",
+    "Stir in the chopped parsley and mint.",
+    "Serve the dish hot, garnished with additional parsley and mint if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "matcha",
+    "one-pan",
+    "romantic",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 10,
+    "carbs": 80,
+    "fat": 20
+  },
+  "slug": "claypot-cooked-creamy-egyptian-grass-biryani",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/claypot-cooked-creamy-egyptian-grass-biryani",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:37:10Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "gooey",
+    "mood": "romantic",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "matcha",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "grass",
+    "descriptor": "Claypot-cooked Creamy",
+    "dishForm": "Biryani"
+  }
+}
