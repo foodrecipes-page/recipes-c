@@ -1,0 +1,112 @@
+{
+  "title": "Citrusy Thai Feta Northern Thai Noodles",
+  "description": "A twist on traditional Northern Thai noodles, featuring crispy fried shallots and tangy citrus zest, served with crumbled feta cheese.",
+  "cuisine": "Thai",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fettuccine noodles",
+      "amount": "12 oz",
+      "notes": null
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1 cup, crumbled",
+      "notes": ""
+    },
+    {
+      "name": "Fried shallots",
+      "amount": "1/2 cup, chopped",
+      "notes": "see notes for fried shallot recipe"
+    },
+    {
+      "name": "Citrus zest",
+      "amount": "2 tbsp",
+      "notes": "orange, lemon, and lime combined"
+    },
+    {
+      "name": "Thai chilies",
+      "amount": "2-3",
+      "notes": "depending on desired heat level"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Palm sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece, peeled and sliced",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Cook fettuccine noodles according to package instructions and set aside.",
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the sliced ginger and cook for 1 minute, until fragrant.",
+    "Add the Thai chilies and cook for an additional 1-2 minutes, until slightly softened.",
+    "Add the fried shallots, palm sugar, and fish sauce to the skillet and stir to combine.",
+    "Add the cooked noodles to the skillet and toss to combine with the sauce.",
+    "Transfer the noodles to a serving platter and top with crumbled feta cheese, citrus zest, and chopped cilantro.",
+    "Drizzle with additional vegetable oil if needed and serve immediately.",
+    "Serve with lime wedges on the side.",
+    "Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-side-dish",
+    "feta-cheese",
+    "low-carb",
+    "northern-thai",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 432,
+    "protein": 23,
+    "carbs": 30,
+    "fat": 26
+  },
+  "slug": "citrusy-thai-feta-northern-thai-noodles",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-thai-feta-northern-thai-noodles",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:22:25Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "flaky",
+    "mood": "festive",
+    "technique": "caramelize",
+    "primaryIngredient": "feta",
+    "diet": "raw",
+    "region": "northern-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Feta",
+    "descriptor": "Citrusy",
+    "dishForm": "Northern Thai Noodles"
+  }
+}
