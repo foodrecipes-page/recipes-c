@@ -1,0 +1,111 @@
+{
+  "title": "Creamy Cold Japanese Sesame Bao",
+  "description": "A refreshing Japanese dessert featuring toasted sesame seeds, creamy tahini, and fragrant herbs. Perfect for warm weather or as a unique snack.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Sesame seeds",
+      "amount": "1 cup",
+      "notes": "Toasted in a pan over medium heat until fragrant."
+    },
+    {
+      "name": "Tahini",
+      "amount": "1/2 cup",
+      "notes": "Creamy and rich."
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp",
+      "notes": "Light and nutty."
+    },
+    {
+      "name": "Yuzu juice",
+      "amount": "2 tbsp",
+      "notes": "Fragrant and citrusy."
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Thinly sliced and pickled in a mixture of equal parts sugar and vinegar."
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "Thinly sliced and added on top."
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tbsp",
+      "notes": "To balance the flavors."
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": "Optional, for a touch of sweetness."
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 tsp",
+      "notes": "For the bao dough."
+    },
+    {
+      "name": "Warm water",
+      "amount": "1 cup",
+      "notes": "To activate the yeast."
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": "For the bao dough."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "For the bao dough."
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, toast the sesame seeds over medium heat until fragrant, stirring frequently."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "high-protein",
+    "japanese-dessert",
+    "sesame-seeds",
+    "tahini",
+    "unique-snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "creamy-cold-japanese-sesame-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-cold-japanese-sesame-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:00:13Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "smoke-hot",
+    "primaryIngredient": "tahini",
+    "diet": "low-glycemic",
+    "region": "chugoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "sesame",
+    "descriptor": "creamy cold",
+    "dishForm": "Bao"
+  }
+}

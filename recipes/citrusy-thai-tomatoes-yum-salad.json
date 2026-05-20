@@ -1,0 +1,102 @@
+{
+  "title": "Citrusy Thai Tomatoes Yum-Salad",
+  "description": "A crunchy and cozy Thai dish featuring wood-fired-baked tomatoes and a tangy citrus dressing. This vegan-friendly yum-salad is perfect for a quick and easy lunch or dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Wood-fired baked tomatoes",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/2 cup",
+      "notes": "",
+      "chopped and cilantro leaves only, use stem and leaves, too.": ")"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": "",
+      "discard stems.": "  "
+    },
+    {
+      "name": "Citrus juice (orange, grapefruit, and lime)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "1 tablespoon",
+      "notes": "",
+      "adjust to taste.": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tablespoon",
+      "notes": "",
+      "melted.": " "
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "",
+      "flaky sea salt (optional). ": " "
+    }
+  ],
+  "instructions": [
+    "Combine wood-fired baked tomatoes, chopped cilantro, and fresh mint leaves in a large bowl.",
+    "Drizzle citrus juice and maple syrup over the top and toss to combine.",
+    "Heat coconut oil in a small pan over medium heat.",
+    "Pour the hot oil over the salad and toss to coat.",
+    "Season with salt to taste.",
+    "Toss in some toasted peanuts or cashews for added crunch, if desired.",
+    "Serve immediately, garnished with additional cilantro if desired.",
+    "Adjust seasoning and dressing as needed to taste.",
+    "Toss in some diced red onion for added flavor, if desired.",
+    "Toss in some chopped fresh Thai chilies for added heat, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dinner",
+    "gluten-free",
+    "lunch",
+    "one-pan",
+    "quick-and-easy",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "citrusy-thai-tomatoes-yum-salad",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-thai-tomatoes-yum-salad",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:00:33Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crunchy",
+    "mood": "cozy",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "tinned tomatos",
+    "diet": "vegan",
+    "region": "central-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Tomatoes",
+    "descriptor": "Citrusy",
+    "dishForm": "Yum-Salad"
+  }
+}
