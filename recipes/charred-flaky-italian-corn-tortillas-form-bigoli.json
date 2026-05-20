@@ -1,0 +1,107 @@
+{
+  "title": "Charred Flaky Italian Corn Tortillas Form Bigoli",
+  "description": "A twist on the Italian classic, featuring charred corn tortillas and a rustic, comforting form. This high-protein dish is perfect for a lazy Sunday.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Corn tortillas",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "Italian sausage",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Grated Parmesan cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Grill the corn tortillas for 2-3 minutes on each side, until slightly charred.",
+    "Cut the Italian sausage into bite-sized pieces and cook in a skillet over medium heat until browned, about 5 minutes.",
+    "Add the onion and garlic to the skillet and cook until the onion is translucent, about 3 minutes.",
+    "Add the grilled tortillas to the skillet and cook for 1-2 minutes, until the tortillas start to crisp.",
+    "Season with salt, black pepper, and fresh parsley.",
+    "Top with grated Parmesan cheese and fresh basil.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "italian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 45,
+    "carbs": 60,
+    "fat": 40
+  },
+  "slug": "charred-flaky-italian-corn-tortillas-form-bigoli",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-flaky-italian-corn-tortillas-form-bigoli",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:51:06Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "flaky",
+    "mood": "lazy-sunday",
+    "technique": "grill",
+    "primaryIngredient": "corn tortillas",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "corn tortillas",
+    "descriptor": "charred flaky",
+    "dishForm": "Form Bigoli"
+  }
+}
