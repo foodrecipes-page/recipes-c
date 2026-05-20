@@ -1,0 +1,98 @@
+{
+  "title": "Chewy Briny Egyptian Dashi Tagine",
+  "description": "A hearty and comforting Egyptian-inspired dish featuring dashi, perfect for a sick day.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "egg-free",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dashi broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "flour",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in an air fryer basket at 375°F (190°C).",
+    "Add onions and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add chickpeas, diced tomatoes, salt, black pepper, and caraway seeds. Cook for 10 minutes.",
+    "Stir in flour to thicken the mixture.",
+    "Serve hot over couscous or rice.",
+    "Garnish with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-to-make",
+    "european-inspired",
+    "high-fiber",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 22,
+    "carbs": 80,
+    "fat": 20
+  },
+  "slug": "chewy-briny-egyptian-dashi-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-briny-egyptian-dashi-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:25:23Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "chewy",
+    "mood": "sick-day",
+    "technique": "air-fry",
+    "primaryIngredient": "dashi",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "dashi",
+    "descriptor": "chewy briny",
+    "dishForm": "Tagine"
+  }
+}
