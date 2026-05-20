@@ -1,0 +1,87 @@
+{
+  "title": "Crunchy Rich Uruguayan Bread Toast",
+  "description": "A rich, crispy Uruguayan snack typically enjoyed late at night, featuring a simple mixture of white bread ingredients boiled to perfection.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "white bread mix",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/8 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "flaxseed",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Combine white bread mix, water, salt, and cinnamon in a bowl. Mix until a sticky dough forms.",
+    "Bring a large pot of water to a boil, then carefully add the dough mixture and boil for 10 minutes.",
+    "While the dough is boiling, heat coconut oil in a skillet over medium heat.",
+    "Once the dough has boiled for 10 minutes, remove it from the water and add it to the skillet.",
+    "Cook the dough mixture for an additional 5 minutes on each side, until golden brown and crispy.",
+    "Sprinkle sugar, flaxseed, and a pinch of vanilla extract over the top of the dough mixture.",
+    "Serve the crunchy, sweet, and savory Uruguayan bread toast hot, garnished with additional cinnamon if desired.",
+    "Store leftover bread toast at room temperature in an airtight container for up to 3 days."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "snack",
+    "uruguayan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "crunchy-rich-uruguayan-bread-toast",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-rich-uruguayan-bread-toast",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T14:59:59Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crunchy",
+    "mood": "midnight-craving",
+    "technique": "boil",
+    "primaryIngredient": "white bread mix",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "bread",
+    "descriptor": "Crunchy Rich",
+    "dishForm": "Toast"
+  }
+}
