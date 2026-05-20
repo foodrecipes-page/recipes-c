@@ -1,0 +1,123 @@
+{
+  "title": "Charred Australian Salmon Grill",
+  "description": "A low-carb friendly, crowd-pleasing dish featuring charred, molten Australian salmon with a sweet lacquer glaze.",
+  "cuisine": "australian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian salmon fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Lacquer glaze",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped (optional)",
+      "notes": ""
+    },
+    {
+      "name": "Fresh lemon wedges",
+      "amount": "sliced (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F/200°C).",
+    "Season the salmon fillets with salt and black pepper.",
+    "In a small saucepan, combine honey, soy sauce, brown sugar, rice vinegar, ginger, and garlic. Bring to a boil over medium heat, then reduce heat to low and simmer for 5 minutes.",
+    "Brush the lacquer glaze onto both sides of the salmon fillets.",
+    "Add the salmon fillets to the preheated grill and cook for 4-6 minutes per side, or until cooked through.",
+    "Transfer the salmon to a plate and brush with additional lacquer glaze if desired.",
+    "Drizzle with olive oil and garnish with chopped parsley and sliced lemon wedges if desired.",
+    "Let the salmon rest for 2-3 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "grilled",
+    "low-carb",
+    "main-course",
+    "salmon",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "charred-australian-salmon-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-australian-salmon-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:23:52Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "molten",
+    "mood": "crowd-pleaser",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "salmon",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "salmon",
+    "descriptor": "charred",
+    "dishForm": "Grill"
+  }
+}
