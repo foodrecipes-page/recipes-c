@@ -1,0 +1,106 @@
+{
+  "title": "Comforting Warm Ukrainian Pasta Baked",
+  "description": "A creamy, comforting Ukrainian-inspired baked pasta dish featuring molten ice cream and a pasta-water-emulsion. This dish is low-sodium-friendly and perfect for a weeknight dinner.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta ( Ukrainian-style egg noodles)",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "ice cream (low-sodium flavor)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "melted butter",
+      "amount": "4 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped dill",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the pasta according to the package instructions until al dente, then set aside.",
+    "In a large mixing bowl, combine the melted butter, garlic powder, paprika, and salt-free seasoning blend.",
+    "Add the cooked pasta to the bowl and toss to coat with the butter mixture.",
+    "In a separate bowl, whip the ice cream until it's light and fluffy.",
+    "Add the whipped ice cream to the pasta and toss until the pasta is well coated.",
+    "Transfer the pasta mixture to a baking dish and top with chopped dill and scallions.",
+    "Pour the water over the pasta mixture and cover the dish with aluminum foil.",
+    "Bake for 25 minutes, then remove the foil and continue baking for an additional 5-7 minutes, or until the top is golden brown.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "cream-based",
+    "easy-to-make",
+    "low-sodium",
+    "one-pan",
+    "ukrainian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 20,
+    "carbs": 70,
+    "fat": 24
+  },
+  "slug": "comforting-warm-ukrainian-pasta-baked",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/comforting-warm-ukrainian-pasta-baked",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:46:05Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "molten",
+    "mood": "comforting",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "ice cream",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Pasta",
+    "descriptor": "Comforting warm",
+    "dishForm": "Baked"
+  }
+}

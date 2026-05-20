@@ -1,0 +1,97 @@
+{
+  "title": "Shaggy Irish Beef Bowl",
+  "description": "A hearty, indulgent bowl featuring slow-cooked beef brisket, topped with crispy onions and a tangy slaw.",
+  "cuisine": "Irish",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "1.5 kg"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "slaw mix",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the beef brisket with caraway seeds, allspice, and salt.",
+    "In a large Dutch oven, brown the beef on all sides over medium-high heat.",
+    "Add the chopped onion to the pot and cook until caramelized.",
+    "Add the flour to the pot and cook for 1 minute, stirring constantly.",
+    "Add the stock to the pot, scraping up any browned bits from the bottom.",
+    "Transfer the pot to the preheated oven and cook for 2 1/2 hours.",
+    "Remove the pot from the oven and let the beef rest for 10 minutes.",
+    "Slice the beef against the grain and serve with the slaw mix, chopped parsley, and bonito flakes on top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 165,
+  "totalTimeMin": 195,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "comfort-food",
+    "irish",
+    "one-pan",
+    "slow-cooked",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "charred-indulgent-shaggy-irish-beef-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-indulgent-shaggy-irish-beef-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:46:00Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "shaggy",
+    "mood": "indulgent",
+    "technique": "bonito-shave",
+    "primaryIngredient": "beef brisket",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "beef",
+    "descriptor": "Charred, indulgent, shaggy",
+    "dishForm": "Bowl"
+  }
+}

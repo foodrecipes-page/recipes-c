@@ -1,0 +1,125 @@
+{
+  "title": "Citrusy Crunchy Mediterranean Kaffir-Lime-Leaf Galette",
+  "description": "A romantic Mediterranean dish that combines the flavors of citrus and kaffir-lime-leaf with the crunch of almonds and the freshness of herbs.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "kaffir-lime-leaf",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "orange zest",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "grass-fed unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "large egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "freshly ground black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "fresh basil",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "sea salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "almonds",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "for brushing",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, whisk together almond flour, Parmesan cheese, kaffir-lime-leaf, orange zest, and sea salt.",
+    "In a separate bowl, whisk together lemon juice, egg, and black pepper.",
+    "Add the wet ingredients to the dry ingredients and mix until a dough forms.",
+    "Turn the dough out onto a floured surface and knead a few times until it comes together.",
+    "Cut the dough in half and roll out each half into a thin circle.",
+    "Brush the edges of each circle with olive oil and fold the dough in half to form a galette shape.",
+    "Place the galettes on a baking sheet lined with parchment paper and brush the tops with olive oil.",
+    "Sprinkle the tops with almonds and bake for 20-25 minutes, or until golden brown.",
+    "Remove the galettes from the oven and let them cool for a few minutes before serving.",
+    "Garnish with fresh parsley and basil before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "mediterranean",
+    "one-pan",
+    "vegan-option",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "citrusy-crunchy-mediterranean-kaffir-lime-leaf-galette",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-crunchy-mediterranean-kaffir-lime-leaf-galette",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:46:34Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crunchy",
+    "mood": "romantic",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "kaffir-lime-leaf",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "kaffir-lime-leaf",
+    "descriptor": "citrusy crunchy",
+    "dishForm": "Galette"
+  }
+}
