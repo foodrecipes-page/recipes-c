@@ -1,0 +1,117 @@
+{
+  "title": "Crispy Roasted Peruvian Chicken Pollo a la Brasa",
+  "description": "Fresh, cheese-pull meal-prep dish featuring full fat sour cream, sauté, and roasted Peruvian spices.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "whole chicken (3 lbs)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "achiote paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "a pinch",
+      "notes": "to taste"
+    },
+    {
+      "name": "full fat sour cream",
+      "amount": "1 cup",
+      "notes": "for serving"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rinse the chicken and pat dry with paper towels.",
+    "In a large bowl, mix together achiote paste, cumin, smoked paprika, garlic, and ginger.",
+    "Add the chicken to the bowl and coat with the spice mixture.",
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Sear the chicken until browned on all sides, about 5 minutes per side.",
+    "Transfer the chicken to a terracotta dish and roast in the preheated oven for 45 minutes.",
+    "While the chicken is roasting, sauté the cilantro in a small pan until fragrant.",
+    "Stir the cilantro into the sour cream and set aside.",
+    "Remove the chicken from the oven and let rest for 10 minutes before slicing.",
+    "Slice the chicken and serve with the sour cream sauce.",
+    "Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 55,
+  "totalTimeMin": 85,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "peruvian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 44,
+    "carbs": 12,
+    "fat": 26
+  },
+  "slug": "crispy-roasted-peruvian-chicken-pollo-a-la-brasa",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-roasted-peruvian-chicken-pollo-a-la-brasa",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:11:40Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "cheese-pull",
+    "mood": "meal-prep",
+    "technique": "saute",
+    "primaryIngredient": "full fat sour cream",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Crispy Roasted",
+    "dishForm": "Pollo a la Brasa"
+  }
+}
