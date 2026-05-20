@@ -1,0 +1,119 @@
+{
+  "title": "Charred German Ground Beef Skillet",
+  "description": "A hearty, energizing dish that combines the flavors of Germany with a charred, chewy texture.",
+  "cuisine": "German",
+  "diet": [
+    "gluten-free",
+    "sattvic-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "500g",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "0.5 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Namul blanch seasoning",
+      "amount": "0.5 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Paprika",
+      "amount": "0.25 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "0.25 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.25 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 bunch",
+      "notes": null
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 large",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the onion, garlic, cinnamon, namul blanch seasoning, paprika, salt, and black pepper to the skillet and cook until the onion is translucent.",
+    "Add the potatoes and carrots to the skillet and cook for 10 minutes, stirring occasionally.",
+    "Use a spatula to press down on the ingredients and create a crispy crust on the bottom of the skillet.",
+    "Continue cooking the ingredients for another 5 minutes, stirring occasionally.",
+    "Transfer the skillet to the oven and bake at 400 degrees Fahrenheit for 15 minutes.",
+    "Remove the skillet from the oven and garnish with fresh parsley before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-weeknight",
+    "german",
+    "ground-beef",
+    "high-protein",
+    "one-pan",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 70,
+    "carbs": 40,
+    "fat": 40
+  },
+  "slug": "charred-german-ground-beef-skillet",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-german-ground-beef-skillet",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:38:00Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "chewy",
+    "mood": "energizing",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "ground cinnamon",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "ground beef",
+    "descriptor": "charred",
+    "dishForm": "Skillet"
+  }
+}
