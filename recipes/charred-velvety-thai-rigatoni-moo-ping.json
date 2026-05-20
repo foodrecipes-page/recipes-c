@@ -1,0 +1,129 @@
+{
+  "title": "Charred Velvety Thai Rigatoni Moo-Ping",
+  "description": "A luxurious take on traditional Thai moo-ping, with charred rigatoni and a velvety sauce. Perfect for a special occasion or dinner party.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tbsp",
+      "notes": "make sure it's free from additives"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "use 0.5 tbsp for lower-sodium option"
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "8 oz",
+      "notes": "canned or fresh, full-fat only"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Rigatoni",
+      "amount": "1 lb",
+      "notes": "make sure it's made from high-quality durum wheat"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped green chilies",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Kaffir lime leaves",
+      "amount": "4",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "Meanwhile, cook the rigatoni in a large pot of boiling, salted water until al dente, then reserve.",
+    "In a small bowl, whisk together fish sauce, soy sauce, brown sugar, and rice vinegar. Set aside.",
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat. Sear the pork shoulder until browned on all sides, about 5 minutes per side. Transfer the pork to a plate and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of olive oil. Add the garlic, ginger, and green chilies and sauté for 2 minutes, until fragrant.",
+    "Add the Thai red curry paste and sauté for 1 minute, until the paste is fragrant.",
+    "Add the coconut cream and whisk until smooth. Bring the mixture to a simmer and cook for 2-3 minutes, until slightly thickened.",
+    "Add the reserved rigatoni and toss to coat with the curry sauce.",
+    "Add the caramelized pork, fish sauce mixture, and chopped cilantro. Toss everything together until the sauce is evenly distributed.",
+    "Season with salt to taste.",
+    "Transfer the rigatoni mixture to a serving platter and garnish with additional cilantro, green chilies, and kaffir lime leaves, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easydinner",
+    "noodle",
+    "onepan",
+    "pork",
+    "thaicuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 40
+  },
+  "slug": "charred-velvety-thai-rigatoni-moo-ping",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-velvety-thai-rigatoni-moo-ping",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:45:24Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "velvety",
+    "mood": "festive",
+    "technique": "sous-vide",
+    "primaryIngredient": "rigatoni",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "rigatoni",
+    "descriptor": "charred velvety",
+    "dishForm": "Moo-Ping"
+  }
+}
