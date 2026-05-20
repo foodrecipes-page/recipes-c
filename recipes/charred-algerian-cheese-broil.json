@@ -1,0 +1,113 @@
+{
+  "title": "Charred Algerian Cheese Broil",
+  "description": "A flavorful Algerian dish featuring a charred exterior and a gooey cheese pull. Enjoy it as a quick energizing meal or snack.",
+  "cuisine": "Algerian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Halloumi cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Extra-virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Cider vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Coarse black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Sliced red onion",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat broiler. Line a broiler pan with foil for easy cleanup. Cut the Halloumi cheese into 1-inch thick slices. Place the cheese slices on the prepared broiler pan, leaving about 1 inch of space between each slice. Drizzle the olive oil over the cheese, then sprinkle with black pepper, garlic powder, smoked paprika, salt, thyme, and cayenne pepper. Place the broiler pan under the preheated broiler and cook for 3-4 minutes or until the cheese is charred and golden brown. Remove the cheese from the oven and brush with cider vinegar. Let it cool for a minute or two, then garnish with parsley and cilantro. Serve immediately.",
+    "Cut the red onion into thin slices and caramelize them in a pan with a little bit of olive oil until they are dark brown and sweet. Add a pinch of salt and a sprinkle of parsley to the onions and set aside. To assemble the dish, place a few slices of the charred cheese on a plate, then top with a spoonful of the caramelized onions and a sprinkle of fresh cilantro.",
+    "Repeat the process with the remaining cheese and onion mixture, and serve immediately.",
+    "If desired, garnish with additional parsley and cilantro.",
+    "Serve warm, or at room temperature, as desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "breakfast-lunch-dinner",
+    "broiler",
+    "cheese-pull",
+    "low-sodium",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "charred-algerian-cheese-broil",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-algerian-cheese-broil",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:52:45Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "cheese-pull",
+    "mood": "energizing",
+    "technique": "broil",
+    "primaryIngredient": "cider vinegar",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Cheese",
+    "descriptor": "Charred",
+    "dishForm": "Broil"
+  }
+}
