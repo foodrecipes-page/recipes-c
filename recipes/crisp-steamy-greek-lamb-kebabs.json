@@ -1,0 +1,100 @@
+{
+  "title": "crisp steamy greek lamb kebabs",
+  "description": "spicy, dense, solo-dinner greek dish featuring parsley, steam, low-calorie-friendly",
+  "cuisine": "greek",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "500g",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "4 sprigs",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "0.25 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat grill to 400f",
+    "in a large bowl, whisk together lemon juice, olive oil, garlic, salt, black pepper, and paprika",
+    "add lamb cubes to the bowl and toss to coat",
+    "thread lamb cubes onto skewers, leaving a little space between each cube",
+    "grill kebabs for 8 minutes per side, or until lamb is cooked through",
+    "transfer kebabs to a plate and let rest for 5 minutes",
+    "garnish with chopped parsley and serve",
+    "optional: steam kebabs for 5 minutes before serving to add extra moisture and flavor"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 16,
+  "totalTimeMin": 31,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "high-protein",
+    "low-calorie",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 45,
+    "carbs": 6,
+    "fat": 20
+  },
+  "slug": "crisp-steamy-greek-lamb-kebabs",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-steamy-greek-lamb-kebabs",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:52:42Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "dense",
+    "mood": "solo-dinner",
+    "technique": "steam",
+    "primaryIngredient": "parsley",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "Crisp, Steamy",
+    "dishForm": "Kebabs"
+  }
+}
