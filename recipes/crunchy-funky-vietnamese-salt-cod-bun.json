@@ -1,0 +1,115 @@
+{
+  "title": "crunchy funky vietnamese salt cod bun",
+  "description": "a tasty brunch dish featuring salt cod, steamed buns, and a side of fresh herbs.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "salt cod",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "steamed buns",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "pressed and drained of excess liquid"
+    },
+    {
+      "name": "spring onions",
+      "amount": "1 bunch",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "mint",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "grilled peanuts",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "sliced cucumber",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "pickled carrots",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "chili sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "oil",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "garnish with chopped mint, sliced cucumber, pickled carrots, and grilled peanuts"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "high-protein",
+    "one-pan",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "crunchy-funky-vietnamese-salt-cod-bun",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-funky-vietnamese-salt-cod-bun",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:14:19Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crunchy",
+    "mood": "brunch-mood",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "salt cod",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "salt cod",
+    "descriptor": "crunchy, funky",
+    "dishForm": "Bun"
+  }
+}
