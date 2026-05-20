@@ -1,0 +1,101 @@
+{
+  "title": "Citrusy Dense Dutch Cheese Casserole",
+  "description": "A sick-day Dutch dish featuring shredded Mexican cheese, ideal for a low-sodium-friendly meal.",
+  "cuisine": "dutch",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Shredded Mexican Cheese",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Boiled Chicken Breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Cooked White Rice",
+      "amount": "1 cup",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "Orange Juice ",
+      "amount": "1/2 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "Lemon Juice ",
+      "amount": "1/4 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Zest of 1 Orange",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Low-sodium Chicken Broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the shredded cheese, boiled chicken, cooked rice, orange juice, lemon juice, and orange zest.",
+    "In a separate saucepan, heat the chicken broth over low heat.",
+    "Add the melted butter to the chicken broth and stir until combined.",
+    "Pour the chicken broth mixture over the cheese mixture and stir until well combined.",
+    "Transfer the mixture to a 9x13 inch baking dish and smooth the top.",
+    "Bake in a preheated oven at 375°F for 25 minutes, or until the casserole is heated through and the cheese is melted and bubbly.",
+    "Remove from the oven and sprinkle with chopped cilantro.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "citrusy-dense-dutch-cheese-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-dense-dutch-cheese-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:36:59Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "dense",
+    "mood": "sick-day",
+    "technique": "boil",
+    "primaryIngredient": "shredded mexican cheese",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "cheese",
+    "descriptor": "citrusy dense",
+    "dishForm": "Casserole"
+  }
+}
