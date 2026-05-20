@@ -1,0 +1,54 @@
+{
+  "title": "Crispy, Spicy Middle-Eastern Chicken Pilaf",
+  "description": "A quick, flavorful, and healthy Middle-Eastern inspired dish perfect for a solo dinner.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "400g",
+      "notes": "cut into 1-inch pieces"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix together biryani masala, yuzu juice, and a pinch of salt."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "low-fat",
+    "middle-eastern",
+    "one-pan",
+    "quick-dinner",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "crispy-spicy-middle-eastern-chicken-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-spicy-middle-eastern-chicken-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:08:38Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "light",
+    "mood": "solo-dinner",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "biryani masala",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "chicken",
+    "descriptor": "Crispy, Spicy",
+    "dishForm": "Pilaf"
+  }
+}

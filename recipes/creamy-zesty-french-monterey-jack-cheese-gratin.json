@@ -1,0 +1,110 @@
+{
+  "title": "Creamy, Zesty French Monterey Jack Cheese Gratin",
+  "description": "A citrusy, silky post-workout dish featuring monterey jack cheese and a stir-fry, perfect for a weeknight dinner in Burgundy.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Monterey Jack cheese",
+      "amount": "240g",
+      "notes": ""
+    },
+    {
+      "name": "Burgundy wine",
+      "amount": "60ml",
+      "notes": "use a dry, full-bodied wine"
+    },
+    {
+      "name": "Butter",
+      "amount": "60g",
+      "notes": "use unsalted butter"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "30ml",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Zest of lemon",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped parsley",
+      "amount": "30g",
+      "notes": "fresh"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C.",
+    "Butter a baking dish of 18cm in diameter.",
+    "In a pan, heat the olive oil and cook the sliced onion until softened, about 5 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the chopped parsley and cook for 1 minute.",
+    "Stir in the Monterey Jack cheese until melted and well combined with the onion mixture.",
+    "Pour in the Burgundy wine and stir well.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the mixture to the prepared baking dish and dot the top with butter.",
+    "Bake in the preheated oven for 20 minutes, or until golden brown and bubbly.",
+    "Serve immediately, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "burgundy",
+    "cheesy",
+    "french",
+    "one-pan",
+    "post-workout",
+    "silky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "creamy-zesty-french-monterey-jack-cheese-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-zesty-french-monterey-jack-cheese-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T19:07:37Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "silky",
+    "mood": "post-workout",
+    "technique": "stir-fry",
+    "primaryIngredient": "monterey jack cheese",
+    "diet": "egg-free",
+    "region": "burgundy",
+    "cuisineAdjective": "French",
+    "mainIngredient": "Monterey Jack Cheese",
+    "descriptor": "Creamy, Zesty",
+    "dishForm": "Gratin"
+  }
+}
