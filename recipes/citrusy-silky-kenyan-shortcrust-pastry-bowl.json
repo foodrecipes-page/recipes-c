@@ -1,0 +1,105 @@
+{
+  "title": "Citrusy Silky Kenyan Shortcrust Pastry Bowl",
+  "description": "A refreshing and healthy shortcrust pastry dish from Kenya, perfect for a sick day. This citrusy and silky bowl is a great way to enjoy a sugar-free meal.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Cold unsalted butter",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "Grated carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Zest of 1 orange",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 1 orange",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sugar-free sweetener",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the shortcrust pastry dough to a thickness of about 1/8 inch (3 mm).",
+    "Transfer the dough to an earthenware bowl, pressing it into the bottom and sides of the bowl.",
+    "Prick the dough with a fork to prevent it from bubbling up during baking.",
+    "Mix the grated carrots, orange zest, and orange juice in a bowl.",
+    "Pour the carrot mixture into the pastry-lined bowl.",
+    "Beat the egg in a small bowl and mix it with the sugar-free sweetener.",
+    "Pour the egg mixture over the carrot mixture in the bowl.",
+    "Season with salt and black pepper to taste.",
+    "Bake the bowl in the preheated oven for 35 minutes or until the pastry is golden brown.",
+    "Remove the bowl from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 50,
+    "fat": 20
+  },
+  "slug": "citrusy-silky-kenyan-shortcrust-pastry-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-silky-kenyan-shortcrust-pastry-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:32:00Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "silky",
+    "mood": "sick-day",
+    "technique": "boil",
+    "primaryIngredient": "shortcrust pastry",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "shortcrust pastry",
+    "descriptor": "Citrusy, silky",
+    "dishForm": "Bowl"
+  }
+}

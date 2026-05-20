@@ -1,0 +1,105 @@
+{
+  "title": "Charred Crispy Italian Haddock Pasta",
+  "description": "A flavorful and nutritious Italian-inspired dish featuring haddock, served with a crunchy charred crust and a side of pasta. This recipe is perfect for a quick weeknight dinner.",
+  "cuisine": "Italian",
+  "diet": [
+    "kosher",
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "haddock",
+      "amount": "4 fillets",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "basil",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "pasta",
+      "amount": "12 oz",
+      "notes": "linguine or fettuccine"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the haddock fillets with salt, black pepper, and lemon juice.",
+    "Heat the olive oil in a skillet over medium-high heat and sear the haddock for 2-3 minutes per side.",
+    "Transfer the skillet to the oven and bake for 8-10 minutes, or until the haddock is cooked through.",
+    "While the haddock is baking, cook the pasta according to package instructions until al dente.",
+    "In a large bowl, combine the cooked pasta, chopped basil, and grated parmesan cheese.",
+    "Add the charred haddock to the bowl and toss to combine.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 37,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "fish",
+    "healthy",
+    "italian",
+    "kosher",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 432,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 21
+  },
+  "slug": "charred-crispy-italian-haddock-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-crispy-italian-haddock-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:31:41Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crispy",
+    "mood": "meal-prep",
+    "technique": "temper",
+    "primaryIngredient": "haddock",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "haddock",
+    "descriptor": "charred crispy",
+    "dishForm": "Pasta"
+  }
+}
