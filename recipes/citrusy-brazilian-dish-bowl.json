@@ -1,0 +1,90 @@
+{
+  "title": "Citrusy Brazilian Kkaennip Bowl",
+  "description": "A refreshing, low-sodium-friendly Brazilian dish featuring perilla-leaf kkaennip, perfect for a morning pick-me-up to cure hangovers.",
+  "cuisine": "Brazilian",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Fresh perilla-leaf kkaennip",
+      "amount": "1 bunch",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Orange juice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Low-sodium chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt-free seasoning blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sliced green onions",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Combine kkaennip, ginger, and garlic in a large pot.",
+    "Simmer over low heat until the kkaennip is tender, about 20 minutes.",
+    "Add chicken broth, orange juice, and lime juice to the pot.",
+    "Bring the mixture to a boil, then reduce heat and simmer for 10 minutes.",
+    "Season with salt-free seasoning blend.",
+    "Serve hot, garnished with sliced green onions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "hangover-cure",
+    "low-sodium",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 3
+  },
+  "slug": "citrusy-brazilian-dish-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-brazilian-dish-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:43:37Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "glassy-jelly",
+    "mood": "hangover-cure",
+    "technique": "simmer",
+    "primaryIngredient": "perilla-leaf-kkaennip",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "dish",
+    "descriptor": "citrusy",
+    "dishForm": "Bowl"
+  }
+}
