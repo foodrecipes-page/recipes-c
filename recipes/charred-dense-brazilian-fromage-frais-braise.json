@@ -1,0 +1,106 @@
+{
+  "title": "charred,brittle,brazilian fromage frais braise",
+  "description": "a rich, dense, and crowd-pleasing dish featuring fromage frais and a caramelized exterior",
+  "cuisine": "brazilian",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fromage frais",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "thyme",
+      "amount": "1 sprig",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat oven to 400f (200c).",
+    "in a large bowl, mix together fromage frais, onion, garlic, thyme, cumin, paprika, salt, and black pepper.",
+    "add olive oil and lemon juice to the bowl and mix until well combined.",
+    "transfer the mixture to a ceramic dish and arrange on a slate tile.",
+    "bake for 20 minutes, then char under broiler for an additional 5 minutes.",
+    "remove from oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "caramelized",
+    "fromage-frais",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "charred-dense-brazilian-fromage-frais-braise",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-dense-brazilian-fromage-frais-braise",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:44:07Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "dense",
+    "mood": "crowd-pleaser",
+    "technique": "braise",
+    "primaryIngredient": "fromage frais",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Fromage Frais",
+    "descriptor": "charred, dense",
+    "dishForm": "Braise"
+  }
+}

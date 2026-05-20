@@ -1,0 +1,113 @@
+{
+  "title": "Crispy Middle-Eastern Tiger Prawns Fattoush",
+  "description": "A show-off middle-eastern dish featuring buttery, shaggy tiger prawns in a salt-bake and crunchy fattoush salad.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tiger prawns",
+      "amount": "12",
+      "notes": "raw"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Pita bread",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Mixed greens",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the tiger prawns with garam masala, salt, and black pepper.",
+    "Place the pita bread slices on a baking sheet and toast in the oven for 5 minutes.",
+    "In a large bowl, whisk together olive oil, lemon juice, and garlic.",
+    "Add the mixed greens, cherry tomatoes, and red onion to the bowl and toss to combine.",
+    "Add the toasted pita bread to the bowl and toss again.",
+    "Add the raw tiger prawns to the bowl and toss gently to combine.",
+    "Divide the fattoush salad among four plates.",
+    "Top each plate with a salt-baked tiger prawn and serve immediately.",
+    "Bake the tiger prawns in the oven for 8-10 minutes, or until pink and cooked through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "dinner",
+    "high-protein",
+    "middle-eastern",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "crispy-middle-eastern-tiger-prawns-fattoush",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-middle-eastern-tiger-prawns-fattoush",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:43:39Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "shaggy",
+    "mood": "show-off",
+    "technique": "salt-bake",
+    "primaryIngredient": "raw tiger prawns",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "Tiger Prawns",
+    "descriptor": "Crispy",
+    "dishForm": "Fattoush"
+  }
+}
