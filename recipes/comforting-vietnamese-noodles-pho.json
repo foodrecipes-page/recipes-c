@@ -1,0 +1,113 @@
+{
+  "title": "Comforting Vietnamese Noodles Pho",
+  "description": "A comforting Vietnamese noodle soup featuring ancho chillies and satvik-friendly nuka-pickle. Enjoy as a warming meal on a chilly day.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ancho chillies",
+      "amount": "2",
+      "notes": "Dried and rehydrated"
+    },
+    {
+      "name": "Nuka-pickle",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Rice noodles",
+      "amount": "1 lb",
+      "notes": "Soft and slightly chewy"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": "Rich and flavorful"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Fresh and thinly sliced"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Star anise",
+      "amount": "2 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp",
+      "notes": "For serving"
+    },
+    {
+      "name": "Bean sprouts",
+      "amount": "1 cup",
+      "notes": "Fresh and rinsed"
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "4",
+      "notes": "For serving"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Combine dried ancho chillies and 2 cups of hot water in a bowl. Let it steep for 20 minutes.",
+    "Heat sesame oil in a large pot over medium heat. Add ginger and saut\u007f until fragrant, about 1 minute.",
+    "Add cinnamon and star anise to the pot. Cook for 1 minute, stirring constantly.",
+    "Add vegetable broth to the pot. Bring to a boil, then reduce heat to low and simmer for 10 minutes.",
+    "Add nuka-pickle and rice noodles to the pot. Cook for 8-10 minutes, or until noodles are tender.",
+    "Stir in bean sprouts. Cook for an additional 2 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with chopped cilantro and a lime wedge on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "low-fat",
+    "one-pot",
+    "satvik",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "comforting-vietnamese-noodles-pho",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/comforting-vietnamese-noodles-pho",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:11:21Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "snappy",
+    "mood": "comforting",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "ancho chillies",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "noodles",
+    "descriptor": "Comforting",
+    "dishForm": "Pho"
+  }
+}
