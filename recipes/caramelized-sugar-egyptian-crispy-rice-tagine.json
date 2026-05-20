@@ -1,0 +1,93 @@
+{
+  "title": "Caramelized Sugar Egyptian Crispy Rice Tagine",
+  "description": "A sweet and crispy Egyptian dish featuring caramelized sugar sauce, crispy salt-block-cooked rice, and a touch of lemon zest.",
+  "cuisine": "Egyptian",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Long-grain rice",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 1/4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Corn syrup",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Caramel coloring (optional)",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "crispy",
+    "dessert",
+    "egyptian",
+    "middle-eastern",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 2,
+    "carbs": 80,
+    "fat": 8
+  },
+  "slug": "caramelized-sugar-egyptian-crispy-rice-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/caramelized-sugar-egyptian-crispy-rice-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:19:06Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crispy",
+    "mood": "crowd-pleaser",
+    "technique": "brine-wet",
+    "primaryIngredient": "caramelized sugar sauce",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "crispy rice",
+    "descriptor": "caramelized sugar",
+    "dishForm": "Tagine"
+  }
+}

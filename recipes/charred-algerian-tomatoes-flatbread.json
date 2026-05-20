@@ -1,0 +1,70 @@
+{
+  "title": "Charred Algerian Tomatoes Flatbread",
+  "description": "A flavorful flatbread dish featuring charred, crisp Algerian tomatoes and double-rise-bread, perfect for a low-carb friendly meal. This monsoon-inspired dish is a perfect blend of textures and tastes",
+  "cuisine": "Algerian",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Double-Rise Bread",
+      "amount": "1 loaf",
+      "notes": ""
+    },
+    {
+      "name": "Algerian Tomatoes",
+      "amount": "4",
+      "notes": "Charred until crispy"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the double-rise bread into 1-inch (2.5 cm) cubes.",
+    "Brush the bread cubes with olive oil and season with garlic, salt, and black pepper.",
+    "Place the bread cubes on a baking sheet and cook for 10-12 minutes or until lightly toasted, rotating halfway through.",
+    "While the bread is cooking, heat a grill or grill pan over medium-high heat.",
+    "Brush the Algerian tomatoes with olive oil and season with salt and black pepper.",
+    "Grill the tomatoes for 2-3 minutes per side or until charred and crispy.",
+    "To assemble the flatbread, place a spoonful of grilled tomatoes on top of the toasted bread cubes.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "flatbread",
+    "grilled",
+    "low-carb",
+    "monsoon",
+    "summer",
+    "tomato"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "charred-algerian-tomatoes-flatbread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-algerian-tomatoes-flatbread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:18:25Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crisp",
+    "mood": "monsoon",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "chopped tomatoes",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "algerian",
+    "mainIngredient": "tomatoes",
+    "descriptor": "charred",
+    "dishForm": "flatbread"
+  }
+}
