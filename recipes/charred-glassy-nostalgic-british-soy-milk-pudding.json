@@ -1,0 +1,56 @@
+{
+  "title": "Charred Glassy Nostalgic British Soy Milk Pudding",
+  "description": "A classic British dessert featuring a charred, glassy jelly texture made with soy milk and steamed to perfection. This low-sodium pudding is a comforting treat for any occasion.",
+  "cuisine": "British",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Soy milk",
+      "amount": "1 1/2 cups",
+      "notes": "Unsweetened and low-sodium"
+    }
+  ],
+  "instructions": [
+    "Serve the charred pudding chilled, garnished with a sprinkle of sugar and a side of fresh berries, if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "comfort-food",
+    "dessert",
+    "easy-to-make",
+    "low-sodium",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 2
+  },
+  "slug": "charred-glassy-nostalgic-british-soy-milk-pudding",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-glassy-nostalgic-british-soy-milk-pudding",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:07:17Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "glassy-jelly",
+    "mood": "nostalgic",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "soy milk",
+    "diet": "low-sodium",
+    "region": "english",
+    "cuisineAdjective": "Nostalgic British",
+    "mainIngredient": "Soy milk",
+    "descriptor": "Charred glassy",
+    "dishForm": "Pudding"
+  }
+}
