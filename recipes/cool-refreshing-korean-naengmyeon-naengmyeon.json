@@ -1,0 +1,114 @@
+{
+  "title": "Korean Naengmyeon with Spicy Yellow Curry Paste",
+  "description": "A refreshing and spicy Korean dish featuring naengmyeon, a cold buckwheat or starch noodle. This version is inspired by the flavors of Seoul.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Naengmyeon noodles",
+      "amount": "12 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Yellow curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Gochujang",
+      "amount": "1 tablespoon",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "Light soy sauce is best for this dish"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Sliced cucumber",
+      "amount": "1",
+      "notes": "For serving"
+    },
+    {
+      "name": "Sliced carrots",
+      "amount": "1",
+      "notes": "For serving"
+    },
+    {
+      "name": "Pickled radish",
+      "amount": "1",
+      "notes": "For serving"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    },
+    {
+      "name": "Crushed ice",
+      "amount": "1 cup",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the naengmyeon noodles and ice.",
+    "In a small saucepan, combine the yellow curry paste, gochujang, soy sauce, and brown sugar.",
+    "Whisk the mixture over medium heat until the sugar has dissolved.",
+    "Add the water to the saucepan and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer the sauce for 5 minutes.",
+    "Strain the sauce into a bowl and discard the solids.",
+    "Add the sliced cucumber, carrots, and pickled radish to the bowl with the sauce.",
+    "Toss the naengmyeon noodles in the sauce until they are well coated.",
+    "Divide the noodles among four bowls and top each bowl with chopped green onions and crushed ice.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cold",
+    "easy-to-make",
+    "korean",
+    "naengmyeon",
+    "noodle",
+    "spicy",
+    "summertime"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 70,
+    "fat": 12
+  },
+  "slug": "cool-refreshing-korean-naengmyeon-naengmyeon",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/cool-refreshing-korean-naengmyeon-naengmyeon",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:48:35Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "fluffy",
+    "mood": "adventurous",
+    "technique": "bhuna",
+    "primaryIngredient": "yellow-curry-paste",
+    "diet": "mediterranean",
+    "region": "seoul",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "naengmyeon",
+    "descriptor": "Cool Refreshing",
+    "dishForm": "Naengmyeon"
+  }
+}
