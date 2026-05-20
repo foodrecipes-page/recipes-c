@@ -1,0 +1,111 @@
+{
+  "title": "Creamy Crispy Dutch Bread Bake",
+  "description": "A nutty and creamy Dutch bread bake perfect for a monsoon evening, made with bread flour and low-fat ingredients",
+  "cuisine": "Dutch",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bread Flour",
+      "amount": "2 cups",
+      "notes": "Unbleached all-purpose flour works too"
+    },
+    {
+      "name": "Low-Fat Milk",
+      "amount": "1 cup",
+      "notes": "Or any low-fat milk alternative"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "1/4 cup",
+      "notes": "Softened"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Large Eggs",
+      "amount": "2",
+      "notes": "Beaten"
+    },
+    {
+      "name": "Chopped Walnuts",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dried Raisins",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Active Dry Yeast",
+      "amount": "1 teaspoon",
+      "notes": "Instant yeast works too"
+    },
+    {
+      "name": "Baking Soda",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400°F (200°C).",
+    "In a large mixing bowl, whisk together the flour, sugar, yeast, and baking soda.",
+    "In a separate bowl, whisk together the milk, eggs, and softened butter.",
+    "Add the wet ingredients to the dry ingredients and mix until a smooth dough forms.",
+    "Knead the dough on a floured surface for 5 minutes.",
+    "Place the dough in a greased Dutch oven, forming a round shape.",
+    "Mix together the chopped walnuts and dried raisins, and sprinkle on top of the dough.",
+    "Bake the bread for 25 minutes, then reduce heat to 375°F (190°C) and bake for an additional 15-20 minutes.",
+    "Remove the bread from the oven and let it cool for 5 minutes.",
+    "Broil the bread for an additional 2-3 minutes, or until the top is golden brown.",
+    "Remove the bread from the oven and let it cool completely on a wire rack.",
+    "Serve warm, cut into slices or wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bread-lovers",
+    "comfort-food",
+    "dutch-treats",
+    "european-cuisine",
+    "monsoon-food",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 50,
+    "fat": 10
+  },
+  "slug": "creamy-crispy-dutch-bread-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-crispy-dutch-bread-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:56:36Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "creamy",
+    "mood": "monsoon",
+    "technique": "broil",
+    "primaryIngredient": "bread flour",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Bread",
+    "descriptor": "Creamy Crispy",
+    "dishForm": "Bake"
+  }
+}
