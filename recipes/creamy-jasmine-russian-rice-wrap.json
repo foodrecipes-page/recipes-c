@@ -1,0 +1,113 @@
+{
+  "title": "Creamy Jasmine Russian Rice Wrap",
+  "description": "A flavorful and nutritious Russian-inspired dish featuring creamy jasmine rice, melted cheese, and tender chicken wrapped in a pandan leaf.",
+  "cuisine": "Russian",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "jasmine rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4-6",
+      "notes": "larger leaves work best"
+    }
+  ],
+  "instructions": [
+    "Cook jasmine rice according to package instructions.",
+    "Prepare chicken breast by seasoning with salt, garlic, and flour.",
+    "Grill or saut\u00134 chicken breast until cooked through.",
+    "Wash and dry pandan leaves for wrapping.",
+    "In a separate pan, heat sour cream and lemon juice over medium heat until warm and bubbly.",
+    "Shred or chop cooked chicken into bite-sized pieces.",
+    "In a large bowl, combine cooked jasmine rice, shredded chicken, and warmed sour cream mixture.",
+    "Stir in chopped parsley and mozzarella cheese until well combined.",
+    "Season with salt to taste.",
+    "Assemble wraps by spooning rice mixture onto the center of a pandan leaf, then adding additional cheese on top.",
+    "Fold and roll the leaf to enclose the filling, repeat with remaining ingredients.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "russian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 52,
+    "carbs": 50,
+    "fat": 20
+  },
+  "slug": "creamy-jasmine-russian-rice-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-jasmine-russian-rice-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:33:43Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "cheese-pull",
+    "mood": "crowd-pleaser",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "jasmine rice",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "rice",
+    "descriptor": "Creamy Jasmine",
+    "dishForm": "wrap"
+  }
+}
