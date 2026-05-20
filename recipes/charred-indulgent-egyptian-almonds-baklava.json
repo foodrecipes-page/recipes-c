@@ -1,0 +1,98 @@
+{
+  "title": "Charred Indulgent Egyptian Almonds Baklava",
+  "description": "A rich and creamy Egyptian dessert featuring amaretti, almonds, and a sweet honey syrup. Suitable for Buddhist temple-friendly gatherings.",
+  "cuisine": "Egyptian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "philadelphia cream cheese",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "amaretti cookies",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted almonds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unflavored gelatin",
+      "amount": "2 envelopes"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "turbinado sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "pure vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350 degrees Fahrenheit.",
+    "Make a water bath by adding 1 cup water to a medium saucepan and bringing to a boil.",
+    "In a small bowl, sprinkle gelatin over 1/4 cup cold water and let bloom for 5 minutes.",
+    "Melt butter in a large skillet over medium heat.",
+    "Add almonds to skillet and cook, stirring frequently, until fragrant and lightly charred, about 5 minutes.",
+    "Stir in sugar, vanilla extract, and salt. Cook for 1 minute.",
+    "Add honey to skillet and stir to combine. Cook for 2 minutes.",
+    "In a separate bowl, mix together cream cheese and amaretti cookies until smooth.",
+    "Add gelatin mixture to cream cheese mixture and mix until well combined.",
+    "Press 1/3 of the almond mixture into the bottom of a 9x13 inch baking dish.",
+    "Spread half of the cream cheese mixture over the almonds.",
+    "Repeat layers, ending with cream cheese mixture on top.",
+    "Chill in the refrigerator for at least 4 hours or overnight.",
+    "Cut into squares and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "hard",
+  "tags": [
+    "easter",
+    "fancy",
+    "high-calorie",
+    "rich",
+    "vegan-friendly-optional",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 28
+  },
+  "slug": "charred-indulgent-egyptian-almonds-baklava",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-indulgent-egyptian-almonds-baklava",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:09:30Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "creamy",
+    "mood": "indulgent",
+    "technique": "boil",
+    "primaryIngredient": "amaretti",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "almonds",
+    "descriptor": "charred indulgent",
+    "dishForm": "Baklava"
+  }
+}
