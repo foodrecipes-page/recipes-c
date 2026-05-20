@@ -1,0 +1,85 @@
+{
+  "title": "crisp comforting ukrainian graham cracker fritters",
+  "description": "crunchy treats infused with a sweet ukrainian twist, perfect for snacking with a cup of coffee or tea",
+  "cuisine": "ukrainian",
+  "diet": [
+    "gluten-free",
+    "high-protein",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "graham cracker crumbs",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "almond milk",
+      "amount": "1/2 cup",
+      "notes": "make sure it's cold"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": "use a high-quality one"
+    },
+    {
+      "name": "confectioners sugar",
+      "amount": "1/2 tsp",
+      "notes": "use it for dusting after frying"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp",
+      "notes": "for added crunch"
+    }
+  ],
+  "instructions": [
+    "in a large bowl, whisk together the graham cracker crumbs, flour, baking sugar, and sesame seeds.",
+    "in another bowl, whisk together the almond milk, melted coconut oil, egg, and vanilla extract.",
+    "slowly add the wet ingredients to the dry ingredients and mix until a dough forms.",
+    "cover the dough with plastic wrap and refrigerate for 10 minutes.",
+    "heat about 2 inches of coconut oil in a deep frying pan to 375 f",
+    "using a cookie scoop or spoon, drop small portions of the dough into the hot oil.','fry the fritters for 2-3 minutes on each side or until golden brown.','remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.','dust the fritters with confectioners sugar and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "dessert",
+    "fried",
+    "gluten-free",
+    "high-protein",
+    "sweet",
+    "ukrainian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "crisp-comforting-ukrainian-graham-cracker-fritters",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-comforting-ukrainian-graham-cracker-fritters",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:28:33Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crisp",
+    "mood": "comforting",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "graham cracker crumbs",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "graham cracker",
+    "descriptor": "crisp comforting",
+    "dishForm": "Fritters"
+  }
+}

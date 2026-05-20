@@ -1,0 +1,114 @@
+{
+  "title": "Creamy Bitter Vietnamese Beef Banh Cuon",
+  "description": "A twist on traditional Vietnamese Banh Cuon, this dish combines the creaminess of coconut milk with the bitterness of daikon radish to create a delicious and low-calorie-friendly meal.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Minced beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio for best results"
+    },
+    {
+      "name": "Daikon radish",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat for creaminess"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add the minced beef and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the grated daikon radish to the skillet and cook for 2-3 minutes, or until slightly softened.",
+    "Stir in the coconut milk, fish sauce, soy sauce, brown sugar, grated ginger, minced garlic, salt, and black pepper.",
+    "Bring the mixture to a simmer and cook for 2-3 minutes, or until the sauce has thickened slightly.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the Banh Cuon hot, garnished with chopped scallions and additional daikon radish if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "low-calorie",
+    "one-pan",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "creamy-bitter-vietnamese-beef-banh-cuon",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-bitter-vietnamese-beef-banh-cuon",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:28:30Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "creamy",
+    "mood": "one-pot",
+    "technique": "stir-fry",
+    "primaryIngredient": "minced beef",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "beef",
+    "descriptor": "Creamy Bitter",
+    "dishForm": "Banh Cuon"
+  }
+}
