@@ -1,0 +1,109 @@
+{
+  "title": "crispy pungent mediterranean oats hash",
+  "description": "a hearty, wholesome breakfast dish with a crispy exterior and a pungent, savory interior.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "250g"
+    },
+    {
+      "name": "mixed mushrooms",
+      "amount": "100g"
+    },
+    {
+      "name": "red onion",
+      "amount": "50g"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "50g"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "50g"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "20g"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "olive oil",
+      "amount": "20g"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "20g"
+    },
+    {
+      "name": "salt",
+      "amount": "1g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1g"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 200c (400f).",
+    "in a large bowl, whisk together the oats, eggs, olive oil, lemon juice, salt, and black pepper.",
+    "in a large pan over medium heat, cook the mixed mushrooms and red onion until softened, about 5 minutes.",
+    "add the minced garlic to the pan and cook for 1 minute, until fragrant.",
+    "add the cooked mushroom mixture to the bowl with the oat mixture and stir to combine.",
+    "transfer the mixture to a baking dish and top with crumbled feta cheese and chopped parsley.",
+    "bake in the preheated oven for 25 minutes, until the top is golden brown and crispy.",
+    "remove from the oven and top with sliced kalamata olives.",
+    "return to the oven for an additional 5 minutes, until the olives are caramelized.",
+    "remove from the oven and let cool for a few minutes before serving.",
+    "serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "mediterranean",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 45,
+    "fat": 18
+  },
+  "slug": "crispy-pungent-mediterranean-oats-hash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-pungent-mediterranean-oats-hash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T22:06:33Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crispy",
+    "mood": "cozy",
+    "technique": "whisk",
+    "primaryIngredient": "oats",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "oats",
+    "descriptor": "crispy pungent",
+    "dishForm": "Hash"
+  }
+}
