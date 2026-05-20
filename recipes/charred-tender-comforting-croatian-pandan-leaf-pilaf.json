@@ -1,0 +1,99 @@
+{
+  "title": "Charred Tender Comforting Croatian Pandan-Leaf Pilaf",
+  "description": "A hearty, keto-friendly Croatian pilaf dish featuring charred pandan-leaf and tadka.",
+  "cuisine": "croatian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pandan leaves",
+      "amount": "4",
+      "notes": "charred"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until charred, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the charred pandan leaves and cook for 1 minute.",
+    "Add the rice and cook for 2 minutes, stirring constantly.",
+    "Add the tomato paste and chicken broth, and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20 minutes, or until the liquid has been absorbed.",
+    "Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "croatian-cuisine",
+    "keto-friendly",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 26
+  },
+  "slug": "charred-tender-comforting-croatian-pandan-leaf-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-tender-comforting-croatian-pandan-leaf-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:09:29Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "tender",
+    "mood": "comforting",
+    "technique": "tadka",
+    "primaryIngredient": "pandan-leaf",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "pandan-leaf",
+    "descriptor": "charred tender comforting",
+    "dishForm": "Pilaf"
+  }
+}
