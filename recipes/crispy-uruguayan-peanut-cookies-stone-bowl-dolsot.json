@@ -1,0 +1,110 @@
+{
+  "title": "Crispy Uruguayan Peanut Cookies Stone-Bowl-Dolsot",
+  "description": "A briny, crispy Uruguayan dish featuring peanuts and cookies, served in a stone bowl. Perfect for a weeknight ovo-vegetarian-friendly meal.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "peanut butter",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "baking soda",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "peanuts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "dolsot stone bowl",
+      "amount": "1",
+      "notes": "available at Korean or Asian markets"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Line a baking sheet with parchment paper.",
+    "In a large bowl, whisk together the flour, sugar, baking soda, and salt.",
+    "Add in the peanut butter and mix until a dough forms.",
+    "Roll out the dough to about 1/4 inch thickness.",
+    "Cut into desired shapes using a cookie cutter.",
+    "Place on the prepared baking sheet and bake for 12-15 minutes.",
+    "While the cookies are baking, heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add in the peanuts and cook until golden brown, about 5 minutes.",
+    "In the dolsot stone bowl, mix together the peanut cookies, peanuts, and a pinch of salt.",
+    "Drizzle with water and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 17,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cookie",
+    "one-pan",
+    "peanut",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "crispy-uruguayan-peanut-cookies-stone-bowl-dolsot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-uruguayan-peanut-cookies-stone-bowl-dolsot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:22:34Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crispy",
+    "mood": "weeknight",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "peanut cookies",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "peanut cookies",
+    "descriptor": "crispy",
+    "dishForm": "stone-bowl-dolsot"
+  }
+}
