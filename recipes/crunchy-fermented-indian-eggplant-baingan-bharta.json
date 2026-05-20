@@ -1,0 +1,113 @@
+{
+  "title": "Crunchy Fermented Indian Eggplant Baingan Bharta",
+  "description": "A delicious and gooey fermented Indian dish from the Chettinad region. Serve with steamed rice or roti for a satisfying meal.",
+  "cuisine": "Indian",
+  "diet": [
+    "whole30",
+    "gluten-free",
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 large eggplant",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 cups water",
+      "amount": "",
+      "notes": "for fermentation"
+    },
+    {
+      "name": "1 piece kombu",
+      "amount": "",
+      "notes": "dried seaweed sheet"
+    },
+    {
+      "name": "1 tsp salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp mustard oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp dried red chili",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp garam masala",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp cumin seeds",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 small onion",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 small tomato",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup bonito shavings",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the eggplant into 1-inch cubes and place them in a bowl with 2 cups of water, salt, and kombu. Let it ferment for 24 hours in the refrigerator.",
+    "After fermentation, discard the kombu and water, and dry the eggplant cubes on a paper towel.",
+    "Heat mustard oil in a pan and sauté the cumin seeds, onion, and tomato until they are soft.",
+    "Add the fermented eggplant, red chili, garam masala, and bonito shavings to the pan and stir well.",
+    "Cook for 5 minutes and serve hot with steamed rice or roti."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "eggplant",
+    "fermented",
+    "indian",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "crunchy-fermented-indian-eggplant-baingan-bharta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-fermented-indian-eggplant-baingan-bharta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:23:53Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "gooey",
+    "mood": "midnight-craving",
+    "technique": "bonito-shave",
+    "primaryIngredient": "kombu",
+    "diet": "whole30",
+    "region": "chettinad",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Eggplant",
+    "descriptor": "Crunchy Fermented",
+    "dishForm": "Baingan Bharta"
+  }
+}
