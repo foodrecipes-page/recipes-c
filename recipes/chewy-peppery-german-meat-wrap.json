@@ -1,0 +1,112 @@
+{
+  "title": "chewy, peppery german meat wrap",
+  "description": "a satisfying, satvik-friendly german dish with a peppery kick, served in a pandan leaf wrap with persian cucumber and tempering chocolate.",
+  "cuisine": "german",
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "250g german sausage",
+      "amount": "1",
+      "notes": "any type, sliced"
+    },
+    {
+      "name": "2 medium onions",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "1 large persian cucumber",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "1 tsp caraway seeds",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp tempering chocolate",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp paprika",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp salt",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp black pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "8 pandan leaf wraps",
+      "amount": "8",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "1 cup sauerkraut",
+      "amount": "1",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "cook the sausage in olive oil until browned, about 5 minutes.",
+    "add onions, garlic, caraway seeds, paprika, salt, and pepper, cooking until the onions are translucent, about 3 minutes.",
+    "add sliced cucumber and tempering chocolate, cooking for 1 minute.",
+    "warm the pandan leaf wraps by wrapping in foil and heating in the oven for 5 minutes.",
+    "assemble the wraps with sausage mixture and sauerkraut, if using."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "high-calcium",
+    "meat-lovers",
+    "one-pan",
+    "pandan-leaf"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "diet": null,
+  "slug": "chewy-peppery-german-meat-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-peppery-german-meat-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:39:08Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "chewy",
+    "mood": "solo-dinner",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "persian cucumber",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Meat",
+    "descriptor": "Chewy, Peppery",
+    "dishForm": "Wrap"
+  }
+}
