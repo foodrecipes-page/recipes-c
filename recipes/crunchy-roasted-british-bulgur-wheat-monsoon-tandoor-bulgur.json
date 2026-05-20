@@ -1,0 +1,114 @@
+{
+  "title": "crunchy roasted British bulgur wheat Monsoon Tandoor Bulgur",
+  "description": "A buttery and crunchy British dish, inspired by Monsoon cuisine, featuring bulgur wheat and a tandoor-inspired cooking method. Perfect for gluten-free diets.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bulgur wheat (gluten-free)",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "ghee or vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for greasing the tandoor"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped (for garnish)"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cook the bulgur wheat according to the package instructions. Drain and set aside.",
+    "In a large pan, heat the ghee or oil over medium heat. Add the chopped onions and cook until they are lightly browned.",
+    "Add the grated ginger and minced garlic to the pan and cook for an additional 1 minute.",
+    "Add the curry powder, ground cumin, ground coriander, and salt to the pan. Cook for 1 minute, stirring constantly.",
+    "Add the cooked bulgur wheat to the pan and stir to combine with the spice mixture.",
+    "Add the water to the pan and bring to a boil. Reduce the heat to low and simmer for 5 minutes.",
+    "Transfer the mixture to a tandoor-inspired baking dish (such as a cast-iron skillet) and smooth the top.",
+    "Bake the mixture in the preheated oven for 20-25 minutes, or until it is crispy and golden brown on top.",
+    "Garnish with chopped fresh cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "buttery",
+    "crunchy",
+    "gluten-free",
+    "monsoon",
+    "one-pan",
+    "tandoor"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "crunchy-roasted-british-bulgur-wheat-monsoon-tandoor-bulgur",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-roasted-british-bulgur-wheat-monsoon-tandoor-bulgur",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:08:05Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crunchy",
+    "mood": "monsoon",
+    "technique": "tandoor",
+    "primaryIngredient": "bulgur wheat",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "bulgur wheat",
+    "descriptor": "crunchy roasted",
+    "dishForm": "Monsoon Tandoor Bulgur"
+  }
+}
