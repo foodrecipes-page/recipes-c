@@ -1,0 +1,115 @@
+{
+  "title": "Golden Syrian Fish Kibbeh",
+  "description": "Delicate Syrian fish kibbeh baked to a crunchy golden perfection, featuring caramelized red onions.",
+  "cuisine": "Syrian",
+  "diet": [
+    "pescatarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish (Cod or Haddock, 1 pound fillet)",
+      "amount": "1",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "Bulgur (fine grind, 1 cup)",
+      "amount": "1",
+      "notes": "Also known as cracked wheat"
+    },
+    {
+      "name": "Red Onions (1 large)",
+      "amount": "1",
+      "notes": "Thinly slice and separate into rings"
+    },
+    {
+      "name": "Garlic (3 cloves)",
+      "amount": "3",
+      "notes": "Minced"
+    },
+    {
+      "name": "Olive Oil (2 tablespoons)",
+      "amount": "2",
+      "notes": "For brushing fish and bulgur mixture"
+    },
+    {
+      "name": "Salt (to taste)",
+      "amount": "1",
+      "notes": "Kosher or sea salt"
+    },
+    {
+      "name": "Black Pepper (to taste)",
+      "amount": "1",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Cumin (1 teaspoon)",
+      "amount": "1",
+      "notes": "Ground"
+    },
+    {
+      "name": "Paprika (1/2 teaspoon)",
+      "amount": "0.5",
+      "notes": "Smoked or sweet"
+    },
+    {
+      "name": "Lemon Juice (2 tablespoons)",
+      "amount": "2",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Chopped Fresh Parsley (1 tablespoon)",
+      "amount": "1",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C). Line a baking sheet with parchment paper.",
+    "Rinse the fish fillet, pat dry with paper towels, and set aside.",
+    "In a large bowl, mix together bulgur, red onions, garlic, olive oil, salt, black pepper, cumin, and paprika.",
+    "Add the lemon juice to the bulgur mixture and stir to combine.",
+    "Place the fish fillet on the prepared baking sheet and brush with olive oil.",
+    "Spoon the bulgur mixture evenly over the fish, leaving a 1-inch border around the edges.",
+    "Bake for 20 minutes or until the fish is cooked through and the kibbeh is golden brown.",
+    "Remove the kibbeh from the oven and sprinkle with chopped parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "syrian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "crunchy-golden-syrian-fish-kibbeh",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-golden-syrian-fish-kibbeh",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:56:32Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "snappy",
+    "mood": "cozy",
+    "technique": "salt-bake",
+    "primaryIngredient": "red onions",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Fish",
+    "descriptor": "Crunchy Golden",
+    "dishForm": "Kibbeh"
+  }
+}
