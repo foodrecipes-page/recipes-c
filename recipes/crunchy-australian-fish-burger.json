@@ -1,0 +1,122 @@
+{
+  "title": "Crunchy Australian Fish Burger",
+  "description": "A buttery and crunchy fish burger featuring a horseradish sauce and crunchy pickles, perfect for a quick lunch or dinner",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian",
+    "pescatarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cod fillet",
+      "amount": "4",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Brioche buns",
+      "amount": "4",
+      "notes": "Split-top for added crunch"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "1/4 cup",
+      "notes": "Duke's or similar"
+    },
+    {
+      "name": "Horseradish sauce",
+      "amount": "2 tbsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Dill pickles",
+      "amount": "1/2 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head",
+      "notes": "Romaine or similar"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "4",
+      "notes": "For serving"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Flaky sea salt or similar"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or griddle over medium-high heat.",
+    "Prepare the brioche buns by toasting them lightly on the inside and outside.",
+    "Prepare the horseradish sauce by mixing it with mayonnaise and a squeeze of lemon juice.",
+    "Season the cod fillet with salt and black pepper on both sides.",
+    "Brush the cod fillet with olive oil and cook for 3-4 minutes per side, or until cooked through.",
+    "Meanwhile, toast the brioche buns on the griddle or in a toaster.",
+    "Assemble the burger by spreading the horseradish sauce on the bottom bun, followed by a cod fillet, lettuce, tomato, red onion, pickles, and finally the top bun.",
+    "Serve immediately and garnish with lemon wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "dairy-free",
+    "fish-burger",
+    "gluten-free",
+    "horseradish",
+    "pickle",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "crunchy-australian-fish-burger",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-australian-fish-burger",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:26:33Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "shattering",
+    "mood": "quick-fix",
+    "technique": "pickle",
+    "primaryIngredient": "horseradish",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Fish",
+    "descriptor": "Crunchy",
+    "dishForm": "Burger"
+  }
+}
