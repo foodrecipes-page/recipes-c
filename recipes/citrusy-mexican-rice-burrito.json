@@ -1,0 +1,69 @@
+{
+  "title": "Citrusy Mexican Rice Burrito",
+  "description": "A light and flavorful Mexican dish featuring crispy rice, halal-friendly and perfect for a weeknight dinner.",
+  "cuisine": "Mexican",
+  "diet": [
+    "halal",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Crispy Rice (Khao Khua)",
+      "amount": "300g",
+      "notes": "dry-fry the rice in a pan until crispy, breaking it up with a spoon"
+    }
+  ],
+  "instructions": [
+    "Cook the crispy rice according to package instructions.",
+    "Cut the chicken breast into small pieces and marinate it in halal-friendly oil, lime juice, and orange juice for at least 30 minutes.",
+    "Heat a pan over medium heat and add the marinated chicken. Cook until browned and cooked through.",
+    "Melt a tablespoon of halal-friendly oil in a separate pan over medium heat and saut\u00109 the onion and garlic until softened.",
+    "Add the crispy rice to the pan with the onion mixture and stir-fry for 2-3 minutes.",
+    "Add the heavy cream and stir-fry until the rice is well-coated and the mixture is heated through.",
+    "Season with salt and black pepper to taste.",
+    "Finely chop the cilantro and sprinkle it over the rice mixture.",
+    "Warm a large flour tortilla in the microwave for 20-30 seconds and fill it with the rice mixture.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "gluten-free",
+    "halal",
+    "mexican",
+    "one-pan",
+    "vegan",
+    "weeknight",
+    "yucatecan"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 30,
+    "carbs": 55,
+    "fat": 20
+  },
+  "slug": "citrusy-mexican-rice-burrito",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-mexican-rice-burrito",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:39:26Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crumbly",
+    "mood": "light",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "heavy cream",
+    "diet": "halal",
+    "region": "yucatecan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Rice",
+    "descriptor": "Citrusy",
+    "dishForm": "Burrito"
+  }
+}
