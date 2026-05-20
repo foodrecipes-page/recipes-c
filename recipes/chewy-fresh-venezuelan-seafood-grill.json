@@ -1,0 +1,114 @@
+{
+  "title": "Chewy Fresh Venezuelan Seafood Grill",
+  "description": "This dish is a crowd-pleaser that features a mix of seafood, grilled to perfection with a hint of Venezuelan flavors. It's a great option for a quick dinner that's also macrobiotic-friendly.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "macrobiotic",
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Mussels",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Paprika smoked",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Seafood stock",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "1 medium",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a robata grill to medium-high heat.",
+    "In a bowl, mix together lime juice, olive oil, garlic, cilantro, and paprika smoked.",
+    "Add the shrimp, mussels, zucchini, and bell peppers to the bowl and toss to coat.",
+    "Thread the seafood onto skewers, leaving a little space between each piece.",
+    "Grill the seafood for 8-10 minutes, flipping halfway through.",
+    "Add the seafood stock to the grill and bring to a simmer.",
+    "Continue to grill for another 2-3 minutes, until the seafood is cooked through and the sauce has thickened.",
+    "Serve hot, garnished with additional cilantro if desired.",
+    "Let the dish rest for 5 minutes before serving.",
+    "Slice the zucchini and bell peppers into wedges and serve on the side.",
+    "Discard any remaining seafood stock.",
+    "Garnish with additional lime wedges if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "robata-grill",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 10,
+    "fat": 16
+  },
+  "slug": "chewy-fresh-venezuelan-seafood-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-fresh-venezuelan-seafood-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:08:56Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "chewy",
+    "mood": "crowd-pleaser",
+    "technique": "robata-grill",
+    "primaryIngredient": "seafood stock",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "venezuelan",
+    "mainIngredient": "seafood",
+    "descriptor": "chewy fresh",
+    "dishForm": "grill"
+  }
+}
