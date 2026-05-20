@@ -1,0 +1,67 @@
+{
+  "title": "Chewy Umami British Beef Fillet Bangers and Mash",
+  "description": "Hearty one-pot dish featuring beef fillet and a rich, savory sauce, perfect for a cold winter night.",
+  "cuisine": "British",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef fillet",
+      "amount": "450g",
+      "notes": "1.5 pounds, 2-3 fillets"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 190°C (375°F).",
+    "Season the beef fillets with salt, pepper, and thyme.",
+    "Heat a large clay pot or Dutch oven over medium-high heat.",
+    "Sear the beef fillets until browned on all sides, about 2-3 minutes per side.",
+    "Set the beef aside and add the sliced onions to the pot, cooking until they're softened and lightly browned, about 5 minutes.",
+    "Add the garlic, mushrooms, and tomato paste to the pot, cooking for an additional 2 minutes.",
+    "Stir in the beef broth, Worcestershire sauce, and Dijon mustard, scraping up any browned bits from the bottom of the pot.",
+    "Return the beef fillets to the pot, cover with a lid, and transfer to the preheated oven.",
+    "Bake for 20-25 minutes, or until the beef reaches your desired level of doneness.",
+    "While the beef is cooking, prepare the mash by boiling the diced potatoes in salted water until they're tender, about 15-20 minutes, then drain and mash with butter and milk.",
+    "To serve, place a beef fillet on each plate, spoon some of the rich sauce over the top, and serve with a generous helping of mash.",
+    "Remove the pot from the oven and let it rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "british",
+    "chewy",
+    "one-pan",
+    "umami",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 90,
+    "carbs": 120,
+    "fat": 60
+  },
+  "slug": "chewy-umami-british-beef-fillet-bangers-and-mash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-umami-british-beef-fillet-bangers-and-mash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:21:11Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "chewy",
+    "mood": "one-pot",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "beef fillet",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "beef fillet",
+    "descriptor": "chewy umami",
+    "dishForm": "bangers and mash"
+  }
+}
