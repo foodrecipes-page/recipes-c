@@ -1,0 +1,84 @@
+{
+  "title": "Crispy-Caramelized Mediterranean Bacon Fritters",
+  "description": "Fermented, flaky, festive mediterranean dish featuring streaky bacon, agemono-deep-fry, gluten-free-friendly, served in a mason jar.",
+  "cuisine": "mediterranean",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Gluten-free all-purpose flour",
+      "amount": "1 cup",
+      "notes": "use a 1:1 ratio flour blend"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/2 cup",
+      "notes": "plain, unflavored"
+    },
+    {
+      "name": "Bacon (streaky)",
+      "amount": "6 slices",
+      "notes": " thick-cut, smoked, applewood-glazed"
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "1/4 cup",
+      "notes": "pitted, sliced"
+    },
+    {
+      "name": "Mediterranean oregano",
+      "amount": "2 tsp",
+      "notes": "dried, crumbled"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 tsp",
+      "notes": "optional, for some heat"
+    },
+    {
+      "name": "Coarse salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, whisk together the gluten-free flour and Mediterranean oregano until well combined."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "breakfast",
+    "festive",
+    "high-protein",
+    "mediterranean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 45,
+    "fat": 32
+  },
+  "slug": "crispy-caramelized-mediterranean-bacon-fritters",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-caramelized-mediterranean-bacon-fritters",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T14:57:54Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "flaky",
+    "mood": "festive",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "streaky bacon",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Bacon",
+    "descriptor": "Crispy-Caramelized",
+    "dishForm": "Fritters"
+  }
+}
