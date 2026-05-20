@@ -1,0 +1,102 @@
+{
+  "title": "Crunchy German Padron Peppers Bake",
+  "description": "Savory, crunchy, and deliciously easy to prepare, this lazy Sunday German dish features brine-wet Padron peppers as the star ingredient.",
+  "cuisine": "german",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Padron Peppers (12-16)",
+      "amount": "1 cup",
+      "notes": "any color, but green preferred"
+    },
+    {
+      "name": "German-Style Mustard",
+      "amount": "2 tbsp",
+      "notes": "such as whole-grain mustard or Dijon mustard"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing peppers"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "preferably sea salt"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Bread Crumbs",
+      "amount": "1/2 cup",
+      "notes": "gluten-free, if necessary"
+    },
+    {
+      "name": "Chopped Parsley",
+      "amount": "2 tbsp",
+      "notes": "optional garnish"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tsp",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Brush the Padron peppers with olive oil, then sprinkle with garlic powder, salt, and black pepper.",
+    "Place the peppers in a shallow baking dish and top with bread crumbs.",
+    "Drizzle with German-Style Mustard and sprinkle with chopped parsley, if using.",
+    "Bake for 15 minutes or until the bread crumbs are golden brown and crunchy.",
+    "Remove from the oven and drizzle with lemon juice.",
+    "Serve immediately, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "gluten-free-friendly",
+    "lazy-sunday",
+    "one-pan",
+    "veggie-centric"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "crunchy-german-padron-peppers-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-german-padron-peppers-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:51:02Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crunchy",
+    "mood": "lazy-sunday",
+    "technique": "brine-wet",
+    "primaryIngredient": "padron peppers",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Padron Peppers",
+    "descriptor": "Crunchy",
+    "dishForm": "Bake"
+  }
+}
