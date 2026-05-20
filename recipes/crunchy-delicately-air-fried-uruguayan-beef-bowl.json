@@ -1,0 +1,90 @@
+{
+  "title": "Delicious Uruguayan Beef Bowl",
+  "description": "A tasty, crunchy air-fried Uruguayan beef bowl featuring beef stock, served in a Korean brass bowl.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Uruguayan beef (skirt steak)",
+      "amount": "400g",
+      "notes": ""
+    },
+    {
+      "name": "beef drippings",
+      "amount": "2 cups",
+      "notes\":\"homemade or store-bought\"},{": {},
+      "notes\":\"from cooking the beef\"},{": "},{",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 tsp",
+      "notes": "",
+      "},{": "},{"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-bowl",
+    "gluten-free",
+    "high-protein",
+    "korean-brass-bowl",
+    "nut-free",
+    "uruguayan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 50,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "crunchy-delicately-air-fried-uruguayan-beef-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-delicately-air-fried-uruguayan-beef-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:46:22Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crunchy",
+    "mood": "brunch-mood",
+    "technique": "air-fry",
+    "primaryIngredient": "beef stock",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "crunchy, delicately air-fried",
+    "dishForm": "Bowl"
+  }
+}

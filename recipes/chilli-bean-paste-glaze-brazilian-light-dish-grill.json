@@ -1,0 +1,123 @@
+{
+  "title": "chilli bean paste glaze brazilian light dish grill",
+  "description": "a light brazilian dish featuring chilli bean paste, grilled to perfection on an iron teppan pan. perfect for a quick and easy meal.",
+  "cuisine": "brazilian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chilli bean paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Brazilian steak (skirt steak)",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "grapefruit juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "iron teppan pan",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "sous-vide machine",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "sour cream (optional)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "season the steak with black pepper and set aside.",
+    "heat the olive oil in the iron teppan pan over medium-high heat.",
+    "sous-vide the steak to 130f for 1-2 hours.",
+    "remove the steak from the sous-vide machine and let rest.",
+    "in a small bowl, whisk together chilli bean paste, grapefruit juice, soy sauce, and sugar.",
+    "add the green onions and garlic to the bowl and mix well.",
+    "brush the glaze all over the steak.",
+    "grill the steak on the iron teppan pan for 2-3 minutes per side, or until cooked to desired level of doneness.",
+    "let the steak rest for 5 minutes before slicing.",
+    "serve the steak with the glaze spooned over the top, and a dollop of sour cream if desired.",
+    "serve immediately and enjoy!",
+    " Garnish with additional green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "easy-weeknight",
+    "grilled",
+    "low-carb",
+    "quick-meal",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 10
+  },
+  "slug": "chilli-bean-paste-glaze-brazilian-light-dish-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/chilli-bean-paste-glaze-brazilian-light-dish-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:45:44Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "bouncy-qq",
+    "mood": "light",
+    "technique": "sous-vide",
+    "primaryIngredient": "chilli bean paste",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "light dish",
+    "descriptor": "chilli bean paste glaze",
+    "dishForm": "grill"
+  }
+}
