@@ -1,0 +1,123 @@
+{
+  "title": "Charred Smoky Venezuelan Hazelnut Crispy Fried-Rice",
+  "description": "A hangover-cure dish featuring charred, smoky hazelnuts and crispy fried rice, inspired by Venezuelan cuisine.",
+  "cuisine": "Venezuelan",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Unsalted hazelnuts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Mince before using."
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 cup",
+      "notes": "Shell and devein before using."
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chop before using."
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Cooked white rice",
+      "amount": "2 cups",
+      "notes": "Day-old rice works best."
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "Chop before using."
+    },
+    {
+      "name": "Crispy bacon",
+      "amount": "4 slices",
+      "notes": "Chop before using."
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the shrimp and cook for 2-3 minutes per side, until pink and cooked through.",
+    "Remove the shrimp from the skillet and set aside.",
+    "In the same skillet, add the smoked paprika and cook for 1 minute, stirring constantly.",
+    "Add the chopped scallions and cook for 1 minute, until they start to soften.",
+    "Add the cooked rice to the skillet and stir-fry for 2-3 minutes, until heated through.",
+    "Add the cooked shrimp back into the skillet and stir-fry for 1 minute, until combined with the rice.",
+    "Stir in the chopped cilantro and crispy bacon.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the crispy fried rice to a serving platter and garnish with additional cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian",
+    "hangover-cure",
+    "one-pan",
+    "vegan-meat",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "charred-smoky-venezuelan-hazelnuts-crispy-fried-rice",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-smoky-venezuelan-hazelnuts-crispy-fried-rice",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:10:20Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crumbly",
+    "mood": "hangover-cure",
+    "technique": "smoke",
+    "primaryIngredient": "shelled hazelnuts",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "venezuelan",
+    "mainIngredient": "hazelnuts",
+    "descriptor": "charred smoky",
+    "dishForm": "Crispy Fried-Rice"
+  }
+}
