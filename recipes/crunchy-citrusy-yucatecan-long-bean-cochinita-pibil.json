@@ -1,0 +1,107 @@
+{
+  "title": "Crunchy Citrusy Yucatecan Long-bean Cochinita Pibil",
+  "description": "A weeknight Mexican (Yucatecan) dish featuring grilled long-bean with a citrusy twist. This dish is inspired by the traditional Cochinita Pibil recipe but adapted with a healthier approach to make it macrobiotic-friendly.",
+  "cuisine": "Mexican",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Long beans",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "2 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Orange juice",
+      "amount": "1 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Balsamic vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the long beans into bite-sized pieces and set aside.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "In a small bowl, mix together cumin, coriander, lime juice, orange juice, honey, salt, and balsamic vinegar to make the marinade.",
+    "Add the long beans to the marinade and toss to coat.",
+    "Let the long beans marinate for at least 15 minutes.",
+    "Grill the long beans for 3-4 minutes per side, or until they develop a nice char.",
+    "Remove the long beans from the grill and serve hot.",
+    "Optional: Serve with a side of Mexican street corn or a simple green salad.",
+    "Note: If using a grill pan, cook the long beans for 4-5 minutes per side.",
+    "Before serving, drizzle with additional lime juice and sprinkle with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-fiber",
+    "macrobiotic-friendly",
+    "mexican",
+    "one-pan",
+    "quick-and-easy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "crunchy-citrusy-yucatecan-long-bean-cochinita-pibil",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-citrusy-yucatecan-long-bean-cochinita-pibil",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:50:02Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crunchy",
+    "mood": "weeknight",
+    "technique": "grill",
+    "primaryIngredient": "long-bean",
+    "diet": "macrobiotic",
+    "region": "yucatecan",
+    "cuisineAdjective": "yucatecan",
+    "mainIngredient": "long-bean",
+    "descriptor": "crunchy citrusy",
+    "dishForm": "Cochinita Pibil"
+  }
+}

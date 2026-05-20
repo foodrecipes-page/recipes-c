@@ -1,0 +1,101 @@
+{
+  "title": "Comforting Charred Italian Beef Braised Osso Buco",
+  "description": "Tender beef short ribs in a rich, umami sauce with a hint of nutmeg, served in a paleo-friendly osso buco style with a fondue pot.",
+  "cuisine": "italian",
+  "diet": [
+    "paleo",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef short ribs",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ground nutmeg",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2 leaves"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the beef short ribs with salt and pepper.",
+    "Heat the olive oil in the fondue pot over medium-high heat.",
+    "Sear the beef short ribs until browned on all sides, about 5 minutes per side.",
+    "Remove the beef short ribs from the pot and set aside.",
+    "Add the garlic and sauté for 1 minute.",
+    "Add the miso paste and red wine, and stir to combine.",
+    "Add the beef broth and bring to a simmer.",
+    "Return the beef short ribs to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and braise for 2 1/2 hours, or until the meat is tender.",
+    "Remove the pot from the oven and stir in the fresh parsley and ground nutmeg.",
+    "Serve the osso buco hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "braised",
+    "comforting",
+    "italian",
+    "one-pan",
+    "osso-buco",
+    "paleo"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 64,
+    "carbs": 16,
+    "fat": 54
+  },
+  "slug": "comforting-charred-italian-beef-braised-osso-buco",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/comforting-charred-italian-beef-braised-osso-buco",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:49:48Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "bouncy-qq",
+    "mood": "comforting",
+    "technique": "miso-marinate",
+    "primaryIngredient": "ground nutmeg",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "beef",
+    "descriptor": "Comforting Charred",
+    "dishForm": "Braised Osso Buco"
+  }
+}
