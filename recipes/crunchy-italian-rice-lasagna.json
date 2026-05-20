@@ -1,0 +1,117 @@
+{
+  "title": "crunchy Italian rice Lasagna",
+  "description": "umami, crunchy, festive Italian (Neapolitan) dish featuring Arabic rice, nimono-simmer, low-fat-friendly",
+  "cuisine": "italian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Arabic rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ground beef",
+      "amount": "0.75 cup",
+      "notes": ""
+    },
+    {
+      "name": "Canned crushed tomatoes",
+      "amount": "1 can (28 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fennel",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Nimono sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "0.5 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "0.5 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375\u000729F.",
+    "Cook Arabic rice according to package instructions.",
+    "In a large skillet, heat olive oil over medium-high heat.",
+    "Add ground beef and cook, breaking up with a spoon, until browned, about 5 minutes.",
+    "Add crushed tomatoes, onion, garlic, fennel, and cook, stirring occasionally, until vegetables are tender, about 10 minutes.",
+    "Stir in nimono sauce, and season with salt and pepper.",
+    "In a large bowl, combine cooked rice, beef and vegetable mixture, mozzarella cheese, Parmesan cheese, and egg.",
+    "Transfer mixture to a 9x13 inch baking dish.",
+    "Mix breadcrumbs and a pinch of salt in a small bowl, and sprinkle over top of Lasagna.",
+    "Bake for 30 minutes.",
+    "Let rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "italian-food",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "crunchy-italian-rice-lasagna",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-italian-rice-lasagna",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:04:27Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crunchy",
+    "mood": "festive",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "arabic rice",
+    "diet": "low-fat",
+    "region": "neapolitan",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "rice",
+    "descriptor": "crunchy",
+    "dishForm": "Lasagna"
+  }
+}

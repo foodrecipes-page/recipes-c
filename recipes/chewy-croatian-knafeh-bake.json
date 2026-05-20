@@ -1,0 +1,117 @@
+{
+  "title": "Chewy Croatian Knafeh Bake",
+  "description": "A delightful, umami-packed Croatian-inspired dessert featuring knafeh in a crispy exterior, chewy interior, no onions, no garlic. Perfect for crowds without the hassle of traditional knafeh assembly.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Knafeh",
+      "amount": "1 (12 oz) package",
+      "notes": "shredded phyllo dough"
+    },
+    {
+      "name": "Butter, unsalted",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Walnuts, chopped",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Rose water",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Zest, lemon",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Thaw the knafeh according to package instructions.",
+    "In a large mixing bowl, combine the butter, Greek yogurt, honey, cinnamon, baking powder, and salt. ",
+    "Stir in the milk until the mixture is smooth.",
+    "Add the chopped walnuts and mix until they are evenly distributed.",
+    "Add the thawed knafeh and mix until the dough is evenly moistened.",
+    "Pour the mixture into a greased 9x13 inch baking dish.",
+    "Bake for 35-40 minutes or until the top is golden brown.",
+    "Remove the dish from the oven and let it cool for 5 minutes.",
+    "Dip the dish into an ice bath to shock the knafeh and help it retain its chewiness.",
+    "Remove the dish from the ice bath and let it cool completely on a wire rack.",
+    "Drizzle with rose water and sprinkle with lemon zest before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "baked",
+    "croatian",
+    "dessert",
+    "easy-to-make",
+    "high-protein",
+    "knafeh",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "chewy-croatian-knafeh-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-croatian-knafeh-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:04:50Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "chewy",
+    "mood": "crowd-pleaser",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "knafeh",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "knafeh",
+    "descriptor": "chewy",
+    "dishForm": "Bake"
+  }
+}
