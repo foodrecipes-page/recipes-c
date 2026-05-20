@@ -1,0 +1,123 @@
+{
+  "title": "charred shaggy ukrainian bowl",
+  "description": "a romantic, charred dish featuring tender beef and vegetables, served in a dolsot stone bowl with a side of spicy bhuna sauce.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "grass-fed beef striploin",
+      "amount": "16 ounces",
+      "notes": ""
+    },
+    {
+      "name": "red onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "eggplant",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "bhuna sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the grill to 400f.",
+    "season the beef with kosher salt and black pepper.",
+    "grill the beef for 5 minutes per side, or until medium-rare.",
+    "let the beef rest for 10 minutes before slicing.",
+    "slice the red onion and red bell pepper into thick strips.",
+    "grill the vegetables for 3-4 minutes per side, or until tender.",
+    "slice the zucchini and eggplant into thick rounds.",
+    "grill the eggplant for an additional 2 minutes, or until tender.",
+    "saute the garlic and white wine in olive oil until the liquid has almost completely evaporated.",
+    "stir in the bhuna sauce and cook for an additional 1-2 minutes.",
+    "to assemble the dish, place a portion of the grilled vegetables in the bottom of a dolsot stone bowl.",
+    "top with sliced beef, spooning some of the bhuna sauce over the top.",
+    "garnish with fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "high-heat",
+    "korean-fusion",
+    "one-pan",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "charred-shaggy-ukrainian-dish-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-shaggy-ukrainian-dish-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:11:21Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "shaggy",
+    "mood": "date-night",
+    "technique": "bhuna",
+    "primaryIngredient": "white wine",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "dish",
+    "descriptor": "charred shaggy",
+    "dishForm": "Bowl"
+  }
+}
