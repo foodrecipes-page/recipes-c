@@ -1,0 +1,92 @@
+{
+  "title": "Citrusy Polish Flour Grill",
+  "description": "A kid-friendly Polish dish made with plain flour, featuring a citrusy twist and grilled to perfection. This dish is low in sodium and can be served as a snack or light lunch.",
+  "cuisine": "Polish",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Plain flour",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "100ml",
+      "notes": ""
+    },
+    {
+      "name": "Zest of 1 lemon",
+      "amount": "",
+      "notes": "Use a vegetable peeler to remove the skin of the lemon, then grate it on a fine grater."
+    },
+    {
+      "name": "Zest of 1 orange",
+      "amount": "",
+      "notes": "Use a vegetable peeler to remove the skin of the orange, then grate it on a fine grater."
+    },
+    {
+      "name": "Salt-free seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "25g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan or griddle over medium heat.",
+    "In a large bowl, whisk together the flour, egg, milk, lemon zest, orange zest, and salt-free seasoning until a smooth batter forms.",
+    "Add the butter to the batter and mix until combined.",
+    "Using a 1/4 cup measuring cup, scoop the batter onto the preheated pan and cook for 2-3 minutes, until the edges start to set.",
+    "Flip the pancakes and cook for another 1-2 minutes, until golden brown.",
+    "Serve the Citrusy Polish Flour Grill hot with your favorite toppings, such as fresh fruit or whipped cream.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-for-dinner",
+    "citrusy",
+    "kid-friendly",
+    "low-sodium",
+    "polish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 6
+  },
+  "slug": "citrusy-aerated-polish-flour-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-aerated-polish-flour-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:15:57Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "aerated",
+    "mood": "kid-friendly",
+    "technique": "grill",
+    "primaryIngredient": "plain flour",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "flour",
+    "descriptor": "citrusy aerated",
+    "dishForm": "Grill"
+  }
+}

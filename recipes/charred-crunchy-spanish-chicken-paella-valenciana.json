@@ -1,0 +1,118 @@
+{
+  "title": "Charred, Crunchy Spanish Chicken Paella Valenciana",
+  "description": "A hearty and flavorful Galician dish featuring charred chicken, crunchy vegetables, and savory saffron-infused rice.",
+  "cuisine": "Spanish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Uncooked Arborio rice",
+      "amount": "1 cup",
+      "notes": "short-grain rice is best for paella"
+    },
+    {
+      "name": "Extra-virgin olive oil",
+      "amount": "3 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "also known as pimenton"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 1/2 teaspoons",
+      "notes": "dried is best for paella"
+    },
+    {
+      "name": "Dried rosemary",
+      "amount": "1 1/2 teaspoons",
+      "notes": "dried is best for paella"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1",
+      "notes": "seeded and sliced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Pitted green olives",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the chicken and cook until browned on both sides, about 5 minutes.",
+    "Add the garlic, thyme, and rosemary to the pan and cook for 1 minute.",
+    "Add the rice to the pan and cook for 2-3 minutes, stirring constantly, until the rice is coated in oil and slightly toasted.",
+    "Add the smoked paprika, salt, and pepper to the pan and stir to combine.",
+    "Add 2 cups of water to the pan and bring to a boil.",
+    "Add the red bell pepper and red onion to the pan and stir to combine.",
+    "Reduce the heat to low and simmer, covered, for 15-20 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Stir in the pitted green olives and cook for an additional 2-3 minutes.",
+    "Serve the paella hot, garnished with lemon wedges if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "galician",
+    "high-protein",
+    "one-pan",
+    "rice-based",
+    "spanish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "charred-crunchy-spanish-chicken-paella-valenciana",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-crunchy-spanish-chicken-paella-valenciana",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:15:58Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crunchy",
+    "mood": "solo-dinner",
+    "technique": "saute",
+    "primaryIngredient": "olives",
+    "diet": "dash",
+    "region": "galician",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chicken",
+    "descriptor": "charred, crunchy",
+    "dishForm": "Paella Valenciana"
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "title": "Charred Crispy Egyptian Epoisses Paella",
+  "description": "A unique and flavorful paella dish from Egypt, featuring the strong and pungent Epoisses cheese, cured with shio-koji for added depth.",
+  "cuisine": "Egyptian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Epoisses cheese",
+      "amount": "1 cup",
+      "notes": "Strong and pungent cheese, cured with shio-koji for added depth."
+    },
+    {
+      "name": "Shio-koji",
+      "amount": "2 tablespoons",
+      "notes": "Japanese rice starter used for curing the Epoisses cheese."
+    },
+    {
+      "name": "Paleo-friendly saffron",
+      "amount": "1/2 teaspoon",
+      "notes": "Used for its distinctive flavor and color."
+    },
+    {
+      "name": "Paleo-friendly paprika",
+      "amount": "1/4 teaspoon",
+      "notes": "Adds a smoky depth to the dish."
+    },
+    {
+      "name": "Lamb broth",
+      "amount": "2 cups",
+      "notes": "",
+      "type": "stock",
+      "optional": false
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": "",
+      "type": "stock",
+      "optional": true
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "Used for greasing the paella pan."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 cup",
+      "notes": "Diced and saut\b4d before adding the rice."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced and saut\b4d before adding the rice."
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "Paella rice is preferred for its unique texture."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Used to season the dish."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Used to season the dish."
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped and used as a garnish."
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "Halved and added to the paella for added flavor."
+    },
+    {
+      "name": "Shallots",
+      "amount": "2",
+      "notes": "Thinly sliced and added to the paella for added flavor."
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large paella pan over medium-high heat.",
+    "Add the diced onion and minced garlic and saut\b4 until translucent.",
+    "Add the lamb broth and bring to a boil.",
+    "Add the rice and stir to coat with the broth.",
+    "Add the Epoisses cheese, shio-koji, paleo-friendly saffron, and paleo-friendly paprika, and stir to combine.",
+    "Transfer the pan to the oven and cook for 25 minutes, or until the rice is tender and the top is crispy.",
+    "Remove from the oven and stir in the chopped fresh parsley and halved cherry tomatoes.",
+    "Serve hot, garnished with thinly sliced shallots.",
+    "Let the paella rest for 5 minutes before serving, allowing the flavors to meld together."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "charred",
+    "egyptian",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "paleo",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1024,
+    "protein": 56,
+    "carbs": 56,
+    "fat": 44
+  },
+  "slug": "charred-crispy-egyptian-epoisses-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-crispy-egyptian-epoisses-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:16:59Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crispy",
+    "mood": "hangover-cure",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "epoisses",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Epoisses",
+    "descriptor": "Charred Crispy",
+    "dishForm": "Paella"
+  }
+}
