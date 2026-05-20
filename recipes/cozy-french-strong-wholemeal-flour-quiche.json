@@ -1,0 +1,121 @@
+{
+  "title": "Cozy French Strong Wholemeal Flour Quiche",
+  "description": "A peppery, bouncy, and cozy French dish featuring strong wholemeal flour, mirepoix-base, and plant-based-friendly ingredients. Perfect for a breakfast or brunch gathering.",
+  "cuisine": "french",
+  "diet": [
+    "plant-based",
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "strong wholemeal flour",
+      "amount": "3 cups",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "plant-based milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "mirepoix (onion, carrot, celery)",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "spinach",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "pepper",
+      "amount": "2 teaspoons",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "vegan egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": "dried"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the dough to a thickness of 1/8 inch (3 mm).",
+    "In a separate bowl, whisk together the flour, water, plant-based milk, pepper, nutritional yeast, and salt.",
+    "Add the sliced mushrooms and chopped spinach to the bowl and mix until well combined.",
+    "Pour the mixture into the dough-lined tart pan and spread evenly.",
+    "Drizzle the olive oil over the top and sprinkle with turmeric.",
+    "Bake for 35-40 minutes or until the crust is golden brown and the filling is set.",
+    "Let the quiche cool for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "gluten-free",
+    "one-pan",
+    "plant-based",
+    "quiche",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "cozy-french-strong-wholemeal-flour-quiche",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/cozy-french-strong-wholemeal-flour-quiche",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T14:56:50Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "bouncy-qq",
+    "mood": "cozy",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "strong wholemeal flour",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "french",
+    "mainIngredient": "strong wholemeal flour",
+    "descriptor": "cozy",
+    "dishForm": "Quiche"
+  }
+}
