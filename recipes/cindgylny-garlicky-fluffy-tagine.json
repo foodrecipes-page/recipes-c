@@ -1,0 +1,85 @@
+{
+  "title": "Cindgylny Garlicky Fluffy Tagine",
+  "description": "An indulgent Russian dish featuring kabse spice, miso-marinate and perfectly fluffy texture in a ceramic tange vessel.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup quinoa",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "4 cloves garlic, minced",
+      "amount": null
+    },
+    {
+      "name": "1 tsp kabse spice blend",
+      "amount": "tsp"
+    },
+    {
+      "name": "3 cups vegetable broth",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tbsp miso paste",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 can cannellini beans, drained and rinsed",
+      "amount": "can"
+    },
+    {
+      "name": "1/4 cup fresh parsley, chopped",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, heat olive oil over medium heat.",
+    "Add garlic and cook for about 2 minutes until fragrant.",
+    "Stir in kabse spice blend and cook for another minute.",
+    "Pour in vegetable broth and bring to a boil.",
+    "Reduce heat to low, stir in miso paste, and simmer for 5 minutes.",
+    "Stir in quinoa and beans, and continue cooking for an additional 10 minutes or until liquid is absorbed.",
+    "Garnish with fresh parsley just before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ceramic-tangy",
+    "gluten-free",
+    "high-flavor",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 283,
+    "protein": 11,
+    "carbs": 40,
+    "fat": 5
+  },
+  "slug": "cindgylny-garlicky-fluffy-tagine",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/cindgylny-garlicky-fluffy-tagine",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-20T23:21:56Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "fluffy",
+    "mood": "indulgent",
+    "technique": "miso-marinate",
+    "primaryIngredient": "kabse spice",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Garlic",
+    "descriptor": "Indulgent",
+    "dishForm": "Tagine"
+  }
+}
