@@ -1,0 +1,65 @@
+{
+  "title": "Charred German Sausage Skillet",
+  "description": "Quick-fix German dish featuring charred, crunchy sausages, perfect for a weeknight dinner. Serve with boiled potatoes or crusty bread on the side.",
+  "cuisine": "German",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Berliner Currywurst Sausages",
+      "amount": "4",
+      "notes": "look for a vegetarian sausage alternative if needed"
+    }
+  ],
+  "instructions": [
+    "Heat a large cast-iron skillet over medium-high heat.",
+    "Add a small amount of oil to the skillet and swirl it around to coat the bottom.",
+    "Add the sausages to the skillet and cook for 2-3 minutes on each side, or until nicely charred.",
+    "Remove the sausages from the skillet and set them aside.",
+    "Reduce heat to medium and add the onion and garlic to the skillet. Cook until the onion is translucent.",
+    "Add the brandy to the skillet and cook for 1-2 minutes, stirring constantly, or until the liquid has almost completely evaporated.",
+    "Add the sauerkraut and caraway seeds to the skillet and cook for 2-3 minutes, stirring occasionally.",
+    "Return the sausages to the skillet and cook for an additional 2-3 minutes, or until heated through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired.",
+    "Optional: serve with boiled potatoes or crusty bread on the side."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "high-protein",
+    "one-pan",
+    "sausage",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "charred-german-sausage-skillet",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-german-sausage-skillet",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:00:59Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crunchy",
+    "mood": "quick-fix",
+    "technique": "whisk",
+    "primaryIngredient": "brandy",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "sausage",
+    "descriptor": "charred",
+    "dishForm": "Skillet"
+  }
+}

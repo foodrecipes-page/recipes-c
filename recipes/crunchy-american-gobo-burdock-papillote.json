@@ -1,0 +1,116 @@
+{
+  "title": "crunchy american gobo-burdock papillote",
+  "description": "a briny, crunchy, romantic american dish featuring gobo-burdock, papillote, ayurvedic-rajasic-friendly",
+  "cuisine": "american",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "gobo-burdock",
+      "amount": "1 medium",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": "cold-pressed extra virgin"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "watercress",
+      "amount": "1/4 cup",
+      "notes": "fresh and chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tbsp",
+      "notes": "toasted and chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "fine grain, unrefined"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 400f (200c).",
+    "in a large papillote, combine gobo-burdock, lemon juice, olive oil, garlic, ginger, and watercress.",
+    "season with salt and black pepper to taste.",
+    "fold the papillote in thirds and secure with kitchen twine.",
+    "place on a baking sheet and bake for 20 minutes, or until tender.",
+    "sprinkle sesame seeds on top and return to oven for an additional 2-3 minutes, or until lightly toasted.",
+    "remove from oven and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 22,
+  "totalTimeMin": 42,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "ayurvedic",
+    "breakfast",
+    "briny",
+    "burdock",
+    "crunchy",
+    "easy-to-make",
+    "food-photography",
+    "gobo",
+    "healthy",
+    "medicinal-herbs",
+    "one-dish",
+    "papillote",
+    "protein",
+    "romantic",
+    "royal",
+    "spring",
+    "summer",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "crunchy-american-gobo-burdock-papillote",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-american-gobo-burdock-papillote",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:00:59Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crunchy",
+    "mood": "romantic",
+    "technique": "papillote",
+    "primaryIngredient": "gobo-burdock",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "american",
+    "mainIngredient": "gobo-burdock",
+    "descriptor": "crunchy",
+    "dishForm": "papillote"
+  }
+}
