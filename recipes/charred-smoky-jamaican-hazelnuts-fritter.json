@@ -1,0 +1,107 @@
+{
+  "title": "Charred Smoky Jamaican Hazelnuts Fritter",
+  "description": "A festive and flavorful recipe featuring charred hazelnuts, a hint of cinnamon, and the warmness of allspice. Inspired by traditional Jamaican cuisine, this plant-based-friendly dish is perfect for snacking or as a side to your favorite meals.",
+  "cuisine": "jamaican",
+  "diet": [
+    "plant-based",
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Hazelnuts",
+      "amount": "1 1/2 cups",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/4 cup",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Allspice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegan butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, whisk together flour, sugar, cinnamon, allspice, smoked paprika, and salt. ",
+    "Add hazelnuts to the dry ingredients and stir to combine.",
+    "Gradually add vegan butter until the mixture resembles coarse crumbs.",
+    "Add vegetable oil and stir until the mixture is well combined.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes.",
+    "Using your hands, shape the mixture into 8-10 patties. ",
+    "Place the patties on a baking sheet lined with parchment paper and refrigerate for another 30 minutes.",
+    "Bake for 15-20 minutes or until golden brown and crispy.",
+    "Carefully flip the fritters and bake for an additional 5-7 minutes.",
+    "Let the fritters cool slightly before serving."
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 25,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "fritter",
+    "hazelnut",
+    "jamaican",
+    "plant-based",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "charred-smoky-jamaican-hazelnuts-fritter",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-smoky-jamaican-hazelnuts-fritter",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:12:48Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crumbly",
+    "mood": "festive",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "hazlenuts",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Hazelnuts",
+    "descriptor": "Charred Smoky",
+    "dishForm": "Fritter"
+  }
+}
