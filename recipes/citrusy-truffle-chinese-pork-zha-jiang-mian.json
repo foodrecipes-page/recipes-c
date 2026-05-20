@@ -1,0 +1,133 @@
+{
+  "title": "Citrusy Truffle Chinese Pork Zha Jiang Mian",
+  "description": "A paleo-friendly Chinese dish featuring truffle oil, braised pork, and a citrusy sauce, served in a scallop shell.",
+  "cuisine": "Chinese",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork Belly",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "100g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "50g",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "20g",
+      "notes": "minced"
+    },
+    {
+      "name": "Truffle Oil",
+      "amount": "20ml",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Sugar",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "10ml",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "20ml",
+      "notes": ""
+    },
+    {
+      "name": "Citrus Zest",
+      "amount": "20g",
+      "notes": "lemon and orange"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Green Onions",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "20ml",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "200ml",
+      "notes": ""
+    },
+    {
+      "name": "Chinese Cabbage",
+      "amount": "200g",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "In a large pot heat 2 tablespoons of sesame oil over medium heat.",
+    "Brown the pork belly in batches until crispy on all sides, then set aside.",
+    "Add 2 cloves of garlic and 1 inch of ginger to the pot and saut\u000639 until fragrant.",
+    "Add the soy sauce, coconut sugar, and 200ml of water to the pot and bring to a boil.",
+    "Return the pork belly to the pot and simmer for 2 hours, or until tender.",
+    "Meanwhile, combine the grated ginger, minced garlic, chopped scallions, and citrus zest in a bowl.",
+    "Mix in the truffle oil, soy sauce, and sesame oil.",
+    "To assemble the dish, place a portion of the braised pork in a scallop shell, then top with a spoonful of the citrus sauce.",
+    "Garnish with chopped green onions and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "braised",
+    "chinese",
+    "one-pan",
+    "paleo",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 80,
+    "carbs": 60,
+    "fat": 80
+  },
+  "slug": "citrusy-truffle-chinese-pork-zha-jiang-mian",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-truffle-chinese-pork-zha-jiang-mian",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:06:43Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "bouncy-qq",
+    "mood": "meal-prep",
+    "technique": "braise",
+    "primaryIngredient": "truffle oil",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "Citrusy Truffle",
+    "dishForm": "Zha Jiang Mian"
+  }
+}

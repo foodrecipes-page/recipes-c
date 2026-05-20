@@ -1,0 +1,110 @@
+{
+  "title": "crispy greek renkon-lotus-root saut\u00028",
+  "description": "peppery, crispy, quick-fix greek dish featuring renkon-lotus-root, bonito-shave, shojin-friendly. perfect for a hot summer evening.",
+  "cuisine": "greek",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "renkon-lotus-root",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "use a neutral oil for best results"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon",
+      "notes": "optional, for added depth"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1 tablespoon",
+      "notes": "shaved on top for garnish"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "heat olive oil in a large skillet over medium-high heat.",
+    "add minced garlic and cook for 1 minute, until fragrant.",
+    "add dried oregano and thyme, if using, and cook for 1 minute, until herbs are fragrant.",
+    "add sliced renkon-lotus-root and cook for 3-4 minutes, until lightly browned.",
+    "season with salt and pepper, to taste.",
+    "add lemon juice and toss to combine.",
+    "cook for an additional 1-2 minutes, until renkon-lotus-root is crispy and golden brown.",
+    "shave bonito flakes on top of the renkon-lotus-root mixture.",
+    "garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "one-pan",
+    "shojin",
+    "snack",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "crispy-greek-renkon-lotus-root-saute",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-greek-renkon-lotus-root-saute",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:05:39Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "quick-fix",
+    "technique": "bonito-shave",
+    "primaryIngredient": "renkon-lotus-root",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "renkon-lotus-root",
+    "descriptor": "crispy",
+    "dishForm": "sauté"
+  }
+}

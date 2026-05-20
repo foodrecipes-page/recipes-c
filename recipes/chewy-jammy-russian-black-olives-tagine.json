@@ -1,0 +1,66 @@
+{
+  "title": "Chewy Jammy Russian Black Olives Tagine",
+  "description": "This quick-fix Russian dish is perfect for a weeknight meal or as a side to your favorite macrobiotic-friendly entrees. The combination of black olives, garlic, and spices creates a rich and savory flavor profile.",
+  "cuisine": "Russian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "black olives",
+      "amount": "1 1/2 cups pitted",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of olive oil in a large clay tagine or Dutch oven over medium-high heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for another minute, stirring constantly.",
+    "Add the cumin, coriander, paprika, and turmeric, and stir to combine.",
+    "Add the pitted black olives and stir to coat with the spice mixture.",
+    "Add 1/4 cup of water and bring to a simmer.",
+    "Reduce heat to low and cook, covered, for 10-12 minutes, or until the olives are tender and the sauce has thickened.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley or cilantro, if desired"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "black-olives",
+    "easy-meal",
+    "one-pan",
+    "russian",
+    "tagine",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "chewy-jammy-russian-black-olives-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-jammy-russian-black-olives-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:06:04Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "chewy",
+    "mood": "quick-fix",
+    "technique": "tagine-cook",
+    "primaryIngredient": "black olives",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "black olives",
+    "descriptor": "chewy jammy",
+    "dishForm": "Tagine"
+  }
+}
