@@ -1,0 +1,100 @@
+{
+  "title": "crisp filipino unwaxed lime menudo",
+  "description": "umami, fluffy, light filipino dish featuring unwaxed lime, tempering-chocolate, macrobiotic-friendly. a twist on the classic menudo recipe, without the need for traditional Filipino ingredients.",
+  "cuisine": "filipino",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "unwaxed lime, juiced",
+      "amount": "2 cups",
+      "notes": "freshly squeezed from 8-10 unwaxed limes"
+    },
+    {
+      "name": "tempering-chocolate",
+      "amount": "1/2 cup",
+      "notes": "broken into small pieces"
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "preferably sea salt"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat, shaken well"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "heat 1/4 cup coconut milk in a saucepan over medium heat until warm and fragrant.",
+    "add the broken tempering-chocolate and whisk until melted and smooth.",
+    "add the brown rice and cook for 2-3 minutes, stirring constantly, until lightly toasted.",
+    "add the fish sauce, black pepper, and salt. stir to combine.",
+    "add the juiced unwaxed lime and stir to combine.",
+    "reduce heat to low and simmer, uncovered, for 5 minutes, stirring occasionally.",
+    "taste and adjust seasoning as needed.",
+    "garnish with chopped scallions and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "macrobiotic-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "crisp-filipino-unwaxed-lime-menudo",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-filipino-unwaxed-lime-menudo",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:42:32Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "fluffy",
+    "mood": "light",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "unwaxed lime",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "unwaxed lime",
+    "descriptor": "Crisp",
+    "dishForm": "Menudo"
+  }
+}
