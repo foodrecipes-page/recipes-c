@@ -1,0 +1,99 @@
+{
+  "title": "Crisp Charred Tunisian Sesame Seed Toast",
+  "description": "A flavorful, vegan friendly bread from North Africa that's crispy on the outside and charred on the inside, featuring sesame seeds as the main ingredient.",
+  "cuisine": "tunisian",
+  "diet": [
+    "vegan",
+    "glutenfree"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "whole wheat bread",
+      "amount": "1 loaf",
+      "notes": "preferably a day old bread"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/2 cup",
+      "notes": "black sesame seeds work best"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "use a good quality extra virgin olive oil"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tsp",
+      "notes": "optional, for some heat"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "Slice the bread into 1-inch thick slices and place them in a 12-cup muffin tin or ramekins.",
+    "In a small bowl, mix together the minced garlic, red pepper flakes, salt and black pepper.",
+    "Drizzle the olive oil over the bread slices and sprinkle the garlic mixture evenly over each slice.",
+    "Sprinkle the sesame seeds over the garlic mixture.",
+    "Drizzle the lemon juice over the sesame seeds.",
+    "Bake for 10-12 minutes or until the bread is golden brown and crispy.",
+    "Remove the bread from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "bread",
+    "easy",
+    "glutenfree",
+    "snack",
+    "tunisian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "crisp-charred-tunisian-sesame-seed-toast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-charred-tunisian-sesame-seed-toast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:45:27Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crisp",
+    "mood": "crowd-pleaser",
+    "technique": "toast",
+    "primaryIngredient": "sesame seed",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "tunisian",
+    "mainIngredient": "sesame seed",
+    "descriptor": "crisp charred",
+    "dishForm": "toast"
+  }
+}
