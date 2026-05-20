@@ -1,0 +1,113 @@
+{
+  "title": "Comforting Robata-grilled South Indian Butter Wrap",
+  "description": "Rich, fluffy, comforting South Indian dish featuring unsalted butter, robata-grill, gluten-free-friendly, wrapped in lotus-leaf wrap. Serve warm, straight from the grill.",
+  "cuisine": "south indian",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Lotus-leaf wraps (gluten-free)",
+      "amount": "4-6",
+      "notes": "available at most Indian grocery stores or online"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1/2 cup",
+      "notes": "full-fat for richer flavor"
+    },
+    {
+      "name": "Idli rice",
+      "amount": "1 cup",
+      "notes": "short-grain rice for fluffy texture"
+    },
+    {
+      "name": "Mixed vegetables",
+      "amount": "1 cup",
+      "notes": "such as carrots, peas, and corn"
+    },
+    {
+      "name": "Spiced potatoes",
+      "amount": "1 cup",
+      "notes": "boiled and mashed with spices"
+    },
+    {
+      "name": "Ghee or oil",
+      "amount": "1 tablespoon",
+      "notes": "for brushing the robata grill"
+    },
+    {
+      "name": "South Indian chutney",
+      "amount": "2 tablespoons",
+      "notes": "such as coconut or tamarind"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat robata grill to 350\u0011F (180°C).",
+    "Brush the grill with ghee or oil to prevent sticking.",
+    "Place a lotus-leaf wrap on the grill and cook for 1-2 minutes on each side.",
+    "Meanwhile, mix the idli rice, mixed vegetables, and spiced potatoes in a bowl.",
+    "Add a dollop of unsalted butter to the center of the wrap and top with the rice mixture.",
+    "Drizzle with coconut milk and sprinkle with salt, turmeric, and red chili powder.",
+    "Fold the wrap in half to enclose the filling and cook for an additional 1-2 minutes.",
+    "Serve with a side of South Indian chutney.",
+    "Repeat with the remaining wraps and filling ingredients."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "gluten-free",
+    "robata-grill",
+    "south-indian",
+    "veggie-rich"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "comforting-robata-grilled-south-indian-butter-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/comforting-robata-grilled-south-indian-butter-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:39:25Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "fluffy",
+    "mood": "comforting",
+    "technique": "robata-grill",
+    "primaryIngredient": "unsalted butter",
+    "diet": "gluten-free",
+    "region": "south",
+    "cuisineAdjective": "south indian",
+    "mainIngredient": "butter",
+    "descriptor": "Comforting, Robata-grilled",
+    "dishForm": "Wrap"
+  }
+}
