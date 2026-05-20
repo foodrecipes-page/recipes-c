@@ -1,0 +1,118 @@
+{
+  "title": "Crunchy Briny Norwegian Fish Poke",
+  "description": "A plant-based friendly, Norwegian-inspired dish featuring crunchy and briny flavors, perfect for a festive occasion. This Scandinavian-style poke is a twist on traditional raw fish dishes.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegan",
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Plant-based salmon substitute (such as tofu or tempeh)",
+      "amount": "1 block",
+      "notes": ""
+    },
+    {
+      "name": "Rapini",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Pickled mustard seeds",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Aquafaba mayonnaise",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh dill",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh chives",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Pomegranate seeds",
+      "amount": "1/4 cup",
+      "notes": "Optional garnish"
+    }
+  ],
+  "instructions": [
+    "Gather all the ingredients and place them in a bowl.",
+    "Cut the rapini into thin strips.",
+    "Mash the plant-based salmon substitute in a separate bowl with a fork until it resembles sashimi-cut fish.",
+    "Add the aquafaba mayonnaise to the mashed plant-based salmon substitute and mix well.",
+    "Add the chopped fresh dill and chives to the mixture and mix until well combined.",
+    "Add the pickled mustard seeds and mix until well combined.",
+    "Season the mixture with salt and black pepper to taste.",
+    "Mix in the lemon juice until the mixture is well coated.",
+    "Add the chopped rapini to the mixture and mix until well combined.",
+    "Cover and refrigerate the mixture for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, garnish with chopped fresh chives and pomegranate seeds if desired.",
+    "Serve the mixture chilled, garnished with a sprinkle of paprika on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "high-fiber",
+    "pescatarian-friendly",
+    "vegan",
+    "weeknight",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "crunchy-briny-norwegian-fish-poke",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-briny-norwegian-fish-poke",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:54:01Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crunchy",
+    "mood": "festive",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "paprika",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "fish",
+    "descriptor": "crunchy briny",
+    "dishForm": "Poke"
+  }
+}
