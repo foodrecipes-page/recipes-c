@@ -1,0 +1,115 @@
+{
+  "title": "Charred Venezuelan Beef Skewers",
+  "description": "A charred, velvety, weeknight Venezuelan dish featuring beef on a binchotan grill.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "macrobiotic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef strips",
+      "amount": "1 pound",
+      "notes": "preferably flank steak or skirt steak"
+    },
+    {
+      "name": "Shio-koji cure mix",
+      "amount": "2 tablespoons",
+      "notes": "available at most health food stores"
+    },
+    {
+      "name": "Bicarbonate of soda",
+      "amount": "1 teaspoon",
+      "notes": "for tenderizing beef"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix together shio-koji cure mix, bicarbonate of soda, and lime juice.",
+    "Place the beef strips in the mixture and marinate for at least 30 minutes.",
+    "Preheat the binchotan grill to medium-high heat.",
+    "Thread the beef, red onion, bell pepper, and tomato onto skewers.",
+    "Brush the skewers with olive oil and season with salt and black pepper.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, or until the beef is cooked to desired doneness.",
+    "Transfer the skewers to a plate and garnish with cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "charred-venezuelan-venezuelan-unknown-skewers",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-venezuelan-venezuelan-unknown-skewers",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:36:18Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "velvety",
+    "mood": "weeknight",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "bicarbonate of soda",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "unknown",
+    "descriptor": "Charred Venezuelan",
+    "dishForm": "Skewers"
+  }
+}
