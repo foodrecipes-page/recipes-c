@@ -1,0 +1,106 @@
+{
+  "title": "Citrusy, Viscous American Almonds Bowl",
+  "description": "A comforting and citrusy American dish featuring ground almonds, low in calories and rich in flavor.",
+  "cuisine": "American",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Ground almonds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Freshly squeezed orange juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Ginger puree",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Cinnamon powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Unsweetened almond milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "Grapeseed oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Sliced almonds",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the stone bowl over medium heat for 5 minutes.",
+    "In a small bowl, whisk together the orange juice, honey, ginger puree, and a pinch of salt.",
+    "Add the ground almonds to the bowl and stir to combine.",
+    "Add the cinnamon powder and stir to combine.",
+    "Pour the unsweetened almond milk into the bowl and stir to combine.",
+    "Heat the grapeseed oil in the stone bowl over medium heat.",
+    "Pour the almond mixture into the stone bowl and cook for 2-3 minutes, stirring constantly.",
+    "Add the sliced almonds to the bowl and cook for an additional minute.",
+    "Stir in the lemon zest and fresh mint leaves.",
+    "Serve the Citrusy, Viscous American Almonds Bowl immediately, garnished with additional sliced almonds and a sprinkle of cinnamon powder if desired.",
+    "Repeat the process for each serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "citrusy",
+    "comfort-food",
+    "high-protein",
+    "low-calorie",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "citrusy-viscous-american-almonds-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-viscous-american-almonds-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:17:50Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "gooey",
+    "mood": "hangover-cure",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "ground almonds",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "almonds",
+    "descriptor": "Citrusy, Viscous",
+    "dishForm": "Bowl"
+  }
+}
