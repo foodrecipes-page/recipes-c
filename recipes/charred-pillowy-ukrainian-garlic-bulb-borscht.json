@@ -1,0 +1,124 @@
+{
+  "title": "Charred Pillowy Ukrainian Garlic Bulb Borscht",
+  "description": "A kid-friendly twist on traditional Ukrainian borscht featuring a charred garlic bulb and pillowy texture.",
+  "cuisine": "Ukrainian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 medium garlic bulb",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 medium beets",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 medium onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves fresh dill",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 cup sour cream",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 cup beef broth",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon sugar",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "4 cups water",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup chopped fresh parsley",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the sous vide machine to 180°F (82°C).",
+    "Submerge the garlic bulb in a sous vide bag with 1 tablespoon olive oil and seal. Cook for 1 hour.",
+    "Sear the cooked garlic bulb over an open flame until charred. Remove from heat and let cool. Then, peel and chop the garlic into small pieces.",
+    "Peel and shred the beets and onion. Add to a medium saucepan with 2 tablespoons olive oil and cook over medium heat until tender. Add the chopped dill and cook for 1 minute. ",
+    "Add the cooked beets, onion, and dill mixture to a blender or food processor with 1 cup sour cream, 1 teaspoon sugar, 1 teaspoon salt, and 1/4 teaspoon black pepper. Blend until smooth. ",
+    "Add the blended mixture to a large saucepan with 1 cup beef broth, 4 cups water, and the cooked garlic pieces. Bring to a boil over high heat, then reduce to low heat and simmer for 10 minutes. ",
+    "Stir in 1 cup sour cream and 1/4 cup chopped parsley. Taste and adjust seasoning as needed. ",
+    "Transfer the borscht to individual bowls and garnish with additional parsley, if desired.",
+    "Serve warm or at room temperature. ",
+    "Garnish with a dollop of sour cream and a sprinkle of parsley, if desired.",
+    "Serve immediately and enjoy!",
+    "Store any leftovers in the refrigerator for up to 3 days.",
+    "Reheat gently before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beets",
+    "borscht",
+    "garlic",
+    "kid-friendly",
+    "one-pan",
+    "sour-cream",
+    "sous-vide",
+    "ukrainian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "charred-pillowy-ukrainian-garlic-bulb-borscht",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-pillowy-ukrainian-garlic-bulb-borscht",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:04:23Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "pillowy",
+    "mood": "kid-friendly",
+    "technique": "sous-vide",
+    "primaryIngredient": "garlic bulb",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "ukrainian",
+    "mainIngredient": "garlic bulb",
+    "descriptor": "charred pillowy",
+    "dishForm": "borscht"
+  }
+}
