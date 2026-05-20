@@ -1,0 +1,92 @@
+{
+  "title": "Charred, Chewy Slovakian Red Bean Paste Pilaf",
+  "description": "A light Slovakian dish featuring charred red bean paste, wrapped in parchment paper.",
+  "cuisine": "slovakian",
+  "diet": [
+    "whole30-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red bean paste",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "white rice",
+      "amount": "1 cup",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "water",
+      "amount": "1 3/4 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "In a large bowl, combine rice, water, and red bean paste. Mix until the rice is evenly coated.",
+    "Add olive oil, sea salt, thyme, garlic powder, and black pepper to the rice mixture. Mix well.",
+    "Transfer the mixture to a 9x13-inch baking dish.",
+    "Cover the dish with parchment paper, crimping the edges to seal.",
+    "Bake for 40 minutes.",
+    "Remove the dish from the oven and carefully remove the parchment paper.",
+    "Return the dish to the oven and bake for an additional 10 minutes, or until the rice is lightly toasted.",
+    "Remove the dish from the oven and let it cool for a few minutes.",
+    "Fluff the rice mixture with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 50,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "slovakian",
+    "vegan",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 65,
+    "fat": 4
+  },
+  "slug": "charred-chewy-slovakian-red-bean-paste-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-chewy-slovakian-red-bean-paste-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T04:26:32Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "chewy",
+    "mood": "light",
+    "technique": "papillote",
+    "primaryIngredient": "anko-red-bean-paste",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Red Bean Paste",
+    "descriptor": "Charred, Chewy",
+    "dishForm": "Pilaf"
+  }
+}
