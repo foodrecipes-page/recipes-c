@@ -1,0 +1,100 @@
+{
+  "title": "charred light Cornish candy Wrap",
+  "description": "A delicate and charred Cornish-inspired dish featuring pandan leaf wraps, soy milk, and a hint of sweet candy, perfect for a crowd-pleasing snack or dessert.",
+  "cuisine": "british",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "pandan leaf wraps",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "candy (peanuts or caramels)",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "soy milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "optional: chopped nuts or shredded coconut",
+      "amount": "",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400\u00054.",
+    "Cut the pandan leaf wraps into 4 equal pieces.",
+    "In a small bowl, whisk together soy milk, cornstarch, and water until smooth.",
+    "Heat the vegetable oil in a small saucepan over medium heat.",
+    "Add the candy to the saucepan and cook, stirring constantly, until caramelized and fragrant.",
+    "Brush the pandan leaf wraps with the soy milk mixture and sprinkle with salt and black pepper.",
+    "Place the wraps on a baking sheet and bake for 4 minutes on each side, or until lightly charred.",
+    "Serve warm, garnished with chopped nuts or shredded coconut if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "cornish",
+    "dessert",
+    "snack",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "charred-light-cornish-candy-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-light-cornish-candy-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:54:52Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "light",
+    "mood": "crowd-pleaser",
+    "technique": "candy",
+    "primaryIngredient": "soy milk",
+    "diet": "raw",
+    "region": "cornish",
+    "cuisineAdjective": "Cornish",
+    "mainIngredient": "candy",
+    "descriptor": "charred light",
+    "dishForm": "Wrap"
+  }
+}
