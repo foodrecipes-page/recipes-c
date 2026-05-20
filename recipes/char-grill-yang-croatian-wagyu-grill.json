@@ -1,0 +1,121 @@
+{
+  "title": "Char-Grill-Yang Croatian Wagyu Grill",
+  "description": "A crowd-pleasing dish featuring Wagyu beef, char-grilled to perfection and infused with a hint of tangy brininess.",
+  "cuisine": "Croatian",
+  "diet": [
+    "meat",
+    "gluten",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wagyu beef ribeye",
+      "amount": "1.5 pounds",
+      "notes": "Choose a high-quality Wagyu beef with a marbling score of at least 6."
+    },
+    {
+      "name": "Croatian salt",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Lemon",
+      "amount": "1 medium",
+      "notes": "Use a fresh, organic lemon for the best flavor."
+    },
+    {
+      "name": "Parsley",
+      "amount": "1/4 cup",
+      "notes": "Choose fresh, curly parsley for the best presentation."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Red wine vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 sprig",
+      "notes": ""
+    },
+    {
+      "name": "Ayurvedic tamasic-friendly herbs (e.g., lemongrass, galangal)",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a grill to medium-high heat, or 400°F (200°C).",
+    "Season the Wagyu beef with Croatian salt, black pepper, garlic, and a pinch of smoked paprika.",
+    "Drizzle the Wagyu beef with olive oil and let it sit at room temperature for 30 minutes before grilling.",
+    "Grill the Wagyu beef for 5-7 minutes per side, or until it reaches your desired level of doneness.",
+    "Transfer the Wagyu beef to a cutting board and let it rest for 5 minutes before slicing it thinly against the grain.",
+    "Meanwhile, mix together lemon juice, red wine vinegar, and a pinch of sea salt in a small bowl.",
+    "Brush the Wagyu beef with the lemon-vinegar mixture during the last minute of grilling.",
+    "Garnish the Wagyu beef with fresh parsley, a sprig of thyme, and a sprinkle of Ayurvedic tamasic-friendly herbs.",
+    "Serve the Wagyu beef immediately, sliced thinly and arranged artfully on a plate."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "croatian",
+    "easy-to-make",
+    "grilled",
+    "high-protein",
+    "wagyu"
+  ],
+  "nutrition": {
+    "calories": 630,
+    "protein": 56,
+    "carbs": 6,
+    "fat": 42
+  },
+  "slug": "char-grill-yang-croatian-wagyu-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/char-grill-yang-croatian-wagyu-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:14:49Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "springy",
+    "mood": "crowd-pleaser",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "wagyu",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Wagyu",
+    "descriptor": "Char-Grill-Yang",
+    "dishForm": "Grill"
+  }
+}

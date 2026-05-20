@@ -1,0 +1,55 @@
+{
+  "title": "caramelized clay-earth Mediterranean lentils tagine",
+  "description": "nutty, fluffy, lazy-sunday mediterranean dish featuring brown lentils, robata-grill, paleo-friendly, vessel=tajine-clay",
+  "cuisine": "mediterranean",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "brown lentils",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    }
+  ],
+  "instructions": [
+    "preheat the robata-grill to 400 \u00150f",
+    "heat 2 tablespoons of olive oil in a clay tagine over medium heat",
+    "add 1 small onion, finely chopped, to the tagine and cook until translucent",
+    "add 2 cloves of garlic, minced, to the tagine and cook for 1 minute"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lazy-sunday",
+    "mediterranean",
+    "one-pan",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "caramelized-clay-earth-mediterranean-lentils-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/caramelized-clay-earth-mediterranean-lentils-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:15:48Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "fluffy",
+    "mood": "lazy-sunday",
+    "technique": "robata-grill",
+    "primaryIngredient": "brown lentils",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lentils",
+    "descriptor": "caramelized clay-earth",
+    "dishForm": "Tagine"
+  }
+}
