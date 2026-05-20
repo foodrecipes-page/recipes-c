@@ -1,0 +1,118 @@
+{
+  "title": "crunchy midnight-craving greek rye bread flatbread",
+  "description": "rich and fluffy greek flatbread featuring rye bread and grilled ingredients, fodmap-friendly",
+  "cuisine": "greek",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "rye bread",
+      "amount": "1/2 loaf",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh oregano",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "yeast",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "feta brine",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat a comal or griddle to 375\u000359f",
+    "knead the rye bread and flour mixture to combine",
+    "shape the dough into a flat circle, about 1/4 inch thick",
+    "brush with olive oil and sprinkle with salt",
+    "heat the comal or griddle for 2-3 minutes, until hot",
+    "place the dough on the comal or griddle and cook for 2-3 minutes, until crispy and golden",
+    "flip the dough over and cook for an additional 1-2 minutes, until crispy and golden",
+    "remove from heat and let cool for 2-3 minutes",
+    "sprinkle with feta cheese, fresh oregano, and lemon juice",
+    "serve warm and enjoy",
+    "crumble the feta cheese and sprinkle on top of the flatbread"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flatbread",
+    "fodmap-friendly",
+    "greek",
+    "midnight-craving",
+    "yeast-bread"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "crunchy-midnight-craving-greek-rye-bread-flatbread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-midnight-craving-greek-rye-bread-flatbread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:06:24Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "fluffy",
+    "mood": "midnight-craving",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "rye bread",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "greek",
+    "mainIngredient": "rye bread",
+    "descriptor": "crunchy midnight-craving",
+    "dishForm": "flatbread"
+  }
+}

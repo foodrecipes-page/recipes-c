@@ -1,0 +1,110 @@
+{
+  "title": "Creamy Smoked Venezuelan Ice Cream Gratin",
+  "description": "A rich, umami, and creamy Venezuelan-inspired dish featuring ice cream, a robata-grill, and a kadhai vessel, perfect for brunch.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Carration Ice Cream",
+      "amount": "1 pint",
+      "notes": ""
+    },
+    {
+      "name": "Smoked Pimenton",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Black Truffle Honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Cocoa Powder",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Graham Crackers",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fleur de Sel",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the robata-grill to 400°F (200°C).",
+    "Crush the graham crackers and mix with 1 tablespoon of unsalted butter until well combined.",
+    "Press the crumb mixture into the bottom of a 9-inch kadhai. ",
+    "Pour the heavy cream into a medium saucepan and heat it over medium heat until it starts to simmer.",
+    "Remove the cream from heat and stir in the smoked pimenton, black truffle honey, cocoa powder, fleur de sel, smoked paprika, and unsalted butter until well combined.",
+    "Fold in the carration ice cream until fully incorporated.",
+    "Pour the ice cream mixture into the prepared kadhai and smooth the top.",
+    "Bake for 30 minutes or until the top is caramelized and golden brown.",
+    "Garnish with fresh thyme and serve warm."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 35,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "dessert",
+    "gratin",
+    "ice-cream",
+    "one-pan",
+    "smoked",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 864,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 68
+  },
+  "slug": "creamy-smoked-venezuelan-ice-cream-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-smoked-venezuelan-ice-cream-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:06:28Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "creamy",
+    "mood": "brunch-mood",
+    "technique": "robata-grill",
+    "primaryIngredient": "ice cream",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Ice Cream",
+    "descriptor": "Creamy Smoked",
+    "dishForm": "Gratin"
+  }
+}
