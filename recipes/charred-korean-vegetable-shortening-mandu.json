@@ -1,0 +1,114 @@
+{
+  "title": "Charred Korean Vegetable Shortening Mandu",
+  "description": "A charred, shaggy, crowd-pleaser Korean dish featuring vegetable shortening, double-fry-KFC style, nut-free-friendly, in a delicious mandu form.",
+  "cuisine": "Korean",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Vegetable Shortening",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Korean Chili Flakes (gochugaru)",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crushed Sesame Seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine flour, cornstarch, and salt in a bowl to make the dough.",
+    "Gradually add vegetable shortening to the dough and knead until smooth.",
+    "Rest the dough for 30 minutes to allow the gluten to relax.",
+    "Preheat a deep frying pan with about 2-3 inches of vegetable oil to 350°F.",
+    "Roll out the dough to about 1/4 inch thickness and cut into desired mandu shapes.",
+    "Double-fry the mandu in batches until golden brown, then set aside.",
+    "In a separate pan, heat some oil and cook the scallions, garlic, and ginger until fragrant.",
+    "Add the soy sauce, chili flakes, and sesame seeds to the pan and stir-fry for a few seconds.",
+    "Add the cooked mandu to the pan and toss to coat with the sauce.",
+    "Serve hot and charred, garnished with additional scallions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "korean",
+    "snack",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "charred-korean-vegetable-shortening-mandu",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-korean-vegetable-shortening-mandu",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:43:39Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "shaggy",
+    "mood": "crowd-pleaser",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "vegetable shortening",
+    "diet": "nut-free",
+    "region": "gyeonggi",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "vegetable shortening",
+    "descriptor": "charred",
+    "dishForm": "Mandu"
+  }
+}
