@@ -1,0 +1,120 @@
+{
+  "title": "Charred Syrian Tomatoes Tagine",
+  "description": "A flavorful and healthy charred tomato tagine featuring aromatic spices and a hint of sweetness. This dish is a perfect example of Syrian cuisine, with its rich and savory flavors.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "plum tomatoes",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "Extra virgin for best flavor."
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Red or yellow, sliced."
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced, for depth of flavor."
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground, for warm spice."
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "Ground, for citrusy note."
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "Smoked, for smoky depth."
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Flaky sea salt for best flavor."
+    },
+    {
+      "name": "black pepper",
+      "amount": "a few grinds",
+      "notes": "Freshly ground for best flavor."
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "a handful",
+      "notes": "Chopped, for garnish."
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Fresh, for brightness."
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "For deglazing fond."
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "In a large Dutch oven, heat the olive oil over medium-high heat.",
+    "Add the sliced onion and cook, stirring occasionally, until caramelized and dark brown, about 20 minutes.",
+    "Add the minced garlic and cook, stirring constantly, for 1 minute, until fragrant.",
+    "Add the cumin, coriander, paprika, salt, and black pepper, and cook, stirring constantly, for 1 minute, until spices are fragrant.",
+    "Add the plum tomatoes, chopped, and cook, stirring occasionally, until they start to release their juices, about 5 minutes.",
+    "Transfer the Dutch oven to the preheated oven and roast, uncovered, for 25-30 minutes, until the tomatoes are charred and blistered.",
+    "Remove the Dutch oven from the oven and deglaze the fond with the water, scraping up any browned bits from the bottom of the pot.",
+    "Stir in the chopped fresh parsley and lemon juice, and serve hot, garnished with additional parsley if desired.",
+    "Serve over couscous or rice, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "one-pan",
+    "tomato-based",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "charred-syrian-tomatoes-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-syrian-tomatoes-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:30:41Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "aerated",
+    "mood": "energizing",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "plum tomatoes",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Tomatoes",
+    "descriptor": "Charred",
+    "dishForm": "Tagine"
+  }
+}
