@@ -1,0 +1,87 @@
+{
+  "title": "Crispy Roasted Coconut Oats Donabe",
+  "description": "A roasted, chewy, and flavorful Jamaican-inspired dish featuring porridge oats, perfect for a vegan-friendly brunch.",
+  "cuisine": "jamaican",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "porridge oats",
+      "amount": "250g"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "400ml"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Combine porridge oats and coconut milk in a donabe and stir to combine.",
+    "Cook on medium heat for 2 minutes, or until the oats are slightly toasted.",
+    "Add coconut oil, maple syrup, cinnamon, nutmeg, and vanilla extract to the donabe and stir to combine.",
+    "Continue cooking for an additional 2 minutes, or until the oats are creamy and well coated in the spice mixture.",
+    "Transfer the donabe to the oven and roast for 20-25 minutes, or until the top is crispy and golden brown.",
+    "Remove the donabe from the oven and let it cool for a few minutes.",
+    "Use a spoon to create a well in the center of the oats and carefully add a small amount of water to the well.",
+    "Spherify the oats by stirring the mixture quickly with a spoon.",
+    "Serve the Crispy Roasted Coconut Oats Donabe warm, garnished with toasted coconut flakes if desired.",
+    "To toast coconut flakes, simply spread them on a baking sheet and bake in a 350F oven for 2-3 minutes, or until lightly browned."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 25,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "jamaican",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 50,
+    "fat": 15
+  },
+  "slug": "crispy-roasted-coconut-oats-donabe",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-roasted-coconut-oats-donabe",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:03:53Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "chewy",
+    "mood": "brunch-mood",
+    "technique": "spherify",
+    "primaryIngredient": "porridge oats",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Oats",
+    "descriptor": "Crispy Roasted",
+    "dishForm": null
+  }
+}
