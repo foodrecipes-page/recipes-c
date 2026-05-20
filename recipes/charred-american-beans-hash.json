@@ -1,0 +1,111 @@
+{
+  "title": "Charred American Beans Hash",
+  "description": "A hearty, charred, and glassy-jelly American dish featuring beans, ideal for meal prep and following a satvik diet. Serve with a side of toast or rice for a filling meal.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "black beans, cooked",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "red kidney beans, cooked",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "3 cloves",
+      "notes": "chopped"
+    },
+    {
+      "name": "chopped bell pepper",
+      "amount": "1 medium",
+      "notes": "any color"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or cast-iron pan over medium-high heat.",
+    "Add the coconut oil and swirl to coat the pan.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the chopped bell pepper and cook until tender, about 5 minutes.",
+    "Add the cooked black beans and red kidney beans, and stir to combine.",
+    "Add the chopped fresh cilantro, salt, black pepper, and paprika, and stir to combine.",
+    "Reduce heat to medium-low and cook for an additional 5 minutes, until the mixture is heated through and slightly charred.",
+    "Serve hot, garnished with additional fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "meal-prep",
+    "one-pan",
+    "satvik",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "charred-american-beans-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-american-beans-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:01:24Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "glassy-jelly",
+    "mood": "meal-prep",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "beans",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Beans",
+    "descriptor": "charred",
+    "dishForm": "Hash"
+  }
+}

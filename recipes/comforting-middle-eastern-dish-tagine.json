@@ -1,0 +1,103 @@
+{
+  "title": "Middle Eastern Tagine",
+  "description": "A flavorful and comforting dish featuring garbanzo beans, chicken, and aromatic spices. Serve over couscous for a satisfying meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "lacto-vegetarian",
+    "oceania-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "garbanzo beans",
+      "amount": "1 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "shio-koji-cure",
+      "amount": "2 tablespoons",
+      "notes": "see note"
+    }
+  ],
+  "instructions": [
+    "Heat oil in the bottom of a Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the chicken and cook until browned on all sides, about 5-7 minutes.",
+    "Add the cumin, coriander, turmeric, and cinnamon, and cook for 1 minute, stirring constantly.",
+    "Add the garbanzo beans, garbanzo bean broth, and shio-koji-cure, and stir to combine.",
+    "Bring the mixture to a simmer and cook, covered, until the chicken is cooked through and the sauce has thickened, about 20-25 minutes.",
+    "Season with salt to taste, and serve over couscous.",
+    "Note: If using shio-koji-cure, reduce the amount of salt called for in the recipe to 1/4 teaspoon."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comforting",
+    "high-fiber",
+    "middle-eastern",
+    "one-pan",
+    "warming"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 34,
+    "carbs": 25,
+    "fat": 24
+  },
+  "slug": "comforting-middle-eastern-dish-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/comforting-middle-eastern-dish-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:01:58Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "springy",
+    "mood": "comforting",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "garlic powder",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "middle-eastern",
+    "mainIngredient": "dish",
+    "descriptor": "comforting",
+    "dishForm": "Tagine"
+  }
+}
