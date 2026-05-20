@@ -1,0 +1,68 @@
+{
+  "title": "Charred Dense Moroccan Melons Khlea",
+  "description": "A comforting, vegan-friendly Moroccan dish featuring charred melons and fermented ingredients. This dish is perfect for a weeknight dinner.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cantaloupe",
+      "amount": "2 cups diced",
+      "notes": ""
+    },
+    {
+      "name": "bottled ginger beer",
+      "amount": "1 cup",
+      "notes": "fermented ingredients"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Cut the cantaloupe into 1-inch cubes and place in a large bowl.",
+    "Add 1/4 cup of bottled ginger beer to the bowl and toss to coat.",
+    "Transfer the melon to the preheated grill and cook for 10-12 minutes per side, or until nicely charred.",
+    "Transfer the melon to a serving dish and stir in 2 tablespoons of olive oil and 1 tablespoon of chopped fresh parsley.",
+    "Season with salt and pepper to taste.",
+    "Serve warm.",
+    "Garnish with additional parsley if desired.",
+    "Serve with a side of crusty bread or over couscous.",
+    "Store leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "grilled",
+    "moroccan"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "charred-dense-moroccan-melons-khlea",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-dense-moroccan-melons-khlea",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:27:20Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "dense",
+    "mood": "comforting",
+    "technique": "ferment-jang",
+    "primaryIngredient": "melons",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "melons",
+    "descriptor": "charred dense",
+    "dishForm": "Khlea"
+  }
+}
