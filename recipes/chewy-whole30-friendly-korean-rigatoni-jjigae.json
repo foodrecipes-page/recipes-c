@@ -1,0 +1,103 @@
+{
+  "title": "Chewy Whole30-Friendly Korean Rigatoni Jjigae",
+  "description": "Floral, chewy, and cozy Korean Gyeongsang dish featuring rigatoni, shio-koji cure, perfect for a Whole30 diet in a copper mug. Serve as a banchan for a satisfying meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Rigatoni",
+      "amount": "150g"
+    },
+    {
+      "name": "Shio-Koji Cure",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "sliced"
+    },
+    {
+      "name": "Pork Belly",
+      "amount": "100g"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Soak the rigatoni in water for 30 minutes before cooking.",
+    "Drain and cook the rigatoni in boiling water for 8 minutes.",
+    "While the rigatoni cooks, combine gochujang, garlic, and ginger in a saucepan over medium heat.",
+    "Add the shio-koji cure to the saucepan and stir to combine.",
+    "When the rigatoni is cooked, drain and add it to the saucepan with the shio-koji mixture.",
+    "Stir to combine and cook for 2 minutes.",
+    "Add the pork belly and cook until browned.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the dish to a copper mug and garnish with green onions.",
+    "Drizzle with sesame oil and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "banchan",
+    "copper-mug",
+    "high-protein",
+    "korean",
+    "one-pan",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 27,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "chewy-whole30-friendly-korean-rigatoni-jjigae",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/chewy-whole30-friendly-korean-rigatoni-jjigae",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:32:28Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "chewy",
+    "mood": "cozy",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "rigatoni",
+    "diet": "whole30",
+    "region": "gyeongsang",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "rigatoni",
+    "descriptor": "chewy whole30-friendly",
+    "dishForm": "Jjigae"
+  }
+}
