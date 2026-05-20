@@ -1,0 +1,122 @@
+{
+  "title": "Crunchy Brazilian Peanut Cookies Snack",
+  "description": "A delicious and crunchy Brazilian-inspired snack featuring peanut cookies. Perfect for a quick treat after school.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "raw-friendly",
+    "kid-friendly",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "peanut butter",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "unsalted peanuts",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "baking soda",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "shredded coconut",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C).",
+    "Line a baking sheet with parchment paper.",
+    "In a large bowl, whisk together the peanut butter, flour, baking powder, salt, sugar, and baking soda.",
+    "Add the egg, vanilla extract, and sour cream to the bowl and mix until a dough forms.",
+    "Stir in the unsalted peanuts and shredded coconut.",
+    "Scoop the dough into balls, about 1 inch in diameter.",
+    "Place the balls onto the prepared baking sheet, leaving about 2 inches of space between each cookie.",
+    "Bake for 12-15 minutes, or until the edges are golden brown.",
+    "Remove the cookies from the oven and let them cool on the baking sheet for 5 minutes.",
+    "Transfer the cookies to a wire rack to cool completely.",
+    "Repeat the process until all of the dough is used up, baking in batches if necessary.",
+    "Let the cookies cool completely before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 24,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "kid-friendly",
+    "peanut-butter",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "crunchy-brazilian-peanut-cookies-snack",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-brazilian-peanut-cookies-snack",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:26:18Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crunchy",
+    "mood": "kid-friendly",
+    "technique": "whisk",
+    "primaryIngredient": "peanut cookies",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "peanut cookies",
+    "descriptor": "crunchy",
+    "dishForm": "Snack"
+  }
+}
