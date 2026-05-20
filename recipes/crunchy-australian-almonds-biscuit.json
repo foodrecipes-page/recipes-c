@@ -1,0 +1,102 @@
+{
+  "title": "Crunchy Australian Almonds Biscuit",
+  "description": "Buttery and crunchy Australian biscuit made with flaked almonds, perfect for a sick-day treat that's keto-friendly.",
+  "cuisine": "australian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "unsalted butter, softened",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "flaked almonds",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": null
+    },
+    {
+      "name": "baking powder",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "powdered sugar",
+      "amount": "2 tablespoons",
+      "notes": "for dusting"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C). Line a baking sheet with parchment paper.",
+    "In a large bowl, cream the butter and sugar until light and fluffy, about 2 minutes.",
+    "Beat in the eggs one at a time, followed by the vanilla extract.",
+    "In a separate bowl, whisk together the flour, baking powder, and salt. Gradually add the dry ingredients to the wet ingredients and mix until just combined.",
+    "Stir in the flaked almonds.",
+    "Drop rounded tablespoonfuls of the dough onto the prepared baking sheet, spacing them about 2 inches apart.",
+    "Bake for 18-20 minutes, or until the edges are lightly golden brown.",
+    "Remove from the oven and let cool on the baking sheet for 5 minutes, then transfer to a wire rack to cool completely.",
+    "Dust with powdered sugar before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "almonds",
+    "australian",
+    "biscuit",
+    "keto",
+    "low-carb",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 288,
+    "protein": 4,
+    "carbs": 12,
+    "fat": 24
+  },
+  "slug": "crunchy-australian-almonds-biscuit",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-australian-almonds-biscuit",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:16:22Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crunchy",
+    "mood": "sick-day",
+    "technique": "saute",
+    "primaryIngredient": "flaked almonds",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "almonds",
+    "descriptor": "crunchy",
+    "dishForm": "biscuit"
+  }
+}
