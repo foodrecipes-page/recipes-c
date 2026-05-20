@@ -1,0 +1,91 @@
+{
+  "title": "Caramelize Brazilian Chive Solo-Dinner",
+  "description": "A citrusy and flavorful Brazilian dish featuring caramelized chives, perfect for a solo dinner.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chives",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "high-quality"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "kosher or sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "butter or vegan alternative",
+      "amount": "2 tablespoons",
+      "notes": "such as Earth Balance"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Heat the olive oil in an oven-safe skillet over medium heat. Add the garlic and cook for 1-2 minutes, until fragrant.",
+    "Add the chives to the skillet and cook for 2-3 minutes, until they start to soften.",
+    "Pour in the lemon juice and cook for an additional 2 minutes, until the chives are tender.",
+    "Season the chives with salt and black pepper to taste.",
+    "Add the butter or vegan alternative to the skillet and stir until melted.",
+    "Transfer the skillet to the preheated oven and cook for 5-7 minutes, until the chives are caramelized.",
+    "Remove the skillet from the oven and let it cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 17,
+  "totalTimeMin": 27,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "dairy-free",
+    "gluten-free",
+    "one-pan",
+    "quick-and-easy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 2,
+    "carbs": 12,
+    "fat": 14
+  },
+  "slug": "caramelize-brazilian-chive-solo-dinner",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/caramelize-brazilian-chive-solo-dinner",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:02:30Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "bouncy-qq",
+    "mood": "solo-dinner",
+    "technique": "caramelize",
+    "primaryIngredient": "chopped chive",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "chive",
+    "descriptor": "caramelize",
+    "dishForm": "solo-dinner"
+  }
+}

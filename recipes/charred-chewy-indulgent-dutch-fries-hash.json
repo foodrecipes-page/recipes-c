@@ -1,0 +1,98 @@
+{
+  "title": "Charred Chewy Indulgent Dutch Fries Hash",
+  "description": "A rich and satisfying side or light meal. Combining the flavors of Dutch cuisine with a modern twist.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "1.5 kg",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tb",
+      "notes": ""
+    },
+    {
+      "name": "Madras paste",
+      "amount": "2 ts",
+      "notes": ""
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1/2 ts",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 ts",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 ts",
+      "notes": ""
+    },
+    {
+      "name": "Rosemary",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "Bacon bits",
+      "amount": "50g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 220°C (425°F).",
+    "Peel and cut the potatoes into large chunks. Cut the rosemary into small sprigs.",
+    "In a bowl, mix together coconut oil, madras paste, chili flakes, salt, black pepper, and rosemary sprigs. Add the potatoes and toss to coat.",
+    "Transfer the potatoes to a baking sheet and roast for 20 minutes. ",
+    "Increase oven temperature to 250°C (475°F) and continue roasting for a further 15 minutes, or until the potatoes are charred and crispy.",
+    "While the potatoes are roasting, fry the bacon bits in a pan until crispy. Set aside.",
+    "Once the potatoes are done, transfer them to the pan with the bacon and toss to combine.",
+    "Serve hot, garnished with additional rosemary sprigs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "indulgent",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 10,
+    "carbs": 120,
+    "fat": 42
+  },
+  "slug": "charred-chewy-indulgent-dutch-fries-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-chewy-indulgent-dutch-fries-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:03:16Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "chewy",
+    "mood": "indulgent",
+    "technique": "blanch",
+    "primaryIngredient": "madras paste",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Fries",
+    "descriptor": "Charred Chewy Indulgent",
+    "dishForm": "Hash"
+  }
+}
