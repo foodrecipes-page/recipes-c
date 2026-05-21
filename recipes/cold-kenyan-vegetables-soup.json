@@ -1,0 +1,116 @@
+{
+  "title": "cold kenyan vegetables soup",
+  "description": "a refreshing, diabetic-friendly soup that captures the essence of chinese five spice powder and the bold flavors of kenya",
+  "cuisine": "kenyan",
+  "diet": [
+    "diabetic-friendly",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "diced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "shallots",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "chinese five spice powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 cup",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "in a large pot, combine cabbage, carrots, celery, ginger, and shallots.",
+    "pour in chicken broth and bring the mixture to a boil.",
+    "reduce heat to low and simmer for 10 minutes.",
+    "stir in coconut milk, chinese five spice powder, salt, and black pepper.",
+    "continue to simmer for another 5 minutes.",
+    "stir in lemon juice and cook for an additional minute.",
+    "remove from heat and let cool to room temperature.",
+    "cover and refrigerate for at least 2 hours or overnight.",
+    "just before serving, stir in diced cucumber.",
+    "ladle the soup into bowls and serve chilled."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cold-soup",
+    "comfort-food",
+    "diabetic-friendly",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 8
+  },
+  "slug": "cold-kenyan-vegetables-soup",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/cold-kenyan-vegetables-soup",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T16:30:40Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "molten",
+    "mood": "monsoon",
+    "technique": "smoke-cold",
+    "primaryIngredient": "chinese five spice powder",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "vegetables",
+    "descriptor": "Cold",
+    "dishForm": "Soup"
+  }
+}
