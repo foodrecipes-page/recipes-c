@@ -1,0 +1,101 @@
+{
+  "title": "Charred Vietnamese Mitsuba Nem Nuong",
+  "description": "A dense, indulgent Vietnamese dish featuring mitsuba and nuka-pickle, adapted for Buddhist temples.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mitsuba",
+      "amount": "4 bunches"
+    },
+    {
+      "name": "Rice flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Nuka-zuke (pickled daikon and carrots)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fermented bean paste (doubanjiang)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Combine rice flour and water in a mixing bowl to create a dough.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Divide the dough into small balls, about 1 tablespoon each.",
+    "Flatten each ball slightly into an oval shape.",
+    "Heat a non-stick skillet or grill over medium-high heat.",
+    "Add a small amount of vegetable oil to the skillet or grill.",
+    "Cook the nem nuong for 2-3 minutes on each side, or until they are golden brown and slightly charred.",
+    "Serve the nem nuong hot with nuka-zuke and a drizzle of fermented bean paste, fish sauce, sesame oil, salt, and black pepper.",
+    "Garnish with mitsuba and additional nuka-zuke if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist",
+    "gluten-free",
+    "one-pan",
+    "street-food",
+    "vegan",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "charred-vietnamese-mitsuba-nem-nuong",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-vietnamese-mitsuba-nem-nuong",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T13:51:46Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "dense",
+    "mood": "indulgent",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "mitsuba",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Mitsuba (Wild Japanese Parsley)",
+    "descriptor": "Charred, Indulgent, Dense",
+    "dishForm": null
+  }
+}
