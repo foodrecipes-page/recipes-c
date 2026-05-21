@@ -1,0 +1,97 @@
+{
+  "title": "CreamyZesty Spanish CreamyZesty Polish Sausage Paella",
+  "description": "A sweet and creamy Uruguayan dish featuring marinated Polish sausage in a mediterranean-friendly sauce over rice.",
+  "cuisine": "Spanish, Uruguayan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb Polish Sausage",
+      "amount": "lb"
+    },
+    {
+      "name": "2 medium onions",
+      "amount": "pieces"
+    },
+    {
+      "name": "4 cloves garlic",
+      "amount": "cloves"
+    },
+    {
+      "name": "3 cups long-grain rice",
+      "amount": "cups"
+    },
+    {
+      "name": "1 cup chicken broth",
+      "amount": "cup"
+    },
+    {
+      "name": "1/2 cup heavy cream",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 cup white wine (optional)",
+      "amount": "cup"
+    },
+    {
+      "name": "3 tablespoons miso paste",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "teaspoons"
+    },
+    {
+      "name": "1 teaspoon smoked paprika",
+      "amount": "teaspoons"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Marinate sausage with miso paste, ground cumin, smoked paprika, salt, and pepper for at least 2 hours.",
+    "Sauté onions and garlic in olive oil until translucent.",
+    "Add rice and sauté until it turns golden brown.",
+    "Stir in marinated sausage, chicken broth, white wine (if using), heavy cream, and cumin. Bring to a simmer.",
+    "Transfer mixture to an oven-safe dish. Bake for 20 minutes or until the sauce thickens and the rice is tender.",
+    "Serve hot as a solo-dinner mediterranean-friendly Uruguayan dish."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cream-sauce",
+    "miso-marinated",
+    "polish-sausage",
+    "sweet-creamy"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "creamy-zesty-spanish-creamy-zesty-polish-sausage-paella",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-zesty-spanish-creamy-zesty-polish-sausage-paella",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-21T15:45:15Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "creamy",
+    "mood": "solo-dinner",
+    "technique": "miso-marinate",
+    "primaryIngredient": "polish sausage",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Polish Sausage",
+    "descriptor": "CreamyZesty",
+    "dishForm": "Paella"
+  }
+}
