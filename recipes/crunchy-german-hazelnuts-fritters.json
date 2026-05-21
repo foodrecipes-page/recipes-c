@@ -1,0 +1,89 @@
+{
+  "title": "Crunchy German Hazelnut Fritters",
+  "description": "A fun and kid-friendly German dessert featuring hazelnuts and chocolate.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 1/2 teaspoons"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "hazelnuts",
+      "amount": "1 1/2 cups, chopped"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "melted butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tempered chocolate",
+      "amount": "1 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, whisk together the flour and baking powder.",
+    "In a separate bowl, whisk together the sugar, eggs, and melted butter.",
+    "Add the yogurt to the wet ingredients and whisk until combined.",
+    "In a separate bowl, whisk together the chopped hazelnuts and tempered chocolate.",
+    "Add the dry ingredients to the wet ingredients and stir until just combined.",
+    "Fold in the hazelnut-chocolate mixture.",
+    "Using a cookie scoop, drop rounded balls of the dough onto a baking sheet lined with parchment paper.",
+    "Bake at 375°F for 12-15 minutes, or until golden brown.",
+    "Remove from the oven and let cool for 5 minutes.",
+    "Transfer the fritters to a wire rack and let cool completely."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate",
+    "dessert",
+    "german",
+    "hazelnut",
+    "kid-friendly"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 24,
+    "fat": 12
+  },
+  "slug": "crunchy-german-hazelnuts-fritters",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-german-hazelnuts-fritters",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:30:02Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "shaggy",
+    "mood": "kid-friendly",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "hazlenuts",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "hazelnuts",
+    "descriptor": "crunchy",
+    "dishForm": "Fritters"
+  }
+}
