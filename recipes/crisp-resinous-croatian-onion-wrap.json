@@ -1,0 +1,97 @@
+{
+  "title": "Crisp Resinous Croatian Onion Wrap",
+  "description": "A simple yet flavorful solo dinner dish from Croatia, featuring a crisp yellow onion filling, steamed in a leaf wrap, perfect for Shojin-friendly diets.",
+  "cuisine": "Croatian",
+  "diet": [
+    "shojin",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large yellow onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "fresh dill sprigs",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "lavender leaves (optional)",
+      "amount": "a few",
+      "notes": "for fragrance"
+    },
+    {
+      "name": "wheat or rice wraps",
+      "amount": "4-6",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium heat and add the olive oil.",
+    "Add the sliced onion and cook, stirring occasionally, until softened and lightly browned.",
+    "Stir in the dill sprigs and cook for an additional 1 minute.",
+    "Season with salt and pepper to taste.",
+    "Arrange a leaf wrap on a flat surface and place a portion of the onion mixture in the center.",
+    "Add a few lavender leaves on top of the onion, if using.",
+    "Fold the bottom edge of the wrap up over the filling, then fold in the sides and roll the wrap into a neat package.",
+    "Repeat with the remaining ingredients.",
+    "Steam the wraps in a steamer basket over boiling water for 5-7 minutes, or until the wraps are pliable and the filling is heated through.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "low-carb",
+    "one-pan",
+    "shojin",
+    "vegan",
+    "vegetarian",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 3
+  },
+  "slug": "crisp-resinous-croatian-onion-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-resinous-croatian-onion-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T11:09:50Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crisp",
+    "mood": "solo-dinner",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "yellow onion",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "onion",
+    "descriptor": "crisp resinous",
+    "dishForm": "Wrap"
+  }
+}
