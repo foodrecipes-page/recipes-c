@@ -1,0 +1,84 @@
+{
+  "title": "Creme Zanzibari Sweetcorn Pilaf",
+  "description": "A light and cultured Jamaican dish featuring fine yellow cornmeal, rest-meat, and anti-inflammatory-friendly ingredients for a midnight craving treat.",
+  "cuisine": "Jamaican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 cups yellow cornmeal",
+      "amount": "cup"
+    },
+    {
+      "name": "1 cup water",
+      "amount": "cup"
+    },
+    {
+      "name": "1/2 cup rest-meat (cooked and diced)",
+      "amount": "cup"
+    },
+    {
+      "name": "1 can sweetcorn, drained and rinsed",
+      "amount": "can"
+    },
+    {
+      "name": "1 clove garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon turmeric powder",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "1/2 teaspoon ground cinnamon",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "1/4 teaspoon cayenne pepper",
+      "amount": "teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large pot, mix the cornmeal and water.",
+    "Bring to a boil then reduce heat to low and simmer for 5 minutes.",
+    "Add rest-meat, sweetcorn, garlic, turmeric powder, cinnamon, and cayenne pepper. Stir well.",
+    "Simmer for an additional 3-4 minutes or until thickened.",
+    "Serve hot as a side dish or over rice.",
+    "Optional: Garnish with fresh herbs like parsley or cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory-friendly",
+    "cultured",
+    "jamaican",
+    "midnight-craving"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 4
+  },
+  "slug": "creme-zanzibari-sweetcorn-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creme-zanzibari-sweetcorn-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-21T09:20:01Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "light",
+    "mood": "midnight-craving",
+    "technique": "rest-meat",
+    "primaryIngredient": "fine yellow cornmeal",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Zanzibari",
+    "mainIngredient": "sweetcorn",
+    "descriptor": "Creamy",
+    "dishForm": "Pilaf"
+  }
+}
