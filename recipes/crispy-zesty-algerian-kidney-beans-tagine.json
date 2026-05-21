@@ -1,0 +1,101 @@
+{
+  "title": "Crispy Zesty Algerian Kidney Beans Tagine",
+  "description": "A sweet and crispy date-night algerian dish featuring kidney beans, shio-cure, lacto-vegetarian-friendly.",
+  "cuisine": "Algerian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup kidney beans",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 onion, diced",
+      "amount": "piece"
+    },
+    {
+      "name": "3 garlic cloves, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "1 red bell pepper, diced",
+      "amount": "piece"
+    },
+    {
+      "name": "2 tomatoes, chopped",
+      "amount": "tom"
+    },
+    {
+      "name": "1 teaspoon smoked paprika",
+      "amount": "tsp"
+    },
+    {
+      "name": "1/4 cup lemon juice",
+      "amount": "cup"
+    },
+    {
+      "name": "10 dates, pitted and chopped",
+      "amount": "piece"
+    },
+    {
+      "name": "1 tablespoon honey",
+      "amount": "tbsp"
+    },
+    {
+      "name": "2 tablespoons shio-cure",
+      "amount": "tsp"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add onion and garlic, cook until translucent.",
+    "Stir in diced bell pepper, tomatoes, smoked paprika, lemon juice, dates, honey, shio-cure, and salt.",
+    "Simmer for about 15 minutes.",
+    "Add kidney beans and simmer for another 20 minutes.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "crispy",
+    "kidney-beans",
+    "lacto-vegetarian-friendly",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "crispy-zesty-algerian-kidney-beans-tagine",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crispy-zesty-algerian-kidney-beans-tagine",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-21T11:48:48Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crispy",
+    "mood": "date-night",
+    "technique": "shio-cure",
+    "primaryIngredient": "kidney beans",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Zesty",
+    "mainIngredient": "Kidney Beans",
+    "descriptor": "Crispy",
+    "dishForm": "Tagine"
+  }
+}
