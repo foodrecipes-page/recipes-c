@@ -1,0 +1,122 @@
+{
+  "title": "crisp creamy russian beef pelmeni",
+  "description": "peppery and pillowy show-off russian dish featuring lemongrass stalks, perfect for a special occasion dinner",
+  "cuisine": "russian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef mince",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "lemongrass stalks",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "250g",
+      "notes": "for pelmeni dough"
+    },
+    {
+      "name": "large egg",
+      "amount": "",
+      "notes": "beaten (optional)"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "50g",
+      "notes": "melted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "",
+      "notes": "for garnish"
+    },
+    {
+      "name": "plain sour cream",
+      "amount": "100g",
+      "notes": "for serving"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "50g",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "in a large mixing bowl, combine beef mince, lemongrass, salt, and black pepper. Mix well with your hands until just combined.",
+    "add the flour to the bowl and mix until the dough just comes together. Do not overmix.",
+    "turn the dough out onto a lightly floured surface and knead for 5 minutes, until smooth and elastic.",
+    "wrap the dough in plastic wrap and let rest for 30 minutes.",
+    " Divide the dough into 4 equal pieces and roll out each piece into a thin sheet.",
+    "use a round cookie cutter or the rim of a glass to cut out circles of dough. You should be able to get about 20-25 circles.",
+    "place a tablespoon of beef filling in the center of each dough circle. Brush the edges with a little water and fold the dough over to form a triangle, pressing the edges to seal. Repeat with the remaining dough and filling.",
+    "in a large skillet, melt 20g of butter over medium-high heat. When the butter starts to foam, add a few pelmeni to the pan (do not overcrowd). Cook for 2-3 minutes on each side, until golden brown.",
+    "remove the pelmeni from the pan and set aside. Repeat with the remaining pelmeni.",
+    "add the remaining 30g of butter to the pan and let melt. Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "add the minced garlic and cook for 1 minute, until fragrant.",
+    "add the cooked pelmeni back to the pan and toss to coat with the onion mixture.",
+    "serve the pelmeni hot, topped with a dollop of sour cream and a sprinkle of cheddar cheese (if using). Garnish with chopped fresh dill."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "homemade",
+    "main-course",
+    "pasta",
+    "russian-cuisine",
+    "special-occasion",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 27,
+    "carbs": 30,
+    "fat": 32
+  },
+  "slug": "crisp-creamy-russian-beef-pelmeni",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/crisp-creamy-russian-beef-pelmeni",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T04:40:00Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "pillowy",
+    "mood": "show-off",
+    "technique": "deglaze",
+    "primaryIngredient": "lemongrass stalks",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "Crisp Creamy",
+    "dishForm": "Pelmeni"
+  }
+}
