@@ -1,0 +1,79 @@
+{
+  "title": "Crunchy Fermented Egyptian Onion Hash",
+  "description": "A light and crunchy Egyptian dish featuring onion rings, shio-koji-cure, and a hint of spice.",
+  "cuisine": "Egyptian",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Onions",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Shio-koji",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Spices (cumin, coriander, paprika)",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped (optional)",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Peel and slice the onions into 1/2-inch thick rings."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "gluten-free",
+    "high-fiber",
+    "one-pan",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "crunchy-fermented-egyptian-onion-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-fermented-egyptian-onion-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:22:11Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crunchy",
+    "mood": "light",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "onion rings",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "onion",
+    "descriptor": "crunchy fermented",
+    "dishForm": "Hash"
+  }
+}
