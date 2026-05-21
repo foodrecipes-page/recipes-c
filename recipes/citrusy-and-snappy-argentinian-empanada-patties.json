@@ -1,0 +1,109 @@
+{
+  "title": "Citrusy and Snappy Argentinian Empanada Patties",
+  "description": "A twist on traditional empanadas, these Argentinian empanada patties are citrusy, snappy, and crowd-pleasing, featuring raisins and a hint of ferment, all in a gluten-free-friendly package.",
+  "cuisine": "argentinian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "corn flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "raisins",
+      "amount": "1/2 cup",
+      "notes": "soaked in 1/4 cup apple cider vinegar for at least 30 minutes"
+    },
+    {
+      "name": "water",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "yeast ferment powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine corn flour, raisins, water, egg, lime juice, salt, black pepper, cayenne pepper, and yeast ferment powder. Mix until a smooth dough forms.",
+    "Knead the dough for 5-7 minutes until it becomes pliable and smooth.",
+    "Divide the dough into 12 equal pieces and shape each piece into a ball.",
+    "Roll out each ball of dough into a thin circle, about 1/8 inch thick.",
+    "Heat a non-stick skillet over medium-high heat and brush with olive oil.",
+    "Cook the empanada patties for 2-3 minutes on each side, until they are golden brown and crispy.",
+    "Serve hot and enjoy!",
+    "Repeat the process with the remaining dough pieces.",
+    "Note: You can also bake the empanada patties in a preheated oven at 375°F (190°C) for 10-12 minutes, or until crispy and golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "gluten-free",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 9
+  },
+  "slug": "citrusy-and-snappy-argentinian-empanada-patties",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/citrusy-and-snappy-argentinian-empanada-patties",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:32:06Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "snappy",
+    "mood": "crowd-pleaser",
+    "technique": "ferment",
+    "primaryIngredient": "raisins",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Empanada",
+    "descriptor": "citrusy and snappy",
+    "dishForm": "Patties"
+  }
+}
