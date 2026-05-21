@@ -1,0 +1,65 @@
+{
+  "title": "C Fermented Cottage Cheese Stir-fry Fondue-pot",
+  "description": "A realistic recipe for a Norwegian dish featuring fermented cottage cheese, stir-fried with basil leaves and halal-friendly in a fondue pot.",
+  "cuisine": "norwegian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fermented cottage cheese",
+      "amount": 100
+    },
+    {
+      "name": "basil leaves",
+      "amount": "a handful"
+    },
+    {
+      "name": "halal-friendly broth or stock",
+      "amount": 250
+    }
+  ],
+  "instructions": [
+    "Heat the fondue pot over medium heat.",
+    "Add fermented cottage cheese and stir until well combined, scraping any stuck bits from the bottom.",
+    "Deglaze with halal-friendly broth or stock, letting it simmer briefly to concentrate flavors.",
+    "Stir in a handful of basil leaves, ensuring they wilt slightly but are not soggy.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately as fondue for solo dining experience."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "basil-leaves",
+    "fermented-cottage-cheese",
+    "halal-friendly",
+    "norwegian-fondue",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "c-fermented-cottage-cheese-stir-fry-fondue-pot",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/c-fermented-cottage-cheese-stir-fry-fondue-pot",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-21T06:35:35Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "cheese-pull",
+    "mood": "solo-dinner",
+    "technique": "deglaze",
+    "primaryIngredient": "basil leaves",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Cottage Cheese",
+    "descriptor": "Fermented",
+    "dishForm": "Stir-fry"
+  }
+}
