@@ -1,0 +1,122 @@
+{
+  "title": "Creamy Earthy Filipino Chicken Pilaf",
+  "description": "A savory Filipino-inspired rice pilaf dish featuring chicken and shio-koji-cured pork belly, infused with a rich creamy sauce.",
+  "cuisine": "filipino",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "shio-koji cure",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "pork belly",
+      "amount": "2 cups",
+      "notes": "cured and sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "chicken stock cube",
+      "amount": "1 cube",
+      "notes": "dissolved in 2 cups water"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "cream",
+      "amount": "1 cup",
+      "notes": "heavy cream or substitute"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large skillet over medium-high heat.",
+    "Add the chicken breast and cook until browned on both sides, about 5 minutes.",
+    "Add the onion and cook until softened, about 3 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the pork belly and cook until browned, about 3 minutes.",
+    "Add the rice and stir to coat with oil, about 2 minutes.",
+    "Add the chicken stock cube, water, fish sauce, salt, and pepper, and stir to combine.",
+    "Bring to a boil, then reduce heat to low and cover, simmering for 18 minutes or until the liquid has been absorbed.",
+    "Fluff the pilaf with a fork and stir in the cream, until well combined.",
+    "Season to taste with salt and pepper, if needed.",
+    "Serve hot, garnished with chopped green onions or chilies, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "cream-based",
+    "filipino",
+    "one-pan",
+    "rice-dish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 30
+  },
+  "slug": "creamy-earthy-filipino-chicken-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-earthy-filipino-chicken-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T09:02:06Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "creamy",
+    "mood": "adventurous",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "chicken stock cube",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Chicken",
+    "descriptor": "Creamy Earthy",
+    "dishForm": "Pilaf"
+  }
+}
