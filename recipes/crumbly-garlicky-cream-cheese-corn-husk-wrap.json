@@ -1,0 +1,83 @@
+{
+  "title": "Crumbly Garlicky Cream Cheese Corn-Husk Wrap",
+  "description": "A simple yet flavorful solo-dinner mexican dish featuring cream cheese, kombu-cold-extract and wrapped in corn-husk, perfect for a quick and healthy meal.",
+  "cuisine": "mexican (veracruzan)",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cream cheese",
+      "amount": 100
+    },
+    {
+      "name": "kombu-cold-extract",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "sugar",
+      "amount": 15
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "flour",
+      "amount": 30
+    },
+    {
+      "name": "pepper",
+      "amount": "1/8 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": 20
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "Mix cream cheese, kombu-cold-extract, garlic, sugar, salt, flour, and pepper in a bowl until well combined.",
+    "Heat olive oil in a skillet over medium heat. Pour the mixture into the skillet and cook for about 5 minutes or until golden brown.",
+    "Carefully transfer the mixture to a corn-husk wrap (if available), ensuring it is not too hot by touching the outside with your hand.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "cream-cheese",
+    "crumbly",
+    "garlicky",
+    "kombu-cold-extract"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 7,
+    "carbs": 18,
+    "fat": 6
+  },
+  "slug": "crumbly-garlicky-cream-cheese-corn-husk-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crumbly-garlicky-cream-cheese-corn-husk-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-21T00:33:55Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crumbly",
+    "mood": "solo-dinner",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "cream cheese",
+    "diet": "dash",
+    "region": "veracruzan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "cream_cheese",
+    "descriptor": "Garlicky Crumbly",
+    "dishForm": "Wrap"
+  }
+}
