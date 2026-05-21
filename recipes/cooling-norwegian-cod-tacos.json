@@ -1,0 +1,111 @@
+{
+  "title": "cooling norwegian cod tacos",
+  "description": "a refreshing post-workout norwegian dish featuring pan-seared cod, crunchy slaw, and a squeeze of fresh lime juice, all wrapped in a low-glycemic-friendly corn tortilla.",
+  "cuisine": "norwegian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cod fillets skin removed",
+      "amount": "4",
+      "notes": "about 6 ounces each"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "8",
+      "notes": ""
+    },
+    {
+      "name": "red cabbage",
+      "amount": "1",
+      "notes": "shredded"
+    },
+    {
+      "name": "carrots",
+      "amount": "1",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat 1 tablespoon of coconut oil in a large skillet over medium-high heat.",
+    "add the cod fillets and sear for 3-4 minutes on each side, or until cooked through.",
+    "while the cod is cooking, combine the shredded cabbage, grated carrots, apple cider vinegar, and honey in a large bowl.",
+    "mix well and refrigerate for at least 30 minutes to allow the slaw to chill and the flavors to meld.",
+    "once the cod is cooked, remove it from the skillet and set aside to rest.",
+    "add the remaining 1 tablespoon of coconut oil to the skillet and sauté the chopped cilantro for 1 minute, or until fragrant.",
+    "warm the corn tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "assemble the tacos by placing a piece of the seared cod onto a warmed tortilla, followed by a spoonful of the chilled slaw and a sprinkle of salt and pepper.",
+    "serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish-tacos",
+    "low-glycemic-friendly",
+    "norwegian",
+    "one-pan",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 45,
+    "carbs": 14,
+    "fat": 12
+  },
+  "slug": "cooling-norwegian-cod-tacos",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/cooling-norwegian-cod-tacos",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T02:35:08Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "snappy",
+    "mood": "post-workout",
+    "technique": "reduce",
+    "primaryIngredient": "corn tortillas",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Cod",
+    "descriptor": "Cooling",
+    "dishForm": "Tacos"
+  }
+}
