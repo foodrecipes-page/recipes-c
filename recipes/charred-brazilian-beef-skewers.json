@@ -1,0 +1,99 @@
+{
+  "title": "Charred Brazilian Beef Skewers",
+  "description": "Juicy beef skewers with a charred Brazilian twist, flavored with thyme and nuka-pickle. Serve solo for a satisfying dinner.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flank steak (1 pound)",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Fresh thyme (2 sprigs)",
+      "amount": "2 sprigs",
+      "notes": "fresh from the garden"
+    },
+    {
+      "name": "Nuka-pickle",
+      "amount": "2 tablespoons",
+      "notes": "see note"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Lime wedges (4)",
+      "amount": "4",
+      "notes": "for serving"
+    },
+    {
+      "name": "Chopped fresh cilantro (1/4 cup)",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F).",
+    "Thread 1.5 pounds of flank steak onto skewers, leaving a little space between each piece.",
+    "In a small bowl, mix together thyme, garlic powder, salt, and black pepper.",
+    "Brush the mixture evenly onto both sides of the beef.",
+    "Brush the nuka-pickle onto the beef, reserving any remaining for serving.",
+    "Grill the skewers for 8-10 minutes per side, or until cooked to your desired level of doneness.",
+    "Transfer the skewers to a plate and let rest for 5 minutes.",
+    "Serve the beef skewers hot, garnished with chopped cilantro and lime wedges if desired.",
+    "Slice the beef thinly against the grain before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "brazilian",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 45,
+    "carbs": 0,
+    "fat": 15
+  },
+  "slug": "charred-brazilian-beef-skewers",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-brazilian-beef-skewers",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:31:00Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "juicy",
+    "mood": "solo-dinner",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "thyme",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "beef",
+    "descriptor": "charred",
+    "dishForm": "Skewers"
+  }
+}
