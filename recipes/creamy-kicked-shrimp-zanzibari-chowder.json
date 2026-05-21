@@ -1,0 +1,86 @@
+{
+  "title": "Creamy Kicked Shrimp Zanzibari Chowder",
+  "description": "A briny, light weeknight Malaysian dish featuring coconut milk and deglazed with shrimp for a tropical twist. Lacto-vegetarian-friendly.",
+  "cuisine": "Malaysian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 can (24 oz) full-fat coconut milk"
+    },
+    {
+      "name": "1 cup fresh shrimps, peeled and deveined"
+    },
+    {
+      "name": "2 tbsp vegetable oil"
+    },
+    {
+      "name": "3 cloves garlic, minced"
+    },
+    {
+      "name": "1 medium onion, diced"
+    },
+    {
+      "name": "1 can (40 oz) whole tomatoes, undrained"
+    },
+    {
+      "name": "8 cups chicken or vegetable broth"
+    },
+    {
+      "name": "1 tsp ground turmeric"
+    },
+    {
+      "name": "1 tbsp fish sauce"
+    },
+    {
+      "name": "1/2 cup fresh cilantro leaves, chopped"
+    },
+    {
+      "name": "Salt and pepper to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add garlic and onion; sauté until soft.",
+    "Deglaze with 1/4 cup of the broth. Scrape up any browned bits from bottom of pot.",
+    "Stir in remaining broth, tomatoes, turmeric, fish sauce, coconut milk, salt, and pepper.",
+    "Bring to a simmer then add shrimps; cook until pink.",
+    "Taste and adjust seasoning as needed.",
+    "Blend soup using an immersion blender or transfer half at a time to a food processor. Return puree to pot.",
+    "Serve garnished with cilantro leaves."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "cream-of-tomato",
+    "fish-sauce-based",
+    "veganizable"
+  ],
+  "nutrition": {
+    "calories": 428,
+    "protein": 19,
+    "carbs": 53,
+    "fat": 16
+  },
+  "slug": "creamy-kicked-shrimp-zanzibari-chowder",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/creamy-kicked-shrimp-zanzibari-chowder",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-21T15:10:14Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "light",
+    "mood": "weeknight",
+    "technique": "deglaze",
+    "primaryIngredient": "coconut milk",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Zanzibari",
+    "mainIngredient": "shrimp",
+    "descriptor": "Creamy",
+    "dishForm": "Chowder"
+  }
+}
