@@ -1,0 +1,84 @@
+{
+  "title": "Crunchy Smoky Swede Wraps",
+  "description": "These quick-fix Canadian dish wraps are crispy on the outside and tender inside, perfect for a busy weeknight.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "swede",
+      "amount": "100g"
+    },
+    {
+      "name": "oat flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "60ml"
+    },
+    {
+      "name": "canola oil",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200C.",
+    "Mix swede, oat flour, water, oil, garlic powder, smoked paprika, salt, and black pepper until a dough forms.",
+    "Roll out dough into thin wraps about 5cm thick.",
+    "Place wraps on baking sheet lined with parchment paper.",
+    "Bake for 10 minutes or until golden brown on the outside.",
+    "Serve warm as a snack."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "gluten-free",
+    "quick-fix",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 18,
+    "fat": 3
+  },
+  "slug": "crunchy-smoky-swede-wraps",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/crunchy-smoky-swede-wraps",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-21T06:46:41Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crispy",
+    "mood": "quick-fix",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "swede",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Smoky",
+    "mainIngredient": "Swede",
+    "descriptor": "Crispy",
+    "dishForm": "Wraps"
+  }
+}
