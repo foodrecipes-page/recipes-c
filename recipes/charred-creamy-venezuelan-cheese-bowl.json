@@ -1,0 +1,106 @@
+{
+  "title": "Charred Creamy Venezuelan Cheese Bowl",
+  "description": "A festive Venezuelan dish featuring charred cheese, HP sauce, and shio cure, served in a Korean brass bowl, with a vegan friendly option.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vegan mozzarella",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "HP sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Shio cure",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together HP sauce and shio cure.",
+    "Add the shredded vegan mozzarella to the bowl and mix until well coated.",
+    "Heat the olive oil in a large skillet over medium high heat.",
+    "Add the sliced red onion and diced bell pepper to the skillet and cook until charred.",
+    "Add the cooked onion and bell pepper to the bowl with the cheese mixture and stir to combine.",
+    "Season with salt, black pepper, and Korean chili flakes.",
+    "Transfer the mixture to a Korean brass bowl and bake in the preheated oven for 15 minutes.",
+    "Remove from the oven and top with chopped cilantro.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "festive-dish",
+    "hp-sauce",
+    "korean-brass-bowl",
+    "latin-american",
+    "shio-cure",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "charred-creamy-venezuelan-cheese-bowl",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/charred-creamy-venezuelan-cheese-bowl",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-21T14:57:15Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "cheese-pull",
+    "mood": "festive",
+    "technique": "shio-cure",
+    "primaryIngredient": "hp-sauce",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "cheese",
+    "descriptor": "Charred Creamy",
+    "dishForm": "Bowl"
+  }
+}
