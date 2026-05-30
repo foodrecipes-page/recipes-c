@@ -14293,17 +14293,16 @@
   },
   {
     "slug": "creamy-italian-chicken-tagine",
-    "title": "Creamy Italian Chicken Tagine",
+    "title": "Chicken Tagine with Creamy Italian Sauce",
     "tags": [
-      "chicken-recipes",
-      "clay-cooking",
-      "garlic-lovers",
-      "halal-friendly",
-      "italian-food",
-      "one-pot-meal"
+      "chicken",
+      "italian",
+      "north-african",
+      "creamy",
+      "tagine"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 45,
+    "cuisine": "Italian, North African",
+    "totalTimeMin": 40,
     "shard": "c"
   },
   {
@@ -16431,19 +16430,16 @@
   },
   {
     "slug": "creamy-vietnamese-tofu-bowl",
-    "title": "Creamy Vietnamese Tofu Bowl",
+    "title": "Vietnamese Tofu Bowl",
     "tags": [
       "vegan",
-      "halal",
-      "breakfast",
       "tofu",
-      "cocoa",
-      "rice-free",
-      "quick",
-      "comfort"
+      "veggie-bowl",
+      "peanut-sauce",
+      " vietnamese"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 20,
+    "totalTimeMin": 25,
     "shard": "c"
   },
   {
@@ -29264,15 +29260,14 @@
   },
   {
     "slug": "crunchy-russian-savory-leaves-stir-fry",
-    "title": "Crunchy Russian Savory Leaves Stir-fry",
+    "title": "Savory Stir Fry",
     "tags": [
-      "crunchy",
-      "hangover-cure",
-      "summer-savory-leaves",
-      "stir-fry"
+      "stir-fry",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 15,
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
     "shard": "c"
   },
   {
@@ -30288,16 +30283,13 @@
   },
   {
     "slug": "crunchy-vietnamese-hake-fry-grind-rice-khao-khua",
-    "title": "crunchy vietnamese hake fry-grind-rice-khao-khua",
+    "title": "Grilled Hake with Khao Khua Fried Rice",
     "tags": [
-      "egg-free",
-      "high-protein",
-      "low-carb",
-      "one-pan",
-      "vietnamese",
-      "weeknight"
+      "grilled-hake",
+      "khao-khua-fried-rice",
+      "thai-cuisine"
     ],
-    "cuisine": "vietnamese",
+    "cuisine": "Thai",
     "totalTimeMin": 25,
     "shard": "c"
   },
@@ -30563,6 +30555,33 @@
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 23,
+    "shard": "c"
+  },
+  {
+    "slug": "caramelized-pepper-mediterranean-crumble--chinese",
+    "title": "Caramelized Pepper Crumble Spring Rolls",
+    "tags": [
+      "chinese",
+      "spring-rolls",
+      "caramelized-peppers",
+      "veggie",
+      "snack"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-tangy-spanish-oranges-soup--indian",
+    "title": "Spicy Orange Soup",
+    "tags": [
+      "soup",
+      "orange",
+      "indian",
+      "vegetarian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 30,
     "shard": "c"
   }
 ]
