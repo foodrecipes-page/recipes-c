@@ -1,0 +1,66 @@
+{
+  "slug": "creamy-irish-almonds-parfait",
+  "title": "Irish Cream Parfait",
+  "description": "A layered dessert featuring Irish cream liqueur, whipped cream, and toasted almonds.",
+  "cuisine": "Irish",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Irish cream liqueur",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Whipped cream",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Toasted almonds",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Chocolate shavings",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whip the heavy cream until stiff peaks form.",
+    "In a separate bowl, mix the Irish cream liqueur and granulated sugar until dissolved.",
+    "Layer the whipped cream, Irish cream mixture, and toasted almonds in a parfait glass.",
+    "Repeat the layers two more times, ending with whipped cream on top.",
+    "Garnish with chocolate shavings.",
+    "Chill in the refrigerator for 30 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "irish-cream",
+    "parfait",
+    "dessert",
+    "whipped-cream"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-irish-almonds-parfait",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:37:41.693Z"
+}
