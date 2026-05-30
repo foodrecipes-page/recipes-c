@@ -1,0 +1,74 @@
+{
+  "slug": "crispy-greek-tomato-flatbread",
+  "title": "Greek Pizza",
+  "description": "A simple and delicious pizza recipe topped with crispy greek tomato goodness.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tomato",
+      "amount": "1 large",
+      "notes": "Fresh or canned, your choice"
+    },
+    {
+      "name": "Flatbread",
+      "amount": "1 piece",
+      "notes": "preferably crispy"
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Brush flatbread with olive oil and cook in the oven for 5-7 minutes.",
+    "Top flatbread with diced tomato and a sprinkle of feta cheese.",
+    "Drizzle with greek yogurt (if using) and sprinkle with cucumber.",
+    "Season with salt to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "pizza",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-greek-tomato-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:35:07.805Z"
+}
