@@ -1,0 +1,80 @@
+{
+  "slug": "creamy-vietnamese-tofu-bowl",
+  "title": "Vietnamese Tofu Bowl",
+  "description": "A creamy and flavorful Vietnamese-inspired bowl dish made with tofu and various vegetables. Perfect for a quick and easy dinner.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Extra-firm tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "Creamy peanut sauce",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Rice noodles",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "Mixed vegetables",
+      "amount": "1 cup",
+      "notes": "such as bean sprouts, carrots, and bell peppers"
+    },
+    {
+      "name": "Fresh herbs",
+      "amount": "1/4 cup",
+      "notes": "such as cilantro, basil, and mint"
+    },
+    {
+      "name": "Sliced green onions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to package instructions and set aside.",
+    "Cut the tofu into bite-sized pieces and pan-fry until golden brown.",
+    "In a separate pan, heat the creamy peanut sauce over medium heat.",
+    "Add the mixed vegetables to the peanut sauce and stir-fry until tender.",
+    "To assemble the bowls, place a portion of noodles at the bottom, followed by the tofu and vegetable mixture.",
+    "Garnish with fresh herbs and sliced green onions.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "tofu",
+    "veggie-bowl",
+    "peanut-sauce",
+    " vietnamese"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-vietnamese-tofu-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:58:11.256Z"
+}
