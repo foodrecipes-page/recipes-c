@@ -1,0 +1,79 @@
+{
+  "slug": "crispy-german-herb-salad",
+  "title": "Crispy German Salad",
+  "description": "A German-inspired salad with crispy fried onions and fresh herbs.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Crispy Fried Onions",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Mixed Greens",
+      "amount": "4 cups",
+      "notes": "lettuce, arugula, spinach"
+    },
+    {
+      "name": "German-Style Sausage",
+      "amount": "1 cup, sliced",
+      "notes": "optional, omit for vegetarian"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh Dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "German Mustard",
+      "amount": "2 tbsp",
+      "notes": "or substitute with Dijon mustard"
+    },
+    {
+      "name": "Vinaigrette",
+      "amount": "2 tbsp",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "1. In a large skillet, heat 1-2 tbsp of oil over medium-high heat.",
+    "2. Add sliced German-Style Sausage (if using) and cook until browned, about 3-4 minutes.",
+    "3. Remove sausage from skillet and set aside.",
+    "4. Add crispy fried onions to skillet and cook until golden brown, about 2-3 minutes.",
+    "5. In a large bowl, combine mixed greens, chopped parsley, and chopped dill.",
+    "6. In a small bowl, whisk together German Mustard and vinaigrette.",
+    "7. Pour dressing over salad and toss to combine.",
+    "8. Top salad with cooked sausage (if using) and crispy fried onions.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "salad",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-german-herb-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:43:08.021Z"
+}
