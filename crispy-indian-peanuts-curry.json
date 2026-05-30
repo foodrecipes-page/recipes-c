@@ -1,0 +1,73 @@
+{
+  "slug": "crispy-indian-peanuts-curry",
+  "title": "Crispy Peanut Curry",
+  "description": "A simple Indian-inspired dish that combines the crunch of peanuts with the warm flavors of curry.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Peanuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Crispy onions",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Indian curry powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add curry powder and cook for 1 minute.",
+    "Add peanuts and cook for 2-3 minutes, stirring frequently.",
+    "Add water and bring to a simmer.",
+    "Reduce heat to low and cook for 5 minutes.",
+    "Stir in crispy onions and season with salt.",
+    "Serve warm and enjoy!",
+    "Optional: Serve with naan or rice for added flavor and texture."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian-curry",
+    "peanut",
+    "snack",
+    "easy-recipe"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-indian-peanuts-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:40:05.726Z"
+}
