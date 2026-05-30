@@ -1,0 +1,77 @@
+{
+  "slug": "crispy-mexican-sweet-potato-hash",
+  "title": "Crispy Sweet Potato Tacos",
+  "description": "A delicious and easy-to-make Mexican-inspired dish featuring crispy sweet potato hash.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sweet Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cut into 1-inch cubes"
+    },
+    {
+      "name": "Hash Browns",
+      "amount": "1 cup",
+      "notes": "canned or homemade"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Chili Powder",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Crushed Red Pepper Flakes",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, toss the sweet potatoes with 1/4 cup olive oil, cumin, chili powder, salt, and crushed red pepper flakes until evenly coated.",
+    "Spread the sweet potatoes on a baking sheet and roast for 20-25 minutes or until tender.",
+    "While the sweet potatoes are roasting, heat 1-2 tablespoons of olive oil in a large skillet over medium-high heat.",
+    "Add the hash browns to the skillet and cook, stirring occasionally, until crispy and golden brown, about 5-7 minutes.",
+    "Once the sweet potatoes are done, remove them from the oven and let them cool slightly.",
+    "Warm the hash browns in the skillet or in the microwave.",
+    "Assemble the tacos by placing a portion of the crispy sweet potato hash in a taco shell, topping with warmed hash browns, and serving immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tacos",
+    "sweet-potatoes",
+    "mexican"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-mexican-sweet-potato-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:50:44.196Z"
+}
