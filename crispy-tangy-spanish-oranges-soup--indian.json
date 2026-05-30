@@ -1,0 +1,89 @@
+{
+  "slug": "crispy-tangy-spanish-oranges-soup--indian",
+  "title": "Spicy Orange Soup",
+  "description": "A delicious and tangy Indian-inspired soup made with oranges and spices.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Oranges",
+      "amount": "3",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onion, garlic, and ginger, and sauté until softened.",
+    "Add cumin powder, coriander powder, and cayenne pepper, and sauté for 1 minute.",
+    "Add chopped oranges and sauté for 2 minutes.",
+    "Add water and bring to a boil.",
+    "Reduce heat and simmer for 15 minutes.",
+    "Season with salt to taste.",
+    "Blend soup with an immersion blender or transfer to a blender and blend until smooth.",
+    "Serve hot garnished with crispy onions or tangy raita."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "orange",
+    "indian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-tangy-spanish-oranges-soup--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:00:39.535Z"
+}
