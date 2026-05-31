@@ -6427,16 +6427,13 @@
   },
   {
     "slug": "citrusy-creamy-portuguese-chocolate-dumplings",
-    "title": "Citrusy Creamy Portuguese Chocolate Dumplings",
+    "title": "Citrusy Portuguese Cream Puffs",
     "tags": [
-      "dessert",
-      "vegan",
-      "gluten-free",
-      "jain-friendly",
-      "quick",
-      "weeknight"
+      "portuguese",
+      "citrusy",
+      "cream puffs"
     ],
-    "cuisine": "Portuguese",
+    "cuisine": "portuguese",
     "totalTimeMin": 40,
     "shard": "c"
   },
@@ -16493,15 +16490,14 @@
   },
   {
     "slug": "crisp-aussie-goats-cheese-pate",
-    "title": "Crisp Aussie Goats Cheese Pate",
+    "title": "Goat's Cheese and Aussie Pate Tartine",
     "tags": [
-      "goats cheese",
-      "pate",
-      "australian dish",
-      "halal-friendly"
+      "goats-cheese",
+      "australian",
+      "appetizer"
     ],
     "cuisine": "Australian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 15,
     "shard": "c"
   },
   {
@@ -30619,6 +30615,32 @@
       "american-cheese"
     ],
     "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "c"
+  },
+  {
+    "slug": "chicken-creamy--italian",
+    "title": "Creamy Chicken Italian Dinner",
+    "tags": [
+      "italian",
+      "cream-sauce",
+      "chicken-dinner"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "c"
+  },
+  {
+    "slug": "chicken-sweet--italian",
+    "title": "Chicken Biryani",
+    "tags": [
+      "italian",
+      "chicken",
+      "biryani",
+      "rice",
+      "dinner"
+    ],
+    "cuisine": "italian",
     "totalTimeMin": 40,
     "shard": "c"
   }
