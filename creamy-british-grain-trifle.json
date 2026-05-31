@@ -1,0 +1,78 @@
+{
+  "slug": "creamy-british-grain-trifle",
+  "title": "Traditional British Trifle",
+  "description": "A layered English dessert made with sponge cake, fruit, custard, and whipped cream.",
+  "cuisine": "british",
+  "diet": [
+    "dairy",
+    "gluten"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Sponge cake",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Raspberry jam",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh raspberries",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sherry or other dessert wine (optional)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Egg yolks",
+      "amount": "4 large"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Cut the sponge cake into 1-inch cubes and set aside.",
+    "In a separate bowl, whip the heavy cream and granulated sugar until stiff peaks form.",
+    "In another bowl, whisk together the egg yolks and sherry (if using).",
+    "In a saucepan, combine the egg yolk mixture, unsalted butter, and 2 cups of heavy cream.",
+    "Bring the mixture to a simmer and cook over low heat, stirring constantly, until the mixture thickens.",
+    "Remove the saucepan from the heat and let cool to room temperature.",
+    "In a large bowl, combine the cooled custard mixture with the whipped cream and mix until well combined.",
+    "To assemble the trifle, place a layer of sponge cake in the bottom of a large bowl or individual glasses.",
+    "Top the cake with a layer of raspberry jam, followed by a layer of fresh raspberries.",
+    "Repeat the layers two more times, ending with a layer of whipped cream on top.",
+    "Cover the bowl or glasses with plastic wrap and refrigerate for at least 2 hours before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "traditional",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 11,
+    "carbs": 55,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-british-grain-trifle",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:46:15.661Z"
+}
