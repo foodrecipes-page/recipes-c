@@ -1373,15 +1373,14 @@
   },
   {
     "slug": "charred-canadian-cheese-quesadilla",
-    "title": "Charred Canadian Cheese Quesadilla",
+    "title": "Charred Canadian Quesadilla",
     "tags": [
+      "quesadilla",
       "canadian",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "cheese"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 14,
+    "cuisine": "mexican",
+    "totalTimeMin": 10,
     "shard": "c"
   },
   {
@@ -30642,6 +30641,33 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 40,
+    "shard": "c"
+  },
+  {
+    "slug": "cozy-citrusy-gooey-syrian-chinese-long-beans-stir-fry--italian",
+    "title": "Creamy Bean Italian-Style Stir Fry",
+    "tags": [
+      "italian",
+      "vegan-option",
+      "gluten-free-option",
+      "quick-meal",
+      "one-pot"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "caramelized-crunchy-german-sausage-tacos--keto",
+    "title": "German Keto Sausage Tacos",
+    "tags": [
+      "keto",
+      "german",
+      "tacos",
+      "sausage"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
     "shard": "c"
   }
 ]
