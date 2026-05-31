@@ -1,0 +1,94 @@
+{
+  "slug": "chicken-sweet--italian",
+  "title": "Chicken Biryani",
+  "description": "A classic Italian-inspired biryani dish made with marinated chicken and flavorful basmati rice.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "halal",
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "sweet rice",
+      "amount": "2 cups",
+      "notes": "preferably basmati"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chicken to the skillet and cook until browned, about 5-6 minutes.",
+    "Add the tomato sauce, Italian seasoning, salt, and black pepper to the skillet.",
+    "Stir to combine and bring to a simmer.",
+    "Add the sweet rice to the skillet and stir to combine with the chicken and sauce.",
+    "Reduce heat to low and simmer, covered, for 20-25 minutes or until the rice is cooked.",
+    "Fluff the biryani with a fork and serve hot.",
+    "Garnish with fresh parsley or basil, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "chicken",
+    "biryani",
+    "rice",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/chicken-sweet--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T22:46:31.855Z"
+}
