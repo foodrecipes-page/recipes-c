@@ -1,0 +1,90 @@
+{
+  "slug": "creamy-smoky-venezuelan-beef-stew",
+  "title": "Smoky Beef Stew",
+  "description": "A hearty and flavorful stew from Venezuela, made with tender beef and a rich, smoky sauce.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "smoky chipotle peppers",
+      "amount": "2",
+      "notes": "in adobo sauce"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "creamy coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "concentrated"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat. Add beef and cook until browned, about 5 minutes.",
+    "Remove beef from pot and set aside. Add onion and garlic to pot and cook until softened, about 5 minutes.",
+    "Add chipotle peppers, cumin, and coriander to pot and cook for 1 minute.",
+    "Add tomato paste to pot and cook for 1 minute, stirring constantly.",
+    "Add beef broth to pot and bring to a boil. Scrape up any browned bits from bottom of pot.",
+    "Return beef to pot and bring to a simmer.",
+    "Reduce heat to low and cook, covered, until beef is tender, about 2 hours.",
+    "Stir in coconut milk and continue to cook for 10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "venezuelan",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 22,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-smoky-venezuelan-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:50:26.955Z"
+}
