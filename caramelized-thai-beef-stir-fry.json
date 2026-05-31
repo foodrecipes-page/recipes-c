@@ -1,0 +1,91 @@
+{
+  "slug": "caramelized-thai-beef-stir-fry",
+  "title": "Thai Beef Stir Fry",
+  "description": "A quick and flavorful Thai-inspired beef stir fry with caramelized onions.",
+  "cuisine": "Thai",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef strips",
+      "amount": "1 pound",
+      "notes": "Sliced into thin strips"
+    },
+    {
+      "name": "Caramelized onions",
+      "amount": "1/2 cup",
+      "notes": "Pre-cooked"
+    },
+    {
+      "name": "Thai stir-fry sauce",
+      "amount": "1/4 cup",
+      "notes": "Available at most Asian markets"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "1",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Snow peas",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the beef strips and cook until browned, about 3-4 minutes.",
+    "Remove the beef from the skillet and set aside.",
+    "Add the sliced bell peppers and cook until tender, about 2-3 minutes.",
+    "Add the snow peas and cook until tender, about 1-2 minutes.",
+    "Return the beef to the skillet and pour in the Thai stir-fry sauce.",
+    "Cook for an additional 1-2 minutes, until the sauce has thickened.",
+    "Stir in the caramelized onions and chopped fresh basil.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot over steamed rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "beef",
+    "stir-fry",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/caramelized-thai-beef-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:06:45.070Z"
+}
