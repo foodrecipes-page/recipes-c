@@ -1,0 +1,86 @@
+{
+  "slug": "chicken-creamy--italian",
+  "title": "Creamy Chicken Italian Dinner",
+  "description": "A classic Italian-inspired dinner featuring chicken breast in a creamy sauce, served with pasta.",
+  "cuisine": "italian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 ounces",
+      "notes": "linguine or fettuccine"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "whole or low-fat"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "freshly shredded"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped, fresh"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra-virgin"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to package instructions.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the garlic and cook for 1-2 minutes, until fragrant.",
+    "Add the chicken breast and cook for 5-6 minutes, until browned and cooked through.",
+    "Remove the chicken from the skillet and set aside.",
+    "In the same skillet, add the heavy cream and bring to a simmer.",
+    "Reduce the heat to low and let the cream simmer for 2-3 minutes, until slightly thickened.",
+    "Stir in the parmesan cheese until melted and smooth.",
+    "Return the chicken to the skillet and toss to coat with the creamy sauce.",
+    "Season with salt and pepper to taste.",
+    "Serve the chicken and sauce over the cooked pasta, garnished with basil leaves."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "cream-sauce",
+    "chicken-dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 40,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/chicken-creamy--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T22:45:32.480Z"
+}
