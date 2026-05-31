@@ -1872,16 +1872,14 @@
   },
   {
     "slug": "charred-crispy-tunisian-kid-friendly-tagine",
-    "title": "Charred Crispy Tunisian Kid-Friendly Tagine",
+    "title": "Tunisian Chicken Tagine",
     "tags": [
-      "crispy",
-      "kid-friendly",
-      "one-pan",
-      "paleo-friendly",
-      "smoky",
-      "weeknight"
+      "chicken",
+      "north-african",
+      "stew",
+      "one-pot"
     ],
-    "cuisine": "tunisian",
+    "cuisine": "North African",
     "totalTimeMin": 60,
     "shard": "c"
   },
@@ -13101,16 +13099,15 @@
   },
   {
     "slug": "creamy-croatian-cheese-lasagna",
-    "title": "Creamy Croatian Cheese Lasagna",
+    "title": "Croatian Creamy Lasagna",
     "tags": [
-      "crowd-pleaser",
-      "jain-friendly",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "lasagna",
+      "cheese",
+      "creamy",
+      "italian"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 50,
+    "cuisine": "Italian",
+    "totalTimeMin": 60,
     "shard": "c"
   },
   {
@@ -14909,17 +14906,15 @@
   },
   {
     "slug": "creamy-moroccan-chicken-tagine",
-    "title": "Creamy Moroccan Chicken Tagine",
+    "title": "Chicken Tagine",
     "tags": [
-      "moroccan",
-      "umami",
-      "creamy",
       "chicken",
-      "meal-prep",
-      "high-protein"
+      "moroccan",
+      "tagine",
+      "comfort-food"
     ],
-    "cuisine": "moroccan",
-    "totalTimeMin": 30,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 45,
     "shard": "c"
   },
   {
@@ -15538,18 +15533,15 @@
   },
   {
     "slug": "creamy-smoked-venezuelan-ice-cream-gratin",
-    "title": "Creamy Smoked Venezuelan Ice Cream Gratin",
+    "title": "Smoked Cream Gratin",
     "tags": [
-      "dessert",
-      "gratin",
-      "ice-cream",
-      "one-pan",
       "smoked",
-      "vegan-friendly",
-      "weeknight"
+      "gratin",
+      "cheesy",
+      "creamy"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 80,
+    "cuisine": "French",
+    "totalTimeMin": 40,
     "shard": "c"
   },
   {
@@ -16509,17 +16501,15 @@
   },
   {
     "slug": "crisp-bitter-peruvian-haggis-roast",
-    "title": "Crisp Bitter Peruvian Haggis Roast",
+    "title": "Roasted Haggis with Crisp Vegetables",
     "tags": [
-      "bitter",
-      "comfort-food",
-      "crispy",
+      "scottish",
       "haggis",
-      "high-protein",
-      "peruvian"
+      "roasted",
+      "vegetables"
     ],
-    "cuisine": "peruvian",
-    "totalTimeMin": 60,
+    "cuisine": null,
+    "totalTimeMin": 55,
     "shard": "c"
   },
   {
@@ -23654,17 +23644,14 @@
   },
   {
     "slug": "crispy-spanish-chili-stir-fry",
-    "title": "Crispy Spanish Chili Stir-fry",
+    "title": "Spanish Crispy Chili Stir Fry",
     "tags": [
-      "spanish-chili-stir-fry",
-      "crispy-dinner",
-      "umami-friendly",
-      "vegetarian",
-      "low-carb",
-      "diabetic-friendly"
+      "spanish",
+      "chili",
+      "stir-fry"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": null,
+    "totalTimeMin": 25,
     "shard": "c"
   },
   {
@@ -30691,6 +30678,33 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 30,
+    "shard": "c"
+  },
+  {
+    "slug": "crisp-aussie-goats-cheese-pate--indian",
+    "title": "Goat Cheese Naan Bites",
+    "tags": [
+      "indian",
+      "snacks",
+      "goat-cheese",
+      "naan-bread"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 15,
+    "shard": "c"
+  },
+  {
+    "slug": "creamy-british-grain-trifle--italian",
+    "title": "British Trifle",
+    "tags": [
+      "italian",
+      "british",
+      "dessert",
+      "trifle",
+      "custard"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 50,
     "shard": "c"
   }
 ]
