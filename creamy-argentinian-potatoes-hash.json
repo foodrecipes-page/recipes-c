@@ -1,0 +1,57 @@
+{
+  "slug": "creamy-argentinian-potatoes-hash",
+  "title": "Argentinian Hash Browns",
+  "description": "A crispy and flavorful side dish inspired by the Argentinian cuisine. Hash browns are made with shredded potatoes and can be served with a variety of main courses.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "shredded"
+    },
+    {
+      "name": "creamy",
+      "amount": "1/4 cup",
+      "notes": "mayonnaise or sour cream"
+    },
+    {
+      "name": "hash",
+      "amount": "1 tablespoon",
+      "notes": "paprika"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Toss the shredded potatoes with the creamy mayonnaise or sour cream until they are well coated.",
+    "Spread the potato mixture onto a baking sheet lined with parchment paper.",
+    "Sprinkle the hash paprika over the top of the potatoes.",
+    "Bake the potatoes for 20-25 minutes, or until they are crispy and golden brown.",
+    "Remove the potatoes from the oven and let them cool for a few minutes.",
+    "Serve the hash browns hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "hash-browns",
+    "side-dish"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-argentinian-potatoes-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T22:12:00.850Z"
+}
