@@ -421,20 +421,15 @@
   },
   {
     "slug": "caramelized-flaky-american-anchovy-pie",
-    "title": "Caramelized Flaky American Anchovy Pie",
+    "title": "Anchovy and Caramelized Flaky Pie Crust",
     "tags": [
-      "american",
+      "pie-crust",
       "savory",
-      "flaky",
       "anchovy",
-      "single-serving",
-      "sugar-free-friendly",
-      "caramelized",
-      "dinner",
-      "flaky-pie"
+      "caramelized-onions"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 75,
+    "cuisine": null,
+    "totalTimeMin": 30,
     "shard": "c"
   },
   {
@@ -13179,15 +13174,14 @@
   },
   {
     "slug": "creamy-crumble-flour",
-    "title": "Creamy Crumble Flour",
+    "title": "Creamy Crumble Coffee Cake",
     "tags": [
-      "creamy",
+      "coffee cake",
       "crumble",
-      "flour",
-      "oven"
+      "breakfast"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 30,
+    "cuisine": "american",
+    "totalTimeMin": 55,
     "shard": "c"
   },
   {
@@ -17746,15 +17740,14 @@
   },
   {
     "slug": "crisp-syrian-grassy-tagine",
-    "title": "crisp syrian grassy tagine",
+    "title": "Grilled Grasshopper and Tagine Skewers",
     "tags": [
-      "chocolate-dessert",
-      "dairy-free",
-      "high-calorie",
-      "weeknight"
+      "grilled",
+      "skewers",
+      "insects"
     ],
-    "cuisine": "syrian",
-    "totalTimeMin": 70,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 15,
     "shard": "c"
   },
   {
@@ -30579,6 +30572,45 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 30,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-croatian-corned-beef-croquettes--italian",
+    "title": "Beef Croquettes with Crispy Italian Breading",
+    "tags": [
+      "italian",
+      "beef",
+      "snack",
+      "finger-food"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-mexican-sweet-potato-hash--chinese",
+    "title": "Crispy Sweet Potato Hash",
+    "tags": [
+      "sweet",
+      "potato",
+      "chinese",
+      "side dish"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 30,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-mexican-sweet-potato-hash--indian",
+    "title": "Sweet Potato Hash with Mexican Crispy Topping",
+    "tags": [
+      "indian",
+      "breakfast",
+      "sweet-potatoes",
+      "mexican"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
     "shard": "c"
   }
 ]
