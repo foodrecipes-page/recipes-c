@@ -1,0 +1,73 @@
+{
+  "slug": "crispy-spanish-chili-stir-fry",
+  "title": "Spanish Crispy Chili Stir Fry",
+  "description": "A flavorful and spicy dish that combines the crunch of crispy onions with the heat of chili peppers, all in a savory Spanish-inspired stir fry.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chili peppers",
+      "amount": "2 large",
+      "notes": "any color"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "crispy"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Spanish rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "stir fry oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat stir fry oil in a large skillet over medium-high heat.",
+    "Add garlic and cook for 1 minute, until fragrant.",
+    "Add chili peppers and cook for 2 minutes, until tender.",
+    "Add onions and cook for 3 minutes, until crispy.",
+    "Add Spanish rice and stir to combine.",
+    "Sprinkle chili powder over the top and stir to combine.",
+    "Cook for an additional 1-2 minutes, until the flavors have melded together.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "chili",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-spanish-chili-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T03:53:49.261Z"
+}
