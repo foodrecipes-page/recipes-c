@@ -1,0 +1,80 @@
+{
+  "slug": "creamy-egyptian-sour-cream-bowl",
+  "title": "Egyptian Creamy Bowl",
+  "description": "A creamy, flavorful bowl inspired by Egyptian cuisine. Serve as a snack or light meal.",
+  "cuisine": "egyptian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "creamy hummus",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "cooked brown rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped cucumber",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "bowl",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "In a bowl, mix together the creamy hummus and sour cream.",
+    "Add the cooked brown rice, chopped cucumber, and chopped parsley to the bowl.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately in a bowl."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "quick",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-egyptian-sour-cream-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:13:42.303Z"
+}
