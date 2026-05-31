@@ -1,0 +1,67 @@
+{
+  "slug": "charred-canadian-cheese-quesadilla",
+  "title": "Charred Canadian Quesadilla",
+  "description": "A twist on the classic quesadilla, featuring charred Canadian cheese.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Charred Canadian cheese",
+      "amount": "1 block",
+      "notes": ""
+    },
+    {
+      "name": "1 large tortilla",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp olive oil",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp cumin",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the cumin and stir for 1 minute.",
+    "Place the tortilla in the skillet and sprinkle the charred Canadian cheese on half of the tortilla.",
+    "Fold the tortilla in half to enclose the cheese.",
+    "Cook for 2-3 minutes or until the tortilla is crispy and the cheese is melted.",
+    "Flip the quesadilla and cook for an additional 2-3 minutes.",
+    "Cut the quesadilla into wedges and serve hot.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "quesadilla",
+    "canadian",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/charred-canadian-cheese-quesadilla",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T01:05:12.171Z"
+}
