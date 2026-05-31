@@ -1,0 +1,78 @@
+{
+  "slug": "caramelized-portuguese-pork-wrap",
+  "title": "Pork and Caramelized Wrap",
+  "description": "A delicious Portuguese-inspired wrap filled with pork and caramelized onions.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Large onion",
+      "amount": "1",
+      "notes": "Caramelized"
+    },
+    {
+      "name": "Portuguese roll",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the pork shoulder with salt and pepper.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Sear the pork shoulder until browned on all sides, about 2-3 minutes per side.",
+    "Transfer the pork to a baking sheet and roast in the oven until cooked through, about 20-25 minutes.",
+    "While the pork is cooking, caramelize the onion in the skillet by cooking it over low heat for about 20-25 minutes.",
+    "Warm the Portuguese roll in the oven for a few minutes.",
+    "Slice the cooked pork and assemble the wrap by placing it on the roll, followed by caramelized onion, cheese, and cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "pork",
+    "portuguese",
+    "wrap",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/caramelized-portuguese-pork-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:07:02.347Z"
+}
