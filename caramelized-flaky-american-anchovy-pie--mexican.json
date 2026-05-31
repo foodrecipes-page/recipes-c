@@ -1,0 +1,68 @@
+{
+  "slug": "caramelized-flaky-american-anchovy-pie--mexican",
+  "title": "Caramelized Sweet Potato and Flaky Chicken Tacos",
+  "description": "A delicious and flavorful Mexican-inspired dish featuring caramelized sweet potatoes, flaky chicken, and a hint of spice.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "caramelized"
+    },
+    {
+      "name": "chicken breasts",
+      "amount": "1 pound",
+      "notes": "flaky"
+    },
+    {
+      "name": "american cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "anchovy paste",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10",
+      "notes": "corn"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Caramelize the sweet potatoes by roasting them in the oven for 20-25 minutes, or until tender.",
+    "In a separate pan, cook the chicken breasts over medium heat until cooked through.",
+    "Shred the cooked chicken into bite-sized pieces.",
+    "In a large bowl, mix together the shredded chicken, caramelized sweet potatoes, and anchovy paste.",
+    "Add the shredded american cheese to the bowl and stir until combined.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the chicken and sweet potato mixture onto a tortilla and serving immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tacos",
+    "mexican",
+    "sweet-potatoes",
+    "chicken",
+    "american-cheese"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/caramelized-flaky-american-anchovy-pie--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T18:16:46.285Z"
+}
