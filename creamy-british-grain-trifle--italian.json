@@ -1,0 +1,89 @@
+{
+  "slug": "creamy-british-grain-trifle--italian",
+  "title": "British Trifle",
+  "description": "A British dessert reimagined with an Italian twist, layered with creamy custard, sponge cake, and fresh fruit.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Sponge Cake",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Fresh Fruit (Strawberries, Raspberries)",
+      "amount": "2 cups",
+      "notes": "hulled and sliced"
+    },
+    {
+      "name": "Vanilla Custard",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Sherry or Grand Marnier",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Whipped Cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cocoa Powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Egg Yolks",
+      "amount": "4"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Butter, softened",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Cut the sponge cake into 1-inch cubes and toast until lightly browned.",
+    "In a medium saucepan, combine the custard, sherry or Grand Marnier, and granulated sugar. Heat over low heat, stirring constantly, until the sugar dissolves.",
+    "In a separate bowl, whisk together the egg yolks and flour until light and fluffy.",
+    "Add the softened butter to the egg yolk mixture and whisk until combined.",
+    "Gradually pour the custard mixture into the egg yolk mixture, whisking constantly.",
+    "Pour the mixture into a baking dish and bake for 25-30 minutes, or until the edges are set and the center is slightly jiggly.",
+    "While the custard is baking, whip the heavy cream until stiff peaks form.",
+    "To assemble the trifle, place a layer of toasted sponge cake in the bottom of a large serving dish.",
+    "Top the cake with a layer of whipped cream, followed by a layer of fresh fruit.",
+    "Repeat the layers two more times, ending with a layer of whipped cream on top.",
+    "Dust the top of the trifle with cocoa powder and serve chilled."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 25,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "british",
+    "dessert",
+    "trifle",
+    "custard"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-british-grain-trifle--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T03:36:28.030Z"
+}
