@@ -173,16 +173,15 @@
   },
   {
     "slug": "caramelize-malaysian-oxtail-stir-fry",
-    "title": "Caramelize Malaysian Oxtail Stir-fry",
+    "title": "Crispy Oxtail with Malaysian Caramel Sauce",
     "tags": [
       "malaysian",
-      "oxtail",
-      "caramelized",
-      "kid-friendly",
-      "diabetic-friendly"
+      "beef",
+      "caramel",
+      "stir-fry"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 45,
     "shard": "c"
   },
   {
@@ -1926,16 +1925,15 @@
   },
   {
     "slug": "charred-croatian-meat-bake",
-    "title": "Charred Croatian Meat Bake",
+    "title": "Croatian Meat Bake",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "low-carb",
-      "one-pan",
-      "weeknight"
+      "croatian",
+      "meat",
+      "bake",
+      "comfort-food"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 135,
+    "cuisine": "croatian",
+    "totalTimeMin": 35,
     "shard": "c"
   },
   {
@@ -2739,16 +2737,15 @@
   },
   {
     "slug": "charred-light-cornish-candy-wrap",
-    "title": "charred light Cornish candy Wrap",
+    "title": "Cornish Chicken Wrap",
     "tags": [
-      "british",
-      "cornish",
-      "dessert",
-      "snack",
-      "vegan"
+      "chicken",
+      "wrap",
+      "grilled",
+      "gluten-free"
     ],
     "cuisine": "british",
-    "totalTimeMin": 18,
+    "totalTimeMin": 22,
     "shard": "c"
   },
   {
@@ -10888,15 +10885,13 @@
   },
   {
     "slug": "cooling-and-creamy-thai-papaya-som-tam",
-    "title": "Cooling and Creamy Thai Papaya Som Tam",
+    "title": "Som Tam (Papaya Salad)",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "vegan-friendly",
-      "vegetarian",
-      "weeknight"
+      "thai",
+      "salad",
+      "snack"
     ],
-    "cuisine": "Thai",
+    "cuisine": "thai",
     "totalTimeMin": 20,
     "shard": "c"
   },
@@ -13467,12 +13462,13 @@
   },
   {
     "slug": "creamy-egyptian-claypot-sake-dish",
-    "title": "Creamy Egyptian Claypot Sake Dish",
+    "title": "Egyptian Claypot Chicken",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "vegan-option",
-      "weeknight"
+      "egyptian",
+      "chicken",
+      "claypot",
+      "flavorful",
+      "spicy"
     ],
     "cuisine": "Egyptian",
     "totalTimeMin": 45,
@@ -30726,6 +30722,32 @@
       "gluten-free"
     ],
     "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-citrus-russian-eggplant-fritters--french",
+    "title": "French Eggplant Fritters",
+    "tags": [
+      "french",
+      "eggplant",
+      "fritters",
+      "vegetarian"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 23,
+    "shard": "c"
+  },
+  {
+    "slug": "crunchy-argentinian-beef-empanadas--french",
+    "title": "Beef Empanada Tartine",
+    "tags": [
+      "french",
+      "beef",
+      "empanadas",
+      "tartine"
+    ],
+    "cuisine": "french",
     "totalTimeMin": 25,
     "shard": "c"
   }
