@@ -1,0 +1,72 @@
+{
+  "slug": "charred-german-meat-hash",
+  "title": "German Sausage Hash",
+  "description": "A hearty, comforting dish made with charred German sausage, crispy hash browns, and a blend of spices.",
+  "cuisine": "German",
+  "diet": [
+    "meat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "German sausage",
+      "amount": "1 pound",
+      "notes": "Charred"
+    },
+    {
+      "name": "Hash browns",
+      "amount": "2 cups",
+      "notes": "Diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Chop the onion and sauté it in a pan until translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Slice the charred German sausage and add it to the pan.",
+    "Cook the sausage for a few minutes on each side until lightly browned.",
+    "Add the diced hash browns to the pan and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve the German sausage hash hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "sausages",
+    "hash-browns",
+    "german-cuisine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/charred-german-meat-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T12:10:41.996Z"
+}
