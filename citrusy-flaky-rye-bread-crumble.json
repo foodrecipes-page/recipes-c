@@ -1,0 +1,81 @@
+{
+  "slug": "citrusy-flaky-rye-bread-crumble",
+  "title": "Citrus Crumble Bread",
+  "description": "A refreshing twist on traditional bread, this citrus crumble bread combines the flavors of citrus zest and rye bread with a crunchy crumble topping.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rye bread",
+      "amount": "1 loaf, cubed"
+    },
+    {
+      "name": "orange zest",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "grated lemon peel",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cold butter",
+      "amount": "1/2 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "citrusy crumble topping",
+      "amount": "1 cup",
+      "notes": "see below"
+    },
+    {
+      "name": "eggs",
+      "amount": "1",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, whisk together orange zest, lemon peel, and sugar.",
+    "Add cubed rye bread and toss until bread is evenly coated.",
+    "In a separate bowl, whisk together flour and cold butter until crumbly.",
+    "Add citrusy crumble topping to the bread mixture and toss until combined.",
+    "In a separate bowl, whisk together eggs and beaten eggs.",
+    "Pour egg mixture over the bread mixture and toss until bread is evenly coated.",
+    "Transfer bread mixture to a greased 9x13-inch baking dish.",
+    "Bake for 35-40 minutes or until golden brown.",
+    "Let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "bread",
+    "citrus",
+    "rye"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/citrusy-flaky-rye-bread-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T09:18:21.633Z"
+}
