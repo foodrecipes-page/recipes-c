@@ -1,0 +1,79 @@
+{
+  "slug": "crunchy-argentinian-beef-empanadas--french",
+  "title": "Beef Empanada Tartine",
+  "description": "A French-inspired twist on the traditional Argentine empanada, served as a crispy tartine.",
+  "cuisine": "french",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "500g",
+      "notes": "Ground beef"
+    },
+    {
+      "name": "Empanadas",
+      "amount": "4",
+      "notes": "Argentinian-style empanadas"
+    },
+    {
+      "name": "Crunchy",
+      "amount": "1 baguette, sliced",
+      "notes": "For serving"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Flaky"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Chopped parsley",
+      "amount": "1/4 cup",
+      "notes": "Optional garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Slice the baguette into 1-inch thick rounds.",
+    "Place the baguette slices on a baking sheet and toast in the oven for 5-7 minutes, or until crispy.",
+    "Meanwhile, cook the ground beef in a pan over medium-high heat, breaking it up with a spoon as it cooks.",
+    "Season the beef with salt and black pepper to taste.",
+    "Warm the empanadas according to package instructions.",
+    "To assemble the tartine, place a toasted baguette slice on a plate, top with a warm empanada, and spoon some of the beef mixture over the top.",
+    "Drizzle with butter and sprinkle with chopped parsley if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "beef",
+    "empanadas",
+    "tartine"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crunchy-argentinian-beef-empanadas--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T10:56:58.696Z"
+}
