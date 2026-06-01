@@ -1,0 +1,82 @@
+{
+  "slug": "crisp-sour-lamb-leg",
+  "title": "Lamb Leg with Crisp Topping",
+  "description": "A flavorful lamb leg dish topped with a crunchy, sour topping. Perfect for a weekend dinner.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "leg of lamb",
+      "amount": "1 (1.5-2 kg)"
+    },
+    {
+      "name": "crisp",
+      "amount": "200g"
+    },
+    {
+      "name": "sour cream",
+      "amount": "100g"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "20g"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "Season the lamb leg with salt and black pepper.",
+    "Heat the olive oil in a large oven-safe pan over medium-high heat.",
+    "Sear the lamb leg until browned on all sides, about 2-3 minutes per side.",
+    "Transfer the pan to the preheated oven and roast the lamb for 20 minutes.",
+    "While the lamb is cooking, mix the sour cream, garlic, lemon juice, salt, and black pepper in a bowl.",
+    "Stir in the chopped parsley and crisp.",
+    "After the lamb has cooked for 20 minutes, brush the sour cream mixture evenly over the top.",
+    "Return the pan to the oven and continue cooking for an additional 10-15 minutes, or until the lamb reaches your desired level of doneness.",
+    "Let the lamb rest for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "crunchy",
+    "sour",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crisp-sour-lamb-leg",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T11:46:13.067Z"
+}
