@@ -7525,15 +7525,15 @@
   },
   {
     "slug": "citrusy-flaky-rye-bread-crumble",
-    "title": "Citrusy Flaky Rye Bread Crumble",
+    "title": "Citrus Crumble Bread",
     "tags": [
-      "citrusy",
-      "flaky",
-      "rye bread",
-      "low-fat-friendly"
+      "breakfast",
+      "bread",
+      "citrus",
+      "rye"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 20,
+    "cuisine": "American",
+    "totalTimeMin": 50,
     "shard": "c"
   },
   {
@@ -30687,6 +30687,46 @@
     ],
     "cuisine": "Italian",
     "totalTimeMin": 60,
+    "shard": "c"
+  },
+  {
+    "slug": "crisp-croatian-pork-skewers--chinese",
+    "title": "Croatian Pork Skewers with Crisp",
+    "tags": [
+      "chinese",
+      "grilled",
+      "pork",
+      "skewers"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 30,
+    "shard": "c"
+  },
+  {
+    "slug": "caramelized-sugar-egyptian-crispy-rice-tagine--chinese",
+    "title": "Egyptian Caramelized Rice Tagine",
+    "tags": [
+      "chinese",
+      "dessert",
+      "rice",
+      "sweet"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 40,
+    "shard": "c"
+  },
+  {
+    "slug": "cozy-citrusy-gooey-syrian-chinese-long-beans-stir-fry--thai",
+    "title": "Thai Stir Fry with Crispy Noodles",
+    "tags": [
+      "thai",
+      "stir-fry",
+      "noodles",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
     "shard": "c"
   }
 ]
