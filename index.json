@@ -213,18 +213,15 @@
   },
   {
     "slug": "caramelized-american-bramley-apples-stir-fry",
-    "title": "Caramelized American Bramley Apples Stir-fry",
+    "title": "Autumn Apple Crisp",
     "tags": [
-      "caramelized",
-      "stir-fry",
-      "fermented",
-      "juicy",
-      "adventurous",
-      "american",
-      "whole30-friendly"
+      "autumn",
+      "apple",
+      "crisp",
+      "dessert"
     ],
     "cuisine": "American",
-    "totalTimeMin": 15,
+    "totalTimeMin": 50,
     "shard": "c"
   },
   {
@@ -2360,17 +2357,15 @@
   },
   {
     "slug": "charred-german-meat-hash",
-    "title": "Charred German Meat Hash",
+    "title": "German Sausage Hash",
     "tags": [
-      "german",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "post-workout",
-      "weeknight"
+      "breakfast",
+      "sausages",
+      "hash-browns",
+      "german-cuisine"
     ],
-    "cuisine": "german",
-    "totalTimeMin": 32,
+    "cuisine": "German",
+    "totalTimeMin": 30,
     "shard": "c"
   },
   {
@@ -8636,16 +8631,15 @@
   },
   {
     "slug": "citrusy-silky-american-chicken-stir-fry",
-    "title": "Citrusy Silky American Chicken Stir-fry",
+    "title": "Citrusy Chicken Stir Fry",
     "tags": [
       "citrusy",
-      "silky",
-      "american",
+      "chicken",
       "stir-fry",
-      "low-calorie-friendly"
+      "american-style"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "c"
   },
   {
@@ -17545,14 +17539,14 @@
   },
   {
     "slug": "crisp-sour-lamb-leg",
-    "title": "CrispSourLambLeg",
+    "title": "Lamb Leg with Crisp Topping",
     "tags": [
       "lamb",
-      "grilled",
-      "marinated",
-      "halal"
+      "crunchy",
+      "sour",
+      "middle-eastern"
     ],
-    "cuisine": "French",
+    "cuisine": "Middle Eastern",
     "totalTimeMin": 45,
     "shard": "c"
   },
@@ -22855,16 +22849,16 @@
   },
   {
     "slug": "crispy-roasted-coconut-algerian-skewers",
-    "title": "Crispy Roasted Coconut Algerian Skewers",
+    "title": "Crispy Coconut Shrimp Algerian-Style",
     "tags": [
-      "algerian",
-      "crispy",
       "coconut",
-      "herbal",
-      "skewers"
+      "shrimp",
+      "algerian",
+      "snack",
+      "appetizer"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 60,
+    "cuisine": "North African",
+    "totalTimeMin": 23,
     "shard": "c"
   },
   {
@@ -30749,6 +30743,18 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "charred-light-cornish-candy-wrap--italian",
+    "title": "Pan-Seared Cornish Chicken with Candy Glaze",
+    "tags": [
+      "italian",
+      "chicken",
+      "gluten-free"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 32,
     "shard": "c"
   }
 ]
