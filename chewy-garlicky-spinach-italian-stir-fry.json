@@ -1,0 +1,72 @@
+{
+  "slug": "chewy-garlicky-spinach-italian-stir-fry",
+  "title": "Garlicky Spinach Stir Fry",
+  "description": "A quick and easy vegetarian stir fry made with garlicky flavor and chewy textures.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chewy noodles",
+      "amount": "8 oz",
+      "notes": "any type of noodle works"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "fresh spinach",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    }
+  ],
+  "instructions": [
+    "Cook the chewy noodles according to the package instructions.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the minced garlic and sauté for 1-2 minutes.",
+    "Add the cherry tomatoes and cook for 2-3 minutes.",
+    "Add the chopped spinach and cook until wilted.",
+    "Stir in the italian seasoning.",
+    "Combine the cooked noodles and the stir-fry mixture.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "vegetarian",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/chewy-garlicky-spinach-italian-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T19:06:43.801Z"
+}
