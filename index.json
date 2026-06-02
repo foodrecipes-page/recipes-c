@@ -5193,14 +5193,14 @@
   },
   {
     "slug": "chewy-uruguayan-lamb-stir-fry",
-    "title": "Chewy Uruguayan Lamb Stir-fry",
+    "title": "Uruguayan Lamb Stir Fry",
     "tags": [
-      "lamb-free",
-      "vegan-friendly",
-      "post-workout"
+      "lamb",
+      "uruguayan",
+      "stir-fry"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 30,
+    "totalTimeMin": 20,
     "shard": "c"
   },
   {
@@ -8453,16 +8453,16 @@
   },
   {
     "slug": "citrusy-pillowy-filipino-fenugreek-papillote",
-    "title": "Citrusy Pillowy Filipino Fenugreek Papillote",
+    "title": "Citrus Herb Chicken Papillote",
     "tags": [
-      "breakfast",
+      "gluten-free",
+      "low-carb",
+      "papillote",
       "filipino",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "chicken"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 25,
+    "totalTimeMin": 30,
     "shard": "c"
   },
   {
@@ -8485,16 +8485,15 @@
   },
   {
     "slug": "citrusy-pillowy-ukrainian-monsoon-bisque",
-    "title": "Citrusy Pillowy Ukrainian Monsoon Bisque",
+    "title": "Monsoon Bisque with Citrusy Crostini",
     "tags": [
-      "citrus",
-      "high-protein",
-      "one-pan",
-      "raw-friendly",
-      "weeknight"
+      "bisque",
+      "soup",
+      "ukrainian",
+      "vegetarian"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "c"
   },
   {
@@ -30766,6 +30765,20 @@
     ],
     "cuisine": "Italian",
     "totalTimeMin": 60,
+    "shard": "c"
+  },
+  {
+    "slug": "cozy-chilli-quinoa-bake--italian",
+    "title": "Quinoa and Chilli Bake",
+    "tags": [
+      "italian",
+      "quinoa",
+      "chilli",
+      "bake",
+      "comfort-food"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
     "shard": "c"
   }
 ]
