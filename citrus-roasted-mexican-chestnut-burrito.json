@@ -1,0 +1,81 @@
+{
+  "slug": "citrus-roasted-mexican-chestnut-burrito",
+  "title": "Roasted Citrus and Chestnut Burrito",
+  "description": "A flavorful burrito filled with roasted vegetables, citrus, and chestnuts. Perfect for a quick and easy dinner.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Roasted Chestnuts",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Citrus Juice (Orange, Lime, Lemon)",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Roasted Vegetables (Zucchini, Bell Peppers, Onions)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Mexican Rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Tortilla",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Shredded Cheese",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Salsa",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Cilantro",
+      "amount": "chopped",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roast the chestnuts in the oven for 15-20 minutes, or until tender.",
+    "Roast the vegetables in the oven for 10-15 minutes, or until tender.",
+    "In a pan, heat the citrus juice over medium heat.",
+    "Add the roasted vegetables and chestnuts to the pan, and stir to combine.",
+    "Add the Mexican rice to the pan, and stir to combine.",
+    "Warm the tortilla in the pan for 1-2 minutes, or until pliable.",
+    "Assemble the burrito by adding the filling to the tortilla, and topping with cheese and salsa.",
+    "Serve immediately, garnished with chopped cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "breakfast-for-dinner",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/citrus-roasted-mexican-chestnut-burrito",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T21:48:48.550Z"
+}
