@@ -1,0 +1,81 @@
+{
+  "slug": "chewy-uruguayan-lamb-stir-fry",
+  "title": "Uruguayan Lamb Stir Fry",
+  "description": "A quick and flavorful stir fry recipe from Uruguay, featuring lamb as the main protein.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "250g",
+      "notes": "sirloin or rib, thinly sliced"
+    },
+    {
+      "name": "Chewy",
+      "amount": "100g",
+      "notes": "optional, adds texture"
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tbsp",
+      "notes": "vegetable or canola"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Stir-fry sauce",
+      "amount": "2 tbsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add lamb and cook until browned, about 3-4 minutes.",
+    "Add onion and garlic and cook until the onion is translucent, about 2-3 minutes.",
+    "Add stir-fry sauce and cook for an additional 1-2 minutes.",
+    "Add chewy (if using) and cook for an additional 1-2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "lamb",
+    "uruguayan",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/chewy-uruguayan-lamb-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T17:44:48.860Z"
+}
