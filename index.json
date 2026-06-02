@@ -4346,15 +4346,14 @@
   },
   {
     "slug": "chewy-garlicky-spinach-italian-stir-fry",
-    "title": "Chewy Garlicky Spinach Italian Stir-fry",
+    "title": "Garlicky Spinach Stir Fry",
     "tags": [
-      "sous-vide",
-      "garlicky",
-      "chewy",
-      "romantic"
+      "italian",
+      "vegetarian",
+      "stir-fry"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 18,
     "shard": "c"
   },
   {
@@ -11566,18 +11565,15 @@
   },
   {
     "slug": "cozy-french-strong-wholemeal-flour-quiche",
-    "title": "Cozy French Strong Wholemeal Flour Quiche",
+    "title": "Cozy French Quiche",
     "tags": [
-      "breakfast",
-      "gluten-free",
-      "one-pan",
-      "plant-based",
       "quiche",
-      "vegan",
-      "weeknight"
+      "breakfast",
+      "french",
+      "cozy"
     ],
-    "cuisine": "french",
-    "totalTimeMin": 70,
+    "cuisine": "French",
+    "totalTimeMin": 50,
     "shard": "c"
   },
   {
@@ -30779,6 +30775,19 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 40,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-middle-eastern-shrimp-noodles--mexican",
+    "title": "Shrimp Fajita Noodles",
+    "tags": [
+      "mexican",
+      "seafood",
+      "noodles",
+      "quick-and-easy"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
     "shard": "c"
   }
 ]
