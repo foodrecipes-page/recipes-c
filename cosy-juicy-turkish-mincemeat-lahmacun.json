@@ -1,0 +1,85 @@
+{
+  "slug": "cosy-juicy-turkish-mincemeat-lahmacun",
+  "title": "Turkish-Style Mini Meat Pies (Lahmacun)",
+  "description": "A twist on the classic Turkish dish, these mini meat pies are filled with a flavorful mixture of minced meat and spices, served with a side of crumbled cheese.",
+  "cuisine": "Turkish",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cosy ground beef",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "lahmacun dough",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "mincemeat",
+      "amount": "100g",
+      "notes": "chopped"
+    },
+    {
+      "name": "turkish spices",
+      "amount": "1 tsp",
+      "notes": "mix of paprika, cumin, and oregano"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "Roll out the lahmacun dough to a thickness of 3mm.",
+    "Cut out 12 equal-sized squares from the dough.",
+    "In a pan, cook the chopped onion and minced garlic until softened.",
+    "Add the ground beef, mincemeat, turkish spices, salt, and black pepper to the pan.",
+    "Cook, breaking up the meat with a spoon, until browned.",
+    "Place a spoonful of the meat mixture onto one half of each dough square.",
+    "Fold the other half of the dough over the filling and press the edges to seal.",
+    "Brush the tops with a little water and bake for 15-20 minutes, or until golden brown.",
+    "Serve warm, garnished with crumbled cheese if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "beef",
+    "meat-pies"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/cosy-juicy-turkish-mincemeat-lahmacun",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T21:30:26.225Z"
+}
