@@ -1,0 +1,64 @@
+{
+  "slug": "curejoy-baconlette",
+  "title": "Curejoy's Baconlette Frittata",
+  "description": "A rich and creamy frittata filled with crispy baconlette and perfect for breakfast or brunch.",
+  "cuisine": "Italian",
+  "diet": [
+    "Gluten-free",
+    "Dairy-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Baconlette",
+      "amount": "6 slices"
+    },
+    {
+      "name": "Curejoy's eggs",
+      "amount": "6 eggs"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, cook the baconlette over medium heat until crispy.",
+    "In a large bowl, whisk together the eggs, salt, and pepper.",
+    "Add the cooked baconlette to the bowl and mix well.",
+    "Heat the olive oil in the skillet over medium heat.",
+    "Pour the egg mixture into the skillet and cook until the edges start to set.",
+    "Transfer the skillet to the preheated oven and bake for 12-15 minutes, or until the frittata is set.",
+    "Remove the skillet from the oven and sprinkle with chopped parsley, if using.",
+    "Let the frittata cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "breakfast",
+    "brunch",
+    "eggs",
+    "bacon"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/curejoy-baconlette",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T14:47:54.946Z"
+}
