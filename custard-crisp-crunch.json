@@ -1,0 +1,80 @@
+{
+  "slug": "custard-crisp-crunch",
+  "title": "Crisp Custard Crunch Tart",
+  "description": "A sweet and crunchy dessert featuring a custard filling and a crunchy topping.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Custard",
+      "amount": "250ml"
+    },
+    {
+      "name": "Crisp",
+      "amount": "120g",
+      "notes": "crushed"
+    },
+    {
+      "name": "Crunch",
+      "amount": "80g",
+      "notes": "crushed"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "Sugar",
+      "amount": "50g"
+    },
+    {
+      "name": "Flour",
+      "amount": "20g"
+    },
+    {
+      "name": "Milk",
+      "amount": "120ml"
+    },
+    {
+      "name": "Butter",
+      "amount": "20g",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C.",
+    "Mix custard, sugar, egg, flour, and milk in a bowl.",
+    "Pour the custard mixture into a pre-baked tart shell.",
+    "Bake for 25-30 minutes or until the edges are golden brown.",
+    "Mix crushed crisp and crunch in a bowl.",
+    "Sprinkle the mixture over the baked custard.",
+    "Bake for an additional 5-10 minutes or until the topping is golden brown.",
+    "Remove from the oven and let cool.",
+    "Serve chilled."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "sweet",
+    "tart",
+    "crunchy",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/custard-crisp-crunch",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T22:46:43.192Z"
+}
