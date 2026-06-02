@@ -3580,15 +3580,14 @@
   },
   {
     "slug": "cheese-kimchi-crunchie",
-    "title": "Cheese Kimchi Crunchie",
+    "title": "Kimchi Crunchie Grilled Cheese",
     "tags": [
-      "cheese-kimchi-crunchie",
-      "sour-korean-dish",
-      "crunchy-snack",
-      "diabetic-friendly"
+      "grilled-cheese",
+      "kimchi",
+      "korean"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 20,
+    "totalTimeMin": 9,
     "shard": "c"
   },
   {
@@ -25132,17 +25131,15 @@
   },
   {
     "slug": "crowd-pleaser-irish-miso-marinate-lamb-casserole",
-    "title": "Crowd Pleaser Irish Miso-Marinate Lamb Casserole",
+    "title": "Irish Lamb Miso Casserole",
     "tags": [
-      "comfort-food",
       "irish",
       "lamb",
-      "low-sodium",
-      "one-pan",
-      "weeknight"
+      "casserole",
+      "comfort-food"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 180,
+    "totalTimeMin": 170,
     "shard": "c"
   },
   {
@@ -28788,17 +28785,15 @@
   },
   {
     "slug": "crunchy-middle-eastern-purple-sprouting-broccoli-ouzi",
-    "title": "Crunchy Middle Eastern Purple Sprouting Broccoli Ouzi",
+    "title": "Eastern-Style Broccoli Stir Fry",
     "tags": [
-      "easy",
-      "healthy",
-      "middle-eastern",
-      "raw",
-      "vegan",
-      "vegetarian"
+      "stir-fry",
+      "eastern-cuisine",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 35,
+    "cuisine": "Eastern",
+    "totalTimeMin": 18,
     "shard": "c"
   },
   {
@@ -30788,6 +30783,35 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "citrusy-flaky-rye-bread-crumble--german",
+    "title": "Traditional German Rye Bread Crumble",
+    "tags": [
+      "german",
+      "breakfast",
+      "rye-bread",
+      "crumble",
+      "pastry"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
+    "shard": "c"
+  },
+  {
+    "slug": "creamy-argentinian-potatoes-hash--german",
+    "title": "Argentinian Potato Hash with Creamy Sides",
+    "tags": [
+      "german",
+      "argentinian",
+      "potato",
+      "hash",
+      "creamy",
+      "sides"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
     "shard": "c"
   }
 ]
