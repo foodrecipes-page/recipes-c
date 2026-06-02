@@ -1,0 +1,56 @@
+{
+  "slug": "cheese-kimchi-crunchie",
+  "title": "Kimchi Crunchie Grilled Cheese",
+  "description": "A spicy twist on the classic grilled cheese sandwich, featuring kimchi and crunchy texture from the crunchie.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cheese",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Kimchi",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Crunchie",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill pan or griddle over medium heat.",
+    "Butter one side of two slices of bread.",
+    "Place one slice of bread, butter side down, in the pan.",
+    "Top with a slice of cheese, a spoonful of kimchi, and some crushed crunchie.",
+    "Place the second slice of bread, butter side up, on top.",
+    "Cook for 2-3 minutes or until the bread is golden brown and the cheese is melted.",
+    "Flip the sandwich over and cook for an additional 2-3 minutes or until the other side is also golden brown.",
+    "Serve immediately and enjoy!",
+    "Optional: Add some sliced vegetables, such as cucumbers or bell peppers, for added nutrition and flavor."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 4,
+  "totalTimeMin": 9,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "grilled-cheese",
+    "kimchi",
+    "korean"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/cheese-kimchi-crunchie",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T21:12:41.393Z"
+}
