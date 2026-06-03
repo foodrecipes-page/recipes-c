@@ -1,0 +1,61 @@
+{
+  "slug": "crispy-tangy-spinach-stir-fry",
+  "title": "Spinach Stir Fry",
+  "description": "A simple and quick spinach stir fry recipe that is both healthy and delicious.",
+  "cuisine": null,
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "spinach",
+      "amount": "2 cups, fresh",
+      "notes": ""
+    },
+    {
+      "name": "oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "stir-fry sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium-high heat.",
+    "Add garlic and onion and cook until onion is translucent.",
+    "Add spinach and stir to combine.",
+    "Add stir-fry sauce and cook for 1 minute.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "spinach",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 100,
+    "protein": 5,
+    "carbs": 10,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-tangy-spinach-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T07:00:57.776Z"
+}
