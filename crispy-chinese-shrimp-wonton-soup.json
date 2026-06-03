@@ -1,0 +1,92 @@
+{
+  "slug": "crispy-chinese-shrimp-wonton-soup",
+  "title": "Shrimp Wonton Soup",
+  "description": "A delicious and comforting Chinese soup filled with crispy wontons and succulent shrimp.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "12 large",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Wonton wrappers",
+      "amount": "20-24",
+      "notes": "circular and thin"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying wontons"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for flavor"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "for flavor"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced ginger and minced garlic and stir-fry until fragrant.",
+    "Add the shrimp and cook until pink and just cooked through.",
+    "Remove the shrimp from the skillet and set aside.",
+    "Add the wonton wrappers to the skillet and fry until crispy and golden brown.",
+    "Remove the fried wontons from the skillet and set aside with the shrimp.",
+    "In a large pot, combine the chicken broth, soy sauce, and sesame oil.",
+    "Bring the broth to a boil and then reduce the heat to low.",
+    "Add the cooked shrimp and fried wontons to the pot and simmer for 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve the soup hot, garnished with chopped scallions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "soup",
+    "shrimp",
+    "wonton"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-chinese-shrimp-wonton-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T02:47:20.269Z"
+}
