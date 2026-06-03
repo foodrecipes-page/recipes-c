@@ -5384,16 +5384,15 @@
   },
   {
     "slug": "chilled-korean-lentils-naengmyeon",
-    "title": "Chilled Korean Lentils Naengmyeon",
+    "title": "Bulgogi Lentil Naengmyeon",
     "tags": [
-      "cold-dish",
-      "date-night",
       "korean",
       "lentils",
-      "ovo-vegetarian"
+      "naengmyeon",
+      "cold-noodles"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 40,
+    "totalTimeMin": 30,
     "shard": "c"
   },
   {
@@ -14142,16 +14141,16 @@
   },
   {
     "slug": "creamy-irish-potato-frittata",
-    "title": "Creamy Irish Potato Frittata",
+    "title": "Irish Frittata",
     "tags": [
-      "brunch-recipe",
-      "irish-food",
-      "low-sodium",
-      "one-pan",
-      "potato-recipe"
+      "irish",
+      "breakfast",
+      "brunch",
+      "frittata",
+      "eggs"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "c"
   },
   {
@@ -18554,20 +18553,15 @@
   },
   {
     "slug": "crispy-buttery-norwegian-salmon-stir-fry",
-    "title": "Crispy Buttery Norwegian Salmon Stir-fry",
+    "title": "Pan-Seared Norwegian Salmon",
     "tags": [
-      "norwegian",
       "salmon",
-      "stir-fry",
-      "diabetic-friendly",
-      "buttery",
-      "crispy",
-      "parmigiano",
-      "low-carb",
-      "quick-meal"
+      "norwegian",
+      "seafood",
+      "fish"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 25,
+    "cuisine": "norwegian",
+    "totalTimeMin": 18,
     "shard": "c"
   },
   {
@@ -30827,6 +30821,33 @@
     ],
     "cuisine": "Filipino",
     "totalTimeMin": 35,
+    "shard": "c"
+  },
+  {
+    "slug": "citrusy-light-indulgent-croatian-tofu-stir-fry--indian",
+    "title": "Tofu Vindaloo",
+    "tags": [
+      "indian",
+      "tofu",
+      "curry",
+      "spicy",
+      "vegan"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "c"
+  },
+  {
+    "slug": "charred-crispy-tunisian-kid-friendly-tagine--thai",
+    "title": "Thai-Style Charred Chicken Tagine",
+    "tags": [
+      "thaifood",
+      "chicken",
+      "tagine",
+      "spicy"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
     "shard": "c"
   }
 ]
