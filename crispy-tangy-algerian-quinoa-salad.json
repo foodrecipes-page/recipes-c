@@ -1,0 +1,61 @@
+{
+  "slug": "crispy-tangy-algerian-quinoa-salad",
+  "title": "Crispy Quinoa Salad",
+  "description": "A nutritious and easy-to-make salad with crispy fried onions, quinoa, and a tangy dressing. Perfect for a quick lunch or dinner.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Quinoa",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Algerian Salad",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Crispy Fried Onions",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tangy Dressing",
+      "amount": "2 tbsp",
+      "notes": "Homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "1. Cook quinoa according to package instructions.",
+    "2. In a pan, heat some oil and fry crispy onions until golden brown.",
+    "3. In a large bowl, combine cooked quinoa, Algerian salad, and crispy onions.",
+    "4. In a small bowl, whisk together tangy dressing ingredients.",
+    "5. Pour the dressing over the salad and toss to combine.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quinoa",
+    "salad",
+    "lunch",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-tangy-algerian-quinoa-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T02:01:08.656Z"
+}
