@@ -1,0 +1,60 @@
+{
+  "slug": "crunchy-chinese-potato-stir-fry",
+  "title": "Crispy Stir-Fry Potatoes",
+  "description": "A simple and delicious stir-fry dish made with crispy potatoes and crunchy vegetables.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 large potatoes, peeled and diced"
+    },
+    {
+      "name": "Stir Fry Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Crunchy Vegetables (bell peppers, carrots, onions)",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Soy Sauce (or stir fry sauce)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the stir fry oil in a large skillet or wok over medium-high heat.",
+    "Add the diced potatoes and cook until they start to brown, about 5 minutes.",
+    "Add the sliced crunchy vegetables and cook until they are tender-crisp, about 3-4 minutes.",
+    "In a small bowl, whisk together the soy sauce and a pinch of salt and pepper.",
+    "Pour the soy sauce mixture over the potatoes and vegetables, and stir to coat.",
+    "Cook for an additional 1-2 minutes, until the potatoes are crispy and the vegetables are well coated.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "easy",
+    "potatoes",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crunchy-chinese-potato-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T03:33:28.870Z"
+}
