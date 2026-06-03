@@ -1,0 +1,82 @@
+{
+  "slug": "crispy-creamy-bread-crumble--mexican",
+  "title": "Crunchy Mexican Crumble Bites",
+  "description": "A delicious Mexican-inspired dessert with crispy, creamy, and crunchy textures, perfect for snacking or as a dessert.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Crispy tortilla chips",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "Crumble cheese",
+      "amount": "1/2 cup",
+      "notes": "Mexican blend"
+    },
+    {
+      "name": "Creamy vanilla yogurt",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crushed bread",
+      "amount": "1/2 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a medium bowl, mix together crushed tortilla chips and crumble cheese.",
+    "In a separate bowl, mix together vanilla yogurt, cinnamon, and vanilla extract.",
+    "Add honey to yogurt mixture and mix until combined.",
+    "Spoon a layer of yogurt mixture into small cups or ramekins.",
+    "Top with a layer of tortilla chip mixture.",
+    "Repeat layers one more time, ending with yogurt mixture on top.",
+    "Garnish with crushed bread.",
+    "Cover and refrigerate for at least 30 minutes.",
+    "Serve chilled."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "dessert",
+    "snack",
+    "easy",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-creamy-bread-crumble--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T06:39:01.258Z"
+}
