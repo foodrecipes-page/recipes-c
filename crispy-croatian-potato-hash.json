@@ -1,0 +1,73 @@
+{
+  "slug": "crispy-croatian-potato-hash",
+  "title": "Hash Brown Croquettes",
+  "description": "Crispy croatian croquettes filled with a delicious potato hash.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "Hash browns",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Croatian cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Crispy breadcrumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Peel the potatoes and grate them using a box grater.",
+    "In a bowl, combine the grated potatoes, hash browns, Croatian cheese, eggs, salt, and black pepper.",
+    "Mix everything together until well combined.",
+    "Form the mixture into small patties.",
+    "Dip each patty into the crispy breadcrumbs, coating both sides evenly.",
+    "Heat a non-stick pan with about 1/2 inch of oil over medium heat.",
+    "When the oil is hot, add a few patties to the pan and fry until golden brown on both sides.",
+    "Remove the croquettes from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the hash brown croquettes hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hash-browns",
+    "croatian",
+    "potato",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-croatian-potato-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T07:59:48.182Z"
+}
