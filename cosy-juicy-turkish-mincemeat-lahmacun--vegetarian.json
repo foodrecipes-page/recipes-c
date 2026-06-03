@@ -1,0 +1,78 @@
+{
+  "slug": "cosy-juicy-turkish-mincemeat-lahmacun--vegetarian",
+  "title": "Turkish-Style Stuffed Lahmacun",
+  "description": "A vegetarian twist on the classic Turkish dish, filled with juicy mincemeat and served with a side of cosy vegetables.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Lahmacun dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Mincemeat",
+      "amount": "1 cup",
+      "notes": "crushed juicy tomatoes"
+    },
+    {
+      "name": "Turkish spices",
+      "amount": "1 tsp",
+      "notes": "paprika, cumin, and oregano"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out the lahmacun dough to a thickness of 1/4 inch.",
+    "Spread the minced meat mixture evenly over the dough, leaving a 1-inch border around the edges.",
+    "Sprinkle the Turkish spices, onion, and garlic over the meat mixture.",
+    "Season with salt and black pepper to taste.",
+    "Fold the edges of the dough over the filling, pressing gently to seal.",
+    "Brush the top of the lahmacun with olive oil and bake for 15-20 minutes, or until the crust is golden brown.",
+    "Serve warm, garnished with fresh parsley or mint."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "vegetarian",
+    "breakfast",
+    "lahmacun"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/cosy-juicy-turkish-mincemeat-lahmacun--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T07:10:09.222Z"
+}
