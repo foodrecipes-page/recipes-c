@@ -1,0 +1,75 @@
+{
+  "slug": "creamy-irish-potato-frittata",
+  "title": "Irish Frittata",
+  "description": "A creamy Irish-inspired frittata, perfect for a weekend brunch.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "large potatoes",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "onions",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Irish cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": "divided"
+    },
+    {
+      "name": "eggs",
+      "amount": "6",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, sauté the diced potatoes, chopped onions, and minced garlic in a little bit of oil until tender.",
+    "In a separate bowl, whisk together the beaten eggs, 1/4 cup of heavy cream, and a pinch of salt and pepper.",
+    "Pour the egg mixture over the potatoes and onions in the skillet.",
+    "Transfer the skillet to the preheated oven and bake for 18-20 minutes, or until the eggs are set.",
+    "Remove the skillet from the oven and sprinkle with shredded Irish cheddar cheese.",
+    "Return the skillet to the oven and bake for an additional 2-3 minutes, or until the cheese is melted and bubbly.",
+    "Remove the skillet from the oven and let it cool for a few minutes before slicing and serving.",
+    "Serve warm, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "breakfast",
+    "brunch",
+    "frittata",
+    "eggs"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-irish-potato-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T04:56:41.475Z"
+}
