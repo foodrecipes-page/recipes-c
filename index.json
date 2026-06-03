@@ -17238,15 +17238,15 @@
   },
   {
     "slug": "crisp-layered-french-chicken-drumsticks-vol-au-vent",
-    "title": "Crisp Layered French Chicken Drumsticks Vol-au-Vent",
+    "title": "Crispy Chicken Drumsticks",
     "tags": [
+      "chicken",
+      "snack",
       "french",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "easy"
     ],
-    "cuisine": "French",
-    "totalTimeMin": 60,
+    "cuisine": "french",
+    "totalTimeMin": 40,
     "shard": "c"
   },
   {
@@ -19274,19 +19274,16 @@
   },
   {
     "slug": "crispy-croatian-potato-hash",
-    "title": "Crispy Croatian Potato Hash",
+    "title": "Hash Brown Croquettes",
     "tags": [
+      "hash-browns",
       "croatian",
-      "potato-dish",
-      "post-workout",
-      "crispy",
-      "savory",
-      "quick",
-      "vinegar",
-      "pickles"
+      "potato",
+      "snack",
+      "vegetarian"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 30,
     "shard": "c"
   },
   {
@@ -24340,16 +24337,13 @@
   },
   {
     "slug": "crispy-tangy-spinach-stir-fry",
-    "title": "Crispy Tangy Spinach Stir-fry",
+    "title": "Spinach Stir Fry",
     "tags": [
-      "korean",
       "spinach",
-      "stir-fry",
-      "crispy",
-      "tangy"
+      "stir-fry"
     ],
-    "cuisine": "Korean",
-    "totalTimeMin": 25,
+    "cuisine": null,
+    "totalTimeMin": 10,
     "shard": "c"
   },
   {
@@ -30848,6 +30842,58 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 40,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-creamy-bread-crumble--mexican",
+    "title": "Crunchy Mexican Crumble Bites",
+    "tags": [
+      "mexican",
+      "dessert",
+      "snack",
+      "easy",
+      "gluten-free"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "crisp-resinous-croatian-onion-wrap--french",
+    "title": "Croatian Onion Tartine",
+    "tags": [
+      "french",
+      "breakfast",
+      "open-faced"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 35,
+    "shard": "c"
+  },
+  {
+    "slug": "cosy-juicy-turkish-mincemeat-lahmacun--vegetarian",
+    "title": "Turkish-Style Stuffed Lahmacun",
+    "tags": [
+      "turkish",
+      "vegetarian",
+      "breakfast",
+      "lahmacun"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 35,
+    "shard": "c"
+  },
+  {
+    "slug": "crumbly-dutch-herbs-crumbe--vegan",
+    "title": "Vegan Crumble Bars",
+    "tags": [
+      "vegan",
+      "crumble",
+      "bars",
+      "dessert"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 55,
     "shard": "c"
   }
 ]
