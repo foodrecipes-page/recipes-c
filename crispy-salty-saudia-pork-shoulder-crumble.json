@@ -1,0 +1,65 @@
+{
+  "slug": "crispy-salty-saudia-pork-shoulder-crumble",
+  "title": "Crispy Pork Shoulder Crumble",
+  "description": "A mouthwatering dish that combines the crispiest pork with a delightful crumble topping.",
+  "cuisine": "saudia",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "crispy",
+      "amount": "1 cup",
+      "notes": "crispy breadcrumbs"
+    },
+    {
+      "name": "salty",
+      "amount": "1 teaspoon",
+      "notes": "salt"
+    },
+    {
+      "name": "crumble",
+      "amount": "1 cup",
+      "notes": "crumble topping"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the pork shoulder with salt.",
+    "Heat a large skillet over medium-high heat.",
+    "Sear the pork shoulder until browned on all sides.",
+    "Transfer the pork to a baking dish.",
+    "In a separate bowl, mix crispy breadcrumbs and crumble topping.",
+    "Sprinkle the breadcrumb mixture evenly over the pork shoulder.",
+    "Bake for 20 minutes.",
+    "Increase oven temperature to broil.",
+    "Broil for an additional 2-3 minutes or until the top is golden brown.",
+    "Let the pork rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudia",
+    "pork",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 22,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-salty-saudia-pork-shoulder-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T12:01:13.713Z"
+}
