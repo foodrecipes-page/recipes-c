@@ -1,0 +1,78 @@
+{
+  "slug": "crunchy-minty-peppercorn-stir-fry",
+  "title": "Minty Crunchy Fried Chicken Fingers",
+  "description": "Crispy fried chicken fingers with a refreshing minty twist. Serve with your favorite dipping sauce.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "4",
+      "notes": "cut into finger shapes"
+    },
+    {
+      "name": "Buttermilk",
+      "amount": "2 cups",
+      "notes": "for marinating"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": "for coating"
+    },
+    {
+      "name": "Crunchy peppercorn coating",
+      "amount": "2 cups",
+      "notes": "crushed peppercorns and crunchy garnish"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350°F (180°C).",
+    "In a shallow dish, mix together flour, crushed peppercorns, and crunchy garnish.",
+    "Dip each chicken finger into the buttermilk, coating completely, then roll in the peppercorn coating to coat.",
+    "Place the coated chicken fingers in the hot oil and fry for 5-6 minutes, or until golden brown and cooked through.",
+    "Remove the chicken fingers from the oil with a slotted spoon and place on a paper towel-lined plate to drain excess oil.",
+    "Sprinkle chopped fresh mint leaves over the top of the chicken fingers.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "fried",
+    "minty",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crunchy-minty-peppercorn-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T19:15:15.709Z"
+}
