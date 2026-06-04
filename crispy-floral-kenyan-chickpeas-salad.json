@@ -1,0 +1,59 @@
+{
+  "slug": "crispy-floral-kenyan-chickpeas-salad",
+  "title": "Kenyan Chickpea Salad",
+  "description": "A refreshing and flavorful salad inspired by Kenyan cuisine, perfect for a light lunch or dinner.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chickpeas",
+      "amount": "1 can (15 ounce)",
+      "notes": "Drained and rinsed"
+    },
+    {
+      "name": "Salad",
+      "amount": "4 cups",
+      "notes": "Mixed greens with lettuce, spinach, and arugula"
+    },
+    {
+      "name": "Floral Dressing",
+      "amount": "2 tablespoon",
+      "notes": "Made with olive oil, lemon juice, and honey"
+    },
+    {
+      "name": "Crispy Onions",
+      "amount": "1/4 cup",
+      "notes": "Thinly sliced and fried until crispy"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the salad and chickpeas.",
+    "In a small bowl, whisk together the floral dressing ingredients.",
+    "Pour the dressing over the salad and chickpeas, and toss to combine.",
+    "Sprinkle the crispy onions over the top of the salad.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "kenyan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-floral-kenyan-chickpeas-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T15:13:01.433Z"
+}
