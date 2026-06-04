@@ -1,0 +1,63 @@
+{
+  "slug": "cured-puff-pak",
+  "title": "Crispy Pakora Pastry",
+  "description": "A crispy, savory pastry filled with spiced pakora, perfect as a snack or appetizer.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Puff Pastry",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Pakora Mix",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Chili Powder",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C). Line a baking sheet with parchment paper.",
+    "Roll out the puff pastry to a thickness of 1/8 inch.",
+    "Cut out squares of pastry, about 3 inches per side.",
+    "Place a tablespoon of pakora mix in the center of each square.",
+    "Fold the pastry over the filling, pressing the edges to seal.",
+    "Brush the tops with vegetable oil and sprinkle with salt and chili powder.",
+    "Place the pastries on the prepared baking sheet.",
+    "Bake for 15-20 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pastry",
+    "pakora",
+    "indian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/cured-puff-pak",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T17:02:36.167Z"
+}
