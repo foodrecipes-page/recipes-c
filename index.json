@@ -22356,12 +22356,13 @@
   },
   {
     "slug": "crispy-peppery-chinese-stir-fry",
-    "title": "Crispy Peppery Chinese Stir-fry",
+    "title": "Quick Kung Pao Chicken Stir Fry",
     "tags": [
+      "chinese",
       "stir-fry",
-      "gluten-free",
-      "peppery",
-      "caramelized"
+      "easy",
+      "quick",
+      "weeknight"
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 25,
@@ -30214,16 +30215,14 @@
   },
   {
     "slug": "crystalline-peruvian-soybean-casserole",
-    "title": "Crystalline Peruvian Soybean Casserole",
+    "title": "Crispy Casserole with Soybean Crust",
     "tags": [
-      "bean-casserole",
-      "family-friendly",
-      "flexitarian-friendly",
+      "snack",
       "peruvian",
-      "savory"
+      "crispy"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 15,
     "shard": "c"
   },
   {
@@ -30294,15 +30293,14 @@
   },
   {
     "slug": "cured-puff-pak",
-    "title": "Cured Puff Pak",
+    "title": "Crispy Pakora Pastry",
     "tags": [
-      "cured-pak",
-      "fermented-dish",
-      "chewy-mealprep",
-      "puff-pastry"
+      "pastry",
+      "pakora",
+      "indian"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 35,
+    "cuisine": "indian",
+    "totalTimeMin": 25,
     "shard": "c"
   },
   {
@@ -31021,6 +31019,58 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 35,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-croatian-potato-hash--japanese",
+    "title": "Hash Croquettes",
+    "tags": [
+      "hash",
+      "japanesecuisine",
+      "snack",
+      "potato"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-fermented-dumpling-crumble--french",
+    "title": "French Fermented Dumplings with Crispy Crumble",
+    "tags": [
+      "fermented",
+      "dumplings",
+      "crispy",
+      "crumble",
+      "french"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 32,
+    "shard": "c"
+  },
+  {
+    "slug": "chicken-sweet--indian",
+    "title": "Chicken Tikka Masala",
+    "tags": [
+      "chicken",
+      "indian",
+      "easy",
+      "comfort food"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "c"
+  },
+  {
+    "slug": "chicken-creamy--german",
+    "title": "German Chicken Schnitzel",
+    "tags": [
+      "german",
+      "chicken",
+      "schnitzel"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
     "shard": "c"
   }
 ]
