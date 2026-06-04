@@ -1,0 +1,104 @@
+{
+  "slug": "chewy-uruguayan-rice-noodles--indian",
+  "title": "Uruguayan Rice Noodle Curry",
+  "description": "A flavorful and spicy curry made with uruguayan noodles, rice, and chewy texture. Inspired by the rich cuisine of India.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "uruguayan noodles",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "chewy",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and ginger, sauté until onion is translucent.",
+    "Add cumin, coriander, turmeric, and cayenne pepper, stir for 1 minute.",
+    "Add coconut milk and vegetable broth, bring to a boil.",
+    "Add uruguayan noodles, stir to combine.",
+    "Reduce heat to low, simmer for 15 minutes or until noodles are cooked.",
+    "Add cooked rice, stir to combine.",
+    "If using chewy, stir in at this point.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/chewy-uruguayan-rice-noodles--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T16:20:36.260Z"
+}
