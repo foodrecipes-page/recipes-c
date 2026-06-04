@@ -1,0 +1,75 @@
+{
+  "slug": "creamy-olive-meditteranean-stir-fry",
+  "title": "Greek Feta Chicken",
+  "description": "A simple and flavorful chicken dish with a Mediterranean twist. Serve hot with a side of roasted vegetables.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "stir fry medley",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 block",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken with salt and pepper.",
+    "Heat olive oil in a skillet over medium-high heat.",
+    "Sear the chicken until browned on both sides, about 5 minutes per side.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the chicken is cooked through.",
+    "While the chicken is cooking, heat the stir fry medley in a separate skillet over medium-high heat.",
+    "Crumble the feta cheese into the skillet and stir to combine.",
+    "Serve the chicken hot with the feta and stir fry mixture spooned over the top.",
+    "Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "chicken",
+    "mediterranean",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 4,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-olive-meditteranean-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T08:50:14.179Z"
+}
