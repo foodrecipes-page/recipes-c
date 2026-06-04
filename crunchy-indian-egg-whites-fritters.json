@@ -1,0 +1,69 @@
+{
+  "slug": "crunchy-indian-egg-whites-fritters",
+  "title": "Crunchy Indian Fritter Breakfast",
+  "description": "A crunchy twist on traditional Indian fritters, served as a breakfast dish with a side of egg whites.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Indian fritter mix",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Egg whites",
+      "amount": "2",
+      "notes": "Beaten"
+    },
+    {
+      "name": "Crunchy element (e.g. chopped nuts or seeds)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vegetable oil for frying",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Optional: cilantro or mint for garnish",
+      "amount": "",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "In a bowl, mix together the Indian fritter mix, egg whites, crunchy element, and salt.",
+    "Heat about 1/2 cup of vegetable oil in a deep frying pan over medium heat.",
+    "Once the oil is hot, use a spoon to drop small amounts of the mixture into the oil.",
+    "Fry the fritters until they are golden brown and crispy, about 3-4 minutes on each side.",
+    "Remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the fritters hot with a side of egg whites.",
+    "Optional: garnish with chopped cilantro or mint."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "indian",
+    "fritters",
+    "egg-whites"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crunchy-indian-egg-whites-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T16:41:30.515Z"
+}
