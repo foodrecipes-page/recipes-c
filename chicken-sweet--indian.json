@@ -1,0 +1,99 @@
+{
+  "slug": "chicken-sweet--indian",
+  "title": "Chicken Tikka Masala",
+  "description": "A popular Indian-inspired dish made with marinated chicken in a rich and creamy tomato sauce.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, skinless chicken breast or thighs"
+    },
+    {
+      "name": "sweet potatoes",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garam masala",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "or coconut cream"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. In a large bowl, whisk together garam masala, cumin, coriander, cayenne pepper (if using), salt, and black pepper.",
+    "3. Add the chicken to the bowl and toss to coat with the spice mixture.",
+    "4. Heat oil in a large skillet over medium-high heat.",
+    "5. Add the chicken to the skillet and cook until browned on all sides and cooked through, about 6-8 minutes.",
+    "6. Transfer the chicken to a plate and set aside.",
+    "7. In the same skillet, add the diced sweet potatoes and cook until tender, about 5-7 minutes.",
+    "8. Stir in the tomato puree and bring the mixture to a simmer.",
+    "9. Reduce heat to low and let the sauce simmer while the chicken cooks.",
+    "10. Once the chicken is cooked, add it to the skillet with the sauce and toss to coat.",
+    "11. Reduce heat to low and let the mixture simmer for a few minutes to allow the flavors to meld.",
+    "12. Stir in the heavy cream (or coconut cream) and cook for an additional minute or until heated through."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "indian",
+    "easy",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/chicken-sweet--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T17:22:22.541Z"
+}
