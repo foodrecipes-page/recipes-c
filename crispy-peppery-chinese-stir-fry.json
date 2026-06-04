@@ -1,0 +1,90 @@
+{
+  "slug": "crispy-peppery-chinese-stir-fry",
+  "title": "Quick Kung Pao Chicken Stir Fry",
+  "description": "A classic Chinese dish made with marinated chicken, peanuts, and vegetables in a spicy sauce. Serve over steamed rice for a quick and flavorful meal.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tablespoon",
+      "notes": "to thicken sauce"
+    },
+    {
+      "name": "Cooking oil",
+      "amount": "2 tablespoons",
+      "notes": "peanut or vegetable oil"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a wok or large skillet over medium-high heat.",
+    "Add the chicken and cook until browned, about 5-7 minutes. Remove from the wok and set aside.",
+    "Add the remaining 1 tablespoon of oil to the wok and stir-fry the peanuts, bell pepper, and onion until the vegetables are tender.",
+    "Add the ginger and garlic and stir-fry for 1 minute.",
+    "Add the soy sauce and cornstarch mixture to the wok and stir-fry for 1 minute.",
+    "Return the chicken to the wok and stir-fry until the sauce has thickened and the chicken is cooked through.",
+    "Serve immediately over steamed rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "easy",
+    "quick",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-peppery-chinese-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T17:34:29.786Z"
+}
