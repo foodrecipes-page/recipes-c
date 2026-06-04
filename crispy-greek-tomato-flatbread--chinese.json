@@ -1,0 +1,86 @@
+{
+  "slug": "crispy-greek-tomato-flatbread--chinese",
+  "title": "Crispy Wonton Flatbread",
+  "description": "A crispy twist on traditional flatbread, filled with savory wontons in a Chinese-inspired dish.",
+  "cuisine": "chinese",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Crispy flatbread",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "Wonton wrappers",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the crispy flatbread into small squares.",
+    "In a pan over medium heat, cook the scallions until softened.",
+    "In a separate bowl, mix together soy sauce, sugar, ginger, and garlic.",
+    "Dip each wonton wrapper into the soy sauce mixture and place on the flatbread.",
+    "Bake the flatbread in the oven for 10-12 minutes or until crispy.",
+    "Drizzle tomato sauce over the top of each wonton.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "snack",
+    "wontons",
+    "flatbread"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-greek-tomato-flatbread--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T19:51:11.786Z"
+}
