@@ -1,0 +1,96 @@
+{
+  "slug": "chicken-creamy--german",
+  "title": "German Chicken Schnitzel",
+  "description": "A classic German dish featuring breaded and fried chicken, served with a side of creamy sauce.",
+  "cuisine": "german",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "bread crumbs",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": "for sauce"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "for sauce"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "for sauce"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Prepare the breading station by placing flour in one shallow dish, eggs in another, and bread crumbs in a third.",
+    "Season the chicken breast with salt and pepper.",
+    "Dip the chicken in the flour, coating both sides.",
+    "Dip the floured chicken in the eggs, making sure to coat completely.",
+    "Dip the egg-coated chicken in the bread crumbs, pressing gently to adhere.",
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the breaded chicken to the skillet and cook for 2-3 minutes on each side, or until golden brown and cooked through.",
+    "Transfer the cooked chicken to a plate and cover with foil to keep warm.",
+    "Reduce heat to medium and add the butter to the skillet.",
+    "Once melted, add the heavy cream and lemon juice to the skillet.",
+    "Stir to combine and simmer for 2-3 minutes or until the sauce has thickened slightly.",
+    "Serve the chicken with the creamy sauce spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "chicken",
+    "schnitzel"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 36
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/chicken-creamy--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T17:22:45.632Z"
+}
