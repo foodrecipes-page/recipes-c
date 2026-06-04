@@ -5202,20 +5202,15 @@
   },
   {
     "slug": "chewy-uruguayan-rice-noodles",
-    "title": "Chewy Uruguayan Rice Noodles",
+    "title": "Chewy Uruguayan Rice Bowl",
     "tags": [
       "uruguayan",
-      "rice-noodles",
-      "chewy",
-      "quick-lunch",
-      "high-protein",
-      "vegetarian",
-      "vegan",
-      "pickle",
-      "floral"
+      "rice-bowl",
+      "ground-beef",
+      "easy-dinner"
     ],
-    "cuisine": "uruguayan",
-    "totalTimeMin": 15,
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 35,
     "shard": "c"
   },
   {
@@ -30906,6 +30901,32 @@
       "snack"
     ],
     "cuisine": "argentinian",
+    "totalTimeMin": 40,
+    "shard": "c"
+  },
+  {
+    "slug": "creamy-mexican-ground-beef-tacos--thai",
+    "title": "Beef Tacos with Thai Twist",
+    "tags": [
+      "beef",
+      "thaifusion",
+      "mexican",
+      "groundbeef",
+      "tacos"
+    ],
+    "cuisine": "thaifusion",
+    "totalTimeMin": 30,
+    "shard": "c"
+  },
+  {
+    "slug": "cozy-sweet-sausage--vegetarian",
+    "title": "Sweet Sausage Stuffed Cozy Vegetarian Casserole",
+    "tags": [
+      "winter",
+      "comfort-food",
+      "vegetarian"
+    ],
+    "cuisine": null,
     "totalTimeMin": 40,
     "shard": "c"
   }
