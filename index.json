@@ -22831,16 +22831,14 @@
   },
   {
     "slug": "crispy-roasted-peruvian-chicken-pollo-a-la-brasa",
-    "title": "Crispy Roasted Peruvian Chicken Pollo a la Brasa",
+    "title": "Crispy Roasted Pollo Brasa",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
       "peruvian",
-      "weeknight"
+      "chicken",
+      "latin-american"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 85,
+    "totalTimeMin": 50,
     "shard": "c"
   },
   {
@@ -28778,13 +28776,14 @@
   },
   {
     "slug": "crunchy-minty-peppercorn-stir-fry",
-    "title": "Crunchy Minty Peppercorn Stir-fry",
+    "title": "Minty Crunchy Fried Chicken Fingers",
     "tags": [
-      "crunchy-minty-peppercorn-stir-fry",
-      "peppery",
-      "fodmap-friendly"
+      "chicken",
+      "fried",
+      "minty",
+      "crunchy"
     ],
-    "cuisine": "united-kingdom",
+    "cuisine": "American",
     "totalTimeMin": 25,
     "shard": "c"
   },
@@ -29968,17 +29967,14 @@
   },
   {
     "slug": "crunchy-ukrainian-bread-toast",
-    "title": "Crunchy Ukrainian Bread Toast",
+    "title": "Ukrainian Crunchy Toast",
     "tags": [
-      "ukrainian",
+      "breakfast",
       "snack",
-      "crunchy",
-      "halal",
-      "spicy",
-      "meal-prep"
+      "european"
     ],
     "cuisine": "ukrainian",
-    "totalTimeMin": 7,
+    "totalTimeMin": 17,
     "shard": "c"
   },
   {
@@ -31071,6 +31067,33 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 40,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-tangy-spanish-oranges-soup--french",
+    "title": "French Orange and Crispy Spanish Soup",
+    "tags": [
+      "french",
+      "soup",
+      "orange",
+      "crispy",
+      "spanish"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-funky-midnight-craving-boudin-blanc-wrap--chinese",
+    "title": "Midnight Boudin Wraps",
+    "tags": [
+      "chinese",
+      "breakfast",
+      "wrap",
+      "funky"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 18,
     "shard": "c"
   }
 ]
