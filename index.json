@@ -11962,17 +11962,15 @@
   },
   {
     "slug": "cozy-turkish-scamorza-wrap",
-    "title": "Cozy Turkish Scamorza Wrap",
+    "title": "Turkish-Style Scamorza Wrap",
     "tags": [
-      "breakfast",
-      "high-protein",
-      "keto-friendly",
-      "lunch",
-      "one-pan",
-      "weeknight"
+      "turkish",
+      "cheese",
+      "wrap",
+      "snack"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 20,
+    "totalTimeMin": 15,
     "shard": "c"
   },
   {
@@ -14448,14 +14446,14 @@
   },
   {
     "slug": "creamy-low-fat-noodles",
-    "title": "Creamy Low-Fat Noodles",
+    "title": "Low-Fat Creamy Noodles",
     "tags": [
-      "creamy",
-      "romantic",
-      "chinese"
+      "low-fat",
+      "quick-meal",
+      "comfort-food"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 35,
+    "cuisine": "American",
+    "totalTimeMin": 25,
     "shard": "c"
   },
   {
@@ -15295,17 +15293,15 @@
   },
   {
     "slug": "creamy-saudi-almond-grill",
-    "title": "Creamy Saudi Almond Grill",
+    "title": "Saudi-Style Grilled Almond Chicken",
     "tags": [
-      "creamy",
-      "donabe",
-      "gluten-free",
-      "nutty",
-      "saudi-arabian",
-      "yakimono-grill"
+      "chicken",
+      "grill",
+      "saudi",
+      "almond"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 25,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 40,
     "shard": "c"
   },
   {
@@ -21343,17 +21339,14 @@
   },
   {
     "slug": "crispy-korean-crisp-dates-bowl",
-    "title": "Crispy Korean Crisp Dates Bowl",
+    "title": "Crispy Korean Chicken Bowl",
     "tags": [
       "korean",
-      "dash-friendly",
-      "vegan",
-      "crispy",
-      "sweet",
-      "dinner"
+      "chicken",
+      "bowl"
     ],
-    "cuisine": "korean",
-    "totalTimeMin": null,
+    "cuisine": "Korean",
+    "totalTimeMin": 45,
     "shard": "c"
   },
   {
@@ -31094,6 +31087,32 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 18,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-midnight-craving-turkish-dates-stir-fry--chinese",
+    "title": "Stir Fry with Crispy Turkish Delight",
+    "tags": [
+      "chinese-cuisine",
+      "stir-fry",
+      "dates",
+      "turkish-delight"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-greek-tomato-flatbread--chinese",
+    "title": "Crispy Wonton Flatbread",
+    "tags": [
+      "chinese",
+      "snack",
+      "wontons",
+      "flatbread"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 22,
     "shard": "c"
   }
 ]
