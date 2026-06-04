@@ -1,0 +1,68 @@
+{
+  "slug": "crunchy-jamaican-tomato-stir-fry",
+  "title": "Jamaican Stir Fry",
+  "description": "A fusion of Jamaican and Asian flavors in a quick and easy stir fry. Best served with rice or noodles.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jamaican allspice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "stir fry sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "crunchy peanut butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium-high heat.",
+    "Add diced onion and cook until translucent.",
+    "Add sliced bell pepper and cook for 2 minutes.",
+    "Add diced tomato and stir fry sauce. Cook for 2 minutes.",
+    "Stir in Jamaican allspice and crunchy peanut butter.",
+    "Cook for an additional 1-2 minutes until heated through.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "jamaican",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crunchy-jamaican-tomato-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T09:49:25.163Z"
+}
