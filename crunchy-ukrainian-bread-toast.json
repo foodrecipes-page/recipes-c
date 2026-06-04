@@ -1,0 +1,54 @@
+{
+  "slug": "crunchy-ukrainian-bread-toast",
+  "title": "Ukrainian Crunchy Toast",
+  "description": "A simple recipe to make crunchy Ukrainian toast. Perfect for a light snack.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "bread",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "crunchy",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ukrainian",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Slice the bread into 1-inch thick slices.",
+    "Place the bread slices on a baking sheet.",
+    "Sprinkle the crunchy topping over the bread.",
+    "Bake in the preheated oven for 10-12 minutes or until golden brown.",
+    "Remove from the oven and let cool for a few minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "snack",
+    "european"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crunchy-ukrainian-bread-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T19:12:04.775Z"
+}
