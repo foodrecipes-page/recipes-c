@@ -1,0 +1,68 @@
+{
+  "slug": "crispy-croatian-potato-hash--japanese",
+  "title": "Hash Croquettes",
+  "description": "A Japanese dish featuring crispy hash croquettes made with a mix of potato and hash browns, perfect as a snack or appetizer.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "hash browns",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "potato",
+      "amount": "1/2 cup, grated"
+    },
+    {
+      "name": "croatian paprika",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "crispy tempura flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the shredded hash browns, grated potato, and chopped paprika.",
+    "2. Add the crispy tempura flour to the bowl and mix until just combined.",
+    "3. Gradually add the water to the bowl, stirring until the mixture forms a cohesive dough.",
+    "4. Divide the dough into 8 equal pieces and shape each piece into a small sphere.",
+    "5. Heat about 2 inches of oil in a deep frying pan over medium-high heat.",
+    "6. When the oil is hot, add the hash croquettes to the pan and fry until golden brown, about 3-4 minutes.",
+    "7. Remove the croquettes from the oil with a slotted spoon and drain on paper towels.",
+    "8. If desired, serve the croquettes with a dipping sauce made from soy sauce and water."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hash",
+    "japanesecuisine",
+    "snack",
+    "potato"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-croatian-potato-hash--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T16:47:31.868Z"
+}
