@@ -15876,18 +15876,16 @@
   },
   {
     "slug": "creamy-sweet-vietnamese-salmon-soup",
-    "title": "Creamy Sweet Vietnamese Salmon Soup",
+    "title": "Vietnamese Salmon Soup",
     "tags": [
-      "diabetic-friendly",
-      "sous-vide",
-      "creamy",
-      "sweet",
-      "romantic",
-      "Vietnamese",
-      "low-carb"
+      "vietnamese",
+      "salmon",
+      "soup",
+      "fish",
+      "lunch"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 55,
+    "cuisine": "vietnamese",
+    "totalTimeMin": 35,
     "shard": "c"
   },
   {
@@ -18272,15 +18270,16 @@
   },
   {
     "slug": "crispy-bitter-beef-cutlet",
-    "title": "Crispy Bitter Beef Cutlet",
+    "title": "Pan-Seared Beef Cutlet with Bitter Greens",
     "tags": [
+      "italian",
       "beef",
-      "cubed",
-      "crispy",
-      "bitter"
+      "cutlet",
+      "pan-seared",
+      "bitter-greens"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 35,
+    "cuisine": "italian",
+    "totalTimeMin": 30,
     "shard": "c"
   },
   {
@@ -20010,19 +20009,14 @@
   },
   {
     "slug": "crispy-floral-kenyan-chickpeas-salad",
-    "title": "Crispy Floral Kenyan Chickpeas Salad",
+    "title": "Kenyan Chickpea Salad",
     "tags": [
-      "floral",
-      "chickpeas",
-      "kenyan",
       "salad",
-      "tandoori",
-      "diabetic-friendly",
-      "crunchy",
-      "light"
+      "kenyan",
+      "vegetarian"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 30,
+    "cuisine": "kenyan",
+    "totalTimeMin": 15,
     "shard": "c"
   },
   {
@@ -20206,17 +20200,14 @@
   },
   {
     "slug": "crispy-funky-midnight-craving-boudin-blanc-wrap",
-    "title": "Crispy Funky Midnight-Craving Boudin-Blanc Wrap",
+    "title": "Wrap of Midnight Boudin",
     "tags": [
-      "ayurvedic-sattvic-friendly",
-      "boudin-blanc",
-      "funky",
-      "midnight-craving",
-      "uruguayan",
-      "yuzu-cure"
+      "midnight",
+      "boudin",
+      "wrap"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 75,
+    "cuisine": "French",
+    "totalTimeMin": 25,
     "shard": "c"
   },
   {
@@ -30928,6 +30919,47 @@
     ],
     "cuisine": null,
     "totalTimeMin": 40,
+    "shard": "c"
+  },
+  {
+    "slug": "chilled-korean-lentils-naengmyeon--chinese",
+    "title": "Lentil Naengmyeon Stir Fry",
+    "tags": [
+      "chinese",
+      "korean",
+      "lentil",
+      "naengmyeon",
+      "stir-fry"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 23,
+    "shard": "c"
+  },
+  {
+    "slug": "crunchy-jamaican-tomato-stir-fry--mexican",
+    "title": "Jamaican Crunchy Beef Tacos",
+    "tags": [
+      "mexican",
+      "beef",
+      "tacos",
+      "jamaican"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "curejoy-baconlette--japanese",
+    "title": "Japanese-Style Baconlette Tonkatsu",
+    "tags": [
+      "japanese",
+      "tonkatsu",
+      "baconlette",
+      "breaded",
+      "crispy"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 23,
     "shard": "c"
   }
 ]
