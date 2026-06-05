@@ -1,0 +1,70 @@
+{
+  "slug": "crisp-indian-fromage-frais-rasam",
+  "title": "Crisp Rasam Soup",
+  "description": "A flavorful Indian-inspired soup with a crunchy twist. Perfect for a light and refreshing lunch.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "crisp",
+      "amount": "2 cups",
+      "notes": "any type of crisp will work"
+    },
+    {
+      "name": "frais",
+      "amount": "2 cups",
+      "notes": "such as cherry tomatoes or cucumber"
+    },
+    {
+      "name": "rasam",
+      "amount": "2 cups",
+      "notes": "store-bought or homemade rasam paste"
+    },
+    {
+      "name": "fromage",
+      "amount": "1 cup",
+      "notes": "shredded or crumbled cheese"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the crisp and sauté until crispy, about 3-4 minutes.",
+    "Add the frais and sauté for another 2-3 minutes.",
+    "Add the rasam paste and stir well to combine.",
+    "Pour in 4 cups of water and bring the mixture to a boil.",
+    "Reduce heat and simmer for 10-15 minutes.",
+    "Stir in the fromage until melted and combined.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with additional crisp if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "soup",
+    "indian",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crisp-indian-fromage-frais-rasam",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T09:13:16.888Z"
+}
