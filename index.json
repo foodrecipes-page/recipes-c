@@ -3567,15 +3567,14 @@
   },
   {
     "slug": "cheese-delight",
-    "title": "Cheese Delight",
+    "title": "Cheesy Delight Casserole",
     "tags": [
-      "u201ccheese-delight",
-      "krasivyy-kosher-cheese",
-      "crumbly-ukrainian-cheese",
-      "romantic-dessert"
+      "casserole",
+      "cheese",
+      "vegetarian"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 45,
+    "cuisine": "American",
+    "totalTimeMin": 35,
     "shard": "c"
   },
   {
@@ -5449,16 +5448,15 @@
   },
   {
     "slug": "chillilicious-cozy-med",
-    "title": "Chillilicious Cozy Med",
+    "title": "Chillilicious Med Meatballs",
     "tags": [
-      "quinoa",
-      "sweetcorn",
-      "avocado",
-      "bhuna-spices",
-      "cozy-dinner"
+      "mediterranean",
+      "meatballs",
+      "dinner",
+      "gluten-free"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 15,
+    "totalTimeMin": 35,
     "shard": "c"
   },
   {
@@ -31197,6 +31195,74 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 50,
+    "shard": "c"
+  },
+  {
+    "slug": "chewy-zesty-brazilian-semolina-casserole--japanese",
+    "title": "Japanese-Style Semolina Casserole",
+    "tags": [
+      "casserole",
+      "japanese",
+      "italian",
+      "fusion"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "c"
+  },
+  {
+    "slug": "cozy-sweet-sausage--japanese",
+    "title": "Cozy Japanese Sausage Skewers",
+    "tags": [
+      "japanese",
+      "grilled",
+      "skewers",
+      "sausage",
+      "cozy"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-chinese-shrimp-wonton-soup--french",
+    "title": "Crispy Wonton Shrimp Soup",
+    "tags": [
+      "soup",
+      "shrimp",
+      "wonton",
+      "french",
+      "seafood"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "creamy-irish-almonds-parfait--italian",
+    "title": "Italian Creamy Irish Parfait",
+    "tags": [
+      "italian",
+      "dessert",
+      "easy",
+      "yogurt",
+      "parfait"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 15,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-tangy-spinach-stir-fry--japanese",
+    "title": "Japanese Stir Fry with Spinach",
+    "tags": [
+      "japanese",
+      "vegetarian",
+      "stir-fry",
+      "spinach"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 10,
     "shard": "c"
   }
 ]
