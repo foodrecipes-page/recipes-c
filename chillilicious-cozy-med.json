@@ -1,0 +1,88 @@
+{
+  "slug": "chillilicious-cozy-med",
+  "title": "Chillilicious Med Meatballs",
+  "description": "A hearty and flavorful mediterranean-inspired dish, perfect for a quick dinner. The combination of ground meat and chillilicious spices creates a savory and slightly spicy flavor.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Meat",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Chillilicious",
+      "amount": "2 teaspoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Med",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Eggs",
+      "amount": "1",
+      "notes": "large eggs"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "medium onion, finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": "canned"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "for baking"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, combine ground meat, chillilicious, med, breadcrumbs, eggs, onion, garlic, and tomato paste. Mix well with your hands until just combined.",
+    "Use your hands to shape the mixture into meatballs, about 1 1/2 inches (3.8 cm) in diameter. Place on a baking sheet lined with parchment paper.",
+    "Drizzle with olive oil and gently roll the meatballs to coat evenly.",
+    "Bake for 18-20 minutes, or until cooked through.",
+    "Serve hot with your favorite sauce or salad.",
+    "Note: You can also fry the meatballs in a skillet with a little oil until browned on all sides, then finish baking in the oven."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "meatballs",
+    "dinner",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/chillilicious-cozy-med",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T23:42:59.464Z"
+}
