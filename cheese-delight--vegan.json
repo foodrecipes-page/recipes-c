@@ -1,0 +1,70 @@
+{
+  "slug": "cheese-delight--vegan",
+  "title": "Vegan Delight Cheese Fritters",
+  "description": "A crispy and savory fritter recipe made with a delightful vegan cheese alternative and served as a snack.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "delight",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "herbs",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 375°F (190°C).",
+    "In a large bowl, combine the delight, flour, water, salt, and herbs. Mix until smooth.",
+    "Using a spoon, drop small amounts of the mixture into the hot oil.",
+    "Fry the fritters for 2-3 minutes on each side, or until golden brown.",
+    "Remove the fritters from the oil and place them on paper towels to drain excess oil.",
+    "Serve the fritters warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "snack",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/cheese-delight--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T01:22:33.653Z"
+}
