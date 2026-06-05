@@ -1,0 +1,69 @@
+{
+  "slug": "crumbly-ethiopian-nut-crumble",
+  "title": "Ethiopian Nut Crumble",
+  "description": "A sweet and crunchy Ethiopian-inspired dessert made with ground nuts and a crumbly topping. Perfect for warm weather.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ground almonds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "crumbly oats",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "ground cardamom",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a medium bowl, whisk together ground almonds, brown sugar, ground cinnamon, and ground cardamom.",
+    "In a separate bowl, mix crumbly oats and melted butter until well combined.",
+    "Add the crumbly oat mixture to the almond mixture and stir until a crumbly dough forms.",
+    "Press the dough into a 9-inch (23cm) round baking dish.",
+    "Bake for 25-30 minutes or until lightly golden brown.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Cut into wedges and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "ethiopian",
+    "dessert",
+    "nuts",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crumbly-ethiopian-nut-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T20:44:44.328Z"
+}
