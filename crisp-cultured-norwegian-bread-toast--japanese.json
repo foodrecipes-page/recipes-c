@@ -1,0 +1,56 @@
+{
+  "slug": "crisp-cultured-norwegian-bread-toast--japanese",
+  "title": "Japanese-Style Toasted Crisp",
+  "description": "A simple and satisfying Japanese-inspired snack made with toasted crisp, norwegian cheese and cultured bread.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Crisp",
+      "amount": "1 package",
+      "notes": "any flavor"
+    },
+    {
+      "name": "Norwegian cheese",
+      "amount": "1/4 cup, shredded",
+      "notes": "any variety"
+    },
+    {
+      "name": "Cultured bread",
+      "amount": "4 slices",
+      "notes": "toasted"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (180°C).",
+    "Cut the cultured bread into thick slices and toast until lightly browned.",
+    "Place the toasted bread on a baking sheet.",
+    "Sprinkle the norwegian cheese over the bread.",
+    "Place the crisp on top of the cheese.",
+    "Bake in the oven for 5-7 minutes or until the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for a minute or two.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "japanesecuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crisp-cultured-norwegian-bread-toast--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T06:34:57.827Z"
+}
