@@ -25479,16 +25479,15 @@
   },
   {
     "slug": "crumbly-ethiopian-nut-crumble",
-    "title": "Crumbly Ethiopian Nut Crumble",
+    "title": "Ethiopian Nut Crumble",
     "tags": [
-      "crumbly",
-      "nutty",
-      "solo-dinner",
       "ethiopian",
-      "canola-oil"
+      "dessert",
+      "nuts",
+      "crumble"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "c"
   },
   {
@@ -31113,6 +31112,83 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 22,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-buttery-norwegian-salmon-stir-fry--chinese",
+    "title": "Pan-Seared Norwegian Salmon with Stir Fry Veggies",
+    "tags": [
+      "chinese",
+      "seafood",
+      "quick-dinner",
+      "pan-seared"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 18,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-chinese-shrimp-wonton-soup--german",
+    "title": "German Shrimp and Wonton Soup",
+    "tags": [
+      "german",
+      "soup",
+      "shrimp",
+      "wonton"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
+    "shard": "c"
+  },
+  {
+    "slug": "creamy-saudi-almond-grill--german",
+    "title": "Grilled Sausage with Almond Sauce",
+    "tags": [
+      "german",
+      "grill",
+      "sausage",
+      "almond"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 30,
+    "shard": "c"
+  },
+  {
+    "slug": "creamy-saudi-almond-grill--indian",
+    "title": "Creamy Almond Chicken Tikka",
+    "tags": [
+      "indian",
+      "chicken",
+      "creamy",
+      "almond"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "c"
+  },
+  {
+    "slug": "creamy-saudi-almond-grill--vegan",
+    "title": "Vegan Creamy Saudi-Style Almond Grill",
+    "tags": [
+      "vegan",
+      "saudi",
+      "almond"
+    ],
+    "cuisine": "Saudi",
+    "totalTimeMin": 22,
+    "shard": "c"
+  },
+  {
+    "slug": "creamy-saudi-almond-grill--japanese",
+    "title": "Saudi-Style Almond Chicken Yakitori",
+    "tags": [
+      "japanese",
+      "chicken",
+      "grilled",
+      "almond"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 30,
     "shard": "c"
   }
 ]
