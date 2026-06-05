@@ -1,0 +1,81 @@
+{
+  "slug": "cozy-sweet-sausage--japanese",
+  "title": "Cozy Japanese Sausage Skewers",
+  "description": "A simple and delicious Japanese-inspired dish featuring sweet sausage and vegetables, perfect for a cozy night in.",
+  "cuisine": "japanese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sausage",
+      "amount": "1 pound",
+      "notes": "Sweet Japanese-style sausage"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "Sliced into 1/4-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "Sliced into 1-inch pieces"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "Optional"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "For brushing skewers"
+    },
+    {
+      "name": "cozy",
+      "amount": "1 cup",
+      "notes": "For serving (optional)"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Thread sausage, zucchini, onion, and bell pepper onto skewers.",
+    "3. Brush skewers with sesame oil and season with salt and pepper.",
+    "4. Grill skewers for 8-10 minutes, turning occasionally, until sausage is cooked through.",
+    "5. If desired, brush with soy sauce and honey during the last minute of grilling.",
+    "6. Serve skewers hot, garnished with sesame seeds and sliced green onions if desired.",
+    "7. Serve with cozy on the side, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "grilled",
+    "skewers",
+    "sausage",
+    "cozy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/cozy-sweet-sausage--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T23:54:04.131Z"
+}
