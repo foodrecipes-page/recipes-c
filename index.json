@@ -5271,17 +5271,15 @@
   },
   {
     "slug": "chewy-zesty-brazilian-semolina-casserole",
-    "title": "Chewy Zesty Brazilian Semolina Casserole",
+    "title": "Brazilian Semolina Casserole",
     "tags": [
-      "brunch",
-      "chewy",
-      "one-pan",
-      "peppery",
+      "dessert",
+      "brazilian",
       "semolina",
-      "whole30-friendly"
+      "casserole"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "c"
   },
   {
@@ -6829,14 +6827,15 @@
   },
   {
     "slug": "citrusy-crumbly-zanzibari-dates-crumbe",
-    "title": "Citrusy Crumbly Zanzibari Dates Crumbe",
+    "title": "Crumbly Citrus Zanzibari Crumble",
     "tags": [
-      "zanzibari",
-      "dates",
-      "crumbe"
+      "dessert",
+      "crumble",
+      "citrus",
+      "dates"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 40,
+    "totalTimeMin": 55,
     "shard": "c"
   },
   {
@@ -22108,19 +22107,15 @@
   },
   {
     "slug": "crispy-moroccan-chickpea-flatbread",
-    "title": "Crispy Moroccan Chickpea Flatbread",
+    "title": "Spicy Moroccan Chickpea Flatbread",
     "tags": [
-      "savory",
-      "crunchy",
-      "high-protein",
-      "chickpea",
-      "flatbread",
-      "moroccan",
-      "chinese-five-spice",
-      "vegan"
+      "north-african",
+      "vegetarian",
+      "gluten-free",
+      "snack"
     ],
-    "cuisine": "Moroccan",
-    "totalTimeMin": 38,
+    "cuisine": "North African",
+    "totalTimeMin": 15,
     "shard": "c"
   },
   {
@@ -31189,6 +31184,19 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 30,
+    "shard": "c"
+  },
+  {
+    "slug": "chewy-zesty-brazilian-semolina-casserole--thai",
+    "title": "Thai Chewy Cake",
+    "tags": [
+      "dessert",
+      "thai",
+      "semolina",
+      "chewy"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 50,
     "shard": "c"
   }
 ]
