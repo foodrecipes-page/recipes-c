@@ -17148,14 +17148,15 @@
   },
   {
     "slug": "crisp-indian-fromage-frais-rasam",
-    "title": "Crisp Indian Fromage Frais Rasam",
+    "title": "Crisp Rasam Soup",
     "tags": [
-      "crisp-finish",
-      "sick-day-fixer",
-      "sugar-free"
+      "soup",
+      "indian",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 30,
     "shard": "c"
   },
   {
@@ -31334,6 +31335,18 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 10,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-chinese-shrimp-wonton-soup--vegetarian",
+    "title": "Crispy Vegetable Wonton Soup",
+    "tags": [
+      "chinese-cuisine",
+      "vegetarian-dishes",
+      "soup-recipes"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
     "shard": "c"
   }
 ]
