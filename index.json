@@ -4441,13 +4441,11 @@
   },
   {
     "slug": "chewy-irish-rice-biryani",
-    "title": "Chewy Irish Rice Biryani",
+    "title": "Irish Rice Biryani",
     "tags": [
-      "irish",
-      "mussels",
-      "one-pan",
-      "seafood",
-      "weeknight"
+      "irish-cuisine",
+      "chewy-rice",
+      "vegetarian-dish"
     ],
     "cuisine": "Irish",
     "totalTimeMin": 30,
@@ -31512,6 +31510,32 @@
       "gyoza"
     ],
     "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "caramelize-malaysian-oxtail-stir-fry--chinese",
+    "title": "Braised Oxtail in Malaysian-Style Caramelized Sauce",
+    "tags": [
+      "beef",
+      "chinese",
+      "lunch",
+      "slow-cooker"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 180,
+    "shard": "c"
+  },
+  {
+    "slug": "crunchy-fermented-ackee-stir-fry--chinese",
+    "title": "Stir-Fried Ackee with Crunchy Fermentation",
+    "tags": [
+      "chinese",
+      "breakfast",
+      "stir-fry",
+      "ackee"
+    ],
+    "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "c"
   }
