@@ -1,0 +1,67 @@
+{
+  "slug": "crispy-russian-bread-toast--italian",
+  "title": "Italian-Style Crispy Bruschetta",
+  "description": "A classic Italian appetizer or snack featuring crispy bread topped with diced tomatoes, garlic, and basil.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "crispy bread",
+      "amount": "1 loaf",
+      "notes": ""
+    },
+    {
+      "name": "fresh tomatoes",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Slice the crispy bread into 1-inch thick slices.",
+    "3. Place the bread slices on a baking sheet and toast for 5-7 minutes, or until lightly browned.",
+    "4. While the bread is toasting, combine diced tomatoes, garlic, and basil in a bowl.",
+    "5. Once the bread is toasted, let it cool for a minute.",
+    "6. Drizzle olive oil over the toasted bread and top with the tomato mixture.",
+    "7. Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "bruschetta",
+    "appetizer",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-russian-bread-toast--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-03T02:10:45.619Z"
+}
