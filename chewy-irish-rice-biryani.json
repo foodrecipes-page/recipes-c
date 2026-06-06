@@ -1,0 +1,84 @@
+{
+  "slug": "chewy-irish-rice-biryani",
+  "title": "Irish Rice Biryani",
+  "description": "A flavorful twist on traditional biryani, combining the spices of India with the comfort of Irish cuisine. This dish is perfect for a hearty lunch or dinner.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chewy Irish brown rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "biryan masala",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "tomato",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "green chilies",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onions and sauté until browned.",
+    "Add garlic and sauté for a minute.",
+    "Add tomatoes and cook until they start to soften.",
+    "Add biryan masala and stir well.",
+    "Add rice and stir to coat the rice with the spice mixture.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low, cover, and cook for 15-20 minutes or until the rice is cooked.",
+    "Season with salt to taste.",
+    "Serve hot garnished with green chilies."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish-cuisine",
+    "chewy-rice",
+    "vegetarian-dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/chewy-irish-rice-biryani",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T18:21:06.210Z"
+}
