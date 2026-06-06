@@ -1,0 +1,77 @@
+{
+  "slug": "chillilicious-cozy-med--mexican",
+  "title": "Cozy Chicken Fajitas",
+  "description": "A delicious Mexican dish made with marinated chicken, sautéed onions and bell peppers, served with warm flour tortillas.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "cozy",
+      "amount": "2 tablespoons",
+      "notes": "for serving"
+    },
+    {
+      "name": "chillilicious",
+      "amount": "1 teaspoon",
+      "notes": "for marinating"
+    },
+    {
+      "name": "med",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "flour tortillas",
+      "amount": "4-6",
+      "notes": "warm"
+    }
+  ],
+  "instructions": [
+    "Marinate the chicken in the chillilicious, cozy, and med for 30 minutes.",
+    "Heat the med in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through.",
+    "Add the sliced onion and bell pepper to the skillet and cook until tender.",
+    "Warm the flour tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the fajitas by slicing the cooked chicken and adding it to the tortillas, along with the sautéed onion and bell pepper.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "mexican",
+    "fajitas",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/chillilicious-cozy-med--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T12:55:23.517Z"
+}
