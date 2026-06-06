@@ -22928,10 +22928,14 @@
   },
   {
     "slug": "crispy-russian-bread-toast",
-    "title": "Crispy Russian Bread Toast",
-    "tags": [],
+    "title": "Crispy Russian Toast",
+    "tags": [
+      "breakfast",
+      "russian",
+      "bread"
+    ],
     "cuisine": "Russian",
-    "totalTimeMin": null,
+    "totalTimeMin": 15,
     "shard": "c"
   },
   {
@@ -31653,6 +31657,98 @@
     ],
     "cuisine": null,
     "totalTimeMin": 20,
+    "shard": "c"
+  },
+  {
+    "slug": "chewy-ukrainian-poaching-dates--german",
+    "title": "Ukrainian Poached Pears with Chewy German Chocolate",
+    "tags": [
+      "german",
+      "ukrainian",
+      "poaching",
+      "chocolate",
+      "dessert"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-russian-bread-toast--german",
+    "title": "German Crispy Russian Toast",
+    "tags": [
+      "german",
+      "breakfast",
+      "crispy",
+      "russian",
+      "toast"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 20,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-russian-bread-toast--thai",
+    "title": "Thai Crispy Bread Bites",
+    "tags": [
+      "thaicuisine",
+      "snack",
+      "appetizer",
+      "bread"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 20,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-russian-bread-toast--french",
+    "title": "French-Style Toasted Baguette",
+    "tags": [
+      "french",
+      "breakfast",
+      "snack",
+      "bread"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 17,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-russian-bread-toast--mexican",
+    "title": "Russian Toast Crunch",
+    "tags": [
+      "mexican-breakfast",
+      "breakfast-ideas",
+      "appetizer"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 22,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-russian-bread-toast--indian",
+    "title": "Crispy Russian Toast",
+    "tags": [
+      "indian",
+      "breakfast",
+      "snack",
+      "bread"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 20,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-russian-bread-toast--keto",
+    "title": "Crispy Russian Toast",
+    "tags": [
+      "keto",
+      "bread",
+      "russian",
+      "snack"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 30,
     "shard": "c"
   }
 ]
