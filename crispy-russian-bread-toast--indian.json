@@ -1,0 +1,79 @@
+{
+  "slug": "crispy-russian-bread-toast--indian",
+  "title": "Crispy Russian Toast",
+  "description": "A simple Indian-inspired breakfast dish using crispy bread and a Russian twist.",
+  "cuisine": "indian",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Crispy Russian Bread",
+      "amount": "1 loaf",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Cinnamon Powder",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Sugar Powder",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Cardamom Powder",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Ghee or Clarified Butter",
+      "amount": "1 tablespoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan or griddle over medium heat.",
+    "Slice the crispy Russian bread into 1-inch slices.",
+    "Melt 1 tablespoon of butter in the pan and add 1-2 slices of bread.",
+    "Sprinkle cinnamon powder, sugar powder, and cardamom powder (if using) over the bread.",
+    "Drizzle milk over the bread and cook for 2-3 minutes or until golden brown.",
+    "Flip the toast and cook for another 2 minutes or until crispy and golden brown.",
+    "Repeat with remaining bread slices and butter.",
+    "Serve hot with a dollop of ghee or clarified butter on top.",
+    "Garnish with chopped nuts or dried fruit (optional)"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "breakfast",
+    "snack",
+    "bread"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-russian-bread-toast--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-03T02:09:01.965Z"
+}
