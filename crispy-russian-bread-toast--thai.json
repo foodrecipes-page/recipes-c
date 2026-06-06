@@ -1,0 +1,62 @@
+{
+  "slug": "crispy-russian-bread-toast--thai",
+  "title": "Thai Crispy Bread Bites",
+  "description": "A Thai-inspired crispy bread appetizer with a sweet and sour flavor. Perfect for a quick snack or light meal.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bread",
+      "amount": "1 whole loaf (500g)",
+      "notes": ""
+    },
+    {
+      "name": "Crispy Rice",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Russian Dressing",
+      "amount": "250ml",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "50ml",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the bread loaf into 1 cm cubes.",
+    "Heat the vegetable oil in a pan over medium heat.",
+    "Fry the bread cubes until crispy and golden brown. Drain excess oil.",
+    "Mix the crispy rice and Russian dressing in a bowl.",
+    "Add the fried bread cubes to the bowl and toss until well coated.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thaicuisine",
+    "snack",
+    "appetizer",
+    "bread"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-russian-bread-toast--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-03T02:07:57.088Z"
+}
