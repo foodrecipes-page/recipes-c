@@ -1,0 +1,63 @@
+{
+  "slug": "crispy-greek-tomato-flatbread--german",
+  "title": "German Bratwurst Pizza",
+  "description": "A twist on traditional German bratwurst, served on a crispy flatbread with fresh tomato and feta.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bratwurst",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Crispy flatbread",
+      "amount": "2",
+      "notes": "Pre-baked"
+    },
+    {
+      "name": "Fresh tomato",
+      "amount": "2",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Split the flatbread in half.",
+    "Top each half with a Bratwurst and a spoonful of yogurt.",
+    "Add chopped fresh tomato on top.",
+    "Season with salt and pepper to taste.",
+    "Bake for 10-12 minutes or until cheese is melted and crispy.",
+    "Remove from oven and let it rest for 2 minutes.",
+    "Slice into wedges and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "bratwurst",
+    "pizza",
+    "flatbread"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-greek-tomato-flatbread--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T21:06:05.796Z"
+}
