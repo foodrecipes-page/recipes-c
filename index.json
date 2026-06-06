@@ -30231,14 +30231,14 @@
   },
   {
     "slug": "cure-condensed-comfort",
-    "title": "Condensed Comfort Cure",
+    "title": "Cured Condensed Comfort Cake",
     "tags": [
-      "condensed-milk",
-      "cure",
-      "diabetic-friendly"
+      "comfort-food",
+      "dessert",
+      "cured-meat"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 5,
+    "cuisine": null,
+    "totalTimeMin": 55,
     "shard": "c"
   },
   {
@@ -31347,6 +31347,57 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 35,
+    "shard": "c"
+  },
+  {
+    "slug": "cornmeal-crisps-with-pickles--gluten-free",
+    "title": "Gluten-Free Crispy Cornmeal Bites",
+    "tags": [
+      "gluten-free",
+      "snack",
+      "easy-to-make"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-floral-kenyan-chickpeas-salad--keto",
+    "title": "Kenyan Chickpea Salad",
+    "tags": [
+      "keto",
+      "salad",
+      "kenyan",
+      "crispy"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 10,
+    "shard": "c"
+  },
+  {
+    "slug": "crisp-indian-fromage-frais-rasam--chinese",
+    "title": "Crisp Indian-Style Fried Noodles",
+    "tags": [
+      "chinese",
+      "indian",
+      "fried",
+      "noodles"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "citrusy-fish-bites--japanese",
+    "title": "Citrusy Fish Bites",
+    "tags": [
+      "japanese",
+      "fish",
+      "snack",
+      "seafood"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 18,
     "shard": "c"
   }
 ]
