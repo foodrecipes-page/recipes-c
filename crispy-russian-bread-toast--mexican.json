@@ -1,0 +1,55 @@
+{
+  "slug": "crispy-russian-bread-toast--mexican",
+  "title": "Russian Toast Crunch",
+  "description": "A crispy twist on traditional toast, inspired by Russian flavors.",
+  "cuisine": "mexican",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "bread",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "toast",
+      "amount": "8 slices"
+    },
+    {
+      "name": "crispy bacon",
+      "amount": "6 slices"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup, crumbled"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut bread into 1-inch cubes.",
+    "Toss bread cubes in a bowl with crispy bacon.",
+    "Divide the bread mixture among 8 slices of toast.",
+    "Top each slice with feta cheese.",
+    "Bake for 10-12 minutes, or until the cheese is melted and bubbly.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "mexican-breakfast",
+    "breakfast-ideas",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-russian-bread-toast--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-03T02:08:54.403Z"
+}
