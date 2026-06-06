@@ -1,0 +1,67 @@
+{
+  "slug": "crunchy-fermented-ackee-stir-fry--chinese",
+  "title": "Stir-Fried Ackee with Crunchy Fermentation",
+  "description": "A Chinese-inspired dish featuring the unique flavors of ackee, crunchy texture, and fermented notes.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Ackee",
+      "amount": "1 cup",
+      "notes": "Fresh or canned"
+    },
+    {
+      "name": "Crunchy",
+      "amount": "1/4 cup",
+      "notes": "Crunchy fermented vegetables (such as kimchi)"
+    },
+    {
+      "name": "Fermented",
+      "amount": "2 tbsp",
+      "notes": "Soy sauce or fermented bean paste"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tbsp",
+      "notes": "For stir-frying"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "Grated"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add ginger and stir-fry for 1 minute.",
+    "Add ackee and stir-fry until tender.",
+    "Add crunchy fermented vegetables and stir-fry for 2 minutes.",
+    "Add fermented soy sauce or bean paste and stir-fry for an additional minute.",
+    "Season with salt to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "breakfast",
+    "stir-fry",
+    "ackee"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crunchy-fermented-ackee-stir-fry--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T18:42:55.618Z"
+}
