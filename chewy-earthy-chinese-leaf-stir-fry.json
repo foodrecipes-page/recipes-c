@@ -1,0 +1,80 @@
+{
+  "slug": "chewy-earthy-chinese-leaf-stir-fry",
+  "title": "Stir Fry with Leafy Greens",
+  "description": "A simple and nutritious stir fry made with chewy and earthy mushrooms, leafy greens, and a hint of Chinese spice.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "chewy, earthy"
+    },
+    {
+      "name": "Leafy greens",
+      "amount": "2 cups",
+      "notes": "such as spinach or kale"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "or stir-fry sauce"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 tsp",
+      "notes": "optional, for some heat"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced ginger and minced garlic and stir-fry for 1-2 minutes until fragrant.",
+    "Add the mushrooms and cook for 3-4 minutes until they start to release their liquid and brown.",
+    "Add the leafy greens and stir-fry for 2-3 minutes until wilted.",
+    "Add the soy sauce and chili flakes (if using) and stir-fry for another minute.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately over rice or noodles.",
+    "Optional: add some stir-fried tofu for extra protein."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chewy",
+    "earthy",
+    "chinese",
+    "stir",
+    "fry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/chewy-earthy-chinese-leaf-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T23:33:50.642Z"
+}
