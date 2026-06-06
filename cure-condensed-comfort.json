@@ -1,0 +1,80 @@
+{
+  "slug": "cure-condensed-comfort",
+  "title": "Cured Condensed Comfort Cake",
+  "description": "A rich dessert combining the textures of cured meats with the sweetness of comfort food.",
+  "cuisine": null,
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Cured Bacon",
+      "amount": "6 slices",
+      "notes": ""
+    },
+    {
+      "name": "Comforting Cream Cheese",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Condensed Milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 350°F (175°C).",
+    "2. Line a 9-inch (23cm) round cake pan with parchment paper.",
+    "3. In a food processor, finely chop cured bacon.",
+    "4. In a large mixing bowl, beat cream cheese until smooth.",
+    "5. Add condensed milk, granulated sugar, eggs, and vanilla extract to the mixing bowl.",
+    "6. Stir in chopped bacon, flour, and mix until well combined.",
+    "7. Pour batter into prepared cake pan.",
+    "8. Bake for 35-40 minutes or until a toothpick inserted in the center comes out clean.",
+    "9. Remove from oven and let cool completely.",
+    "10. Once cooled, refrigerate for at least 2 hours before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dessert",
+    "cured-meat"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/cure-condensed-comfort",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T11:06:24.043Z"
+}
