@@ -10520,16 +10520,15 @@
   },
   {
     "slug": "comforting-resinous-middle-eastern-dish-tagine",
-    "title": "Comforting Resinous Middle Eastern Tagine",
+    "title": "Middle Eastern Chicken Tagine",
     "tags": [
-      "comfort-food",
-      "easy-to-make",
-      "gluten-free",
-      "one-pan",
-      "vegan"
+      "comforting",
+      "middle eastern",
+      "stew",
+      "chicken"
     ],
-    "cuisine": "middle eastern",
-    "totalTimeMin": 40,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 50,
     "shard": "c"
   },
   {
@@ -31551,6 +31550,58 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 35,
+    "shard": "c"
+  },
+  {
+    "slug": "cured-puff-pak--indian",
+    "title": "Spiced Cured Samosas",
+    "tags": [
+      "indian",
+      "snack",
+      "samosa"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-greek-tomato-flatbread--german",
+    "title": "German Bratwurst Pizza",
+    "tags": [
+      "german",
+      "bratwurst",
+      "pizza",
+      "flatbread"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "chewy-ukrainian-poaching-dates--japanese",
+    "title": "Poached Dates with Chewy Sauce",
+    "tags": [
+      "japanese",
+      "dessert",
+      "poached",
+      "dates"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 30,
+    "shard": "c"
+  },
+  {
+    "slug": "cured-puff-pak--vegetarian",
+    "title": "Vegetarian Puff Pastry Pinwheels",
+    "tags": [
+      "vegetarian",
+      "snack",
+      "indian",
+      "pastry",
+      "pinwheels"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 33,
     "shard": "c"
   }
 ]
