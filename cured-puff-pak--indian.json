@@ -1,0 +1,84 @@
+{
+  "slug": "cured-puff-pak--indian",
+  "title": "Spiced Cured Samosas",
+  "description": "Crispy samosas filled with spiced cured potatoes and peas, perfect for snacking. Serve hot with a side of chutney.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cured potatoes",
+      "amount": "250g",
+      "notes": "preferably leftover"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 pack",
+      "notes": "thawed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "peas",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "oil",
+      "amount": "for frying",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 180°C.",
+    "Peel and dice the cured potatoes.",
+    "Heat oil in a pan over medium heat, add the cumin powder and garam masala, sauté for 1 minute.",
+    "Add the chopped onion and sauté until softened.",
+    "Add the peas and sauté for 2 minutes.",
+    "Mix in the diced potatoes and cook for 2-3 minutes.",
+    "Roll out the puff pastry and cut into desired samosa shape.",
+    "Place a tablespoon of the potato mixture onto the center of the pastry, brush the edges with water and fold the pastry to form a triangle.",
+    "Fry the samosas in batches until golden brown.",
+    "Serve hot with a side of chutney."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "snack",
+    "samosa"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/cured-puff-pak--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T21:05:54.865Z"
+}
