@@ -1,0 +1,53 @@
+{
+  "slug": "crispy-russian-bread-toast",
+  "title": "Crispy Russian Toast",
+  "description": "A simple and delicious breakfast recipe that combines crispy bread with a flavorful Russian twist.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Crispy Bread",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "Russian Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cut the crispy bread into 1-inch thick slices.",
+    "Place the bread slices on a baking sheet.",
+    "Dot the top of each bread slice with Russian butter.",
+    "Sprinkle salt to taste.",
+    "Bake in the preheated oven for 10-12 minutes, or until golden brown.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "russian",
+    "bread"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-russian-bread-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-03T00:38:40.752Z"
+}
