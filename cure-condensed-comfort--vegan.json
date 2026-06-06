@@ -1,0 +1,78 @@
+{
+  "slug": "cure-condensed-comfort--vegan",
+  "title": "Vegan Mac and Cheese",
+  "description": "A comforting vegan macaroni and cheese dish made with a dairy-free cheese sauce.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Macaroni",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Vegan butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Nutritional yeast",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Condensed vegan milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegan cheddar cheese shreds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Comforting spices",
+      "amount": "1 tsp",
+      "notes": "Paprika and garlic powder"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Cook the macaroni according to the package instructions until al dente.",
+    "In a large saucepan, melt the vegan butter over medium heat.",
+    "Add the flour and whisk to combine. Cook for 1-2 minutes.",
+    "Slowly pour in the condensed vegan milk, whisking constantly.",
+    "Bring the mixture to a simmer and cook for 2-3 minutes.",
+    "Remove the saucepan from the heat and stir in the nutritional yeast and comforting spices.",
+    "Add the vegan cheddar cheese shreds and stir until melted and smooth.",
+    "Combine the cooked macaroni and cheese sauce in a baking dish.",
+    "Season with salt and pepper to taste.",
+    "Bake for 20-25 minutes, or until the top is golden brown and the mac and cheese is heated through."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "comfort-food",
+    "mac-and-cheese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/cure-condensed-comfort--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T12:38:21.294Z"
+}
