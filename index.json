@@ -4138,14 +4138,16 @@
   },
   {
     "slug": "chewy-earthy-chinese-leaf-stir-fry",
-    "title": "Chewy Earthy Chinese Leaf Stir-fry",
+    "title": "Stir Fry with Leafy Greens",
     "tags": [
-      "chewy-earthy-dish",
-      "high-protein-friendly",
-      "vegan-chinese"
+      "chewy",
+      "earthy",
+      "chinese",
+      "stir",
+      "fry"
     ],
-    "cuisine": "Chinese-Venezuelan",
-    "totalTimeMin": 30,
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
     "shard": "c"
   },
   {
@@ -31602,6 +31604,55 @@
     ],
     "cuisine": "Indian",
     "totalTimeMin": 33,
+    "shard": "c"
+  },
+  {
+    "slug": "chewy-irish-rice-biryani--mexican",
+    "title": "Mexican Biryani Rice Bowl",
+    "tags": [
+      "mexican",
+      "rice-bowl",
+      "lunch",
+      "vegetarian"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 30,
+    "shard": "c"
+  },
+  {
+    "slug": "chewy-irish-rice-biryani--thai",
+    "title": "Thai-Style Chewy Rice Biryani",
+    "tags": [
+      "thaicuisine",
+      "ricebiryani",
+      "chewy rice"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "c"
+  },
+  {
+    "slug": "chewy-ukrainian-poaching-dates--mexican",
+    "title": "Mexican Poached Dates",
+    "tags": [
+      "mexican-dates",
+      "poached-dates",
+      "sweet-desserts"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "crunchy-chinese-potato-stir-fry--vegan",
+    "title": "Vegan Stir Fry with Crunchy Toppings",
+    "tags": [
+      "vegan-dinner",
+      "stir-fry",
+      "easy-recipes"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 20,
     "shard": "c"
   }
 ]
