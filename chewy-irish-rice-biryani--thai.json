@@ -1,0 +1,89 @@
+{
+  "slug": "chewy-irish-rice-biryani--thai",
+  "title": "Thai-Style Chewy Rice Biryani",
+  "description": "A delicious and flavorful twist on traditional biryani, featuring chewy rice and a blend of Thai spices.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chewy rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "irish",
+      "amount": "1 tablespoon",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 teaspoons",
+      "notes": "for flavor"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "for creaminess"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add onion and garlic, cook until softened.",
+    "Add curry paste and cook for 1 minute.",
+    "Add coconut milk, stir to combine.",
+    "Bring to a simmer, reduce heat to low.",
+    "Add rice, stir to coat with curry sauce.",
+    "Cover and cook for 15-20 minutes, or until rice is tender.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped irish before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaicuisine",
+    "ricebiryani",
+    "chewy rice"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/chewy-irish-rice-biryani--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T23:29:11.920Z"
+}
