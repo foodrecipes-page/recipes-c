@@ -1,0 +1,90 @@
+{
+  "slug": "creamy-spicy-filipino-chicken-stew",
+  "title": "Filipino Chicken Stew",
+  "description": "A hearty and flavorful stew originating from the Philippines, featuring chicken as the main protein. This dish is perfect for a cold winter night.",
+  "cuisine": "Filipino",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound, cut into bite-sized pieces",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": null
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "Canned or homemade"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "Filipino-style"
+    },
+    {
+      "name": "Patis (fish sauce)",
+      "amount": "2 teaspoons",
+      "notes": "Filipino-style"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add the chicken and cook until browned on all sides, about 5-7 minutes.",
+    "Remove the chicken from the pot and set aside.",
+    "Add the onion and garlic to the pot and cook until the onion is translucent, about 3-4 minutes.",
+    "Add the tomato paste and cook for 1 minute, stirring constantly.",
+    "Add the chicken broth, fish sauce, patis, black pepper, and salt. Stir to combine.",
+    "Return the chicken to the pot and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes, or until the chicken is cooked through.",
+    "Season with additional salt and pepper to taste.",
+    "Serve hot over steamed rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "chicken",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-spicy-filipino-chicken-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:08:13.319Z"
+}
