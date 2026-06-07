@@ -1,0 +1,82 @@
+{
+  "slug": "creamy-italian-creamy-pasta",
+  "title": "Creamy Italian Pasta Bake",
+  "description": "A comforting, creamy pasta bake with an Italian twist. Ready in under 30 minutes!",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "penne or fusilli work well"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "creamy sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "grated mozzarella",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": "shaved or grated"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook pasta according to package instructions until al dente. Drain and set aside.",
+    "In a large skillet, heat vegetable oil over medium heat.",
+    "Add chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add minced garlic and cook for an additional minute, until fragrant.",
+    "Stir in creamy sauce and bring to a simmer.",
+    "Add cooked pasta to the skillet and toss with creamy sauce until well combined.",
+    "Transfer pasta mixture to a baking dish and top with shredded mozzarella cheese.",
+    "Sprinkle shaved parmesan cheese on top for added flavor.",
+    "Bake in preheated oven for 10-12 minutes, until cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "pasta",
+    "creamy",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-italian-creamy-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:46:33.620Z"
+}
