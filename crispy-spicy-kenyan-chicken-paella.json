@@ -1,0 +1,85 @@
+{
+  "slug": "crispy-spicy-kenyan-chicken-paella",
+  "title": "Kenyan Spicy Chicken Paella",
+  "description": "A flavorful and spicy twist on traditional paella, featuring chicken and Kenyan spices.",
+  "cuisine": "kenyan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "paella rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "kenyan spice blend",
+      "amount": "2 tablespoons",
+      "notes": "available at most African markets"
+    },
+    {
+      "name": "crispy rice",
+      "amount": "1/2 cup",
+      "notes": "crushed or chopped"
+    },
+    {
+      "name": "spicy tomato sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Add the chicken to the pan and cook until browned, about 5-7 minutes.",
+    "Add the kenyan spice blend and stir to combine.",
+    "Add the paella rice to the pan and stir to combine with the chicken and spices.",
+    "Add the spicy tomato sauce to the pan and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes.",
+    "Sprinkle the crispy rice on top of the paella and cook for an additional 2-3 minutes.",
+    "Remove the pan from the heat and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "spicy",
+    "chicken",
+    "paella"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-spicy-kenyan-chicken-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:24:32.566Z"
+}
