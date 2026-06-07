@@ -1,0 +1,73 @@
+{
+  "slug": "cookie-smoke-bliss",
+  "title": "Blissful Bliss Cookies",
+  "description": "A simple yet delightful cookie recipe made with a touch of bliss.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Cookie",
+      "amount": "1 package (12-15 cookies)",
+      "notes": "Any type will do"
+    },
+    {
+      "name": "Butter",
+      "amount": "1/4 cup",
+      "notes": "Softened"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Line a baking sheet with parchment paper.",
+    "In a large bowl, combine the softened butter and granulated sugar. Mix until light and fluffy.",
+    "Beat in the egg and vanilla extract.",
+    "In a separate bowl, whisk together the flour and a pinch of salt.",
+    "Gradually add the dry ingredients to the wet ingredients and mix until a dough forms.",
+    "Roll the dough into balls and place them on the prepared baking sheet, leaving about 2 inches of space between each cookie.",
+    "Bake for 12-15 minutes or until the edges are lightly golden brown.",
+    "Allow the cookies to cool on the baking sheet for 5 minutes before transferring them to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "cookies",
+    "dessert",
+    "bliss"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/cookie-smoke-bliss",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:18:32.180Z"
+}
