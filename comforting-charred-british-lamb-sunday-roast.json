@@ -1,0 +1,93 @@
+{
+  "slug": "comforting-charred-british-lamb-sunday-roast",
+  "title": "Classic British Sunday Roast",
+  "description": "A hearty, comforting dish featuring a perfectly cooked lamb roast, served with roasted vegetables and gravy.",
+  "cuisine": "British",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb leg roast",
+      "amount": "1.5 kg",
+      "notes": "Bone-in for more flavor"
+    },
+    {
+      "name": "Carrots",
+      "amount": "4-5",
+      "notes": "Peel and chop"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2-3",
+      "notes": "Peel and chop"
+    },
+    {
+      "name": "Onions",
+      "amount": "2",
+      "notes": "Peel and chop"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince"
+    },
+    {
+      "name": "Rosemary",
+      "amount": "2 sprigs",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 sprig",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "For roasting"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 220°C (425°F).",
+    "Season the lamb with salt, black pepper, rosemary, and thyme.",
+    "Heat the olive oil in a large roasting pan over high heat. Sear the lamb until browned on all sides.",
+    "Transfer the lamb to the preheated oven and roast for 20 minutes per kilogram, or until it reaches your desired level of doneness.",
+    "Toss the chopped carrots, potatoes, and onions with a little olive oil, salt, and pepper on a separate baking sheet. Roast in the oven for 30-40 minutes, or until tender.",
+    "Remove the lamb from the oven and let it rest for 10-15 minutes before slicing.",
+    "Serve the lamb with the roasted vegetables and a side of gravy, made by deglazing the roasting pan with a little red wine and beef broth."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "comforting",
+    "main-course",
+    "lamb",
+    "roast"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 80,
+    "fat": 80
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/comforting-charred-british-lamb-sunday-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:37:47.300Z"
+}
