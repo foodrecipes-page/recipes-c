@@ -1,0 +1,83 @@
+{
+  "slug": "chewy-irish-vegetable-shortening-crumble",
+  "title": "Irish Apple Crumble",
+  "description": "A classic dessert featuring tender apples topped with a crunchy oat mixture and baked until golden brown.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "apples",
+      "amount": "6-8",
+      "notes": "any variety, peeled and sliced"
+    },
+    {
+      "name": "shortening",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "oats",
+      "amount": "1 cup",
+      "notes": "rolled"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 cup",
+      "notes": "packed"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": "sifted"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "crumble",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, combine sliced apples, sugar, and cinnamon.",
+    "Transfer apple mixture to a 9x9-inch baking dish.",
+    "In a separate bowl, mix together oats, flour, and crumble.",
+    "Add melted shortening to the oat mixture and stir until crumbly.",
+    "Spread the crumb mixture evenly over the apple filling.",
+    "Bake for 35-40 minutes or until the topping is golden brown and the apples are tender.",
+    "Remove from oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "apple",
+    "oat",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/chewy-irish-vegetable-shortening-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:11:16.965Z"
+}
