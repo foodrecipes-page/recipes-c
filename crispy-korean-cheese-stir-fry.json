@@ -1,0 +1,85 @@
+{
+  "slug": "crispy-korean-cheese-stir-fry",
+  "title": "Korean Cheese Fries",
+  "description": "A spicy and savory twist on classic fries, topped with crispy cheese and a sprinkle of magic.",
+  "cuisine": "korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "preferably korean variety"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1 tsp",
+      "notes": "gochugaru"
+    },
+    {
+      "name": "crispy bacon bits",
+      "amount": "4 slices",
+      "notes": "optional"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "mozzarella or cheddar work well"
+    },
+    {
+      "name": "stir-fry oil",
+      "amount": "2 tbsp",
+      "notes": "such as peanut or vegetable oil"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut potatoes into fry shapes and soak in cold water for at least 30 minutes.",
+    "Drain potatoes and pat dry with paper towels.",
+    "Toss potatoes with 1 tbsp stir-fry oil, salt, and pepper on a baking sheet.",
+    "Bake for 20-25 minutes or until crispy, flipping halfway.",
+    "In a small pan, heat remaining 1 tbsp stir-fry oil over medium heat.",
+    "Add garlic and cook for 1 minute, until fragrant.",
+    "Add korean chili flakes and cook for an additional minute.",
+    "Top baked fries with cheese, crispy bacon bits (if using), and toasted sesame seeds (if using).",
+    "Return to oven and bake for an additional 2-3 minutes, until cheese is melted.",
+    "Garnish with green onions and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean-fries",
+    "spicy-fries",
+    "cheesy-fries"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-korean-cheese-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:59:09.845Z"
+}
