@@ -1,0 +1,55 @@
+{
+  "slug": "cali-kale-pickle",
+  "title": "Cali Kale Salad",
+  "description": "A fresh and crunchy salad featuring cali greens, curly kale, and tangy pickle. Perfect for a quick snack or light lunch.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "salad",
+  "ingredients": [
+    {
+      "name": "Califlower Greens (Cali)",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Curly Kale",
+      "amount": "2 cups",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Dill Pickle Slices",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large salad bowl, combine cali and chopped kale.",
+    "2. In a small bowl, whisk together your favorite salad dressing (e.g. vinaigrette).",
+    "3. Pour the dressing over the salad greens and toss to coat.",
+    "4. Top the salad with pickle slices.",
+    "5. Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 50,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/cali-kale-pickle",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:33:27.041Z"
+}
