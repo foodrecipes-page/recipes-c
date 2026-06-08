@@ -1,0 +1,61 @@
+{
+  "slug": "crunchy-fermented-egyptian-onion-hash",
+  "title": "Egyptian Hash Crusted Crunchy Delight",
+  "description": "A crunchy, flavorful dish made with crispy hash crust, topped with tangy fermented onion, and served with a side of Egyptian love.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "hash",
+      "amount": "1 cup",
+      "notes": "cooled"
+    },
+    {
+      "name": "crunchy",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fermented onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "egyptian",
+      "amount": "2 tbsp",
+      "notes": "spices"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Mix hash, crunchy, and egyptian in a bowl to create the crust.",
+    "Press the crust mixture into a lined baking dish.",
+    "Bake for 20 minutes, or until crispy.",
+    "Top with fermented onion and bake for an additional 5 minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "crunchy",
+    "fermented",
+    "egyptian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crunchy-fermented-egyptian-onion-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:43:58.094Z"
+}
