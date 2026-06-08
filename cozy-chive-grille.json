@@ -1,0 +1,74 @@
+{
+  "slug": "cozy-chive-grille",
+  "title": "Grilled Chive Cozy Fries",
+  "description": "A delicious side dish featuring crispy fries topped with chives and a hint of grilled flavor.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "cozy",
+      "amount": "2 tablespoons",
+      "notes": "for flavor"
+    },
+    {
+      "name": "chive",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "grille",
+      "amount": "1 teaspoon",
+      "notes": "grilled to taste"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep fryer to 350°F (175°C).",
+    "Cut the potatoes into fry shapes. Soak in cold water for at least 30 minutes.",
+    "Drain the potatoes and pat dry with paper towels.",
+    "Fry the potatoes in batches until golden brown, about 3-4 minutes.",
+    "Drain the fries on paper towels.",
+    "Mix the chive and grilled flavor in a bowl.",
+    "Toss the fries in the bowl to coat.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french-fries",
+    "side-dish",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/cozy-chive-grille",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T14:03:13.384Z"
+}
