@@ -1,0 +1,65 @@
+{
+  "slug": "crispy-smoky-greek-feta-toast",
+  "title": "Greek Feta Toast",
+  "description": "A simple yet delicious Greek-inspired toast recipe featuring crispy feta, crunchy texture, and a smoky flavor.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Greek bread",
+      "amount": "1 loaf",
+      "notes": ""
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1 block (crumbly)",
+      "notes": "Crispy"
+    },
+    {
+      "name": "Smoked olive oil",
+      "amount": "2 tbsp",
+      "notes": "Smoky"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Slice the Greek bread into 1-inch thick slices.",
+    "Place the bread slices on a baking sheet.",
+    "Drizzle the smoked olive oil over the bread slices.",
+    "Bake in the oven for 10-12 minutes or until crispy and golden brown.",
+    "Remove the bread from the oven and let it cool for a few minutes.",
+    "Crumble the feta cheese over the toasted bread.",
+    "Sprinkle fresh parsley over the feta cheese.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "feta",
+    "cheese",
+    "toast"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-smoky-greek-feta-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:17:24.413Z"
+}
