@@ -1,0 +1,85 @@
+{
+  "slug": "crispy-german-walnut-curry",
+  "title": "Crunchy German-Style Curry Walnut Chicken",
+  "description": "A flavorful and crunchy chicken dish inspired by German cuisine, with the added spice of curry and crunch of walnuts.",
+  "cuisine": "german",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "4",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "crispy onions",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "german mustard",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken breast with salt, pepper, and curry powder.",
+    "Heat olive oil in a pan over medium heat. Sear the chicken breast until browned on both sides.",
+    "Transfer the chicken to a baking sheet and bake in the oven for 15-20 minutes, or until cooked through.",
+    "While the chicken is cooking, mix the crispy onions and chopped walnuts in a bowl.",
+    "Once the chicken is done, let it rest for a few minutes before slicing.",
+    "Serve the sliced chicken with the onion-walnut mixture on top and a side of german mustard.",
+    "Garnish with additional crispy onions and walnuts, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "curry",
+    "german",
+    "walnuts",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-german-walnut-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:14:26.201Z"
+}
