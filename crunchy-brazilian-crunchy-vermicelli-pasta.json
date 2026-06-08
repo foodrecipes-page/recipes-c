@@ -1,0 +1,58 @@
+{
+  "slug": "crunchy-brazilian-crunchy-vermicelli-pasta",
+  "title": "Brazilian Pasta Salad",
+  "description": "A delicious and easy-to-make pasta salad with a twist of Brazilian flavors. Perfect for a quick lunch or dinner.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Vermicelli",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "Crunchy",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Brazilian",
+      "amount": "2 tbsp",
+      "notes": "available in most grocery stores as a spice blend"
+    },
+    {
+      "name": "Pasta",
+      "amount": "",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Cook the vermicelli according to the package instructions.",
+    "In a large bowl, combine the cooked vermicelli, crunchy, and Brazilian spice blend.",
+    "Mix well and adjust seasoning as needed.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pasta",
+    "salad",
+    "brazilian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crunchy-brazilian-crunchy-vermicelli-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:44:32.193Z"
+}
