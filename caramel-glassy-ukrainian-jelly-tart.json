@@ -1,0 +1,68 @@
+{
+  "slug": "caramel-glassy-ukrainian-jelly-tart",
+  "title": "Caramel Tart",
+  "description": "A classic dessert featuring a buttery pastry crust topped with a rich caramel filling.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "for the pastry crust"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "for the pastry crust"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": "for the pastry crust"
+    },
+    {
+      "name": "caramel",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "for the pastry crust"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Make the pastry crust by combining the flour, sugar, and butter in a bowl until it resembles coarse crumbs.",
+    "Press the mixture into a 9-inch tart pan with a removable bottom.",
+    "Bake the crust for 20-25 minutes, or until golden brown.",
+    "Let the crust cool completely before filling.",
+    "Melt the caramel in a saucepan over low heat, stirring constantly.",
+    "Pour the caramel into the cooled pastry crust.",
+    "Bake the tart for an additional 10-15 minutes, or until the caramel is set.",
+    "Let the tart cool to room temperature before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "caramel",
+    "tart"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/caramel-glassy-ukrainian-jelly-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:56:34.138Z"
+}
