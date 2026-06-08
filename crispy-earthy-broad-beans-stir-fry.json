@@ -1,0 +1,71 @@
+{
+  "slug": "crispy-earthy-broad-beans-stir-fry",
+  "title": "Crispy Stir Fry with Broad Beans",
+  "description": "A simple and delicious stir fry recipe using crispy vegetables and earthy broad beans.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "broad beans",
+      "amount": "250g",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "crispy vegetables",
+      "amount": "100g",
+      "notes": "such as carrots, bell peppers"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the crispy vegetables and stir-fry for 2-3 minutes.",
+    "Add the broad beans and stir-fry for a further 2-3 minutes.",
+    "Add the soy sauce and stir-fry for a final minute.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-earthy-broad-beans-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:25:35.435Z"
+}
