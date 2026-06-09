@@ -1,0 +1,83 @@
+{
+  "slug": "crispy-australian-seafood-jasmine-rice-stir-fry",
+  "title": "Australian Seafood Stir Fry",
+  "description": "A quick and easy stir fry recipe featuring Australian seafood, crispy vegetables, and fragrant jasmine rice.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian prawns",
+      "amount": "1 pound",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Jasmine rice",
+      "amount": "2 cups",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Crispy snow peas",
+      "amount": "1 cup",
+      "notes": "frozen or fresh"
+    },
+    {
+      "name": "Fry sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large skillet or wok over medium-high heat.",
+    "Add garlic and ginger; cook for 1 minute.",
+    "Add prawns; cook until pink, about 2-3 minutes per side.",
+    "Add snow peas and cook until tender, about 2-3 minutes.",
+    "Stir in fry sauce (if using).",
+    "Serve over jasmine rice.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "seafood",
+    "australian",
+    "stir-fry",
+    "jasmine-rice"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-australian-seafood-jasmine-rice-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T20:35:42.080Z"
+}
