@@ -1,0 +1,79 @@
+{
+  "slug": "charred-japanese-taleggio-ramen",
+  "title": "Japanese Taleggio Ramen",
+  "description": "A unique fusion of Japanese and Italian flavors, combining the rich taste of taleggio cheese with the savory elements of ramen. This comforting dish is perfect for a cold evening.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Taleggio cheese",
+      "amount": "3 oz",
+      "notes": "softened"
+    },
+    {
+      "name": "Japanese ramen noodles",
+      "amount": "1 package",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Charred vegetables (e.g., sweet potatoes, carrots, bell peppers)",
+      "amount": "1 cup",
+      "notes": "any combination"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Pickled ginger",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Cook the ramen noodles according to the package instructions.",
+    "In a separate pan, sauté the charred vegetables in a little sesame oil until heated through.",
+    "In a large bowl, combine the cooked noodles, sautéed vegetables, and softened taleggio cheese.",
+    "Add soy sauce to taste, if desired.",
+    "Garnish with chopped green onions and thin slices of pickled ginger.",
+    "Serve immediately and enjoy!",
+    "You can also add other Japanese-inspired toppings, such as grilled chicken or boiled eggs."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "ramen",
+    "japanese",
+    "italian",
+    "fusion",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/charred-japanese-taleggio-ramen",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T06:20:05.633Z"
+}
