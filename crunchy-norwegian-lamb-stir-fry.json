@@ -1,0 +1,79 @@
+{
+  "slug": "crunchy-norwegian-lamb-stir-fry",
+  "title": "Pan-Seared Lamb Kebabs",
+  "description": "A simple lamb dish served with a crunchy side, inspired by Norwegian cuisine.",
+  "cuisine": "Nordic",
+  "diet": [
+    "meat-lovers"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into kebab pieces",
+      "amount": "500g",
+      "notes": "Make sure to pat dry with paper towels before cooking"
+    },
+    {
+      "name": "Norwegian-style stir-fry sauce",
+      "amount": "100ml",
+      "notes": "You can also use store-bought soy sauce as a substitute"
+    },
+    {
+      "name": "Crunchy fried onions",
+      "amount": "1/2 cup",
+      "notes": "You can use store-bought or make your own"
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "1/4 cup",
+      "notes": "Garnish"
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "2",
+      "notes": "Serve on the side"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing the lamb"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "Season the lamb pieces with salt and pepper.",
+    "Heat the olive oil in a large pan over medium-high heat.",
+    "Sear the lamb pieces until browned on all sides, about 2-3 minutes per side.",
+    "Transfer the lamb to a baking sheet and bake for 10-12 minutes.",
+    "Meanwhile, heat the stir-fry sauce in the same pan over medium heat.",
+    "Add the crunchy fried onions and cook until crispy.",
+    "To serve, place the lamb kebabs on a plate, top with the stir-fry sauce mixture, and garnish with parsley.",
+    "Serve with lemon wedges on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kebabs",
+    "norwegian",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crunchy-norwegian-lamb-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T00:19:40.662Z"
+}
