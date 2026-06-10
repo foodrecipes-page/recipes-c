@@ -1,0 +1,63 @@
+{
+  "slug": "crunchy-dutch-chicken-roast",
+  "title": "Crunchy Chicken Roast",
+  "description": "A tasty and crispy chicken roast dinner, perfect for a weeknight meal.",
+  "cuisine": "European",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "roast",
+      "amount": "2",
+      "notes": "mildly seasoned"
+    },
+    {
+      "name": "crunchy",
+      "amount": "1 cup",
+      "notes": "crunchy breadcrumbs"
+    },
+    {
+      "name": "dutch",
+      "amount": "2 tbsp",
+      "notes": "dutch mustard"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the chicken breast with salt and pepper.",
+    "Coat the chicken in the crunchy breadcrumbs.",
+    "Heat the dutch in a pan over medium heat.",
+    "Sear the chicken in the pan until golden brown.",
+    "Transfer the chicken to the oven and roast for 20-25 minutes.",
+    "Let the chicken rest for 5 minutes before slicing.",
+    "Serve the chicken with the roast on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "roast",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crunchy-dutch-chicken-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T07:34:57.863Z"
+}
