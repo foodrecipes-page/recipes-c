@@ -1,0 +1,74 @@
+{
+  "slug": "comforting-american-potatoes-hash",
+  "title": "American-Style Hash Browns",
+  "description": "A comforting and delicious side dish made with shredded potatoes, onions, and bell peppers.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Russet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "1 medium",
+      "notes": "grated"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 large",
+      "notes": "grated"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, combine grated potatoes, onion, and bell pepper.",
+    "Add salt and black pepper to taste, and mix well.",
+    "Heat butter in a large skillet over medium heat.",
+    "Add potato mixture to the skillet and cook for 5-7 minutes, or until the edges start to brown.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the potatoes are golden brown and crispy.",
+    "Remove from oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "hash",
+    "hash-browns",
+    "potatoes",
+    "american",
+    "comforting"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/comforting-american-potatoes-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T11:15:49.041Z"
+}
