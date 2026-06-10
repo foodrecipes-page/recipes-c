@@ -1,0 +1,78 @@
+{
+  "slug": "creamy-fry-egyptian-lentils",
+  "title": "Egyptian Lentil Stew",
+  "description": "A hearty and flavorful stew originating from Egypt. Perfect for a cold day.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "creamy",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "egyptian seasoning",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic, fry until softened.",
+    "Add lentils, tomato, and seasoning. Stir well.",
+    "Add 4 cups of water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20 minutes.",
+    "Stir in creamy (if using).",
+    "Serve hot, garnished with chopped parsley (optional)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lentil-stew",
+    "egyptian-cuisine",
+    "vegan-options"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-fry-egyptian-lentils",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T09:35:17.522Z"
+}
