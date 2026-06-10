@@ -1,0 +1,64 @@
+{
+  "slug": "crumbly-garlicky-wholegrain-bread-crumble",
+  "title": "Garlicky Crumble Bread",
+  "description": "A simple, crunchy bread recipe with a garlicky twist. Crumbly topping adds a delightful texture.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "wholegrain bread",
+      "amount": "1 loaf",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "crumbly topping",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "crumble",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the wholegrain bread into 1-inch cubes.",
+    "In a small bowl, mix minced garlic and crumbly topping.",
+    "In a separate bowl, mix crumble and 1 tablespoon of olive oil.",
+    "Toss the bread cubes with the garlic-crumbly mixture until well coated.",
+    "Sprinkle the crumble mixture on top.",
+    "Bake for 15-20 minutes or until golden brown.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "bread",
+    "crumbly",
+    "garlicky"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crumbly-garlicky-wholegrain-bread-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T17:05:15.038Z"
+}
