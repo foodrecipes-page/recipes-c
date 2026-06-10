@@ -1,0 +1,66 @@
+{
+  "slug": "crisp-herbal-slovakian-oysters-soup",
+  "title": "Slovakian Oyster Soup",
+  "description": "A hearty and flavorful Slovakian soup featuring oysters and a hint of herbal notes. This dish is perfect for a cold winter evening.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "oysters",
+      "amount": "1 pint",
+      "notes": "freshly shucked"
+    },
+    {
+      "name": "crisp",
+      "amount": "1 large",
+      "notes": "such as celery"
+    },
+    {
+      "name": "herbal",
+      "amount": "2 sprigs",
+      "notes": "such as thyme"
+    },
+    {
+      "name": "slovakian",
+      "amount": "1 lb",
+      "notes": "such as kielbasa"
+    },
+    {
+      "name": "soup",
+      "amount": "4 cups",
+      "notes": "chicken or beef broth"
+    }
+  ],
+  "instructions": [
+    "In a large pot, sauté the kielbasa over medium heat until browned.",
+    "Add the chopped celery and cook until tender.",
+    "Add the oysters and cook until they begin to open.",
+    "Add the thyme and broth to the pot, then bring to a boil.",
+    "Reduce heat and simmer for 10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with additional thyme if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "omnivore",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crisp-herbal-slovakian-oysters-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T10:06:49.210Z"
+}
