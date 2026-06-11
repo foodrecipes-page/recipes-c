@@ -1,0 +1,69 @@
+{
+  "slug": "crispy-savory-cherry-toast",
+  "title": "Cherry Toast Crunch",
+  "description": "A simple yet satisfying snack combining sweet and savory flavors. Perfect for a quick pick-me-up.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cherry jam",
+      "amount": "2 tbsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "whole wheat bread",
+      "amount": "2 slices",
+      "notes": " toasted"
+    },
+    {
+      "name": "crispy bacon",
+      "amount": "4 pieces",
+      "notes": "crumbled"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "4 leaves",
+      "notes": "optional garnish"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Toast the bread slices for 2-3 minutes or until lightly browned.",
+    "Spread 1 tablespoon of cherry jam on each toasted bread slice.",
+    "Top each bread slice with 2 pieces of crumbled crispy bacon.",
+    "Sprinkle salt and pepper to taste.",
+    "Garnish with a fresh mint leaf, if desired.",
+    "Cut the toast in half and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "breakfast",
+    "brunch"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-savory-cherry-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T23:47:44.973Z"
+}
