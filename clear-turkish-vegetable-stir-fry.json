@@ -1,0 +1,77 @@
+{
+  "slug": "clear-turkish-vegetable-stir-fry",
+  "title": "Stir Fry with Vegetables",
+  "description": "A simple and delicious stir fry dish made with a variety of vegetables.",
+  "cuisine": null,
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 large"
+    },
+    {
+      "name": "Snow peas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon, grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the onion, carrots, and bell pepper, and stir fry for 5 minutes.",
+    "Add the snow peas and stir fry for another 2 minutes.",
+    "Add the ginger and garlic, and stir fry for 1 minute.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "vegetable",
+    "easy",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/clear-turkish-vegetable-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T22:04:39.663Z"
+}
