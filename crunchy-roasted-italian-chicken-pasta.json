@@ -1,0 +1,81 @@
+{
+  "slug": "crunchy-roasted-italian-chicken-pasta",
+  "title": "Creamy Chicken Pasta Bake",
+  "description": "A comforting, creamy pasta bake made with chicken, pasta, and a blend of spices. Perfect for a weeknight dinner.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "pasta (penne or fusilli)",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "crunchy parmesan cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "roasted garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the pasta according to package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the chicken breast and cook until browned on both sides and cooked through.",
+    "Stir in the heavy cream and italian seasoning.",
+    "Combine the cooked pasta, chicken mixture, and crunchy parmesan cheese in a large bowl.",
+    "Transfer the mixture to a baking dish and top with additional parmesan cheese.",
+    "Bake for 15-20 minutes, until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pasta",
+    "chicken",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crunchy-roasted-italian-chicken-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T21:05:35.807Z"
+}
