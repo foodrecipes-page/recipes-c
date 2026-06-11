@@ -1,0 +1,63 @@
+{
+  "slug": "crunchy-pepperly-croatian-snapper-stir-fry",
+  "title": "Snapper Stir Fry",
+  "description": "A quick and flavorful stir fry dish made with snapper and crunchy vegetables. Serve over a bed of rice for a filling meal.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "snapper",
+      "amount": "2 fillets",
+      "notes": ""
+    },
+    {
+      "name": "fry",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "crunchy",
+      "amount": "1 cup",
+      "notes": "peeled and chopped carrots, bell peppers"
+    },
+    {
+      "name": "pepperly",
+      "amount": "1/4 cup",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Heat the fry in a large skillet over medium-high heat.",
+    "Add the snapper fillets and cook for 3-4 minutes on each side, until cooked through.",
+    "Remove the snapper from the skillet and set aside.",
+    "Add the crunchy vegetables to the skillet and cook for 3-4 minutes, until slightly tender.",
+    "Return the snapper to the skillet and stir in the pepperly.",
+    "Cook for an additional 1-2 minutes, until the snapper is coated in the pepperly sauce.",
+    "Serve hot over a bed of rice.",
+    "Garnish with additional pepperly, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "snapper",
+    "stir-fry",
+    "croatian"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crunchy-pepperly-croatian-snapper-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T20:41:43.569Z"
+}
