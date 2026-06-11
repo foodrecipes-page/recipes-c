@@ -1,0 +1,61 @@
+{
+  "slug": "citrus-salt-cod-medley",
+  "title": "Pan-Seared Cod with Citrus Medley",
+  "description": "A flavorful and healthy dish that combines the sweetness of citrus with the flakiness of cod.",
+  "cuisine": "Fish",
+  "diet": [
+    "Gluten-Free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod Fillets",
+      "amount": "4",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Citrus Medley (orange, lemon, lime)",
+      "amount": "1 cup",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For pan-searing"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season cod fillets with salt.",
+    "Heat olive oil in an oven-safe pan over medium-high heat.",
+    "Add cod fillets and sear for 2-3 minutes on each side.",
+    "Transfer the pan to the preheated oven and bake for 8-10 minutes or until cooked through.",
+    "Meanwhile, mix citrus medley in a bowl.",
+    "Serve cod with citrus medley spooned over the top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "healthy",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/citrus-salt-cod-medley",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T21:17:42.835Z"
+}
