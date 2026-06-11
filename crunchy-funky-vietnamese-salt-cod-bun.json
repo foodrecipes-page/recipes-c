@@ -1,0 +1,61 @@
+{
+  "slug": "crunchy-funky-vietnamese-salt-cod-bun",
+  "title": "Vietnamese Cod Cakes",
+  "description": "A Vietnamese-inspired dish featuring crispy cod cakes served with a side of bun and a drizzle of crunchy slaw.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "seafood"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cod",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Bun",
+      "amount": "1 package",
+      "notes": "Vietnamese-style rice noodles"
+    },
+    {
+      "name": "Crunchy Slaw (crunchy, funky)",
+      "amount": "1 cup",
+      "notes": "Mix of crunchy slaw and funky sauce"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine cod, bun, and crunchy slaw in a bowl and mix well.",
+    "Form into patties and pan-fry until golden brown.",
+    "Serve with a side of bun and a drizzle of crunchy slaw.",
+    "Season with salt to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "seafood",
+    "lunch",
+    "fries",
+    "slaw"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crunchy-funky-vietnamese-salt-cod-bun",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T18:46:34.032Z"
+}
