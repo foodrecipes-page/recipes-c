@@ -1,0 +1,86 @@
+{
+  "slug": "crisp-fried-spanish-fried-rice-paella",
+  "title": "Spanish Paella",
+  "description": "A classic Spanish dish made with saffron-infused rice, seafood, and vegetables. Perfect for a weeknight dinner.",
+  "cuisine": "Spanish",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spanish rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fried seafood mix (shrimp, mussels, clams)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Crisp chorizo",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Fried chicken breast",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Saffron",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the chorizo and cook until crispy, about 3-4 minutes.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Add the seafood mix and cook until pink, about 3-4 minutes.",
+    "Add the onion and garlic and cook until softened, about 5 minutes.",
+    "Add the tomato, paprika, and saffron, and stir to combine.",
+    "Add the rice and stir to combine with the vegetables and seafood.",
+    "Cook for 2-3 minutes, then add 2 cups of water and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes, or until the rice is tender.",
+    "Remove from heat and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "paella",
+    "seafood",
+    "chicken",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crisp-fried-spanish-fried-rice-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T16:46:09.404Z"
+}
