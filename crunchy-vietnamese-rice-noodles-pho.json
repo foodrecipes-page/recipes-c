@@ -1,0 +1,77 @@
+{
+  "slug": "crunchy-vietnamese-rice-noodles-pho",
+  "title": "Vietnamese Pho Soup",
+  "description": "A delicious and comforting Vietnamese noodle soup made with beef broth, rice noodles, and your choice of beef.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice noodles",
+      "amount": "1 package (200g)",
+      "notes": ""
+    },
+    {
+      "name": "Pho broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Beef (sliced thin)",
+      "amount": "1 pound",
+      "notes": "Rare, thinly sliced beef for Pho"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crunchy Vietnamese chili peppers",
+      "amount": "2-3",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Begin by preparing the Pho broth: In a large stockpot, combine beef bones, onion, ginger, and 4 cups of water.",
+    "Bring the broth to a boil, then reduce heat to a simmer and cook for 1 hour.",
+    "While the broth is cooking, cook the rice noodles according to package instructions.",
+    "Slice the beef into thin strips and cook in a separate pan until rare.",
+    "To assemble the Pho, place a portion of noodles into a bowl, then add sliced beef and ladle hot broth over the top.",
+    "Garnish with cilantro, crunchy chili peppers, and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "pho",
+    "soup",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crunchy-vietnamese-rice-noodles-pho",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T15:12:31.355Z"
+}
