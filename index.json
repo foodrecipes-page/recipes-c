@@ -5457,14 +5457,14 @@
   },
   {
     "slug": "chive-smoke-quirk",
-    "title": "Chive Smoke Quirk",
+    "title": "Smoked Chive Delight",
     "tags": [
-      "smoke-flavored",
-      "crisp-chive-dish",
-      "sour-egg-free"
+      "smoky",
+      "oniony",
+      "flavorful"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 5,
+    "cuisine": "American",
+    "totalTimeMin": 15,
     "shard": "c"
   },
   {
@@ -7348,17 +7348,15 @@
   },
   {
     "slug": "citrusy-flaky-indulgent-spanish-almond-pilaf",
-    "title": "Citrusy Flaky Indulgent Spanish Almond Pilaf",
+    "title": "Spanish Almond Pilaf",
     "tags": [
-      "citrusy",
-      "flaky",
-      "indulgent",
       "spanish",
       "almond",
-      "pilaf"
+      "pilaf",
+      "vegetarian"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 15,
     "shard": "c"
   },
   {
@@ -9249,16 +9247,15 @@
   },
   {
     "slug": "classic-smoky-egyptian-pilchards-tagine",
-    "title": "Classic Smoky Egyptian Pilchards Tagine",
+    "title": "Smoky Tagine Pilchard Pilaf",
     "tags": [
-      "egyptian",
-      "kid-friendly",
-      "low-sodium",
-      "one-pan",
-      "smoky",
-      "weeknight"
+      "nordic",
+      "north-african",
+      "fish",
+      "pilchards",
+      "tagine"
     ],
-    "cuisine": "Egyptian",
+    "cuisine": "North African",
     "totalTimeMin": 35,
     "shard": "c"
   },
@@ -12556,15 +12553,16 @@
   },
   {
     "slug": "creamy-chinese-corn-tortilla-stir-fry",
-    "title": "Creamy Chinese Corn Tortilla Stir-fry",
+    "title": "Creamy Corn Tortilla Stir Fry",
     "tags": [
-      "chinese-cuisine",
-      "corn-tortilla-stir-fry",
-      "halal-friendly",
-      "weeknight-dinner"
+      "chinese",
+      "creamy",
+      "corn",
+      "tortilla",
+      "stir-fry"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 30,
+    "cuisine": null,
+    "totalTimeMin": 13,
     "shard": "c"
   },
   {
@@ -20567,10 +20565,14 @@
   },
   {
     "slug": "crispy-herbal-japanese-potato-starch-bake",
-    "title": "Crispy Herbal Japanese Potato Starch Bake",
-    "tags": [],
+    "title": "Japanese Potato Bake",
+    "tags": [
+      "japanese",
+      "potato",
+      "bake"
+    ],
     "cuisine": "Japanese",
-    "totalTimeMin": null,
+    "totalTimeMin": 60,
     "shard": "c"
   },
   {
@@ -26234,17 +26236,16 @@
   },
   {
     "slug": "crumbly-weeknight-uruguayan-prawns-wrap",
-    "title": "crumbly weeknight uruguayan prawns wrap",
+    "title": "Uruguayan Prawn Wrap",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
       "uruguayan",
-      "vegetarian",
-      "weeknight"
+      "prawns",
+      "wrap",
+      "dinner",
+      "easy"
     ],
     "cuisine": "uruguayan",
-    "totalTimeMin": 25,
+    "totalTimeMin": 18,
     "shard": "c"
   },
   {
