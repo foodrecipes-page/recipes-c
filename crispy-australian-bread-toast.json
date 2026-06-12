@@ -1,0 +1,55 @@
+{
+  "slug": "crispy-australian-bread-toast",
+  "title": "Australian Toasted Bread",
+  "description": "A simple breakfast recipe featuring crispy toasted bread from Australia.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Bread",
+      "amount": "2 slices",
+      "notes": null
+    },
+    {
+      "name": "Crispy",
+      "amount": "2 tablespoons",
+      "notes": "crispy bacon or crispy chicken"
+    },
+    {
+      "name": "Australian toast",
+      "amount": "1 tablespoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan over medium heat.",
+    "Butter the bread slices.",
+    "Cook the crispy bacon or crispy chicken in the pan until crispy.",
+    "Add the Australian toast to the pan and toast until lightly browned.",
+    "Serve the toasted bread with the crispy topping.",
+    "Optional: serve with eggs or avocado for added flavor."
+  ],
+  "prepTimeMin": 2,
+  "cookTimeMin": 5,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "australian",
+    "toasted"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-australian-bread-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T16:51:52.733Z"
+}
