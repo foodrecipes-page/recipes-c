@@ -1,0 +1,74 @@
+{
+  "slug": "chive-smoke-quirk",
+  "title": "Smoked Chive Delight",
+  "description": "A simple and flavorful dish featuring smoky and oniony notes from the chive.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chive",
+      "amount": "3 tablespoons, chopped"
+    },
+    {
+      "name": "smoke",
+      "amount": "1 teaspoon (smoked paprika)"
+    },
+    {
+      "name": "quirk",
+      "amount": "1/4 teaspoon (salt)"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove, minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. In a small bowl, mix together chopped chive, smoked paprika, and salt.",
+    "3. In a pan over medium heat, heat olive oil and sauté minced garlic until fragrant.",
+    "4. Add the chive mixture to the pan and cook for 1-2 minutes.",
+    "5. Remove from heat and stir in lemon juice and mayonnaise.",
+    "6. Season with black pepper to taste.",
+    "7. Serve warm or at room temperature.",
+    "8. Enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "oniony",
+    "flavorful"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 6,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/chive-smoke-quirk",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T03:57:51.895Z"
+}
