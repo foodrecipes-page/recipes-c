@@ -1,0 +1,74 @@
+{
+  "slug": "crunchy-fresh-uruguayan-chicken-wrap",
+  "title": "Uruguayan Chicken Wrap",
+  "description": "A flavorful and fresh wrap filled with Uruguayan-inspired chicken and crunchy vegetables.",
+  "cuisine": "latin american",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "tortilla wrap",
+      "amount": "4-6 wraps",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "fresh lettuce",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "crunchy bell peppers",
+      "amount": "1 cup",
+      "notes": "any color"
+    },
+    {
+      "name": "uruguayan salsa",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "Monterey Jack or Cheddar"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Season chicken breast with salt, pepper, and your favorite spices.",
+    "3. Grill chicken for 5-6 minutes per side, or until cooked through.",
+    "4. Let chicken rest for 5 minutes before slicing.",
+    "5. Warm tortilla wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "6. Assemble wraps by spreading salsa on the bottom half, then adding sliced chicken, lettuce, bell peppers, and cheese.",
+    "7. Fold wraps in half and serve immediately.",
+    "8. Optional: add any additional toppings, such as sliced avocado or sour cream."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "latin",
+    "american",
+    "grilled",
+    "chicken",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crunchy-fresh-uruguayan-chicken-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T11:29:26.308Z"
+}
