@@ -1,0 +1,61 @@
+{
+  "slug": "creamy-greek-tofu-toast",
+  "title": "Greek Tofu Toast",
+  "description": "A twist on a classic breakfast dish, using creamy Greek yogurt and crispy tofu.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Toasted bread",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": "creamy"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Toast the bread until lightly browned.",
+    "Crumble the tofu into small pieces and pan-fry until golden brown.",
+    "Mix the Greek yogurt with garlic and a pinch of salt.",
+    "Spread the yogurt mixture on top of the toasted bread.",
+    "Add the pan-fried tofu on top of the yogurt.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "tofu",
+    "healthy",
+    "greek"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-greek-tofu-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T14:55:30.261Z"
+}
