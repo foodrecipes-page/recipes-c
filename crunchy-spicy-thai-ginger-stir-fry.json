@@ -1,0 +1,86 @@
+{
+  "slug": "crunchy-spicy-thai-ginger-stir-fry",
+  "title": "Thai Ginger Stir Fry",
+  "description": "A quick and spicy Thai-inspired stir fry made with crunchy vegetables and aromatic ginger.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "thai chilies",
+      "amount": "2-3",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "stir-fry vegetables",
+      "amount": "1 cup",
+      "notes": "mixed crunchy vegetables"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add ginger and chilies and stir-fry for 1 minute.",
+    "Add onion and bell pepper and stir-fry for 2-3 minutes.",
+    "Add stir-fry vegetables and stir-fry for 2-3 minutes.",
+    "Add soy sauce, sugar, and salt, and stir-fry for 1 minute.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "ginger",
+    "stirfry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crunchy-spicy-thai-ginger-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T15:15:54.134Z"
+}
