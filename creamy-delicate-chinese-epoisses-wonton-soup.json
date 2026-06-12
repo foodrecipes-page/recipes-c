@@ -1,0 +1,86 @@
+{
+  "slug": "creamy-delicate-chinese-epoisses-wonton-soup",
+  "title": "Creamy Wonton Soup",
+  "description": "A delicate and comforting Chinese-inspired soup made with wontons and a rich, creamy sauce.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Wontons",
+      "amount": "12-15 wontons",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "In a large pot, sauté the onion and garlic in sesame oil until softened.",
+    "Add the vegetable broth and bring to a boil.",
+    "Add the wontons and cook for 2-3 minutes or until they float to the surface.",
+    "In a small bowl, whisk together the heavy cream and soy sauce.",
+    "Add the cream mixture to the pot and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with green onions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "chinese",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-delicate-chinese-epoisses-wonton-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T09:17:25.551Z"
+}
