@@ -1,0 +1,76 @@
+{
+  "slug": "crispy-asian-pork-stir-fry",
+  "title": "Asian-Style Crispy Pork Stir Fry",
+  "description": "A quick and flavorful stir fry made with crispy pork and Asian-inspired ingredients.",
+  "cuisine": "Asian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Crispy rice noodles",
+      "amount": "8 ounces",
+      "notes": "Broken into smaller pieces"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "Or gluten-free alternative"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Sliced into thin strips"
+    },
+    {
+      "name": "Green onions",
+      "amount": "4",
+      "notes": "Sliced into thin pieces"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Sliced into thin pieces"
+    }
+  ],
+  "instructions": [
+    "1. Heat the sesame oil in a large skillet or wok over medium-high heat.",
+    "2. Add the ginger and cook for 1-2 minutes, until fragrant.",
+    "3. Add the pork and cook until browned, about 3-4 minutes.",
+    "4. Add the soy sauce, green onions, and carrots. Cook for 2-3 minutes, until the carrots are tender.",
+    "5. Add the crispy rice noodles and stir-fry for 1-2 minutes, until combined.",
+    "6. Serve hot, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian",
+    "pork",
+    "stir-fry",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-asian-pork-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T07:59:03.005Z"
+}
