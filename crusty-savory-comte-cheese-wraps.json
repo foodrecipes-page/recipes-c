@@ -1,0 +1,63 @@
+{
+  "slug": "crusty-savory-comte-cheese-wraps",
+  "title": "French-Style Cheese Wrap",
+  "description": "A simple wrap filled with melted cheese and crusty bread, inspired by French cuisine.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Comte cheese",
+      "amount": "2 slices",
+      "notes": "approx. 1 oz each"
+    },
+    {
+      "name": "Crusty bread",
+      "amount": "1 slice",
+      "notes": "preferably baguette-style"
+    },
+    {
+      "name": "Savory cheese",
+      "amount": "1 slice",
+      "notes": "optional, e.g. brie or goat cheese"
+    },
+    {
+      "name": "Wraps",
+      "amount": "1",
+      "notes": "large flour tortilla or flatbread"
+    }
+  ],
+  "instructions": [
+    "Preheat a panini press or grill to medium heat.",
+    "Place a slice of crusty bread on the press or grill.",
+    "Top with a slice of Comte cheese, followed by another slice of crusty bread.",
+    "Add a slice of savory cheese, if using.",
+    "Top with the final slice of crusty bread.",
+    "Cook for 2-3 minutes, or until the bread is toasted and the cheese is melted.",
+    "Remove from heat and let cool for 1 minute.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "cheese",
+    "snack",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crusty-savory-comte-cheese-wraps",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T21:07:19.113Z"
+}
