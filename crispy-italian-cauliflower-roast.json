@@ -1,0 +1,73 @@
+{
+  "slug": "crispy-italian-cauliflower-roast",
+  "title": "Roasted Italian Cauliflower",
+  "description": "A simple and flavorful side dish that combines the crunch of cauliflower with the flavors of Italy.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cauliflower",
+      "amount": "1 head"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 tsp",
+      "notes": "dried basil, oregano, thyme"
+    },
+    {
+      "name": "roast",
+      "amount": "2 tbsp",
+      "notes": "olive oil"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Rinse the cauliflower and remove the leaves and stem.",
+    "Cut the cauliflower into florets.",
+    "In a large bowl, toss the cauliflower with the roast, garlic, salt, and pepper until evenly coated.",
+    "Spread the cauliflower mixture on a baking sheet in a single layer.",
+    "Roast in the preheated oven for 20-25 minutes, or until tender and lightly browned.",
+    "Remove from oven and sprinkle with parmesan cheese.",
+    "Serve hot, garnished with additional parmesan cheese if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "vegetarian",
+    "sides"
+  ],
+  "nutrition": {
+    "calories": 100,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-italian-cauliflower-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:09:41.155Z"
+}
