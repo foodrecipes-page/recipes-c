@@ -1,0 +1,86 @@
+{
+  "slug": "creamy-salty-saudi-almond-soup",
+  "title": "Saudi Almond Soup",
+  "description": "A creamy and savory soup originating from Saudi cuisine, made with almonds and a touch of saltiness.",
+  "cuisine": "saudi",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Almonds",
+      "amount": "1 cup",
+      "notes": "blanched"
+    },
+    {
+      "name": "Salty Butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large saucepan, melt the salty butter over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the almonds and cook for 2-3 minutes, or until lightly toasted.",
+    "Sprinkle the flour over the almond mixture and cook for 1-2 minutes.",
+    "Gradually add the chicken broth, whisking continuously to avoid lumps.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10-15 minutes.",
+    "Use an immersion blender to puree the soup until smooth.",
+    "If desired, stir in the heavy cream for added creaminess.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped almonds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "vegetarian",
+    "almonds",
+    "saudi-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-salty-saudi-almond-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:07:43.229Z"
+}
