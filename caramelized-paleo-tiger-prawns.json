@@ -1,0 +1,65 @@
+{
+  "slug": "caramelized-paleo-tiger-prawns",
+  "title": "Tiger Prawns with Caramelized Sauce",
+  "description": "A flavorful and spicy dish featuring tiger prawns cooked in a rich caramelized sauce.",
+  "cuisine": "Asian",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tiger prawns",
+      "amount": "12",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Caramelized sauce",
+      "amount": "2 tablespoons",
+      "notes": "Homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large skillet over medium-high heat.",
+    "Add garlic and ginger; cook for 1 minute, until fragrant.",
+    "Add tiger prawns; cook for 2-3 minutes per side, until pink and cooked through.",
+    "Pour in caramelized sauce; stir to coat prawns.",
+    "Serve immediately, garnished with green onions (optional)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tiger-prawns",
+    "caramelized-sauce",
+    "asian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 8,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/caramelized-paleo-tiger-prawns",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:06:48.260Z"
+}
