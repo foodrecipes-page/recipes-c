@@ -7318,17 +7318,14 @@
   },
   {
     "slug": "citrusy-flaky-greek-chickpea-flour-crumble",
-    "title": "Citrusy Flaky Greek Chickpea Flour Crumble",
+    "title": "Greek Chickpea Crumble Pie",
     "tags": [
-      "citrusy",
-      "flaky",
       "greek",
-      "chickpea-flour",
-      "light",
-      "sugar-free-friendly"
+      "chickpea",
+      "pie"
     ],
-    "cuisine": "Greek",
-    "totalTimeMin": 25,
+    "cuisine": "greek",
+    "totalTimeMin": 65,
     "shard": "c"
   },
   {
@@ -7647,18 +7644,16 @@
   },
   {
     "slug": "citrusy-gooey-caribbean-pineapple-tart",
-    "title": "Citrusy Gooey Caribbean Pineapple Tart",
+    "title": "Caribbean Pineapple Upside-Down Cake",
     "tags": [
-      "citrusy",
-      "gooey",
       "caribbean",
       "pineapple",
-      "maple-syrup",
-      "tart",
-      "high-protein-friendly"
+      "dessert",
+      "gluten-free",
+      "upside-down-cake"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 40,
+    "cuisine": "caribbean",
+    "totalTimeMin": 55,
     "shard": "c"
   },
   {
@@ -14853,10 +14848,17 @@
   },
   {
     "slug": "creamy-peppery-japanese-brie-broth",
-    "title": "Creamy Peppery Japanese Brie Broth",
-    "tags": [],
+    "title": "Japanese Creamy Ramen",
+    "tags": [
+      "ramen",
+      "japanese",
+      "creamy",
+      "peppery",
+      "brie",
+      "vegetarian"
+    ],
     "cuisine": "Japanese",
-    "totalTimeMin": null,
+    "totalTimeMin": 15,
     "shard": "c"
   },
   {
@@ -18794,16 +18796,16 @@
   },
   {
     "slug": "crispy-citrus-kale-stir-fry",
-    "title": "Crispy Citrus Kale Stir Fry",
+    "title": "Crispy Kale Stir Fry",
     "tags": [
+      "kale",
+      "citrus",
       "stir-fry",
-      "citrusy",
-      "cozy",
-      "cooking-for-one",
-      "no-sugar"
+      "gluten-free",
+      "vegetarian"
     ],
-    "cuisine": "Ethiopian-Chinese Fusion",
-    "totalTimeMin": 30,
+    "cuisine": null,
+    "totalTimeMin": 20,
     "shard": "c"
   },
   {
@@ -27512,21 +27514,14 @@
   },
   {
     "slug": "crunchy-floral-polish-shrimp-salad",
-    "title": "Crunchy Floral Polish Shrimp Salad",
+    "title": "Polish Shrimp Salad",
     "tags": [
-      "sugar-free",
-      "low-carb",
-      "polish",
       "salad",
-      "shrimp",
-      "sous-vide",
-      "crunchy",
-      "floral",
-      "healthy",
-      "lunch"
+      "seafood",
+      "summer"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 30,
+    "totalTimeMin": 20,
     "shard": "c"
   },
   {
@@ -29329,14 +29324,12 @@
   },
   {
     "slug": "crunchy-spicy-polish-beef-stew",
-    "title": "Crunchy Spicy Polish Beef Stew",
+    "title": "Polish Beef Stew",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "hearty-stew",
-      "one-pot",
-      "polish-cuisine",
-      "sugar-free"
+      "beef",
+      "stew",
+      "polish",
+      "hearty"
     ],
     "cuisine": "Polish",
     "totalTimeMin": 150,
