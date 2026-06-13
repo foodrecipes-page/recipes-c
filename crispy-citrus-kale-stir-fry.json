@@ -1,0 +1,64 @@
+{
+  "slug": "crispy-citrus-kale-stir-fry",
+  "title": "Crispy Kale Stir Fry",
+  "description": "A quick and easy vegetarian dish that combines the crunch of crispy kale with the brightness of citrus.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kale",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Citrus (orange, lemon, lime)",
+      "amount": "1"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Wash and dry the kale leaves.",
+    "Cut the kale into bite-sized pieces and set aside.",
+    "Cut the citrus into wedges.",
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the kale to the skillet and cook, stirring occasionally, until crispy and slightly browned.",
+    "Season with salt and black pepper to taste.",
+    "Serve the crispy kale hot, garnished with citrus wedges."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kale",
+    "citrus",
+    "stir-fry",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-citrus-kale-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:19:26.606Z"
+}
