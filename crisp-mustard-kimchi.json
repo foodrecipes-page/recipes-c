@@ -1,0 +1,52 @@
+{
+  "slug": "crisp-mustard-kimchi",
+  "title": "Kimchi Crisp Wrap",
+  "description": "A spicy and crunchy Korean-inspired snack made with kimchi, crisp lettuce, and a hint of mustard.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "crisp lettuce",
+      "amount": "1 head"
+    },
+    {
+      "name": "kimchi",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tsp",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Wash and dry crisp lettuce leaves.",
+    "Lay a crisp lettuce leaf flat and place a spoonful of kimchi in the center.",
+    "Fold the lettuce over the kimchi and serve with a side of Dijon mustard for dipping.",
+    "Enjoy as a crunchy and spicy snack!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean-cuisine",
+    "spicy",
+    "snack",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 25,
+    "protein": 1,
+    "carbs": 6,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crisp-mustard-kimchi",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T02:18:21.238Z"
+}
