@@ -1,0 +1,83 @@
+{
+  "slug": "comforting-japanese-manchego-shoyu-ramen",
+  "title": "Cozy Manchego Ramen",
+  "description": "A comforting twist on traditional Japanese ramen, featuring rich manchego cheese and savory beef broth. This satisfying bowl is perfect for a chilly evening.",
+  "cuisine": "japanese",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Manchego cheese",
+      "amount": "2 cups, shredded"
+    },
+    {
+      "name": "Pork bones",
+      "amount": "4",
+      "notes": "for the broth"
+    },
+    {
+      "name": "Ground beef",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Shoyu soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ramen noodles",
+      "amount": "1 package"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches, sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Roast the pork bones in the oven for 30 minutes, or until fragrant.",
+    "3. In a large pot, combine the roasted pork bones, ground beef, shoyu soy sauce, and 4 cups of water.",
+    "4. Bring the mixture to a boil, then reduce the heat to low and simmer for 1 hour.",
+    "5. While the broth is simmering, cook the ramen noodles according to the package instructions. Drain and set aside.",
+    "6. In a large skillet, heat the sesame oil over medium-high heat.",
+    "7. Add the sliced ginger and cook for 1-2 minutes, or until fragrant.",
+    "8. Add the green onions and cook for an additional 1-2 minutes.",
+    "9. To assemble the bowls, place a portion of noodles in the bottom of a bowl, then ladle the hot broth over the top.",
+    "10. Sprinkle the shredded manchego cheese over the broth, then garnish with sesame seeds and green onions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comforting, japanese, manchego, ramen"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/comforting-japanese-manchego-shoyu-ramen",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T19:57:12.976Z"
+}
