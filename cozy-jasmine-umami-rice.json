@@ -1,0 +1,62 @@
+{
+  "slug": "cozy-jasmine-umami-rice",
+  "title": "Jasmine Rice Bowl with Soy Sauce Glaze",
+  "description": "A simple and flavorful dish with the subtle taste of jasmine rice and a savory soy sauce glaze.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "jasmine rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "cozy (vegetable oil)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "umami (soy sauce)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a medium saucepan over medium heat.",
+    "Add 1 cup of jasmine rice and stir to coat with oil.",
+    "Cook for 1-2 minutes.",
+    "Add 1 cup of water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15-20 minutes or until water is absorbed.",
+    "In a small bowl, whisk together 2 tablespoons of soy sauce and 1 tablespoon of water.",
+    "Once rice is cooked, pour soy sauce glaze over the top and fluff with a fork."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "jasmine-rice",
+    "soy-sauce",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/cozy-jasmine-umami-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T22:59:33.068Z"
+}
