@@ -1,0 +1,70 @@
+{
+  "slug": "crispy-herbal-herbs-stir-fry",
+  "title": "Herbal Stir Fry",
+  "description": "A simple and flavorful stir fry made with a blend of herbs and a crispy twist.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mixed herbs (such as basil, mint, cilantro)",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Crispy fried shallots",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Stir-fry vegetables (such as bell peppers, carrots, broccoli)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the crispy fried shallots and stir-fry for 1-2 minutes until fragrant.",
+    "Add the mixed herbs and stir-fry for another minute until wilted.",
+    "Add the stir-fry vegetables and cook until tender-crisp, about 3-4 minutes.",
+    "Season with soy sauce and salt to taste.",
+    "Serve hot and garnish with additional herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "herbal",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-herbal-herbs-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T21:54:10.671Z"
+}
