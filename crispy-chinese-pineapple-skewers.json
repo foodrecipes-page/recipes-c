@@ -1,0 +1,82 @@
+{
+  "slug": "crispy-chinese-pineapple-skewers",
+  "title": "Crispy Pineapple Skewers",
+  "description": "A sweet and crunchy dessert featuring caramelized pineapple and crispy wonton strips.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pineapple",
+      "amount": "1 cup",
+      "notes": "fresh, cubed"
+    },
+    {
+      "name": "Wonton wrappers",
+      "amount": "1 package",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "for caramelizing pineapple"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tablespoons",
+      "notes": "for brushing wonton wrappers"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. In a small bowl, whisk together brown sugar, cinnamon, and salt.",
+    "3. Add the cubed pineapple to the bowl and toss to coat with the sugar mixture.",
+    "4. Thread the pineapple onto skewers, leaving a small space between each piece.",
+    "5. In a separate bowl, whisk together water and a pinch of salt. Brush the mixture onto the wonton wrappers.",
+    "6. Heat the vegetable oil in a large skillet over medium heat.",
+    "7. Fry the wonton wrappers until crispy and golden brown, about 2-3 minutes per side.",
+    "8. Remove the wonton wrappers from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "9. Place the crispy wonton strips on a baking sheet and bake in the oven for 5-7 minutes, or until crispy.",
+    "10. Serve the crispy pineapple skewers with the crunchy wonton strips.",
+    "11. Garnish with additional brown sugar or cinnamon, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pineapple",
+    "wonton",
+    "skewers",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-chinese-pineapple-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:26:56.933Z"
+}
