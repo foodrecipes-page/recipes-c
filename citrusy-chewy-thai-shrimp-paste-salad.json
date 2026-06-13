@@ -1,0 +1,74 @@
+{
+  "slug": "citrusy-chewy-thai-shrimp-paste-salad",
+  "title": "Thai Shrimp Salad",
+  "description": "A refreshing and spicy Thai-inspired salad featuring succulent shrimp, crunchy vegetables, and a tangy citrus dressing.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "citrusy",
+      "amount": "1/2 cup",
+      "notes": "juice and zest of 1 orange"
+    },
+    {
+      "name": "chewy",
+      "amount": "4 cups",
+      "notes": "mixed greens"
+    },
+    {
+      "name": "thai",
+      "amount": "2 tablespoons",
+      "notes": "Thai peanut paste"
+    },
+    {
+      "name": "paste",
+      "amount": "2 tablespoons",
+      "notes": "Thai red curry paste"
+    },
+    {
+      "name": "salad",
+      "amount": "1 cup",
+      "notes": "chopped red cabbage and carrots"
+    }
+  ],
+  "instructions": [
+    "1. In a large skillet, heat 1 tablespoon of oil over medium-high heat.",
+    "2. Add the shrimp and cook until pink, about 2-3 minutes per side.",
+    "3. Remove the shrimp from the skillet and set aside.",
+    "4. In the same skillet, add the remaining 1 tablespoon of oil.",
+    "5. Add the Thai red curry paste and cook for 1 minute, stirring constantly.",
+    "6. Add the mixed greens to the skillet and cook until wilted, about 2 minutes.",
+    "7. In a large bowl, combine the cooked shrimp, wilted greens, and chopped red cabbage and carrots.",
+    "8. In a small bowl, whisk together the Thai peanut paste, citrus juice, and zest.",
+    "9. Pour the dressing over the salad and toss to combine.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "shrimp",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/citrusy-chewy-thai-shrimp-paste-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:03:45.329Z"
+}
