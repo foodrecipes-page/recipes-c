@@ -1,0 +1,94 @@
+{
+  "slug": "charred-cozy-mexican-chicken-tacos",
+  "title": "Charred Chicken Tacos",
+  "description": "A flavorful and spicy Mexican-inspired dish featuring charred chicken, fresh toppings, and warm tortillas.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "Boneless, skinless"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "Smoked"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Tortillas",
+      "amount": "8-10 corn",
+      "notes": "For tacos"
+    },
+    {
+      "name": "Sliced radishes",
+      "amount": "1 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Sliced avocado",
+      "amount": "1 cup",
+      "notes": "For topping"
+    },
+    {
+      "name": "Sliced cilantro",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, whisk together lime juice, cumin, paprika, and salt.",
+    "Rub the mixture all over the chicken breasts.",
+    "Grill the chicken for 5-6 minutes per side, or until charred and cooked through.",
+    "Let the chicken rest for 5 minutes before slicing.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing sliced chicken onto a tortilla, followed by radishes, avocado, and cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "charred",
+    "cozy",
+    "mexican",
+    "chicken",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/charred-cozy-mexican-chicken-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:11:41.668Z"
+}
