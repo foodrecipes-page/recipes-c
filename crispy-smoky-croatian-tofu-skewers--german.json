@@ -1,84 +1,56 @@
 {
   "slug": "crispy-smoky-croatian-tofu-skewers--german",
-  "title": "Smoky Croatian-Style Tofu Skewers",
-  "description": "A German-inspired dish featuring crispy-skinned tofu, smoky flavors, and a hint of Croatian spice. Perfect for a summer evening or outdoor BBQ.",
+  "title": "Crispy Smoked Sausage Skewers",
+  "description": "A traditional German-inspired dish featuring crispy smoked sausages on skewers, perfect for a summer barbecue.",
   "cuisine": "german",
-  "diet": [
-    "vegetarian",
-    "vegan"
-  ],
-  "meal": "dinner",
+  "diet": null,
+  "meal": "snack",
   "ingredients": [
     {
-      "name": "tofu",
-      "amount": "1 block (14 oz)",
-      "notes": ""
+      "name": "Crispy Smoked Sausages (Croatian)",
+      "amount": "500g",
+      "notes": "Available at most German butcher shops"
     },
     {
-      "name": "skewers",
-      "amount": "12-15 bamboo skewers",
-      "notes": "Soaked in water for 30 minutes"
+      "name": "Tofu",
+      "amount": "200g",
+      "notes": "Optional (for vegetarian version)"
     },
     {
-      "name": "croatian spice mix",
-      "amount": "2 tsp",
-      "notes": "Available at most European markets or online"
-    },
-    {
-      "name": "smoked paprika",
-      "amount": "1 tsp",
-      "notes": ""
-    },
-    {
-      "name": "crispy onion rings",
-      "amount": "1 cup",
-      "notes": "Store-bought or homemade"
-    },
-    {
-      "name": "olive oil",
-      "amount": "2 tbsp",
-      "notes": ""
-    },
-    {
-      "name": "lemon juice",
-      "amount": "2 tbsp",
-      "notes": ""
-    },
-    {
-      "name": "garlic powder",
-      "amount": "1 tsp",
-      "notes": ""
+      "name": "Skewers",
+      "amount": "20-30",
+      "notes": "Wooden or metal skewers, soaked in water for 30 minutes before use"
     }
   ],
   "instructions": [
-    "Preheat grill to medium-high heat (400°F).",
-    "Cut the tofu into 1-inch cubes and thread onto skewers.",
-    "In a small bowl, mix together Croatian spice mix, smoked paprika, and garlic powder.",
-    "Brush the tofu with olive oil and sprinkle with spice mix.",
-    "Grill the skewers for 8-10 minutes per side, or until crispy and golden.",
-    "Serve with crispy onion rings and a squeeze of lemon juice.",
-    "Optional: Top with additional crispy onion rings or a dollop of vegan tzatziki sauce."
+    "Preheat grill to medium-high heat (180°C).",
+    "Soak skewers in water for 30 minutes before use.",
+    "Cut crispy smoked sausages into 5cm pieces.",
+    "Thread 2-3 sausage pieces onto each skewer, leaving space between each piece.",
+    "If using tofu, cut into small cubes and thread onto skewers.",
+    "Brush skewers with a little bit of oil and season with salt and pepper.",
+    "Grill skewers for 10-12 minutes, turning occasionally, until sausage is nicely charred.",
+    "Remove skewers from grill and let rest for 2-3 minutes before serving."
   ],
   "prepTimeMin": 15,
-  "cookTimeMin": 20,
-  "totalTimeMin": 35,
-  "servings": 4,
-  "difficulty": "medium",
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": "4-6",
+  "difficulty": "easy",
   "tags": [
     "german",
-    "vegan",
-    "summer",
-    "bbq",
-    "skewers"
+    "sausages",
+    "skewers",
+    "barbecue"
   ],
   "nutrition": {
-    "calories": 320,
-    "protein": 20,
-    "carbs": 20,
-    "fat": 15
+    "calories": 350,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 25
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/crispy-smoky-croatian-tofu-skewers--german",
   "providerUsed": "groq",
-  "createdAt": "2026-06-12T17:22:53.846Z"
+  "createdAt": "2026-06-12T18:11:50.519Z"
 }
