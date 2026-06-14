@@ -1,0 +1,74 @@
+{
+  "slug": "crispy-smoky-cheese-kenyan-stir-fry",
+  "title": "Kenyan Smoky Cheese Fritter",
+  "description": "A crispy, cheesy, and savory snack inspired by Kenyan cuisine. Perfect for a quick bite.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "crispy fried onions",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a bowl, mix together the flour, smoked paprika, salt, and black pepper.",
+    "Add the grated cheese and mix until well combined.",
+    "In a separate bowl, beat the egg.",
+    "Add the crispy fried onions to the egg and mix well.",
+    "Add the egg mixture to the cheese mixture and mix until a dough forms.",
+    "Divide the dough into 8 equal pieces and shape each piece into a ball.",
+    "Flatten each ball into a disk.",
+    "Place the disks on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes or until golden brown.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "cheese",
+    "snack",
+    "fritter"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-smoky-cheese-kenyan-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-12T15:09:18.228Z"
+}
