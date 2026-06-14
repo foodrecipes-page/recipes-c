@@ -1,0 +1,57 @@
+{
+  "slug": "crunchy-malaysian-walnut-flatbread",
+  "title": "Walnut Flatbread Snack",
+  "description": "A crunchy and flavorful flatbread topped with toasted walnuts, perfect for a quick snack.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "1 package (8-10 flatbreads)",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Walnuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Crunchy Malaysian Sauce",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Cut flatbreads into desired snack size.",
+    "Spread 1-2 tbsp of crunchy Malaysian sauce onto each flatbread slice.",
+    "Sprinkle chopped walnuts over the sauce.",
+    "Bake in preheated oven for 5-7 minutes or until crispy.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "flatbread",
+    "walnuts",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 15,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crunchy-malaysian-walnut-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T07:22:55.176Z"
+}
