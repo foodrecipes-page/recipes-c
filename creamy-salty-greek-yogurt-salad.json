@@ -1,0 +1,73 @@
+{
+  "slug": "creamy-salty-greek-yogurt-salad",
+  "title": "Greek Salad with Creamy Dressing",
+  "description": "A refreshing summer salad featuring tangy Greek yogurt dressing.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": "plain, full-fat"
+    },
+    {
+      "name": "Salad greens",
+      "amount": "4 cups",
+      "notes": "fresh, any mix"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Salad dressing",
+      "amount": "2 tablespoons",
+      "notes": "olive oil or your choice"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine salad greens, diced tomato, sliced cucumber, and thinly sliced red onion.",
+    "In a small bowl, whisk together Greek yogurt, salad dressing, and salt until smooth.",
+    "Pour the creamy dressing over the salad and toss to combine.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "greek",
+    "yogurt",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-salty-greek-yogurt-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:42:20.470Z"
+}
