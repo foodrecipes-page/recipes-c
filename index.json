@@ -11700,17 +11700,14 @@
   },
   {
     "slug": "cozy-smoky-french-casabe-gratin",
-    "title": "Cozy Smoky French Casabe Gratin",
+    "title": "Smoked Casabe Fritters",
     "tags": [
-      "comfort-food",
-      "french",
-      "kosher",
-      "smoky",
-      "winter-night",
-      "wood-fired"
+      "fritters",
+      "casabe",
+      "french-desserts"
     ],
-    "cuisine": "French",
-    "totalTimeMin": 45,
+    "cuisine": "french",
+    "totalTimeMin": 25,
     "shard": "c"
   },
   {
@@ -23020,16 +23017,15 @@
   },
   {
     "slug": "crispy-smoky-cheese-kenyan-stir-fry",
-    "title": "Crispy Smoky Cheese Kenyan Stir-fry",
+    "title": "Kenyan Smoky Cheese Fritter",
     "tags": [
-      "stir-fry",
       "kenyan",
-      "quick-fix",
-      "smoky",
-      "low-sodium-friendly"
+      "cheese",
+      "snack",
+      "fritter"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 65,
+    "cuisine": "kenyan",
+    "totalTimeMin": 30,
     "shard": "c"
   },
   {
@@ -23047,20 +23043,15 @@
   },
   {
     "slug": "crispy-smoky-croatian-tofu-skewers",
-    "title": "Crispy Smoky Croatian Tofu Skewers",
+    "title": "Smoky Tofu Skewers with Croatian Flavor",
     "tags": [
-      "plant-based",
-      "vegan",
-      "smoky",
-      "crisp",
-      "croatian",
-      "tofu",
+      "grilled",
       "skewers",
-      "spicy",
-      "grill"
+      "smoky",
+      "croatian"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "c"
   },
   {
@@ -31536,6 +31527,72 @@
     ],
     "cuisine": "Irish",
     "totalTimeMin": 35,
+    "shard": "c"
+  },
+  {
+    "slug": "cozy-smoky-french-casabe-gratin--keto",
+    "title": "Smoky Keto Gratin",
+    "tags": [
+      "keto",
+      "bacon",
+      "cheese",
+      "casserole"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 40,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-smoky-croatian-tofu-skewers--italian",
+    "title": "Croatian-Inspired Italian Skewers",
+    "tags": [
+      "italian",
+      "skewers",
+      "vegetarian",
+      "grilled"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 22,
+    "shard": "c"
+  },
+  {
+    "slug": "cozy-smoky-french-casabe-gratin--italian",
+    "title": "Smoky Italian Casabe Fritters",
+    "tags": [
+      "italian",
+      "snack",
+      "fritters",
+      "casabe",
+      "smoky",
+      "cozy"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 22,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-smoky-croatian-tofu-skewers--german",
+    "title": "Crispy Smoked Sausage Skewers",
+    "tags": [
+      "german",
+      "sausages",
+      "skewers",
+      "barbecue"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-smoky-croatian-tofu-skewers--gluten-free",
+    "title": "Smoky Croatian Tofu Skewers",
+    "tags": [
+      "gluten-free",
+      "vegan-option",
+      "grilled"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 25,
     "shard": "c"
   }
 ]
