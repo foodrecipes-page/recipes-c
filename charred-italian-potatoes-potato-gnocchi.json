@@ -1,0 +1,69 @@
+{
+  "slug": "charred-italian-potatoes-potato-gnocchi",
+  "title": "Charred Italian Potato Gnocchi",
+  "description": "A hearty and flavorful Italian-inspired dish featuring charred potatoes, potato gnocchi, and a delicate blend of herbs.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "charred, peeled, and diced"
+    },
+    {
+      "name": "gnocchi",
+      "amount": "1 package (12 oz)",
+      "notes": "dairy-free"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "infused with garlic and herbs"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Toss diced potatoes with olive oil, garlic, and herbs; roast for 20 minutes.",
+    "Cook gnocchi according to package instructions; drain and set aside.",
+    "In a large skillet, combine roasted potatoes, cooked gnocchi, and chopped parsley.",
+    "Season with salt and pepper to taste.",
+    "Garnish with additional parsley, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "gnocchi",
+    "potatoes",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/charred-italian-potatoes-potato-gnocchi",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:47:39.484Z"
+}
