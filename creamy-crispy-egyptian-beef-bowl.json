@@ -1,0 +1,88 @@
+{
+  "slug": "creamy-crispy-egyptian-beef-bowl",
+  "title": "Egyptian Beef Bowl",
+  "description": "A flavorful and nutritious beef bowl inspired by Egyptian cuisine, featuring tender beef, crunchy vegetables, and creamy tahini sauce.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "crispy",
+      "amount": "1 cup",
+      "notes": "crispy fried onions"
+    },
+    {
+      "name": "egyptian",
+      "amount": "2 tablespoons",
+      "notes": "paprika and cumin powder"
+    },
+    {
+      "name": "bowl",
+      "amount": "1",
+      "notes": "large glass bowl"
+    },
+    {
+      "name": "tahini",
+      "amount": "1/4 cup",
+      "notes": "creamy tahini sauce"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large skillet over medium-high heat.",
+    "Add the beef and cook until browned, about 3-4 minutes per side.",
+    "Transfer the beef to a plate and set aside.",
+    "Add more oil to the skillet if necessary, then add the garlic, paprika, and cumin powder.",
+    "Cook for 1 minute, stirring constantly.",
+    "Add the chicken broth and bring to a boil.",
+    "Return the beef to the skillet and simmer for 10-12 minutes or until cooked through.",
+    "Transfer the beef to a plate and let rest for 5 minutes.",
+    "Slice the beef into thin strips and place in the bowl.",
+    "Drizzle with tahini sauce and sprinkle with crispy fried onions and chopped parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "egyptian",
+    "lunch",
+    "main-course",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-crispy-egyptian-beef-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T22:22:59.442Z"
+}
