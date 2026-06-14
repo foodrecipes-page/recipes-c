@@ -1,26 +1,32 @@
 {
   "slug": "complex-creamy-slovakian-fish-tagine",
   "title": "Slovakian Fish Tagine",
-  "description": "A traditional Slovakian dish with a North African twist, combining fish and the warm, aromatic flavors of a tagine.",
-  "cuisine": "Slovakian, North African",
+  "description": "A hearty and flavorful Slovakian-inspired fish tagine, perfect for a cold evening.",
+  "cuisine": "Slovakian",
   "diet": [
-    "fish"
+    "fish",
+    "gluten-free"
   ],
   "meal": "lunch",
   "ingredients": [
     {
-      "name": "Fish fillets (cod or tilapia)",
+      "name": "Cod fillets",
       "amount": "4",
-      "notes": " Skin removed, cut into 1-inch pieces"
+      "notes": "Fresh and sustainable"
     },
     {
-      "name": "Tagine spice mix",
-      "amount": "2 tsp",
-      "notes": "Available at most Middle Eastern markets"
+      "name": "Slovakian cream",
+      "amount": "1 cup",
+      "notes": "Available in most European stores or online"
+    },
+    {
+      "name": "Tagine spice blend",
+      "amount": "2 tablespoons",
+      "notes": "Adjust to taste"
     },
     {
       "name": "Onion",
-      "amount": "1 large",
+      "amount": "1 medium",
       "notes": "Chopped"
     },
     {
@@ -29,50 +35,39 @@
       "notes": "Minced"
     },
     {
-      "name": "Complex sauce",
-      "amount": "1/4 cup",
-      "notes": "See below for complex sauce recipe"
-    },
-    {
-      "name": "Slovakian pickled peppers",
-      "amount": "1/2 cup",
-      "notes": "Chopped"
-    },
-    {
       "name": "Fresh parsley",
       "amount": "1/4 cup",
       "notes": "Chopped"
     }
   ],
   "instructions": [
-    "Heat oil in a large skillet over medium heat.",
-    "Add onion and garlic; cook until softened, about 5 minutes.",
-    "Add fish pieces; cook until browned, about 5 minutes.",
-    "Add tagine spice mix, complex sauce, and pickled peppers; stir to combine.",
-    "Reduce heat to low; cover and simmer for 8-10 minutes or until fish is cooked through.",
-    "Serve hot, garnished with parsley.",
-    "Complex sauce: Combine 1 cup fish broth, 1/4 cup heavy cream, and 2 tbsp Dijon mustard in a small saucepan.",
-    "Bring to a simmer over medium heat; cook until thickened, about 5 minutes."
+    "Heat 2 tablespoons of oil in a deep skillet over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for an additional minute.",
+    "Add the cod fillets and cook until browned on both sides, about 3-4 minutes.",
+    "Add the Slovakian cream and tagine spice blend to the skillet.",
+    "Reduce heat to low and simmer, covered, for 8-10 minutes or until the fish is cooked through.",
+    "Garnish with chopped parsley and serve hot."
   ],
-  "prepTimeMin": 15,
-  "cookTimeMin": 15,
-  "totalTimeMin": 30,
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "slovakian",
     "fish",
-    "tagine",
-    "north-african"
+    "slovakian",
+    "creamy",
+    "main-course"
   ],
   "nutrition": {
-    "calories": 420,
-    "protein": 40,
-    "carbs": 20,
-    "fat": 24
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/complex-creamy-slovakian-fish-tagine",
   "providerUsed": "groq",
-  "createdAt": "2026-06-08T19:14:53.697Z"
+  "createdAt": "2026-06-11T00:28:59.120Z"
 }
