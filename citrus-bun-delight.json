@@ -1,0 +1,49 @@
+{
+  "slug": "citrus-bun-delight",
+  "title": "Citrus Delight Sandwich",
+  "description": "A simple and flavorful sandwich recipe featuring a citrus-infused delight filling.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Citrus Delight",
+      "amount": "1 jar",
+      "notes": ""
+    },
+    {
+      "name": "Bun",
+      "amount": "1",
+      "notes": "softened, lightly toasted"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a non-stick skillet over medium heat.",
+    "2. Open the jar of citrus delight and heat it in the skillet for 2-3 minutes, stirring occasionally.",
+    "3. Meanwhile, toast the bun by placing it in the toaster or under the broiler for 1-2 minutes.",
+    "4. Spread the heated citrus delight on the toasted bun.",
+    "5. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "citrus",
+    "delight",
+    "sandwich"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/citrus-bun-delight",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T00:51:12.249Z"
+}
