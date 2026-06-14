@@ -1,0 +1,93 @@
+{
+  "slug": "chickpea-cloud",
+  "title": "Spicy Chickpea Salad",
+  "description": "A refreshing and healthy salad made with chickpeas, perfect for a light lunch or snack.",
+  "cuisine": null,
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpea",
+      "amount": "1 can (14.5 oz)",
+      "notes": null
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium, sliced",
+      "notes": null
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 medium, thinly sliced",
+      "notes": null
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium, diced",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Drain and rinse the chickpeas.",
+    "In a large bowl, combine the chickpeas, cucumber, red onion, and tomato.",
+    "In a small bowl, whisk together the lemon juice, olive oil, garlic powder, cumin, salt, and black pepper.",
+    "Pour the dressing over the chickpea mixture and toss to combine.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, give the salad a good stir and adjust the seasoning as needed.",
+    "Serve the salad chilled, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chickpea",
+    "salad",
+    "vegan",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/chickpea-cloud",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:39:09.098Z"
+}
