@@ -1,0 +1,87 @@
+{
+  "slug": "crumbly-british-butter-crock",
+  "title": "British Crock Pot Beef Stew",
+  "description": "A hearty, comforting British-inspired beef stew cooked to perfection in a crock pot. Serve with crusty bread for a satisfying meal.",
+  "cuisine": "British",
+  "diet": [
+    "beef",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "crumbly british biscuits",
+      "amount": "4-6"
+    }
+  ],
+  "instructions": [
+    "Season the beef with salt and pepper.",
+    "In a large skillet, melt 1 tablespoon of butter over medium-high heat.",
+    "Add the beef to the skillet and cook until browned, about 2-3 minutes. Remove from heat and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of butter. Once melted, add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic to the skillet and cook for an additional minute.",
+    "In a crock pot, combine the cooked beef, onion and garlic mixture, chopped carrots and potatoes, beef broth, and flour.",
+    "Stir to combine and cook on low for 8-10 hours or on high for 4-6 hours.",
+    "About 30 minutes before serving, add the crumbly British biscuits to the crock pot and stir to combine.",
+    "Serve hot, garnished with chopped fresh herbs if desired.",
+    "Optional: serve with crusty bread for dipping in the stew."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 480,
+  "totalTimeMin": 500,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "british",
+    "crock-pot",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "35g",
+    "carbs": "30g",
+    "fat": "20g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crumbly-british-butter-crock",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T22:02:39.374Z"
+}
