@@ -5560,14 +5560,14 @@
   },
   {
     "slug": "citrus-bun-delight",
-    "title": "Citrus Bun Delight",
+    "title": "Citrus Delight Sandwich",
     "tags": [
-      "citrus-bun",
-      "jain-friendly",
-      "indulgent"
+      "citrus",
+      "delight",
+      "sandwich"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 45,
+    "cuisine": "American",
+    "totalTimeMin": 8,
     "shard": "c"
   },
   {
@@ -21592,15 +21592,15 @@
   },
   {
     "slug": "crispy-mexican-avocado-pilaf",
-    "title": "Crispy Mexican Avocado Pilaf with Dark Chocolate Chips",
+    "title": "Crispy Mexican Avocado Pilaf",
     "tags": [
-      "crispy-mexican-avocado-pilaf",
-      "date-night-dish",
-      "herbal-date-night",
-      "slow-cooker-dinner"
+      "mexican",
+      "avocado",
+      "pilaf",
+      "vegetarian"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 30,
+    "totalTimeMin": 15,
     "shard": "c"
   },
   {
@@ -24230,10 +24230,15 @@
   },
   {
     "slug": "crispy-tunisian-steak-tagine",
-    "title": "Crispy Tunisian Steak Tagine",
-    "tags": [],
-    "cuisine": "Tunisian",
-    "totalTimeMin": null,
+    "title": "Braised Tunisian Steak Tagine",
+    "tags": [
+      "steak",
+      "tagine",
+      "north-african",
+      "braise"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 200,
     "shard": "c"
   },
   {
@@ -26139,13 +26144,14 @@
     "title": "Uruguayan Prawn Wrap",
     "tags": [
       "uruguayan",
-      "prawns",
+      "prawn",
       "wrap",
-      "dinner",
-      "easy"
+      "seafood",
+      "gluten-free",
+      "easy-to-make"
     ],
-    "cuisine": "uruguayan",
-    "totalTimeMin": 18,
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 15,
     "shard": "c"
   },
   {
