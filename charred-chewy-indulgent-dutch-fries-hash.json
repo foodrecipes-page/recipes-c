@@ -1,0 +1,78 @@
+{
+  "slug": "charred-chewy-indulgent-dutch-fries-hash",
+  "title": "Dutch Hash with Charred Fries",
+  "description": "A hearty breakfast dish featuring crispy fries and a rich hash.",
+  "cuisine": "Dutch",
+  "diet": [
+    "breakfast",
+    "brunch"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Charred Fries",
+      "amount": "2 cups",
+      "notes": "preferably leftover or made from scratch"
+    },
+    {
+      "name": "Hash",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "2 large eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "1/4 cup butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "1/2 cup shredded cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. Place the charred fries on a baking sheet and toast in the oven for 5-7 minutes, or until crispy.",
+    "3. In a large skillet, melt the butter over medium heat.",
+    "4. Add the hash to the skillet and cook until lightly browned, about 5 minutes.",
+    "5. Push the hash to one side of the skillet.",
+    "6. Crack the eggs into the other side of the skillet and scramble until cooked through.",
+    "7. Stir the eggs into the hash.",
+    "8. Add the toasted fries to the skillet and stir to combine.",
+    "9. If using cheese, sprinkle it over the top and stir until melted.",
+    "10. Season with salt and pepper to taste.",
+    "11. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "dutch",
+    "hash",
+    "fries"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/charred-chewy-indulgent-dutch-fries-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:44:45.804Z"
+}
