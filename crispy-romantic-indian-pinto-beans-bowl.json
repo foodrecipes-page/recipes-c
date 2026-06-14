@@ -1,0 +1,78 @@
+{
+  "slug": "crispy-romantic-indian-pinto-beans-bowl",
+  "title": "Indian Pinto Bean Bowl",
+  "description": "A flavorful and nutritious bowl filled with Indian spices, pinto beans, and crispy toppings. Perfect for a quick and healthy meal.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pinto beans",
+      "amount": "1 cup, cooked"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup, diced",
+      "notes": "optional"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches, grated"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "croutons",
+      "amount": "1/4 cup, crispy"
+    },
+    {
+      "name": "bowl",
+      "amount": "1, for serving"
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a pan over medium heat.",
+    "2. Add the onion and cook until softened.",
+    "3. Add the ginger and cook for 1 minute.",
+    "4. Add the cumin powder and coriander powder. Cook for 1 minute.",
+    "5. Stir in the cooked pinto beans.",
+    "6. Season with salt to taste.",
+    "7. Transfer the mixture to a bowl.",
+    "8. Top with crispy croutons."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "gluten-free",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-romantic-indian-pinto-beans-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T23:43:31.275Z"
+}
