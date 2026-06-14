@@ -1,61 +1,53 @@
 {
   "slug": "citrus-salt-cod-medley",
   "title": "Pan-Seared Cod with Citrus Medley",
-  "description": "A flavorful and healthy dish that combines the sweetness of citrus with the flakiness of cod.",
-  "cuisine": "Fish",
+  "description": "A simple and flavorful dish featuring pan-seared cod, served with a citrus medley.",
+  "cuisine": "Seafood",
   "diet": [
-    "Gluten-Free"
+    "Gluten-Free",
+    "Seafood"
   ],
   "meal": "dinner",
   "ingredients": [
     {
-      "name": "Cod Fillets",
-      "amount": "4",
-      "notes": "Fresh and sustainable"
+      "name": "Cod",
+      "amount": "4 fillets (6 oz each)"
     },
     {
-      "name": "Citrus Medley (orange, lemon, lime)",
-      "amount": "1 cup",
-      "notes": "Freshly squeezed"
+      "name": "Citrus Medley",
+      "amount": "1 cup (orange, lemon, lime)"
     },
     {
       "name": "Salt",
-      "amount": "to taste",
-      "notes": ""
-    },
-    {
-      "name": "Olive Oil",
-      "amount": "2 tbsp",
-      "notes": "For pan-searing"
+      "amount": "to taste"
     }
   ],
   "instructions": [
-    "Preheat oven to 400°F (200°C).",
-    "Season cod fillets with salt.",
-    "Heat olive oil in an oven-safe pan over medium-high heat.",
-    "Add cod fillets and sear for 2-3 minutes on each side.",
-    "Transfer the pan to the preheated oven and bake for 8-10 minutes or until cooked through.",
-    "Meanwhile, mix citrus medley in a bowl.",
-    "Serve cod with citrus medley spooned over the top."
+    "1. Rinse the cod fillets and pat dry with paper towels.",
+    "2. Heat a non-stick skillet over medium-high heat.",
+    "3. Season the cod with salt, to taste.",
+    "4. Add the cod to the skillet and cook for 3-4 minutes on each side, or until cooked through.",
+    "5. Serve the cod with a squeeze of citrus medley.",
+    "6. Garnish with additional citrus slices, if desired."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 12,
   "totalTimeMin": 22,
   "servings": 4,
-  "difficulty": "medium",
+  "difficulty": "easy",
   "tags": [
     "seafood",
-    "healthy",
+    "low-carb",
     "easy-to-make"
   ],
   "nutrition": {
-    "calories": 240,
-    "protein": 35,
+    "calories": 350,
+    "protein": 50,
     "carbs": 0,
-    "fat": 10
+    "fat": 15
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/citrus-salt-cod-medley",
   "providerUsed": "groq",
-  "createdAt": "2026-06-08T21:17:42.835Z"
+  "createdAt": "2026-06-10T21:50:52.683Z"
 }
