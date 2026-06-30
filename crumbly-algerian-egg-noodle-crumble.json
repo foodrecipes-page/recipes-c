@@ -1,0 +1,58 @@
+{
+  "slug": "crumbly-algerian-egg-noodle-crumble",
+  "title": "Algerian Crumble Pie",
+  "description": "A sweet and savory Algerian-inspired pie with a crumbly crust and a crumble topping.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "algerian",
+      "amount": "2 cups",
+      "notes": "algerian pastry dough"
+    },
+    {
+      "name": "crumble",
+      "amount": "1 cup",
+      "notes": "crumbly mixture (see below)"
+    },
+    {
+      "name": "egg",
+      "amount": "2",
+      "notes": "beaten eggs"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out algerian pastry dough into a circle.",
+    "Place on a baking sheet lined with parchment paper.",
+    "In a bowl, mix together crumble mixture.",
+    "Spread crumble mixture evenly over the algerian pastry dough.",
+    "In a separate bowl, whisk together beaten eggs.",
+    "Pour egg mixture over crumble mixture.",
+    "Bake for 35-40 minutes or until golden brown.",
+    "Let cool before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "pie",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crumbly-algerian-egg-noodle-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T13:09:45.243Z"
+}
