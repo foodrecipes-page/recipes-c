@@ -1,0 +1,81 @@
+{
+  "slug": "chilli-crispy-french-pecan-stir-fry",
+  "title": "Spicy Pecan Crusted French Fries",
+  "description": "A twist on classic French fries with a spicy pecan crust and crispy texture.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "French fries",
+      "amount": "1 large bag",
+      "notes": "your favorite brand"
+    },
+    {
+      "name": "Pecans",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Chilli powder",
+      "amount": "1/4 teaspoon",
+      "notes": "or more to taste"
+    },
+    {
+      "name": "Crispy fried onions",
+      "amount": "1/4 cup",
+      "notes": "optional garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Spread the French fries out in a single layer.",
+    "Drizzle the olive oil over the French fries and sprinkle with salt and pepper.",
+    "Toss the French fries to coat.",
+    "Bake for 20-25 minutes, or until crispy and golden brown.",
+    "While the French fries are baking, mix the chopped pecans and chilli powder in a small bowl.",
+    "When the French fries are done, remove them from the oven and sprinkle the pecan mixture over the top.",
+    "Toss the French fries to coat.",
+    "Sprinkle with crispy fried onions if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french-fries",
+    "spicy",
+    "pecan-crusted",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/chilli-crispy-french-pecan-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T12:40:54.090Z"
+}
