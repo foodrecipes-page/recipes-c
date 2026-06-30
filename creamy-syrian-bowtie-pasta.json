@@ -1,0 +1,56 @@
+{
+  "slug": "creamy-syrian-bowtie-pasta",
+  "title": "Creamy Syrian Pasta Bake",
+  "description": "A delicious and easy-to-make pasta bake with a creamy Syrian twist, perfect for a weeknight dinner.",
+  "cuisine": "syrian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz (225g) bowtie pasta",
+      "notes": "whole wheat or regular"
+    },
+    {
+      "name": "creamy",
+      "amount": "1 cup (240ml) creamy tomato sauce",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp (30ml)",
+      "notes": "for greasing the baking dish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the bowtie pasta according to package instructions until al dente. Drain and set aside.",
+    "In a large skillet, heat the vegetable oil over medium heat. Add the cooked pasta and stir to combine with the creamy tomato sauce.",
+    "Transfer the pasta mixture to a greased 9x13-inch baking dish.",
+    "Bake in the preheated oven for 20-25 minutes, or until the top is lightly golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pasta",
+    "syrian",
+    "bake",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-syrian-bowtie-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T12:42:06.630Z"
+}
