@@ -1,0 +1,79 @@
+{
+  "slug": "crisp-citrus-syrian-beef-kidney-tagine",
+  "title": "Crisp Beef Tagine",
+  "description": "A twist on traditional Moroccan tagine, this dish features crispy beef and a tangy citrus sauce.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (thinly sliced)",
+      "amount": "1 pound",
+      "notes": "Cut into thin strips for crispy exterior"
+    },
+    {
+      "name": "Crisp (chopped)",
+      "amount": "1 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Citrus (juice)",
+      "amount": "2 tablespoons",
+      "notes": "Lemon or orange juice"
+    },
+    {
+      "name": "Syrian (olive oil)",
+      "amount": "2 tablespoons",
+      "notes": "For searing"
+    },
+    {
+      "name": "Kidney (chopped onion)",
+      "amount": "1 medium",
+      "notes": "Sautéed with beef"
+    },
+    {
+      "name": "Tagine (spices)",
+      "amount": "1 teaspoon",
+      "notes": "Moroccan spice blend"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine beef strips, citrus juice, and Syrian olive oil. Let marinate for at least 30 minutes.",
+    "2. Heat a large skillet over medium-high heat. Remove beef from marinade and sear for 2-3 minutes per side.",
+    "3. Transfer beef to a plate and set aside. Reduce heat to medium.",
+    "4. Add chopped onion to skillet and sauté until translucent, about 5 minutes.",
+    "5. Add tagine spices to skillet and stir to combine.",
+    "6. Return beef to skillet and stir to coat with spice mixture.",
+    "7. Reduce heat to low and simmer for 10-15 minutes or until beef is cooked through.",
+    "8. Garnish with chopped crisp and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "beef",
+    "tagine",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crisp-citrus-syrian-beef-kidney-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T12:36:39.692Z"
+}
