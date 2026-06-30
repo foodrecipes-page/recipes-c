@@ -1,0 +1,83 @@
+{
+  "slug": "creamy-smoked-spanish-eggs-bake",
+  "title": "Smoked Spanish Frittata",
+  "description": "A savory and rich frittata packed with the flavors of Spain, featuring smoked ingredients and a creamy twist.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "bake",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp",
+      "notes": "adds deep smoky flavor"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 tsp",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": "adds creamy texture"
+    },
+    {
+      "name": "shredded manchego cheese",
+      "amount": "1 cup",
+      "notes": "adds rich, savory flavor"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. In a large bowl, whisk together eggs, salt, and smoked paprika.",
+    "3. In a large skillet, heat 1 tablespoon of olive oil over medium heat.",
+    "4. Add diced onion and cook until softened, about 3-4 minutes.",
+    "5. Add minced garlic and cook for an additional minute.",
+    "6. Add diced bake and cook until lightly browned, about 4-5 minutes.",
+    "7. Pour in whisked eggs and cook until edges start to set.",
+    "8. Transfer skillet to preheated oven and bake for 15-20 minutes, or until eggs are set.",
+    "9. Remove skillet from oven and sprinkle shredded manchego cheese and heavy cream over the top.",
+    "10. Return skillet to oven and bake for an additional 2-3 minutes, or until cheese is melted and bubbly.",
+    "11. Remove skillet from oven and let cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "frittata",
+    "breakfast",
+    "eggs",
+    "smoked"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 12,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-smoked-spanish-eggs-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T07:25:27.047Z"
+}
