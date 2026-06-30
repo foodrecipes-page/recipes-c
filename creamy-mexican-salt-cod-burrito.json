@@ -1,0 +1,71 @@
+{
+  "slug": "creamy-mexican-salt-cod-burrito",
+  "title": "Cod Burrito",
+  "description": "A Mexican-inspired burrito filled with cod, creamy sauce, and spices.",
+  "cuisine": "mexican",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cod Fillets",
+      "amount": "2",
+      "notes": "120g each"
+    },
+    {
+      "name": "Tortilla",
+      "amount": "1",
+      "notes": "10-inch"
+    },
+    {
+      "name": "Creamy Sauce",
+      "amount": "2 tbsp",
+      "notes": "see below for recipe"
+    },
+    {
+      "name": "Mexican Seasoning",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Burrito Toppings",
+      "amount": "to taste",
+      "notes": "chopped onions, cilantro, etc."
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the cod fillets with Mexican seasoning and salt. Bake for 8-10 minutes, or until cooked through.",
+    "Warm the tortilla by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Spread the creamy sauce down the center of the tortilla, leaving a 1-inch border at the top.",
+    "Place a cooked cod fillet on top of the sauce, followed by any desired burrito toppings.",
+    "Fold the bottom edge of the tortilla up over the filling, then fold in the sides and roll the burrito up tightly.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "fish",
+    "burrito"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-mexican-salt-cod-burrito",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T10:05:32.620Z"
+}
