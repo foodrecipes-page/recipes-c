@@ -1,0 +1,84 @@
+{
+  "slug": "crunchy-argentinian-beef-stir-fry",
+  "title": "Argentinian Beef Stir Fry",
+  "description": "A flavorful and spicy stir fry from Argentina, featuring tender beef and crunchy vegetables. This dish is perfect for a quick weeknight dinner.",
+  "cuisine": "argentinian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "250g",
+      "notes": "sirloin or flank steak"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "crunchy vegetable mix",
+      "amount": "1 cup",
+      "notes": "such as carrots, zucchini, and snap peas"
+    },
+    {
+      "name": "stir-fry oil",
+      "amount": "2 tbsp",
+      "notes": "such as vegetable or peanut oil"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the stir-fry oil in a large skillet or wok over medium-high heat.",
+    "Add the beef and cook until browned, about 3-4 minutes.",
+    "Remove the beef from the skillet and set aside.",
+    "Add the onion and bell pepper to the skillet and cook until tender, about 4-5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Return the beef to the skillet and add the soy sauce.",
+    "Stir in the crunchy vegetable mix and cook until the vegetables are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "stir-fry",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crunchy-argentinian-beef-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T03:24:48.729Z"
+}
