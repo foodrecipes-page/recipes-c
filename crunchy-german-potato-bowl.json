@@ -1,0 +1,83 @@
+{
+  "slug": "crunchy-german-potato-bowl",
+  "title": "German-Style Potato Bowl",
+  "description": "A hearty, comforting dish inspired by German cuisine, combining crispy potatoes with crunchy toppings.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "German mustard",
+      "amount": "2 tbsp",
+      "notes": "for serving"
+    },
+    {
+      "name": "Crunchy onions",
+      "amount": "1 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Bowl",
+      "amount": "1 large",
+      "notes": "for serving"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for roasting potatoes"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 425°F (220°C).",
+    "2. Toss the diced potatoes with olive oil, salt, and black pepper in a bowl. Spread on a baking sheet.",
+    "3. Roast the potatoes in the preheated oven for 20-25 minutes, or until crispy and golden.",
+    "4. While the potatoes are roasting, prepare the crunchy onions by slicing them thinly and separating into rings.",
+    "5. To assemble the bowls, place a portion of roasted potatoes in the bottom of each bowl.",
+    "6. Drizzle German mustard over the potatoes, then top with crunchy onions and chopped parsley.",
+    "7. Season with salt and black pepper to taste.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "potatoes",
+    "bowls",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crunchy-german-potato-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T05:48:38.045Z"
+}
