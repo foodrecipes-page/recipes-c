@@ -1,0 +1,67 @@
+{
+  "slug": "charred-german-sausage-skillet",
+  "title": "Charred Sausage Skillet",
+  "description": "A hearty skillet dish featuring charred sausages, onions, and bell peppers.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Charred sausages",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Skillet",
+      "amount": "",
+      "notes": "large, oven-safe"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Slice the onions and bell peppers into large pieces.",
+    "Heat a large skillet over medium-high heat.",
+    "Add the sliced onions and bell peppers to the skillet. Cook for 5 minutes, or until they start to soften.",
+    "Add the charred sausages to the skillet. Cook for an additional 2-3 minutes, or until the sausages are browned.",
+    "Add 3 cloves of minced garlic to the skillet. Cook for 1 minute, or until fragrant.",
+    "Transfer the skillet to the preheated oven. Cook for 10-12 minutes, or until the sausages are cooked through.",
+    "Remove the skillet from the oven. Let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "skillet",
+    "sausage"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/charred-german-sausage-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T01:35:25.672Z"
+}
