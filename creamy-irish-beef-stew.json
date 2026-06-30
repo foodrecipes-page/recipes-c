@@ -1,0 +1,88 @@
+{
+  "slug": "creamy-irish-beef-stew",
+  "title": "Irish Beef Stew",
+  "description": "A hearty and comforting stew made with tender beef and creamy sauce, inspired by traditional Irish cuisine.",
+  "cuisine": "irish",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for dusting meat"
+    },
+    {
+      "name": "creamy sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Dust beef cubes with flour, shaking off excess.",
+    "2. In a large Dutch oven or pot, heat 2 tablespoons of oil over medium-high heat.",
+    "3. Brown beef cubes in batches until browned on all sides, about 5 minutes. Remove browned beef from pot.",
+    "4. Add chopped onion to pot and cook until softened, about 5 minutes.",
+    "5. Add chopped carrots and potatoes to pot, cooking for an additional 5 minutes.",
+    "6. Add browned beef back to pot, along with beef broth, thyme, salt, and pepper.",
+    "7. Stir in creamy sauce, making sure it's well combined.",
+    "8. Bring stew to a boil, then reduce heat to low and simmer, covered, for 2-3 hours or until beef is tender.",
+    "9. Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "irish",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-irish-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T03:47:28.947Z"
+}
