@@ -1,0 +1,72 @@
+{
+  "slug": "citrus-coriander-toast",
+  "title": "Toasty Coriander Spread",
+  "description": "A simple and flavorful spread made with toasted bread, coriander, and a squeeze of citrus.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "coriander seeds",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "lemon",
+      "amount": "1/2",
+      "notes": "juiced"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "toast",
+      "amount": "2 slices",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Toast the coriander seeds in a small pan over medium heat for 2-3 minutes, or until fragrant.",
+    "Let the coriander seeds cool, then grind them into a fine powder using a spice grinder or mortar and pestle.",
+    "In a bowl, mix together the ground coriander, lemon juice, garlic, olive oil, salt, and pepper.",
+    "Spread the mixture onto the toasted bread slices.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "coriander",
+    "toast",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/citrus-coriander-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T15:31:20.057Z"
+}
