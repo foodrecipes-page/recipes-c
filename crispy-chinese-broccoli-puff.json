@@ -1,0 +1,69 @@
+{
+  "slug": "crispy-chinese-broccoli-puff",
+  "title": "Crispy Broccoli Puff Bites",
+  "description": "A delicious and crunchy snack made with crispy puff pastry, steamed broccoli, and a hint of Chinese seasoning.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Crispy Puff Pastry",
+      "amount": "1 package (thawed)",
+      "notes": ""
+    },
+    {
+      "name": "Broccoli",
+      "amount": "1 bunch (steamed)",
+      "notes": ""
+    },
+    {
+      "name": "Chinese Five-Spice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C). Line a baking sheet with parchment paper.",
+    "Cut the puff pastry into small squares.",
+    "Place a small spoonful of steamed broccoli onto one half of each square.",
+    "Sprinkle a pinch of Chinese Five-Spice and salt over the broccoli.",
+    "Fold the other half of the pastry square over the filling to form a triangle.",
+    "Press the edges to seal and use a fork to crimp.",
+    "Brush the tops with a little water and sprinkle with pepper.",
+    "Bake for 15-20 minutes or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "chinese",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 15,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-chinese-broccoli-puff",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T14:55:18.782Z"
+}
