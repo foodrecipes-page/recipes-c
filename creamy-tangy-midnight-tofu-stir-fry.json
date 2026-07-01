@@ -1,0 +1,77 @@
+{
+  "slug": "creamy-tangy-midnight-tofu-stir-fry",
+  "title": "Midnight Tofu Stir Fry",
+  "description": "A simple and savory stir fry dish made with marinated tofu, creamy sauce, and tangy flavors.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "Midnight oil",
+      "amount": "2 tablespoons",
+      "notes": "such as canola or grapeseed oil"
+    },
+    {
+      "name": "Stir-fry sauce",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Creamy sauce",
+      "amount": "1 tablespoon",
+      "notes": "such as sriracha mayo"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the midnight oil in a large skillet or wok over medium-high heat.",
+    "Add the garlic and ginger and stir-fry for 1 minute.",
+    "Add the tofu and stir-fry for 3-4 minutes, until golden brown.",
+    "Add the stir-fry sauce and creamy sauce and stir-fry for 1-2 minutes.",
+    "Add the sesame seeds (if using) and stir-fry for an additional 30 seconds.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tofu",
+    "stir-fry",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-tangy-midnight-tofu-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T20:17:10.642Z"
+}
