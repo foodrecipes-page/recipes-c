@@ -1,0 +1,78 @@
+{
+  "slug": "cured-salty-chinese-pork-stir-fry",
+  "title": "Crispy Pork Stir Fry",
+  "description": "A quick and savory stir fry dish made with crispy pork and mixed vegetables. Perfect as a weeknight dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork belly",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Bok choy",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Cured chili peppers",
+      "amount": "1 tablespoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a wok or large skillet over medium-high.",
+    "Add sliced ginger and minced garlic. Cook until fragrant, about 1 minute.",
+    "Add pork belly and cook until browned, about 3-4 minutes.",
+    "Push pork to one side of the wok. Add more oil if necessary.",
+    "Add chopped bok choy to the empty side of the wok. Cook until wilted, about 2 minutes.",
+    "Stir in soy sauce and cured chili peppers.",
+    "Combine pork and bok choy. Cook for an additional 1-2 minutes.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pork",
+    "chinese",
+    "stir-fry",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/cured-salty-chinese-pork-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T14:08:11.646Z"
+}
