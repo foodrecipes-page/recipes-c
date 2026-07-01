@@ -1,0 +1,66 @@
+{
+  "slug": "crunchy-japanese-cheese-stir-fry",
+  "title": "Cheesy Japanese Stir Fry",
+  "description": "A quick and easy stir fry with Japanese flavors and a melted cheesy twist.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Crunchy Vegetables",
+      "amount": "1 cup",
+      "notes": "bell peppers, carrots"
+    },
+    {
+      "name": "Japanese Stir Fry Sauce",
+      "amount": "2 tbsp",
+      "notes": "available at most Asian grocery stores"
+    },
+    {
+      "name": "Cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded mozzarella or cheddar"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large skillet over medium-high heat.",
+    "Add crunchy vegetables and cook until tender, about 3-4 minutes.",
+    "Pour in Japanese stir fry sauce and stir to coat the vegetables.",
+    "Reduce heat to low and add shredded cheese, stirring constantly until melted and bubbly.",
+    "Serve immediately and garnish with sesame seeds, if desired.",
+    "Optional: add a teaspoon of soy sauce for extra flavor."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "cheesy",
+    "japanese",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crunchy-japanese-cheese-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T20:17:12.579Z"
+}
