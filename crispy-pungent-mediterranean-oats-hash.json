@@ -1,0 +1,81 @@
+{
+  "slug": "crispy-pungent-mediterranean-oats-hash",
+  "title": "Spicy Hash and Oat Bowl",
+  "description": "A hearty bowl filled with crispy hash, pungent flavor, and nutritious oats, perfect for a morning boost.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "oats",
+      "amount": "1 cup",
+      "notes": "rolled oats"
+    },
+    {
+      "name": "hash",
+      "amount": "1/2 cup",
+      "notes": "pre-cooked"
+    },
+    {
+      "name": "crispy",
+      "amount": "4 pieces",
+      "notes": "fried shallots"
+    },
+    {
+      "name": "mediterranean seasoning",
+      "amount": "1 tsp",
+      "notes": "dried oregano, thyme, and rosemary"
+    },
+    {
+      "name": "pungent sauce",
+      "amount": "2 tbsp",
+      "notes": "hot sauce of your choice"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "avocado oil",
+      "amount": "1 tsp",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick skillet over medium heat.",
+    "Add avocado oil and cook for 1 minute.",
+    "Add hash and cook for 2-3 minutes until crispy.",
+    "Add oats, mediterranean seasoning, salt, and pepper. Stir-fry for 2-3 minutes.",
+    "Add crispy fried onions and stir-fry for another minute.",
+    "Add pungent sauce and stir-fry for 30 seconds.",
+    "Transfer the mixture to a bowl.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "hash",
+    "oatmeal"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-pungent-mediterranean-oats-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T21:41:41.714Z"
+}
