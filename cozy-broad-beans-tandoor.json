@@ -1,0 +1,75 @@
+{
+  "slug": "cozy-broad-beans-tandoor",
+  "title": "Tandoor Beans and Broad",
+  "description": "A flavorful and nutritious vegetarian dish made with tandoor-spiced broad beans and cozy vegetables.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "broad beans",
+      "amount": "250g"
+    },
+    {
+      "name": "cozy",
+      "amount": "1 medium",
+      "notes": "any type of cozy vegetable works well"
+    },
+    {
+      "name": "tandoor spice blend",
+      "amount": "1 tsp",
+      "notes": "make sure to use a spice blend specifically intended for tandoor"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "water",
+      "amount": "100ml"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a pan over medium heat.",
+    "Add the tandoor spice blend and sauté for 1 minute.",
+    "Add the broad beans and cozy vegetables and sauté for 3-4 minutes.",
+    "Add the water and bring to a simmer.",
+    "Reduce the heat to low and let cook for 10-12 minutes, or until the broad beans are tender.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "healthy",
+    "beans",
+    "tandoor"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/cozy-broad-beans-tandoor",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T14:44:06.949Z"
+}
