@@ -1,0 +1,74 @@
+{
+  "slug": "charred-french-blackberries-salad",
+  "title": "Blackberry French Salad",
+  "description": "A refreshing summer salad with charred French bread, sweet blackberries, and a tangy twist.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Charred French bread",
+      "amount": "1 cup",
+      "notes": "Cubed"
+    },
+    {
+      "name": "Fresh blackberries",
+      "amount": "2 cups",
+      "notes": "Rinsed and patted dry"
+    },
+    {
+      "name": "Mixed greens",
+      "amount": "4 cups",
+      "notes": "Rinsed and patted dry"
+    },
+    {
+      "name": "Balsamic vinaigrette",
+      "amount": "2 tbsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Crumbled feta cheese (optional)",
+      "amount": "1/2 cup",
+      "notes": "Optional for non-vegetarian"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the grill to medium-high heat.",
+    "2. Grill the French bread until charred, flipping halfway through.",
+    "3. Let the bread cool completely, then cube it.",
+    "4. In a large bowl, combine the mixed greens, blackberries, and chopped mint leaves.",
+    "5. Drizzle the balsamic vinaigrette over the salad and toss to coat.",
+    "6. Add the cubed French bread to the salad and toss gently to combine.",
+    "7. If using feta cheese, crumble it over the salad and toss to combine.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "blackberries",
+    "french bread",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/charred-french-blackberries-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T17:45:02.027Z"
+}
