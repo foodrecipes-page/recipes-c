@@ -1,0 +1,61 @@
+{
+  "slug": "charred-polish-cheddar-cheese-gratin",
+  "title": "Charred Polish Sausage Gratin",
+  "description": "A comforting, cheesy gratin dish featuring charred polish sausage, perfect for a weeknight dinner.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Polish sausage",
+      "amount": "1 pound",
+      "notes": "charred"
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "1 cup shredded",
+      "notes": ""
+    },
+    {
+      "name": "Cheese",
+      "amount": "1/2 cup grated",
+      "notes": ""
+    },
+    {
+      "name": "Gratin",
+      "amount": "1 cup sliced",
+      "notes": "bread for topping"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook charred polish sausage in a skillet until browned, about 5 minutes.",
+    "In a separate bowl, mix shredded cheddar cheese and grated cheese.",
+    "In a greased 9x13 inch baking dish, arrange cooked sausage and top with cheese mixture.",
+    "Arrange sliced gratin on top of cheese.",
+    "Bake for 20-25 minutes, or until the top is golden brown and cheese is melted.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort food",
+    "sausages",
+    "cheesy"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/charred-polish-cheddar-cheese-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T00:36:44.143Z"
+}
