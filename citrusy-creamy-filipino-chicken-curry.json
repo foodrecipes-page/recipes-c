@@ -1,0 +1,77 @@
+{
+  "slug": "citrusy-creamy-filipino-chicken-curry",
+  "title": "Filipino Chicken Curry",
+  "description": "A twist on the classic curry recipe, incorporating the flavors of the Philippines with a tangy citrusy twist.",
+  "cuisine": "Filipino",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1-2 pounds",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "curry paste",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "citrusy",
+      "amount": "1/2 cup",
+      "notes": "freshly squeezed orange juice"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": "for creaminess"
+    }
+  ],
+  "instructions": [
+    "1. Heat the olive oil in a large pan over medium-high heat.",
+    "2. Add the chicken and cook until browned, about 5-7 minutes. Remove from heat and set aside.",
+    "3. In the same pan, add the curry paste and sauté for 1-2 minutes.",
+    "4. Add the chopped onion and minced garlic and cook until softened.",
+    "5. Add the citrusy and heavy cream, stir to combine.",
+    "6. Return the cooked chicken to the pan and stir to coat with the curry sauce.",
+    "7. Reduce heat to low and simmer for 5-10 minutes or until the sauce has thickened.",
+    "8. Serve hot garnished with chopped cilantro or scallions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "chicken",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/citrusy-creamy-filipino-chicken-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T10:36:27.793Z"
+}
