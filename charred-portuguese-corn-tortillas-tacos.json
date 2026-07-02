@@ -1,0 +1,76 @@
+{
+  "slug": "charred-portuguese-corn-tortillas-tacos",
+  "title": "Charred Taco Casserole",
+  "description": "A twist on traditional tacos, this casserole is a hearty and flavorful dish perfect for a weeknight dinner.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "charred corn",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tortillas",
+      "amount": "6-8"
+    },
+    {
+      "name": "portuguese cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat olive oil over medium heat. Add cumin and chili powder; cook for 1 minute.",
+    "Add charred corn to the skillet; cook for 2-3 minutes.",
+    "In a separate bowl, combine shredded cheese and a pinch of salt and pepper.",
+    "In a 9x13 inch baking dish, arrange 2 tortillas to cover the bottom.",
+    "Spread half of the corn mixture over the tortillas, followed by half of the cheese mixture.",
+    "Repeat the layers, starting with the tortillas, then the corn mixture, and finally the cheese mixture.",
+    "Cover the dish with aluminum foil and bake for 20 minutes.",
+    "Remove the foil and bake for an additional 10-15 minutes, or until the top is lightly browned.",
+    "Remove from the oven and let cool for 5-10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "taco",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/charred-portuguese-corn-tortillas-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T03:00:21.697Z"
+}
