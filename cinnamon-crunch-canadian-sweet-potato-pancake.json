@@ -1,0 +1,67 @@
+{
+  "slug": "cinnamon-crunch-canadian-sweet-potato-pancake",
+  "title": "Sweet Canadian Pancake",
+  "description": "A delicious breakfast pancake recipe with sweet and savory flavors.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "sweet",
+      "amount": "1/4 cup",
+      "notes": "sugar"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "pancake",
+      "amount": "1 cup",
+      "notes": "flour"
+    },
+    {
+      "name": "crunch",
+      "amount": "1/4 cup",
+      "notes": "crushed oats"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan or griddle over medium heat.",
+    "Combine diced potato, sugar, and ground cinnamon in a bowl.",
+    "Add flour and crushed oats to the bowl and mix well.",
+    "Add a small amount of oil to the pan and pour in the mixture.",
+    "Cook for 2-3 minutes or until bubbles appear on the surface.",
+    "Flip the pancake and cook for another 1-2 minutes or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "canadian",
+    "pancake",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/cinnamon-crunch-canadian-sweet-potato-pancake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T07:23:01.936Z"
+}
