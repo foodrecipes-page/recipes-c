@@ -1,0 +1,75 @@
+{
+  "slug": "crisp-spanish-beans-stir-fry",
+  "title": "Crisp Bean Stir Fry",
+  "description": "A simple and delicious stir fry made with crispy beans and a variety of spices.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Crisp beans",
+      "amount": "1 cup",
+      "notes": "any type of bean will work"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "Spanish fry spice mix",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet or wok over medium-high heat.",
+    "Add the garlic and ginger and stir-fry for 1 minute.",
+    "Add the crisp beans and stir-fry for 3-4 minutes, or until they start to brown.",
+    "Add the soy sauce, salt, and Spanish fry spice mix. Stir-fry for another 2-3 minutes, or until the beans are coated in the sauce.",
+    "Serve the bean stir fry hot, garnished with additional soy sauce and spices if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bean-based",
+    "stir-fry",
+    "quick-meals"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crisp-spanish-beans-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T14:08:54.205Z"
+}
