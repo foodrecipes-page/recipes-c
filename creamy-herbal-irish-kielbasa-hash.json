@@ -1,0 +1,77 @@
+{
+  "slug": "creamy-herbal-irish-kielbasa-hash",
+  "title": "Irish Kielbasa Hash",
+  "description": "A hearty breakfast recipe featuring crispy kielbasa and golden hash browns, infused with the aroma of herbal spices.",
+  "cuisine": "Irish",
+  "diet": [
+    "breakfast"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Kielbasa",
+      "amount": "1 pound, sliced"
+    },
+    {
+      "name": "Hash browns",
+      "amount": "2 cups, shredded"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Herbal spice blend",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large skillet, cook the sliced kielbasa over medium-high heat until browned, about 5 minutes.",
+    "Add the diced onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Add the shredded hash browns to the skillet and cook until they start to brown.",
+    "Sprinkle the herbal spice blend over the hash browns and stir to combine.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the hash browns are golden brown.",
+    "Remove the skillet from the oven and stir in the cooked kielbasa and butter.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "breakfast",
+    "kielbasa",
+    "hash",
+    "herbal"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 30,
+    "carbs": 50,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-herbal-irish-kielbasa-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T14:46:26.941Z"
+}
