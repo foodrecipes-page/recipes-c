@@ -1,0 +1,71 @@
+{
+  "slug": "crunchy-mexican-corn-salad",
+  "title": "Mexican Corn Salad",
+  "description": "A delicious and crunchy salad made with a mix of corn, crunchy components, and Mexican flavors.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fresh Corn",
+      "amount": "2 cups, kernels removed",
+      "notes": "from 1 ear of corn"
+    },
+    {
+      "name": "Crunchy Tortilla Strips",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Diced Red Bell Pepper",
+      "amount": "1 cup",
+      "notes": "any color bell pepper works"
+    },
+    {
+      "name": "Diced Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Diced Lime",
+      "amount": "2 tablespoons",
+      "notes": "juice and zest"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the corn kernels, crunchy tortilla strips, diced red bell pepper, and diced cilantro.",
+    "2. In a small bowl, whisk together the lime juice and a pinch of salt and pepper.",
+    "3. Pour the lime dressing over the corn mixture and toss to combine.",
+    "4. Season with additional salt and pepper to taste.",
+    "5. Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "6. Serve chilled or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "vegan",
+    "gluten-free",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crunchy-mexican-corn-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T15:59:56.458Z"
+}
