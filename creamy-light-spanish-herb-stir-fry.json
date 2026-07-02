@@ -1,0 +1,83 @@
+{
+  "slug": "creamy-light-spanish-herb-stir-fry",
+  "title": "Spanish Stir Fry",
+  "description": "A quick and flavorful Spanish-inspired stir fry with a light and creamy sauce.",
+  "cuisine": "Spanish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "creamy sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "light olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the sliced onion and bell pepper to the skillet and cook until tender, about 5 minutes.",
+    "Stir in the smoked paprika and cook for an additional minute.",
+    "Return the chicken to the skillet and pour in the creamy sauce.",
+    "Stir to combine and cook for an additional 2-3 minutes, until the sauce has thickened.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "stir-fry",
+    "chicken",
+    "creamy",
+    "light"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-light-spanish-herb-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T12:32:40.740Z"
+}
