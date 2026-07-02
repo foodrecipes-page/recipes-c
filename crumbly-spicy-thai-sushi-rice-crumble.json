@@ -1,0 +1,73 @@
+{
+  "slug": "crumbly-spicy-thai-sushi-rice-crumble",
+  "title": "Thai Sushi Rice Bowl",
+  "description": "A flavorful and spicy twist on traditional sushi with a crunchy crumble topping.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sushi Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Thai Spicy Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Crumble Topping",
+      "amount": "1/4 cup",
+      "notes": "mix of crumble and spicy"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Thai Basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Cook the sushi rice according to package instructions.",
+    "In a small bowl, mix together Thai spicy sauce and crumble topping.",
+    "In a large bowl, combine cooked sushi rice, green onions, cucumber, carrots, and Thai basil.",
+    "Top the rice mixture with the spicy crumble mixture.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "sushi",
+    "vegetarian",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crumbly-spicy-thai-sushi-rice-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T11:49:15.438Z"
+}
