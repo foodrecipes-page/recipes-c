@@ -1,0 +1,87 @@
+{
+  "slug": "citrus-pickled-venezuelan-chicken-pasta",
+  "title": "Chicken Pasta with Citrus and Pickled Veggies",
+  "description": "A vibrant and zesty pasta dish featuring chicken, pickled veggies, and a squeeze of citrus.",
+  "cuisine": "italian",
+  "diet": [
+    "parve",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "pasta",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "citrus juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "pickled veggies",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook pasta according to package instructions.",
+    "In a large skillet, heat olive oil over medium-high heat.",
+    "Add chicken breast and cook until browned on both sides and cooked through.",
+    "Remove chicken from skillet and set aside.",
+    "Add garlic to skillet and cook for 1 minute.",
+    "Add pickled veggies to skillet and cook for 2 minutes.",
+    "Squeeze citrus juice over pickled veggies and toss to coat.",
+    "Add cooked pasta to skillet and toss to combine.",
+    "Return chicken to skillet and toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "parve",
+    "citrus",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/citrus-pickled-venezuelan-chicken-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T11:58:03.533Z"
+}
