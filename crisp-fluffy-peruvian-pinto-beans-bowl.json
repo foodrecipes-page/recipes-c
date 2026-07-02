@@ -1,0 +1,66 @@
+{
+  "slug": "crisp-fluffy-peruvian-pinto-beans-bowl",
+  "title": "Peruvian Bean Bowl",
+  "description": "A flavorful and nutritious bowl filled with Peruvian beans, served over a bed of fluffy rice.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Peruvian beans",
+      "amount": "1 cup (cooked)",
+      "notes": ""
+    },
+    {
+      "name": "pinto beans",
+      "amount": "1 cup (cooked)",
+      "notes": ""
+    },
+    {
+      "name": "fluffy rice",
+      "amount": "1 cup (cooked)",
+      "notes": ""
+    },
+    {
+      "name": "crisp",
+      "amount": "1/2 cup (chopped)",
+      "notes": ""
+    },
+    {
+      "name": "bowl",
+      "amount": "1 (large)",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Rinse the Peruvian beans and pinto beans, then soak them in water for 4 hours. Drain and cook them according to package instructions.",
+    "In a separate pot, cook the fluffy rice according to package instructions.",
+    "Heat a pan over medium heat and add the chopped crispy element. Cook for 2-3 minutes until crispy.",
+    "In a large bowl, combine the cooked Peruvian beans, pinto beans, and fluffy rice.",
+    "Top with the crispy element and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "bean-bowl",
+    "vegetarian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crisp-fluffy-peruvian-pinto-beans-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T02:19:54.384Z"
+}
