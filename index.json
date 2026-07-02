@@ -12644,17 +12644,15 @@
   },
   {
     "slug": "creamy-comforting-algerian-potato-tagine",
-    "title": "Creamy Comforting Algerian Potato Tagine",
+    "title": "Algerian Potato Tagine",
     "tags": [
-      "comfort-food",
-      "family-friendly",
-      "gluten-free",
-      "north-african",
-      "one-pot",
-      "vegetarian"
+      "algerian",
+      "potato",
+      "comforting",
+      "tagine"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "c"
   },
   {
@@ -12674,16 +12672,15 @@
   },
   {
     "slug": "creamy-complex-moroccan-lamb-tagine",
-    "title": "Creamy Complex Moroccan Lamb Tagine",
+    "title": "Lamb Tagine",
     "tags": [
-      "copper-cooking",
-      "jain-friendly",
-      "lamb-recipes",
-      "moroccan-cuisine",
-      "special-occasion"
+      "moroccan",
+      "lamb",
+      "tagine",
+      "slow-cooked"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 110,
     "shard": "c"
   },
   {
@@ -28242,10 +28239,15 @@
   },
   {
     "slug": "crunchy-mexican-corn-salad",
-    "title": "Crunchy Mexican Corn Salad",
-    "tags": [],
+    "title": "Mexican Corn Salad",
+    "tags": [
+      "mexican",
+      "vegan",
+      "gluten-free",
+      "salad"
+    ],
     "cuisine": "Mexican",
-    "totalTimeMin": null,
+    "totalTimeMin": 10,
     "shard": "c"
   },
   {
