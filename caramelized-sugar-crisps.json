@@ -1,0 +1,57 @@
+{
+  "slug": "caramelized-sugar-crisps",
+  "title": "Salted Caramel Crisp Bars",
+  "description": "A sweet and crunchy dessert bar made with caramelized sugar and crisps.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "caramelized sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "graham crisps",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Line an 8-inch square baking pan with parchment paper.",
+    "Melt the butter in a large saucepan over low heat.",
+    "Add the caramelized sugar and stir until well combined.",
+    "Press the graham crisps into the prepared baking pan.",
+    "Pour the sugar mixture over the graham crisps.",
+    "Bake for 20-25 minutes or until the edges are golden brown.",
+    "Remove from oven and let cool completely.",
+    "Cut into bars and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 9,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "bars",
+    "sweet",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/caramelized-sugar-crisps",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T07:03:11.051Z"
+}
