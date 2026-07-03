@@ -1,0 +1,83 @@
+{
+  "slug": "creamy-argentinian-cassava-stir-fry",
+  "title": "Argentinian Cassava Fry",
+  "description": "A twist on the classic Argentine dish by using cassava instead of potatoes, served with a creamy sauce.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cassava",
+      "amount": "2 medium-sized",
+      "notes": "peeled and cut into 1-inch cubes"
+    },
+    {
+      "name": "argentinian seasoning",
+      "amount": "1 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "creamy sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large frying pan over medium-high heat.",
+    "Add the cassava and cook until golden brown, about 5-7 minutes.",
+    "Remove the cassava from the oil and set aside.",
+    "In the same pan, add the onion and garlic and cook until softened.",
+    "Add the argentinian seasoning and stir for 1 minute.",
+    "Return the cassava to the pan and stir to combine with the onion mixture.",
+    "Serve hot with a dollop of creamy sauce on top.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "cassava",
+    "lunch",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-argentinian-cassava-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T22:35:33.839Z"
+}
