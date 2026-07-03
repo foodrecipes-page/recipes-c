@@ -1,0 +1,81 @@
+{
+  "slug": "crispy-garlic-french-tagine",
+  "title": "Pan-Seared Chicken Tagine",
+  "description": "A crispy chicken dish with the flavors of North Africa, served with a side of steaming vegetables.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1.5 lbs",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for pan-searing"
+    },
+    {
+      "name": "french onions",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "1 tsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "crispy onions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Season the chicken with salt and tagine spice blend.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and sear until golden brown, about 5 minutes per side.",
+    "Transfer the chicken to a plate and set aside.",
+    "Reduce heat to medium and add the sliced onions to the skillet.",
+    "Cook until the onions are lightly browned, about 5 minutes.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Return the chicken to the skillet and simmer until cooked through, about 10-12 minutes.",
+    "Garnish with crispy onions and serve hot.",
+    "Serve with steaming vegetables, such as carrots and zucchini."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "north african",
+    "tagine",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-garlic-french-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T03:36:05.430Z"
+}
