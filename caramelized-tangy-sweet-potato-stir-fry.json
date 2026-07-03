@@ -1,0 +1,79 @@
+{
+  "slug": "caramelized-tangy-sweet-potato-stir-fry",
+  "title": "Caramelized Sweet Potato Stir Fry",
+  "description": "A sweet and savory stir fry dish made with caramelized sweet potatoes, perfect for a quick dinner or snack.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "tangy stir-fry sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet or wok over medium-high heat.",
+    "Add the cubed sweet potatoes and cook for 5 minutes, stirring occasionally.",
+    "Add the sliced carrot and cook for an additional 2 minutes.",
+    "Pour in the tangy stir-fry sauce and stir to coat the vegetables.",
+    "Reduce heat to medium-low and simmer for 5 minutes, stirring occasionally.",
+    "Stir in the chopped green onions and sesame seeds.",
+    "Season with soy sauce to taste.",
+    "Serve hot garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet-potato",
+    "stir-fry",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/caramelized-tangy-sweet-potato-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T18:29:42.743Z"
+}
