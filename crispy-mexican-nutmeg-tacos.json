@@ -1,0 +1,81 @@
+{
+  "slug": "crispy-mexican-nutmeg-tacos",
+  "title": "Crispy Taco Shells with Mexican Spices",
+  "description": "A crunchy twist on traditional tacos, seasoned with a blend of spices.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tortillas",
+      "amount": "6-8",
+      "notes": "corn tortillas"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "Mexican Spice Blend",
+      "amount": "2 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Crispy Taco Seasoning",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Nutmeg",
+      "amount": "1/4 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup",
+      "notes": "for brushing tortillas"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oil in a deep frying pan to 375°F (190°C).",
+    "2. In a small bowl, mix together Mexican Spice Blend, cumin, and nutmeg.",
+    "3. Dip each tortilla into the water, then coat in the spice mixture.",
+    "4. Fry tortillas in batches until crispy and golden brown, about 2-3 minutes per side.",
+    "5. Remove fried tortillas from oil and place on paper towels to drain excess oil.",
+    "6. Sprinkle crispy taco seasoning over fried tortillas and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "tacos",
+    "crispy",
+    "fried"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": "2g",
+    "carbs": "30g",
+    "fat": "12g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-mexican-nutmeg-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T22:03:41.638Z"
+}
