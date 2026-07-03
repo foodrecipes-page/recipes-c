@@ -1,0 +1,75 @@
+{
+  "slug": "cheesy-crispy-turkish-bacon-pizza",
+  "title": "Turkish Pizza",
+  "description": "A crispy Turkish pizza with melted cheese and savory bacon.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cheesy pizza dough",
+      "amount": "1 piece",
+      "notes": null
+    },
+    {
+      "name": "bacon",
+      "amount": "4 slices",
+      "notes": "pre-cooked"
+    },
+    {
+      "name": "turkish pepperoni",
+      "amount": "4 slices",
+      "notes": null
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "oregano",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 450°F (230°C).",
+    "Roll out the pizza dough to your desired thickness.",
+    "Spread the mozzarella cheese evenly over the dough.",
+    "Layer the pepperoni slices over the cheese.",
+    "Cook the bacon in a pan until crispy.",
+    "Crumble the bacon into small pieces.",
+    "Sprinkle the crumbled bacon and oregano over the pizza.",
+    "Season with salt to taste.",
+    "Bake the pizza in the preheated oven for 15-20 minutes, or until the crust is golden brown.",
+    "Remove the pizza from the oven and let it cool for a few minutes.",
+    "Slice the pizza into 8 equal pieces and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "pizza",
+    "bacon"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/cheesy-crispy-turkish-bacon-pizza",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T06:11:05.219Z"
+}
