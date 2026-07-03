@@ -1,0 +1,81 @@
+{
+  "slug": "crunchy-garlic-indian-stir-fry",
+  "title": "Garlic Indian Stir Fry",
+  "description": "A quick and flavorful Indian-inspired stir fry with garlic and crunchy vegetables.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "crunchy vegetables (bell peppers, carrots, broccoli)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "stir-fry oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the stir-fry oil in a pan over medium-high heat.",
+    "Add the minced garlic and sauté for 1 minute.",
+    "Add the crunchy vegetables and sauté for 3-4 minutes.",
+    "Add the soy sauce, turmeric powder, cumin powder, salt, and black pepper. Stir well.",
+    "Continue to sauté for another 2-3 minutes or until the vegetables are cooked through.",
+    "Serve hot and enjoy!",
+    "Note: You can add protein like chicken or tofu to make it a complete meal."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crunchy-garlic-indian-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:54:19.493Z"
+}
