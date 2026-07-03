@@ -1,0 +1,79 @@
+{
+  "slug": "crumbly-italian-almond-crumble",
+  "title": "Almond Crumble Cake",
+  "description": "A moist almond cake topped with a crunchy crumbly topping, perfect for a sweet treat.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter, softened",
+      "amount": "1/2 cup",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "large"
+    },
+    {
+      "name": "ground almonds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "crumbly mixture",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C). Grease a 9-inch round cake pan.",
+    "In a medium bowl, whisk together almond flour, sugar, and salt.",
+    "Add softened butter and mix until crumbly.",
+    "Beat in eggs and vanilla extract.",
+    "Stir in ground almonds.",
+    "Pour batter into prepared cake pan.",
+    "Top with crumbly mixture.",
+    "Bake for 35-40 minutes, or until a toothpick comes out clean.",
+    "Let cool completely before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "almond",
+    "cake",
+    "crumble",
+    "italian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crumbly-italian-almond-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T17:46:53.153Z"
+}
