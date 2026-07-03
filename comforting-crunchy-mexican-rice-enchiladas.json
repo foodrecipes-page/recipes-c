@@ -1,0 +1,81 @@
+{
+  "slug": "comforting-crunchy-mexican-rice-enchiladas",
+  "title": "Mexican Rice Enchiladas",
+  "description": "A comforting and crunchy take on traditional enchiladas, filled with Mexican rice and wrapped in a crispy tortilla.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mexican Rice",
+      "amount": "1 cup",
+      "notes": "Cooked according to package instructions"
+    },
+    {
+      "name": "Tortillas",
+      "amount": "4-6",
+      "notes": "Corn tortillas"
+    },
+    {
+      "name": "Enchilada Sauce",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Shredded Cheese",
+      "amount": "1 cup",
+      "notes": "Monterey Jack or Cheddar work well"
+    },
+    {
+      "name": "Diced Onion",
+      "amount": "1/2 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Diced Bell Pepper",
+      "amount": "1/2 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the Mexican rice according to package instructions.",
+    "In a large skillet, heat the enchilada sauce over medium heat.",
+    "In a separate pan, warm the tortillas over medium heat for about 30 seconds on each side.",
+    "Spoon some of the cooked rice onto the center of a tortilla, followed by some shredded cheese and any desired diced onion or bell pepper.",
+    "Roll up the tortilla and place seam-side down in a baking dish.",
+    "Repeat with the remaining tortillas and filling.",
+    "Pour the heated enchilada sauce over the rolled tortillas.",
+    "Sprinkle additional shredded cheese on top.",
+    "Bake for 15-20 minutes, or until the cheese is melted and bubbly.",
+    "Garnish with cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "mexican-food",
+    "rice-recipe",
+    "enchilada-recipe"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/comforting-crunchy-mexican-rice-enchiladas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T20:47:44.402Z"
+}
