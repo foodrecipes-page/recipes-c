@@ -1,0 +1,77 @@
+{
+  "slug": "comforting-canadian-beef-wrap",
+  "title": "Beef and Cheese Canadian Wrap",
+  "description": "A hearty and comforting wrap filled with tender beef and melted cheese.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Canadian Bacon",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "2 cups shredded"
+    },
+    {
+      "name": "Tortilla Wrap",
+      "amount": "1 package (8-10 wraps)"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ketchup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "4 cups shredded",
+      "notes": "Optional"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium, sliced",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium-high heat.",
+    "Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the Canadian bacon slices to the skillet and cook until crispy.",
+    "Add the shredded cheese to the skillet and stir until melted.",
+    "Warm the tortilla wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wraps by spooning the beef and cheese mixture onto the center of each wrap, followed by a spoonful of mayonnaise and ketchup.",
+    "Add lettuce and tomato slices if desired.",
+    "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef",
+    "cheese",
+    "comforting",
+    "canadian",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/comforting-canadian-beef-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T00:48:35.096Z"
+}
