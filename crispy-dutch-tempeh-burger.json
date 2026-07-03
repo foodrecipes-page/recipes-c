@@ -1,0 +1,81 @@
+{
+  "slug": "crispy-dutch-tempeh-burger",
+  "title": "Crispy Tempeh Burger",
+  "description": "A plant-based twist on the classic burger, featuring crispy tempeh patties and a variety of toppings.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Crispy tempeh",
+      "amount": "1 package"
+    },
+    {
+      "name": "Burger buns",
+      "amount": "4"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1"
+    },
+    {
+      "name": "Avocado",
+      "amount": "2"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Ketchup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium heat.",
+    "Cut the tempeh into 4 equal pieces and cook for 3-4 minutes per side, or until crispy and golden brown.",
+    "Toast the burger buns by grilling them for 1-2 minutes, or until lightly browned.",
+    "Assemble the burgers by spreading mayonnaise, ketchup, and mustard on the bottom bun, followed by a tempeh patty, lettuce, tomato, cucumber, and avocado.",
+    "Top with the top bun and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tempeh",
+    "burger",
+    "veggie-burger",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-dutch-tempeh-burger",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T05:09:51.631Z"
+}
