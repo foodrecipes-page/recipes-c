@@ -1,0 +1,93 @@
+{
+  "slug": "crunchy-briny-canadian-fish-chowder",
+  "title": "Crunchy Canadian Fish Chowder",
+  "description": "A hearty fish chowder with crunchy toppings and a briny twist. Perfect for a cold winter's day.",
+  "cuisine": "Canadian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Canadian fish",
+      "amount": "1 pound",
+      "notes": "any firm white fish will do"
+    },
+    {
+      "name": "chowder",
+      "amount": "2 cups",
+      "notes": "any type of chowder will do, but creamy is best"
+    },
+    {
+      "name": "crunchy topping",
+      "amount": "1 cup",
+      "notes": "crushed crunchy snack of choice"
+    },
+    {
+      "name": "briny liquid",
+      "amount": "1 tablespoon",
+      "notes": "such as fish sauce or soy sauce"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "for richness and flavor"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "for added depth"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": "for broth"
+    }
+  ],
+  "instructions": [
+    "Melt butter in a large pot over medium heat.",
+    "Add onion and sauté until softened.",
+    "Add Canadian fish and cook until opaque.",
+    "Add chowder, briny liquid, salt, pepper, and black pepper. Stir well.",
+    "Add water and bring to a boil.",
+    "Reduce heat and simmer for 10-15 minutes.",
+    "Serve hot, topped with crunchy topping.",
+    "Enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "canadian",
+    "chowder",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crunchy-briny-canadian-fish-chowder",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T08:27:39.963Z"
+}
