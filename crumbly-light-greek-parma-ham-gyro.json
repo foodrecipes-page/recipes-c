@@ -1,0 +1,75 @@
+{
+  "slug": "crumbly-light-greek-parma-ham-gyro",
+  "title": "Gyro Stuffed Croquettes",
+  "description": "A crispy Greek-inspired appetizer filled with spiced ham and feta cheese. Serve with a side of tangy tzatziki sauce.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "greek crumbly bread",
+      "amount": "1 cup",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "light feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "parma ham",
+      "amount": "4 slices",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "gyro",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "1 egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the bread into small cubes and place them on a baking sheet.",
+    "Bake until lightly toasted, about 5 minutes.",
+    "In a large mixing bowl, combine the toasted bread, feta cheese, parma ham, and gyro.",
+    "Add the beaten egg and mix until well combined. Season with salt to taste.",
+    "Using your hands, shape the mixture into small patties.",
+    "Dip each patty in the beaten egg and then coat in breadcrumbs.",
+    "Heat a large non-stick skillet over medium-high heat.",
+    "Cook the croquettes until golden brown on both sides, about 3-4 minutes per side.",
+    "Serve hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "appetizer",
+    "snack",
+    "feta",
+    "ham"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crumbly-light-greek-parma-ham-gyro",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T15:52:41.530Z"
+}
