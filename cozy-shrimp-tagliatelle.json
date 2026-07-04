@@ -1,0 +1,80 @@
+{
+  "slug": "cozy-shrimp-tagliatelle",
+  "title": "Shrimp Tagliatelle",
+  "description": "A simple and delicious Italian-inspired pasta dish featuring succulent shrimp. This recipe is quick to prepare and cook, perfect for a weeknight dinner.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "12 oz",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Tagliatelle",
+      "amount": "8 oz",
+      "notes": "fresh pasta"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Grated Parmesan cheese",
+      "amount": "1 cup",
+      "notes": "freshly grated"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the tagliatelle according to the package instructions until al dente. Reserve 1 cup of pasta water before draining.",
+    "In a large skillet, heat the olive oil over medium-high heat. Add the garlic and cook for 1-2 minutes until fragrant.",
+    "Add the shrimp to the skillet and cook for 2-3 minutes per side until pink and cooked through.",
+    "Remove the shrimp from the skillet and set aside. Reduce the heat to medium.",
+    "Add the reserved pasta water to the skillet and stir to combine with the garlic and oil.",
+    "Add the cooked tagliatelle to the skillet, tossing to combine with the garlic and oil.",
+    "Return the shrimp to the skillet and toss to combine with the pasta and sauce.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately, topped with grated Parmesan cheese."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "shrimp",
+    "pasta",
+    "quick-and-easy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 45,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/cozy-shrimp-tagliatelle",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T17:53:07.862Z"
+}
