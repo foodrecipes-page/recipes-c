@@ -1,0 +1,91 @@
+{
+  "slug": "crunchy-russian-beef-grill",
+  "title": "Russian Beef Grill",
+  "description": "A delicious and flavorful Russian-inspired beef dish, grilled to perfection. Serve hot with a side of crunchy vegetables.",
+  "cuisine": "Russian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef (1 pound)",
+      "amount": "1 lb",
+      "notes": null
+    },
+    {
+      "name": "Russian Seasoning (2 teaspoons)",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Crunchy Cucumber Slices",
+      "amount": "4 slices",
+      "notes": null
+    },
+    {
+      "name": "Russian Pickle Slices",
+      "amount": "4 slices",
+      "notes": null
+    },
+    {
+      "name": "Lemon Wedges",
+      "amount": "2 wedges",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "Oil",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Season the beef with salt, pepper, and Russian seasoning.",
+    "Grill the beef for 5-7 minutes per side, or until it reaches an internal temperature of 135°F.",
+    "Let the beef rest for 5 minutes before slicing it thinly.",
+    "Meanwhile, grill the cucumber and Russian pickle slices for 2-3 minutes per side, or until they are slightly charred.",
+    "Serve the beef with the grilled vegetables and a squeeze of lemon juice.",
+    "Optional: Top with butter and garlic."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "russian",
+    "beef",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crunchy-russian-beef-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T10:26:46.605Z"
+}
