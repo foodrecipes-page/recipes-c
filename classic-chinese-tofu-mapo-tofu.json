@@ -1,0 +1,92 @@
+{
+  "slug": "classic-chinese-tofu-mapo-tofu",
+  "title": "Mapo Tofu Stir Fry",
+  "description": "A classic Chinese Sichuan dish made with tofu, ground pork, and a spicy sauce.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "14 oz",
+      "notes": "Extra-firm, drained, and cut into small cubes"
+    },
+    {
+      "name": "mapo",
+      "amount": "2 tablespoons",
+      "notes": "Spicy Sichuan bean paste"
+    },
+    {
+      "name": "classic",
+      "amount": "2 cloves",
+      "notes": "Garlic, minced"
+    },
+    {
+      "name": "chinese",
+      "amount": "1 tablespoon",
+      "notes": "Soy sauce"
+    },
+    {
+      "name": "chinese",
+      "amount": "1 tablespoon",
+      "notes": "Rice vinegar"
+    },
+    {
+      "name": "chinese",
+      "amount": "1 teaspoon",
+      "notes": "Ground white pepper"
+    },
+    {
+      "name": "classic",
+      "amount": "1 tablespoon",
+      "notes": "Vegetable oil"
+    },
+    {
+      "name": "classic",
+      "amount": "1 cup",
+      "notes": "Mixed bell peppers, sliced"
+    },
+    {
+      "name": "classic",
+      "amount": "2 cups",
+      "notes": "Mixed scallions, chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the garlic and cook, stirring constantly, for 30 seconds.",
+    "Add the mixed bell peppers and cook, stirring occasionally, for 3-4 minutes.",
+    "Add the tofu and cook, stirring occasionally, for 3-4 minutes.",
+    "Add the Sichuan bean paste, soy sauce, rice vinegar, and ground white pepper.",
+    "Stir to combine and cook for 1-2 minutes.",
+    "Add the mixed scallions and stir to combine.",
+    "Cook for an additional 1-2 minutes, until the scallions are slightly wilted.",
+    "Serve immediately.",
+    "Optional: Serve with steamed rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sichuan",
+    "stir-fry",
+    "chinese",
+    "tofu",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/classic-chinese-tofu-mapo-tofu",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T13:43:27.074Z"
+}
