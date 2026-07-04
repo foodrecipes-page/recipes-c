@@ -1,0 +1,82 @@
+{
+  "slug": "crispy-peruvian-chicken-quesadilla",
+  "title": "Crispy Peruvian Chicken Quesadilla",
+  "description": "A flavorful twist on traditional quesadillas, featuring crispy Peruvian chicken and melted cheese.",
+  "cuisine": "Latin American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "crispy corn flakes",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "Peruvian aji amarillo pepper",
+      "amount": "1",
+      "notes": "dried and crushed"
+    },
+    {
+      "name": "quesadilla cheese",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "optional: lettuce, tomatoes, salsa",
+      "amount": "for topping"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. In a shallow dish, mix together flour and a pinch of salt. Dredge chicken breast in flour mixture, shaking off excess.",
+    "3. Dip floured chicken in beaten eggs, then coat in crushed corn flakes.",
+    "4. Heat 1/4 cup olive oil in a large skillet over medium-high heat. Fry chicken until golden brown and crispy, about 5 minutes per side.",
+    "5. Transfer fried chicken to a baking sheet and bake in preheated oven for 10-12 minutes, or until cooked through.",
+    "6. While chicken is baking, warm quesadilla cheese in the microwave or in a dry skillet over medium heat.",
+    "7. Assemble quesadillas by placing a few slices of cooked chicken onto a tortilla, followed by a sprinkle of warmed cheese.",
+    "8. Fold tortillas in half and cook in a large skillet over medium heat until cheese is melted and tortillas are crispy, about 2-3 minutes per side.",
+    "9. Cut quesadillas into wedges and serve hot, garnished with lettuce, tomatoes, and salsa if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "quesadilla",
+    "peruvian",
+    "latin-american"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-peruvian-chicken-quesadilla",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T19:08:15.947Z"
+}
