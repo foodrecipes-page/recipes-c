@@ -1,0 +1,92 @@
+{
+  "slug": "cozy-sumac-wrap",
+  "title": "Middle Eastern Sumac Wrap",
+  "description": "A flavorful and easy-to-make wrap filled with sumac-spiced chicken and vegetables, served in a cozy warm wrap.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "pescatarian",
+    "gluten-free",
+    "vegan-options"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "Cut into thin strips"
+    },
+    {
+      "name": "Cozy wrap",
+      "amount": "1",
+      "notes": "Torn into pieces"
+    },
+    {
+      "name": "Sumac",
+      "amount": "2 tablespoons",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head, shredded",
+      "notes": "Optional"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 cup, diced",
+      "notes": "Optional"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup, thinly sliced",
+      "notes": "Optional"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/2 cup, crumbled",
+      "notes": "Optional (vegan option replace with avocado)"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing wrap"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the chicken with salt, pepper, and sumac.",
+    "Grill the chicken until cooked through, about 5-7 minutes per side.",
+    "Let the chicken rest for a few minutes before slicing.",
+    "Meanwhile, brush the wrap with olive oil and grill until lightly toasted.",
+    "Assemble the wrap by spreading the shredded lettuce, diced tomatoes, and thinly sliced onion on the wrap.",
+    "Add the sliced chicken on top and crumble the feta cheese (if using).",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "middle-eastern",
+    "chicken",
+    "wrap",
+    "sumac",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/cozy-sumac-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T18:03:52.580Z"
+}
