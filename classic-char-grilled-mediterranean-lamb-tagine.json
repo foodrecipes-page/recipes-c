@@ -1,0 +1,83 @@
+{
+  "slug": "classic-char-grilled-mediterranean-lamb-tagine",
+  "title": "Spicy Lamb Tagine",
+  "description": "A hearty North African stew made with tender lamb, aromatic spices, and dried fruits.",
+  "cuisine": "North African",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Classic olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Medjool dates",
+      "amount": "4",
+      "notes": "pitted"
+    },
+    {
+      "name": "Grilled garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Char pine nuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of olive oil in a large Dutch oven over medium heat.",
+    "Add the lamb and cook until browned on all sides, about 5 minutes.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic, cumin, cayenne pepper, and salt. Cook for 1 minute.",
+    "Add the dates, pine nuts, and 2 cups of water to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the lamb is tender.",
+    "Serve the stew hot, garnished with chopped fresh parsley, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 43,
+    "carbs": 30,
+    "fat": 36
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/classic-char-grilled-mediterranean-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T12:29:03.208Z"
+}
