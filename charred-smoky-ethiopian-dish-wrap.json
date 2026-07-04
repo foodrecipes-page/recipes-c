@@ -1,95 +1,81 @@
 {
   "slug": "charred-smoky-ethiopian-dish-wrap",
   "title": "Smoky Ethiopian Wrap",
-  "description": "A flavorful and spicy Ethiopian wrap filled with tender lamb and crunchy vegetables.",
+  "description": "A flavor-packed wrap filled with smoky spices and ethiopian flavors.",
   "cuisine": "Ethiopian",
   "diet": [
-    "meat"
+    "vegetarian"
   ],
-  "meal": "lunch",
+  "meal": "snack",
   "ingredients": [
     {
-      "name": "Lamb shoulder",
-      "amount": "1 pound",
-      "notes": "Shredded"
+      "name": "Ethiopian Injera Bread",
+      "amount": "1 piece",
+      "notes": "store-bought or homemade"
     },
     {
-      "name": "Smoked paprika",
-      "amount": "2 teaspoons",
-      "notes": null
+      "name": "Smoked Paprika",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
     },
     {
-      "name": "Ethiopian berbere spice mix",
-      "amount": "1 tablespoon",
-      "notes": null
+      "name": "Roasted Red Pepper",
+      "amount": "1/2 cup",
+      "notes": "roasted and diced"
     },
     {
-      "name": "Lettuce",
-      "amount": "1 head",
-      "notes": null
-    },
-    {
-      "name": "Tomato",
-      "amount": "1 large",
-      "notes": null
+      "name": "Chickpeas",
+      "amount": "1 cup",
+      "notes": "canned, drained and rinsed"
     },
     {
       "name": "Cucumber",
-      "amount": "1 large",
-      "notes": null
-    },
-    {
-      "name": "Red onion",
-      "amount": "1 large",
-      "notes": null
-    },
-    {
-      "name": "Flatbread",
-      "amount": "4-6 pieces",
-      "notes": null
-    },
-    {
-      "name": "Pickled mustard greens",
-      "amount": "1/4 cup",
-      "notes": null
-    },
-    {
-      "name": "Smoked mozzarella cheese",
       "amount": "1/2 cup",
-      "notes": null
+      "notes": "sliced"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Smoked Mozzarella Cheese",
+      "amount": "1/4 cup",
+      "notes": "shredded"
     }
   ],
   "instructions": [
-    "Preheat oven to 400°F (200°C).",
-    "Season the lamb shoulder with berbere spice mix and smoked paprika. Roast in the oven for 20 minutes.",
-    "Shred the lamb with two forks and set aside.",
-    "Slice the lettuce, tomato, cucumber, and red onion into thin strips.",
-    "Warm the flatbread by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
-    "Assemble the wraps by spreading a layer of pickled mustard greens on each flatbread, followed by a spoonful of shredded lamb, some lettuce, tomato, cucumber, and red onion.",
-    "Top each wrap with a slice of smoked mozzarella cheese.",
-    "Serve immediately and enjoy!",
-    "Optional: Add some charred peppers or onions on top for extra flavor and texture."
+    "Heat a dry skillet over medium-high heat.",
+    "Warm the Ethiopian injera bread for 2-3 minutes on each side.",
+    "In a separate pan, heat the smoked paprika and roasted red pepper for 2-3 minutes.",
+    "Add the chickpeas, cucumber, red onion, and cilantro (if using) to the pan and cook for 2-3 minutes.",
+    "Assemble the wraps by placing the chickpea mixture onto the injera bread and topping with smoked mozzarella cheese.",
+    "Serve immediately and enjoy."
   ],
-  "prepTimeMin": 20,
-  "cookTimeMin": 20,
-  "totalTimeMin": 40,
-  "servings": "4-6",
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "lamb",
+    "smoky",
     "ethiopian",
     "wrap",
-    "smoky",
-    "spicy"
+    "snack"
   ],
   "nutrition": {
     "calories": 450,
-    "protein": 35,
-    "carbs": 35,
+    "protein": 20,
+    "carbs": 60,
     "fat": 20
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/charred-smoky-ethiopian-dish-wrap",
   "providerUsed": "groq",
-  "createdAt": "2026-07-01T16:48:53.244Z"
+  "createdAt": "2026-07-02T19:46:05.142Z"
 }
