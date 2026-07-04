@@ -1,0 +1,58 @@
+{
+  "slug": "clove-garlic-porridge",
+  "title": "Garlic Porridge with a Hint of Clove",
+  "description": "A comforting, savory porridge infused with the flavors of garlic and a touch of clove.",
+  "cuisine": "Scandinavian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Porridge",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Clove",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, bring 4 cups of water to a boil.",
+    "Add 2 cups of porridge and reduce heat to medium.",
+    "Stir constantly for 10-15 minutes or until the porridge thickens.",
+    "Add minced garlic and cook for an additional 2 minutes.",
+    "Stir in the ground clove.",
+    "Season with salt to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "comfortfood",
+    "porridge",
+    "garlic",
+    "cloves"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/clove-garlic-porridge",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T18:45:07.377Z"
+}
