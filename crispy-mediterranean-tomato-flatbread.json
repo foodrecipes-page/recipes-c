@@ -1,0 +1,69 @@
+{
+  "slug": "crispy-mediterranean-tomato-flatbread",
+  "title": "Tomato Flatbread",
+  "description": "A simple flatbread topped with fresh tomato and Mediterranean herbs.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "1 piece"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "Fresh oregano",
+      "amount": "1 tablespoon, chopped"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 tablespoon, chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for brushing flatbread"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Brush flatbread with olive oil and season with salt.",
+    "Place flatbread on a baking sheet and bake for 5 minutes.",
+    "Top flatbread with sliced tomato, chopped oregano, and parsley.",
+    "Return to oven and bake for an additional 2-3 minutes.",
+    "Remove from oven and let cool for a few minutes.",
+    "Cut into slices and serve."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 7,
+  "totalTimeMin": 12,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "flatbread",
+    "tomato",
+    "mediterranean",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-mediterranean-tomato-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T07:54:01.910Z"
+}
