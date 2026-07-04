@@ -1,0 +1,66 @@
+{
+  "slug": "ceviche-de-bacalao-con-maripaha",
+  "title": "Spanish Bacalao Ceviche",
+  "description": "A refreshing and flavorful ceviche dish made with cod, onions, peppers, and citrus juices.",
+  "cuisine": "Spanish",
+  "diet": [
+    "fish"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bacalao",
+      "amount": "1 pound",
+      "notes": "dried and salted cod"
+    },
+    {
+      "name": "Maripaha",
+      "amount": "1 large",
+      "notes": "red onion"
+    },
+    {
+      "name": "De",
+      "amount": "1 large",
+      "notes": "red bell pepper"
+    },
+    {
+      "name": "Con",
+      "amount": "1/2 cup",
+      "notes": "fresh cilantro leaves"
+    },
+    {
+      "name": "Ceviche",
+      "amount": "1/4 cup",
+      "notes": "lime juice"
+    }
+  ],
+  "instructions": [
+    "Rinse the bacalao and soak it in water for at least 4 hours or overnight.",
+    "Drain the bacalao and cut it into small pieces.",
+    "Cut the maripaha and de into small pieces.",
+    "In a large bowl, combine the bacalao, maripaha, de, con, and ceviche.",
+    "Mix well and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve chilled, garnished with additional con if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "ceviche",
+    "cod",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 25,
+    "carbs": 5,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ceviche-de-bacalao-con-maripaha",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T11:08:00.824Z"
+}
