@@ -1,0 +1,75 @@
+{
+  "slug": "creamy-greek-long-beans-salad",
+  "title": "Greek Salad with Creamy Dressing",
+  "description": "A classic Greek salad with a twist of creamy dressing. Perfect for a quick and easy lunch.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Greek salad mix",
+      "amount": "4 cups",
+      "notes": "any mix of lettuce, tomatoes, cucumbers, red onions"
+    },
+    {
+      "name": "Long beans",
+      "amount": "1 cup, sliced",
+      "notes": "any type of long beans"
+    },
+    {
+      "name": "Creamy Greek yogurt",
+      "amount": "1/2 cup",
+      "notes": "plain or flavored"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "use a light hand as the yogurt provides creaminess"
+    },
+    {
+      "name": "Red wine vinegar",
+      "amount": "1 tbsp",
+      "notes": "or apple cider vinegar for a sweeter flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "use a gentle hand as the feta will add saltiness"
+    },
+    {
+      "name": "Feta cheese (optional)",
+      "amount": "1/4 cup, crumbled",
+      "notes": "for an extra burst of flavor"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the Greek salad mix, sliced long beans, and crumbled feta cheese (if using)",
+    "2. In a small bowl, whisk together the creamy Greek yogurt, olive oil, red wine vinegar, and salt",
+    "3. Pour the yogurt dressing over the salad and toss to combine",
+    "4. Taste and adjust the seasoning as needed",
+    "5. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "greeksalad",
+    "creamysalad"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-greek-long-beans-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T23:42:15.372Z"
+}
