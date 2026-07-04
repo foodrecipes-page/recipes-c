@@ -1,0 +1,76 @@
+{
+  "slug": "crumbly-russian-black-treacle-crumble",
+  "title": "Russian Black Treacle Crumble",
+  "description": "A classic dessert combining the richness of black treacle with the crunch of a crumbly topping.",
+  "cuisine": "british",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "black treacle",
+      "amount": "200g"
+    },
+    {
+      "name": "crumbly oat topping",
+      "amount": "250g",
+      "notes": "available in most supermarkets"
+    },
+    {
+      "name": "butter",
+      "amount": "100g"
+    },
+    {
+      "name": "sugar",
+      "amount": "150g"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "flour",
+      "amount": "100g"
+    },
+    {
+      "name": "milk",
+      "amount": "150ml"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Mix the black treacle, sugar, eggs, and flour in a bowl.",
+    "Add the milk and mix until smooth.",
+    "Pour the mixture into a baking dish.",
+    "Add the crumbly oat topping and dot with butter.",
+    "Bake for 35-40 minutes or until the topping is golden brown.",
+    "Remove from the oven and let cool for a few minutes.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crumble",
+    "dessert",
+    "british",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crumbly-russian-black-treacle-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T09:39:31.233Z"
+}
