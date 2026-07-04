@@ -1,62 +1,69 @@
 {
   "slug": "creamy-light-spanish-herb-stir-fry",
-  "title": "Spanish Stir Fry",
-  "description": "A quick and flavorful Spanish-inspired stir fry with a light and creamy sauce.",
+  "title": "Spanish Chicken and Vegetables",
+  "description": "A flavorful and quick chicken dish with a mix of Spanish spices, perfect for a weeknight dinner.",
   "cuisine": "Spanish",
-  "diet": null,
+  "diet": [
+    "meat"
+  ],
   "meal": "dinner",
   "ingredients": [
     {
-      "name": "chicken breast",
-      "amount": "1 pound",
-      "notes": "cut into bite-sized pieces"
+      "name": "Boneless, skinless chicken breasts",
+      "amount": "4 pounds",
+      "notes": ""
     },
     {
-      "name": "creamy sauce",
-      "amount": "1/4 cup",
-      "notes": "store-bought or homemade"
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
     },
     {
-      "name": "light olive oil",
+      "name": "Bell pepper",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
       "amount": "2 tablespoons",
-      "notes": "for sautéing"
+      "notes": ""
     },
     {
-      "name": "onion",
-      "amount": "1 medium",
-      "notes": "sliced"
-    },
-    {
-      "name": "bell pepper",
-      "amount": "1 medium",
-      "notes": "sliced"
-    },
-    {
-      "name": "smoked paprika",
+      "name": "Spanish seasoning",
       "amount": "1 teaspoon",
-      "notes": "for added flavor"
+      "notes": ""
     },
     {
-      "name": "salt",
+      "name": "Salt",
       "amount": "to taste",
-      "notes": null
+      "notes": ""
     },
     {
-      "name": "fresh parsley",
-      "amount": "chopped",
-      "notes": "for garnish"
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
     }
   ],
   "instructions": [
     "Heat the olive oil in a large skillet over medium-high heat.",
-    "Add the chicken to the skillet and cook until browned, about 5-6 minutes.",
+    "Add the chicken to the skillet and cook until browned, about 5-6 minutes per side.",
     "Remove the chicken from the skillet and set aside.",
-    "Add the sliced onion and bell pepper to the skillet and cook until tender, about 5 minutes.",
-    "Stir in the smoked paprika and cook for an additional minute.",
-    "Return the chicken to the skillet and pour in the creamy sauce.",
-    "Stir to combine and cook for an additional 2-3 minutes, until the sauce has thickened.",
-    "Season with salt to taste.",
-    "Serve hot, garnished with chopped parsley."
+    "Add the onion to the skillet and cook until softened, about 3-4 minutes.",
+    "Add the bell pepper and zucchini to the skillet and cook until tender, about 5 minutes.",
+    "Add the garlic to the skillet and cook for 1 minute.",
+    "Return the chicken to the skillet and stir in the Spanish seasoning.",
+    "Season with salt and black pepper to taste.",
+    "Serve the chicken and vegetables hot."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -64,20 +71,19 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "spanish",
-    "stir-fry",
     "chicken",
-    "creamy",
-    "light"
+    "spanish",
+    "vegetables",
+    "skillet"
   ],
   "nutrition": {
     "calories": 320,
     "protein": 35,
-    "carbs": 20,
+    "carbs": 10,
     "fat": 15
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/creamy-light-spanish-herb-stir-fry",
   "providerUsed": "groq",
-  "createdAt": "2026-07-01T12:32:40.740Z"
+  "createdAt": "2026-07-02T13:57:26.934Z"
 }
