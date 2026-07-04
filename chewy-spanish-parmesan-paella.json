@@ -1,0 +1,77 @@
+{
+  "slug": "chewy-spanish-parmesan-paella",
+  "title": "Spanish Paella",
+  "description": "A classic Spanish dish made with rice, seafood, and spices. This paella recipe is a staple of Spanish cuisine.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Spanish rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Chewy olives",
+      "amount": "1/2 cup",
+      "notes": "Pitted"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large paella pan over medium-high heat.",
+    "Add smoked paprika and garlic powder; cook for 1 minute.",
+    "Add Spanish rice; cook for 2-3 minutes, stirring constantly.",
+    "Add vegetable broth; bring to a boil.",
+    "Reduce heat to low; simmer, covered, for 20-25 minutes.",
+    "Stir in Parmesan cheese and chewy olives.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "paella",
+    "spanish",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/chewy-spanish-parmesan-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T13:51:26.399Z"
+}
