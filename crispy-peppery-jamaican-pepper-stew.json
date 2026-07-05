@@ -1,0 +1,69 @@
+{
+  "slug": "crispy-peppery-jamaican-pepper-stew",
+  "title": "Jamaican Jerk Chicken",
+  "description": "A spicy Caribbean-inspired dish with a flavorful jerk marinade. Perfect for a quick dinner.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "4",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Jamaican seasoning",
+      "amount": "2 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1",
+      "notes": "bell or any color"
+    },
+    {
+      "name": "crispy bacon",
+      "amount": "6 slices",
+      "notes": "optional"
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup",
+      "notes": "any type, for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a blender or food processor, combine Jamaican seasoning, pepper, and 2 tbsp of water to make a smooth paste.",
+    "Rub the chicken breasts with the jerk marinade, making sure they're evenly coated.",
+    "Grill the chicken for 5-6 minutes per side, or until cooked through.",
+    "While the chicken is cooking, cook the crispy bacon in a pan over medium heat until crispy.",
+    "Serve the jerk chicken with stew and crispy bacon on top, if using.",
+    "Garnish with chopped fresh herbs, if desired.",
+    "Let the chicken rest for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caribbean",
+    "grilled",
+    "chicken",
+    "bacon",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-peppery-jamaican-pepper-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T09:18:01.430Z"
+}
