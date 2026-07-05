@@ -1,0 +1,58 @@
+{
+  "slug": "crunchy-italian-rice-lasagna",
+  "title": "Italian Crispy Lasagna Casserole",
+  "description": "A classic lasagna recipe with a crunchy twist, featuring crispy breadcrumbs and parmesan on top. This dish is perfect for a satisfying dinner.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna",
+      "amount": "8 sheets"
+    },
+    {
+      "name": "italian",
+      "amount": "1 cup ricotta cheese"
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups cooked"
+    },
+    {
+      "name": "crunchy",
+      "amount": "1 cup breadcrumbs"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the lasagna sheets according to package instructions.",
+    "In a bowl, combine ricotta cheese and cooked rice.",
+    "In a separate bowl, spread a layer of the cheese and rice mixture on the bottom of a baking dish.",
+    "Arrange 4 cooked lasagna sheets on top of the cheese mixture.",
+    "Repeat the layers of cheese mixture and lasagna sheets one more time.",
+    "Sprinkle breadcrumbs on top and bake for 25 minutes.",
+    "Remove and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "lasagna",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crunchy-italian-rice-lasagna",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T00:13:41.033Z"
+}
