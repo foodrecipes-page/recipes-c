@@ -3575,14 +3575,14 @@
   },
   {
     "slug": "cheesy-grilled-kenyan-veal-grill",
-    "title": "Cheesy Grilled Kenyan Veal",
+    "title": "Kenyan-Style Grilled Veal Chops",
     "tags": [
+      "kenyan",
       "grilled",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "cheesy",
+      "veal"
     ],
-    "cuisine": "Kenyan",
+    "cuisine": "kenyan",
     "totalTimeMin": 25,
     "shard": "c"
   },
@@ -8118,17 +8118,16 @@
   },
   {
     "slug": "citrusy-malaysian-citrusy-mulukhiyah-roast",
-    "title": "Citrusy Malaysian Mulukhiyah Roast",
+    "title": "Roast Chicken with Citrusy Glaze",
     "tags": [
-      "malaysian",
-      "vegetarian",
-      "citrus",
+      "citrusy",
       "roast",
-      "mulukhiyah",
-      "lazy-sunday"
+      "malaysian",
+      "gluten-free",
+      "easy-to-make"
     ],
     "cuisine": "malaysian",
-    "totalTimeMin": 15,
+    "totalTimeMin": 65,
     "shard": "c"
   },
   {
@@ -10017,17 +10016,16 @@
   },
   {
     "slug": "comforting-crunchy-tunisian-lamb-flatbread",
-    "title": "Comforting Crunchy Tunisian Lamb Flatbread",
+    "title": "Tunisian Lamb Flatbread",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "high-protein",
-      "mediterranean",
-      "one-pan",
-      "weeknight"
+      "comforting",
+      "crunchy",
+      "tunisian",
+      "lamb",
+      "flatbread"
     ],
     "cuisine": "Tunisian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 50,
     "shard": "c"
   },
   {
@@ -10398,15 +10396,14 @@
   },
   {
     "slug": "comforting-venezuelan-dish-stew",
-    "title": "Pabellon Criollo Stew",
+    "title": "Pabellón Criollo",
     "tags": [
+      "beef",
       "comfort-food",
-      "hearty",
-      "one-pan",
-      "weeknight"
+      "stew"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 150,
+    "totalTimeMin": 60,
     "shard": "c"
   },
   {
@@ -31614,6 +31611,32 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 50,
+    "shard": "c"
+  },
+  {
+    "slug": "creamy-tangy-middle-eastern-tamarind-stir-fry--indian",
+    "title": "Tamarind Chicken Stir Fry",
+    "tags": [
+      "chicken",
+      "indian",
+      "stir-fry",
+      "tamarind"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-middle-eastern-enab-warak-enab--keto",
+    "title": "Crispy Warak Enab with Eastern Twist",
+    "tags": [
+      "keto",
+      "middle eastern",
+      "snack",
+      "crispy"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 30,
     "shard": "c"
   }
 ]
