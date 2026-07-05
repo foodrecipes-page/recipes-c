@@ -2568,17 +2568,16 @@
   },
   {
     "slug": "charred-juicy-british-lamb-shepherds-pie",
-    "title": "Charred Juicy British Lamb Shepherds Pie",
+    "title": "British Shepherd's Pie",
     "tags": [
-      "british",
-      "date-night",
-      "holiday",
-      "kosher",
       "lamb",
-      "shepherds-pie"
+      "shepherd",
+      "pie",
+      "british",
+      "comfort-food"
     ],
     "cuisine": "British",
-    "totalTimeMin": 80,
+    "totalTimeMin": 45,
     "shard": "c"
   },
   {
@@ -7612,17 +7611,14 @@
   },
   {
     "slug": "citrusy-gooey-irish-turnips-stew",
-    "title": "Citrusy Gooey Irish Turnips Stew",
+    "title": "Irish Citrus Stew",
     "tags": [
       "irish",
       "stew",
-      "slow-cooked",
-      "plant-based",
-      "vegetarian",
-      "gluten-free"
+      "vegetarian"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 55,
+    "cuisine": "irish",
+    "totalTimeMin": 35,
     "shard": "c"
   },
   {
@@ -29646,17 +29642,15 @@
   },
   {
     "slug": "cure-all-portuguese-hangover-cure-frittata",
-    "title": "cure-all portuguese hangover cure frittata",
+    "title": "Traditional Portuguese Hangover Cure Frittata",
     "tags": [
-      "ayurvedic-friendly",
+      "portuguese",
       "breakfast",
-      "brunch",
-      "hangover-cure",
-      "lunch",
-      "weeknight"
+      "frittata",
+      "hangover cure"
     ],
-    "cuisine": "portuguese",
-    "totalTimeMin": 35,
+    "cuisine": "Portuguese",
+    "totalTimeMin": 40,
     "shard": "c"
   },
   {
@@ -31636,6 +31630,31 @@
       "crispy"
     ],
     "cuisine": "Middle Eastern",
+    "totalTimeMin": 30,
+    "shard": "c"
+  },
+  {
+    "slug": "creamy-tangy-middle-eastern-tamarind-stir-fry--vegan",
+    "title": "Tamarind Stir Fry",
+    "tags": [
+      "vegan",
+      "eastern",
+      "stir-fry"
+    ],
+    "cuisine": "eastern",
+    "totalTimeMin": 35,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-middle-eastern-enab-warak-enab--chinese",
+    "title": "Warak Enab Spring Rolls",
+    "tags": [
+      "chinese",
+      "spring-rolls",
+      "vegetarian",
+      "easy-recipe"
+    ],
+    "cuisine": "chinese",
     "totalTimeMin": 30,
     "shard": "c"
   }
