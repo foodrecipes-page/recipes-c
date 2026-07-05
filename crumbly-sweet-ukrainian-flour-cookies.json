@@ -1,0 +1,65 @@
+{
+  "slug": "crumbly-sweet-ukrainian-flour-cookies",
+  "title": "Sweet Ukrainian Crumble Cookies",
+  "description": "A classic Ukrainian cookie recipe with a crumbly twist, perfect for a snack or dessert.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "cookies",
+      "amount": "1 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups",
+      "notes": "all-purpose"
+    },
+    {
+      "name": "crumbly",
+      "amount": "1/2 cup",
+      "notes": "sweet crumb mixture"
+    },
+    {
+      "name": "sweet",
+      "amount": "1/2 cup",
+      "notes": "granulated sugar"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Line a baking sheet with parchment paper.",
+    "In a medium bowl, whisk together flour and crumbly mixture.",
+    "In a large bowl, cream together cookies and sweet.",
+    "Add flour mixture to wet ingredients and mix until a dough forms.",
+    "Roll out dough to 1/4 inch thickness.",
+    "Cut into desired shapes using a cookie cutter.",
+    "Place cookies on prepared baking sheet.",
+    "Bake for 12-15 minutes or until lightly golden.",
+    "Allow cookies to cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 30,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "cookies",
+    "ukrainian",
+    "dessert",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": "2g",
+    "carbs": "20g",
+    "fat": "4g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crumbly-sweet-ukrainian-flour-cookies",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T23:42:44.076Z"
+}
