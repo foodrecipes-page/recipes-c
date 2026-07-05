@@ -1,0 +1,74 @@
+{
+  "slug": "crispy-australian-apple-roll",
+  "title": "Australian Apple Crisp",
+  "description": "A classic dessert featuring tender apples topped with a crunchy oat and brown sugar crisp. Perfect for a chilly evening.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Australian apples",
+      "amount": "6-8",
+      "notes": "any variety, chopped"
+    },
+    {
+      "name": "oats",
+      "amount": "1 cup",
+      "notes": "rolled oats"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup",
+      "notes": "packed"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cold butter",
+      "amount": "1/2 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "crispy bacon",
+      "amount": "4-6 slices",
+      "notes": "optional, crumbled"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, combine chopped apples, brown sugar, and flour.",
+    "Transfer the apple mixture to a 9x9-inch baking dish.",
+    "In another bowl, mix together oats, cold butter, and a pinch of salt until crumbly.",
+    "Spread the oat mixture evenly over the apple filling.",
+    "If using, sprinkle crumbled bacon over the top.",
+    "Bake for 35-40 minutes or until the topping is golden brown and the apples are tender.",
+    "Serve warm, topped with vanilla ice cream or whipped cream if desired.",
+    "Optional: add a sprinkle of cinnamon or nutmeg for extra flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": "6-8",
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "dessert",
+    "apple",
+    "crisp"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-australian-apple-roll",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T12:30:53.352Z"
+}
