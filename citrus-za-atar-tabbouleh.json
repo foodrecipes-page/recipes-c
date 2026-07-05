@@ -1,0 +1,87 @@
+{
+  "slug": "citrus-za-atar-tabbouleh",
+  "title": "Lebanese Chicken Shawarma with Tabbouleh",
+  "description": "A flavorful and refreshing Middle Eastern dish featuring marinated chicken, crispy pita, and crunchy tabbouleh salad.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "zaatar",
+      "amount": "2 tablespoons",
+      "notes": "mixed with olive oil and lemon juice"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "citrus",
+      "amount": "1",
+      "notes": "juice of 1 lemon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tabbouleh",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4-6",
+      "notes": "warmed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for brushing pita"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together zaatar, lemon juice, garlic, and olive oil to make the marinade.",
+    "2. Add the chicken strips to the marinade and mix well to coat. Cover and refrigerate for at least 30 minutes.",
+    "3. Preheat a grill or grill pan to medium-high heat. Remove the chicken from the marinade and cook for 5-7 minutes per side, or until cooked through.",
+    "4. Warm the pita bread by wrapping it in foil and heating it in the oven for a few minutes.",
+    "5. Assemble the shawarma by spreading a layer of tabbouleh on each pita, followed by a few strips of grilled chicken.",
+    "6. Brush the pita with olive oil and sprinkle with salt to taste.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "shawarma",
+    "lebanese",
+    "middle eastern"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/citrus-za-atar-tabbouleh",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T02:54:54.987Z"
+}
