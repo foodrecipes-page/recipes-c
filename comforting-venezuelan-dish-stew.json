@@ -1,0 +1,88 @@
+{
+  "slug": "comforting-venezuelan-dish-stew",
+  "title": "Pabellón Criollo",
+  "description": "A hearty and comforting Venezuelan stew made with shredded beef, plantains, and beans, served with rice and topped with shredded cheese and sliced avocado.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": "80% lean"
+    },
+    {
+      "name": "Plantains",
+      "amount": "2",
+      "notes": "ripe"
+    },
+    {
+      "name": "Kidney beans, drained and rinsed",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion, chopped",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the ground beef and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the onion, garlic, chili powder, salt, and black pepper to the pot and cook until the onion is translucent.",
+    "Add the tomato paste and cook for 1 minute.",
+    "Add the plantains and cook for 5 minutes.",
+    "Add the kidney beans and beef broth to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Serve the stew over rice, topped with shredded cheese and sliced avocado."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "comfort-food",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/comforting-venezuelan-dish-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T05:22:22.201Z"
+}
