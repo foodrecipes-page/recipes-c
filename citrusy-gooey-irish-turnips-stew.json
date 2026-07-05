@@ -1,0 +1,91 @@
+{
+  "slug": "citrusy-gooey-irish-turnips-stew",
+  "title": "Irish Citrus Stew",
+  "description": "A hearty and flavorful stew perfect for a chilly evening, made with tender turnips and a hint of citrus.",
+  "cuisine": "irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Turnips",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Citrusy Sauce",
+      "amount": "2 tbsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Gooey Cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded, for serving"
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "In a large pot or Dutch oven, heat 2 tbsp of oil over medium heat."
+    },
+    {
+      "step": 2,
+      "description": "Add the chopped onion and cook until softened, about 5 minutes."
+    },
+    {
+      "step": 3,
+      "description": "Add the chopped turnips and carrots, and cook for an additional 5 minutes."
+    },
+    {
+      "step": 4,
+      "description": "Pour in the citrusy sauce and bring the mixture to a simmer."
+    },
+    {
+      "step": 5,
+      "description": "Reduce heat to low and let the stew cook, covered, for 20-25 minutes or until the vegetables are tender."
+    },
+    {
+      "step": 6,
+      "description": "Stir in the gooey cheese until melted and well combined."
+    },
+    {
+      "step": 7,
+      "description": "Season with salt and pepper to taste."
+    },
+    {
+      "step": 8,
+      "description": "Serve hot and enjoy!"
+    }
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/citrusy-gooey-irish-turnips-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T06:00:20.789Z"
+}
