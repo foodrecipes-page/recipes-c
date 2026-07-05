@@ -1,0 +1,70 @@
+{
+  "slug": "crunchy-smoky-tomato-stir-fry",
+  "title": "Smoky Crunchy Stir Fry",
+  "description": "Quick and flavorful stir fry dish made with crunchy vegetables and smoky seasonings.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Crunchy Carrots",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Smoky Paprika",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 cups",
+      "notes": "diced"
+    },
+    {
+      "name": "Stir Fry Noodles",
+      "amount": "8 ounces"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add onion and cook for 3-4 minutes until softened.",
+    "Add carrots and cook for an additional 2-3 minutes.",
+    "Add tomato and cook for 2-3 minutes until tender.",
+    "Add noodles and stir in smoky paprika.",
+    "Cook for an additional 2-3 minutes until noodles are heated through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian",
+    "vegetarian",
+    "stir-fry",
+    "quick-cooking"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crunchy-smoky-tomato-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T01:29:08.607Z"
+}
