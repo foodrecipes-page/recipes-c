@@ -1,0 +1,81 @@
+{
+  "slug": "creamy-australian-fish-stock-soup",
+  "title": "Australian Fish Soup",
+  "description": "A hearty and comforting soup originating from Australia, made with fresh fish and a creamy base.",
+  "cuisine": "australian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fresh Fish Fillets (Cod or Haddock)",
+      "amount": "2",
+      "notes": "Approx. 1 pound"
+    },
+    {
+      "name": "Australian Creamy Stock",
+      "amount": "4 cups",
+      "notes": "Homemade or low-sodium store-bought"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Australian Fish Sauce",
+      "amount": "2 tablespoons",
+      "notes": "Or to taste"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring the stock to a boil in a large pot over medium-high heat.",
+    "Reduce heat to medium-low and add the chopped onion, minced garlic, carrot, and celery. Simmer for 10 minutes or until vegetables are tender.",
+    "Add the fish fillets to the pot and cook for 8-10 minutes or until cooked through.",
+    "Remove the fish from the pot and flake it into bite-sized pieces.",
+    "Return the fish to the pot and stir in the fish sauce. Season with salt and pepper to taste.",
+    "Serve the soup hot, garnished with chopped parsley or chives if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "fish-soup",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-australian-fish-stock-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T11:46:57.556Z"
+}
