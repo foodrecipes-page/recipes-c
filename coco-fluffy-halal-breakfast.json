@@ -1,0 +1,69 @@
+{
+  "slug": "coco-fluffy-halal-breakfast",
+  "title": "Coconut Breakfast Halwa",
+  "description": "A traditional Indian dessert-like breakfast made with coconut and halal ingredients.",
+  "cuisine": "Indian",
+  "diet": [
+    "halal",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Desiccated Coconut",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Cardamom Powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Flaky Coconut (optional)",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "1. In a large saucepan, heat the ghee over medium heat.",
+    "2. Add the desiccated coconut and cook, stirring occasionally, until lightly toasted.",
+    "3. Add the milk, sugar, and cardamom powder. Stir well.",
+    "4. Bring the mixture to a boil, then reduce the heat to low and simmer for 10-12 minutes, stirring frequently.",
+    "5. The halwa should thicken and turn a light golden brown.",
+    "6. Remove the saucepan from the heat and let it cool slightly.",
+    "7. Stir in the flaky coconut, if using.",
+    "8. Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut",
+    "breakfast",
+    "halal",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/coco-fluffy-halal-breakfast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T01:27:27.205Z"
+}
