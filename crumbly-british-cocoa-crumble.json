@@ -1,0 +1,77 @@
+{
+  "slug": "crumbly-british-cocoa-crumble",
+  "title": "British Crumble Cake",
+  "description": "A classic British dessert with a crumbly crust and moist cake. Enjoy warm with a scoop of vanilla ice cream.",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "cocoa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "crumbly",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "Grease a 9x9-inch baking dish with butter.",
+    "In a medium bowl, whisk together the flour, sugar, and cocoa powder.",
+    "Add the softened butter and mix until the mixture resembles coarse crumbs.",
+    "Press the crumb mixture into the prepared baking dish.",
+    "In a large bowl, whisk together the eggs, milk, and vanilla extract.",
+    "Pour the egg mixture over the crumb mixture in the baking dish.",
+    "Bake for 35-40 minutes, or until the cake is set and the crust is golden brown.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Serve warm, topped with whipped cream or ice cream if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "crumble-cake",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crumbly-british-cocoa-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T09:36:39.850Z"
+}
