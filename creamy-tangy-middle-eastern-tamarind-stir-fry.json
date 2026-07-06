@@ -1,86 +1,79 @@
 {
   "slug": "creamy-tangy-middle-eastern-tamarind-stir-fry",
-  "title": "Tangy Tamarind Chicken Stir Fry",
-  "description": "A flavorful and spicy chicken stir fry made with tamarind paste, served with a side of tangy yogurt sauce. This dish is inspired by the cuisine of the Middle East.",
-  "cuisine": "Middle Eastern",
+  "title": "Tamarind Stir Fry",
+  "description": "A flavorful and tangy stir fry dish from the Middle Eastern cuisine, made with tamarind paste and a blend of spices.",
+  "cuisine": "middle eastern",
   "diet": [
-    "gluten-free",
-    "vegetarian"
+    "vegetarian",
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
     {
-      "name": "Chicken breast",
-      "amount": "1 pound",
-      "notes": "Cut into bite-sized pieces"
+      "name": "tamarind paste",
+      "amount": "2 tbsp"
     },
     {
-      "name": "Tamarind paste",
-      "amount": "2 tablespoons",
-      "notes": "Adjust to taste"
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
     },
     {
-      "name": "Vegetable oil",
-      "amount": "2 tablespoons",
-      "notes": "For frying"
-    },
-    {
-      "name": "Onion",
+      "name": "onion",
       "amount": "1 medium",
-      "notes": "Chopped"
+      "notes": "chopped"
     },
     {
-      "name": "Bell pepper",
+      "name": "bell pepper",
       "amount": "1 medium",
-      "notes": "Chopped"
+      "notes": "chopped"
     },
     {
-      "name": "Ginger",
-      "amount": "1 tablespoon",
-      "notes": "Grated"
-    },
-    {
-      "name": "Yogurt",
-      "amount": "1 cup",
-      "notes": "For sauce"
-    },
-    {
-      "name": "Garlic",
+      "name": "garlic",
       "amount": "2 cloves",
-      "notes": "Minced"
+      "notes": "minced"
+    },
+    {
+      "name": "stir fry blend",
+      "amount": "1 tsp",
+      "notes": "available at most supermarkets"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
     }
   ],
   "instructions": [
-    "Heat oil in a large skillet or wok over medium-high heat.",
-    "Add the chicken and cook until browned, about 5-7 minutes.",
-    "Remove the chicken from the skillet and set aside.",
-    "Add more oil if necessary, then add the onion and bell pepper and cook until tender, about 5 minutes.",
-    "Add the ginger and garlic and cook for 1 minute.",
-    "Add the tamarind paste and stir to combine.",
-    "Return the chicken to the skillet and stir to coat with the sauce.",
-    "Cook for an additional 2-3 minutes, until the chicken is cooked through.",
-    "Stir in the yogurt and cook for 1 minute, until heated through.",
-    "Serve hot, garnished with chopped cilantro or scallions if desired."
+    "Heat the oil in a large skillet or wok over medium-high heat.",
+    "Add the onion and bell pepper and cook until tender, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the tamarind paste and stir fry blend and cook for 1 minute.",
+    "Add the vegetables and stir to coat with the sauce.",
+    "Cook for an additional 2-3 minutes, until the vegetables are tender.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot over rice or noodles."
   ],
-  "prepTimeMin": 15,
-  "cookTimeMin": 20,
-  "totalTimeMin": 35,
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
   "servings": 4,
-  "difficulty": "medium",
+  "difficulty": "easy",
   "tags": [
-    "chicken",
+    "tamarind",
     "stir-fry",
-    "middle-eastern",
-    "tamarind"
+    "middle-eastern"
   ],
   "nutrition": {
-    "calories": 350,
-    "protein": 35,
-    "carbs": 20,
-    "fat": 15
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/creamy-tangy-middle-eastern-tamarind-stir-fry",
   "providerUsed": "groq",
-  "createdAt": "2026-07-03T01:02:14.553Z"
+  "createdAt": "2026-07-04T10:41:24.551Z"
 }
