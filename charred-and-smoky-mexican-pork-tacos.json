@@ -1,0 +1,106 @@
+{
+  "slug": "charred-and-smoky-mexican-pork-tacos",
+  "title": "Smoky Pork Tacos",
+  "description": "A delicious and flavorful Mexican-inspired dish featuring smoky pork, perfect for tacos.",
+  "cuisine": "Mexican",
+  "diet": [
+    "null"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into large chunks"
+    },
+    {
+      "name": "chili powder",
+      "amount": "2 tablespoons",
+      "notes": "or more to taste"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tablespoon",
+      "notes": "or more to taste"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "or more to taste"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "chipotle peppers in adobo sauce",
+      "amount": "2-3",
+      "notes": "depending on desired level of heat"
+    },
+    {
+      "name": "limes",
+      "amount": "2",
+      "notes": "juiced"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10",
+      "notes": "corn or flour"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the pork chunks with chili powder, cumin, smoked paprika, and garlic powder.",
+    "In a large Dutch oven, heat a couple tablespoons of oil over medium-high heat.",
+    "Sear the pork chunks until browned on all sides, then transfer to the oven.",
+    "Braise the pork for 2-3 hours, or until tender.",
+    "Meanwhile, chop the onion and sauté it in a pan until softened.",
+    "Add the chipotle peppers to the pan and cook for a few minutes.",
+    "Shred the pork with two forks and stir in the onion and chipotle mixture.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the pork onto a tortilla and topping with cheese, sour cream, and cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 210,
+  "totalTimeMin": 225,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "tacos",
+    "pork",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/charred-and-smoky-mexican-pork-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T08:02:54.829Z"
+}
