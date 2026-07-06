@@ -1,0 +1,82 @@
+{
+  "slug": "crusty-woodfired-mediterranean-pork-belly-bake",
+  "title": "Woodfired Pork Belly",
+  "description": "A Mediterranean-inspired dish featuring slow-cooked pork belly, perfect for a dinner party.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "1 (1.5-2 kg) piece",
+      "notes": "bone-in"
+    },
+    {
+      "name": "woodfired crusty bread",
+      "amount": "1 loaf",
+      "notes": "for serving"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for rubbing"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "rosemary",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "flaky"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 275°F (135°C).",
+    "Score the pork belly in a crisscross pattern and rub with olive oil, garlic, rosemary, salt, and black pepper.",
+    "Place the pork belly in a roasting pan and bake for 2 hours, or until tender and caramelized.",
+    "Remove the pork belly from the oven and let it rest for 10 minutes before slicing.",
+    "Serve the sliced pork belly with crusty bread and a squeeze of lemon juice.",
+    "Optional: serve with a side of roasted vegetables or salad."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "mediterranean",
+    "pork",
+    "slow-cook",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 54,
+    "carbs": 24,
+    "fat": 62
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crusty-woodfired-mediterranean-pork-belly-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T15:51:48.643Z"
+}
