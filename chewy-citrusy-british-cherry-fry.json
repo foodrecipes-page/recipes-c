@@ -1,0 +1,70 @@
+{
+  "slug": "chewy-citrusy-british-cherry-fry",
+  "title": "Chewy British Cherry Fry",
+  "description": "A traditional British-inspired dessert with a chewy texture and a burst of cherry flavor.",
+  "cuisine": "british",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "chewy oatcakes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cherry jam",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fresh cherries",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fry bread crumbs",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the chewy oatcakes into 1-inch cubes and set aside.",
+    "In a separate bowl, mix the cherry jam and brown sugar.",
+    "In a greased 8x8 inch baking dish, create a layer of oatcake cubes.",
+    "Drizzle the cherry jam mixture over the oatcake layer.",
+    "Top with fresh cherries and dot with butter.",
+    "If using, sprinkle with fry bread crumbs.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Let cool before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "dessert",
+    "chewy",
+    "cherry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/chewy-citrusy-british-cherry-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T04:51:20.796Z"
+}
