@@ -1,0 +1,73 @@
+{
+  "slug": "cocoa-creamy-almond-soup",
+  "title": "Creamy Almond Cocoa Soup",
+  "description": "A rich and creamy soup made with cocoa, almonds and creamy ingredients, perfect for a cold day.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cocoa powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "almond milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsweetened creamy soup mix",
+      "amount": "1 packet"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large saucepan, combine water, cocoa powder and sugar.",
+    "Whisk until the cocoa powder is dissolved.",
+    "Add the creamy soup mix and whisk until well combined.",
+    "Bring the mixture to a boil over medium heat.",
+    "Reduce the heat to low and add the almond milk.",
+    "Simmer for 5 minutes or until the soup has thickened.",
+    "Add the sliced almonds and cook for an additional 2 minutes.",
+    "Season with salt to taste.",
+    "Serve hot and garnish with extra almonds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "soup",
+    "cocoa",
+    "almond",
+    "creamy"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/cocoa-creamy-almond-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T05:37:52.870Z"
+}
