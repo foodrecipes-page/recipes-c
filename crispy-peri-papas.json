@@ -1,0 +1,59 @@
+{
+  "slug": "crispy-peri-papas",
+  "title": "Peri Papas Fries",
+  "description": "A spicy twist on classic fries, inspired by peri peri chicken. Crispy fries tossed with a peri seasoning blend.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Papas",
+      "amount": "2 large",
+      "notes": "preferably Russet potatoes"
+    },
+    {
+      "name": "Crispy",
+      "amount": "1/4 cup",
+      "notes": "crispy fried onions or crispy fried shallots"
+    },
+    {
+      "name": "Peri",
+      "amount": "2 tbsp",
+      "notes": "peri seasoning blend"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the potatoes into long, thin strips and soak in cold water for 30 minutes.",
+    "Drain the potatoes and pat dry with paper towels.",
+    "Toss the potatoes with a little oil and spread on a baking sheet.",
+    "Bake for 20-25 minutes, or until crispy and golden brown.",
+    "While the potatoes are baking, mix the peri seasoning blend with a little oil to create a paste.",
+    "Once the potatoes are done, toss them with the peri paste and crispy fried onions.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peri-peri",
+    "portuguese",
+    "fries",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-peri-papas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T06:36:51.098Z"
+}
