@@ -1,0 +1,70 @@
+{
+  "slug": "creamy-british-beetroot-bubble-and-squeak",
+  "title": "Beetroot and Squeak Fritters",
+  "description": "A British-inspired fritter recipe made with roasted beetroot and a creamy and earthy filling, served with a side of crispy bubble and squeak.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beetroot",
+      "amount": "500g",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "squeak",
+      "amount": "200g",
+      "notes": "mashed"
+    },
+    {
+      "name": "creamy",
+      "amount": "100g",
+      "notes": "sour cream"
+    },
+    {
+      "name": "bubble",
+      "amount": "1",
+      "notes": "large, for frying"
+    },
+    {
+      "name": "and",
+      "amount": "1tsp",
+      "notes": "ground black pepper"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "Roast the beetroot in the oven for 45 minutes, or until tender.",
+    "Mash the roasted beetroot and mix with the mashed squeak and sour cream.",
+    "Season with salt and black pepper.",
+    "Heat a large frying pan with some oil over medium heat.",
+    "Add the large bubble to the pan and fry until crispy.",
+    "Using a spoon, drop small amounts of the beetroot mixture into the hot oil, flattening slightly.",
+    "Fry the fritters for 3-4 minutes on each side, or until golden brown.",
+    "Serve the fritters hot with a side of crispy bubble and squeak."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "vegetarian",
+    "fritters",
+    "beetroot"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-british-beetroot-bubble-and-squeak",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T13:24:43.714Z"
+}
