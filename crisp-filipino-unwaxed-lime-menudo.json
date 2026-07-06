@@ -1,0 +1,93 @@
+{
+  "slug": "crisp-filipino-unwaxed-lime-menudo",
+  "title": "Filipino-Style Menudo",
+  "description": "A hearty Filipino breakfast stew made with ground pork and a variety of spices. Serve with steamed rice for a filling meal.",
+  "cuisine": "Filipino",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Ground pork",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1/2 cup",
+      "notes": "about 1 medium onion"
+    },
+    {
+      "name": "Unwaxed lime",
+      "amount": "1",
+      "notes": "juice and zest"
+    },
+    {
+      "name": "Crisp menudo (Filipino sausage)",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 cup",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the sliced menudo and cook until browned, about 2-3 minutes.",
+    "Add the ground pork and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the diced tomato, fish sauce, soy sauce, salt, and black pepper. Stir well.",
+    "Pour in 2 cups of water and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 10-15 minutes.",
+    "Stir in the lime juice and zest.",
+    "Serve hot with steamed rice.",
+    "Garnish with chopped green onions and a wedge of lime, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "breakfast",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crisp-filipino-unwaxed-lime-menudo",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T05:33:00.881Z"
+}
