@@ -1,0 +1,63 @@
+{
+  "slug": "crisp-fermented-egg-wraps",
+  "title": "Korean-Style Egg Wrap",
+  "description": "A twist on traditional wraps, this Korean-inspired recipe combines a crispy egg with fermented flavors.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "Beaten"
+    },
+    {
+      "name": "Crisp",
+      "amount": "1/4 cup",
+      "notes": "Chopped kimchi"
+    },
+    {
+      "name": "Fermented",
+      "amount": "2 tablespoons",
+      "notes": "Gochujang sauce"
+    },
+    {
+      "name": "Wraps",
+      "amount": "1",
+      "notes": "Tortilla"
+    }
+  ],
+  "instructions": [
+    "1. In a pan, scramble the egg over medium heat.",
+    "2. Add the chopped kimchi to the pan and stir to combine with the egg.",
+    "3. In a small bowl, whisk together the gochujang sauce and a splash of water.",
+    "4. Add the sauce mixture to the pan with the egg mixture and stir to combine.",
+    "5. Warm the tortilla by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "6. Spoon the egg and kimchi mixture onto the center of the tortilla.",
+    "7. Fold the bottom half of the tortilla up over the filling, then fold in the sides and roll up the wrap to form a tight cylinder.",
+    "8. Slice in half and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "breakfast",
+    "wrap",
+    "egg"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crisp-fermented-egg-wraps",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T11:18:22.507Z"
+}
