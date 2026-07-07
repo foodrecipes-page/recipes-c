@@ -1,0 +1,110 @@
+{
+  "slug": "clamato-braise",
+  "title": "Braised Short Ribs with Clamato Glaze",
+  "description": "A hearty, comforting dish featuring tender short ribs smothered in a rich, tangy Clamato glaze.",
+  "cuisine": "Italian",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Short ribs",
+      "amount": "1.5 kg",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Braise",
+      "amount": "1 cup",
+      "notes": "red wine"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Clamato",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the short ribs with salt and black pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the short ribs until browned on all sides, about 5 minutes.",
+    "Remove the short ribs from the pot and set aside.",
+    "Add the chopped onion, carrots, and celery to the pot and cook until the vegetables are softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the braise, tomato paste, Clamato, and dried thyme to the pot.",
+    "Return the short ribs to the pot and bring the mixture to a boil.",
+    "Transfer the pot to the preheated oven and braise the short ribs for 2.5 hours, or until tender.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Strain the sauce and discard the solids.",
+    "Skim any excess fat from the surface of the sauce.",
+    "Serve the short ribs with the Clamato glaze spooned over the top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "hearty",
+    "short-ribs",
+    "clamato"
+  ],
+  "nutrition": {
+    "calories": 740,
+    "protein": 44,
+    "carbs": 24,
+    "fat": 54
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/clamato-braise",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T15:38:01.817Z"
+}
