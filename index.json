@@ -7443,17 +7443,15 @@
   },
   {
     "slug": "citrusy-fluffy-sesame-pilaf",
-    "title": "Citrusy Fluffy Sesame Pilaf",
+    "title": "Sesame Crusted Citrusy Fluffy Pancakes",
     "tags": [
-      "citrusy",
-      "fluffy",
-      "festive",
-      "korean",
-      "sous-vide",
-      "kosher-friendly"
+      "breakfast",
+      "pancakes",
+      "sesame",
+      "citrus"
     ],
-    "cuisine": "Korean",
-    "totalTimeMin": 80,
+    "cuisine": null,
+    "totalTimeMin": 18,
     "shard": "c"
   },
   {
@@ -7768,13 +7766,13 @@
     "slug": "citrusy-herring-stew",
     "title": "Citrusy Herring Stew",
     "tags": [
-      "herring",
       "citrusy",
-      "creamy",
-      "cozy"
+      "herring",
+      "stew",
+      "seafood"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 50,
+    "cuisine": "seafood",
+    "totalTimeMin": 30,
     "shard": "c"
   },
   {
@@ -8073,16 +8071,15 @@
   },
   {
     "slug": "citrusy-lime-vietnamese-stir-fry",
-    "title": "Citrusy Lime Vietnamese Stir-fry",
+    "title": "Vietnamese Lime Stir Fry",
     "tags": [
-      "citrusy",
-      "crisp",
-      "vietnamese_stir-fry",
-      "post_workout",
-      "low_fodmap"
+      "vietnamese",
+      "lime",
+      "stir-fry",
+      "gluten-free"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 10,
+    "totalTimeMin": 25,
     "shard": "c"
   },
   {
@@ -12546,17 +12543,15 @@
   },
   {
     "slug": "creamy-comforting-venezuelan-fenugreek-casserole",
-    "title": "Creamy Comforting Venezuelan Fenugreek Casserole",
+    "title": "Venezuelan Creamy Casserole",
     "tags": [
-      "comfort-food",
-      "fenugreek",
-      "macrobiotic",
-      "sweet-potato",
-      "vegan-friendly",
-      "wood-fired"
+      "comforting",
+      "creamy",
+      "casserole",
+      "venezuelan"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "c"
   },
   {
@@ -31598,6 +31593,69 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 23,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-middle-eastern-enab-warak-enab--gluten-free",
+    "title": "Stuffed Warak Enab (Middle Eastern Stuffed Grape Leaves)",
+    "tags": [
+      "middle-eastern",
+      "gluten-free",
+      "stuffed-grape-leaves"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 45,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-middle-eastern-enab-warak-enab--thai",
+    "title": "Thai Stuffed Enab Wraps",
+    "tags": [
+      "thaifood",
+      "stuffedenab",
+      "veganrecipe"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 20,
+    "shard": "c"
+  },
+  {
+    "slug": "creamy-tangy-middle-eastern-tamarind-stir-fry--german",
+    "title": "Sauerbraten with a Twist",
+    "tags": [
+      "german",
+      "beef",
+      "pot-roast",
+      "tamarind"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 300,
+    "shard": "c"
+  },
+  {
+    "slug": "creamy-tangy-middle-eastern-tamarind-stir-fry--keto",
+    "title": "Keto Middle Eastern Tamarind Chicken Stir Fry",
+    "tags": [
+      "keto",
+      "middle eastern",
+      "chicken",
+      "stir fry"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "creamy-tangy-middle-eastern-tamarind-stir-fry--italian",
+    "title": "Creamy Tamarind Pasta",
+    "tags": [
+      "italian",
+      "pasta",
+      "cream-sauce",
+      "tamarind"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 20,
     "shard": "c"
   }
 ]
