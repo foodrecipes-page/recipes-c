@@ -1,0 +1,60 @@
+{
+  "slug": "crunchy-rich-uruguayan-bread-toast",
+  "title": "Uruguayan Bread Toast",
+  "description": "A traditional Uruguayan dish of toasted bread with a crunchy topping.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Bread",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "Crunchy",
+      "amount": "1 cup",
+      "notes": "Chopped nuts or seeds"
+    },
+    {
+      "name": "Rich",
+      "amount": "2 tablespoons",
+      "notes": "Melted butter or margarine"
+    },
+    {
+      "name": "Uruguayan",
+      "amount": "1 teaspoon",
+      "notes": "Paprika or Uruguayan spice blend"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Slice the bread into 1-inch thick slices.",
+    "Mix the crunchy topping, rich spread, and Uruguayan spice in a bowl.",
+    "Brush the bread slices with the mixture, leaving a small border around the edges.",
+    "Bake for 10-12 minutes or until the bread is toasted and the topping is crispy.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "bread",
+    "toast",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crunchy-rich-uruguayan-bread-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T08:03:08.116Z"
+}
