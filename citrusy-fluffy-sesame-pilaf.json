@@ -1,0 +1,63 @@
+{
+  "slug": "citrusy-fluffy-sesame-pilaf",
+  "title": "Sesame Crusted Citrusy Fluffy Pancakes",
+  "description": "A delicious breakfast recipe featuring fluffy pancakes coated with a crunchy sesame crust, infused with a hint of citrus.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "fluffy",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "citrusy",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "sesame",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "pilaf",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together fluffy, citrusy, and pilaf.",
+    "In a separate bowl, mix together sesame.",
+    "Gradually add sesame to the fluffy mixture and stir until well combined.",
+    "Heat a non-stick skillet over medium heat.",
+    "Drop the mixture by 1/4 cupfuls onto the skillet.",
+    "Cook for 2-3 minutes or until bubbles appear on the surface.",
+    "Flip the pancakes and cook for another 1-2 minutes.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "pancakes",
+    "sesame",
+    "citrus"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/citrusy-fluffy-sesame-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T14:06:30.079Z"
+}
