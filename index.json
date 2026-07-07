@@ -3581,14 +3581,14 @@
   },
   {
     "slug": "cheesy-mexican-cheese-stir-fry",
-    "title": "Cheesy Mexican Cheese Stir-fry",
+    "title": "Cheesy Mexican Stir Fry",
     "tags": [
+      "mexican",
       "cheesy",
-      "stir-fry",
-      "vegan-friendly"
+      "stir-fry"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 35,
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
     "shard": "c"
   },
   {
@@ -4001,18 +4001,15 @@
   },
   {
     "slug": "chewy-crowd-pleaser-turkish-onion-imam-bayildi",
-    "title": "Imam Bayildi",
+    "title": "Turkish Imam Bayildi",
     "tags": [
-      "caramelized",
-      "eggplant",
-      "one-pan",
-      "onion",
       "turkish",
+      "eggplant",
       "vegetarian",
-      "weeknight"
+      "vegan"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 65,
     "shard": "c"
   },
   {
@@ -19521,20 +19518,17 @@
   },
   {
     "slug": "crispy-floral-lebanese-lamb-tagine",
-    "title": "Crispy Floral Lebanese Lamb Tagine",
+    "title": "Lamb Tagine with Crispy Crust",
     "tags": [
-      "mideast",
-      "lebanese",
       "lamb",
       "tagine",
-      "lazy",
+      "north-african",
+      "couscous",
       "floral",
-      "crispy",
-      "currants",
-      "couscous"
+      "crispy"
     ],
-    "cuisine": "Lebanese",
-    "totalTimeMin": 135,
+    "cuisine": "North African",
+    "totalTimeMin": 190,
     "shard": "c"
   },
   {
