@@ -1,0 +1,72 @@
+{
+  "slug": "crispy-italian-persian-cucumber-stir-fry",
+  "title": "Stir Fry Cucumber Salad",
+  "description": "A refreshing cold salad made with stir fried cucumbers and a blend of Italian and Persian flavors.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cucumber",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Persian Crispy Bread",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "Italian Dressing",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Stir Fry Oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the stir fry oil in a pan over medium heat.",
+    "Stir fry the sliced cucumbers for 3-4 minutes until slightly softened.",
+    "In a separate bowl, mix together the Italian dressing, salt, and crushed Persian crispy bread.",
+    "Once the cucumbers are done, let them cool down to room temperature.",
+    "Add the cooled cucumbers to the bowl with the dressing mixture and mix well.",
+    "Garnish with chopped fresh parsley and serve chilled."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "persian",
+    "cold-salad",
+    "cucumber",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-italian-persian-cucumber-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T08:34:49.846Z"
+}
