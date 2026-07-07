@@ -1,0 +1,80 @@
+{
+  "slug": "cheesy-mexican-cheese-stir-fry",
+  "title": "Cheesy Mexican Stir Fry",
+  "description": "A quick and easy stir fry filled with the flavors of Mexico, topped with melted cheese.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "mexican",
+      "amount": "1 packet, taco seasoning"
+    },
+    {
+      "name": "cheesy",
+      "amount": "1 tablespoon, shredded cheese"
+    },
+    {
+      "name": "stir",
+      "amount": "2 tablespoons, vegetable oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "beans",
+      "amount": "1 can, black beans, drained and rinsed"
+    },
+    {
+      "name": "tortilla",
+      "amount": "6-8, corn tortillas"
+    }
+  ],
+  "instructions": [
+    "1. Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "2. Add the sliced onion and bell pepper and cook until tender, about 5 minutes.",
+    "3. Add the diced tomato and cook for an additional 2 minutes.",
+    "4. Add the black beans, taco seasoning, and stir to combine.",
+    "5. Reduce heat to low and cook for 2-3 minutes.",
+    "6. Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "7. Assemble the stir fry by placing a portion of the vegetable mixture onto a tortilla and topping with shredded cheese.",
+    "8. Fold the tortilla in half to enclose the filling and cook for an additional 30-60 seconds, until the cheese is melted.",
+    "9. Repeat with the remaining ingredients.",
+    "10. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "cheesy",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/cheesy-mexican-cheese-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T03:36:18.068Z"
+}
