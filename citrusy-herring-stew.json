@@ -1,0 +1,85 @@
+{
+  "slug": "citrusy-herring-stew",
+  "title": "Citrusy Herring Stew",
+  "description": "A hearty and flavorful stew made with herring, citrusy flavors and a hint of stew spices.",
+  "cuisine": "seafood",
+  "diet": [
+    "seafood",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "herring",
+      "amount": "1 lb",
+      "notes": "fresh or canned"
+    },
+    {
+      "name": "lemon",
+      "amount": "2",
+      "notes": "juiced"
+    },
+    {
+      "name": "orange",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add chopped onion and sauté until softened, about 3-4 minutes.",
+    "Add minced garlic and sauté for another minute.",
+    "Add herring, salt, and pepper. Stir to combine.",
+    "Add lemon and orange juice, and stir to combine.",
+    "Add stew and stir to combine.",
+    "Bring to a simmer and cook for 10-15 minutes or until the herring is cooked through.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with lemon wedges if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "herring",
+    "stew",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/citrusy-herring-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T13:56:22.495Z"
+}
