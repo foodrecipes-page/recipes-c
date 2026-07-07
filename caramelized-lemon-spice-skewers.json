@@ -1,0 +1,67 @@
+{
+  "slug": "caramelized-lemon-spice-skewers",
+  "title": "Spicy Lemon Skewers",
+  "description": "A flavorful and colorful dish perfect for a quick dinner, made with marinated skewers and a hint of spice.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Caramelized Onions",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Spice Blend",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Vegetable Skewers (4-6)",
+      "amount": "4-6",
+      "notes": "Bell peppers, cherry tomatoes, mushrooms, zucchini"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, whisk together lemon juice and spice blend.",
+    "Add caramelized onions to the bowl and mix well.",
+    "Thread vegetables onto skewers, leaving a little space between each piece.",
+    "Brush skewers with olive oil and grill for 10-12 minutes, turning occasionally.",
+    "Brush skewers with the lemon-spice mixture during the last 2 minutes of grilling.",
+    "Serve hot, garnished with lemon wedges if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "vegetarian",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/caramelized-lemon-spice-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T23:28:34.640Z"
+}
