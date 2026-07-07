@@ -1,0 +1,83 @@
+{
+  "slug": "citrus-shrimp-stew",
+  "title": "Lemon Garlic Shrimp Stew",
+  "description": "A flavorful and spicy stew made with succulent shrimp, garlic, and a hint of citrus.",
+  "cuisine": "seafood",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon",
+      "amount": "1/2 cup",
+      "notes": "juiced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "citrus",
+      "amount": "1/4 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": "chicken broth"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium-high heat.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the chili flakes, salt, and black pepper. Cook for 1 minute.",
+    "Add the shrimp and cook for 2-3 minutes, until pink.",
+    "Add the lemon juice, citrus slices, and stew. Stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 5 minutes.",
+    "Serve hot, garnished with additional citrus slices if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "seafood",
+    "lemon",
+    "garlic",
+    "shrimp"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/citrus-shrimp-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T21:51:50.836Z"
+}
