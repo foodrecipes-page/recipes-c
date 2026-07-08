@@ -1,0 +1,78 @@
+{
+  "slug": "crisp-clean-middle-eastern-chicken-musakhan",
+  "title": "Classic Musakhan Chicken",
+  "description": "A traditional Middle Eastern dish originating from Palestine, Musakhan is a simple yet flavorful meal made with chicken, onions, and sumac, served with warm flatbread.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for basting"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tsp",
+      "notes": "Middle Eastern spice"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "flatbread",
+      "amount": "4-6 pieces",
+      "notes": "warm, for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the chicken with salt, black pepper, and sumac.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the sliced onions and cook, stirring occasionally, until they're softened and lightly caramelized.",
+    "Add the chicken to the skillet and cook for 5-7 minutes, or until browned on both sides and cooked through.",
+    "Transfer the skillet to the preheated oven and bake for 10-12 minutes, or until the chicken is cooked through.",
+    "Warm the flatbread by wrapping it in foil and baking it in the oven for 2-3 minutes.",
+    "Serve the chicken with the warm flatbread, onions, and a sprinkle of sumac."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "middle-eastern",
+    "flatbread",
+    "sumac"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crisp-clean-middle-eastern-chicken-musakhan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T08:11:20.865Z"
+}
