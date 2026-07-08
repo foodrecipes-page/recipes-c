@@ -1,0 +1,75 @@
+{
+  "slug": "crunchy-crispy-jamaican-snappy-hash",
+  "title": "Snappy Jamaican Crunchy Hash",
+  "description": "A flavorful breakfast dish made with crispy hash browns and a crunchy Jamaican twist.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Hash browns",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Crispy bacon",
+      "amount": "4 slices",
+      "notes": null
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Crunchy chopped peanuts",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Crushed red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. In a bowl, mix together hash browns, jerk seasoning, and a pinch of salt.",
+    "3. Spread the mixture onto a baking sheet and roast for 15-20 minutes, or until crispy.",
+    "4. Meanwhile, cook the bacon in a pan until crispy.",
+    "5. Chop the green onions and set aside.",
+    "6. Once the hash browns are done, top with crispy bacon, chopped green onions, and crunchy chopped peanuts.",
+    "7. Sprinkle crushed red pepper flakes on top, if desired.",
+    "8. Serve hot and enjoy!",
+    "9. Garnish with additional chopped peanuts and green onions, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "jamaican",
+    "hash-browns",
+    "bacon",
+    "peanuts"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crunchy-crispy-jamaican-snappy-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T21:22:18.923Z"
+}
