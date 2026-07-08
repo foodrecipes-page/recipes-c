@@ -1,0 +1,71 @@
+{
+  "slug": "crispy-bitter-british-pudding-salad",
+  "title": "Traditional British Pudding",
+  "description": "A classic dessert from the UK, this pudding is made with a rich mixture of ingredients and served with a crispy topping.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Bread",
+      "amount": "1 cup",
+      "notes": "preferably stale"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Crispy Bacon",
+      "amount": "4 slices",
+      "notes": "chopped, for topping"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Cut the bread into 1-inch cubes and place in a mixing bowl.",
+    "In a separate bowl, whisk together sugar, eggs, milk, and melted butter.",
+    "Pour the wet ingredients over the bread and mix until well combined.",
+    "Pour the mixture into a 9x13 inch baking dish.",
+    "Bake for 35-40 minutes, or until the top is golden brown.",
+    "While the pudding is baking, cook the crispy bacon in a pan until crispy.",
+    "Remove the pudding from the oven and top with chopped crispy bacon.",
+    "Serve warm, garnished with additional crispy bacon if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "pudding",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-bitter-british-pudding-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T23:58:31.578Z"
+}
