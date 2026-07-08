@@ -1,0 +1,71 @@
+{
+  "slug": "crispy-argentinian-cauliflower-stir-fry",
+  "title": "Crispy Cauliflower Stir-Fry",
+  "description": "A flavorful and crunchy stir-fry dish made with crispy cauliflower and argentinian spices.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cauliflower",
+      "amount": "1 head",
+      "notes": "broken into florets"
+    },
+    {
+      "name": "Crunchy Fried Shallots",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Argentinian Red Pepper Flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet or wok over medium-high heat.",
+    "Add cauliflower florets and cook for 5 minutes, or until slightly tender.",
+    "Add Argentinian red pepper flakes and stir-fry for 1 minute.",
+    "Add crunchy fried shallots and stir-fry for another minute.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cauliflower",
+    "stir-fry",
+    "argentinian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-argentinian-cauliflower-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T06:44:42.988Z"
+}
