@@ -1,0 +1,56 @@
+{
+  "slug": "chili-carrot-dish",
+  "title": "Spicy Chili Stew",
+  "description": "A hearty stew made with chili, carrot, and a hint of spice.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chili",
+      "amount": "2 cups"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "dish soap",
+      "amount": "unspecified",
+      "notes": "for washing hands"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large pot over medium-high heat.",
+    "Add 1 cup of chopped chili and cook for 5 minutes.",
+    "Add 1 cup of chopped carrot and cook for an additional 5 minutes.",
+    "Season with salt and pepper to taste.",
+    "Simmer for 20 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chili",
+    "stew",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/chili-carrot-dish",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T16:28:51.912Z"
+}
