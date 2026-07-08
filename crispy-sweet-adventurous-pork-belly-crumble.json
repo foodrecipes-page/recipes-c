@@ -1,0 +1,82 @@
+{
+  "slug": "crispy-sweet-adventurous-pork-belly-crumble",
+  "title": "Pork Belly Crumble",
+  "description": "A sweet and savory dish that combines the tender pork belly with a crunchy crumble topping.",
+  "cuisine": "American",
+  "diet": [
+    "meat-lovers"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork Belly",
+      "amount": "1 pound",
+      "notes": "Skin removed"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "Plain"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Cold Unsalted Butter",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the pork belly with salt and black pepper.",
+    "Place the pork belly on a baking sheet lined with parchment paper and bake for 30 minutes.",
+    "While the pork is baking, mix together the breadcrumbs, granulated sugar, flour, and cold butter in a bowl until crumbly.",
+    "Remove the pork from the oven and brush with brown sugar.",
+    "Top the pork with the crumb mixture and return to the oven for an additional 15-20 minutes, or until the topping is golden brown.",
+    "Remove from the oven and let rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pork-belly",
+    "crumble",
+    "sweet",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-sweet-adventurous-pork-belly-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T00:24:05.863Z"
+}
