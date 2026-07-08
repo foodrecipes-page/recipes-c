@@ -1,0 +1,87 @@
+{
+  "slug": "creamy-bitter-vietnamese-beef-banh-cuon",
+  "title": "Vietnamese Beef Banh Cuon",
+  "description": "A traditional Vietnamese dish made with beef, rice noodles, and herbs, wrapped in a thin rice sheet.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 package",
+      "notes": "dried"
+    },
+    {
+      "name": "vietnamese herbs",
+      "amount": "1 bunch",
+      "notes": "such as mint and basil"
+    },
+    {
+      "name": "banh cuon wrappers",
+      "amount": "1 package",
+      "notes": "fresh"
+    },
+    {
+      "name": "creamy sauce",
+      "amount": "1/2 cup",
+      "notes": "made from mayonnaise and soy sauce"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 cup",
+      "notes": "ground"
+    },
+    {
+      "name": "bitter leaves",
+      "amount": "1/4 cup",
+      "notes": "such as kale or collard greens"
+    }
+  ],
+  "instructions": [
+    "Soak the rice noodles in warm water for 10 minutes, then drain and set aside.",
+    " Slice the beef into thin strips and season with salt, pepper, and cilantro.",
+    "Prepare the creamy sauce by mixing together mayonnaise and soy sauce.",
+    "Assemble the banh cuon by placing a small amount of beef and herbs on a banh cuon wrapper, followed by a slice of noodles.",
+    "Roll the wrapper tightly and secure with a toothpick.",
+    "Serve the banh cuon with creamy sauce and garnish with green onions and cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "breakfast",
+    "noodle",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-bitter-vietnamese-beef-banh-cuon",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T12:03:00.397Z"
+}
