@@ -1,0 +1,86 @@
+{
+  "slug": "crispy-turkish-sesame-burger-bun",
+  "title": "Burger with Sesame Bun",
+  "description": "A classic burger recipe with a crunchy sesame bun. This is a simple yet flavorful meal that is perfect for lunch or dinner.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef patties",
+      "amount": "2",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "sesame bun",
+      "amount": "1",
+      "notes": "soft and slightly sweet"
+    },
+    {
+      "name": "crispy lettuce",
+      "amount": "1 cup",
+      "notes": "crunchy and fresh"
+    },
+    {
+      "name": "turkish cheese",
+      "amount": "1/2 cup",
+      "notes": "mild and creamy"
+    },
+    {
+      "name": "burger",
+      "amount": "1",
+      "notes": " classic burger patty"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "ripe and juicy"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "pickles",
+      "amount": "1/4 cup",
+      "notes": "sour and crunchy"
+    },
+    {
+      "name": "ketchup",
+      "amount": "1 tablespoon",
+      "notes": "classic burger topping"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Form the beef patties and season with salt and pepper.",
+    "Cook the beef patties for 4-5 minutes per side, or until they reach an internal temperature of 160°F.",
+    "Meanwhile, toast the sesame bun on the grill or in a toaster.",
+    "Assemble the burger by spreading ketchup on the bottom bun, followed by a beef patty, a slice of cheese, a few slices of onion, a few slices of tomato, a few leaves of crispy lettuce, and finally the top bun.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "burgers",
+    "grilling",
+    "lunch",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-turkish-sesame-burger-bun",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T16:20:56.895Z"
+}
