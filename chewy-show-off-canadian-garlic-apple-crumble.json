@@ -1,0 +1,65 @@
+{
+  "slug": "chewy-show-off-canadian-garlic-apple-crumble",
+  "title": "Crispy Apple Crumble",
+  "description": "A delicious dessert made with apple and topped with a crunchy crumble mixture.",
+  "cuisine": "british",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Apples",
+      "amount": "6-8 medium-sized"
+    },
+    {
+      "name": "Crumble mixture",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Used to add a hint of flavor to the crumble mixture"
+    },
+    {
+      "name": "Canadian all-purpose flour",
+      "amount": "1/4 cup",
+      "notes": "Used to add structure to the crumble mixture"
+    },
+    {
+      "name": "Crumble",
+      "amount": "1/4 cup",
+      "notes": "Crispy topping for the apple mixture"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Peel, core, and chop the apples into slices.",
+    "Mix the crumble mixture ingredients together in a bowl.",
+    "Add the chopped apples to a baking dish and top with the crumble mixture.",
+    "Bake for 35-40 minutes, or until the crumble is golden brown.",
+    "Serve warm, topped with a scoop of vanilla ice cream or whipped cream."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "apple",
+    "crumble",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/chewy-show-off-canadian-garlic-apple-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T15:44:42.721Z"
+}
