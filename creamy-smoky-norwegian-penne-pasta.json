@@ -1,0 +1,86 @@
+{
+  "slug": "creamy-smoky-norwegian-penne-pasta",
+  "title": "Smoky Norwegian Pasta Bake",
+  "description": "A creamy, smoky, and savory pasta bake featuring Norwegian flavors.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "pescetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "penne pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "creamy sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "smoked salmon",
+      "amount": "6 oz",
+      "notes": ""
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "grated cheddar",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the penne pasta according to the package instructions until al dente.",
+    "In a large skillet, sauté the mushrooms, onion, and garlic until softened.",
+    "Add the smoked salmon and cook for an additional 2 minutes.",
+    "Stir in the creamy sauce and bring to a simmer.",
+    "In a large mixing bowl, combine the cooked pasta, mushroom mixture, and chopped parsley.",
+    "Transfer the pasta mixture to a baking dish and top with grated cheddar cheese.",
+    "Bake in the preheated oven for 15-20 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoky",
+    "creamy",
+    "pasta",
+    "bake",
+    "salmon"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-smoky-norwegian-penne-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T17:54:54.423Z"
+}
