@@ -1,0 +1,75 @@
+{
+  "slug": "caramelized-malaysian-lamb-stir-fry",
+  "title": "Stir-Fried Malaysian Lamb",
+  "description": "A flavorful and aromatic Malaysian-inspired stir-fry dish made with lamb, vegetables, and caramelized onions.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb (sirloin or ribeye)",
+      "amount": "500g",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Caramelized"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "For stir-frying"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 tsp",
+      "notes": "Optional, for some heat"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the lamb and cook until browned, about 3-4 minutes.",
+    "Remove the lamb from the wok and set aside.",
+    "Add the remaining 1 tbsp of vegetable oil to the wok.",
+    "Add the sliced ginger and minced garlic and stir-fry until fragrant, about 1 minute.",
+    "Add the caramelized onion and stir-fry for another minute.",
+    "Return the lamb to the wok and stir-fry until the meat is cooked through.",
+    "Add chili flakes, if using, and stir-fry for another minute.",
+    "Season with salt and pepper to taste.",
+    "Serve hot garnished with fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "malaysian",
+    "stir-fry",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 43,
+    "carbs": 10,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/caramelized-malaysian-lamb-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T11:33:04.950Z"
+}
