@@ -1,0 +1,67 @@
+{
+  "slug": "crumbly-wholesome-kenyan-dried-white-beans-wrap",
+  "title": "Kenyan Bean Wrap",
+  "description": "A delicious and healthy wrap filled with a flavorful bean and vegetable mixture. This dish is perfect for a quick and easy lunch or dinner.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dried white beans",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "crumbly wholesome wrap",
+      "amount": "1",
+      "notes": "whole wheat"
+    },
+    {
+      "name": "kenyan",
+      "amount": "2 tablespoons",
+      "notes": "chopped fresh cilantro"
+    },
+    {
+      "name": "beans",
+      "amount": "1/2 cup",
+      "notes": "cooked black beans"
+    },
+    {
+      "name": "wrap",
+      "amount": "1",
+      "notes": "whole wheat tortilla"
+    }
+  ],
+  "instructions": [
+    "Cook the dried white beans according to package instructions.",
+    "Heat a pan over medium heat and add the chopped cilantro.",
+    "Add the cooked black beans to the pan and stir to combine.",
+    "Warm the whole wheat tortilla in the microwave for 10-15 seconds.",
+    "Fill the tortilla with the bean and cilantro mixture.",
+    "Roll up the wrap tightly and slice in half.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "healthy",
+    "easy",
+    "bean-based"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crumbly-wholesome-kenyan-dried-white-beans-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T00:00:31.216Z"
+}
