@@ -1,0 +1,63 @@
+{
+  "slug": "crispy-sweet-greek-tuna-bowl",
+  "title": "Tuna Bowl Recipe",
+  "description": "A quick and easy meal to prepare, this tuna bowl combines the flavors of the sea with a sweet and crunchy twist.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Canned tuna",
+      "amount": "1 can (5 oz)",
+      "notes": "drained and flaked"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/2 cup",
+      "notes": "plain and non-fat"
+    },
+    {
+      "name": "Sweet chili sauce",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Crispy fried onions",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Bowl",
+      "amount": "",
+      "notes": "large and shallow"
+    }
+  ],
+  "instructions": [
+    "1. Cook the crispy fried onions according to package instructions.",
+    "2. In a large bowl, combine the Greek yogurt, sweet chili sauce, and a pinch of salt.",
+    "3. Add the flaked tuna to the bowl and mix well.",
+    "4. Spoon the tuna mixture into the bowl and top with the cooked crispy fried onions.",
+    "5. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "tuna",
+    "bowl",
+    "seafood",
+    "easy-meal"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-sweet-greek-tuna-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T18:36:13.592Z"
+}
