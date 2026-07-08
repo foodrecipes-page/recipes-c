@@ -1,0 +1,82 @@
+{
+  "slug": "caramelized-british-pork-stir-fry",
+  "title": "Caramelized Pork Stir Fry",
+  "description": "A sweet and savory British-inspired dish made with tender pork and a sticky caramelized sauce.",
+  "cuisine": "british",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork tenderloin",
+      "amount": "500g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Caramelized onions",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the pork and cook until browned, about 3-4 minutes. Remove from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tbsp of vegetable oil and stir in the caramelized onions, garlic, and ginger.",
+    "Cook for 1-2 minutes until the onions are fragrant.",
+    "Add the soy sauce, honey, and sesame oil to the skillet and stir to combine.",
+    "Return the pork to the skillet and stir to coat with the sauce.",
+    "Cook for an additional 2-3 minutes until the pork is cooked through.",
+    "Serve the pork hot, garnished with sesame seeds and chopped green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pork",
+    "british",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/caramelized-british-pork-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T17:33:41.758Z"
+}
