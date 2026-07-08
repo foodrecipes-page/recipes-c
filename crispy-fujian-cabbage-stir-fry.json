@@ -1,0 +1,81 @@
+{
+  "slug": "crispy-fujian-cabbage-stir-fry",
+  "title": "Crispy Fried Cabbage Stir Fry",
+  "description": "A simple and delicious Asian-inspired dish made with crispy fried cabbage, perfect as a side or add your favorite protein for a complete meal.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "Cabbage",
+      "amount": "1 head",
+      "notes": null
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the grated ginger and minced garlic and stir-fry for 1 minute.",
+    "Add the chopped cabbage and stir-fry for 2-3 minutes, until it starts to soften.",
+    "Add the soy sauce, sugar, salt, and black pepper, and stir-fry for another 2-3 minutes, until the cabbage is tender but still crisp.",
+    "Transfer the cabbage mixture to a serving dish and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "asian",
+    "vegetarian",
+    "gluten-free",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 70,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-fujian-cabbage-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T04:17:50.785Z"
+}
