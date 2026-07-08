@@ -1,0 +1,70 @@
+{
+  "slug": "cheesy-sweet-spanish-ham-toast",
+  "title": "Spanish Toast with Ham",
+  "description": "A simple and delicious Spanish-inspired breakfast dish made with crispy toast, savory ham, and a hint of cheesy goodness.",
+  "cuisine": "Spanish",
+  "diet": [
+    "breakfast",
+    "lunch"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Cheesy bread",
+      "amount": "2 slices",
+      "notes": "preferably a crusty Spanish bread"
+    },
+    {
+      "name": "Ham",
+      "amount": "2 oz",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Spanish ham",
+      "amount": "2 oz",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Sweet ham",
+      "amount": "2 oz",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Toast",
+      "amount": "1",
+      "notes": "preferably a crusty bread"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler.",
+    "Toast the bread until crispy.",
+    "Thinly slice the ham and set aside.",
+    "Place the toasted bread under the broiler for 1-2 minutes.",
+    "Top the bread with a slice of ham and a sprinkle of cheese.",
+    "Place the bread under the broiler for an additional 30 seconds.",
+    "Remove from the broiler and serve immediately.",
+    "Optional: serve with a side of fruit or a green salad."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "spanish",
+    "easy",
+    "cheesy",
+    "ham"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/cheesy-sweet-spanish-ham-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T04:42:55.685Z"
+}
