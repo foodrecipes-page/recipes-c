@@ -1,0 +1,61 @@
+{
+  "slug": "creamy-saudi-arabian-lamb-kebabs",
+  "title": "Saudian Lamb Kebabs",
+  "description": "A traditional Saudian dish made with marinated lamb and grilled to perfection. Serve with your favorite sides for a delicious meal.",
+  "cuisine": "Saudian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb (1 1/2 lbs)",
+      "amount": "1 1/2 lbs",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Saudian Kebab Spices",
+      "amount": "2 tbsp",
+      "notes": "Available at most Arabic markets"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing kebabs"
+    },
+    {
+      "name": "Arabian Creamy Sauce (optional)",
+      "amount": "1 cup",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Combine kebab spices, olive oil, and a pinch of salt in a bowl.",
+    "Add lamb cubes to the bowl and mix until coated with spices.",
+    "Thread lamb cubes onto skewers, leaving a little space between each piece.",
+    "Preheat grill to medium-high heat.",
+    "Grill kebabs for 8-10 minutes per side, or until lamb reaches a safe internal temperature of 145°F.",
+    "Let kebabs rest for 5 minutes before serving.",
+    "Serve with Arabian Creamy Sauce, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kebabs",
+    "saudian"
+  ],
+  "nutrition": {
+    "calories": 432,
+    "protein": 53,
+    "carbs": 0,
+    "fat": 26
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-saudi-arabian-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T00:24:16.423Z"
+}
