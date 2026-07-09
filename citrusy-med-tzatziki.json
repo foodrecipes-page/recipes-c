@@ -1,0 +1,83 @@
+{
+  "slug": "citrusy-med-tzatziki",
+  "title": "Citrusy Tzatziki Chicken",
+  "description": "A refreshing and flavorful Greek-inspired dish perfect for a light lunch or dinner.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "vegan-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "tzatziki sauce",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "orange juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the chicken with salt, black pepper, and lemon zest.",
+    "Grill the chicken for 5-6 minutes per side or until cooked through.",
+    "Let the chicken rest for 5 minutes before slicing.",
+    "Mix the tzatziki sauce with orange juice and garlic.",
+    "Serve the sliced chicken with tzatziki sauce and garnish with parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "chicken",
+    "tzatziki",
+    "greeksalad"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/citrusy-med-tzatziki",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T06:19:17.487Z"
+}
