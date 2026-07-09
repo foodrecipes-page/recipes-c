@@ -1,0 +1,88 @@
+{
+  "slug": "creamy-indian-cheese-curry",
+  "title": "Creamy Indian Cheese Curry",
+  "description": "A rich and creamy Indian-inspired cheese curry made with a blend of spices and creamy sauce. Perfect for a comforting meal.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cheese",
+      "amount": "250g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Curry powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large pan over medium heat.",
+    "Add chopped onion and cook until softened, about 3-4 minutes.",
+    "Add grated ginger and minced garlic and cook for another minute.",
+    "Add curry powder and garam masala and cook for 1 minute, until fragrant.",
+    "Add heavy cream and bring to a simmer.",
+    "Reduce heat to low and let sauce simmer for 5 minutes.",
+    "Add cheese and stir until melted and smooth.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "curry",
+    "cheese",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-indian-cheese-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T00:23:44.866Z"
+}
