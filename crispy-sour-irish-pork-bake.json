@@ -1,0 +1,82 @@
+{
+  "slug": "crispy-sour-irish-pork-bake",
+  "title": "Irish Crispy Pork Chops",
+  "description": "A crispy and savory Irish-inspired pork chop dish with a tangy twist.",
+  "cuisine": "Irish",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork chops",
+      "amount": "4",
+      "notes": "1 inch thickness"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Buttermilk",
+      "amount": "1 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "2 tbsp",
+      "notes": "for serving"
+    },
+    {
+      "name": "Irish butter",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season pork chops with salt, black pepper, and garlic powder.",
+    "Dip pork chops in buttermilk, then coat with breadcrumbs.",
+    "Heat a skillet over medium-high heat and sear pork chops until golden brown, about 2-3 minutes per side.",
+    "Transfer skillet to preheated oven and bake for 12-15 minutes, or until cooked through.",
+    "Let pork chops rest for 5 minutes before serving.",
+    "Serve with a dollop of sour cream and a pat of Irish butter."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pork",
+    "chops",
+    "irish",
+    "baked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-sour-irish-pork-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T00:59:31.683Z"
+}
