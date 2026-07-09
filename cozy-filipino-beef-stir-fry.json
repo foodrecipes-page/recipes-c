@@ -1,0 +1,91 @@
+{
+  "slug": "cozy-filipino-beef-stir-fry",
+  "title": "Filipino Beef Stir Fry",
+  "description": "A classic Filipino dish made with tender beef, stir-fried with onions, bell peppers, and a hint of soy sauce. This recipe is quick and easy to make, perfect for a weeknight dinner.",
+  "cuisine": "Filipino",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef (sirloin or ribeye)",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "cozy (coconut milk)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of coconut oil in a large skillet over medium-high heat.",
+    "Add the beef to the skillet and cook until browned, about 3-4 minutes. Remove from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of coconut oil to the skillet.",
+    "Add the sliced onions and bell peppers to the skillet and cook until tender, about 3-4 minutes.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Add the cooked beef back into the skillet and stir in the soy sauce.",
+    "Pour in the coconut milk and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the mixture simmer for 5-7 minutes or until the sauce has thickened.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot over steamed rice or noodles.",
+    "Garnish with chopped green onions and a sprinkle of toasted coconut flakes, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "filipino",
+    "stir-fry",
+    "coconut-milk"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/cozy-filipino-beef-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T20:05:51.560Z"
+}
