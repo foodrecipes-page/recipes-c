@@ -1,0 +1,79 @@
+{
+  "slug": "creamy-mexican-flat-rice-noodles-tlayudas",
+  "title": "Mexican Tlayudas",
+  "description": "A Mexican flatbread dish topped with creamy sauce, rice, and noodles.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tlayudas",
+      "amount": "4-6",
+      "notes": "flat, crispy tortillas"
+    },
+    {
+      "name": "Mexican Sauce",
+      "amount": "1 cup",
+      "notes": "creamy sauce made with sour cream, lime juice, and spices"
+    },
+    {
+      "name": "Cooked Rice",
+      "amount": "1 cup",
+      "notes": "cooked white or brown rice"
+    },
+    {
+      "name": "Cooked Noodles",
+      "amount": "1 cup",
+      "notes": "cooked and drained noodles"
+    },
+    {
+      "name": "Chopped Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh cilantro"
+    },
+    {
+      "name": "Diced Onion",
+      "amount": "1/2 cup",
+      "notes": "diced red onion"
+    },
+    {
+      "name": "Shredded Cheese",
+      "amount": "1 cup",
+      "notes": "shredded Monterey Jack or Cheddar cheese"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Bake the tlayudas for 5-7 minutes, or until crispy.",
+    "In a large skillet, heat the Mexican sauce over medium heat.",
+    "Add the cooked rice and noodles to the skillet and stir to combine.",
+    "Add the chopped cilantro, diced onion, and shredded cheese to the skillet and stir to combine.",
+    "Spoon the rice and noodle mixture onto the baked tlayudas.",
+    "Return the tlayudas to the oven and bake for an additional 2-3 minutes, or until the cheese is melted and bubbly.",
+    "Remove the tlayudas from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "flatbread",
+    "tlayudas",
+    "rice",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-mexican-flat-rice-noodles-tlayudas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T01:34:30.124Z"
+}
