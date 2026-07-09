@@ -1,0 +1,73 @@
+{
+  "slug": "crisp-venezuelan-dish-grill",
+  "title": "Grilled Venezuelan Crisp Tacos",
+  "description": "A flavorful twist on traditional tacos, featuring crispy venezuelan flatbread and topped with fresh ingredients.",
+  "cuisine": "Latin American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Venezuelan flatbread (crisp)",
+      "amount": "4-6",
+      "notes": "available in most Latin American grocery stores or online"
+    },
+    {
+      "name": "Grilled corn",
+      "amount": "1 cup",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Diced red onion",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Sliced avocado",
+      "amount": "1",
+      "notes": "ripe"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Grill venezuelan flatbread for 2-3 minutes per side, or until crispy.",
+    "Grill corn for 5-7 minutes, turning frequently, or until lightly charred.",
+    "Chop cilantro and red onion, if using.",
+    "Slice avocado.",
+    "Assemble tacos by placing grilled flatbread on a plate, topping with grilled corn, avocado, cilantro, and red onion, if using.",
+    "Serve with sour cream on the side, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tacos",
+    "latin-american",
+    "grilled",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crisp-venezuelan-dish-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T19:02:20.711Z"
+}
