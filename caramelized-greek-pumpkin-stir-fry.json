@@ -1,0 +1,80 @@
+{
+  "slug": "caramelized-greek-pumpkin-stir-fry",
+  "title": "Pumpkin and Greek Yogurt Stuffed French Toast",
+  "description": "A delicious twist on the classic French toast, filled with the sweetness of pumpkin and the tanginess of Greek yogurt.",
+  "cuisine": "breakfast",
+  "diet": [
+    "breakfast",
+    "brunch"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Cinnamon Swirl Bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Pumpkin Puree",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Caramelized Bananas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Maple Syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a shallow dish, whisk together eggs and milk.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Slice the bread into 1-inch thick slices.",
+    "Dip each bread slice into the egg mixture, coating both sides.",
+    "Place the bread slices on the skillet or griddle and cook for 2-3 minutes or until golden brown.",
+    "Flip the French toast and cook for an additional 1-2 minutes or until cooked through.",
+    "Meanwhile, in a small bowl, mix together pumpkin puree and cinnamon.",
+    "Spread a tablespoon of the pumpkin mixture onto each bread slice.",
+    "Top with a dollop of Greek yogurt and a sprinkle of cinnamon.",
+    "Drizzle with maple syrup and top with caramelized bananas.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "french-toast",
+    "pumpkin",
+    "greek-yogurt"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/caramelized-greek-pumpkin-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T20:16:52.481Z"
+}
