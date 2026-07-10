@@ -1,0 +1,79 @@
+{
+  "slug": "crispy-spicy-turkish-chicken-skewers",
+  "title": "Turkish Chicken Skewers",
+  "description": "A flavorful and spicy twist on traditional chicken skewers, inspired by Turkish cuisine.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Turkish spice blend",
+      "amount": "2 tablespoons",
+      "notes": "available at most Middle Eastern grocery stores"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Crispy sumac",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together Turkish spice blend, garlic, lemon juice, salt, and pepper.",
+    "Add chicken to the bowl and toss to coat with the spice mixture.",
+    "Thread chicken onto skewers, leaving a small space between each piece.",
+    "Brush the grill with oil to prevent sticking.",
+    "Grill the skewers for 8-10 minutes per side, or until the chicken is cooked through.",
+    "Serve hot, garnished with crispy sumac if desired.",
+    "Optional: serve with a side of rice or salad for a more filling meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 18,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "skewers",
+    "turkish",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 4,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-spicy-turkish-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T05:59:58.456Z"
+}
