@@ -1,0 +1,70 @@
+{
+  "slug": "crunchy-spicy-british-clove-salad",
+  "title": "Spicy British Salad",
+  "description": "A British-inspired salad with a spicy kick.",
+  "cuisine": "british",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mixed greens",
+      "amount": "4 cups",
+      "notes": "Any combination of lettuce, spinach, and/or kale"
+    },
+    {
+      "name": "Crispy bacon",
+      "amount": "6 slices",
+      "notes": "Cooked until crispy"
+    },
+    {
+      "name": "Spicy cheddar cheese",
+      "amount": "1 cup, shredded",
+      "notes": "Any sharp cheddar cheese will work"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup, thinly sliced",
+      "notes": "Mild onion flavor"
+    },
+    {
+      "name": "Clove of garlic",
+      "amount": "1",
+      "notes": "Mince or press for best flavor"
+    },
+    {
+      "name": "Crunchy pecans",
+      "amount": "1/4 cup, chopped",
+      "notes": "Any nut will work, toasted for best flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Cook crispy bacon until golden brown and set aside.",
+    "In a large bowl, combine mixed greens, shredded cheese, thinly sliced red onion, and minced garlic.",
+    "Toss in chopped pecans for added crunch.",
+    "Top salad with crispy bacon and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "british",
+    "spicy",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crunchy-spicy-british-clove-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T19:52:38.383Z"
+}
