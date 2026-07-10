@@ -1,0 +1,72 @@
+{
+  "slug": "crisp-tadka-mascarpone",
+  "title": "Mascarpone Crisp",
+  "description": "A sweet dessert combining the creamy mascarpone with a crunchy crisp topping.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "mascarpone cheese",
+      "amount": "8 oz",
+      "notes": "softened"
+    },
+    {
+      "name": "crisp",
+      "amount": "1 package",
+      "notes": "any flavor"
+    },
+    {
+      "name": "tadka",
+      "amount": "1/4 cup",
+      "notes": "optional, for added crunch"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup",
+      "notes": "add to crisp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. In a bowl, mix softened mascarpone cheese with granulated sugar and vanilla extract.",
+    "3. Arrange crisp in a baking dish, adding melted butter to coat.",
+    "4. Top crisp with mascarpone mixture and drizzle with tadka (if using).",
+    "5. Bake for 20-25 minutes or until the crisp is golden brown.",
+    "6. Remove from oven and let cool for 5 minutes.",
+    "7. Serve warm, topped with additional crisp if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "sugar",
+    "vanilla",
+    "baked"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crisp-tadka-mascarpone",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T22:05:54.564Z"
+}
