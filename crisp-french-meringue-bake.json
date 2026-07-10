@@ -1,0 +1,91 @@
+{
+  "slug": "crisp-french-meringue-bake",
+  "title": "Crispy French Meringue Baked Good",
+  "description": "A classic French dessert featuring a crispy meringue topping on a baked good.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "3 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "graham cracker crumbs",
+      "amount": "1 1/2 cups",
+      "notes": "finely ground"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": "granulated"
+    },
+    {
+      "name": "unsalted butter, softened",
+      "amount": "1/2 cup",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup",
+      "notes": "whole or 2%"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "pure extract"
+    },
+    {
+      "name": "meringue",
+      "amount": "1 cup",
+      "notes": "frozen or store-bought"
+    },
+    {
+      "name": "powdered sugar",
+      "amount": "1 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "crisp baking sheets",
+      "amount": "1",
+      "notes": "at least 1/4 inch thick"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C).",
+    "Line the baking sheets with parchment paper or aluminum foil, leaving some overhang for easy removal.",
+    "In a medium bowl, whisk together the graham cracker crumbs, sugar, and melted butter until well combined.",
+    "Press the mixture evenly onto the prepared baking sheets.",
+    "Bake for 10-12 minutes or until lightly browned.",
+    "Allow the crust to cool completely on the baking sheets.",
+    "In a large bowl, whisk together the eggs, milk, and vanilla extract until well combined.",
+    "Spoon the meringue over the cooled crust, spreading it evenly to cover the entire surface.",
+    "Bake for an additional 10-12 minutes or until the meringue is golden brown.",
+    "Remove the baking sheets from the oven and allow the meringue to cool completely.",
+    "Dust the top of the meringue with powdered sugar before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "baked-goods",
+    "meringue",
+    "fruit",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crisp-french-meringue-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T09:59:33.818Z"
+}
