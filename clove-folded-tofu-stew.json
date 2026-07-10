@@ -1,0 +1,73 @@
+{
+  "slug": "clove-folded-tofu-stew",
+  "title": "Stewed Tofu",
+  "description": "A hearty and comforting stew made with tender tofu and aromatic spices.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "stew",
+      "amount": "1 can (400g)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large pan over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the carrot and potato, and cook for 5 minutes.",
+    "Add the stew and bring to a boil.",
+    "Reduce heat to low and simmer for 20 minutes.",
+    "Add the tofu and cook for 10 minutes, or until heated through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "stew",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/clove-folded-tofu-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T10:32:11.160Z"
+}
