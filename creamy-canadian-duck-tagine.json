@@ -1,0 +1,93 @@
+{
+  "slug": "creamy-canadian-duck-tagine",
+  "title": "Duck Tagine with Creamy Sauce",
+  "description": "A rich and flavorful North African-inspired dish featuring tender duck and a creamy sauce. Serve over couscous for a satisfying meal.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck breast",
+      "amount": "1 lb",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Canadian tagine spice blend",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Canned diced tomatoes",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": null,
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the duck breast with salt, pepper, and tagine spice blend.",
+    "Heat the olive oil in a Dutch oven over medium-high heat.",
+    "Sear the duck breast until browned on both sides, about 2-3 minutes per side.",
+    "Remove the duck from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the diced tomatoes, chicken broth, and heavy cream to the pot.",
+    "Return the duck breast to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and braise for 20-25 minutes, or until the duck is cooked through.",
+    "Serve the duck and sauce over couscous, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "duck",
+    "tagine",
+    "north-african",
+    "creamy-sauce",
+    "couscous"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "36g",
+    "carbs": "20g",
+    "fat": "40g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-canadian-duck-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T00:27:32.531Z"
+}
