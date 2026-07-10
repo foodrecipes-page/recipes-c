@@ -1,0 +1,64 @@
+{
+  "slug": "crunchy-romantic-uruguayan-potato-stir-fry",
+  "title": "Uruguayan Potato Stir Fry",
+  "description": "A simple and flavorful Uruguayan-inspired potato stir fry with a crispy crunch.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "crunchy",
+      "amount": "1 cup",
+      "notes": "fried onion or shallots"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the diced potatoes and cook until golden brown, about 5 minutes.",
+    "Add the crunchy fried onion or shallots and cook for an additional 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 7,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "veggie-friendly",
+    "south-american"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crunchy-romantic-uruguayan-potato-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T14:32:54.964Z"
+}
