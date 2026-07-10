@@ -1,0 +1,80 @@
+{
+  "slug": "creamy-argentinian-beef-stir-fry",
+  "title": "Argentinian Beef Stir Fry",
+  "description": "A classic Argentinian beef dish with a creamy twist, served with a side of stir-fried vegetables.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "500g",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "8 oz",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "Cream Cheese",
+      "amount": "8 oz",
+      "notes": "softened"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the sliced onion and cook until translucent, about 3-4 minutes.",
+    "Add the sliced bell peppers and cook for an additional 2-3 minutes.",
+    "Add the mushrooms and cook until they release their moisture and start to brown, about 3-4 minutes.",
+    "Add the ground beef to the skillet, breaking it up with a spoon as it cooks.",
+    "Cook the beef until it is browned, about 5-6 minutes.",
+    "Stir in the softened cream cheese until melted and well combined.",
+    "Add the soy sauce and stir to combine.",
+    "Reduce heat to low and simmer for 5 minutes, allowing the flavors to meld.",
+    "Serve hot, garnished with chopped fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "stir-fry",
+    "creamy"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-argentinian-beef-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T09:11:51.652Z"
+}
