@@ -1,0 +1,69 @@
+{
+  "slug": "crispy-egyptian-apples-tart",
+  "title": "Egyptian Apple Tart",
+  "description": "A sweet and crispy pastry filled with tender apples, inspired by Egyptian flavors.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Egyptian pastry dough",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Apples (Granny Smith)",
+      "amount": "2 cups, peeled and sliced"
+    },
+    {
+      "name": "Crispy sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Tart lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons, melted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out Egyptian pastry dough and transfer to a baking sheet.",
+    "Arrange sliced apples on one half of the pastry, leaving a 1-inch border.",
+    "Sprinkle crispy sugar, cinnamon, and melted butter over the apples.",
+    "Fold the other half of the pastry over the apples, pressing edges to seal.",
+    "Brush pastry with tart lemon juice.",
+    "Bake for 35-40 minutes, or until pastry is golden brown and apples are tender.",
+    "Remove from oven and let cool for 5 minutes.",
+    "Serve warm, garnished with additional crispy sugar if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "apple",
+    "tart",
+    "pastry",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-egyptian-apples-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T06:36:29.658Z"
+}
