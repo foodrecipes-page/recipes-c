@@ -3237,16 +3237,14 @@
   },
   {
     "slug": "charred-tender-british-rum-eton-mess",
-    "title": "Charred Tender British Rum Eton-Mess",
+    "title": "Eton Mess Trifle",
     "tags": [
-      "diabetic-friendly",
-      "easy-dinner",
-      "gluten-free",
-      "high-fiber",
-      "weeknight"
+      "eton mess",
+      "british dessert",
+      "strawberry dessert"
     ],
-    "cuisine": "british",
-    "totalTimeMin": 50,
+    "cuisine": "British",
+    "totalTimeMin": 10,
     "shard": "c"
   },
   {
@@ -4986,17 +4984,15 @@
   },
   {
     "slug": "chewy-umami-british-beef-fillet-bangers-and-mash",
-    "title": "Chewy Umami British Beef Fillet Bangers and Mash",
+    "title": "Classic British Bangers and Mash",
     "tags": [
-      "beef",
       "british",
-      "chewy",
-      "one-pan",
-      "umami",
-      "winter"
+      "sausages",
+      "mashed-potatoes",
+      "comfort-food"
     ],
     "cuisine": "British",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "c"
   },
   {
@@ -18983,10 +18979,16 @@
   },
   {
     "slug": "crispy-egyptian-apples-tart",
-    "title": "Crispy Egyptian Apples Tart",
-    "tags": [],
+    "title": "Egyptian Apple Tart",
+    "tags": [
+      "egyptian",
+      "apple",
+      "tart",
+      "pastry",
+      "dessert"
+    ],
     "cuisine": "Egyptian",
-    "totalTimeMin": null,
+    "totalTimeMin": 50,
     "shard": "c"
   },
   {
@@ -21006,15 +21008,16 @@
   },
   {
     "slug": "crispy-malaysian-brown-lentils-stir-fry",
-    "title": "Crispy Malaysian Brown Lentils Stir-fry",
+    "title": "Malaysian-Style Lentil Stir Fry",
     "tags": [
-      "crispy",
+      "lentils",
       "malaysian",
-      "herbal",
-      "jain-friendly"
+      "stir-fry",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "c"
   },
   {
@@ -23109,19 +23112,15 @@
   },
   {
     "slug": "crispy-spicy-turkish-chicken-skewers",
-    "title": "Crispy Spicy Turkish Chicken Skewers",
+    "title": "Turkish Chicken Skewers",
     "tags": [
+      "chicken",
+      "skewers",
       "turkish",
-      "spicy",
-      "high-protein",
-      "quick",
-      "weeknight",
-      "cappers",
-      "deglaze",
-      "skewer"
+      "spicy"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 28,
     "shard": "c"
   },
   {
@@ -23605,15 +23604,14 @@
   },
   {
     "slug": "crispy-tangy-lemon-grass-stir-fry",
-    "title": "Crispy Tangy Lemon Grass Stir-fry",
+    "title": "Lemon Grass Stir Fry",
     "tags": [
-      "tunisian",
-      "crispy",
       "stir-fry",
-      "lemon-grass"
+      "lemon-grass",
+      "vegetarian"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 15,
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
     "shard": "c"
   },
   {
@@ -28502,15 +28500,16 @@
   },
   {
     "slug": "crunchy-smoky-swede-wraps",
-    "title": "Crunchy Smoky Swede Wraps",
+    "title": "Smoky Swede Wraps",
     "tags": [
-      "crispy",
-      "gluten-free",
-      "quick-fix",
-      "smoky"
+      "smoky",
+      "swede",
+      "wrap",
+      "snack",
+      "easy"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 30,
+    "cuisine": null,
+    "totalTimeMin": 40,
     "shard": "c"
   },
   {
