@@ -1,0 +1,83 @@
+{
+  "slug": "crispy-tangy-lemon-grass-stir-fry",
+  "title": "Lemon Grass Stir Fry",
+  "description": "A simple and flavorful stir fry made with lemon grass, crispy vegetables, and a hint of tanginess. This dish is perfect for a quick and easy meal.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lemon grass",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add the chopped onion and cook until it's translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chopped carrots and bell peppers and cook for 3-4 minutes.",
+    "Add the chopped lemon grass and cook for 1-2 minutes.",
+    "Add the soy sauce (if using) and stir to combine.",
+    "Cook for an additional 1-2 minutes to allow the flavors to meld.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "lemon-grass",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-tangy-lemon-grass-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T06:26:21.932Z"
+}
