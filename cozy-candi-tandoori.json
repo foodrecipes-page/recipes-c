@@ -1,0 +1,86 @@
+{
+  "slug": "cozy-candi-tandoori",
+  "title": "Cozy Tandoori Chicken",
+  "description": "A delicious and comforting tandoori chicken recipe served with a side of sweet candi glaze.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cozy chicken breasts",
+      "amount": "4",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "candi syrup",
+      "amount": "1/4 cup",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "tandoori spice mix",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "greek yogurt",
+      "amount": "1 cup",
+      "notes": "plain and full-fat"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, whisk together tandoori spice mix, lemon juice, garam masala, salt, and black pepper.",
+    "Add the yogurt and whisk until smooth.",
+    "Add the chicken to the marinade and mix until coated. Cover and refrigerate for at least 2 hours or overnight.",
+    "Line a baking sheet with foil and spray with cooking spray. Remove the chicken from the marinade and place on the prepared baking sheet.",
+    "Bake for 20-25 minutes or until the chicken is cooked through and reaches an internal temperature of 165°F (74°C).",
+    "While the chicken is baking, heat the candi syrup in a small saucepan over medium heat.",
+    "Once the chicken is done, brush the candi syrup over the top of each breast.",
+    "Return to the oven and bake for an additional 2-3 minutes or until the glaze is caramelized.",
+    "Remove from the oven and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "chicken",
+    "glaze",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/cozy-candi-tandoori",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T10:25:27.175Z"
+}
