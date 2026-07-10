@@ -1,0 +1,85 @@
+{
+  "slug": "creamy-croatian-suet-casserole",
+  "title": "Croatian Suet Casserole",
+  "description": "A hearty, comforting casserole featuring suet and Croatian spices.",
+  "cuisine": "European",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Suet",
+      "amount": "1 pound",
+      "notes": "beef or mutton"
+    },
+    {
+      "name": "Casseroles",
+      "amount": "1",
+      "notes": "9x13 inch dish"
+    },
+    {
+      "name": "Croatian paprika",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Creamy sauce",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Brown suet in a skillet over medium-high heat.",
+    "Add chopped onion and cook until softened.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add chopped carrots and potatoes, and cook for 5 minutes.",
+    "Transfer mixture to the prepared casserole dish.",
+    "Mix in creamy sauce and Croatian paprika.",
+    "Cover dish with aluminum foil and bake for 1 hour.",
+    "Remove foil and continue baking for an additional 30 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 75,
+  "totalTimeMin": 95,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "comfort-food",
+    "beef",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-croatian-suet-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T23:07:53.608Z"
+}
