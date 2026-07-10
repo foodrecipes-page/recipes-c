@@ -1,0 +1,60 @@
+{
+  "slug": "crispy-peruvian-cauliflower-roast",
+  "title": "Crispy Roast Cauliflower",
+  "description": "A delicious Peruvian-inspired dish featuring crispy roasted cauliflower. Easy to make and impressive to serve.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cauliflower",
+      "amount": "1 head",
+      "notes": "Any color works well"
+    },
+    {
+      "name": "roast",
+      "amount": "2 tbsp",
+      "notes": "Peruvian-style roast for added flavor"
+    },
+    {
+      "name": "crispy",
+      "amount": "1 cup",
+      "notes": "Panko breadcrumbs or crispy fried onions for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 425°F (220°C).",
+    "2. Rinse the cauliflower and break into florets.",
+    "3. In a bowl, mix together the roast and cauliflower florets.",
+    "4. Spread the cauliflower mixture on a baking sheet.",
+    "5. Roast for 20-25 minutes or until tender and caramelized.",
+    "6. Meanwhile, heat a skillet over medium-high heat.",
+    "7. Add the crispy breadcrumbs and toast until golden brown.",
+    "8. Remove the cauliflower from the oven and sprinkle with toasted breadcrumbs.",
+    "9. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cauliflower",
+    "peruvian",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-peruvian-cauliflower-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T23:02:05.043Z"
+}
