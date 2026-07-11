@@ -1,0 +1,86 @@
+{
+  "slug": "citrusy-mexican-rice-burrito",
+  "title": "Mexican Citrusy Rice Burrito",
+  "description": "A flavorful and vibrant burrito filling made with Mexican rice, citrusy sauce, and your favorite burrito ingredients.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mexican Rice",
+      "amount": "2 cups",
+      "notes": "Cooked according to package instructions"
+    },
+    {
+      "name": "Citrusy Sauce",
+      "amount": "1/4 cup",
+      "notes": "A mixture of lime juice, orange juice, and a pinch of cumin"
+    },
+    {
+      "name": "Ground Beef",
+      "amount": "1 lb",
+      "notes": "Cooked to an internal temperature of 160°F (71°C)"
+    },
+    {
+      "name": "Black Beans",
+      "amount": "1 cup",
+      "notes": "Canned or cooked from scratch"
+    },
+    {
+      "name": "Chopped Tomatoes",
+      "amount": "1 cup",
+      "notes": "Fresh or canned"
+    },
+    {
+      "name": "Burrito Seasoning",
+      "amount": "2 tsp",
+      "notes": "Your favorite store-bought or homemade blend"
+    },
+    {
+      "name": "Shredded Cheese",
+      "amount": "1 cup",
+      "notes": "Monterey Jack or Cheddar work well"
+    },
+    {
+      "name": "Tortilla",
+      "amount": "1 large",
+      "notes": "Flour or corn, your preference"
+    }
+  ],
+  "instructions": [
+    "Cook the Mexican rice according to package instructions.",
+    "In a large skillet, heat 1 tablespoon of oil over medium-high heat.",
+    "Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the black beans, chopped tomatoes, and burrito seasoning to the skillet. Stir to combine.",
+    "Reduce heat to low and simmer for 5-7 minutes.",
+    "Stir in the citrusy sauce and cook for an additional 2-3 minutes.",
+    "Warm the tortilla by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the burrito by spooning the meat and bean mixture onto the center of the tortilla, followed by a sprinkle of shredded cheese.",
+    "Fold the bottom edge of the tortilla up over the filling, then fold in the sides and roll the burrito up tightly.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "citrusy",
+    "rice-burrito",
+    "beef",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/citrusy-mexican-rice-burrito",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T21:29:01.351Z"
+}
