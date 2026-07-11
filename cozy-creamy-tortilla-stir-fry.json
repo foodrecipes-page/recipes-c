@@ -1,0 +1,71 @@
+{
+  "slug": "cozy-creamy-tortilla-stir-fry",
+  "title": "Creamy Cozy Tortilla Stir Fry",
+  "description": "A simple and comforting stir fry made with creamy sauce and crispy tortilla bits.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tortilla",
+      "amount": "4",
+      "notes": "corn tortillas"
+    },
+    {
+      "name": "cozy",
+      "amount": "1 cup",
+      "notes": "mixed vegetables (carrots, bell peppers, onions)"
+    },
+    {
+      "name": "stir",
+      "amount": "2 tablespoons",
+      "notes": "vegetable oil"
+    },
+    {
+      "name": "creamy",
+      "amount": "1 cup",
+      "notes": "creamy sauce (store-bought or homemade)"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add 1 cup of mixed vegetables (carrots, bell peppers, onions) and stir-fry until tender.",
+    "Add 1 cup of creamy sauce and stir until heated through.",
+    "Crumble 4 corn tortillas into small pieces and add to the skillet.",
+    "Stir-fry for an additional 2 minutes, until the tortilla bits are crispy.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "comfort-food",
+    "easy-recipe"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/cozy-creamy-tortilla-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T12:08:47.944Z"
+}
