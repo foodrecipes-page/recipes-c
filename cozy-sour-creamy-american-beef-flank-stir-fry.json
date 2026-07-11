@@ -1,0 +1,70 @@
+{
+  "slug": "cozy-sour-creamy-american-beef-flank-stir-fry",
+  "title": "Beef Stir Fry",
+  "description": "A quick and easy American dish made with beef and stir-fried vegetables. Perfect for a weeknight dinner.",
+  "cuisine": "American",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flank Steak",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cozy Lettuce",
+      "amount": "1 head",
+      "notes": "shredded"
+    },
+    {
+      "name": "American Bell Peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Slice the flank steak against the grain into thin strips.",
+    "2. In a large skillet or wok, heat 1 tablespoon of oil over medium-high heat.",
+    "3. Add the beef to the skillet and cook for 3-4 minutes, or until browned.",
+    "4. Add the sliced bell peppers and cook for an additional 2-3 minutes.",
+    "5. Add the beef broth to the skillet and stir to combine.",
+    "6. Reduce heat to low and simmer for 5 minutes.",
+    "7. Stir in the sour cream and cook for an additional minute.",
+    "8. Serve the beef and vegetables over a bed of shredded lettuce.",
+    "9. Cook for 15 minutes or until the desired doneness is reached.",
+    "10. Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "american",
+    "stir-fry",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/cozy-sour-creamy-american-beef-flank-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T11:14:44.225Z"
+}
