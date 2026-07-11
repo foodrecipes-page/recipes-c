@@ -1,0 +1,79 @@
+{
+  "slug": "classic-cherry-german-pork-casserole",
+  "title": "German Pork Casserole",
+  "description": "A hearty German-inspired casserole made with tender pork and sweet cherry sauce, served with crispy potatoes and a side of steamed vegetables.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1.5 pounds",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Cherry jam",
+      "amount": "1/2 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "German sausage",
+      "amount": "1 pound",
+      "notes": "Optional"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Casseroles",
+      "amount": "1",
+      "notes": "9x13 inch dish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Brown the pork cubes in a skillet over medium-high heat. Remove from heat and set aside.",
+    "In the same skillet, cook the sliced onion and minced garlic until softened.",
+    "Add the German sausage (if using) and cook until browned.",
+    "Add the cherry jam and stir to combine.",
+    "In a separate bowl, mix the sliced potatoes with a pinch of salt and pepper.",
+    "In the prepared casserole dish, create a layer of potatoes, followed by a layer of the pork mixture, and repeat.",
+    "Bake for 45-50 minutes, or until the potatoes are golden brown and the casserole is hot and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "pork",
+    "casserole",
+    "main-course"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/classic-cherry-german-pork-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T06:47:27.550Z"
+}
