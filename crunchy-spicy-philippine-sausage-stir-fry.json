@@ -1,0 +1,72 @@
+{
+  "slug": "crunchy-spicy-philippine-sausage-stir-fry",
+  "title": "Sausage Stir Fry",
+  "description": "A simple and flavorful stir fry dish made with sausage and crunchy vegetables.",
+  "cuisine": "Filipino",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sausage",
+      "amount": "250g",
+      "notes": "Filipino-style sausage"
+    },
+    {
+      "name": "Crunchy Vegetables (bell peppers, carrots, onions)",
+      "amount": "1 cup",
+      "notes": "any combination of crunchy vegetables"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Vinegar (fish sauce or soy sauce)",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": "for stir-frying"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a wok or large skillet over medium-high heat.",
+    "Add minced garlic and grated ginger and stir-fry until fragrant.",
+    "Add the sausage and stir-fry until browned.",
+    "Add the crunchy vegetables and stir-fry until tender.",
+    "Season with fish sauce or soy sauce if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sausage",
+    "stir-fry",
+    "filipino",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crunchy-spicy-philippine-sausage-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T11:17:26.579Z"
+}
