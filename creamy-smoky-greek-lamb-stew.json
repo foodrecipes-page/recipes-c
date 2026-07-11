@@ -1,0 +1,91 @@
+{
+  "slug": "creamy-smoky-greek-lamb-stew",
+  "title": "Smoky Lamb Stew",
+  "description": "A hearty, comforting stew featuring tender lamb and a rich, smoky flavor.",
+  "cuisine": "Greek",
+  "diet": [
+    "meat",
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "2 pounds",
+      "notes": "bone-in"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season lamb shoulder with salt and pepper.",
+    "In a large Dutch oven, heat 2 tablespoons of oil over medium-high heat. Sear lamb shoulder until browned on all sides, about 5 minutes. Remove lamb from pot and set aside.",
+    "Add remaining oil to pot, then sauté onion and garlic until softened, about 5 minutes.",
+    "Add smoked paprika, tomato paste, and red wine to pot. Stir to combine, then bring mixture to a simmer.",
+    "Return lamb shoulder to pot, then add beef broth. Cover pot with lid and transfer to preheated oven.",
+    "Braise lamb in oven for 2 1/2 hours, or until tender.",
+    "Remove pot from oven and stir in Greek yogurt. Let stew rest for 10 minutes before serving.",
+    "Garnish with chopped parsley before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "greek",
+    "comfort food",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-smoky-greek-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T07:21:26.553Z"
+}
