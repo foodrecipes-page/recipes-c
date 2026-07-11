@@ -1,0 +1,67 @@
+{
+  "slug": "crumbly-italian-baguette-bake",
+  "title": "Italian Crumbly Baguette Bake",
+  "description": "A simple Italian-inspired dish featuring a crumbly topping on a crispy baguette, perfect for a quick snack or light meal.",
+  "cuisine": "Italian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Baguette",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Crumbly Italian Cheese",
+      "amount": "1 cup",
+      "notes": "such as parmesan"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the baguette into 1-inch slices.",
+    "In a small bowl, mix together the crumbly Italian cheese, butter, basil, and garlic.",
+    "Place the baguette slices on a baking sheet and drizzle with olive oil.",
+    "Top each baguette slice with the cheese mixture.",
+    "Bake for 10-12 minutes, or until the cheese is melted and the bread is crispy.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "snack",
+    "cheesy",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crumbly-italian-baguette-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T20:50:19.238Z"
+}
