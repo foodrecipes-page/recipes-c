@@ -1,0 +1,94 @@
+{
+  "slug": "crispy-umami-canadian-chickpea-hash",
+  "title": "Canadian Chickpea Hash",
+  "description": "A hearty breakfast dish inspired by Canadian cuisine, made with crispy chickpea patties, served with a flavorful hash.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can (15 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "hash browns",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "crispy bacon",
+      "amount": "4 slices",
+      "notes": "crumbled"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, mash chickpeas using a fork or a potato masher.",
+    "Add diced onion, bell pepper, salt, and black pepper to the bowl. Mix well.",
+    "Shape the mixture into 4-6 patties, depending on desired size.",
+    "Place the patties on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "While the chickpea patties are baking, cook hash browns in a large skillet over medium heat until crispy.",
+    "Crumbles the crispy bacon and set aside.",
+    "In a small bowl, beat the eggs and season with salt and black pepper.",
+    "Once the chickpea patties are done, remove them from the oven and top each patty with a spoonful of hash browns, a sprinkle of crumbled bacon, and a dollop of beaten eggs.",
+    "Return the skillet to the oven and bake for an additional 5-7 minutes or until the eggs are cooked through.",
+    "Garnish with chopped parsley and serve hot.",
+    "Serve with toast or hash browns on the side, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "breakfast",
+    "hash",
+    "chickpea",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-umami-canadian-chickpea-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T06:41:55.982Z"
+}
