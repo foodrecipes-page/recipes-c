@@ -1,0 +1,75 @@
+{
+  "slug": "carrot-fold-cloud",
+  "title": "Savory Carrot Delight",
+  "description": "A simple yet satisfying side dish that brings out the sweetness in carrots. Pair with your favorite main course for a well-rounded meal.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "carrot",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, toss chopped carrots with olive oil, salt, and black pepper until they are evenly coated.",
+    "Spread the carrots on a baking sheet and roast for 20-25 minutes, or until tender.",
+    "While the carrots are roasting, heat some olive oil in a pan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Once the carrots are done, combine them with the onion and garlic mixture in a bowl.",
+    "Toss everything together and serve hot.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "carrot",
+    "vegetarian",
+    "gluten-free",
+    "side-dish"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/carrot-fold-cloud",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T14:25:00.278Z"
+}
