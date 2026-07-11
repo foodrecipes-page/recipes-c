@@ -952,28 +952,28 @@
   },
   {
     "slug": "cardamom-bliss-custard-tart",
-    "title": "Cardamom Bliss Custard Tart",
+    "title": "Cardamom Custard Tart",
     "tags": [
       "cardamom",
+      "custard",
       "tart",
-      "dairy-free",
-      "creamy"
+      "dessert"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 30,
+    "cuisine": "Indian",
+    "totalTimeMin": 45,
     "shard": "c"
   },
   {
     "slug": "carrot-fold-cloud",
-    "title": "Carrot Fold Cloud",
+    "title": "Savory Carrot Delight",
     "tags": [
       "carrot",
-      "oat flour",
-      "mediterranean",
-      "gluten-free"
+      "vegetarian",
+      "gluten-free",
+      "side-dish"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 25,
+    "cuisine": null,
+    "totalTimeMin": 35,
     "shard": "c"
   },
   {
@@ -6195,17 +6195,16 @@
   },
   {
     "slug": "citrusy-creamy-korean-mascarpone-stir-fry",
-    "title": "Citrusy Creamy Korean Mascarpone Stir-fry",
+    "title": "Korean Citrus Stir Fry",
     "tags": [
-      "citrusy",
-      "creamy",
       "korean",
+      "citrus",
       "stir-fry",
-      "mascarpone",
-      "low-sodium"
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 50,
+    "totalTimeMin": 18,
     "shard": "c"
   },
   {
@@ -14364,15 +14363,18 @@
   },
   {
     "slug": "creamy-midnight-craving-portuguese-turkey-mince-stir-fry",
-    "title": "Creamy Midnight-Craving Portuguese Turkey Mince Stir-fry",
+    "title": "Delicious Portuguese Turkey Mince Stir Fry",
     "tags": [
-      "midnight-craving",
-      "creamy",
+      "turkey",
+      "mince",
+      "stirfry",
       "portuguese",
-      "turkey-mince-stir-fry"
+      "quick",
+      "lunch",
+      "dinner"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 35,
+    "cuisine": "portuguese",
+    "totalTimeMin": 25,
     "shard": "c"
   },
   {
@@ -19382,15 +19384,15 @@
   },
   {
     "slug": "crispy-filipino-tapioca-stir-fry",
-    "title": "Crispy Filipino Tapioca Stir-fry",
+    "title": "Crispy Tapioca Stir Fry",
     "tags": [
-      "crispy",
-      "buttery",
-      "casserole",
-      "filipino"
+      "tapioca",
+      "stir-fry",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 35,
+    "totalTimeMin": 15,
     "shard": "c"
   },
   {
@@ -19929,12 +19931,12 @@
   },
   {
     "slug": "crispy-golden-portuguese-fish-bake",
-    "title": "crispy golden portuguese fish bake",
+    "title": "Golden Portuguese Fish Bake",
     "tags": [
       "fish",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "bake",
+      "portuguese",
+      "easy"
     ],
     "cuisine": "portuguese",
     "totalTimeMin": 27,
@@ -20265,15 +20267,14 @@
   },
   {
     "slug": "crispy-indian-orange-peel-stir-fry",
-    "title": "Crispy Indian Orange Peel Stir-fry",
+    "title": "Crispy Indian Orange Peel Stir Fry",
     "tags": [
-      "crispy",
       "indian",
-      "orange-peel",
-      "vegetarian"
+      "stir-fry",
+      "orange-peel"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 15,
+    "totalTimeMin": 25,
     "shard": "c"
   },
   {
@@ -31580,6 +31581,18 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 20,
+    "shard": "c"
+  },
+  {
+    "slug": "crunchy-egyptian-cottage-cheese-pilaf--keto",
+    "title": "Keto Egyptian-Style Pilaf",
+    "tags": [
+      "keto",
+      "low-carb",
+      "european"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 35,
     "shard": "c"
   }
 ]
