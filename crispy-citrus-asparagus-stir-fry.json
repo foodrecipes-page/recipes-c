@@ -1,0 +1,73 @@
+{
+  "slug": "crispy-citrus-asparagus-stir-fry",
+  "title": "Crispy Asparagus Stir Fry",
+  "description": "Quick and delicious stir fry recipe using asparagus, crispy texture, and citrus flavors.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Asparagus",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Crushed red pepper",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet or wok over medium-high heat.",
+    "Add the asparagus and cook for 3-4 minutes or until slightly tender.",
+    "Add the grated ginger and cook for 1 minute.",
+    "Pour in the lime juice and stir to combine.",
+    "Add the remaining 1 tablespoon of olive oil and crushed red pepper.",
+    "Toss to coat and season with salt to taste.",
+    "Serve immediately, garnished with additional lime wedges if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "asparagus",
+    "stir-fry",
+    "vegetarian",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 6,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-citrus-asparagus-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T19:19:18.650Z"
+}
