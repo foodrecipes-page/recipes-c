@@ -1,0 +1,69 @@
+{
+  "slug": "crunchy-kenyan-anchovy-fry",
+  "title": "Kenyan-Style Fried Fish",
+  "description": "A flavorful and spicy fried fish dish inspired by Kenyan cuisine. Serve with a side of crunchy slaw made with crunchy slaw mix, lime juice, and a dash of hot sauce.",
+  "cuisine": "kenyan",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish fillet (halibut or tilapia)",
+      "amount": "2",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "seasoned with salt and pepper"
+    },
+    {
+      "name": "anchovy paste",
+      "amount": "2 tablespoons",
+      "notes": "for added umami flavor"
+    },
+    {
+      "name": "lard or vegetable oil",
+      "amount": "1 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "crunchy slaw mix",
+      "amount": "1 cup",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "1. In a shallow dish, mix together flour, anchovy paste, and a pinch of salt and pepper.",
+    "2. Dredge the fish pieces in the seasoned flour mixture, shaking off excess.",
+    "3. Heat the lard or oil in a large skillet over medium-high heat until it reaches 350°F.",
+    "4. Fry the fish pieces in batches until golden brown and cooked through, about 3-4 minutes per side.",
+    "5. Remove the fish from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "6. In a separate bowl, mix together the crunchy slaw mix, lime juice, and a dash of hot sauce.",
+    "7. Serve the fried fish with the slaw on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "fried-fish",
+    "anchovy",
+    "crunchy",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 24,
+    "fat": 38
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crunchy-kenyan-anchovy-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T19:04:22.635Z"
+}
