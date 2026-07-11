@@ -1,0 +1,78 @@
+{
+  "slug": "crispy-cozy-nut-french-stir-fry",
+  "title": "French Nut Stir Fry",
+  "description": "A quick and easy stir fry recipe with French flair.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "French Baguette",
+      "amount": "1 cup",
+      "notes": "crusty"
+    },
+    {
+      "name": "Almonds",
+      "amount": "1/4 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Snow Peas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced onion and bell pepper. Stir-fry for 5 minutes or until they start to soften.",
+    "Add the snow peas and garlic. Stir-fry for another 2-3 minutes or until the vegetables are tender.",
+    "In a small bowl, whisk together the soy sauce and a pinch of salt. Pour the sauce over the vegetables and stir-fry for 1 minute.",
+    "Slice the French baguette into bite-sized pieces and toast until crispy.",
+    "Sprinkle the toasted baguette pieces with sliced almonds and serve with the stir-fry."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "vegetarian",
+    "stir-fry",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-cozy-nut-french-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T23:37:39.297Z"
+}
