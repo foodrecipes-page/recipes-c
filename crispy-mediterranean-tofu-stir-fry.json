@@ -1,0 +1,77 @@
+{
+  "slug": "crispy-mediterranean-tofu-stir-fry",
+  "title": "Mediterranean Tofu Stir Fry",
+  "description": "A quick and flavorful stir fry made with crispy tofu, mediterranean vegetables, and a hint of Asian spices.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Crispy Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "Pre-cooked and cut into bite-sized pieces"
+    },
+    {
+      "name": "Mixed Mediterranean Vegetables",
+      "amount": "2 cups",
+      "notes": "Include bell peppers, zucchini, cherry tomatoes, and onions"
+    },
+    {
+      "name": "Stir-Fry Sauce",
+      "amount": "1/2 cup",
+      "notes": "Make your own with soy sauce, garlic, ginger, and rice vinegar"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "Cook according to package instructions"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking and adding flavor"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": "Adjust seasoning as needed"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of sesame oil in a large skillet or wok over medium-high heat.",
+    "Add the mixed Mediterranean vegetables and cook for 3-4 minutes, or until tender.",
+    "Add the pre-cooked crispy tofu and stir-fry sauce to the skillet. Cook for an additional 2-3 minutes, until the tofu is coated in the sauce.",
+    "Serve the tofu and vegetable mixture over cooked rice.",
+    "Garnish with chopped fresh cilantro and season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "stir-fry",
+    "tofu",
+    "vegetarian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-mediterranean-tofu-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T04:06:12.511Z"
+}
