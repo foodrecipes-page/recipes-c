@@ -1,0 +1,75 @@
+{
+  "slug": "crispy-russian-cabbage-stir-fry",
+  "title": "Crispy Russian Cabbage Stir Fry",
+  "description": "A quick and easy stir fry featuring crispy cabbage and a hint of Russian spice.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cabbage",
+      "amount": "1 head"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Crispy fried onions (optional)",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the cabbage and cook until slightly browned, about 5 minutes.",
+    "Add the thyme, salt, and pepper, and stir to combine.",
+    "Cook for an additional 2 minutes.",
+    "If using crispy fried onions, sprinkle on top of the cabbage mixture.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cabbage",
+    "stir-fry",
+    "vegetarian",
+    "russian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-russian-cabbage-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T05:36:57.990Z"
+}
