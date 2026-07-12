@@ -1,0 +1,79 @@
+{
+  "slug": "chewy-indulgent-earthy-toor-dal-stir-fry",
+  "title": "Spicy Dal Fry",
+  "description": "A simple and flavorful Indian-inspired dish made with dal and spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Toor Dal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Red Chili Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onion, ginger, and garlic. Stir until the onion is translucent.",
+    "Add tomato and cook until it's soft.",
+    "Add toor dal, red chili powder, and turmeric powder. Stir well.",
+    "Add water as needed and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes.",
+    "Season with salt to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "dhal-fry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/chewy-indulgent-earthy-toor-dal-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T03:03:29.741Z"
+}
