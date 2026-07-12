@@ -1,0 +1,79 @@
+{
+  "slug": "creamy-indian-date-kheer",
+  "title": "Date Kheer",
+  "description": "A traditional Indian dessert made with dates, creamy milk, and spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dates, pitted",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "Long-grain rice"
+    },
+    {
+      "name": "Milk",
+      "amount": "2 cups",
+      "notes": "Full-fat milk"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons",
+      "notes": "Clarified butter"
+    },
+    {
+      "name": "Cardamom",
+      "amount": "1/2 teaspoon",
+      "notes": "Ground cardamom"
+    },
+    {
+      "name": "Rose water",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the rice and soak it in water for 30 minutes.",
+    "Drain the water and grind the rice into a fine paste.",
+    "In a large pot, combine the milk, sugar, and ground cardamom.",
+    "Heat the mixture over medium heat, stirring occasionally, until the sugar dissolves and the milk starts to boil.",
+    "Add the rice paste and dates to the pot.",
+    "Reduce the heat to low and simmer, stirring constantly, for 10-12 minutes or until the kheer thickens.",
+    "Remove from heat and stir in the ghee and rose water.",
+    "Let the kheer cool to room temperature before serving.",
+    "Serve chilled or at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "dessert",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-indian-date-kheer",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T02:54:38.870Z"
+}
