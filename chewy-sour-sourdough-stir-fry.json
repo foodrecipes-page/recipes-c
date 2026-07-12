@@ -1,0 +1,71 @@
+{
+  "slug": "chewy-sour-sourdough-stir-fry",
+  "title": "Sourdough French Toast",
+  "description": "A twist on the classic breakfast dish, using sourdough bread for added depth of flavor.",
+  "cuisine": null,
+  "diet": [
+    "breakfast"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "2 slices sourdough bread",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "2 large eggs",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "1 cup milk",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "1 tsp vanilla extract",
+      "notes": "optional"
+    },
+    {
+      "name": "2 tbsp butter, melted",
+      "notes": null
+    },
+    {
+      "name": "Caster sugar, for serving",
+      "notes": null
+    },
+    {
+      "name": "Fresh fruit, for serving",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. In a shallow dish, whisk together eggs, milk, and vanilla extract (if using).",
+    "2. Heat a non-stick skillet or griddle over medium heat.",
+    "3. Dip each slice of bread into the egg mixture, coating both sides evenly.",
+    "4. Place the bread slices on the skillet or griddle and cook for 2-3 minutes on each side, or until golden brown.",
+    "5. Repeat with the remaining bread slices.",
+    "6. Serve the French toast warm, topped with melted butter, caster sugar, and fresh fruit."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "sourdough"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/chewy-sour-sourdough-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T09:01:13.674Z"
+}
