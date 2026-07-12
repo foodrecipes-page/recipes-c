@@ -1,0 +1,64 @@
+{
+  "slug": "crumbly-zanzibari-nut-crumble",
+  "title": "Zanzibari Crumble",
+  "description": "A sweet dessert featuring the exotic flavor of zanzibari and a crunchy crumble topping.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "zanzibari",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "crumbly",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "nut",
+      "amount": "1/4 cup",
+      "notes": "chopped almonds"
+    },
+    {
+      "name": "crumble",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a bowl, mix together zanzibari, crumbly, and nut.",
+    "Transfer the mixture to a baking dish.",
+    "In another bowl, mix together crumble and a pinch of sugar.",
+    "Spread the crumble mixture evenly over the top of the zanzibari mixture.",
+    "Bake for 25-30 minutes, or until the topping is golden brown.",
+    "Remove from oven and let cool for a few minutes.",
+    "Serve warm, topped with vanilla ice cream if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "sweet",
+    "british",
+    "zanzibari",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crumbly-zanzibari-nut-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T08:33:49.529Z"
+}
