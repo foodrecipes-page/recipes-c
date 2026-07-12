@@ -1,0 +1,64 @@
+{
+  "slug": "cozy-crunchy-greek-walnut-salad",
+  "title": "Greek Walnut Salad",
+  "description": "A hearty salad featuring crunchy walnuts, fresh greek ingredients, and a hint of coziness.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Walnut halves",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Mixed greens",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "Greek feta cheese",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Salad dressing (Greek vinaigrette)",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the chopped walnut halves, mixed greens, crumbled feta cheese, and sliced cucumber.",
+    "2. In a small bowl, whisk together the salad dressing and a pinch of salt.",
+    "3. Pour the dressing over the salad and toss to combine.",
+    "4. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek-salad",
+    "vegetarian-salad",
+    "easy-recipe",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/cozy-crunchy-greek-walnut-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T11:38:47.494Z"
+}
