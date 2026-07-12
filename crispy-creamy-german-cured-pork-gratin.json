@@ -1,0 +1,75 @@
+{
+  "slug": "crispy-creamy-german-cured-pork-gratin",
+  "title": "Crispy Pork Gratin",
+  "description": "A German-inspired dish featuring a crispy topping and creamy gratin, perfect for a dinner meal.",
+  "cuisine": "German",
+  "diet": [
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Cured ham",
+      "amount": "1/2 cup, diced",
+      "notes": ""
+    },
+    {
+      "name": "Crispy onions",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Creamy sauce",
+      "amount": "1 cup",
+      "notes": "see below for recipe"
+    },
+    {
+      "name": "German bread",
+      "amount": "2 slices, torn",
+      "notes": ""
+    },
+    {
+      "name": "Gratin cheese",
+      "amount": "1/4 cup, shredded",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a pan, sauté the diced ham and crispy onions until caramelized.",
+    "In a separate saucepan, prepare the creamy sauce.",
+    "In a baking dish, arrange the torn bread to form a crust.",
+    "Add the sautéed ham mixture on top of the bread.",
+    "Pour the creamy sauce over the ham mixture.",
+    "Top with grated cheese and bake for 20 minutes.",
+    "Increase oven temperature to broil and cook for an additional 5 minutes.",
+    "Let rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "pork",
+    "gratin",
+    "creamy",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-creamy-german-cured-pork-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T07:33:01.628Z"
+}
