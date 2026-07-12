@@ -1,0 +1,83 @@
+{
+  "slug": "crispy-dutch-snap-pea-gratin",
+  "title": "Pea and Dutch Potato Gratin",
+  "description": "A creamy, comforting casserole of peas and potatoes baked until golden brown.",
+  "cuisine": "European",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "peas",
+      "amount": "1 cup, fresh or frozen"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large, peeled and thinly sliced"
+    },
+    {
+      "name": "gratin",
+      "amount": "1 cup, grated cheese"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large saucepan, combine sliced onions and butter.",
+    "Cook over medium heat until onions are softened, about 5 minutes.",
+    "Add minced garlic and cook for 1 minute.",
+    "In a separate saucepan, combine sliced potatoes and enough cold water to cover.",
+    "Bring to a boil, then reduce heat and simmer for 5 minutes.",
+    "Drain potatoes and add to the saucepan with onions and garlic.",
+    "In a separate bowl, combine grated cheese and milk.",
+    "Pour cheese mixture over potatoes and onions.",
+    "Transfer mixture to a 9x13 inch baking dish.",
+    "Top with additional grated cheese if desired.",
+    "Bake for 25-30 minutes, or until golden brown and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pea",
+    "potato",
+    "gratin",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-dutch-snap-pea-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T01:41:12.375Z"
+}
