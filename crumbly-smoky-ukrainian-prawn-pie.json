@@ -1,0 +1,85 @@
+{
+  "slug": "crumbly-smoky-ukrainian-prawn-pie",
+  "title": "Smoky Prawn Pie",
+  "description": "A savory pie filled with prawns and smoky flavors, perfect for a dinner party.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pie crust",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "prawns",
+      "amount": "12"
+    },
+    {
+      "name": "crumbly feta cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out pie crust and place in a pie dish.",
+    "Heat olive oil in a pan and sauté onion until softened.",
+    "Add garlic, smoked paprika, salt, and black pepper. Cook for 1 minute.",
+    "Add prawns and cook until pink.",
+    "Mix in crumbly feta cheese and chicken broth.",
+    "Pour mixture into pie crust.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "ukrainian",
+    "pie",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crumbly-smoky-ukrainian-prawn-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T11:23:48.555Z"
+}
