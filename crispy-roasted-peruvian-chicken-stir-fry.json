@@ -1,0 +1,82 @@
+{
+  "slug": "crispy-roasted-peruvian-chicken-stir-fry",
+  "title": "Crispy Peruvian Chicken",
+  "description": "A flavorful and spicy dish featuring crispy chicken breasts, inspired by Peruvian cuisine.",
+  "cuisine": "peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Peruvian pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "stir-fry sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "crispy fried onions",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Season the chicken breasts with salt and black pepper.",
+    "3. In a hot pan, sauté the garlic and Peruvian pepper until fragrant.",
+    "4. Add the stir-fry sauce and simmer for 2 minutes.",
+    "5. Add the chicken breasts to the pan and cook until browned on both sides.",
+    "6. Transfer the chicken to a baking dish and roast in the oven for 15-20 minutes, or until cooked through.",
+    "7. Meanwhile, stir-fry the crispy fried onions in a pan with a little oil until crispy.",
+    "8. Once the chicken is cooked, top each breast with stir-fried onions and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "chicken",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-roasted-peruvian-chicken-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T10:09:57.837Z"
+}
