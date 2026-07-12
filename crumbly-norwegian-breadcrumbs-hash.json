@@ -1,0 +1,68 @@
+{
+  "slug": "crumbly-norwegian-breadcrumbs-hash",
+  "title": "Norwegian Crispy Hash",
+  "description": "A traditional Norwegian dish made with crispy hash and crumbly breadcrumbs, perfect for a quick breakfast.",
+  "cuisine": "Norwegian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "crispy hash",
+      "amount": "1 cup"
+    },
+    {
+      "name": "crumbly norwegian cheese",
+      "amount": "1/2 cup, shredded"
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "large egg",
+      "amount": "1"
+    },
+    {
+      "name": "milk",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine crispy hash, crumbly norwegian cheese, and breadcrumbs.",
+    "2. In a separate bowl, whisk together egg and milk.",
+    "3. Add the egg mixture to the hash mixture and mix well.",
+    "4. Season with salt and black pepper to taste.",
+    "5. Divide the mixture into 4 equal parts and shape each part into a patty.",
+    "6. Heat a non-stick skillet over medium heat.",
+    "7. Add the patties to the skillet and cook for 3-4 minutes on each side, until golden brown.",
+    "8. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "norwegian",
+    "crispy-hash"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crumbly-norwegian-breadcrumbs-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T02:23:13.457Z"
+}
