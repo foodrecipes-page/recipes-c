@@ -1,0 +1,81 @@
+{
+  "slug": "citrusy-flaky-beef-steak",
+  "title": "Beef and Citrus Steak",
+  "description": "A flavorful steak dish with a hint of citrus, perfect for a quick dinner. The combination of beef and citrus creates a refreshing twist on a classic steak recipe.",
+  "cuisine": null,
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Flaky Pastry",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "Steak",
+      "amount": "1 (1.5-2 pound)",
+      "notes": "ribeye or strip loin work well"
+    },
+    {
+      "name": "Citrus Zest",
+      "amount": "1 tablespoon",
+      "notes": "from 1 lemon or orange"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the steak with salt and black pepper.",
+    "Heat olive oil in a large oven-safe skillet over medium-high heat.",
+    "Sear the steak for 2-3 minutes per side, then transfer it to the preheated oven.",
+    "Bake the steak for 8-12 minutes, or until it reaches your desired level of doneness.",
+    "While the steak is cooking, roll out the flaky pastry and cut it into strips.",
+    "Remove the steak from the oven and let it rest for a few minutes.",
+    "Wrap the steak in pastry strips, securing with toothpicks if needed.",
+    "Zest the citrus over the steak and serve immediately.",
+    "Serve the steak with your choice of sides, such as roasted vegetables or mashed potatoes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "steak",
+    "beef",
+    "pastry",
+    "citrus",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 22,
+    "fat": 36
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/citrusy-flaky-beef-steak",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T12:21:17.049Z"
+}
