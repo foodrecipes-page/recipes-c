@@ -1,0 +1,78 @@
+{
+  "slug": "crunchy-smoky-potato-stir-fry",
+  "title": "Smoky Stir Fry with Crunchy Potato",
+  "description": "A quick and easy stir fry recipe with a smoky twist, featuring crispy potato and crunchy vegetables.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Potato",
+      "amount": "2 medium",
+      "notes": "peeled and cut into bite-sized pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "4 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the sliced onion and cook until it starts to brown, about 3-4 minutes.",
+    "Add the sliced bell pepper and cook for another 3-4 minutes.",
+    "Add the sliced carrots and cook for 5 minutes, or until they start to soften.",
+    "Add the potato and cook for 5-7 minutes, or until it starts to brown and crispy.",
+    "In a small bowl, whisk together the soy sauce and minced garlic.",
+    "Pour the soy sauce mixture over the vegetables and stir to combine.",
+    "Cook for an additional 1-2 minutes, or until the vegetables are coated in the sauce.",
+    "Serve hot and garnish with crunchy chopped scallions, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "vegetarian",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crunchy-smoky-potato-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T08:29:19.969Z"
+}
