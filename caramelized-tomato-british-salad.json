@@ -1,0 +1,76 @@
+{
+  "slug": "caramelized-tomato-british-salad",
+  "title": "Caramelized Tomato Salad",
+  "description": "A sweet and tangy salad featuring caramelized tomatoes, perfect for a light lunch or dinner.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tomatoes",
+      "amount": "2 large",
+      "notes": "Caramelized"
+    },
+    {
+      "name": "Mixed greens",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/2 cup, crumbled",
+      "notes": ""
+    },
+    {
+      "name": "Balsamic glaze",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Caramelize the tomatoes by cooking them in a pan with olive oil over low heat for 30 minutes, stirring occasionally.",
+    "In a large bowl, combine the mixed greens, red onion, and crumbled feta cheese.",
+    "Drizzle the balsamic glaze over the salad and toss to combine.",
+    "Arrange the caramelized tomatoes on top of the salad.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "tomato",
+    "british"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/caramelized-tomato-british-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T13:58:08.775Z"
+}
