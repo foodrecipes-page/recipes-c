@@ -1,0 +1,83 @@
+{
+  "slug": "caramelized-chinese-dates-stir-fry",
+  "title": "Caramelized Date Stir Fry",
+  "description": "A sweet and savory Chinese-inspired stir fry featuring caramelized dates and a variety of vegetables.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup, peeled and sliced",
+      "notes": null
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1 cup, sliced",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 cup, sliced",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced",
+      "notes": null
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon, grated",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add garlic and ginger and stir-fry for 1 minute.",
+    "Add onion and bell peppers and stir-fry for 2-3 minutes.",
+    "Add carrots and stir-fry for 2-3 minutes.",
+    "Add dates and soy sauce and stir-fry for 1 minute.",
+    "Cook for an additional 2-3 minutes or until the vegetables are tender.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caramelized",
+    "chinese",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 9
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/caramelized-chinese-dates-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T04:21:58.979Z"
+}
