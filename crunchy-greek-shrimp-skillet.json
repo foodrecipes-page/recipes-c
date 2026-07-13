@@ -1,0 +1,86 @@
+{
+  "slug": "crunchy-greek-shrimp-skillet",
+  "title": "Shrimp Skillet",
+  "description": "A quick and flavorful skillet dish made with succulent shrimp, crunchy texture, and a hint of Mediterranean flavor.",
+  "cuisine": null,
+  "diet": [
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "12 large",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "greek yogurt",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "crunchy breadcrumbs",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "skillet seasoning",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "chopped bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and bell pepper and cook until tender, about 3-4 minutes.",
+    "Add the garlic and cook for an additional minute.",
+    "Add the shrimp and cook until pink and fully cooked, about 2-3 minutes per side.",
+    "Stir in the greek yogurt, crunchy breadcrumbs, and skillet seasoning.",
+    "Cook for an additional 1-2 minutes, until the sauce has thickened.",
+    "Serve the shrimp hot, garnished with fresh parsley and a squeeze of lemon juice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "skillet",
+    "quick-cooking"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 32,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crunchy-greek-shrimp-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T18:27:56.681Z"
+}
