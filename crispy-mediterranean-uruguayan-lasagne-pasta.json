@@ -1,0 +1,88 @@
+{
+  "slug": "crispy-mediterranean-uruguayan-lasagne-pasta",
+  "title": "Uruguayan Lasagne",
+  "description": "A twist on the classic Italian dish, this Uruguayan lasagne combines the flavors of the Mediterranean with the heartiness of pasta. Enjoy as a satisfying dinner.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "Lasagne noodles"
+    },
+    {
+      "name": "mediterranean sauce",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "16 oz",
+      "notes": "For the ricotta mixture"
+    },
+    {
+      "name": "shredded mozzarella",
+      "amount": "8 oz",
+      "notes": "For the cheese layer"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "grated parmesan",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook pasta according to package instructions. Drain and set aside.",
+    "In a medium bowl, combine ricotta cheese, parsley, and garlic. Season with salt to taste.",
+    "Spoon a layer of mediterranean sauce into the bottom of a 9x13-inch baking dish.",
+    "Arrange 4 lasagne noodles on top of the sauce.",
+    "Spread half of the ricotta mixture over the noodles.",
+    "Sprinkle with half of the mozzarella cheese.",
+    "Repeat the layers, starting with the noodles, then the sauce, the ricotta mixture, and finally the remaining mozzarella cheese.",
+    "Top with grated parmesan cheese (if using).",
+    "Cover with aluminum foil and bake for 30 minutes.",
+    "Remove foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Let the lasagne rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lasagne",
+    "pasta",
+    "mediterranean",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-mediterranean-uruguayan-lasagne-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T19:48:20.261Z"
+}
