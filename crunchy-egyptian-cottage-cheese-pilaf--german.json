@@ -1,0 +1,72 @@
+{
+  "slug": "crunchy-egyptian-cottage-cheese-pilaf--german",
+  "title": "German Cottage Pilaf",
+  "description": "A hearty and comforting German-inspired dish made with cottage cheese, pilaf, and crunchy Egyptian ingredients.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cottage cheese",
+      "amount": "250g",
+      "notes": "low-fat"
+    },
+    {
+      "name": "pilaf",
+      "amount": "150g",
+      "notes": "aromatic"
+    },
+    {
+      "name": "crunchy",
+      "amount": "1 cup",
+      "notes": "chopped onions"
+    },
+    {
+      "name": "egyptian",
+      "amount": "2 cloves",
+      "notes": "minced garlic"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add the chopped onions and cook until softened.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Combine the pilaf and cottage cheese in a bowl.",
+    "Add the cooked onion and garlic mixture to the pilaf mixture.",
+    "Stir in salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "pilaf",
+    "cottage-cheese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crunchy-egyptian-cottage-cheese-pilaf--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T14:04:24.869Z"
+}
