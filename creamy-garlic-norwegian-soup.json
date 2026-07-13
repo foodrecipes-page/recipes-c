@@ -1,0 +1,66 @@
+{
+  "slug": "creamy-garlic-norwegian-soup",
+  "title": "Creamy Norwegian Soup",
+  "description": "A delicious and comforting soup made with Norwegian ingredients. This creamy soup is perfect for a cold winter's day.",
+  "cuisine": "Norwegian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Norwegian Cod",
+      "amount": "1 pound",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup",
+      "notes": "Heavy cream adds a rich and creamy texture to the soup."
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "4 cups",
+      "notes": "Use low-sodium broth for a healthier option"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 tablespoons",
+      "notes": "Used to thicken the soup"
+    }
+  ],
+  "instructions": [
+    "Melt 2 tablespoons of butter in a large pot over medium heat.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the Norwegian cod and cook for 2-3 minutes, until opaque.",
+    "Pour in the chicken broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer for 10-12 minutes, or until the cod is cooked through.",
+    "Stir in the heavy cream and cook for an additional 2-3 minutes, until the soup has thickened slightly.",
+    "Stir in the flour to thicken the soup.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped parsley or chives if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "norwegian",
+    "comfortfood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-garlic-norwegian-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T04:31:24.376Z"
+}
