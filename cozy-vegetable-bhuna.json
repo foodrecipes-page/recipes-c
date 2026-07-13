@@ -1,0 +1,81 @@
+{
+  "slug": "cozy-vegetable-bhuna",
+  "title": "Bhuna Vegetable Stir Fry",
+  "description": "A simple and flavorful vegetarian stir fry made with bhuna spice and a variety of colorful vegetables.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Bhuna Spice",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Cozy Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the Cozy Oil in a large pan over medium-high heat.",
+    "Add the Onions and Garlic and cook until the Onions are translucent.",
+    "Add the Bhuna Spice and cook for 1 minute.",
+    "Add the sliced Carrots and Bell Peppers and cook until they start to soften.",
+    "Season with Salt and Black Pepper to taste.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "stir-fry",
+    "indian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/cozy-vegetable-bhuna",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T17:31:54.025Z"
+}
