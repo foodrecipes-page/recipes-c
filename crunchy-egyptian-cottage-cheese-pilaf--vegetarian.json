@@ -1,0 +1,59 @@
+{
+  "slug": "crunchy-egyptian-cottage-cheese-pilaf--vegetarian",
+  "title": "Egyptian Pilaf Bowl with Crunchy Toppings",
+  "description": "A flavorful and nutritious vegetarian meal featuring a hearty Egyptian-style pilaf topped with crunchy elements.",
+  "cuisine": "middle-eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cottage cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "crunchy",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "egyptian",
+      "amount": "2 tablespoons, chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the pilaf according to the package instructions.",
+    "In a separate pan, sauté the Egyptian element until fragrant.",
+    "Combine the cooked pilaf and sautéed Egyptian element in a bowl.",
+    "Top the pilaf mixture with the cottage cheese and crunchy elements.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "lunch",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crunchy-egyptian-cottage-cheese-pilaf--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T14:02:41.017Z"
+}
