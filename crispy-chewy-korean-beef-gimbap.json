@@ -1,0 +1,79 @@
+{
+  "slug": "crispy-chewy-korean-beef-gimbap",
+  "title": "Korean-Style Beef Gimbap",
+  "description": "A delicious and easy-to-make Korean dish featuring crispy, chewy rice and savory beef fillings. This recipe is perfect for a quick lunch or dinner.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef (thinly sliced)",
+      "amount": "1 pound",
+      "notes": "Sliced into thin strips"
+    },
+    {
+      "name": "Gimbap rice (short-grain rice)",
+      "amount": "2 cups",
+      "notes": "Cooked with a crispy texture"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 teaspoon",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "For marinating the beef"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "For balancing flavors"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon (grated)",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "Green onions (thinly sliced)",
+      "amount": "1 cup",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Prepare the gimbap rice according to the package instructions for a crispy texture.",
+    "In a large bowl, whisk together soy sauce, brown sugar, and Korean chili flakes. Add the sliced beef and marinate for at least 30 minutes.",
+    "Preheat a large non-stick skillet or griddle over medium-high heat.",
+    "Remove the beef from the marinade, letting any excess liquid drip off.",
+    "Cook the beef for 3-4 minutes per side, or until cooked to your desired level of doneness.",
+    "Transfer the cooked beef to a cutting board and let rest for 5 minutes.",
+    "To assemble the gimbap, lay a sheet of gim (dried seaweed) flat and spread a thin layer of gimbap rice onto the center.",
+    "Add a few slices of the cooked beef on top of the rice, followed by a sprinkle of green onions.",
+    "Roll the gimbap tightly and slice into individual servings.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean-cuisine",
+    "beef",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-chewy-korean-beef-gimbap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T02:18:33.873Z"
+}
