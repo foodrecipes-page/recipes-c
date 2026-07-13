@@ -1,0 +1,52 @@
+{
+  "slug": "crunchy-egyptian-cottage-cheese-pilaf--chinese",
+  "title": "Cheesy Chinese Pilaf",
+  "description": "A classic Chinese-inspired pilaf with the added richness of cheese. This dish is perfect for a comforting meal.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cottage cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "crunchy rice pilaf",
+      "amount": "2 cups"
+    },
+    {
+      "name": "egyptian flatbread",
+      "amount": "2 slices"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the pilaf according to the package instructions.",
+    "In a bowl, mix the cottage cheese with a pinch of salt.",
+    "Add the cooked pilaf to the bowl and stir until combined.",
+    "Transfer the mixture to a baking dish.",
+    "Place the sliced flatbread on top of the mixture.",
+    "Bake in the oven for 15-20 minutes or until the cheese is melted and the bread is crispy.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "comfort-food",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crunchy-egyptian-cottage-cheese-pilaf--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T14:03:53.808Z"
+}
