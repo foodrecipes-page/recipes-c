@@ -1,0 +1,61 @@
+{
+  "slug": "crispy-smoky-swede-stir-fry",
+  "title": "Smoky Swede Crisps",
+  "description": "A delicious and easy-to-make side dish perfect for snacking or as a complement to your favorite meals.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Swede",
+      "amount": "1 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Vinegar",
+      "amount": "2 tbsp",
+      "notes": "apple cider"
+    },
+    {
+      "name": "Crushed black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Crispy",
+      "amount": "3 cups",
+      "notes": "chips, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Place the chopped swede on a baking sheet, drizzle with vinegar, and sprinkle with black pepper.",
+    "Roast in the preheated oven for 20-25 minutes or until tender and slightly caramelized.",
+    "Remove from the oven and let cool slightly.",
+    "Crisp the chips in a dry pan over medium heat until golden brown.",
+    "Serve the roasted swede topped with crispy chips."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "sides",
+    "veggies",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 0.5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-smoky-swede-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T21:27:48.033Z"
+}
