@@ -1,0 +1,67 @@
+{
+  "slug": "crispy-roasted-indian-chocolate-chips-stir-fry",
+  "title": "Crunchy Indian-Style Snack",
+  "description": "A spicy and crunchy snack inspired by Indian cuisine. Perfect for a quick snack or appetizer.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chips",
+      "amount": "1 cup",
+      "notes": "any type of potato chip"
+    },
+    {
+      "name": "crispy onions",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "chocolate",
+      "amount": "1/4 cup",
+      "notes": "melted and used as a sauce"
+    },
+    {
+      "name": "roasted cumin seeds",
+      "amount": "1 tsp",
+      "notes": "toasted in a pan for 1 minute"
+    },
+    {
+      "name": "stir-fry sauce",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Spread the chips on a baking sheet and bake for 5 minutes, or until crispy.",
+    "In a pan, heat the roasted cumin seeds over medium heat for 1 minute.",
+    "Add the stir-fry sauce and stir for 30 seconds.",
+    "Add the crispy onions and stir for another 30 seconds.",
+    "Drizzle the melted chocolate over the top and stir until combined.",
+    "Serve the crunchy snack immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "snack",
+    "chocolate"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-roasted-indian-chocolate-chips-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T00:03:49.872Z"
+}
