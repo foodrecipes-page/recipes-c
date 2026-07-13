@@ -1,0 +1,87 @@
+{
+  "slug": "crunchy-spanish-beef-burger",
+  "title": "Spanish Beef Burger",
+  "description": "A tasty beef burger with a crunchy twist, inspired by Spanish flavors.",
+  "cuisine": "Spanish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef burger patty",
+      "amount": "2",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "crunchy breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": "from Spanish bread"
+    },
+    {
+      "name": "Spanish olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1/2 cup",
+      "notes": "red onion for sweetness"
+    },
+    {
+      "name": "crushed garlic",
+      "amount": "2 cloves",
+      "notes": "for flavor"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1/2 teaspoon",
+      "notes": "for Spanish flavor"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Spanish cheese",
+      "amount": "1 slice",
+      "notes": "Manchego for extra flavor"
+    },
+    {
+      "name": "crusty bread",
+      "amount": "4 slices",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (375°F).",
+    "In a small bowl, mix together breadcrumbs, cumin, salt, and pepper.",
+    "Add the breadcrumb mixture to the beef patty and gently mix.",
+    "Brush the grill with Spanish olive oil.",
+    "Grill the beef patty for 4-5 minutes per side, or until cooked to desired doneness.",
+    "While the patty is cooking, toast the crusty bread on the grill.",
+    "Assemble the burger with the cooked patty, chopped onion, crushed garlic, and Spanish cheese.",
+    "Top with a slice of toasted bread and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "beef",
+    "burger",
+    "spanish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crunchy-spanish-beef-burger",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T01:29:57.279Z"
+}
