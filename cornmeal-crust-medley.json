@@ -1,0 +1,58 @@
+{
+  "slug": "cornmeal-crust-medley",
+  "title": "Corn Crusted Medley Bake",
+  "description": "A tasty and easy-to-make medley bake with a crunchy corn crust topping. Serve as a side dish or add your favorite protein for a complete meal.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup cornmeal",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup crust",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "1 cup medley",
+      "amount": "1 cup",
+      "notes": "mix of bell peppers and onions"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a bowl, mix together cornmeal and crust.",
+    "In a separate pan, sauté medley until tender.",
+    "Add cooked medley to the cornmeal mixture and stir to combine.",
+    "Transfer the mixture to a baking dish and top with additional crust if desired.",
+    "Bake for 20-25 minutes or until crust is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "corn",
+    "crust",
+    "medley",
+    "bake",
+    "side-dish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/cornmeal-crust-medley",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T14:34:56.100Z"
+}
