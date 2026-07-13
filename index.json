@@ -1519,16 +1519,16 @@
   },
   {
     "slug": "charred-comforting-thai-tiger-prawns-pad-see-ew",
-    "title": "Charred Comforting Thai Tiger Prawns Pad See Ew",
+    "title": "Thai-Style Prawn Stir Fry",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "streetfood",
-      "thaifood",
-      "weeknight"
+      "thai",
+      "stir-fry",
+      "prawns",
+      "comforting",
+      "easy-dinner"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 35,
+    "totalTimeMin": 27,
     "shard": "c"
   },
   {
@@ -10661,15 +10661,16 @@
   },
   {
     "slug": "cornmeal-crust-medley",
-    "title": "Peppery Cornmeal Crust Medley",
+    "title": "Corn Crusted Medley Bake",
     "tags": [
-      "cornmeal_crust",
-      "peppery_mediterranean",
-      "keto_dish",
-      "crispy_indulgent"
+      "corn",
+      "crust",
+      "medley",
+      "bake",
+      "side-dish"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 35,
+    "cuisine": "American",
+    "totalTimeMin": 30,
     "shard": "c"
   },
   {
@@ -31506,6 +31507,147 @@
     ],
     "cuisine": "Egyptian",
     "totalTimeMin": 35,
+    "shard": "c"
+  },
+  {
+    "slug": "crunchy-egyptian-cottage-cheese-pilaf--vegetarian",
+    "title": "Egyptian Pilaf Bowl with Crunchy Toppings",
+    "tags": [
+      "vegetarian",
+      "lunch",
+      "middle-eastern"
+    ],
+    "cuisine": "middle-eastern",
+    "totalTimeMin": 15,
+    "shard": "c"
+  },
+  {
+    "slug": "crunchy-egyptian-cottage-cheese-pilaf--chinese",
+    "title": "Cheesy Chinese Pilaf",
+    "tags": [
+      "chinese",
+      "comfort-food",
+      "easy"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 30,
+    "shard": "c"
+  },
+  {
+    "slug": "crunchy-egyptian-cottage-cheese-pilaf--french",
+    "title": "French Cottage Cheese and Pilaf Pilaf",
+    "tags": [
+      "breakfast",
+      "french",
+      "healthy",
+      "quick"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 10,
+    "shard": "c"
+  },
+  {
+    "slug": "crunchy-egyptian-cottage-cheese-pilaf--thai",
+    "title": "Thai-Style Crispy Cottage Cheese Pilaf",
+    "tags": [
+      "thai",
+      "cheese",
+      "pilaf",
+      "cottage-cheese",
+      "fusion"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "crunchy-egyptian-cottage-cheese-pilaf--indian",
+    "title": "Egyptian-Style Pilaf with Cottage Cheese",
+    "tags": [
+      "pilaf",
+      "indian",
+      "easy",
+      "vegetarian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "c"
+  },
+  {
+    "slug": "crunchy-egyptian-cottage-cheese-pilaf--mexican",
+    "title": "Egyptian Cottage Cheese Pilaf",
+    "tags": [
+      "mexican-food",
+      "cottage-cheese",
+      "pilaf",
+      "lunch-ideas"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 30,
+    "shard": "c"
+  },
+  {
+    "slug": "crunchy-egyptian-cottage-cheese-pilaf--vegan",
+    "title": "Vegan Egyptian Crunchy Pilaf",
+    "tags": [
+      "vegan",
+      "egyptian",
+      "pilaf",
+      "crunchy"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 40,
+    "shard": "c"
+  },
+  {
+    "slug": "crunchy-egyptian-cottage-cheese-pilaf--german",
+    "title": "German Cottage Pilaf",
+    "tags": [
+      "german",
+      "pilaf",
+      "cottage-cheese"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "crunchy-egyptian-cottage-cheese-pilaf--italian",
+    "title": "Italian Pilaf Bake",
+    "tags": [
+      "italian",
+      "easy",
+      "one-pot",
+      "cottage-cheese"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "c"
+  },
+  {
+    "slug": "crunchy-egyptian-cottage-cheese-pilaf--gluten-free",
+    "title": "Egyptian Cottage Pilaf Bowl",
+    "tags": [
+      "gluten-free",
+      "lunch",
+      "pilaf",
+      "cottage-cheese"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "crunchy-egyptian-cottage-cheese-pilaf--japanese",
+    "title": "Japanese-Style Cottage Cheese Pilaf",
+    "tags": [
+      "japanese",
+      "vegetarian",
+      "easy",
+      "pilaf"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 15,
     "shard": "c"
   }
 ]
