@@ -1,0 +1,86 @@
+{
+  "slug": "crumble-de-cure",
+  "title": "Cured Meat with Crumble Topping",
+  "description": "A simple recipe for a delicious cured meat dish topped with a crunchy crumble mixture.",
+  "cuisine": "British",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 kg"
+    },
+    {
+      "name": "crumble",
+      "amount": "250g"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "50g"
+    },
+    {
+      "name": "butter",
+      "amount": "100g"
+    },
+    {
+      "name": "cure",
+      "amount": "10g"
+    },
+    {
+      "name": "salt",
+      "amount": "5g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "2g"
+    },
+    {
+      "name": "sugar",
+      "amount": "5g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "Season the pork shoulder with salt, black pepper, and sugar.",
+    "Mix the cure and rub it all over the pork shoulder.",
+    "Place the pork shoulder in a roasting tray and refrigerate for at least 2 hours or overnight.",
+    "In a separate bowl, mix the crumble, flour, and butter until crumbly.",
+    "Remove the pork shoulder from the refrigerator and top it with the crumble mixture.",
+    "Bake in the preheated oven for 2 hours or until cooked through.",
+    "While the meat is cooking, sauté the onion and garlic until softened.",
+    "Once the meat is cooked, let it rest for 10 minutes before slicing.",
+    "Serve with the sautéed onion and garlic.",
+    "Garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "cured-meat",
+    "crumble-topping"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crumble-de-cure",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T04:29:55.204Z"
+}
