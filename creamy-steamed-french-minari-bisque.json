@@ -1,0 +1,79 @@
+{
+  "slug": "creamy-steamed-french-minari-bisque",
+  "title": "Steamed French Clams with Creamy Minari Broth",
+  "description": "A rich and flavorful seafood dish featuring the delicate taste of clams, minari, and a touch of creamy broth.",
+  "cuisine": "French",
+  "diet": [
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "French clams",
+      "amount": "1 pound",
+      "notes": "Fresh and scrubbed"
+    },
+    {
+      "name": "Minari",
+      "amount": "1 bunch",
+      "notes": "Cleaned and sliced"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "Melted"
+    },
+    {
+      "name": "White wine",
+      "amount": "1/2 cup",
+      "notes": "Dry and chilled"
+    },
+    {
+      "name": "Cream",
+      "amount": "1 cup",
+      "notes": "Heavy cream or half and half"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse the clams under cold water and scrub them clean.",
+    "Melt the butter in a large saucepan over medium heat.",
+    "Add the garlic and sauté for 1 minute until fragrant.",
+    "Add the white wine and cook until reduced by half, about 2 minutes.",
+    "Add the minari and cook until wilted, about 3 minutes.",
+    "Add the clams, cover the saucepan, and cook until the clams open, about 5 minutes.",
+    "Stir in the cream and cook until heated through.",
+    "Season with salt and pepper to taste.",
+    "Serve the clams and broth in bowls and garnish with parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "french",
+    "clams",
+    "minari"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-steamed-french-minari-bisque",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T18:21:02.213Z"
+}
