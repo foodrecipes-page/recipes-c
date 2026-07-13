@@ -1,0 +1,78 @@
+{
+  "slug": "crumbly-midnight-greek-pastry-crumble",
+  "title": "Midnight Greek Crumble Pie",
+  "description": "A rich and creamy pie filled with midnight berries and topped with a crumbly greek pastry crust.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "midnight berries",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "crumbly pastry",
+      "amount": "1 sheet",
+      "notes": "store-bought"
+    },
+    {
+      "name": "greek yogurt",
+      "amount": "1 cup",
+      "notes": "plain, unflavored"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "raw, unfiltered"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": "pure, high-quality"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "large, fresh"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "unbleached, all-purpose"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the crumbly pastry and place it in a pie dish.",
+    "In a separate bowl, mix together the midnight berries, greek yogurt, honey, and vanilla extract.",
+    "Pour the berry mixture into the pie crust.",
+    "In a separate bowl, whisk together the eggs and flour until smooth.",
+    "Pour the egg mixture over the berry mixture.",
+    "Bake the pie for 40-50 minutes, or until the crust is golden brown and the filling is set.",
+    "Let the pie cool for at least 30 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "pie",
+    "berries",
+    "greek"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crumbly-midnight-greek-pastry-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T23:32:48.347Z"
+}
