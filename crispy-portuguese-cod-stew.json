@@ -1,0 +1,94 @@
+{
+  "slug": "crispy-portuguese-cod-stew",
+  "title": "Crispy Cod Stew",
+  "description": "A hearty stew featuring crispy cod, inspired by traditional Portuguese flavors.",
+  "cuisine": "portuguese",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat olive oil in a large pot over medium heat.",
+    "2. Add diced onion and cook until softened, about 5 minutes.",
+    "3. Add minced garlic and cook for an additional minute.",
+    "4. Add cod fillets and cook for 2-3 minutes on each side.",
+    "5. Add chicken broth, tomato paste, potatoes, and carrots. Bring to a boil.",
+    "6. Reduce heat to low and simmer for 10-12 minutes or until cod is cooked through.",
+    "7. Season with salt and black pepper to taste.",
+    "8. Serve hot, garnished with crispy cod topping (see below).",
+    "9. For crispy cod topping: Dip cod fillets in beaten eggs and then coat with breadcrumbs. Pan-fry until golden brown.",
+    "10. Serve stew with crispy cod topping on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "portuguese",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-portuguese-cod-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T07:26:06.860Z"
+}
