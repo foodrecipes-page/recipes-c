@@ -1,0 +1,68 @@
+{
+  "slug": "crisp-russian-turkey-stir-fry",
+  "title": "Crispy Turkey Stir Fry",
+  "description": "A quick and easy stir fry made with crispy turkey, crunchy vegetables, and savory sauce.",
+  "cuisine": "American",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Turkey breast",
+      "amount": "1 lb, cut into bite-sized pieces"
+    },
+    {
+      "name": "Crisp lettuce",
+      "amount": "2 cups, chopped"
+    },
+    {
+      "name": "Russian dressing",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Stir-fry sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fry onions",
+      "amount": "1 cup, sliced"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the sliced onions and cook until crispy, about 3-4 minutes.",
+    "Add the turkey breast pieces to the skillet and cook until browned and cooked through, about 5-6 minutes.",
+    "Add the chopped lettuce and stir-fry sauce to the skillet and cook until the lettuce is wilted, about 2 minutes.",
+    "Stir in the Russian dressing and cook for an additional 1 minute.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "easy",
+    "quick",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crisp-russian-turkey-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T10:55:00.052Z"
+}
