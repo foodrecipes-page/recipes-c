@@ -1,0 +1,80 @@
+{
+  "slug": "creamy-argentinian-masarepa-pilaf",
+  "title": "Argentinian-Style Masarepa Cakes",
+  "description": "A traditional Latin American dish inspired by Argentina, featuring masarepa cakes with a creamy twist.",
+  "cuisine": "latin american",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "masarepa",
+      "amount": "2 cups",
+      "notes": "preferably Harina P.A.N."
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": "cooked and cooled"
+    },
+    {
+      "name": "cream cheese",
+      "amount": "8 ounces",
+      "notes": "softened"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "shredded cheddar",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "sour cream",
+      "amount": "2 tablespoons",
+      "notes": "for serving"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "2 tablespoons",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a medium bowl, mix together the masarepa and pilaf.",
+    "In a large bowl, beat the cream cheese until smooth.",
+    "Add the eggs one at a time, beating well after each addition.",
+    "Stir in the shredded cheddar (if using) and the masarepa mixture.",
+    "Using a 1/4 cup measuring cup, scoop the mixture into a greased mini muffin tin.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Serve warm with a dollop of sour cream and a sprinkle of chopped scallions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "latin-american",
+    "breakfast",
+    "masarepa",
+    "creamy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-argentinian-masarepa-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T19:57:34.222Z"
+}
