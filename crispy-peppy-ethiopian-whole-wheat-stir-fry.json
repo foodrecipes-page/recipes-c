@@ -1,0 +1,60 @@
+{
+  "slug": "crispy-peppy-ethiopian-whole-wheat-stir-fry",
+  "title": "Crispy Stir Fry",
+  "description": "A simple, crunchy, and flavorful dish made with crispy vegetables and a hint of peppy spice.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Whole Wheat Flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Crispy Vegetables",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Peppy Spice",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add peppy spice and stir for 1 minute.",
+    "Add crispy vegetables and stir fry for 3-4 minutes.",
+    "Mix in whole wheat flour to coat the vegetables.",
+    "Cook for an additional 2 minutes or until the mixture is crispy.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-peppy-ethiopian-whole-wheat-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T11:01:09.209Z"
+}
