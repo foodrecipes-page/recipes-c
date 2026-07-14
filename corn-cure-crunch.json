@@ -1,0 +1,57 @@
+{
+  "slug": "corn-cure-crunch",
+  "title": "Crispy Corn Fritters",
+  "description": "A crunchy and savory snack made with fresh corn and a hint of spice.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "corn kernels",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "crunch",
+      "amount": "1/4 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "cure",
+      "amount": "1 tsp",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together corn, crunch, and cure.",
+    "Add 1/2 cup of flour and mix until just combined.",
+    "Heat about 1-2 inches of oil in a deep frying pan to 350°F.",
+    "Using a spoon, drop small balls of the mixture into the oil.",
+    "Fry for 2-3 minutes or until golden brown.",
+    "Using a slotted spoon, remove the fritters from the oil and drain on paper towels.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "corn",
+    "fritters",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/corn-cure-crunch",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T09:10:00.139Z"
+}
