@@ -1,0 +1,64 @@
+{
+  "slug": "crispy-garlicky-flax-eggs-wrap",
+  "title": "Garlicky Flax Wrap",
+  "description": "A crispy, savory breakfast wrap made with flax eggs and a hint of garlic.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian",
+    "breakfast"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "flax eggs",
+      "amount": "2"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove, minced",
+      "notes": "use 2 cloves for extra garlicky flavor"
+    },
+    {
+      "name": "wrap",
+      "amount": "1",
+      "notes": "or substitute with a whole wheat tortilla"
+    },
+    {
+      "name": "crispy",
+      "amount": "to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or griddle to medium-high heat.",
+    "Crack in the flax eggs and cook until the edges start to set.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Warm the wrap in the microwave for 10-15 seconds, or in the oven for 5-7 minutes.",
+    "Assemble the wrap by placing the cooked egg mixture onto the center of the wrap.",
+    "Add crispy bits to taste, and season with salt.",
+    "Fold the wrap in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "vegetarian",
+    "quick-and-easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-garlicky-flax-eggs-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T15:41:39.809Z"
+}
