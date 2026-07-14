@@ -1,0 +1,79 @@
+{
+  "slug": "crispy-sour-rajasthani-cheddar-bake",
+  "title": "Rajasthani Cheddar Bake",
+  "description": "A traditional Rajasthani-inspired casserole with a crispy cheddar topping.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "crispy rice",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup",
+      "notes": "for serving"
+    },
+    {
+      "name": "bake spice",
+      "amount": "1 teaspoon",
+      "notes": "Rajasthani spice blend"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the chicken breast in a pan until browned and cooked through. Set aside.",
+    "In a separate pan, sauté the onion and ginger until softened.",
+    "Add the crispy rice and cook for 2-3 minutes.",
+    "Stir in the cheddar cheese until melted.",
+    "Add the cooked chicken to the pan and mix well.",
+    "Transfer the mixture to a baking dish.",
+    "Top with additional cheddar cheese and bake for 10-12 minutes.",
+    "Serve hot with a dollop of sour cream and a sprinkle of bake spice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "casserole",
+    "chicken",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-sour-rajasthani-cheddar-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T00:50:19.286Z"
+}
