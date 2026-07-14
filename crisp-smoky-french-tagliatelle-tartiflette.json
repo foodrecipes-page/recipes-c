@@ -1,0 +1,74 @@
+{
+  "slug": "crisp-smoky-french-tagliatelle-tartiflette",
+  "title": "Smoky Tartiflette Tagliatelle",
+  "description": "A French-inspired pasta dish featuring a smoky twist on the classic tartiflette recipe. This hearty tagliatelle is perfect for a cold winter's night.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "pescetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tagliatelle",
+      "amount": "250g"
+    },
+    {
+      "name": "French onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Crisp potatoes",
+      "amount": "2 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "Smoky bacon",
+      "amount": "120g",
+      "notes": "diced"
+    },
+    {
+      "name": "Tartiflette cheese",
+      "amount": "150g",
+      "notes": "grated"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 sprig",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the tagliatelle according to the package instructions until al dente",
+    "In a large skillet, cook the diced smoky bacon over medium heat until crispy",
+    "Add the sliced French onions to the skillet and cook until they are softened and caramelized",
+    "Add the sliced potatoes to the skillet and cook for 5-7 minutes, or until they are tender and lightly browned",
+    "Stir in the grated tartiflette cheese and chopped thyme until the cheese is melted and the mixture is well combined",
+    "Drain the cooked tagliatelle and add it to the skillet with the potato and cheese mixture",
+    "Toss the tagliatelle in the skillet until the pasta is well coated with the potato and cheese mixture",
+    "Season with salt and black pepper to taste",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pasta",
+    "vegetarian",
+    "smoky",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 70,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crisp-smoky-french-tagliatelle-tartiflette",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T22:23:26.021Z"
+}
