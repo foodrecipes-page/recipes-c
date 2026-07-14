@@ -1,0 +1,83 @@
+{
+  "slug": "crispy-egyptian-lamb-casserole",
+  "title": "Egyptian Lamb Casserole",
+  "description": "A hearty, flavorful Middle Eastern-inspired casserole featuring tender lamb and crunchy crispy topping.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Mince",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Crispy Bread Cubes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "1/2 cup",
+      "notes": "Crumbed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large pan, heat oil over medium heat. Add onion and cook until softened, about 5 minutes.",
+    "Add garlic, cumin, and cinnamon. Cook for 1 minute.",
+    "Add lamb mince. Cook, breaking up with a spoon, until browned, about 5-7 minutes.",
+    "Transfer the lamb mixture to a 9x13 inch baking dish.",
+    "Top with crumbled feta cheese and crispy bread cubes.",
+    "Bake for 25-30 minutes or until the casserole is hot and the topping is crispy.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "lamb",
+    "casserole",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-egyptian-lamb-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T17:39:56.822Z"
+}
