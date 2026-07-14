@@ -1,0 +1,83 @@
+{
+  "slug": "chewy-umami-uruguayan-veal-stew",
+  "title": "Uruguayan Veal Stew",
+  "description": "A hearty stew originating from Uruguay, made with tender veal, rich umami flavors, and a hint of chewy texture.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Veal cubes",
+      "amount": "500g",
+      "notes": "Cut into 2-inch pieces"
+    },
+    {
+      "name": "Stew",
+      "amount": "1 cup",
+      "notes": "Use a high-quality, umami-rich stew mix"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": "Dry red wine"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the veal cubes on all sides, about 5 minutes. Remove from pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the stew mix, red wine, beef broth, salt, and black pepper. Stir to combine.",
+    "Return the veal cubes to the pot and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 1 1/2 hours, or until the veal is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "beef-stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/chewy-umami-uruguayan-veal-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T17:05:42.813Z"
+}
