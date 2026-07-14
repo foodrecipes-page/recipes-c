@@ -1,0 +1,67 @@
+{
+  "slug": "crunchy-earthy-whole-wheat-stir-fry",
+  "title": "Crunchy Wheat Stir Fry",
+  "description": "A healthy and easy-to-make dish that combines crunchy vegetables with whole wheat noodles.",
+  "cuisine": null,
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Whole wheat noodles",
+      "amount": "8 oz",
+      "notes": "preferably gluten-free"
+    },
+    {
+      "name": "Crunchy vegetables",
+      "amount": "1 cup",
+      "notes": "such as broccoli, carrots, bell peppers"
+    },
+    {
+      "name": "Earthy stir fry sauce",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": null,
+      "notes": "to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tsp",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Cook whole wheat noodles according to package instructions.",
+    "Heat olive oil in a pan over medium heat.",
+    "Add crunchy vegetables and cook until they start to soften.",
+    "Add earthy stir fry sauce and stir well.",
+    "Combine cooked noodles with the vegetable mixture and season with salt and pepper.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "gluten-free",
+    "easy",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crunchy-earthy-whole-wheat-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T16:50:14.625Z"
+}
