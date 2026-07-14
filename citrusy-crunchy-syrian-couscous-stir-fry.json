@@ -1,0 +1,79 @@
+{
+  "slug": "citrusy-crunchy-syrian-couscous-stir-fry",
+  "title": "Citrusy Couscous Bowl",
+  "description": "A flavorful and refreshing bowl filled with citrusy couscous, crunchy vegetables, and a hint of Syrian spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "couscous",
+      "amount": "1 cup"
+    },
+    {
+      "name": "orange",
+      "amount": "1 medium",
+      "notes": "squeezed for juice"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "seeded and diced"
+    },
+    {
+      "name": "syrian spice blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Bring a pot of salted water to a boil and cook the couscous according to package instructions.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the grated carrot and diced red bell pepper, cook for 3-4 minutes until tender.",
+    "Stir in the syrian spice blend and cook for an additional minute.",
+    "Fluff the cooked couscous with a fork and stir in the orange juice and zest.",
+    "Combine the cooked couscous mixture with the skillet contents and stir to combine.",
+    "Season with salt to taste.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "couscous",
+    "middle-eastern",
+    "healthy",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/citrusy-crunchy-syrian-couscous-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T02:44:51.164Z"
+}
