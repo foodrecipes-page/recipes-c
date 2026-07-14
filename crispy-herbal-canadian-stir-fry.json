@@ -1,0 +1,91 @@
+{
+  "slug": "crispy-herbal-canadian-stir-fry",
+  "title": "Canadian Stir Fry",
+  "description": "A quick and easy stir fry dish with a hint of Canadian flavor.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Stir-fry sauce",
+      "amount": "2 tablespoons",
+      "notes": "Available in most supermarkets"
+    },
+    {
+      "name": "Crispy bacon",
+      "amount": "4 slices",
+      "notes": "Crumbled for added texture"
+    },
+    {
+      "name": "Herbal tea-infused oil",
+      "amount": "2 tablespoons",
+      "notes": "Add a hint of herbal flavor"
+    },
+    {
+      "name": "Frozen vegetables",
+      "amount": "1 cup",
+      "notes": "Choose your favorite mix"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "Cook according to package instructions"
+    },
+    {
+      "name": "Canadian maple syrup",
+      "amount": "1 tablespoon",
+      "notes": "Add a touch of sweetness"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grated for added flavor"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the herbal tea-infused oil in a large skillet or wok over medium-high heat.",
+    "Add the crispy bacon and cook until crispy, then remove from the skillet.",
+    "Add the frozen vegetables to the skillet and cook until tender.",
+    "In a small bowl, whisk together the stir-fry sauce, soy sauce, and Canadian maple syrup.",
+    "Pour the sauce into the skillet and stir to combine.",
+    "Add the cooked bacon, ginger, and green onions to the skillet and stir to combine.",
+    "Serve the stir-fry over cooked rice.",
+    "Garnish with additional green onions and crispy bacon, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "stir-fry",
+    "bacon",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 50,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-herbal-canadian-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T07:55:58.597Z"
+}
