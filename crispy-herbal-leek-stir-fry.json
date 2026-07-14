@@ -1,0 +1,83 @@
+{
+  "slug": "crispy-herbal-leek-stir-fry",
+  "title": "Herbal Leek Stir Fry",
+  "description": "A simple and flavorful stir fry made with crispy leeks and herbal notes.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Leeks",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Herbal oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon, minced",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove, minced",
+      "notes": ""
+    },
+    {
+      "name": "Crispy garlic",
+      "amount": "1 tablespoon, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the herbal oil in a wok or large skillet over medium-high heat.",
+    "Add the minced ginger and cook for 1 minute, until fragrant.",
+    "Add the leeks and cook for 4-5 minutes, until they start to brown.",
+    "Add the garlic and cook for another minute.",
+    "Stir in the soy sauce and cook for 1 minute.",
+    "Add the crispy garlic and green onions, and cook for another minute.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "chinese-food",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-herbal-leek-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T09:57:55.641Z"
+}
