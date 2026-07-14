@@ -1,0 +1,75 @@
+{
+  "slug": "crispy-indian-onion-stir-fry",
+  "title": "Crispy Indian Onion Stir Fry",
+  "description": "A flavorful and crunchy Indian-inspired stir fry made with onions, crispy elements, and a hint of spices.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Crispy onions",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the sliced onions and cook until lightly browned, about 3-4 minutes.",
+    "Add the crispy onions, garam masala, cumin powder, and salt. Stir to combine.",
+    "Cook for an additional 1-2 minutes, until the flavors are well combined.",
+    "Serve hot, garnished with a squeeze of lemon juice.",
+    "Serve with naan or rice for a complete meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "stir-fry",
+    "crispy-onions"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-indian-onion-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T02:25:29.544Z"
+}
