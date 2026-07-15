@@ -1,0 +1,80 @@
+{
+  "slug": "crisp-jamaican-chicken-skewers",
+  "title": "Jamaican Chicken Skewers",
+  "description": "A Caribbean-inspired dish featuring marinated chicken and vegetables, grilled to perfection on skewers.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "crisp bacon",
+      "amount": "6 slices",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "zucchini",
+      "amount": "2 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "pineapple rings",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12 wooden skewers"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400°F.",
+    "In a large bowl, mix together jerk seasoning, chicken, bacon, bell pepper, onion, and zucchini.",
+    "Thread chicken and vegetables onto skewers, leaving a small space between each piece.",
+    "Brush skewers with oil and season with salt and pepper.",
+    "Grill skewers for 10-12 minutes, turning occasionally.",
+    "Optional: If using pineapple rings, grill for an additional 2-3 minutes or until lightly charred.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "caribbean",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crisp-jamaican-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T06:24:04.007Z"
+}
