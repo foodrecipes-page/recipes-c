@@ -1,0 +1,86 @@
+{
+  "slug": "crispy-greek-chicken-skewers",
+  "title": "Greek Chicken Skewers",
+  "description": "A flavorful and healthy dish featuring marinated chicken breast, paired with a hint of Greek herbs and a crispy texture.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Crispy pita chips",
+      "amount": "1 cup",
+      "notes": "crumbled"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the grill to medium-high heat (400°F).",
+    "2. In a large bowl, whisk together the yogurt, lemon juice, olive oil, garlic, cumin, paprika, salt, and pepper.",
+    "3. Add the chicken breast to the marinade and mix well. Cover and refrigerate for at least 30 minutes.",
+    "4. Thread the marinated chicken onto the skewers.",
+    "5. Grill the skewers for 8-10 minutes per side, or until the chicken reaches an internal temperature of 165°F.",
+    "6. Let the skewers rest for 5 minutes before serving.",
+    "7. Serve the skewers with a side of crispy pita chips crumbled on top.",
+    "8. Garnish with lemon wedges and fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "chicken",
+    "skewers",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-greek-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T15:37:27.054Z"
+}
