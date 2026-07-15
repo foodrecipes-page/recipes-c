@@ -1,0 +1,80 @@
+{
+  "slug": "charred-rich-polish-rice-stick-noodles-paella",
+  "title": "Charred Polish Paella",
+  "description": "A savory and smoky paella dish made with charred polish sausage, perfect for a hearty dinner.",
+  "cuisine": "Spanish",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Polish Sausage",
+      "amount": "1 pound",
+      "notes": "Char-grilled until slightly charred"
+    },
+    {
+      "name": "Paella Rice",
+      "amount": "1 cup",
+      "notes": "Special Spanish rice used in paella"
+    },
+    {
+      "name": "Charred Bell Peppers",
+      "amount": "2",
+      "notes": "Roasted until slightly charred"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Sautéed until translucent"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "Diced and added to paella"
+    },
+    {
+      "name": "Stick of Butter",
+      "amount": "2 tablespoons",
+      "notes": "Added to enhance flavor"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": "Season to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of butter in a large paella pan over medium-high heat.",
+    "Add the charred polish sausage and cook until browned, about 5 minutes.",
+    "Add the onion and cook until translucent, about 5 minutes.",
+    "Add the charred bell peppers and cook for an additional 2 minutes.",
+    "Add the paella rice, diced tomato, salt, and pepper. Stir to combine.",
+    "Cook for 5 minutes, stirring constantly.",
+    "Add 2 cups of water to the pan and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 20-25 minutes or until the rice is cooked.",
+    "Remove from heat and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "paella",
+    "sausage",
+    "charred"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/charred-rich-polish-rice-stick-noodles-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T04:58:50.294Z"
+}
