@@ -1,0 +1,87 @@
+{
+  "slug": "crispy-roasted-rice-pilaf--mexican",
+  "title": "Mexican Roasted Rice Bowl",
+  "description": "A flavorful Mexican dish made with roasted rice and crispy toppings, perfect for a quick and easy meal.",
+  "cuisine": "mexican",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Roasted Rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Crispy Tortilla Strips",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Diced Tomatoes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Shredded Cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salsa",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Avocado",
+      "amount": "1/2 avocado",
+      "notes": ""
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Cook the roasted rice according to package instructions.",
+    "2. In a separate pan, heat the lime juice and salsa over low heat.",
+    "3. Add the diced tomatoes and cook until softened.",
+    "4. Add the shredded cheese and stir until melted.",
+    "5. To assemble the bowls, place a scoop of roasted rice in the bottom.",
+    "6. Top with the crispy tortilla strips, tomato mixture, and diced avocado.",
+    "7. Dollop with sour cream and sprinkle with cilantro.",
+    "8. Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "quick",
+    "easy",
+    "rice",
+    "bowls"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-roasted-rice-pilaf--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:31:09.764Z"
+}
