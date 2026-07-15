@@ -1,0 +1,88 @@
+{
+  "slug": "crispy-polish-salmon-salad--indian",
+  "title": "Salmon Tikka Masala",
+  "description": "A classic Indian dish featuring salmon cooked in a creamy tomato sauce, served with a side of crispy polish salad.",
+  "cuisine": "indian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillets",
+      "amount": "4",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "polish salad",
+      "amount": "2 cups",
+      "notes": "crispy fried onions, chopped fresh cilantro"
+    },
+    {
+      "name": "crispy onions",
+      "amount": "1 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1 cup",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": "for sauce"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": "ground spice blend"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "for marinade"
+    }
+  ],
+  "instructions": [
+    "Marinate the salmon fillets in a mixture of lemon juice, salt, and garam masala for at least 30 minutes.",
+    "Preheat the oven to 400°F (200°C).",
+    "In a large saucepan, heat 2 tbsp of oil over medium heat. Add the cumin powder and cook for 1 minute.",
+    "Add the tomato puree and cook for 2-3 minutes, stirring constantly.",
+    "Add the heavy cream and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the sauce simmer for 5-7 minutes.",
+    "Remove the salmon from the marinade and place it on a baking sheet lined with parchment paper.",
+    "Bake the salmon in the preheated oven for 12-15 minutes, or until cooked through.",
+    "To serve, place the salmon on a plate and spoon the sauce over the top. Garnish with crispy onions and polish salad.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "seafood",
+    "salmon",
+    "tikka-masala"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-polish-salmon-salad--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:33:00.040Z"
+}
