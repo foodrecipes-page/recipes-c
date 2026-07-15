@@ -1,0 +1,67 @@
+{
+  "slug": "cozy-dutch-potato-dumplings",
+  "title": "Dutch Potato Dumplings",
+  "description": "Hearty Dutch potato dumplings with a crispy exterior and fluffy interior. Often served with a side of vegetables or meat.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cozy milk",
+      "amount": "1/4 cup",
+      "notes": "or other milk"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the grated potatoes and salt. Mix well.",
+    "Gradually add the flour, stirring until the mixture forms a dough.",
+    "Knead the dough for about 5 minutes until smooth.",
+    "Divide the dough into 4 equal pieces.",
+    "Roll each piece into a ball and then flatten slightly into a disk shape.",
+    "Heat a large frying pan with about 1/2 inch of oil over medium heat.",
+    "Carefully place the dumplings in the hot oil and fry until golden brown on both sides.",
+    "Remove the dumplings from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "Serve the dumplings hot with your favorite toppings, such as fried onions or a side of vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "potato",
+    "dutch"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/cozy-dutch-potato-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T11:20:53.796Z"
+}
