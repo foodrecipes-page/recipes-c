@@ -4344,16 +4344,16 @@
   },
   {
     "slug": "chewy-korean-ginger-crumble",
-    "title": "Chewy Korean Ginger Crumble",
+    "title": "Korean Ginger Crumble Bites",
     "tags": [
-      "raw-friendly",
-      "korean-ginger",
-      "meal-prep",
-      "herbal",
-      "chewy"
+      "korean",
+      "ginger",
+      "crumble",
+      "dessert",
+      "bite-sized"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 25,
+    "totalTimeMin": 35,
     "shard": "c"
   },
   {
@@ -8664,15 +8664,15 @@
   },
   {
     "slug": "citrusy-thai-toor-dal-stir-fry",
-    "title": "Citrusy Thai Toor Dal Stir-fry",
+    "title": "Thai Vegetable Stir Fry",
     "tags": [
-      "citrusy",
       "thai",
-      "toor dal",
-      "keto-friendly"
+      "vegetarian",
+      "quick",
+      "easy"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "c"
   },
   {
@@ -22791,16 +22791,16 @@
   },
   {
     "slug": "crispy-spicy-dutch-almonds-hash",
-    "title": "crispy spicy dutch almonds hash",
+    "title": "Spicy Dutch Hash with Crispy Almonds",
     "tags": [
       "breakfast",
-      "high-protein",
-      "one-pan",
-      "snack",
-      "weeknight"
+      "dutch",
+      "hash",
+      "spicy",
+      "almonds"
     ],
-    "cuisine": "dutch",
-    "totalTimeMin": 24,
+    "cuisine": "Dutch",
+    "totalTimeMin": 45,
     "shard": "c"
   },
   {
@@ -23781,13 +23781,14 @@
   },
   {
     "slug": "crispy-ukrainian-potato-dumplings",
-    "title": "Crispy Ukrainian Potato Dumplings",
+    "title": "Ukrainian Potato Dumplings",
     "tags": [
       "ukrainian",
-      "lunch"
+      "dumplings",
+      "potato"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 27,
     "shard": "c"
   },
   {
@@ -31481,6 +31482,20 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 15,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-roasted-rice-pilaf--mexican",
+    "title": "Mexican Roasted Rice Bowl",
+    "tags": [
+      "mexican",
+      "quick",
+      "easy",
+      "rice",
+      "bowls"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
     "shard": "c"
   }
 ]
