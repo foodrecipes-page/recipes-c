@@ -1,0 +1,73 @@
+{
+  "slug": "creamy-midnight-lemon-stir-fry",
+  "title": "Creamy Lemon Stir Fry",
+  "description": "A simple and delicious stir fry made with creamy sauce and a hint of lemon.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lemon",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "Creamy Sauce",
+      "amount": "1/4 cup",
+      "notes": "see notes"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a wok or large skillet over medium-high heat.",
+    "Add the onion and bell pepper and cook for 3-4 minutes, or until tender.",
+    "Add the tofu and cook for an additional 2-3 minutes.",
+    "In a small bowl, whisk together the creamy sauce and lemon juice.",
+    "Pour the sauce over the tofu and vegetables, and stir to combine.",
+    "Cook for an additional 1-2 minutes, or until the sauce has thickened.",
+    "Season with garlic and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "lemon",
+    "creamy-sauce",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-midnight-lemon-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T00:51:25.390Z"
+}
