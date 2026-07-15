@@ -1,0 +1,86 @@
+{
+  "slug": "creamy-kenyan-veal-curry",
+  "title": "Kenyan Curry Veal Stew",
+  "description": "A flavorful and spicy stew originating from Kenya, made with tender veal and a rich curry sauce.",
+  "cuisine": "kenyan",
+  "diet": [
+    "meat",
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Veal shank",
+      "amount": "2 pounds",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Kenyan curry powder",
+      "amount": "2 tablespoons",
+      "notes": "Available at most African or Indian grocery stores"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": "Optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the veal and cook until browned, about 5 minutes.",
+    "Remove the veal from the pot and set aside.",
+    "Add the onion and garlic to the pot and cook until the onion is translucent, about 5 minutes.",
+    "Add the curry powder to the pot and cook for 1 minute.",
+    "Add the coconut milk, honey, salt, and pepper to the pot.",
+    "Return the veal to the pot and bring to a simmer.",
+    "Reduce heat to low and cook, covered, until the veal is tender, about 2 hours.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "curry",
+    "stew",
+    "beef",
+    "lamb"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-kenyan-veal-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T08:49:53.791Z"
+}
