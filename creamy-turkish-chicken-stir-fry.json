@@ -1,0 +1,90 @@
+{
+  "slug": "creamy-turkish-chicken-stir-fry",
+  "title": "Creamy Turkish Chicken Stir Fry",
+  "description": "A delicious and quick meal made with marinated chicken, creamy sauce, and fresh stir-fried vegetables.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": null
+    },
+    {
+      "name": "creamy sauce",
+      "amount": "1/4 cup",
+      "notes": "use store-bought or homemade"
+    },
+    {
+      "name": "turkish seasoning",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Heat the coconut oil in a large skillet over medium-high heat.",
+    "2. Add the chicken breast and cook until browned on both sides and cooked through, about 5-6 minutes.",
+    "3. Remove the chicken from the skillet and set aside.",
+    "4. Add the bell pepper, onion, and garlic to the skillet and cook until the vegetables are tender, about 3-4 minutes.",
+    "5. Add the turkish seasoning, salt, and black pepper to the skillet and stir to combine.",
+    "6. Stir in the creamy sauce and bring to a simmer.",
+    "7. Return the chicken to the skillet and stir to coat with the creamy sauce.",
+    "8. Cook for an additional 1-2 minutes, until the chicken is fully coated.",
+    "9. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "turkish",
+    "stir-fry",
+    "creamy-sauce"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-turkish-chicken-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T16:07:00.263Z"
+}
