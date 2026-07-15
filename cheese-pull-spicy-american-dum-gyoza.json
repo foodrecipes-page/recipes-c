@@ -1,0 +1,59 @@
+{
+  "slug": "cheese-pull-spicy-american-dum-gyoza",
+  "title": "Pan-Fried Gyoza Bites with Cheese",
+  "description": "A crispy and savory snack made by wrapping gyoza with cheese and pan-frying them. This is a delicious and easy-to-make appetizer or snack.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Gyoza",
+      "amount": "1 package (about 20 pieces)",
+      "notes": "Available in most Asian grocery stores"
+    },
+    {
+      "name": "American Cheese",
+      "amount": "1 cup shredded",
+      "notes": "Softened cheese for easier wrapping"
+    },
+    {
+      "name": "Spicy Sauce",
+      "amount": "optional",
+      "notes": "For dipping (not used in recipe)"
+    }
+  ],
+  "instructions": [
+    "1. Remove the gyoza wrappers from the package and set them aside.",
+    "2. In a mixing bowl, combine the shredded cheese.",
+    "3. Place a small spoonful of cheese in the center of each gyoza wrapper.",
+    "4. Dip your finger in a small amount of water and run it along the edges of the wrapper.",
+    "5. Fold the wrapper into a triangle by bringing the two opposite corners together to form a point.",
+    "6. Press the edges together to seal the gyoza.",
+    "7. Heat a large skillet or wok over medium-high heat.",
+    "8. When the skillet is hot, add a small amount of oil to prevent sticking.",
+    "9. Pan-fry the gyoza in batches until golden brown, about 2-3 minutes per side.",
+    "10. Serve the pan-fried gyoza hot with your favorite dipping sauce, such as spicy sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "asian-food",
+    "snack",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/cheese-pull-spicy-american-dum-gyoza",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T14:35:22.723Z"
+}
