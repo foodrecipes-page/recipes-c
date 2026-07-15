@@ -1,0 +1,63 @@
+{
+  "slug": "charred-smoky-norwegian-datterini-tomato-hash",
+  "title": "Smoky Hash and Charred Tomato Bake",
+  "description": "A hearty and flavorful bake combining smoky hash, charred tomatoes, and a hint of norwegian flair.",
+  "cuisine": "norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "hash",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "tomato",
+      "amount": "2 large",
+      "notes": "charred"
+    },
+    {
+      "name": "datterini tomatoes",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Char the tomatoes by placing them directly on the oven rack for 10-12 minutes, or until slightly blackened.",
+    "In a large skillet, heat the olive oil over medium heat. Add the hash and cook until crispy, stirring occasionally.",
+    "In a separate bowl, combine the cooked hash and charred tomatoes.",
+    "Add the datterini tomatoes to the bowl and toss to combine.",
+    "Transfer the mixture to a baking dish and bake for 15-20 minutes, or until the flavors have melded together.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "norwegian",
+    "vegetarian",
+    "hash",
+    "tomato"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/charred-smoky-norwegian-datterini-tomato-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T09:32:31.841Z"
+}
