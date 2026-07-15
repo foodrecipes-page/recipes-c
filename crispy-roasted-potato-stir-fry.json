@@ -1,0 +1,67 @@
+{
+  "slug": "crispy-roasted-potato-stir-fry",
+  "title": "Crispy Roasted Potato Fry",
+  "description": "A delicious and easy-to-make side dish that combines crispy, roasted, and stir-fry cooking techniques with potatoes.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "choose high starch potatoes like Russet"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp",
+      "notes": "for flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Cut potatoes into 1-inch (2.5 cm) cubes.",
+    "Toss potatoes with 2 tbsp vegetable oil, garlic powder, salt, and black pepper on a baking sheet.",
+    "Roast in the oven for 20 minutes.",
+    "Heat 1/2 cup vegetable oil in a large skillet over medium-high heat.",
+    "Add roasted potatoes to the skillet and stir-fry for 5 minutes.",
+    "Increase heat to high and fry until crispy and golden brown, about 5 minutes.",
+    "Drain on paper towels and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "potato",
+    "roasted",
+    "fry"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-roasted-potato-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T15:12:43.462Z"
+}
