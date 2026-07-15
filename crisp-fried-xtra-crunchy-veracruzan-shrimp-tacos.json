@@ -1,0 +1,76 @@
+{
+  "slug": "crisp-fried-xtra-crunchy-veracruzan-shrimp-tacos",
+  "title": "Crisp Shrimp Tacos",
+  "description": "A quick and flavorful Mexican-inspired dish featuring succulent shrimp, crispy tortillas, and crunchy toppings.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "tacos",
+      "amount": "8-10",
+      "notes": "corn tortillas"
+    },
+    {
+      "name": "veracruzan",
+      "amount": "2 tablespoons",
+      "notes": "mild hot sauce"
+    },
+    {
+      "name": "xtra crispy",
+      "amount": "1 cup",
+      "notes": "crushed tortilla chips"
+    },
+    {
+      "name": "crunchy",
+      "amount": "1 cup",
+      "notes": "shredded lettuce"
+    },
+    {
+      "name": "fried",
+      "amount": "2 tablespoons",
+      "notes": "chopped fresh cilantro"
+    },
+    {
+      "name": "crisp",
+      "amount": "1 cup",
+      "notes": "diced tomatoes"
+    }
+  ],
+  "instructions": [
+    "1. Heat 1 tablespoon of oil in a large skillet over medium-high heat.",
+    "2. Add the shrimp and cook until pink and fully cooked, about 2-3 minutes per side.",
+    "3. Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "4. Assemble the tacos by placing a few cooked shrimp onto a tortilla, followed by a spoonful of veracruzan sauce and a sprinkle of xtra crispy tortilla chips.",
+    "5. Top with crunchy lettuce, fried cilantro, and a dollop of crisp diced tomatoes.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "seafood",
+    "tacos",
+    "quick-and-easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crisp-fried-xtra-crunchy-veracruzan-shrimp-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T13:01:02.517Z"
+}
