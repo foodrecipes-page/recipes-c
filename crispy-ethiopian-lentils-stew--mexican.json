@@ -1,0 +1,92 @@
+{
+  "slug": "crispy-ethiopian-lentils-stew--mexican",
+  "title": "Mexican Lentil Stew",
+  "description": "A hearty and flavorful Mexican-inspired stew made with red lentils, onions, and spices. Perfect for a chilly evening.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "sorted and rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "crispy tortilla strips",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "stew seasoning",
+      "amount": "1 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Saute the onion and garlic until softened, about 3-4 minutes.",
+    "Add cumin, paprika, chili powder, and stew seasoning. Cook for 1 minute.",
+    "Add lentils, water, and salt. Bring to a boil, then reduce heat to low and simmer for 20-25 minutes, or until lentils are tender.",
+    "Stir in crispy tortilla strips.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with additional crispy tortilla strips if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "lentil-stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 65,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-ethiopian-lentils-stew--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T05:49:41.072Z"
+}
