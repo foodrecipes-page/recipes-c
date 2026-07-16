@@ -1,0 +1,78 @@
+{
+  "slug": "creamy-canadian-seaweed-chowder--mexican",
+  "title": "Creamy Canadian Seaweed Chowder",
+  "description": "A rich and satisfying Mexican-inspired seafood soup with a creamy twist.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Canola oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced",
+      "notes": "1 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": "1/2 cup"
+    },
+    {
+      "name": "Canadian seaweed",
+      "amount": "8 oz, chopped",
+      "notes": "1/4 cup"
+    },
+    {
+      "name": "Chowder mix",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the canola oil in a large pot over medium heat.",
+    "Add the diced onion and minced garlic. Cook, stirring occasionally, until softened (about 5 minutes).",
+    "Add the chopped seaweed and stir for 1-2 minutes.",
+    "Pour in the chowder mix and chicken broth, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 10-15 minutes.",
+    "Stir in the heavy cream.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped cilantro or scallions, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "seafood",
+    "soup",
+    "creamy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-canadian-seaweed-chowder--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T05:13:49.374Z"
+}
