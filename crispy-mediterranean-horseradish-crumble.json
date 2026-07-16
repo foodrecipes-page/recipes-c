@@ -1,0 +1,72 @@
+{
+  "slug": "crispy-mediterranean-horseradish-crumble",
+  "title": "Crispy Mediterranean Salad",
+  "description": "A refreshing salad with crunchy texture and tangy flavors.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Crispy pita chips",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mixed greens",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Mediterranean olives",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Horseradish sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Toss crispy pita chips with olive oil and season with salt.",
+    "Bake in the oven for 5 minutes.",
+    "In a large bowl, combine mixed greens, olives, cherry tomatoes, and feta cheese.",
+    "Drizzle horseradish sauce over the salad and toss to combine.",
+    "Top with crispy pita chips.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "vegetarian",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-mediterranean-horseradish-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T01:49:26.132Z"
+}
