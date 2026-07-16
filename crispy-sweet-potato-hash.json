@@ -1,0 +1,61 @@
+{
+  "slug": "crispy-sweet-potato-hash",
+  "title": "Hash Brown Hash",
+  "description": "A crispy and sweet twist on traditional hash browns, made with diced potatoes and a crunchy topping.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Large potatoes",
+      "amount": "2",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Crispy",
+      "amount": "1/4 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "Sweet",
+      "amount": "2 tablespoons",
+      "notes": "caramelized"
+    },
+    {
+      "name": "Hash",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, combine the diced potatoes and crushed crispy.",
+    "Mix well to combine.",
+    "Transfer the potato mixture to a baking dish and top with caramelized sweet and shredded hash.",
+    "Bake for 25-30 minutes, or until the potatoes are golden brown and crispy.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "hash-browns",
+    "potatoes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-sweet-potato-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T05:09:33.679Z"
+}
