@@ -1,0 +1,82 @@
+{
+  "slug": "comforting-malty-velvety-argentinian-beef-stew--german",
+  "title": "Argentinian Beef Stew",
+  "description": "A hearty, comforting German-inspired stew made with tender beef and flavorful argentinian spices.",
+  "cuisine": "german",
+  "diet": [
+    "beef",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound (450g)",
+      "notes": ""
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup (250ml)",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp (5g)",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp (5g)",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp (5g)",
+      "notes": "argentinian spice blend"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp (5g)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a large Dutch oven over medium-high heat.",
+    "2. Sear beef until browned, then set aside.",
+    "3. Sauté onion and garlic until softened.",
+    "4. Add stew, cumin, paprika, salt, and pepper.",
+    "5. Stir to combine, then add browned beef and simmer.",
+    "6. Reduce heat to low and cook for 2 hours.",
+    "7. Serve hot, garnished with fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "german",
+    "stew",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/comforting-malty-velvety-argentinian-beef-stew--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T01:23:15.986Z"
+}
