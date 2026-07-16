@@ -23164,15 +23164,14 @@
   },
   {
     "slug": "crispy-sweet-potato-hash",
-    "title": "Crispy Sweet Potato Hash",
+    "title": "Hash Brown Hash",
     "tags": [
-      "sweet-potato-hash",
-      "malaysian-brunch",
-      "air-fried",
-      "vegan-friendly"
+      "breakfast",
+      "hash-browns",
+      "potatoes"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 45,
+    "cuisine": "American",
+    "totalTimeMin": 40,
     "shard": "c"
   },
   {
@@ -31901,6 +31900,31 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 15,
+    "shard": "c"
+  },
+  {
+    "slug": "crunchy-midnight-mediterranean-winey-fondue--chinese",
+    "title": "Pan-Seared Kung Pao Chicken",
+    "tags": [
+      "chinese",
+      "kung-pao-chicken",
+      "spicy"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 30,
+    "shard": "c"
+  },
+  {
+    "slug": "creamy-canadian-seaweed-chowder--mexican",
+    "title": "Creamy Canadian Seaweed Chowder",
+    "tags": [
+      "mexican",
+      "seafood",
+      "soup",
+      "creamy"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 30,
     "shard": "c"
   }
 ]
