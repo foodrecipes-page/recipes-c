@@ -20971,17 +20971,14 @@
   },
   {
     "slug": "crispy-mediterranean-horseradish-crumble",
-    "title": "Crispy Mediterranean Horseradish Crumble",
+    "title": "Crispy Mediterranean Salad",
     "tags": [
-      "lazy-sunday",
-      "fermented",
-      "croatian",
-      "mediterranean-friendly",
-      "horseradish",
-      "crumble"
+      "salad",
+      "vegetarian",
+      "easy"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 40,
+    "totalTimeMin": 15,
     "shard": "c"
   },
   {
@@ -31764,6 +31761,72 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 200,
+    "shard": "c"
+  },
+  {
+    "slug": "crusty-savory-comte-cheese-wraps--indian",
+    "title": "Cheesy Savory Wraps",
+    "tags": [
+      "cheese",
+      "indian",
+      "easy",
+      "snack",
+      "vegetarian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 11,
+    "shard": "c"
+  },
+  {
+    "slug": "crunchy-croatian-herb-bread-flour-crumble--indian",
+    "title": "Croatian Crumble Bread",
+    "tags": [
+      "indian",
+      "bread",
+      "snack",
+      "easy"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 22,
+    "shard": "c"
+  },
+  {
+    "slug": "comforting-malty-velvety-argentinian-beef-stew--german",
+    "title": "Argentinian Beef Stew",
+    "tags": [
+      "german",
+      "stew",
+      "beef"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 135,
+    "shard": "c"
+  },
+  {
+    "slug": "citrusy-velvety-croatian-solo-dinner-skewers--japanese",
+    "title": "Japanese Yuzu-Glazed Chicken Skewers",
+    "tags": [
+      "japanese",
+      "grilled",
+      "chicken",
+      "skewers",
+      "glaze"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "creamy-thai-chicken-skillet--keto",
+    "title": "Thai Chicken Skillet",
+    "tags": [
+      "keto",
+      "thai",
+      "chicken",
+      "skillet"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
     "shard": "c"
   }
 ]
