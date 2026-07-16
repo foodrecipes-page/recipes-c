@@ -1,0 +1,80 @@
+{
+  "slug": "charred-tender-jamaican-lardons-wrap",
+  "title": "Jamaican Wrap",
+  "description": "A flavorful Caribbean-inspired dish wrapped in a tender charred tortilla, filled with spicy jamaican-seasoned lardons and wrapped for a delightful snack.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Charred tortilla",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Lardons",
+      "amount": "250g",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Jamaican seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Shredded cheddar cheese (optional)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Sliced avocado (optional)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Grill the tortilla for 30 seconds per side, until charred and pliable.",
+    "In a pan over medium-high heat, cook the lardons until browned.",
+    "Add the jamaican seasoning and cook for 1 minute.",
+    "Add the chopped onion and cook until softened.",
+    "Add the chopped cilantro and cook for 30 seconds.",
+    "Warm the tortilla on the grill for 10 seconds.",
+    "Assemble the wrap by spooning the lardon mixture onto the tortilla.",
+    "Top with shredded cheese and sliced avocado if desired.",
+    "Fold the bottom of the tortilla up over the filling, then fold in the sides and roll up the wrap."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "caribbean",
+    "wrap",
+    "snack",
+    "lardons"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/charred-tender-jamaican-lardons-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T07:00:24.952Z"
+}
