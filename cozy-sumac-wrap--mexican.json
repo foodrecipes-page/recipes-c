@@ -1,0 +1,99 @@
+{
+  "slug": "cozy-sumac-wrap--mexican",
+  "title": "Spicy Sumac Wrap",
+  "description": "A flavorful and spicy Mexican-inspired wrap filled with tender chicken and crunchy veggies.",
+  "cuisine": "mexican",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "cozy",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "jalepeno",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, mix together sumac, cumin, garlic, salt, and pepper.",
+    "Rub the spice mixture onto both sides of the chicken breast.",
+    "Grill the chicken for 5-7 minutes per side, or until cooked through.",
+    "While the chicken is cooking, mix together cozy, red onion, and jalepeno in a separate bowl.",
+    "Once the chicken is done, let it rest for a few minutes before slicing it thinly.",
+    "Warm the wrap in the microwave for 10-15 seconds.",
+    "Assemble the wrap by placing the sliced chicken on the wrap, followed by the cozy mixture.",
+    "Drizzle lime juice over the top and serve immediately.",
+    "Serve with additional cozy, sumac, and lime juice on the side if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "chicken",
+    "wrap",
+    "spicy",
+    "sumac"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/cozy-sumac-wrap--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T09:50:07.267Z"
+}
