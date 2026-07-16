@@ -17051,16 +17051,15 @@
   },
   {
     "slug": "crisp-tunisian-fish-ceviche",
-    "title": "Crisp Tunisian Fish Ceviche",
+    "title": "Tunisian Crisp Fish",
     "tags": [
-      "ceviche",
-      "lazy-sunday",
-      "matcha",
+      "fish",
       "tunisian",
-      "winey"
+      "crisp",
+      "gluten-free"
     ],
     "cuisine": "Tunisian",
-    "totalTimeMin": 15,
+    "totalTimeMin": 25,
     "shard": "c"
   },
   {
@@ -31685,6 +31684,86 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 27,
+    "shard": "c"
+  },
+  {
+    "slug": "chewy-low-fat-canadian-lime-stir-fry--indian",
+    "title": "Spicy Canadian Stir Fry",
+    "tags": [
+      "canadian",
+      "low-fat",
+      "indian",
+      "stir-fry"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 30,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-peruvian-octopus-stir-fry--german",
+    "title": "Pan-Seared Octopus with German Stir Fry",
+    "tags": [
+      "german",
+      "peruvian",
+      "octopus",
+      "stir-fry"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-peruvian-octopus-stir-fry--french",
+    "title": "Pan-Seared Octopus with Peruvian Crispy Fries",
+    "tags": [
+      "octopus",
+      "french",
+      "peruvian",
+      "crispy-fries",
+      "seafood"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "citrusy-crunchy-algerian-olive-stir-fry--german",
+    "title": "Sauerbraten mit Kartoffeln",
+    "tags": [
+      "german",
+      "beef",
+      "pot roast",
+      "sauerbraten"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 210,
+    "shard": "c"
+  },
+  {
+    "slug": "creamy-thai-chicken-skillet--german",
+    "title": "Skillet Chicken Schnitzel",
+    "tags": [
+      "chicken",
+      "german",
+      "skillet"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 30,
+    "shard": "c"
+  },
+  {
+    "slug": "comforting-charred-italian-beef-braised-osso-buco--chinese",
+    "title": "Chinese-Style Braised Osso Buco",
+    "tags": [
+      "chinese",
+      "comforting",
+      "italian",
+      "beef",
+      "braised",
+      "osso-buco"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 200,
     "shard": "c"
   }
 ]
