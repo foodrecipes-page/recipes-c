@@ -675,15 +675,14 @@
   },
   {
     "slug": "caramelized-melon-stir-fry",
-    "title": "Caramelized Melon Stir-fry",
+    "title": "Caramelized Melon Breakfast Delight",
     "tags": [
-      "caramelized-melon",
-      "date-night-dish",
-      "fresh-creaminess",
-      "vegetarian-friendly"
+      "breakfast",
+      "healthy",
+      "quick"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 18,
+    "cuisine": "American",
+    "totalTimeMin": 10,
     "shard": "c"
   },
   {
@@ -32063,6 +32062,58 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "creamy-smoky-venezuelan-beef-stew--japanese",
+    "title": "Smoky Beef Stew",
+    "tags": [
+      "beef",
+      "stew",
+      "japanese",
+      "venezuelan"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 150,
+    "shard": "c"
+  },
+  {
+    "slug": "clamato-braise--gluten-free",
+    "title": "Gluten-Free Clamato Braised Beef",
+    "tags": [
+      "beef",
+      "stew",
+      "gluten-free",
+      "braised"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 170,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-sour-goose-fat-stir-fry--indian",
+    "title": "Indian Goose Stir-Fry",
+    "tags": [
+      "indian",
+      "stir-fry",
+      "goose"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "cozy-sumac-wrap--mexican",
+    "title": "Spicy Sumac Wrap",
+    "tags": [
+      "mexican",
+      "chicken",
+      "wrap",
+      "spicy",
+      "sumac"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 22,
     "shard": "c"
   }
 ]
