@@ -1,0 +1,53 @@
+{
+  "slug": "caramelized-melon-stir-fry",
+  "title": "Caramelized Melon Breakfast Delight",
+  "description": "A sweet and refreshing breakfast dish featuring caramelized melon, perfect for warm mornings.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "caramelized melon",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Heat a non-stick pan over medium heat.",
+    "2. Add the caramelized melon and cook for 2-3 minutes.",
+    "3. Sprinkle cinnamon to taste.",
+    "4. Serve warm, drizzling with honey if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "healthy",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 0.5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/caramelized-melon-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T09:11:26.539Z"
+}
