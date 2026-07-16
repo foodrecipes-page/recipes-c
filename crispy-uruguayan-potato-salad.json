@@ -1,0 +1,87 @@
+{
+  "slug": "crispy-uruguayan-potato-salad",
+  "title": "Uruguayan Potato Salad",
+  "description": "A simple and flavorful salad originating from Uruguay, made with boiled potatoes, crispy bacon, and a variety of herbs.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "lacto-ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": ""
+    },
+    {
+      "name": "crispy bacon",
+      "amount": "6 slices",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "hard-boiled egg",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Boil the potatoes in a large pot of salted water until tender. Drain and let cool.",
+    "Cook the crispy bacon in a pan over medium heat until crispy. Set aside.",
+    "In a large bowl, combine the chopped onion, diced egg, mayonnaise, Dijon mustard, chopped parsley, and chopped dill.",
+    "Add the cooled potatoes to the bowl and toss gently to combine.",
+    "Crumble the cooked bacon into the bowl and toss again to combine.",
+    "Season with salt and pepper to taste.",
+    "Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve chilled."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "uruguayan",
+    "potato-salad",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-uruguayan-potato-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T19:18:52.726Z"
+}
