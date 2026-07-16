@@ -1,0 +1,79 @@
+{
+  "slug": "crispy-sour-goose-fat-stir-fry--indian",
+  "title": "Indian Goose Stir-Fry",
+  "description": "A flavorful and spicy Indian-inspired stir-fry made with crispy goose, sour ingredients, and a hint of fat.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "goose",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "crispy mustard seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a pan over medium-high heat.",
+    "Add the ginger and cook for 1 minute.",
+    "Add the onion and cook until translucent.",
+    "Add the goose and cook until browned.",
+    "Add the cucumber, tomato, and curry powder.",
+    "Stir-fry for 2-3 minutes.",
+    "Add the crispy mustard seeds and stir-fry for another minute.",
+    "Season with salt and pepper to taste.",
+    "Serve hot garnished with fresh cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "stir-fry",
+    "goose"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-sour-goose-fat-stir-fry--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T09:41:14.670Z"
+}
