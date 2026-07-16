@@ -1,0 +1,73 @@
+{
+  "slug": "crunchy-russian-beef-grill--mexican",
+  "title": "Grilled Beef Fajitas",
+  "description": "A classic Mexican dish featuring sizzling beef and crunchy vegetables. Perfect for a quick and flavorful meal.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "sirloin or flank steak"
+    },
+    {
+      "name": "crunchy",
+      "amount": "1 cup",
+      "notes": "bell pepper strips"
+    },
+    {
+      "name": "Russian",
+      "amount": "2 cup",
+      "notes": "onion rings, separated into individual rings"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fajita seasoning",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "grill",
+      "amount": "as needed",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the beef with salt, black pepper, and fajita seasoning.",
+    "Grill the beef for 5-7 minutes per side, or until it reaches an internal temperature of 160°F.",
+    "Meanwhile, grill the crunchy and Russian ingredients for 3-5 minutes per side, or until they are tender.",
+    "Slice the beef into thin strips and serve with the grilled vegetables and warm flour or corn tortillas.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grill",
+    "mexican",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crunchy-russian-beef-grill--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T08:35:51.607Z"
+}
