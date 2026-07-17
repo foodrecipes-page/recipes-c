@@ -1,0 +1,60 @@
+{
+  "slug": "crispy-spanish-peanuts-fritters--french",
+  "title": "French Fried Fritter Delight",
+  "description": "Indulge in the crispy French delight, combining crunch and flavor in a delightful snack.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Crispy Fritter Mix",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Spanish Peanut Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat peanut oil in a deep frying pan to 350°F (175°C).",
+    "Add 1/4 cup of crispy fritter mix to hot oil. Cook until golden brown.",
+    "Drain fritters on paper towels and sprinkle with salt.",
+    "Serve warm and enjoy with peanuts."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "snack",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 8,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-spanish-peanuts-fritters--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T11:23:12.417Z"
+}
