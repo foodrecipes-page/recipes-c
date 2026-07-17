@@ -1,0 +1,86 @@
+{
+  "slug": "crispy-tangy-algerian-chicken-wrap--mexican",
+  "title": "Crispy Chicken Wrap",
+  "description": "A Mexican-inspired crispy chicken wrap filled with flavor and crunch. Perfect for a quick snack or meal.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "flour tortilla",
+      "amount": "1 large",
+      "notes": "whole wheat"
+    },
+    {
+      "name": "crispy slaw",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "cheddar or Monterey Jack"
+    },
+    {
+      "name": "tangy sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat a large skillet over medium-high heat.",
+    "2. Season the chicken breast with cumin, paprika, salt, and pepper.",
+    "3. Add the chicken to the skillet and cook until browned and cooked through.",
+    "4. Warm the flour tortilla in the microwave for 20-30 seconds.",
+    "5. Assemble the wrap by spreading the tangy sauce on the tortilla, followed by the crispy slaw, shredded cheese, and cooked chicken.",
+    "6. Fold the bottom half of the tortilla up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "chicken",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-tangy-algerian-chicken-wrap--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T19:16:51.774Z"
+}
