@@ -1,0 +1,72 @@
+{
+  "slug": "citrusy-crisp-rice-canadian-pilaf",
+  "title": "Canadian Rice Pilaf",
+  "description": "A simple and flavorful rice dish from Canada, perfect for accompanying your favorite meals.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "white rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "crisp vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "crisp onions",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "crisp celery",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "citrusy chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pilaf seasoning",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add chopped onions and celery and cook until softened, 3-4 minutes.",
+    "Add rice and cook for 1-2 minutes, stirring constantly.",
+    "Add chicken broth, salt, and pilaf seasoning.",
+    "Bring to a boil, then reduce heat to low, cover, and simmer for 18-20 minutes.",
+    "Fluff with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "rice",
+    "pilaf",
+    "side-dish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/citrusy-crisp-rice-canadian-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T12:27:01.082Z"
+}
