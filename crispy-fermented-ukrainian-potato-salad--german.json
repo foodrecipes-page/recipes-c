@@ -1,0 +1,73 @@
+{
+  "slug": "crispy-fermented-ukrainian-potato-salad--german",
+  "title": "German Potato Salad",
+  "description": "A classic German potato salad with crispy bacon, tangy fermented flavor, and a hint of Ukrainian twist.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "crispy bacon",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "fermented pickles",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "ukrainian sausage",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "salad dressing",
+      "amount": "2 tbsp",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Boil the potatoes in salted water for 10-12 minutes or until tender.",
+    "In a pan, cook the crispy bacon over medium heat until crispy.",
+    "Add the chopped onion and cook until softened.",
+    "Add the sliced Ukrainian sausage and cook until browned.",
+    "In a large bowl, combine the cooked potatoes, crispy bacon mixture, chopped fermented pickles, and salad dressing.",
+    "Toss to combine and season with salt and pepper to taste.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "potato-salad",
+    "bacon",
+    "fermented"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 50,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-fermented-ukrainian-potato-salad--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T00:08:51.820Z"
+}
