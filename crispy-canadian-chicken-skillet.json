@@ -1,0 +1,85 @@
+{
+  "slug": "crispy-canadian-chicken-skillet",
+  "title": "Crispy Chicken Skillet",
+  "description": "A simple skillet recipe with crispy chicken and Canadian spices.",
+  "cuisine": "North American",
+  "diet": [
+    "meat",
+    "poultry"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Canadian seasoning",
+      "amount": "1 tsp",
+      "notes": "Available at most supermarkets"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Skillet",
+      "amount": "1",
+      "notes": "Preferably cast-iron"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the chicken breast with Canadian seasoning.",
+    "Heat the olive oil in a skillet over medium-high heat.",
+    "Sear the chicken breast until browned on both sides, about 5 minutes.",
+    "Transfer the skillet to the preheated oven and bake for 15 minutes, or until the chicken is cooked through.",
+    "While the chicken is cooking, chop the onion and bell pepper.",
+    "Once the chicken is done, remove the skillet from the oven and add the chopped onion and bell pepper.",
+    "Cook, stirring occasionally, until the vegetables are tender, about 5 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve the crispy chicken with the sautéed vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "crispy-chicken",
+    "skillet-recipe",
+    "canadian-seasoning"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-canadian-chicken-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T14:17:01.739Z"
+}
