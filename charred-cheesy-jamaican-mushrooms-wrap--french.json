@@ -1,0 +1,79 @@
+{
+  "slug": "charred-cheesy-jamaican-mushrooms-wrap--french",
+  "title": "French Jamaican Mushroom Wrap",
+  "description": "A twist on traditional French cuisine with the flavors of Jamaica. This cheesy wrap is perfect for a quick and easy meal.",
+  "cuisine": "french",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "whole wheat wrap",
+      "amount": "1",
+      "notes": "large"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "charred mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Preheat a pan over medium heat.",
+    "Add the jamaican jerk seasoning and cook for 1 minute.",
+    "Add the charred mushrooms, onion, garlic, and bell pepper. Cook until the vegetables are tender.",
+    "Place the whole wheat wrap in the pan and cook for 1-2 minutes on each side, until it's lightly toasted.",
+    "Sprinkle the cheddar cheese on top of the wrap.",
+    "Add the cooked mushroom mixture on top of the cheese.",
+    "Fold the wrap in half and cook for another minute, until the cheese is melted.",
+    "Cut the wrap in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "jamaican",
+    "wrap",
+    "cheesy",
+    "mushrooms"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/charred-cheesy-jamaican-mushrooms-wrap--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T21:24:42.254Z"
+}
