@@ -8107,18 +8107,15 @@
   },
   {
     "slug": "citrusy-peruvian-date-salad",
-    "title": "Citrusy Peruvian Date Salad",
+    "title": "Crispy Peruvian Chicken Salad",
     "tags": [
-      "jain-friendly",
-      "vegan",
-      "quick",
-      "date",
-      "citrus",
-      "salad",
-      "peruvian"
+      "peruvian-cuisine",
+      "chicken-salad",
+      "citrusy",
+      "salad-dressing"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 15,
+    "totalTimeMin": 25,
     "shard": "c"
   },
   {
@@ -32352,6 +32349,48 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "chewy-umami-british-beef-fillet-bangers-and-mash--japanese",
+    "title": "Japanese-Style Glazed Bangers",
+    "tags": [
+      "breakfast",
+      "lunch",
+      "glaze",
+      "japanese",
+      "bangers",
+      "beef",
+      "fillet",
+      "mash"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 30,
+    "shard": "c"
+  },
+  {
+    "slug": "creamy-smoky-french-chickpeas-tarte-tatin--gluten-free",
+    "title": "Tarte Tatin Chickpea Hash",
+    "tags": [
+      "gluten-free",
+      "dessert",
+      "chickpea",
+      "tarte-tatin"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 55,
+    "shard": "c"
+  },
+  {
+    "slug": "citrusy-velvety-brazilian-apricot-stir-fry--vegan",
+    "title": "Brazilian Apricot Delight",
+    "tags": [
+      "vegan",
+      "dessert",
+      "brazilian"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 50,
     "shard": "c"
   }
 ]
