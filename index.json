@@ -17676,19 +17676,15 @@
   },
   {
     "slug": "crispy-bitter-greek-pork-shoulder-roast",
-    "title": "Crispy Bitter Greek Pork Shoulder Roast",
+    "title": "Greek-Style Crispy Pork Shoulder Roast",
     "tags": [
       "greek",
+      "crispy",
       "pork",
-      "roast",
-      "broil",
-      "lunch",
-      "dinner",
-      "lazy-sunday",
-      "diabetic-friendly"
+      "roast"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 75,
+    "totalTimeMin": 120,
     "shard": "c"
   },
   {
@@ -32457,6 +32453,18 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 135,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-malaysian-brown-lentils-stir-fry--german",
+    "title": "German Lentil Curry",
+    "tags": [
+      "german-curry",
+      "lentil-curry",
+      "veggie-curry"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
     "shard": "c"
   }
 ]
