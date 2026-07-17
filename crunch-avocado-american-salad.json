@@ -1,0 +1,55 @@
+{
+  "slug": "crunch-avocado-american-salad",
+  "title": "Avocado Crunch Salad",
+  "description": "A quick and easy salad recipe combining crunchy ingredients with creamy avocado.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Avocado",
+      "amount": "1 ripe avocado, diced",
+      "notes": ""
+    },
+    {
+      "name": "Crunch",
+      "amount": "1 cup mixed crunch ingredients (peanuts, seeds, etc.)",
+      "notes": ""
+    },
+    {
+      "name": "Salad",
+      "amount": "4 cups mixed greens",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine mixed greens.",
+    "Cut the avocado into a dice and add it to the bowl.",
+    "Sprinkle mixed crunch ingredients on top of the salad.",
+    "Toss gently to combine.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "healthy",
+    "avocado"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crunch-avocado-american-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T15:01:23.032Z"
+}
