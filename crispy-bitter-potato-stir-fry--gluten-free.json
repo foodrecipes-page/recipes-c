@@ -1,0 +1,67 @@
+{
+  "slug": "crispy-bitter-potato-stir-fry--gluten-free",
+  "title": "Crispy Bitter Stir-Fry",
+  "description": "A spicy gluten-free stir-fry made with crispy bitter melon, potato, and a hint of stir-fry sauce.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bitter melon",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "potato",
+      "amount": "1 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "stir-fry sauce (gluten-free)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of coconut oil in a large skillet over medium-high heat.",
+    "Add the diced potato and stir-fry until it starts to brown, about 3-4 minutes.",
+    "Add the minced garlic and stir-fry for another minute.",
+    "Add the sliced bitter melon and stir-fry until it starts to soften, about 4-5 minutes.",
+    "Add the remaining 1 tablespoon of coconut oil, stir-fry sauce, and stir well to combine.",
+    "Cook for another 2-3 minutes, until the bitter melon is tender and the sauce has thickened.",
+    "Season with salt to taste, and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "stir-fry",
+    "bitter-melon",
+    "potato"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-bitter-potato-stir-fry--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T00:18:51.311Z"
+}
