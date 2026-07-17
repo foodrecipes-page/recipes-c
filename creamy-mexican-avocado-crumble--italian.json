@@ -1,0 +1,91 @@
+{
+  "slug": "creamy-mexican-avocado-crumble--italian",
+  "title": "Creamy Mexican Chicken Pasta",
+  "description": "A creamy and flavorful Italian-inspired pasta dish with a Mexican twist. This recipe combines chicken, creamy sauce, and crunchy avocado for a delicious meal.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "avocado",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "crumbly feta cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "creamy salsa",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook pasta according to package instructions.",
+    "In a large skillet, heat the olive oil over medium-high heat. Add the chicken breast and cook until browned and cooked through.",
+    "Add the garlic powder to the skillet and stir to combine.",
+    "Add the creamy salsa to the skillet and stir to combine.",
+    "Add the cooked pasta to the skillet and toss to combine.",
+    "Stir in the crumbly feta cheese until melted and well combined.",
+    "Slice the avocado and serve on top of the pasta.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "mexican",
+    "pasta",
+    "chicken",
+    "avocado"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-mexican-avocado-crumble--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T00:11:39.784Z"
+}
