@@ -1,0 +1,80 @@
+{
+  "slug": "cured-salty-chinese-pork-stir-fry--japanese",
+  "title": "Tonkatsu",
+  "description": "A popular Japanese dish made with a breaded and deep-fried pork cutlet. Served with shredded cabbage and a side of steamed rice. This dish is a staple in Japanese cuisine and is often served in restaurants throughout the country.",
+  "cuisine": "japanese",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork cutlet",
+      "amount": "4",
+      "notes": "1-1.5 pounds"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for dredging"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten for egg wash"
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "1 cup",
+      "notes": "for breading"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "shredded cabbage",
+      "amount": "1 head",
+      "notes": "for serving"
+    },
+    {
+      "name": "steamed rice",
+      "amount": "2 cups",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Prepare the pork cutlet by trimming any excess fat and pounding it thin.",
+    "Season the pork cutlet with salt and pepper.",
+    "Dredge the pork cutlet in flour, shaking off any excess.",
+    "Dip the flour-coated pork cutlet in beaten eggs, making sure it's fully coated.",
+    "Roll the egg-coated pork cutlet in panko breadcrumbs, pressing the crumbs onto the meat to ensure they stick.",
+    "Heat about 1/2-inch of vegetable oil in a large skillet over medium-high heat.",
+    "When the oil is hot, add the breaded pork cutlet and fry for about 3-4 minutes on each side, or until golden brown and cooked through.",
+    "Remove the pork cutlet from the oil and place it on a paper towel-lined plate to drain any excess oil.",
+    "Serve the tonkatsu with shredded cabbage and steamed rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tonkatsu",
+    "japanese",
+    "pork",
+    "breaded",
+    "deep-fried"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/cured-salty-chinese-pork-stir-fry--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T01:34:46.776Z"
+}
