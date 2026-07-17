@@ -1,0 +1,64 @@
+{
+  "slug": "crispy-earthy-tofu-stir-fry",
+  "title": "Crispy Tofu Stir Fry",
+  "description": "A simple and flavorful stir fry made with crispy tofu and a variety of vegetables. Quick, easy, and packed with nutrients.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "200g",
+      "notes": "Crispy firm tofu, drained and cut into small cubes"
+    },
+    {
+      "name": "mixed vegetables",
+      "amount": "1 cup",
+      "notes": "Choose your favorite stir fry vegetables, such as broccoli, carrots, and bell peppers"
+    },
+    {
+      "name": "stir fry sauce",
+      "amount": "2 tbsp",
+      "notes": "Store-bought or homemade stir fry sauce, adjusted to taste"
+    },
+    {
+      "name": "crispy fried onions",
+      "amount": "1/4 cup",
+      "notes": "Optional topping for added crunch"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet or wok over medium-high heat.",
+    "Add the tofu and cook until golden brown and crispy, about 5 minutes.",
+    "Remove the tofu from the skillet and set aside.",
+    "Add the mixed vegetables and cook until they start to soften, about 3-4 minutes.",
+    "Return the tofu to the skillet and pour in the stir fry sauce.",
+    "Stir everything together and cook for an additional 2-3 minutes, until the sauce has thickened and the vegetables are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, topped with crispy fried onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "tofu",
+    "stir-fry",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-earthy-tofu-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T12:19:58.783Z"
+}
