@@ -1,0 +1,80 @@
+{
+  "slug": "caramelized-american-lentil-stew",
+  "title": "Hearty Lentil Stew",
+  "description": "A comforting and nutritious stew made with lentils, stew meat, and a hint of caramelized flavor. Perfect for a chilly evening.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Stew meat",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Caramelized onions",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat. Add the stew meat and cook until browned, about 5 minutes.",
+    "Add the caramelized onions, carrots, and potatoes to the pot. Cook for an additional 5 minutes.",
+    "Add the lentils, tomato paste, vegetable broth, Worcestershire sauce, salt, and pepper to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 30 minutes.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "hearty",
+    "comforting",
+    "lentil-stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/caramelized-american-lentil-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T12:58:27.746Z"
+}
