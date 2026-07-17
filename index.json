@@ -18028,16 +18028,15 @@
   },
   {
     "slug": "crispy-caramelized-american-bean-quesadilla",
-    "title": "Crispy Caramelized American Bean Quesadilla",
+    "title": "Crispy Bean Quesadillas",
     "tags": [
-      "plant-based",
-      "american",
-      "quesadilla",
-      "crispy",
-      "vegan"
+      "mexican",
+      "quesadillas",
+      "snack",
+      "vegetarian"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 25,
+    "cuisine": "Mexican",
+    "totalTimeMin": 22,
     "shard": "c"
   },
   {
@@ -27009,18 +27008,16 @@
   },
   {
     "slug": "crunchy-greek-freekeh-encroute",
-    "title": "Crunchy Greek Freekeh Encroute",
+    "title": "Greek-Style Freekeh Bowl",
     "tags": [
-      "gluten-free",
-      "greek",
-      "meal-prep",
-      "one-pan",
-      "sattvic",
-      "vegan",
-      "weeknight"
+      "freekeh",
+      "greekyogurt",
+      "mediterranean",
+      "lunch",
+      "vegetarian"
     ],
-    "cuisine": "greek",
-    "totalTimeMin": 50,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 30,
     "shard": "c"
   },
   {
@@ -32260,6 +32257,46 @@
     ],
     "cuisine": "Slovak",
     "totalTimeMin": 50,
+    "shard": "c"
+  },
+  {
+    "slug": "citrusy-gooey-fromage-frys-stir-fry--mexican",
+    "title": "Mexican Fromage Fry Quesadilla",
+    "tags": [
+      "mexican",
+      "quesadilla",
+      "cheesy",
+      "crunchy"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-herbal-canadian-stir-fry--thai",
+    "title": "Thai Stir Fry",
+    "tags": [
+      "thai",
+      "stir-fry",
+      "quick",
+      "easy"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "creamy-cold-japanese-sesame-bao--german",
+    "title": "Gyoza-Style German Bao",
+    "tags": [
+      "german",
+      "japanese",
+      "bao",
+      "gyoza",
+      "fusion"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
     "shard": "c"
   }
 ]
