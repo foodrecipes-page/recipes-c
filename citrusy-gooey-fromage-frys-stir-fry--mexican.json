@@ -1,0 +1,83 @@
+{
+  "slug": "citrusy-gooey-fromage-frys-stir-fry--mexican",
+  "title": "Mexican Fromage Fry Quesadilla",
+  "description": "A twist on traditional quesadilla, filled with gooey fromage and crispy frys, wrapped in a delicious tortilla.",
+  "cuisine": "mexican",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gooey Fromage",
+      "amount": "2 cups shredded",
+      "notes": ""
+    },
+    {
+      "name": "Crispy Frys",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Citrusy Salsa",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tortilla",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chili Powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add cumin and chili powder and stir for 1 minute.",
+    "Add crispy frys and cook until golden brown.",
+    "In a separate pan, melt gooey fromage over low heat.",
+    "Place a tortilla in the skillet and sprinkle with melted fromage.",
+    "Add crispy frys on half of the tortilla and fold in half.",
+    "Cook for 2-3 minutes or until the tortilla is crispy and the fromage is melted.",
+    "Flip the quesadilla and cook for an additional 2-3 minutes.",
+    "Repeat with remaining tortillas and filling.",
+    "Serve with citrusy salsa and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "quesadilla",
+    "cheesy",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/citrusy-gooey-fromage-frys-stir-fry--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T17:43:14.223Z"
+}
