@@ -7686,10 +7686,14 @@
   },
   {
     "slug": "citrusy-jamaican-potato-starch-skewers",
-    "title": "Citrusy Jamaican Potato Starch Skewers",
-    "tags": [],
-    "cuisine": "Jamaican",
-    "totalTimeMin": null,
+    "title": "Jamaican Jerk Potato Skewers",
+    "tags": [
+      "vegan",
+      "gluten-free",
+      "grilled"
+    ],
+    "cuisine": "jamaican",
+    "totalTimeMin": 20,
     "shard": "c"
   },
   {
@@ -32154,6 +32158,32 @@
       "vegetarian"
     ],
     "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "crisp-russian-turkey-stir-fry--vegan",
+    "title": "Vegan Russian Stir Fry",
+    "tags": [
+      "vegan",
+      "stir-fry",
+      "russian"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-spanish-baby-squid-croquettes--mexican",
+    "title": "Mexican Squid and Croquette Fritters",
+    "tags": [
+      "mexican",
+      "seafood",
+      "snack",
+      "fritters",
+      "squid"
+    ],
+    "cuisine": "mexican",
     "totalTimeMin": 25,
     "shard": "c"
   }
