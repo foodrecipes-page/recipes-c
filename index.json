@@ -230,18 +230,14 @@
   },
   {
     "slug": "caramelized-american-lentil-stew",
-    "title": "Caramelized American Lentil Stew",
+    "title": "Hearty Lentil Stew",
     "tags": [
-      "american",
-      "lentil",
-      "stew",
-      "caramelized",
-      "low-fat",
-      "fermented",
-      "solo-dinner"
+      "hearty",
+      "comforting",
+      "lentil-stew"
     ],
-    "cuisine": "american",
-    "totalTimeMin": 30,
+    "cuisine": "American",
+    "totalTimeMin": 45,
     "shard": "c"
   },
   {
@@ -1828,16 +1824,15 @@
   },
   {
     "slug": "charred-croatian-cheonggukjang-grill",
-    "title": "Charred Croatian Cheonggukjang Grill",
+    "title": "Grilled Cheonggukjang Crostini",
     "tags": [
-      "crowd-pleaser",
       "grilled",
-      "high-protein",
-      "low-carb-friendly",
-      "one-pan"
+      "cheonggukjang",
+      "croatian",
+      "koreanfusion"
     ],
-    "cuisine": "croatian",
-    "totalTimeMin": 50,
+    "cuisine": "Korean-Croatian fusion",
+    "totalTimeMin": 15,
     "shard": "c"
   },
   {
@@ -5028,15 +5023,14 @@
   },
   {
     "slug": "chewy-vegetarian-friendly-tofu-fajita-wraps",
-    "title": "Chewy Vegetarian-friendly Tofu Fajita Wraps",
+    "title": "Veggie Fajita Wraps",
     "tags": [
-      "vegetarian-friendly",
-      "vienzuelan-dish",
-      "brunch-mood",
-      "authentic-flavor"
+      "veggie",
+      "wrap",
+      "easy"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 40,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "c"
   },
   {
@@ -6292,14 +6286,13 @@
   },
   {
     "slug": "citrusy-crisp-rice-canadian-pilaf",
-    "title": "Citrusy Crisp Rice Canadian Pilaf",
+    "title": "Canadian Rice Pilaf",
     "tags": [
-      "citrusy",
-      "crisp",
-      "meal-prep",
       "canadian",
-      "rice-wine",
-      "wheat-free"
+      "rice",
+      "pilaf",
+      "side-dish",
+      "vegetarian"
     ],
     "cuisine": "Canadian",
     "totalTimeMin": 30,
@@ -7727,16 +7720,14 @@
   },
   {
     "slug": "citrusy-juicy-irish-beef-dumplings",
-    "title": "Citrusy Juicy Irish Beef Dumplings",
+    "title": "Irish Beef and Citrus Dumplings",
     "tags": [
-      "beef",
-      "irish",
-      "citrus",
-      "dumplings",
-      "pink"
+      "irish-beef",
+      "citrus-dumplings",
+      "hearty-stew"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 150,
     "shard": "c"
   },
   {
@@ -18769,15 +18760,15 @@
   },
   {
     "slug": "crispy-earthy-tofu-stir-fry",
-    "title": "Crispy Earthy Tofu Stir-fry",
+    "title": "Crispy Tofu Stir Fry",
     "tags": [
-      "crispy",
-      "cozy",
-      "dash-friendly",
-      "vegan"
+      "tofu",
+      "stir-fry",
+      "vegan",
+      "gluten-free"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 30,
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
     "shard": "c"
   },
   {
@@ -32138,6 +32129,31 @@
       "stir-fry"
     ],
     "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "creamy-yeasty-norwegian-pork-casserole--french",
+    "title": "French Pork Casserole",
+    "tags": [
+      "french",
+      "pork",
+      "casserole",
+      "comfort-food"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 50,
+    "shard": "c"
+  },
+  {
+    "slug": "crunchy-jammy-irish-vialone-nano-bourke-tartine-style-pilaf--thai",
+    "title": "Thai-Style Crunchy Fried Rice",
+    "tags": [
+      "thai",
+      "rice",
+      "vegetarian"
+    ],
+    "cuisine": "thai",
     "totalTimeMin": 25,
     "shard": "c"
   }
