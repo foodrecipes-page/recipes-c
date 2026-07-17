@@ -20790,18 +20790,16 @@
   },
   {
     "slug": "crispy-malaysian-almond-pancakes",
-    "title": "Crispy Malaysian Almond Pancakes",
+    "title": "Malaysian Pancake Delight",
     "tags": [
-      "crispy",
-      "nutty",
-      "kid-friendly",
+      "breakfast",
+      "brunch",
+      "pancake",
       "malaysian",
-      "coconut-milk",
-      "pickle",
-      "paleo"
+      "sweet"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 9,
+    "cuisine": "malaysian",
+    "totalTimeMin": 25,
     "shard": "c"
   },
   {
@@ -32465,6 +32463,46 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 35,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-fermented-ukrainian-potato-salad--german",
+    "title": "German Potato Salad",
+    "tags": [
+      "german",
+      "potato-salad",
+      "bacon",
+      "fermented"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
+    "shard": "c"
+  },
+  {
+    "slug": "creamy-mexican-avocado-crumble--italian",
+    "title": "Creamy Mexican Chicken Pasta",
+    "tags": [
+      "italian",
+      "mexican",
+      "pasta",
+      "chicken",
+      "avocado"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-bitter-potato-stir-fry--gluten-free",
+    "title": "Crispy Bitter Stir-Fry",
+    "tags": [
+      "gluten-free",
+      "stir-fry",
+      "bitter-melon",
+      "potato"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "c"
   }
 ]
