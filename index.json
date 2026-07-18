@@ -4131,17 +4131,14 @@
   },
   {
     "slug": "chewy-fresh-venezuelan-seafood-grill",
-    "title": "Chewy Fresh Venezuelan Seafood Grill",
+    "title": "Grilled Venezuelan Seafood Skewers",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "robata-grill",
       "seafood",
-      "weeknight"
+      "grill",
+      "venezuelan"
     ],
-    "cuisine": "venezuelan",
-    "totalTimeMin": 30,
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 18,
     "shard": "c"
   },
   {
@@ -32932,6 +32929,59 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 10,
+    "shard": "c"
+  },
+  {
+    "slug": "charred-crunchy-ukrainian-barbeque-sauce-braised--mexican",
+    "title": "Charred Mexican BBQ Beef Tacos",
+    "tags": [
+      "mexican",
+      "bbq",
+      "beef",
+      "tacos"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 27,
+    "shard": "c"
+  },
+  {
+    "slug": "cozy-nutty-moroccan-lamb-tagine--chinese",
+    "title": "Lamb Tagine Stir Fry",
+    "tags": [
+      "chinese",
+      "lamb",
+      "moroccan",
+      "tagine"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 27,
+    "shard": "c"
+  },
+  {
+    "slug": "crunchy-uruguayan-lamb-skewers--french",
+    "title": "Uruguayan Lamb Skewers with Crispy Crunchy Crust",
+    "tags": [
+      "uruguayan",
+      "lamb",
+      "skewers",
+      "french",
+      "grilled"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 40,
+    "shard": "c"
+  },
+  {
+    "slug": "crisp-aussie-goats-cheese-pate--french",
+    "title": "French Goat Cheese Tartine",
+    "tags": [
+      "goat cheese",
+      "pate",
+      "french",
+      "appetizer"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 15,
     "shard": "c"
   }
 ]
