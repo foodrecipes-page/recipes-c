@@ -1,0 +1,83 @@
+{
+  "slug": "crispy-italian-rye-pasta--french",
+  "title": "Crispy French Pasta Bake",
+  "description": "A French-inspired pasta bake featuring crispy pasta and a blend of Italian seasonings.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Crispy pasta",
+      "amount": "8 oz",
+      "notes": "preferably French-style"
+    },
+    {
+      "name": "Rye bread",
+      "amount": "1/2 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "2 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "Pasta sauce",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/8 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the crispy pasta according to package instructions.",
+    "In a large bowl, combine cooked pasta, pasta sauce, Italian seasoning, salt, and black pepper.",
+    "Mix well to combine.",
+    "Transfer the pasta mixture to a baking dish.",
+    "Sprinkle mozzarella and Parmesan cheese on top.",
+    "Bake for 20-25 minutes or until the cheese is melted and bubbly.",
+    "Sprinkle crushed rye bread on top.",
+    "Return to the oven and bake for an additional 5 minutes.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "pasta",
+    "bake",
+    "italian-seasoning"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 55,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-italian-rye-pasta--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T12:36:04.452Z"
+}
