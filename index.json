@@ -13092,17 +13092,15 @@
   },
   {
     "slug": "creamy-french-almond-tart",
-    "title": "Creamy French Almond Tart",
+    "title": "French Tart Cream Puffs",
     "tags": [
-      "almond-based",
-      "flambe",
-      "french-pastry",
-      "gluten-free",
-      "tamasic-friendly",
-      "vegetarian-dessert"
+      "french",
+      "dessert",
+      "cream-puffs",
+      "almond-pastry"
     ],
     "cuisine": "French",
-    "totalTimeMin": 65,
+    "totalTimeMin": 55,
     "shard": "c"
   },
   {
@@ -32627,6 +32625,32 @@
     ],
     "cuisine": null,
     "totalTimeMin": 45,
+    "shard": "c"
+  },
+  {
+    "slug": "comforting-canadian-beef-wrap--mexican",
+    "title": "Beef Canadian Wrap",
+    "tags": [
+      "mexican",
+      "beef",
+      "wrap"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 20,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-peruvian-chicken-quesadilla--chinese",
+    "title": "Crispy Chicken Quesadilla with Peruvian Twist",
+    "tags": [
+      "chinese",
+      "peruvian",
+      "chicken",
+      "quesadilla",
+      "crispy"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
     "shard": "c"
   }
 ]
