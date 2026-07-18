@@ -1,0 +1,65 @@
+{
+  "slug": "creamy-aerated-argentinian-mincemeat-empanadas",
+  "title": "Empanada de Mincemeat",
+  "description": "A traditional Argentinean dessert empanada filled with rich mincemeat, perfect for a sweet treat.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "sweet",
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Empanada dough",
+      "amount": "2 sheets"
+    },
+    {
+      "name": "Mincemeat",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Aerated chocolate",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the empanada dough to a thickness of 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a spoonful of mincemeat in the center of each dough circle.",
+    "Top the mincemeat with a spoonful of aerated chocolate.",
+    "Fold the dough in half to form a half-moon shape, pressing the edges to seal.",
+    "Brush the tops of the empanadas with heavy cream and sprinkle with granulated sugar.",
+    "Bake the empanadas for 20-25 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "sweet",
+    "dessert",
+    "argentinian",
+    "empanada"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-aerated-argentinian-mincemeat-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T08:20:01.259Z"
+}
