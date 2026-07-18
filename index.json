@@ -22041,19 +22041,15 @@
   },
   {
     "slug": "crispy-rose-middle-eastern-almond-wrap",
-    "title": "Crispy Rose Middle Eastern Almond Wrap",
+    "title": "Middle Eastern Rose Wrap",
     "tags": [
-      "paleo-friendly",
-      "wrappers",
-      "floral",
-      "crispy",
-      "spicy",
       "middle-eastern",
-      "quick-meal",
-      "energy-boost"
+      "wrap",
+      "vegetarian",
+      "easy"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 25,
+    "totalTimeMin": 15,
     "shard": "c"
   },
   {
@@ -33029,6 +33025,58 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 35,
+    "shard": "c"
+  },
+  {
+    "slug": "charred-german-ground-beef-skillet--japanese",
+    "title": "Japanese-Style Beef Skillet Teriyaki",
+    "tags": [
+      "beef",
+      "japanese",
+      "skillet",
+      "quick-cooking"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "chewytrio-chicken--vegetarian",
+    "title": "Chewy Trio Stir Fry",
+    "tags": [
+      "stir-fry",
+      "vegetarian",
+      "quick"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 20,
+    "shard": "c"
+  },
+  {
+    "slug": "cozy-irish-potato-pie--thai",
+    "title": "Thai Colcannon Potato Pie",
+    "tags": [
+      "thai",
+      "irish",
+      "potato",
+      "cheese"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
+    "shard": "c"
+  },
+  {
+    "slug": "charred-creamy-light-tlayudas-tagliere--japanese",
+    "title": "Charred Tlayudas with Spicy Mayo",
+    "tags": [
+      "japanese",
+      "mexican",
+      "snack",
+      "fusion",
+      "tlayudas"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 15,
     "shard": "c"
   }
 ]
