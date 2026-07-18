@@ -1,0 +1,85 @@
+{
+  "slug": "crispy-sweet-potato-hash--mexican",
+  "title": "Mexican Sweet Potato Hash",
+  "description": "A delicious and crispy Mexican-inspired dish made with sweet potatoes, crispy bacon, and hash browns. Perfect for a quick breakfast or snack.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "hash browns",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "crispy bacon",
+      "amount": "4 slices",
+      "notes": "crumbled"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, toss diced sweet potatoes with cumin, chili powder, salt, and pepper until well coated.",
+    "Spread sweet potatoes on a baking sheet and roast for 20 minutes.",
+    "While sweet potatoes are roasting, cook hash browns in a pan until crispy.",
+    "Crumble crispy bacon and set aside.",
+    "Remove sweet potatoes from oven and toss with cooked hash browns, crumbled bacon, and chopped scallions.",
+    "Return to oven and bake for an additional 5-7 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "breakfast",
+    "hash",
+    "sweet-potatoes",
+    "crispy-bacon"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-sweet-potato-hash--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T19:55:58.551Z"
+}
