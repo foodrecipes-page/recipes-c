@@ -1,0 +1,83 @@
+{
+  "slug": "citrusy-juicy-turkish-lemon-soup",
+  "title": "Turkish Lemon Soup",
+  "description": "A refreshing and comforting Turkish-inspired lemon soup that's perfect for a light meal or as a starter.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lemon juice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the diced potatoes, chicken broth, water, salt, and black pepper.",
+    "Bring to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Use an immersion blender to puree the soup until smooth.",
+    "Stir in the lemon juice and cook for an additional 2-3 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with a sprinkle of lemon juice and a few slices of lemon, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "lemon",
+    "soup",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/citrusy-juicy-turkish-lemon-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T02:02:17.937Z"
+}
