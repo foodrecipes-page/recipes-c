@@ -1,0 +1,70 @@
+{
+  "slug": "chewytrio-chicken--vegetarian",
+  "title": "Chewy Trio Stir Fry",
+  "description": "A quick and flavorful stir fry made with Chewy Trio and vegetables, perfect for a busy day.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chewy Trio",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sliced bell peppers",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of sesame oil in a large skillet over medium-high heat.",
+    "Add the sliced bell peppers and cook for 3-4 minutes, until tender.",
+    "Add the Chewy Trio, soy sauce, and rice vinegar to the skillet. Stir to combine.",
+    "Cook for an additional 2-3 minutes, until the Chewy Trio is heated through.",
+    "Stir in the chicken broth and bring to a simmer.",
+    "Reduce heat to low and cook for 5-7 minutes, until the sauce has thickened.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with green onions."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "vegetarian",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/chewytrio-chicken--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T18:53:52.953Z"
+}
