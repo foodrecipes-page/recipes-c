@@ -18861,17 +18861,15 @@
   },
   {
     "slug": "crispy-egyptian-wheat-flatbread",
-    "title": "Crispy Egyptian Wheat Flatbread",
+    "title": "Egyptian Flatbread",
     "tags": [
-      "crisp",
-      "egyptian",
       "flatbread",
-      "low-glycemic",
-      "snack",
-      "yeasty"
+      "european-style-bread",
+      "middle-eastern-cuisine",
+      "vegan-bread"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 25,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 15,
     "shard": "c"
   },
   {
@@ -32990,6 +32988,47 @@
     ],
     "cuisine": "American",
     "totalTimeMin": 45,
+    "shard": "c"
+  },
+  {
+    "slug": "crisp-syrian-grassy-tagine--french",
+    "title": "Roasted Syrian Olive Tagine",
+    "tags": [
+      "french",
+      "vegetarian",
+      "roasted",
+      "olives",
+      "bread"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "c"
+  },
+  {
+    "slug": "charred-herbal-thai-fish-satay--indian",
+    "title": "Spicy Charred Fish Satay",
+    "tags": [
+      "indian",
+      "fish",
+      "satay",
+      "charred",
+      "herbal"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 18,
+    "shard": "c"
+  },
+  {
+    "slug": "citrus-pickled-venezuelan-chicken-pasta--thai",
+    "title": "Chicken Citrus Pasta",
+    "tags": [
+      "citrus",
+      "thai",
+      "grilled-chicken",
+      "pasta"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
     "shard": "c"
   }
 ]
