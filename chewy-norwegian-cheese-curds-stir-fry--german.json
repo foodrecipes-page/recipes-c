@@ -1,0 +1,72 @@
+{
+  "slug": "chewy-norwegian-cheese-curds-stir-fry--german",
+  "title": "Käsespätzle",
+  "description": "A traditional German comfort food dish made with cheese, onions, and a side of apple sauce. Perfect for a cozy dinner.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian curds",
+      "amount": "250g"
+    },
+    {
+      "name": "Cheese",
+      "amount": "100g",
+      "notes": "shredded"
+    },
+    {
+      "name": "Chewy",
+      "amount": "1 package"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Butter",
+      "amount": "50g"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Sugar",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cook the chewy according to package instructions. Drain and set aside.",
+    "In a large saucepan, melt the butter over medium heat.",
+    "Add the sliced onion and cook until softened, about 5 minutes.",
+    "Add the shredded cheese and stir until melted and well combined.",
+    "Add the cooked chewy to the saucepan and stir to combine.",
+    "Transfer the mixture to a serving dish and top with additional cheese if desired.",
+    "Serve with a side of apple sauce or a green salad.",
+    "Season with salt and sugar to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "comfort-food",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/chewy-norwegian-cheese-curds-stir-fry--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T13:08:43.520Z"
+}
