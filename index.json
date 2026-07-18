@@ -11651,16 +11651,15 @@
   },
   {
     "slug": "creamy-aerated-argentinian-mincemeat-empanadas",
-    "title": "Creamy Aerated Argentinian Mincemeat Empanadas",
+    "title": "Empanada de Mincemeat",
     "tags": [
-      "aerated",
+      "sweet",
+      "dessert",
       "argentinian",
-      "high-protein",
-      "post-workout",
-      "weeknight"
+      "empanada"
     ],
-    "cuisine": "argentinian",
-    "totalTimeMin": 55,
+    "cuisine": "Argentinian",
+    "totalTimeMin": 35,
     "shard": "c"
   },
   {
@@ -32650,6 +32649,45 @@
       "crispy"
     ],
     "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "c"
+  },
+  {
+    "slug": "creamy-spicy-tunisian-lamb-tagine--mexican",
+    "title": "Tunisian Lamb Tagine Tacos",
+    "tags": [
+      "mexican",
+      "lamb",
+      "tunisian",
+      "tagine",
+      "tacos"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 110,
+    "shard": "c"
+  },
+  {
+    "slug": "crunchy-resinous-polish-rigatoni-pasta--french",
+    "title": "Rigatoni with French Mushroom Cream Sauce",
+    "tags": [
+      "french",
+      "pasta",
+      "mushroom",
+      "cream sauce"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "c"
+  },
+  {
+    "slug": "crumble-de-cure--vegan",
+    "title": "Vegan Crumble Bars",
+    "tags": [
+      "vegan",
+      "dessert",
+      "bars"
+    ],
+    "cuisine": null,
     "totalTimeMin": 35,
     "shard": "c"
   }
