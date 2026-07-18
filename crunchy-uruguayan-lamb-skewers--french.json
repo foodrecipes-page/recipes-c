@@ -1,0 +1,83 @@
+{
+  "slug": "crunchy-uruguayan-lamb-skewers--french",
+  "title": "Uruguayan Lamb Skewers with Crispy Crunchy Crust",
+  "description": "A French-inspired twist on traditional Uruguayan lamb skewers, topped with a crunchy crust for added texture.",
+  "cuisine": "french",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "500g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": "soak in water for 30 minutes before use"
+    },
+    {
+      "name": "crunchy",
+      "amount": "100g",
+      "notes": "crushed crackers or breadcrumbs"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (180°C/350°F).",
+    "Thread lamb cubes onto skewers, leaving a small space between each piece.",
+    "Brush skewers with olive oil and sprinkle with minced garlic and dried thyme.",
+    "Season with salt and pepper to taste.",
+    "Roll lamb cubes in crushed crackers or breadcrumbs to create a crunchy crust.",
+    "Place skewers on grill and cook for 8-10 minutes per side, or until lamb reaches an internal temperature of 63°C/145°F.",
+    "Remove from grill and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "lamb",
+    "skewers",
+    "french",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crunchy-uruguayan-lamb-skewers--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T15:43:14.209Z"
+}
