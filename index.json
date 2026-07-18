@@ -28915,15 +28915,15 @@
   },
   {
     "slug": "crunchy-uruguayan-flat-rice-noodles-stir-fry",
-    "title": "Crunchy Uruguayan Flat Rice Noodles Stir-fry",
+    "title": "Uruguayan Stir Fry Noodles",
     "tags": [
-      "crunchy",
-      "earthly",
-      "nut-free",
-      "uruguayan"
+      "uruguayan",
+      "stir-fry",
+      "noodles",
+      "vegetarian"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 20,
     "shard": "c"
   },
   {
@@ -32865,6 +32865,43 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 40,
+    "shard": "c"
+  },
+  {
+    "slug": "chewy-norwegian-cheese-curds-stir-fry--german",
+    "title": "Käsespätzle",
+    "tags": [
+      "german",
+      "comfort-food",
+      "cheese"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "creamy-citrusy-italian-citrus-paccheri-pasta--french",
+    "title": "Citrus Herb Paccheri Pasta",
+    "tags": [
+      "italian",
+      "citrus",
+      "pasta"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "creamy-greek-long-beans-salad--keto",
+    "title": "Greek Keto Bean Salad",
+    "tags": [
+      "keto",
+      "salad",
+      "greek",
+      "beans"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 15,
     "shard": "c"
   }
 ]
