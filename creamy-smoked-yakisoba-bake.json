@@ -1,0 +1,73 @@
+{
+  "slug": "creamy-smoked-yakisoba-bake",
+  "title": "Smoked Yakisoba Bake",
+  "description": "A unique fusion dish blending smoky flavors with Asian-inspired yakisoba noodles.",
+  "cuisine": "Asian",
+  "diet": [
+    "meat-lovers"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yakisoba noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Smoked bacon",
+      "amount": "6 slices",
+      "notes": "Cooked and crumbled"
+    },
+    {
+      "name": "Smoked chicken breast",
+      "amount": "1 lb",
+      "notes": "Cooked and diced"
+    },
+    {
+      "name": "Creamy sauce",
+      "amount": "1 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 bunch",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cook the yakisoba noodles according to package instructions.",
+    "In a large skillet, cook the smoked bacon until crispy.",
+    "Add the diced smoked chicken breast to the skillet and stir to combine.",
+    "In a separate bowl, mix the creamy sauce with cooked noodles.",
+    "Combine the noodle mixture with the bacon and chicken mixture.",
+    "Transfer the mixture to a baking dish and top with grated cheddar cheese.",
+    "Bake in the preheated oven for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Sprinkle chopped green onions on top and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoked",
+    "yakisoba",
+    "bake",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-smoked-yakisoba-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T14:50:37.557Z"
+}
