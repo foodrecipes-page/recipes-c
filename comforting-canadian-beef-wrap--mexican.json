@@ -1,0 +1,79 @@
+{
+  "slug": "comforting-canadian-beef-wrap--mexican",
+  "title": "Beef Canadian Wrap",
+  "description": "A mexican-inspired beef wrap filled with comforting and savory flavors. Served with a side of fresh cilantro.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Tortilla Wrap",
+      "amount": "4-6"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Mexican Cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salsa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Avocado Oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium-high heat.",
+    "Add 2 tablespoons of avocado oil and cook the beef until browned, about 5 minutes.",
+    "Add the onion and bell pepper to the skillet and cook until softened, about 3 minutes.",
+    "Add the salsa to the skillet and stir to combine.",
+    "Warm the tortilla wraps in the microwave or in a dry skillet.",
+    "Assemble the wraps by spooning the beef mixture onto a tortilla and topping with cilantro, cheese, and a sprinkle of salt and pepper.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "beef",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/comforting-canadian-beef-wrap--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T06:40:44.522Z"
+}
