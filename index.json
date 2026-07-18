@@ -4820,10 +4820,14 @@
   },
   {
     "slug": "chewy-sweet-australian-fennel-stew",
-    "title": "Chewy Sweet Australian Fennel Stew",
-    "tags": [],
-    "cuisine": "Australian",
-    "totalTimeMin": null,
+    "title": "Australian Stew with Sweet Fennel",
+    "tags": [
+      "australian",
+      "stew",
+      "comfort-food"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 170,
     "shard": "c"
   },
   {
@@ -14919,15 +14923,15 @@
   },
   {
     "slug": "creamy-smoked-yakisoba-bake",
-    "title": "Creamy Smoked Yakisoba Bake",
+    "title": "Smoked Yakisoba Bake",
     "tags": [
-      "creamy",
-      "smoked_yakisoba",
-      "fermented_tofu",
-      "baked_salmon"
+      "smoked",
+      "yakisoba",
+      "bake",
+      "fusion"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 30,
+    "cuisine": "Asian",
+    "totalTimeMin": 45,
     "shard": "c"
   },
   {
@@ -32902,6 +32906,32 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 15,
+    "shard": "c"
+  },
+  {
+    "slug": "creamy-argentinian-masarepa-pilaf--german",
+    "title": "Argentinian Beef and Pilaf Bowl with Creamy Sauce",
+    "tags": [
+      "german",
+      "beef",
+      "pilaf",
+      "creamy sauce"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-tunisian-peas-salad--indian",
+    "title": "Tunisian-Style Pea and Crispy Salad",
+    "tags": [
+      "indian",
+      "vegetarian",
+      "salad",
+      "snack"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 10,
     "shard": "c"
   }
 ]
