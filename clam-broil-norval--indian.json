@@ -1,0 +1,86 @@
+{
+  "slug": "clam-broil-norval--indian",
+  "title": "Broiled Clam Masala",
+  "description": "A flavorful Indian-inspired dish featuring clams cooked to perfection under the broiler, served with a side of aromatic masala spices.",
+  "cuisine": "indian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "clam",
+      "amount": "12 large clams, scrubbed and rinsed"
+    },
+    {
+      "name": "broil",
+      "amount": "2 tbsp vegetable oil",
+      "notes": "For brushing the clams"
+    },
+    {
+      "name": "norval",
+      "amount": "1 tsp garam masala, 1 tsp ground cumin, 1 tsp smoked paprika"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece, grated"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/4 tsp (optional)"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to high.",
+    "Rinse the clams under cold water and pat them dry with paper towels.",
+    "In a small bowl, mix together the garam masala, cumin, smoked paprika, salt, black pepper, and chili flakes (if using).",
+    "Brush the clams with vegetable oil and sprinkle with the spice mixture.",
+    "Place the clams on a baking sheet lined with aluminum foil and broil for 5-7 minutes, or until they open.",
+    "Meanwhile, heat the ghee or oil in a small saucepan over medium heat.",
+    "Add the grated ginger and minced garlic and sauté for 1-2 minutes, until fragrant.",
+    "Stir in the lemon juice and cook for an additional minute.",
+    "Serve the clams hot, garnished with chopped cilantro and a drizzle of the lemon-ginger sauce.",
+    "Serve with basmati rice or naan bread for a complete meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 7,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "seafood",
+    "lunch",
+    "masala"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/clam-broil-norval--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T09:08:34.125Z"
+}
