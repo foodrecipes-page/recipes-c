@@ -1,0 +1,83 @@
+{
+  "slug": "creamy-aerated-peruvian-rice-paella--chinese",
+  "title": "Spicy Creamy Paella",
+  "description": "A fusion of Chinese and Spanish flavors with the addition of spicy Peruvian peppers, served with a side of aerated rice.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Peruvian pepper",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "Creamy sauce",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Paella rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Aerated rice",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a wok over medium-high heat.",
+    "Add diced Peruvian pepper and cook until fragrant, about 1 minute.",
+    "Add grated ginger and cook for another minute.",
+    "Add minced garlic and cook for 30 seconds.",
+    "Add paella rice and stir-fry for 2-3 minutes.",
+    "Add creamy sauce, soy sauce, and 2 cups of water.",
+    "Bring to a boil, then reduce heat to low and simmer for 10-12 minutes.",
+    "Stir-fry aerated rice and add to the wok.",
+    "Combine paella rice and aerated rice, and stir-fry for another 2-3 minutes.",
+    "Serve hot and garnish with diced Peruvian pepper."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "spanish",
+    "paella",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-aerated-peruvian-rice-paella--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T19:41:06.187Z"
+}
