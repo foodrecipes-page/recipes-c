@@ -1,0 +1,82 @@
+{
+  "slug": "crispy-rose-middle-eastern-almond-wrap",
+  "title": "Middle Eastern Rose Wrap",
+  "description": "A delicious and refreshing Middle Eastern-inspired wrap filled with crispy vegetables, fragrant rose petals, and crunchy almonds.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Whole wheat wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Almonds",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Rose petals",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1/2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/4",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Tzatziki sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a pan over medium heat.",
+    "Place the sliced cucumber, tomato, and red onion in the pan.",
+    "Cook for 3-4 minutes or until the vegetables are slightly tender.",
+    "Add the sliced almonds and cook for an additional minute.",
+    "In a separate bowl, mix together the chopped parsley, rose petals, and tzatziki sauce.",
+    "Assemble the wrap by spreading the parsley-rose mixture on the wrap, followed by the cooked vegetables and almonds.",
+    "Fold the wrap in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "middle-eastern",
+    "wrap",
+    "vegetarian",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-rose-middle-eastern-almond-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T18:24:48.458Z"
+}
