@@ -1,0 +1,84 @@
+{
+  "slug": "cider-crunchy-slaw--thai",
+  "title": "Crispy Thai Slaw Wings",
+  "description": "Crispy fried chicken wings tossed in a sweet and spicy Thai-inspired slaw made with crunchy slaw and fresh cider.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free",
+    "vegetarian",
+    "vegan-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken wings",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "cider vinegar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "crunchy slaw",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350°F (180°C).",
+    "In a blender or food processor, combine cider vinegar, fish sauce, honey, garlic, salt, and black pepper. Blend until smooth.",
+    "Add the crunchy slaw to the blender and blend until well combined.",
+    "Dredge the chicken wings in flour, shaking off excess.",
+    "Fry the chicken wings in batches until golden brown and cooked through.",
+    "Toss the fried chicken wings in the slaw mixture until well coated.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fried",
+    "chicken",
+    "thaifood",
+    "wing"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/cider-crunchy-slaw--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T20:56:58.895Z"
+}
