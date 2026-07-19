@@ -1,0 +1,77 @@
+{
+  "slug": "creamy-thai-noodle-khao-soi",
+  "title": "Thai Creamy Noodle Soup",
+  "description": "A spicy and creamy Thai-inspired noodle soup with your choice of protein. Easy to make and perfect for a quick weeknight dinner.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "khao soi noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "or substitute with tofu for a vegetarian option"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Bring the vegetable broth to a boil in a large pot.",
+    "Add the noodles and cook according to package instructions.",
+    "In a separate pan, heat the coconut milk over medium heat.",
+    "Add the curry paste and stir until fragrant.",
+    "Add the chicken breast and cook until cooked through.",
+    "Combine the cooked noodles and chicken in the pot with the vegetable broth.",
+    "Add the coconut milk mixture and stir to combine.",
+    "Add the green onions and bean sprouts, if using.",
+    "Simmer the soup for 5-10 minutes to allow the flavors to meld.",
+    "Serve hot, garnished with additional green onions and bean sprouts, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "noodle",
+    "soup",
+    "creamy",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-thai-noodle-khao-soi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T04:06:54.080Z"
+}
