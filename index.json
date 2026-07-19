@@ -11948,15 +11948,15 @@
   },
   {
     "slug": "creamy-briny-russian-peas-borscht",
-    "title": "Creamy Briny Russian Peas Borscht",
+    "title": "Russian Pea Soup",
     "tags": [
-      "comforting",
-      "one-pan",
+      "soup",
+      "peas",
       "russian",
-      "weeknight"
+      "comfort-food"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 30,
     "shard": "c"
   },
   {
@@ -19794,14 +19794,15 @@
   },
   {
     "slug": "crispy-greek-squash-stir-fry",
-    "title": "Crispy Greek Squash Stir-fry",
+    "title": "Stir Fry Squash Delight",
     "tags": [
-      "crispy-greek",
-      "hangover-cure",
-      "vegetarian-dish"
+      "squash",
+      "stir-fry",
+      "easy",
+      "dinner"
     ],
-    "cuisine": "Greek",
-    "totalTimeMin": 50,
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
     "shard": "c"
   },
   {
@@ -33164,6 +33165,18 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 20,
+    "shard": "c"
+  },
+  {
+    "slug": "cheese-kimchi-crunchie--keto",
+    "title": "Kimchi Crunchie Fritters",
+    "tags": [
+      "keto-snack",
+      "cheese-fritters",
+      "korean-inspired"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 30,
     "shard": "c"
   }
 ]
