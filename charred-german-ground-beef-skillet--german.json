@@ -1,0 +1,74 @@
+{
+  "slug": "charred-german-ground-beef-skillet--german",
+  "title": "German Beef Skillet",
+  "description": "A hearty German-inspired dish made with ground beef, charred onions, and a blend of spices. Serve with a side of bread or potatoes for a satisfying meal.",
+  "cuisine": "german",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Charred onions",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Skillet",
+      "amount": "",
+      "notes": "large, oven-safe"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Heat a large skillet over medium-high heat. Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the charred onions, salt, black pepper, paprika, and garlic powder to the skillet. Stir to combine.",
+    "Transfer the skillet to the preheated oven and cook for 15-20 minutes, or until the onions are caramelized and the beef is cooked through.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "beef",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/charred-german-ground-beef-skillet--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T00:05:16.710Z"
+}
