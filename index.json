@@ -10524,16 +10524,14 @@
   },
   {
     "slug": "coriander-citrus-bliss",
-    "title": "Coriander Citrus Bliss",
+    "title": "Citrus Bliss Salad",
     "tags": [
-      "sous-vide",
-      "paleo-friendly",
-      "monsoon",
-      "citrusy",
-      "velvety"
+      "salad",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Moroccan",
-    "totalTimeMin": 45,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 15,
     "shard": "c"
   },
   {
@@ -12756,17 +12754,14 @@
   },
   {
     "slug": "creamy-dense-norwegian-lamb-stew",
-    "title": "Creamy Dense Norwegian Lamb Stew",
+    "title": "Norwegian Lamb Stew",
     "tags": [
-      "clay-pot-cooking",
-      "date-night",
-      "fermented-foods",
-      "lamb-recipes",
-      "norwegian-cuisine",
-      "special-occasion"
+      "norwegian",
+      "lamb",
+      "stew"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 210,
+    "totalTimeMin": 120,
     "shard": "c"
   },
   {
@@ -14079,16 +14074,14 @@
   },
   {
     "slug": "creamy-mexican-beef-burrito",
-    "title": "Creamy Mexican Beef Burrito",
+    "title": "Creamy Beef Burrito",
     "tags": [
-      "meal-prep",
-      "halal",
-      "mexican",
-      "creamy",
       "beef",
-      "burrito"
+      "mexican",
+      "burrito",
+      "cream"
     ],
-    "cuisine": "Mexican",
+    "cuisine": "mexican",
     "totalTimeMin": 30,
     "shard": "c"
   },
@@ -33145,6 +33138,32 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 23,
+    "shard": "c"
+  },
+  {
+    "slug": "cider-crunchy-slaw--thai",
+    "title": "Crispy Thai Slaw Wings",
+    "tags": [
+      "fried",
+      "chicken",
+      "thaifood",
+      "wing"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "c"
+  },
+  {
+    "slug": "crunchy-italian-rice-lasagna--thai",
+    "title": "Thai Crunchy Rice Bowl",
+    "tags": [
+      "thai",
+      "vegetarian",
+      "lunch",
+      "rice"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 20,
     "shard": "c"
   }
 ]
