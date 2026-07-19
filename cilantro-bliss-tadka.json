@@ -1,0 +1,72 @@
+{
+  "slug": "cilantro-bliss-tadka",
+  "title": "Cilantro Tadka Delight",
+  "description": "A flavorful Indian-inspired dish made with cilantro, tadka, and a few other ingredients. This recipe is quick and easy to make, perfect for a weeknight dinner.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cilantro",
+      "amount": "1 bunch",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Tadka",
+      "amount": "2 tablespoons",
+      "notes": "Pre-made tadka spice mix"
+    },
+    {
+      "name": "Ghee or Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Naan or Basmati Rice",
+      "amount": "1 serving",
+      "notes": "Serves as a side"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of ghee or oil in a pan over medium heat.",
+    "Add the chopped onion and sauté until translucent.",
+    "Add the minced garlic and sauté for 1 minute.",
+    "Add the tadka spice mix and sauté for 1 minute.",
+    "Add the chopped cilantro and sauté for 1 minute.",
+    "Serve with naan or basmati rice.",
+    "Optional: Add a sprinkle of bliss for extra flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "cilantro",
+    "tadka",
+    "indian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/cilantro-bliss-tadka",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T10:19:32.342Z"
+}
