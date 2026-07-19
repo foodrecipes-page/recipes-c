@@ -1,0 +1,53 @@
+{
+  "slug": "cheese-kimchi-crunchie--keto",
+  "title": "Kimchi Crunchie Fritters",
+  "description": "A crispy keto fritter filled with spicy kimchi and crunchy bits",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Crunchie",
+      "amount": "1 cup, crushed"
+    },
+    {
+      "name": "Kimchi",
+      "amount": "1/2 cup, chopped"
+    },
+    {
+      "name": "Cheese",
+      "amount": "1/2 cup, shredded"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. In a bowl, mix together the crushed Crunchie and chopped kimchi.",
+    "3. Add the shredded cheese to the bowl and mix until well combined.",
+    "4. Use a spoon to drop small balls of the mixture onto a baking sheet lined with parchment paper.",
+    "5. Flatten each ball into a disk shape.",
+    "6. Bake for 15-20 minutes, or until the fritters are golden brown.",
+    "7. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto-snack",
+    "cheese-fritters",
+    "korean-inspired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 5,
+    "fat": 38
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/cheese-kimchi-crunchie--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T21:47:35.449Z"
+}
