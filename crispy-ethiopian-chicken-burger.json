@@ -1,0 +1,82 @@
+{
+  "slug": "crispy-ethiopian-chicken-burger",
+  "title": "Crispy Ethiopian-Style Chicken Burger",
+  "description": "A fusion twist on the classic burger, featuring crispy Ethiopian spices and chicken patty.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "4 oz",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Burger bun",
+      "amount": "1",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Crispy Ethiopian spice mix",
+      "amount": "1 tsp",
+      "notes": "custom blend of spices"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 cup",
+      "notes": "fresh leaves"
+    },
+    {
+      "name": "Cheese (optional)",
+      "amount": "1 slice",
+      "notes": "for topping"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a non-stick skillet or griddle over medium-high heat.",
+    "2. In a small bowl, mix together the crispy Ethiopian spice mix and a pinch of salt.",
+    "3. Add the chicken breast to the skillet and cook for 5-6 minutes per side, or until cooked through.",
+    "4. Meanwhile, toast the burger bun on the skillet or in the oven.",
+    "5. Brush the bun with olive oil and top with the cooked chicken, onion, tomato, lettuce, and cheese (if using).",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "burger",
+    "chicken",
+    "ethiopian",
+    "crispy",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-ethiopian-chicken-burger",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T03:53:46.889Z"
+}
