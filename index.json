@@ -9896,15 +9896,15 @@
   },
   {
     "slug": "comforting-dutch-corn-bake",
-    "title": "Comforting Dutch Corn Bake",
+    "title": "Hearty Dutch Cornbread Bake",
     "tags": [
-      "comfort-food",
-      "dutch-cuisine",
-      "one-pan",
-      "weeknight-dinner"
+      "comforting",
+      "dutch",
+      "cornbread",
+      "bake"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 65,
+    "totalTimeMin": 45,
     "shard": "c"
   },
   {
@@ -16515,17 +16515,14 @@
   },
   {
     "slug": "crisp-indian-sultana-stir-fry",
-    "title": "Crisp Indian Sultana Stir-fry",
+    "title": "Sultana Crisp",
     "tags": [
-      "indian",
-      "rajasthani",
-      "stir-fry",
-      "gluten-free",
-      "earthly",
-      "crisp"
+      "sweet",
+      "dessert",
+      "indian-cuisine"
     ],
-    "cuisine": "Indian (Rajasthani)",
-    "totalTimeMin": 18,
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
     "shard": "c"
   },
   {
@@ -33385,6 +33382,29 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "citrusy-and-snappy-argentinian-empanada-patties--japanese",
+    "title": "Japanese Citrusy Empanada Patties",
+    "tags": [
+      "japanese-fusion",
+      "empanada-patties",
+      "citrusy"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 18,
+    "shard": "c"
+  },
+  {
+    "slug": "creamy-argentinian-potatoes-hash--gluten-free",
+    "title": "Argentinian Hash Browns",
+    "tags": [
+      "argentinian-hash-browns",
+      "gluten-free-hash-browns"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 55,
     "shard": "c"
   }
 ]
