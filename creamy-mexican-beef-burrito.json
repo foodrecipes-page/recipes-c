@@ -1,0 +1,79 @@
+{
+  "slug": "creamy-mexican-beef-burrito",
+  "title": "Creamy Beef Burrito",
+  "description": "A delicious and filling burrito filled with seasoned beef, creamy sauce, and melted cheese.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef (ground)",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Tortillas",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Brown the beef in a large skillet over medium-high heat.",
+    "Add the onion and garlic to the skillet and cook until the onion is translucent.",
+    "Stir in the cumin and cook for 1 minute.",
+    "Add the cream to the skillet and stir to combine.",
+    "Reduce heat to low and simmer for 5 minutes.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Spoon the beef mixture onto a tortilla and top with shredded cheese.",
+    "Fold the bottom edge of the tortilla up over the filling, then fold in the sides and roll the burrito up tightly.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef",
+    "mexican",
+    "burrito",
+    "cream"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-mexican-beef-burrito",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T21:18:02.431Z"
+}
