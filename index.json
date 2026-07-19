@@ -4091,17 +4091,15 @@
   },
   {
     "slug": "chewy-french-bread-toast",
-    "title": "Chewy French Bread Toast",
+    "title": "French Toast",
     "tags": [
-      "chewy",
-      "umami",
-      "low-carb",
-      "sick-day",
-      "french-bread",
-      "snack"
+      "breakfast",
+      "brunch",
+      "french",
+      "bread"
     ],
-    "cuisine": "francophone",
-    "totalTimeMin": 11,
+    "cuisine": "American",
+    "totalTimeMin": 17,
     "shard": "c"
   },
   {
@@ -33280,6 +33278,18 @@
     ],
     "cuisine": null,
     "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "chewy-low-fat-canadian-lime-stir-fry--japanese",
+    "title": "Japanese Stir Fry",
+    "tags": [
+      "japanese",
+      "stir-fry",
+      "vegetarian"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 13,
     "shard": "c"
   }
 ]
