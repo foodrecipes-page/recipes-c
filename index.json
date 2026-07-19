@@ -5320,15 +5320,15 @@
   },
   {
     "slug": "cilantro-bliss-tadka",
-    "title": "Cilantro Bliss Tadka",
+    "title": "Cilantro Tadka Delight",
     "tags": [
-      "mediterranean",
-      "quinoa",
-      "tomato",
-      "tadka"
+      "cilantro",
+      "tadka",
+      "indian",
+      "vegetarian"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 35,
+    "cuisine": "Indian",
+    "totalTimeMin": 20,
     "shard": "c"
   },
   {
@@ -9219,17 +9219,16 @@
   },
   {
     "slug": "coconut-lime-velvety-bliss",
-    "title": "Coconut Lime Velvety Bliss",
+    "title": "Velvety Coconut Bliss Cake",
     "tags": [
+      "cake",
+      "chocolate",
       "coconut",
       "lime",
-      "velvety",
-      "norwegian",
-      "quick-fix",
-      "low-fat"
+      "dessert"
     ],
-    "cuisine": "Nordic",
-    "totalTimeMin": 15,
+    "cuisine": "dessert",
+    "totalTimeMin": 55,
     "shard": "c"
   },
   {
@@ -22243,15 +22242,15 @@
   },
   {
     "slug": "crispy-savory-soy-milk-stir-fry",
-    "title": "Crispy Savory Soy Milk Stir-fry",
+    "title": "Savory Soy Stir Fry",
     "tags": [
-      "crispy",
-      "savory",
       "stir-fry",
-      "soy-milk"
+      "savory",
+      "soy",
+      "easy-dinner"
     ],
-    "cuisine": "norwegian",
-    "totalTimeMin": 15,
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
     "shard": "c"
   },
   {
@@ -33405,6 +33404,18 @@
     ],
     "cuisine": "Argentinian",
     "totalTimeMin": 55,
+    "shard": "c"
+  },
+  {
+    "slug": "crisp-jamaican-chicken-skewers--german",
+    "title": "German-Style Chicken Skewers",
+    "tags": [
+      "german",
+      "grilled",
+      "chicken"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 36,
     "shard": "c"
   }
 ]
