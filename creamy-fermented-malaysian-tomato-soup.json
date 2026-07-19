@@ -1,0 +1,69 @@
+{
+  "slug": "creamy-fermented-malaysian-tomato-soup",
+  "title": "Spicy Malaysian Tomato Soup",
+  "description": "A creamy and flavorful soup inspired by Malaysian cuisine with a kick of heat.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tomato",
+      "amount": "2 cups",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Fermented",
+      "amount": "2 tbsp",
+      "notes": "Fermented soybean paste"
+    },
+    {
+      "name": "Malaysian",
+      "amount": "",
+      "notes": "Curry powder"
+    },
+    {
+      "name": "Creamy",
+      "amount": "1 cup",
+      "notes": "Coconut milk"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Saute the onion until softened.",
+    "Add the curry powder and cook for 1 minute.",
+    "Add the chopped tomatoes and fermented soybean paste.",
+    "Stir well and cook for 10 minutes.",
+    "Add coconut milk and stir well.",
+    "Simmer for 10 minutes or until heated through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot with a sprinkle of chopped cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "comfort-food",
+    "soup",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-fermented-malaysian-tomato-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T04:17:30.030Z"
+}
