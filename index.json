@@ -22650,16 +22650,14 @@
   },
   {
     "slug": "crispy-spanish-prawns-stir-fry",
-    "title": "Crispy Spanish Prawns Stir-fry",
+    "title": "Spanish Prawns Stir Fry",
     "tags": [
-      "crispy",
       "spanish",
-      "stir-fry",
-      "sweet",
-      "keto-friendly"
+      "prawns",
+      "stir-fry"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 15,
     "shard": "c"
   },
   {
@@ -33416,6 +33414,33 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 36,
+    "shard": "c"
+  },
+  {
+    "slug": "classic-smoky-egyptian-pilchards-tagine--french",
+    "title": "Smoked Pilchard Tagine",
+    "tags": [
+      "french",
+      "tagine",
+      "pilchard",
+      "smoked",
+      "fish"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-peppy-ethiopian-whole-wheat-stir-fry--japanese",
+    "title": "Japanese Crispy Stir Fry",
+    "tags": [
+      "japanese",
+      "stir-fry",
+      "crispy",
+      "vegetarian"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 30,
     "shard": "c"
   }
 ]
