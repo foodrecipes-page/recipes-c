@@ -1,0 +1,66 @@
+{
+  "slug": "crispy-savory-soy-milk-stir-fry",
+  "title": "Savory Soy Stir Fry",
+  "description": "A quick and delicious stir fry made with savory flavors, perfect for a weeknight dinner. This dish is a great way to use up any leftover vegetables you have in the fridge.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vegetables (bell pepper, carrots, broccoli)",
+      "amount": "2 cups",
+      "notes": "Any combination of your favorite vegetables works well"
+    },
+    {
+      "name": "Savory sauce",
+      "amount": "2 tbsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": "Used to make sauce creamy"
+    },
+    {
+      "name": "Crispy fried shallots",
+      "amount": "1/4 cup",
+      "notes": "Optional, but adds crunch"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet or wok over medium-high heat.",
+    "Add the vegetables and cook for 3-4 minutes, or until they start to soften.",
+    "In a small bowl, whisk together the savory sauce, soy sauce, and milk.",
+    "Pour the sauce into the skillet and stir to coat the vegetables.",
+    "Cook for an additional 2-3 minutes, or until the sauce has thickened and the vegetables are tender.",
+    "Serve hot, garnished with crispy fried shallots if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "savory",
+    "soy",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-savory-soy-milk-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T09:52:22.937Z"
+}
