@@ -1780,17 +1780,13 @@
   },
   {
     "slug": "charred-crispy-slovakian-potatoes-stone-bowl-dolsot",
-    "title": "Charred Crispy Slovakian Potatoes Stone-Bowl-Dolsot",
+    "title": "Slovakian Dolsot Potatoes",
     "tags": [
-      "breakfast",
-      "comfort-food",
-      "high-protein",
-      "lunch",
-      "one-pan",
-      "slovakian",
-      "vegetarian"
+      "low-carb",
+      "slovakian-cuisine",
+      "korean-inspired"
     ],
-    "cuisine": "Slovakian",
+    "cuisine": "slovakian",
     "totalTimeMin": 45,
     "shard": "c"
   },
@@ -3856,16 +3852,14 @@
   },
   {
     "slug": "chewy-caramelized-filipino-chicken-breasts-halo-halo",
-    "title": "Chewy Caramelized Filipino Chicken Breasts Halo Halo",
+    "title": "Caramelized Chicken Halo-Halo",
     "tags": [
-      "chicken-recipes",
-      "festive-dishes",
-      "filipino-food",
-      "gluten-free",
-      "low-glycemic"
+      "filipino",
+      "dessert",
+      "unique"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 55,
+    "totalTimeMin": 50,
     "shard": "c"
   },
   {
@@ -33571,6 +33565,57 @@
     ],
     "cuisine": null,
     "totalTimeMin": 30,
+    "shard": "c"
+  },
+  {
+    "slug": "crunchy-argentinian-beef-empanadas--chinese",
+    "title": "Crunchy Beef Empanadas with Chinese Twist",
+    "tags": [
+      "chinese",
+      "empanadas",
+      "beef",
+      "snack"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-venezuelan-vanilla-crumble--french",
+    "title": "Crispy French Tarte",
+    "tags": [
+      "french",
+      "dessert",
+      "tarte"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 65,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-greek-squash-stir-fry--german",
+    "title": "German Squash Fritters",
+    "tags": [
+      "german",
+      "vegetarian",
+      "fritters",
+      "squash"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "charred-aerated-norwegian-haricot-beans-bowl--german",
+    "title": "Sauerbraten mit Haricot Beans",
+    "tags": [
+      "german",
+      "beef",
+      "pot-roast",
+      "haricot-beans"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 210,
     "shard": "c"
   }
 ]
