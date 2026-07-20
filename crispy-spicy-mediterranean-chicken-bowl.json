@@ -1,0 +1,83 @@
+{
+  "slug": "crispy-spicy-mediterranean-chicken-bowl",
+  "title": "Spicy Chicken Bowl",
+  "description": "A flavorful and spicy bowl filled with chicken, crunchy vegetables, and a tangy sauce. Perfect for a quick meal.",
+  "cuisine": null,
+  "diet": [
+    "pork-free",
+    "shellfish-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "crispy fried onions",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1/4 cup",
+      "notes": "spicy or regular"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "for balancing flavors"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken with salt and pepper. Bake in the oven for 20 minutes or until cooked through.",
+    "In a large pan, heat 1 tablespoon of oil over medium heat. Add the sliced onions and cook until crispy.",
+    "Add the sliced red onion and cucumber to the pan and cook for 5 minutes.",
+    "In a small bowl, whisk together the tomato sauce and soy sauce. Pour the sauce over the vegetables and stir to combine.",
+    "Slice the cooked chicken and add it to the pan. Cook for 5 minutes or until the chicken is well coated with the sauce.",
+    "Sprinkle the crispy fried onions and chopped cilantro over the top of the bowl.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "spicy",
+    "bowl"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-spicy-mediterranean-chicken-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T20:49:50.188Z"
+}
