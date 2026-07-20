@@ -1,0 +1,87 @@
+{
+  "slug": "custard-crisp-crunch--german",
+  "title": "German Custard Apple Crisp",
+  "description": "A classic German dessert made with a crunchy oat topping and a creamy custard filling, perfect for a cold winter evening.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "apples",
+      "amount": "4-6",
+      "notes": "any variety"
+    },
+    {
+      "name": "custard",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "rolled oats",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "crisp",
+      "amount": "1/4 cup",
+      "notes": "for topping"
+    },
+    {
+      "name": "confectioners' sugar",
+      "amount": "1/4 cup",
+      "notes": "for dusting"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel and slice the apples, and place them in a baking dish.",
+    "In a separate bowl, mix the custard, flour, and vanilla extract.",
+    "Pour the custard mixture over the apples, and sprinkle with brown sugar.",
+    "Mix the oats, melted butter, and crisp in a bowl to create the topping.",
+    "Spread the topping evenly over the apples and custard.",
+    "Bake for 35-40 minutes, or until the topping is golden brown and the apples are tender.",
+    "Dust with confectioners' sugar before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "dessert",
+    "crisp"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/custard-crisp-crunch--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T23:38:35.791Z"
+}
