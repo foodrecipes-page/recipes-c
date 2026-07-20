@@ -1,0 +1,95 @@
+{
+  "slug": "crispy-kenyan-pork-stew",
+  "title": "Kenyan-Style Pork Stew",
+  "description": "A hearty and flavorful stew inspired by Kenyan cuisine, made with tender pork and crispy spices.",
+  "cuisine": "kenyan",
+  "diet": [
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "crispy onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "stew spice blend",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the pork cubes until browned on all sides, about 5 minutes.",
+    "Remove the pork from the pot and set aside.",
+    "Add the chopped onion and minced garlic to the pot and cook until the onion is translucent, about 5 minutes.",
+    "Add the chopped crispy onions, stew spice blend, and tomato paste to the pot and cook for 1 minute.",
+    "Add the browned pork, chicken broth, and water to the pot.",
+    "Bring the mixture to a boil, then cover the pot and transfer to the oven.",
+    "Bake at 300°F for 2 1/2 hours, or until the pork is tender.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with additional crispy onions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pork",
+    "kenyan",
+    "stew",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-kenyan-pork-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T21:28:03.870Z"
+}
