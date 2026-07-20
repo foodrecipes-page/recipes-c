@@ -7197,16 +7197,15 @@
   },
   {
     "slug": "citrusy-flaky-mexican-fig-crumble",
-    "title": "Citrusy Flaky Mexican Fig Crumble",
+    "title": "Citrusy Fig Crumble",
     "tags": [
       "citrusy",
-      "flaky",
-      "mexican",
-      "figs",
+      "fig",
+      "crumble",
       "dessert"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 35,
+    "cuisine": "american",
+    "totalTimeMin": 50,
     "shard": "c"
   },
   {
@@ -33788,6 +33787,44 @@
     ],
     "cuisine": "Argentinian",
     "totalTimeMin": 45,
+    "shard": "c"
+  },
+  {
+    "slug": "charred-polish-fish-gyoza--mexican",
+    "title": "Charred Fish Gyoza Tacos",
+    "tags": [
+      "mexican",
+      "fish-tacos",
+      "gyoza",
+      "polish-sausage"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "curejoy-baconlette--indian",
+    "title": "Curejoy Curry with Crispy Baconlette",
+    "tags": [
+      "indian-curry",
+      "vegetarian-recipe",
+      "easy-to-make"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "c"
+  },
+  {
+    "slug": "compact-creamy-irish-potato-casserole--german",
+    "title": "German Potato Casserole",
+    "tags": [
+      "german",
+      "potatoes",
+      "cheese",
+      "casserole"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 65,
     "shard": "c"
   }
 ]
