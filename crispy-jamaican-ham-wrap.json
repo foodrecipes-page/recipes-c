@@ -1,0 +1,76 @@
+{
+  "slug": "crispy-jamaican-ham-wrap",
+  "title": "Jamaican Ham Wrap",
+  "description": "A simple and flavorful wrap filled with juicy ham, crispy vegetables, and a hint of Jamaican spices.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ham",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Jamaican seasoning",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2 cup, sliced"
+    },
+    {
+      "name": "Crispy onions (or onion rings)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Wrap",
+      "amount": "4 large wraps"
+    },
+    {
+      "name": "Mayonnaise (optional)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Mustard (optional)",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan over medium heat.",
+    "Add a small amount of oil and cook the ham slices for 2-3 minutes on each side, until lightly browned.",
+    "Add the Jamaican seasoning and stir to combine.",
+    "Add the shredded lettuce and sliced cucumber to the pan and cook for an additional 2 minutes.",
+    "Warm the wraps according to package instructions.",
+    "Assemble the wraps by placing a few slices of the ham mixture onto the center of each wrap.",
+    "Top with crispy onions and a dollop of mayonnaise or mustard (if using).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "caribbean",
+    "ham",
+    "wrap",
+    "easy-lunch"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-jamaican-ham-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T23:42:48.036Z"
+}
