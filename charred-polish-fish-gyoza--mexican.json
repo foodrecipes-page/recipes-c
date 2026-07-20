@@ -1,0 +1,85 @@
+{
+  "slug": "charred-polish-fish-gyoza--mexican",
+  "title": "Charred Fish Gyoza Tacos",
+  "description": "A unique fusion of Mexican and Asian flavors, these tacos combine charred fish, polish sausage, and pan-fried gyoza for a delicious and spicy meal.",
+  "cuisine": "mexican",
+  "diet": [
+    "fish",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Polish sausage",
+      "amount": "1 pound, sliced"
+    },
+    {
+      "name": "Charred fish (tilapia or mahi-mahi)",
+      "amount": "1 pound, flaked"
+    },
+    {
+      "name": "Gyoza wrapper",
+      "amount": "1 package"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Mexican crema",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Avocado or sour cream",
+      "amount": "1/4 cup, sliced"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a large skillet over medium-high heat.",
+    "2. Add the sliced polish sausage and cook until browned, about 3-4 minutes.",
+    "3. Remove the sausage from the skillet and set aside.",
+    "4. Add the flaked charred fish to the skillet and cook until heated through, about 2-3 minutes.",
+    "5. In a large bowl, combine the cooked sausage, fish, chili powder, cumin, and salt. Stir to combine.",
+    "6. Meanwhile, pan-fry the gyoza wrappers according to package instructions.",
+    "7. Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "8. Assemble the tacos by placing a few pieces of the fish and sausage mixture onto a tortilla, followed by a few pieces of pan-fried gyoza, a sprinkle of cilantro, and a dollop of crema and sliced avocado.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "fish-tacos",
+    "gyoza",
+    "polish-sausage"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/charred-polish-fish-gyoza--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T00:49:57.564Z"
+}
