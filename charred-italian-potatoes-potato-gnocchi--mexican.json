@@ -1,0 +1,80 @@
+{
+  "slug": "charred-italian-potatoes-potato-gnocchi--mexican",
+  "title": "Mexican Gnocchi Casserole",
+  "description": "A Mexican-inspired casserole made with gnocchi, potatoes, and charred vegetables. Perfect for a weeknight dinner.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "gnocchi",
+      "amount": "1 (16 ounce) package"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "diced"
+    },
+    {
+      "name": "charred bell peppers",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "charred onions",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "salsa",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook gnocchi according to package instructions. Drain and set aside.",
+    "In a large skillet, heat 1 tablespoon of oil over medium heat. Add diced potatoes and cook until tender, about 5 minutes.",
+    "Add charred bell peppers and onions to the skillet and cook for an additional 2 minutes.",
+    "Stir in italian seasoning and cumin. Cook for 1 minute.",
+    "In a large bowl, combine cooked gnocchi, potato mixture, and shredded cheese. Mix well.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Spoon salsa over the top of the gnocchi mixture.",
+    "Bake in preheated oven for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "gnocchi",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/charred-italian-potatoes-potato-gnocchi--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T18:29:56.981Z"
+}
