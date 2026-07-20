@@ -1,0 +1,68 @@
+{
+  "slug": "crispy-creamy-argentinian-butter-croquettes",
+  "title": "Argentinian Croquette Bites",
+  "description": "Crispy fried bites filled with a creamy argentinian filling, perfect for a snack or appetizer.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Argentinian croquettes",
+      "amount": "2",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Creamy cheese",
+      "amount": "1/2 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "Crispy breadcrumbs",
+      "amount": "1 cup",
+      "notes": "panko"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 375°F (190°C).",
+    "In a bowl, mix together the croquettes and butter until well combined.",
+    "Add the creamy cheese and mix until a dough forms.",
+    "Divide the dough into small balls and flatten slightly.",
+    "Dip each ball into the beaten egg and then coat in breadcrumbs.",
+    "Fry the croquette bites in batches until golden brown, about 2-3 minutes.",
+    "Drain the bites on paper towels and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "croquettes",
+    "snack",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 15,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-creamy-argentinian-butter-croquettes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T15:18:59.463Z"
+}
