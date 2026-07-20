@@ -1,0 +1,82 @@
+{
+  "slug": "cashew-beef-sutra",
+  "title": "Grilled Beef with Cashew Crust",
+  "description": "A flavorful and nutritious dish that combines the savory taste of beef with the crunch of cashews.",
+  "cuisine": "American",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "500g",
+      "notes": "1-inch thick, 1-inch wide, 6-inch long"
+    },
+    {
+      "name": "cashew",
+      "amount": "100g",
+      "notes": "chopped, toasted"
+    },
+    {
+      "name": "sugar",
+      "amount": "20g",
+      "notes": "brown sugar"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "20g",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "5g",
+      "notes": "dried"
+    },
+    {
+      "name": "paprika",
+      "amount": "5g",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "5g",
+      "notes": "kosher"
+    },
+    {
+      "name": "black pepper",
+      "amount": "5g",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 450°F (230°C).",
+    "Season beef with salt, black pepper, garlic powder, and paprika.",
+    "Mix cashews with sugar and soy sauce to create a paste.",
+    "Coat beef with the cashew paste, making sure to cover all surfaces.",
+    "Grill beef for 5 minutes per side, or until it reaches an internal temperature of 135°F (57°C).",
+    "Let beef rest for 5 minutes before slicing.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-beef",
+    "cashew-crust",
+    "american-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/cashew-beef-sutra",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T23:26:14.586Z"
+}
