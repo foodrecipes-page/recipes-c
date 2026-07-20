@@ -965,16 +965,14 @@
   },
   {
     "slug": "cashew-beef-sutra",
-    "title": "Cashew Beef Sutra",
+    "title": "Grilled Beef with Cashew Crust",
     "tags": [
-      "cashew-beef-sutra",
-      "nutty-crispy-indulgent",
-      "beef-brisket-dutch",
-      "slow-cooked",
-      "jain-friendly"
+      "grilled-beef",
+      "cashew-crust",
+      "american-food"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 300,
+    "cuisine": "American",
+    "totalTimeMin": 25,
     "shard": "c"
   },
   {
@@ -5775,16 +5773,16 @@
   },
   {
     "slug": "citrusy-brazilian-dish-bowl",
-    "title": "Citrusy Brazilian Kkaennip Bowl",
+    "title": "Brazilian Citrusy Fruit Bowl",
     "tags": [
+      "dessert",
       "breakfast",
-      "hangover-cure",
-      "low-sodium",
-      "one-pan",
-      "weeknight"
+      "brazilian",
+      "citrusy",
+      "healthy"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 10,
     "shard": "c"
   },
   {
@@ -33658,6 +33656,57 @@
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 45,
+    "shard": "c"
+  },
+  {
+    "slug": "chewy-midnight-vietnamese-tofu-lasagne--chinese",
+    "title": "Chewy Vietnamese Lasagne",
+    "tags": [
+      "chinese",
+      "vietnamese",
+      "vegetarian",
+      "lasagne",
+      "fusion"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 45,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-garlic-french-tagine--vegan",
+    "title": "Vegan Tagine Stew",
+    "tags": [
+      "vegan",
+      "north-african",
+      "stew",
+      "lentil"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 35,
+    "shard": "c"
+  },
+  {
+    "slug": "crunchy-middle-eastern-purple-sprouting-broccoli-ouzi--thai",
+    "title": "Ouzi and Broccoli Stir Fry",
+    "tags": [
+      "thai",
+      "vegetarian",
+      "stir-fry"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 13,
+    "shard": "c"
+  },
+  {
+    "slug": "custard-crisp-crunch--german",
+    "title": "German Custard Apple Crisp",
+    "tags": [
+      "german",
+      "dessert",
+      "crisp"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 60,
     "shard": "c"
   }
 ]
