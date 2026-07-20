@@ -20437,16 +20437,14 @@
   },
   {
     "slug": "crispy-kenyan-pork-stew",
-    "title": "Crispy Kenyan Pork Stew",
+    "title": "Kenyan-Style Pork Stew",
     "tags": [
-      "high-protein",
-      "kenyan",
-      "nut-free",
       "pork",
-      "post-workout",
-      "slow-cook"
+      "kenyan",
+      "stew",
+      "one-pot"
     ],
-    "cuisine": "Kenyan",
+    "cuisine": "kenyan",
     "totalTimeMin": 170,
     "shard": "c"
   },
@@ -22772,19 +22770,14 @@
   },
   {
     "slug": "crispy-spicy-mediterranean-chicken-bowl",
-    "title": "Crispy Spicy Mediterranean Chicken Bowl",
+    "title": "Spicy Chicken Bowl",
     "tags": [
+      "chicken",
       "spicy",
-      "crispy",
-      "hangover-cure",
-      "fodmap-friendly",
-      "corn-tortilla",
-      "slow-cook",
-      "mediterranean",
-      "gluten-free"
+      "bowl"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 435,
+    "cuisine": null,
+    "totalTimeMin": 35,
     "shard": "c"
   },
   {
@@ -23870,16 +23863,15 @@
   },
   {
     "slug": "crispy-uruguayan-liver-delight",
-    "title": "Crispy Uruguayan Liver Delight",
+    "title": "Uruguayan Liver Delight",
     "tags": [
       "uruguayan",
       "liver",
-      "crispy",
-      "nutty",
-      "sick-day"
+      "delight",
+      "breakfast"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "c"
   },
   {
@@ -33616,6 +33608,57 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 210,
+    "shard": "c"
+  },
+  {
+    "slug": "crumbly-italian-almond-crumble--indian",
+    "title": "Indian Almond Crumble Bites",
+    "tags": [
+      "indian dessert",
+      "almond crumble",
+      "easy recipe"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 30,
+    "shard": "c"
+  },
+  {
+    "slug": "chewy-fresh-venezuelan-seafood-grill--indian",
+    "title": "Grilled Shrimp Tikka",
+    "tags": [
+      "indian",
+      "seafood",
+      "grill"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 23,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-fermented-dumpling-crumble--mexican",
+    "title": "Crispy Mexican Dumplings with Fermented Slaw",
+    "tags": [
+      "mexican",
+      "vegetarian",
+      "dinner",
+      "crispy",
+      "fermented"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 27,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-salty-saudia-pork-shoulder-crumble--gluten-free",
+    "title": "Crispy Pork Shoulder Crumble",
+    "tags": [
+      "gluten-free",
+      "pork",
+      "middle-eastern",
+      "crispy"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 45,
     "shard": "c"
   }
 ]
