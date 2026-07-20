@@ -18997,14 +18997,15 @@
   },
   {
     "slug": "crispy-fermented-romano-pepper-mexican-stir-fry",
-    "title": "Crispy Fermented Romano Pepper Mexican Stir-fry",
+    "title": "Crispy Fermented Romano Fries",
     "tags": [
-      "crispy-fermented-pepper",
-      "vegan-mexican-stir-fry",
-      "breakfast-dessert"
+      "fries",
+      "cheese",
+      "mexican",
+      "snack"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 40,
+    "cuisine": "mexican",
+    "totalTimeMin": 30,
     "shard": "c"
   },
   {
@@ -33519,6 +33520,57 @@
     ],
     "cuisine": "venezuelan",
     "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "charred-italian-potatoes-potato-gnocchi--mexican",
+    "title": "Mexican Gnocchi Casserole",
+    "tags": [
+      "mexican",
+      "gnocchi",
+      "casserole"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "c"
+  },
+  {
+    "slug": "creamy-greek-long-beans-salad--italian",
+    "title": "Creamy Italian White Bean Salad",
+    "tags": [
+      "italian",
+      "salad",
+      "lunch",
+      "summer"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 10,
+    "shard": "c"
+  },
+  {
+    "slug": "charred-molten-chinese-pork-braised-jjigae--mexican",
+    "title": "Braised Pork Jjigae",
+    "tags": [
+      "mexican",
+      "pork",
+      "spicy",
+      "braised"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 140,
+    "shard": "c"
+  },
+  {
+    "slug": "crisp-resinous-croatian-onion-wrap--vegan",
+    "title": "Croatian Vegan Wrap",
+    "tags": [
+      "vegan",
+      "wrap",
+      "onion",
+      "slaw"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 30,
     "shard": "c"
   }
 ]
