@@ -1,0 +1,64 @@
+{
+  "slug": "citrus-crumble-veggie-goatskewer",
+  "title": "Citrus Glazed Goat Skewers with Veggie Crumble",
+  "description": "A sweet and tangy twist on traditional skewers, paired with a crunchy veggie crumble for a delightful summer dish.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "goatskewer",
+      "amount": "1 package (about 20 skewers)",
+      "notes": null
+    },
+    {
+      "name": "citrus",
+      "amount": "1 cup freshly squeezed juice (orange, lemon, and lime)",
+      "notes": null
+    },
+    {
+      "name": "veggie",
+      "amount": "2 cups mixed colorful vegetables (bell peppers, onions, mushrooms, cherry tomatoes)",
+      "notes": null
+    },
+    {
+      "name": "crumble",
+      "amount": "1 cup gluten-free oat crumble mix",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together citrus juice, salt, and pepper.",
+    "Add the mixed vegetables to the bowl and toss to coat with the citrus glaze.",
+    "Thread the vegetables onto the goat skewers, leaving a little space between each piece.",
+    "Grill the skewers for 10-12 minutes, flipping occasionally, until the vegetables are tender.",
+    "Meanwhile, prepare the veggie crumble by mixing the gluten-free oat crumble mix with a pinch of salt.",
+    "After the skewers have cooked for 8 minutes, sprinkle the veggie crumble on top and continue grilling for another 2-3 minutes.",
+    "Remove the skewers from the grill and let them rest for 2-3 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "gluten-free",
+    "vegetarian",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/citrus-crumble-veggie-goatskewer",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T21:43:00.784Z"
+}
