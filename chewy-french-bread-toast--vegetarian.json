@@ -1,0 +1,82 @@
+{
+  "slug": "chewy-french-bread-toast--vegetarian",
+  "title": "French Toast Bake",
+  "description": "A twist on the classic breakfast dish, this French toast bake is easy to make and perfect for a crowd.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "French bread",
+      "amount": "1 loaf",
+      "notes": ""
+    },
+    {
+      "name": "chewy",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 350°F (180°C).",
+    "2. Tear the French bread into 1-inch cubes and place in a 9x13-inch baking dish.",
+    "3. In a separate bowl, whisk together eggs, milk, cinnamon, nutmeg, and salt.",
+    "4. Pour the egg mixture over the bread cubes and let sit for 5 minutes.",
+    "5. Sprinkle the chewy on top of the bread mixture.",
+    "6. Dot the top with butter.",
+    "7. Bake for 20-25 minutes, or until golden brown.",
+    "8. Serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "french-toast"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/chewy-french-bread-toast--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T23:56:40.213Z"
+}
