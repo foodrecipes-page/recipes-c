@@ -1,0 +1,74 @@
+{
+  "slug": "crisp-french-meringue-bake--french",
+  "title": "French Meringue Crisp",
+  "description": "A classic French dessert combining a crunchy meringue topping with a sweet and tangy crisp base.",
+  "cuisine": "French",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "French meringue",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Crisp",
+      "amount": "1 sheet (thawed)"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup",
+      "notes": "for the crisp"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/2 cup",
+      "notes": "for the crisp"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "for the crisp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "for the crisp"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "for the meringue"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Prepare the crisp base by mixing the sugar, flour, and butter in a bowl until crumbly.",
+    "Press the mixture into a 9x9-inch baking dish and bake for 20 minutes.",
+    "While the crisp is baking, prepare the meringue by whipping the French meringue with the vanilla extract until stiff peaks form.",
+    "Spread the meringue over the crisp base and return to the oven for an additional 15-20 minutes, or until the meringue is golden brown.",
+    "Remove the dessert from the oven and let it cool completely before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "meringue",
+    "crisp",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crisp-french-meringue-bake--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T16:52:24.842Z"
+}
