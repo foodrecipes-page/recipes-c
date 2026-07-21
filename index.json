@@ -14541,17 +14541,16 @@
   },
   {
     "slug": "creamy-roasted-algerian-lamb-tagine",
-    "title": "Creamy Roasted Algerian Lamb Tagine",
+    "title": "Classic Algerian Lamb Tagine",
     "tags": [
-      "comfort-food",
-      "date-night",
-      "lamb-based",
+      "algerian",
+      "lamb",
+      "tagine",
       "north-african",
-      "one-pan",
-      "special-occasion"
+      "stew"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 180,
+    "totalTimeMin": 110,
     "shard": "c"
   },
   {
@@ -33932,6 +33931,45 @@
     ],
     "cuisine": null,
     "totalTimeMin": 30,
+    "shard": "c"
+  },
+  {
+    "slug": "crumbly-middle-eastern-mushrooms-crumble--thai",
+    "title": "Thai Crumble Mushroom Stir Fry",
+    "tags": [
+      "thai",
+      "mushroom",
+      "stir-fry",
+      "vegetarian"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 22,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-fermented-ukrainian-potato-salad--japanese",
+    "title": "Japanese-Style Fermented Potato Salad",
+    "tags": [
+      "sides",
+      "japanese-inspired",
+      "fermented",
+      "salad"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-japanese-ginger-stir-fry--japanese",
+    "title": "Crispy Ginger Stir Fry",
+    "tags": [
+      "japanese",
+      "vegetarian",
+      "stir-fry",
+      "ginger"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
     "shard": "c"
   }
 ]
