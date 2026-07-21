@@ -1,0 +1,63 @@
+{
+  "slug": "crunchy-smoky-tomato-stir-fry--french",
+  "title": "Smoky French Tomato Omelet",
+  "description": "A French twist on a classic omelet, featuring smoky flavors and fresh tomatoes.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "crunchy bacon",
+      "amount": "4 slices",
+      "notes": "crumbled"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "stir fry onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "fry egg",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a pan, fry the bacon over medium heat until crispy.",
+    "Remove the bacon and set aside. Add the diced onion and cook until softened.",
+    "Add the diced tomato and cook for 2-3 minutes.",
+    "In a bowl, beat the eggs and season with salt and pepper.",
+    "Pour the eggs over the cooked onion and tomato mixture.",
+    "Cook the omelet until the eggs are almost set.",
+    "Add the crumbled bacon to one half of the omelet and fold the other half over.",
+    "Cook for an additional 1-2 minutes and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "omelet",
+    "breakfast",
+    "tomato"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crunchy-smoky-tomato-stir-fry--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T10:56:41.519Z"
+}
