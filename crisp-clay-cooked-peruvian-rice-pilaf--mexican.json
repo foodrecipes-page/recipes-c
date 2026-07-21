@@ -1,0 +1,81 @@
+{
+  "slug": "crisp-clay-cooked-peruvian-rice-pilaf--mexican",
+  "title": "Mexican Peruvian Rice Pilaf",
+  "description": "A hearty, flavorful rice pilaf dish with Peruvian flair, inspired by Mexican cuisine.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Peruvian rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Crisp rice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large saucepan over medium heat.",
+    "Add the chopped onion, garlic, and red bell pepper, and cook until the vegetables are tender.",
+    "Add the Peruvian rice and crisp rice, and stir to combine.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15 minutes.",
+    "Stir in the chopped cilantro and ground cumin.",
+    "Fluff the rice pilaf with a fork and serve.",
+    "Optional: add cooked vegetables or beans for extra nutrition."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "rice",
+    "pilaf",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crisp-clay-cooked-peruvian-rice-pilaf--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T14:51:50.473Z"
+}
