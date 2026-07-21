@@ -1,0 +1,55 @@
+{
+  "slug": "crispy-golden-polish-banana-curry",
+  "title": "Polish Banana Curry Fritters",
+  "description": "A sweet and savory dessert with a crispy exterior, a golden interior, and the flavors of Poland and the Caribbean.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "banana",
+      "amount": "2",
+      "notes": "mashed"
+    },
+    {
+      "name": "curry",
+      "amount": "1/4 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "polish",
+      "amount": "1 tablespoon",
+      "notes": "honey"
+    }
+  ],
+  "instructions": [
+    "Preheat frying oil to 375°F (190°C).",
+    "In a large bowl, combine mashed bananas, curry powder, and polish honey.",
+    "Using a spoon, drop small portions of the banana mixture into the hot oil.",
+    "Fry until the fritters are golden brown, about 2-3 minutes.",
+    "Remove the fritters from the oil and place them on paper towels to drain excess oil.",
+    "Serve warm, dust with powdered sugar if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "banana",
+    "curry",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 2,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-golden-polish-banana-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T03:07:23.680Z"
+}
