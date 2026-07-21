@@ -1,0 +1,59 @@
+{
+  "slug": "crispy-tunisian-peas-salad--french",
+  "title": "Tunisian Salad Niçoise",
+  "description": "A French-inspired salad filled with crunchy vegetables and topped with crispy ingredients.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tunisian Salad",
+      "amount": "4 cups, mixed greens",
+      "notes": null
+    },
+    {
+      "name": "Crispy Bacon",
+      "amount": "1/2 cup, crumbled",
+      "notes": null
+    },
+    {
+      "name": "Fresh Peas",
+      "amount": "1 cup, shelled",
+      "notes": "frozen, thawed"
+    },
+    {
+      "name": "French Salad Dressing",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine mixed greens, crumbled bacon, and shelled peas.",
+    "2. In a small bowl, whisk together French salad dressing and a pinch of salt.",
+    "3. Drizzle the dressing over the salad and toss to combine.",
+    "4. Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french-cuisine",
+    "salad",
+    "easy-recipe",
+    "lunch-ideas"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-tunisian-peas-salad--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T08:13:06.552Z"
+}
