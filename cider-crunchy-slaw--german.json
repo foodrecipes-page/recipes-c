@@ -1,0 +1,73 @@
+{
+  "slug": "cider-crunchy-slaw--german",
+  "title": "German Bratwurst with Sauerkraut Slaw",
+  "description": "A classic German dish featuring grilled bratwurst served with a tangy sauerkraut slaw made with crunchy slaw and a hint of cider.",
+  "cuisine": "german",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bratwurst",
+      "amount": "4",
+      "notes": "German-style sausage"
+    },
+    {
+      "name": "Sauerkraut",
+      "amount": "1 cup",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "Crunchy Slaw",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Cider Vinegar",
+      "amount": "2 tbsp",
+      "notes": "apple cider vinegar"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": "seasoning"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. Grill the bratwurst for 5-7 minutes per side, or until cooked through.",
+    "3. Meanwhile, combine the sauerkraut, crunchy slaw, cider vinegar, and brown sugar in a bowl. Toss to combine.",
+    "4. Season the slaw with salt and pepper to taste.",
+    "5. Once the bratwurst is cooked, let it rest for a few minutes before slicing.",
+    "6. Serve the sliced bratwurst with the sauerkraut slaw on the side.",
+    "7. Enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "bratwurst",
+    "sauerkraut",
+    "slaw",
+    "cider"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/cider-crunchy-slaw--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T11:27:48.577Z"
+}
