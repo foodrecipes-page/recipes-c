@@ -19510,14 +19510,13 @@
     "slug": "crispy-garlic-tostadas",
     "title": "Crispy Garlic Tostadas",
     "tags": [
-      "saudi-arabian",
-      "quick-fix",
-      "garlic-topped",
-      "corn-tortillas",
-      "tahini-sauce"
+      "crispy",
+      "garlic",
+      "mexican",
+      "snack"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 15,
+    "cuisine": "Mexican",
+    "totalTimeMin": 10,
     "shard": "c"
   },
   {
@@ -34076,6 +34075,30 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "ceviche-de-bacalao-con-maripaha--vegetarian",
+    "title": "Maripaha Ceviche Salad",
+    "tags": [
+      "ceviche",
+      "salad",
+      "vegetarian"
+    ],
+    "cuisine": "Latin American",
+    "totalTimeMin": 15,
+    "shard": "c"
+  },
+  {
+    "slug": "chewy-moroccan-kabanos-sausages-stir-fry--chinese",
+    "title": "Quick Stir Fry Sausages",
+    "tags": [
+      "chinese",
+      "easy-dinner",
+      "quick-recipe"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 20,
     "shard": "c"
   }
 ]
