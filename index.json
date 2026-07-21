@@ -11042,15 +11042,16 @@
   },
   {
     "slug": "cozy-flaky-butter-crumble",
-    "title": "Cozy Flaky Butter Crumble",
+    "title": "Cozy Crumble Muffins",
     "tags": [
-      "cozy",
-      "egyptian",
-      "paleo-friendly",
-      "flaky"
+      "breakfast",
+      "muffins",
+      "crumble-topping",
+      "cozy-oats",
+      "flaky-pastry"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 17,
+    "cuisine": "american",
+    "totalTimeMin": 45,
     "shard": "c"
   },
   {
@@ -24158,15 +24159,16 @@
   },
   {
     "slug": "crumbly-adventurous-slovakian-fenugreek-crumble",
-    "title": "Crumbly Adventurous Slovakian Fenugreek Crumble",
+    "title": "Slovakian Fenugreek Crumble Muffins",
     "tags": [
-      "crumbly-adventurous-slovakian",
-      "fermented-crumble",
-      "fenugreek-dish",
-      "nut-free-friendly"
+      "breakfast",
+      "muffins",
+      "fenugreek",
+      "slovakian",
+      "crumble"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 5,
+    "cuisine": "European",
+    "totalTimeMin": 40,
     "shard": "c"
   },
   {
@@ -33905,6 +33907,31 @@
     ],
     "cuisine": "Mexican",
     "totalTimeMin": 35,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-tunisian-peas-salad--french",
+    "title": "Tunisian Salad Niçoise",
+    "tags": [
+      "french-cuisine",
+      "salad",
+      "easy-recipe",
+      "lunch-ideas"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 15,
+    "shard": "c"
+  },
+  {
+    "slug": "cozy-earth-whisk-keto--gluten-free",
+    "title": "Whisked Earthy Keto Delight",
+    "tags": [
+      "gluten-free",
+      "keto",
+      "dessert"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 30,
     "shard": "c"
   }
 ]
