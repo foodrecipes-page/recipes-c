@@ -1,0 +1,78 @@
+{
+  "slug": "citrus-mozzaventure",
+  "title": "Mozzaventure and Citrus Cake",
+  "description": "A sweet and tangy cake made with mozzaventure and citrus ingredients.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Mozzaventure",
+      "amount": "200g"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "250g"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "150g"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "0.5 teaspoon"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "100g"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Grease a 20cm (8-inch) round cake pan and dust it with flour.",
+    "In a medium bowl, whisk together flour, sugar, baking powder, and salt.",
+    "In a large bowl, whisk together mozzaventure, lemon zest, lemon juice, eggs, and butter.",
+    "Add the dry ingredients to the wet ingredients and mix until just combined.",
+    "Pour the batter into the prepared cake pan and smooth the top.",
+    "Bake for 30-35 minutes or until a toothpick inserted in the center comes out clean.",
+    "Let the cake cool in the pan for 5 minutes before transferring it to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cake",
+    "italian",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/citrus-mozzaventure",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T17:37:31.833Z"
+}
