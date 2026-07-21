@@ -1,0 +1,57 @@
+{
+  "slug": "crispy-garlic-tostadas",
+  "title": "Crispy Garlic Tostadas",
+  "description": "A simple and flavorful Mexican-inspired dish made with crispy tostadas topped with sautéed garlic and crispy elements.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tostadas",
+      "amount": "4"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Crispy",
+      "amount": "1 cup crushed tortilla chips"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Arrange the tostadas on a baking sheet.",
+    "Drizzle the tostadas with lime juice.",
+    "Top each tostada with crushed tortilla chips, garlic, and a sprinkle of salt.",
+    "Bake for 5-7 minutes or until the tostadas are crispy.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "garlic",
+    "mexican",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-garlic-tostadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T13:13:44.906Z"
+}
