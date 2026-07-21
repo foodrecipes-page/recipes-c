@@ -5530,15 +5530,14 @@
   },
   {
     "slug": "citrus-mozzaventure",
-    "title": "Citrus Mozzaventure",
+    "title": "Mozzaventure and Citrus Cake",
     "tags": [
-      "mozzarella",
-      "jicama",
-      "kalamansi",
-      "lactose-free"
+      "cake",
+      "italian",
+      "dessert"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 15,
+    "cuisine": "Italian",
+    "totalTimeMin": 50,
     "shard": "c"
   },
   {
@@ -18039,17 +18038,17 @@
   },
   {
     "slug": "crispy-caramelized-greek-skirt-steak-kebabs",
-    "title": "Crispy Caramelized Greek Skirt Steak Kebabs",
+    "title": "Greek Steak Kebabs",
     "tags": [
-      "caramelized",
-      "crispy",
-      "greek-food",
+      "greek",
+      "grilled",
+      "steak",
       "kebabs",
-      "low-carb",
-      "skirt-steak"
+      "caramelized",
+      "feta"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "c"
   },
   {
@@ -34188,6 +34187,45 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 23,
+    "shard": "c"
+  },
+  {
+    "slug": "crisp-french-meringue-bake--french",
+    "title": "French Meringue Crisp",
+    "tags": [
+      "french",
+      "meringue",
+      "crisp",
+      "dessert"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 50,
+    "shard": "c"
+  },
+  {
+    "slug": "coconut-cream-cracked-japanese-bowl--vegetarian",
+    "title": "Japanese Coconut Cream Dessert",
+    "tags": [
+      "coconut",
+      "dessert",
+      "japanese",
+      "vegetarian"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 10,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-russian-cabbage-stir-fry--vegan",
+    "title": "Crispy Vegan Stir Fry",
+    "tags": [
+      "vegan",
+      "easy",
+      "stir-fry",
+      "cabbage"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 20,
     "shard": "c"
   }
 ]
