@@ -1,0 +1,66 @@
+{
+  "slug": "crispy-bitter-potato-stir-fry--german",
+  "title": "Pan-Fried Kartoffelpuffer",
+  "description": "A traditional German snack made from grated potatoes, onions, and egg. Crispy on the outside and fluffy on the inside.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Potato",
+      "amount": "2 large",
+      "notes": "Grated"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Grated"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "Beaten"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Grate the potatoes and onion, and mix with the egg in a bowl.",
+    "Season with salt and black pepper to taste.",
+    "Heat a non-stick pan with a small amount of oil over medium heat.",
+    "Using a 1/4 cup measuring cup, scoop the potato mixture into the pan.",
+    "Press the mixture down gently with a spatula to form a patty.",
+    "Cook for 3-4 minutes on the first side, until the edges start to brown.",
+    "Flip the Kartoffelpuffer and cook for another 3-4 minutes, until golden brown and crispy.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "snack",
+    "potato",
+    "fried"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-bitter-potato-stir-fry--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T02:50:24.033Z"
+}
