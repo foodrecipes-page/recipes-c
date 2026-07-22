@@ -1,0 +1,71 @@
+{
+  "slug": "crispy-australian-almonds-gratin--italian",
+  "title": "Italian Almond Crusted Chicken",
+  "description": "A crispy Italian-inspired chicken dish featuring a crunchy almond crust. Perfect for a quick weeknight dinner.",
+  "cuisine": "italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "almonds",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season chicken breasts with Italian seasoning.",
+    "Dip each chicken breast in flour, then eggs, and finally a mixture of almonds and parmesan cheese.",
+    "Place breaded chicken on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes or until cooked through.",
+    "Serve hot with your favorite sides."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "chicken",
+    "almond-crusted",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-australian-almonds-gratin--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T18:11:41.398Z"
+}
