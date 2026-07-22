@@ -3566,16 +3566,14 @@
   },
   {
     "slug": "cheesy-venezuelan-cheese-quesadilla",
-    "title": "Cheesy Venezuelan Cheese Quesadilla",
+    "title": "Venezuelan Quesadilla",
     "tags": [
-      "dinner",
-      "high-protein",
-      "one-pan",
-      "venezuelan",
-      "weeknight"
+      "quesadilla",
+      "cheese",
+      "venezuelan"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 27,
+    "cuisine": "Latin American",
+    "totalTimeMin": 13,
     "shard": "c"
   },
   {
@@ -13949,16 +13947,16 @@
   },
   {
     "slug": "creamy-mediterranean-fish-paella",
-    "title": "Creamy Mediterranean Fish Paella",
+    "title": "Mediterranean Paella with Fish",
     "tags": [
-      "indulgent-treats",
-      "mediterranean-diet",
-      "one-pan-meal",
-      "seafood-lovers",
-      "special-occasion"
+      "paella",
+      "mediterranean",
+      "fish",
+      "seafood",
+      "easy-dinner"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "c"
   },
   {
@@ -34286,6 +34284,19 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 22,
+    "shard": "c"
+  },
+  {
+    "slug": "crisp-vietnamese-chicken-noodles--french",
+    "title": "French Chicken and Noodle Soup",
+    "tags": [
+      "french",
+      "soup",
+      "chicken",
+      "noodles"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 30,
     "shard": "c"
   }
 ]
