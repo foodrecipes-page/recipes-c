@@ -1,0 +1,83 @@
+{
+  "slug": "charred-german-ground-beef-skillet--gluten-free",
+  "title": "German-Style Charred Beef Skillet",
+  "description": "A hearty, gluten-free skillet dish featuring charred beef and a medley of vegetables.",
+  "cuisine": "german",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "ground beef"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "skillet seasoning",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the ground beef and cook, breaking it up with a spoon, until browned, about 5-7 minutes.",
+    "Add the chopped bell pepper and tomato, and cook until the vegetables are tender, about 5 minutes.",
+    "Season with skillet seasoning, salt, and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired.",
+    "Cook the beef to an internal temperature of 160°F (71°C) for medium doneness."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "beef",
+    "skillet",
+    "german"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/charred-german-ground-beef-skillet--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T06:35:21.563Z"
+}
