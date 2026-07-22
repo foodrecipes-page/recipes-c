@@ -1,0 +1,90 @@
+{
+  "slug": "creamy-mexican-beef-burrito--german",
+  "title": "Sauerbraten Beef Burrito",
+  "description": "A twist on traditional German sauerbraten, served in a creamy Mexican burrito. Marinated beef is slow-cooked in a mixture of vinegar, water, and spices, then wrapped in a large flour tortilla with creamy toppings.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef (flank steak)",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "cream cheese",
+      "amount": "8 ounces",
+      "notes": "softened"
+    },
+    {
+      "name": "salsa",
+      "amount": "1/2 cup",
+      "notes": "mild Mexican salsa"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1 cup",
+      "notes": "divided"
+    },
+    {
+      "name": "tortilla (large flour)",
+      "amount": "1",
+      "notes": "warmed"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup",
+      "notes": "whipped"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "used for marinade"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "used for marinade"
+    },
+    {
+      "name": "mustard (Dijon)",
+      "amount": "1 tablespoon",
+      "notes": "used for marinade"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together beef broth, brown sugar, mustard, and vinegar.",
+    "Add the beef strips to the marinade and mix well.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat the oven to 300°F (150°C).",
+    "Remove the beef from the marinade and cook in the preheated oven for 2-3 hours, or until tender.",
+    "Meanwhile, warm the tortilla by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "In a large skillet, melt 2 tablespoons of butter over medium heat.",
+    "Add the shredded cheese and cook until melted and bubbly.",
+    "Add the cooked beef to the skillet and stir to combine with the cheese.",
+    "Spoon the beef and cheese mixture onto the warmed tortilla, followed by a spoonful of sour cream and a sprinkle of cilantro.",
+    "Roll the burrito tightly and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 180,
+  "totalTimeMin": 200,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "german",
+    "mexican",
+    "beef",
+    "burrito"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-mexican-beef-burrito--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T07:04:34.542Z"
+}
