@@ -18260,17 +18260,14 @@
   },
   {
     "slug": "crispy-citrus-kenyan-potato-dumplings",
-    "title": "Crispy Citrus Kenyan Potato Dumplings",
+    "title": "Pan-Fried Potato Dumplings with Citrus",
     "tags": [
-      "vegetarian",
-      "vegan",
-      "african",
-      "crispy",
-      "citrus",
+      "potato",
       "dumplings",
-      "potato"
+      "kenyan",
+      "citrus"
     ],
-    "cuisine": "Kenyan",
+    "cuisine": "kenyan",
     "totalTimeMin": 35,
     "shard": "c"
   },
@@ -23818,15 +23815,14 @@
   },
   {
     "slug": "crispy-uruguayan-beef-stir-fry",
-    "title": "Crispy Uruguayan Beef Stir-fry",
+    "title": "Uruguayan Beef Stir-Fry",
     "tags": [
-      "crispy",
       "uruguayan",
       "beef",
       "stir-fry"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "c"
   },
   {
@@ -34225,6 +34221,45 @@
       "cabbage"
     ],
     "cuisine": null,
+    "totalTimeMin": 20,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-tangy-spanish-oranges-soup--german",
+    "title": "Spanish Orange Soup",
+    "tags": [
+      "spanish-german-soup",
+      "tangy-soup",
+      "crispy-soup"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-australian-almonds-gratin--italian",
+    "title": "Italian Almond Crusted Chicken",
+    "tags": [
+      "italian",
+      "chicken",
+      "almond-crusted",
+      "gluten-free"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 30,
+    "shard": "c"
+  },
+  {
+    "slug": "crunchy-japanese-bacon-crumble--chinese",
+    "title": "Crispy Bacon and Crunchy Vegetable Stir Fry",
+    "tags": [
+      "quick",
+      "easy",
+      "chinese",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "chinese",
     "totalTimeMin": 20,
     "shard": "c"
   }
