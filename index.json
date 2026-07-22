@@ -2083,14 +2083,12 @@
   },
   {
     "slug": "charred-energizing-korean-red-pepper-jjigae",
-    "title": "Charred Energizing Korean Red Pepper Jjigae",
+    "title": "Spicy Red Pepper Jjigae",
     "tags": [
-      "charred",
       "korean",
-      "one-pan",
       "spicy",
-      "vegan",
-      "weeknight"
+      "stew",
+      "vegetarian"
     ],
     "cuisine": "Korean",
     "totalTimeMin": 40,
@@ -34417,6 +34415,45 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 20,
+    "shard": "c"
+  },
+  {
+    "slug": "chewy-moroccan-kabanos-sausages-stir-fry--japanese",
+    "title": "Japanese Sausage Stir Fry",
+    "tags": [
+      "japanese",
+      "stir-fry",
+      "sausages",
+      "quick-cook"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "charred-german-ground-beef-skillet--gluten-free",
+    "title": "German-Style Charred Beef Skillet",
+    "tags": [
+      "gluten-free",
+      "beef",
+      "skillet",
+      "german"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "c"
+  },
+  {
+    "slug": "creamy-mexican-beef-burrito--german",
+    "title": "Sauerbraten Beef Burrito",
+    "tags": [
+      "german",
+      "mexican",
+      "beef",
+      "burrito"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 200,
     "shard": "c"
   }
 ]
