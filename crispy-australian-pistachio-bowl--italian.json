@@ -1,0 +1,85 @@
+{
+  "slug": "crispy-australian-pistachio-bowl--italian",
+  "title": "Australian Pistachio Crispy Bowl",
+  "description": "A crispy Italian-inspired bowl filled with pistachio-crusted australian meat, served with a side of fresh pasta.",
+  "cuisine": "italian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian Steak",
+      "amount": "1 pound",
+      "notes": "Choose a high-quality australian steak for best results."
+    },
+    {
+      "name": "Pistachios",
+      "amount": "1/4 cup",
+      "notes": "Chopped pistachios for added crunch."
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking the steak and pasta."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced garlic for added flavor."
+    },
+    {
+      "name": "Italian Seasoning",
+      "amount": "1 teaspoon",
+      "notes": "Dried herbs for added flavor."
+    },
+    {
+      "name": "Fresh Pasta",
+      "amount": "8 oz",
+      "notes": "Homemade or store-bought pasta for a delicious side dish."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning the steak and pasta."
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "For seasoning the steak and pasta."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the steak with salt and pepper.",
+    "Heat the olive oil in a skillet over medium-high heat. Add the garlic and cook for 1 minute.",
+    "Add the steak to the skillet and cook for 2-3 minutes per side, or until browned.",
+    "Transfer the steak to a baking sheet and top with pistachios.",
+    "Bake the steak in the preheated oven for 10-12 minutes, or until cooked to desired doneness.",
+    "Cook the fresh pasta according to package instructions.",
+    "Serve the steak with the cooked pasta and a side of your favorite sauce.",
+    "Enjoy your delicious Australian Pistachio Crispy Bowl!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "australian",
+    "pistachio",
+    "crispy",
+    "bowl"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-australian-pistachio-bowl--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T03:01:38.504Z"
+}
