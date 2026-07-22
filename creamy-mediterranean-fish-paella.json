@@ -1,0 +1,91 @@
+{
+  "slug": "creamy-mediterranean-fish-paella",
+  "title": "Mediterranean Paella with Fish",
+  "description": "A flavorful and nutritious Mediterranean-inspired paella dish with fish as the main protein, perfect for a light dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish (Cod or Tilapia)",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Mediterranean Rice Mix",
+      "amount": "2 cups",
+      "notes": "available at most grocery stores"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 can (14.5 oz)",
+      "notes": "diced, preferably fire-roasted"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Artichoke Hearts",
+      "amount": "1 can (14 oz)",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "Feta Cheese (optional)",
+      "amount": "1/4 cup",
+      "notes": "crumbled"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the chopped onion and sauté for 3-4 minutes, until softened.",
+    "Add the minced garlic and sauté for 1 minute, until fragrant.",
+    "Add the diced bell pepper and sauté for 2-3 minutes, until tender.",
+    "Add the fish pieces and cook for 2-3 minutes, until lightly browned.",
+    "Add the Mediterranean rice mix, canned tomatoes, artichoke hearts, and feta cheese (if using).",
+    "Stir to combine, then add 2 cups of water.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 20-25 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "Remove from heat and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "paella",
+    "mediterranean",
+    "fish",
+    "seafood",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-mediterranean-fish-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T22:32:33.737Z"
+}
