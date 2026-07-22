@@ -1,0 +1,77 @@
+{
+  "slug": "caramelized-spanish-chestnut-stir-fry",
+  "title": "Spanish-Style Stir-Fried Chestnuts with Caramelized Onions",
+  "description": "A flavorful and savory dish featuring caramelized onions, chestnuts, and a hint of Spanish spices. Perfect as a side or main course.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chestnuts",
+      "amount": "1 cup",
+      "notes": "fresh or canned"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "caramelized"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the minced garlic and sauté for 1 minute until fragrant.",
+    "Add the caramelized onions and stir-fry for 2 minutes.",
+    "Add the chestnuts and stir-fry for 3-4 minutes until they start to brown.",
+    "Add the smoked paprika and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Continue stir-frying for another 2 minutes until the chestnuts are tender.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "chestnuts",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/caramelized-spanish-chestnut-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T23:50:20.806Z"
+}
