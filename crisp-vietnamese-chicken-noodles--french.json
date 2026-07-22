@@ -1,0 +1,88 @@
+{
+  "slug": "crisp-vietnamese-chicken-noodles--french",
+  "title": "French Chicken and Noodle Soup",
+  "description": "A hearty French-inspired soup made with chicken, noodles, and a hint of Vietnamese spices.",
+  "cuisine": "french",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "Boneless, skinless chicken breasts"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 ounces",
+      "notes": "French bread noodles or egg noodles"
+    },
+    {
+      "name": "vietnamese chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "Add a spicy kick to the soup"
+    },
+    {
+      "name": "crisp lettuce",
+      "amount": "4 cups",
+      "notes": "For a fresh salad topping"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "Diced for added flavor and nutrition"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Diced for added flavor and nutrition"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced for added flavor"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "Low-sodium chicken broth for a rich flavor"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "For a light and refreshing soup"
+    }
+  ],
+  "instructions": [
+    "Bring the chicken broth and water to a boil in a large pot.",
+    "Add the diced onion, carrot, and minced garlic. Simmer for 5 minutes.",
+    "Add the chicken breast and cook until browned on all sides.",
+    "Add the noodles and cook until tender, about 8-10 minutes.",
+    "Stir in the Vietnamese chili flakes for added flavor.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, topped with crisp lettuce and a side of crusty bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "soup",
+    "chicken",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crisp-vietnamese-chicken-noodles--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T23:08:21.865Z"
+}
