@@ -1,0 +1,56 @@
+{
+  "slug": "coconut-cream-cracked-japanese-bowl--thai",
+  "title": "Thai Coconut Cream Dessert",
+  "description": "A rich and creamy Thai dessert made with coconut cream and cracked Japanese-style mochi.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "coconut cream",
+      "amount": "1 can",
+      "notes": "full-fat coconut milk"
+    },
+    {
+      "name": "cracked Japanese-style mochi",
+      "amount": "1 package",
+      "notes": "glutinous rice flour"
+    },
+    {
+      "name": "bowl",
+      "amount": "",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Combine coconut cream and mochi in a saucepan over medium heat.",
+    "Cook for 5-7 minutes, stirring frequently, until the mixture thickens.",
+    "Remove from heat and let cool slightly.",
+    "Spoon the mixture into bowls and chill in the refrigerator for at least 2 hours.",
+    "Serve chilled, garnished with toasted coconut flakes if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 7,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "dessert",
+    "coconut",
+    "mochi"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/coconut-cream-cracked-japanese-bowl--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T02:09:47.081Z"
+}
