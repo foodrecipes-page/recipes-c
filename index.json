@@ -7694,17 +7694,15 @@
   },
   {
     "slug": "citrusy-juicy-mexican-chicken-tacos",
-    "title": "Citrusy Juicy Mexican Chicken Tacos",
+    "title": "Mexican Chicken Tacos",
     "tags": [
       "mexican",
       "chicken",
       "tacos",
-      "citrusy",
-      "juicy",
-      "meal-prep"
+      "easy-to-make"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 40,
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
     "shard": "c"
   },
   {
@@ -34632,6 +34630,58 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "citrusy-chewy-mediterranean-chicken-tagine--indian",
+    "title": "Chicken Tagine with Citrusy Twist",
+    "tags": [
+      "indian",
+      "chicken",
+      "tagine",
+      "citrusy",
+      "mediterranean"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 45,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-comforting-peruvian-potato-fritters--mexican",
+    "title": "Crispy Potato Fritters",
+    "tags": [
+      "mexican",
+      "snack",
+      "comfort-food"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "caramelized-floral-coconut-spanish-stir-fry--mexican",
+    "title": "Coconut Caramel Flan",
+    "tags": [
+      "mexican",
+      "dessert",
+      "flan"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 65,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-earthy-veal-stir-fry--japanese",
+    "title": "Pan-Seared Veal Katsu",
+    "tags": [
+      "japanese",
+      "veal",
+      "katsu",
+      "breaded",
+      "fried"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 27,
     "shard": "c"
   }
 ]
