@@ -23934,10 +23934,15 @@
   },
   {
     "slug": "crispy-vietnamese-mulukhiyah-soup",
-    "title": "Crispy Vietnamese Mulukhiyah Soup",
-    "tags": [],
+    "title": "Vietnamese Mulukhiyah Soup",
+    "tags": [
+      "vietnamese",
+      "mulukhiyah",
+      "soup",
+      "vegetarian"
+    ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": null,
+    "totalTimeMin": 40,
     "shard": "c"
   },
   {
@@ -26809,15 +26814,15 @@
   },
   {
     "slug": "crunchy-german-kale-stir-fry",
-    "title": "Crunchy German Kale Stir-Fry",
+    "title": "Crunchy German Kale Stir Fry",
     "tags": [
-      "crunchy",
       "german",
+      "vegetarian",
       "kale",
       "stir-fry"
     ],
     "cuisine": "German",
-    "totalTimeMin": 35,
+    "totalTimeMin": 20,
     "shard": "c"
   },
   {
@@ -34830,6 +34835,44 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "crunchy-sour-jamaican-tomatoes-salad--gluten-free",
+    "title": "Jamaican Salad",
+    "tags": [
+      "gluten-free",
+      "salad",
+      "jamaican",
+      "easy",
+      "snack"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 10,
+    "shard": "c"
+  },
+  {
+    "slug": "crunchy-german-potato-bowl--indian",
+    "title": "Potato Bowl with Crunchy German Twist",
+    "tags": [
+      "indian",
+      "snack",
+      "potato"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "c"
+  },
+  {
+    "slug": "creamy-salty-saudi-almond-soup--chinese",
+    "title": "Salty Almond Soup",
+    "tags": [
+      "chinese-cuisine",
+      "soup",
+      "vegetarian"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 30,
     "shard": "c"
   }
 ]
