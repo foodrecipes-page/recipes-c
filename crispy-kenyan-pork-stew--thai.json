@@ -1,0 +1,79 @@
+{
+  "slug": "crispy-kenyan-pork-stew--thai",
+  "title": "Crispy Pork Stew",
+  "description": "A flavorful and spicy Thai-inspired pork stew with crispy pork bits served over steamed rice. Perfect for a weeknight dinner.",
+  "cuisine": "thai",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "14 oz"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "crispy fried onions",
+      "amount": "1/4 cup",
+      "notes": "optional for garnish"
+    },
+    {
+      "name": "kenyan spices",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add the pork cubes and cook until browned, about 5 minutes.",
+    "Add the coconut milk, fish sauce, and brown sugar. Stir to combine.",
+    "Bring the mixture to a simmer and cook for 10-15 minutes, or until the pork is tender.",
+    "Add the kenyan spices and stir to combine.",
+    "Season with salt to taste.",
+    "Serve the stew over steamed rice, garnished with crispy fried onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "pork",
+    "stew",
+    "coconut-milk",
+    "kenyan-spices"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": "35g",
+    "carbs": "45g",
+    "fat": "30g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-kenyan-pork-stew--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T13:31:12.143Z"
+}
