@@ -1,0 +1,71 @@
+{
+  "slug": "crunchy-mexican-corn-salad--indian",
+  "title": "Indian Street Corn Salad",
+  "description": "A fusion of Indian spices and Mexican street corn in a crunchy salad.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "canned corn",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "crunchy tortilla chips",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "cottage cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "mixed greens",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "mexican shredded cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat a pan over medium heat.",
+    "2. Add cumin and sauté for a few seconds.",
+    "3. Add corn and cook until slightly browned.",
+    "4. In a separate bowl, mix together cottage cheese, greens, and tortilla chips.",
+    "5. Add cooked corn to the bowl and top with shredded cheese.",
+    "6. Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "mexican",
+    "street-food",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crunchy-mexican-corn-salad--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T13:54:39.716Z"
+}
