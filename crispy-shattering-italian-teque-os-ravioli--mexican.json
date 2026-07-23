@@ -1,0 +1,85 @@
+{
+  "slug": "crispy-shattering-italian-teque-os-ravioli--mexican",
+  "title": "Mexican Ravioli Fiesta",
+  "description": "A twist on traditional pasta, these Mexican ravioli are filled with spicy beef and served in a rich tomato sauce.",
+  "cuisine": "Mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Italian ravioli",
+      "amount": "12 oz"
+    },
+    {
+      "name": "Teque (or beef) filling",
+      "amount": "1 lb",
+      "notes": "ground beef, onion, garlic, cumin, chili powder"
+    },
+    {
+      "name": "Os crispy tortilla strips",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Shattering fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Crispy (or chopped) onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Cook the ravioli according to package instructions.",
+    "In a large skillet, cook the Teque filling over medium-high heat, breaking up with a spoon as it cooks.",
+    "Add the cumin, chili powder, salt, and black pepper to the filling and stir to combine.",
+    "Add the tomato sauce to the skillet and stir to combine.",
+    "Add the cooked ravioli to the skillet and toss to coat with the sauce.",
+    "Top with crispy onion and cilantro, if desired.",
+    "Serve hot, garnished with additional cilantro and onion if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "beef",
+    "ravioli",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-shattering-italian-teque-os-ravioli--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T21:15:28.708Z"
+}
