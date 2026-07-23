@@ -1,0 +1,57 @@
+{
+  "slug": "crisp-crunchy-norwegian-mattor-bread",
+  "title": "Mattor Crisp Bread Bites",
+  "description": "A simple snack recipe combining crispy Norwegian bread with crunchy mattor for a delightful bite.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "crisp bread",
+      "amount": "1 package (about 10 slices)",
+      "notes": null
+    },
+    {
+      "name": "mattor",
+      "amount": "1 cup",
+      "notes": "any type of mattor"
+    },
+    {
+      "name": "crunchy",
+      "amount": "1/4 cup",
+      "notes": "as crunchy topping"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Cut crisp bread into bite-sized cubes.",
+    "Place bread cubes on a baking sheet and toast in oven for 5-7 minutes, or until lightly browned.",
+    "Allow toasted bread to cool completely.",
+    "Mix in mattor and crunchy topping.",
+    "Serve as a snack or appetizer."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 10,
+  "difficulty": "easy",
+  "tags": [
+    "bread",
+    "mattor",
+    "snack",
+    "easyrecipe"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crisp-crunchy-norwegian-mattor-bread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T11:24:44.456Z"
+}
