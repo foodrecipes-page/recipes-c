@@ -1,0 +1,68 @@
+{
+  "slug": "crispy-sweet-french-casabe-salad",
+  "title": "Crispy Chicken Salad",
+  "description": "A crunchy and refreshing salad made with crispy fried chicken, mixed greens, and a sweet and tangy dressing.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "casabe",
+      "amount": "4 slices",
+      "notes": "crushed"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "4 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "sweet",
+      "amount": "1/4 cup",
+      "notes": "honey"
+    },
+    {
+      "name": "french",
+      "amount": "2 tablespoons",
+      "notes": "vinaigrette"
+    }
+  ],
+  "instructions": [
+    "In a shallow dish, mix together crushed casabe and a pinch of salt.",
+    "Dip each chicken piece in the casabe mixture, coating both sides evenly.",
+    "Heat about 1/2 inch of oil in a large skillet over medium-high heat.",
+    "Add the coated chicken to the skillet and fry until golden brown and crispy, about 5-7 minutes.",
+    "Remove the chicken from the skillet and let it rest on a paper towel-lined plate.",
+    "In a large bowl, combine the mixed greens and a drizzle of honey.",
+    "Cut the crispy chicken into bite-sized pieces and add it to the bowl with the greens.",
+    "Drizzle the french vinaigrette over the salad and toss to combine.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "chicken",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-sweet-french-casabe-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T14:20:40.403Z"
+}
