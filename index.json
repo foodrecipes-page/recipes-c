@@ -7304,16 +7304,16 @@
   },
   {
     "slug": "citrusy-fluffy-portuguese-lamb-stir-fry",
-    "title": "Citrusy Fluffy Portuguese Lamb Stir-fry",
+    "title": "Lamb and Citrus Portuguese Roast",
     "tags": [
-      "high-protein",
-      "low-calorie",
-      "one-pan",
+      "lamb",
       "portuguese",
-      "weeknight"
+      "roast",
+      "citrus",
+      "herbs"
     ],
-    "cuisine": "portuguese",
-    "totalTimeMin": 35,
+    "cuisine": "Portuguese",
+    "totalTimeMin": 70,
     "shard": "c"
   },
   {
@@ -9398,14 +9398,14 @@
   },
   {
     "slug": "comforting-bitter-french-jerusalem-artichokes-bourguignon",
-    "title": "comforting, bitter french jerusalem artichokes bourguignon",
+    "title": "Jerusalem Artichoke Bourguignon",
     "tags": [
-      "comfort-food",
-      "one-pan",
-      "sugar-free"
+      "comforting",
+      "bourguignon",
+      "french"
     ],
-    "cuisine": "french",
-    "totalTimeMin": 70,
+    "cuisine": "French",
+    "totalTimeMin": 175,
     "shard": "c"
   },
   {
@@ -22915,17 +22915,14 @@
   },
   {
     "slug": "crispy-sweet-french-casabe-salad",
-    "title": "Crispy Sweet French Casabe Salad",
+    "title": "Crispy Chicken Salad",
     "tags": [
-      "gluten-free",
-      "post-workout",
-      "crunchy",
-      "sweet",
-      "savory",
-      "dairy-free-friendly"
+      "crispy",
+      "chicken",
+      "salad"
     ],
-    "cuisine": "French",
-    "totalTimeMin": 35,
+    "cuisine": "American",
+    "totalTimeMin": 25,
     "shard": "c"
   },
   {
@@ -34708,6 +34705,45 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 40,
+    "shard": "c"
+  },
+  {
+    "slug": "crunchy-mexican-corn-salad--indian",
+    "title": "Indian Street Corn Salad",
+    "tags": [
+      "indian",
+      "mexican",
+      "street-food",
+      "salad"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 15,
+    "shard": "c"
+  },
+  {
+    "slug": "crumbly-british-cocoa-crumble--french",
+    "title": "French Cocoa Crumble Tart",
+    "tags": [
+      "cocoa",
+      "crumble",
+      "tart",
+      "dessert"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 55,
+    "shard": "c"
+  },
+  {
+    "slug": "creamy-uruguayan-avocado-tartare--french",
+    "title": "Creamy Tartare of Uruguayan Beef",
+    "tags": [
+      "beef",
+      "french-cuisine",
+      "appetizer",
+      "uruguayan-beef"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 15,
     "shard": "c"
   }
 ]
