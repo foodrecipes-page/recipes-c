@@ -11272,17 +11272,16 @@
   },
   {
     "slug": "cozy-moroccan-almond-sellou",
-    "title": "Cozy Moroccan Almond Sellou",
+    "title": "Moroccan-Style Sellou Bites",
     "tags": [
-      "almond",
-      "cozy",
-      "dessert",
-      "flexitarian",
       "moroccan",
-      "sellou"
+      "sellou",
+      "almond",
+      "dessert",
+      "bite-sized"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 40,
+    "totalTimeMin": 30,
     "shard": "c"
   },
   {
@@ -34744,6 +34743,20 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 15,
+    "shard": "c"
+  },
+  {
+    "slug": "cozy-turkish-fish-pilaf--thai",
+    "title": "Thai-Style Fish Pilaf",
+    "tags": [
+      "thai",
+      "fish",
+      "pilaf",
+      "breakfast",
+      "lunch"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
     "shard": "c"
   }
 ]
