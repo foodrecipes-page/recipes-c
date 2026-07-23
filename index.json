@@ -5883,18 +5883,15 @@
   },
   {
     "slug": "citrusy-chewy-malaysian-buckwheat-crumble",
-    "title": "Citrusy Chewy Malaysian Buckwheat Crumble",
+    "title": "Malaysian Buckwheat Crumble",
     "tags": [
-      "citrusy",
-      "chewy",
-      "malaysian",
-      "hangover-cure",
       "buckwheat",
-      "smoke",
-      "pescatarian-friendly"
+      "malaysian",
+      "crumble",
+      "dessert"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 50,
+    "cuisine": "malaysian",
+    "totalTimeMin": 55,
     "shard": "c"
   },
   {
@@ -23091,15 +23088,14 @@
   },
   {
     "slug": "crispy-syrian-bean-stir-fry",
-    "title": "Crispy Syrian Bean Stir-fry",
+    "title": "Crispy Bean Stir Fry",
     "tags": [
       "stir-fry",
-      "syrian",
-      "crispy",
-      "bean"
+      "easy-recipe",
+      "vegetarian"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 25,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 18,
     "shard": "c"
   },
   {
@@ -34559,6 +34555,60 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 10,
+    "shard": "c"
+  },
+  {
+    "slug": "crunchy-crisp-egyptian-grains-pilaf--keto",
+    "title": "Keto Egyptian Pilaf",
+    "tags": [
+      "keto",
+      "low-carb",
+      "egyptian",
+      "pilaf",
+      "grain"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 45,
+    "shard": "c"
+  },
+  {
+    "slug": "creamy-croatian-cheese-lasagna--german",
+    "title": "Käsespätzle - German Cheese Spätzle",
+    "tags": [
+      "german",
+      "cheese",
+      "spätzle",
+      "bavarian"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "c"
+  },
+  {
+    "slug": "cozy-dense-moroccan-chicken-khlea--italian",
+    "title": "Moroccan Chicken Khlea with Italian Twist",
+    "tags": [
+      "italian",
+      "moroccan",
+      "chicken",
+      "rice"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
+    "shard": "c"
+  },
+  {
+    "slug": "crisp-clean-middle-eastern-chicken-musakhan--chinese",
+    "title": "Crisp Middle Eastern Chicken Musakhan",
+    "tags": [
+      "chinese",
+      "middle eastern",
+      "chicken",
+      "musakhan",
+      "lunch"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 40,
     "shard": "c"
   }
 ]
