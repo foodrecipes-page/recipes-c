@@ -1,0 +1,84 @@
+{
+  "slug": "citrusy-juicy-mexican-chicken-tacos",
+  "title": "Mexican Chicken Tacos",
+  "description": "A flavorful and juicy Mexican-inspired dish featuring tender chicken in tacos.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free",
+    "pescatarian-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1 pound",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Mexican seasoning",
+      "amount": "2 tablespoons",
+      "notes": "Dried oregano, cumin, chili powder"
+    },
+    {
+      "name": "juicy tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": "Diced"
+    },
+    {
+      "name": "citrusy lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "tacos shells",
+      "amount": "8-10",
+      "notes": "Corn or flour"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "Monterey Jack or Cheddar"
+    },
+    {
+      "name": "sliced avocado",
+      "amount": "2",
+      "notes": "Optional"
+    },
+    {
+      "name": "sliced cilantro",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Season chicken with Mexican seasoning and cook for 5-7 minutes per side.",
+    "3. Let chicken rest for 5 minutes before slicing.",
+    "4. Warm tacos shells according to package instructions.",
+    "5. Combine diced tomatoes and lime juice in a bowl.",
+    "6. Assemble tacos by placing chicken on a shell, followed by a spoonful of the tomato mixture.",
+    "7. Top with shredded cheese, sliced avocado, and cilantro (if using).",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "chicken",
+    "tacos",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/citrusy-juicy-mexican-chicken-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T11:43:37.803Z"
+}
