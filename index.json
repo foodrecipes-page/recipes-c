@@ -2222,16 +2222,16 @@
   },
   {
     "slug": "charred-french-penne-penne-rigate",
-    "title": "Charred French Penne Penne Rigate",
+    "title": "Charred Pepper Penne Pasta",
     "tags": [
+      "italian",
+      "pasta",
+      "vegetarian",
       "charred",
-      "french",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "peppers"
     ],
-    "cuisine": "French",
-    "totalTimeMin": 25,
+    "cuisine": "Italian",
+    "totalTimeMin": 35,
     "shard": "c"
   },
   {
@@ -16134,17 +16134,15 @@
   },
   {
     "slug": "crisp-crunchy-norwegian-mattor-bread",
-    "title": "Crisp Crunchy Norwegian Mattor Bread",
+    "title": "Mattor Crisp Bread Bites",
     "tags": [
-      "ayurvedic-friendly",
-      "gluten-free",
-      "low-calorie",
-      "quick-bread",
+      "bread",
+      "mattor",
       "snack",
-      "vegan"
+      "easyrecipe"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 15,
     "shard": "c"
   },
   {
@@ -34609,6 +34607,31 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 40,
+    "shard": "c"
+  },
+  {
+    "slug": "crisp-fried-xtra-crunchy-veracruzan-shrimp-tacos--german",
+    "title": "German Shrimp Fritters",
+    "tags": [
+      "german",
+      "appetizer",
+      "shrimp"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 30,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-sour-trout-pancakes--german",
+    "title": "German Pan-Seared Trout with Crispy Pancakes",
+    "tags": [
+      "german-cuisine",
+      "trout-recipe",
+      "pancakes",
+      "breakfast-recipe"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
     "shard": "c"
   }
 ]
