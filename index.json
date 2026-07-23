@@ -7707,19 +7707,15 @@
   },
   {
     "slug": "citrusy-juicy-mexican-snow-peas-tacos",
-    "title": "Citrusy Juicy Mexican Snow Peas Tacos",
+    "title": "Mexican Citrus Chicken Tacos",
     "tags": [
       "mexican",
+      "chicken",
       "tacos",
-      "halal-friendly",
-      "snow-peas",
-      "citrusy",
-      "juicy",
-      "norteo",
-      "quick-meal"
+      "citrus"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 20,
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
     "shard": "c"
   },
   {
@@ -34798,6 +34794,18 @@
     ],
     "cuisine": "portuguese",
     "totalTimeMin": 22,
+    "shard": "c"
+  },
+  {
+    "slug": "creamy-roasted-algerian-lamb-tagine--thai",
+    "title": "Spicy Lamb Tagine",
+    "tags": [
+      "lamb",
+      "thaicuisine",
+      "tagine"
+    ],
+    "cuisine": "thaicuisine",
+    "totalTimeMin": 110,
     "shard": "c"
   }
 ]
