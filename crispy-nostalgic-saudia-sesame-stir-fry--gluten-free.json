@@ -1,0 +1,72 @@
+{
+  "slug": "crispy-nostalgic-saudia-sesame-stir-fry--gluten-free",
+  "title": "Saudia-Style Stir Fry",
+  "description": "A gluten-free, flavorful stir fry dish inspired by Saudi Arabian cuisine, featuring crispy fried rice and vegetables.",
+  "cuisine": "Saudi",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fried Rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": "Use a neutral-tasting oil for frying"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped into small pieces"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 medium",
+      "notes": "Chopped into small pieces"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 medium",
+      "notes": "Grated"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add onion and bell pepper and stir-fry until they start to soften.",
+    "Add carrot and stir-fry for another 2-3 minutes.",
+    "Add fried rice and stir-fry until combined with vegetables.",
+    "Season with salt and sesame seeds.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "saudia-style",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-nostalgic-saudia-sesame-stir-fry--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T22:11:10.580Z"
+}
