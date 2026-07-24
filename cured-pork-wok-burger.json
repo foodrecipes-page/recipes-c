@@ -1,0 +1,101 @@
+{
+  "slug": "cured-pork-wok-burger",
+  "title": "Pan-Seared Pork Burger",
+  "description": "A twist on the classic burger, this pan-seared pork burger is a flavorful and juicy meal. The combination of pork and beef will leave you wanting more.",
+  "cuisine": "American",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork burger patties",
+      "amount": "4",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Cured ham",
+      "amount": "4 slices",
+      "notes": "optional"
+    },
+    {
+      "name": "Burger buns",
+      "amount": "4",
+      "notes": "toasted"
+    },
+    {
+      "name": "Wok-fried onions",
+      "amount": "1 cup",
+      "notes": "see instructions"
+    },
+    {
+      "name": "Ketchup",
+      "amount": "1/4 cup",
+      "notes": "for serving"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "1/4 cup",
+      "notes": "for serving"
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "4 leaves",
+      "notes": "for serving"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2",
+      "notes": "for serving"
+    },
+    {
+      "name": "Pickles",
+      "amount": "2 slices",
+      "notes": "for serving"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat a pan over medium-high heat.",
+    "Add the pork burger patties and cook for 3-4 minutes per side, or until cooked through.",
+    "While the burgers are cooking, toast the burger buns in the pan.",
+    "Wok-fry the onions by heating a small amount of oil in a wok or large skillet over medium-high heat.",
+    "Add the onions to the pan and cook until softened, stirring frequently.",
+    "Assemble the burgers by spreading mayonnaise and ketchup on the bottom bun, followed by a cooked burger patty, a slice of cured ham, a sprinkle of cheese, a spoonful of wok-fried onions, and finally the top bun.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "burgers",
+    "pork",
+    "american"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "34g",
+    "carbs": "44g",
+    "fat": "28g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/cured-pork-wok-burger",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T02:10:00.675Z"
+}
