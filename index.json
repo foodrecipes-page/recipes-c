@@ -5119,14 +5119,15 @@
   },
   {
     "slug": "chilled-herbed-butter-poaching",
-    "title": "Chilled Herbed Butter Poaching",
+    "title": "Herbed Poached Salmon",
     "tags": [
-      "herbed-butter-poaching",
-      "earthly-gooey-syrian-dish",
-      "mediterranean-friendly"
+      "fish",
+      "salmon",
+      "poached",
+      "herbs"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 18,
+    "cuisine": null,
+    "totalTimeMin": 20,
     "shard": "c"
   },
   {
@@ -34971,6 +34972,70 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "creamy-complex-moroccan-lamb-tagine--german",
+    "title": "Lamb Tagine with German Spices",
+    "tags": [
+      "german",
+      "mexican",
+      "lamb",
+      "tagine",
+      "one-pot"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 170,
+    "shard": "c"
+  },
+  {
+    "slug": "classic-chinese-tofu-mapo-tofu--french",
+    "title": "Tofu Bourguignon",
+    "tags": [
+      "french",
+      "stew",
+      "tofu",
+      "comfort-food"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 50,
+    "shard": "c"
+  },
+  {
+    "slug": "charred-crispy-tunisian-kid-friendly-tagine--vegetarian",
+    "title": "Vegetarian Charred Vegetable Tagine",
+    "tags": [
+      "tagine",
+      "vegetarian",
+      "lunch",
+      "mediterranean"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 35,
+    "shard": "c"
+  },
+  {
+    "slug": "charred-crispy-tunisian-kid-friendly-tagine--vegan",
+    "title": "Charred Tunisian Tagine Stew",
+    "tags": [
+      "vegan",
+      "north-african",
+      "tagine"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 45,
+    "shard": "c"
+  },
+  {
+    "slug": "crunchy-dutch-bhuna-fried-rice--chinese",
+    "title": "Bhuna Fried Rice",
+    "tags": [
+      "chinese",
+      "fried-rice",
+      "vegetarian"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 20,
     "shard": "c"
   }
 ]
