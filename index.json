@@ -11181,16 +11181,15 @@
   },
   {
     "slug": "cozy-japanese-sugar-dumplings",
-    "title": "Cozy Japanese Sugar Dumplings",
+    "title": "Pan-Seared Dumplings with Sugar Glaze",
     "tags": [
-      "cozy",
-      "dessert",
-      "japanese",
-      "low-sodium",
-      "sweet"
+      "sweet",
+      "savory",
+      "japanesecuisine",
+      "dinner"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
     "shard": "c"
   },
   {
@@ -35060,6 +35059,33 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "citrusy-greek-cornmeal-stir-fry--german",
+    "title": "German-Style Corn Fritters",
+    "tags": [
+      "german",
+      "corn",
+      "fritters",
+      "snack",
+      "side-dish"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 22,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-fatty-brazilian-gherkin-delight-bites--vegan",
+    "title": "Brazilian Delight Gherkin Bites",
+    "tags": [
+      "vegan",
+      "snack",
+      "brazilian",
+      "gherkin"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 22,
     "shard": "c"
   }
 ]
