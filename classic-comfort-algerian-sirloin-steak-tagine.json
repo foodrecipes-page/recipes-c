@@ -1,0 +1,94 @@
+{
+  "slug": "classic-comfort-algerian-sirloin-steak-tagine",
+  "title": "Sirloin Tagine Stew",
+  "description": "A hearty Algerian-inspired stew made with sirloin, vegetables, and aromatic spices.",
+  "cuisine": "Algerian",
+  "diet": [
+    "comfort",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sirloin steak",
+      "amount": "500g"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Brown the sirloin on all sides, then set aside.",
+    "Add more oil if needed, then cook the onion and garlic until softened.",
+    "Add the carrots and potatoes, cooking for 5 minutes.",
+    "Add the cumin, coriander, and paprika, cooking for 1 minute.",
+    "Add the chickpeas, browned sirloin, and enough water to cover.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 1 hour.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "comfort-food",
+    "stew",
+    "sirloin"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/classic-comfort-algerian-sirloin-steak-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T00:14:41.264Z"
+}
