@@ -8894,16 +8894,15 @@
   },
   {
     "slug": "classic-comfort-algerian-sirloin-steak-tagine",
-    "title": "Classic Comfort Algerian Sirloin Steak Tagine",
+    "title": "Sirloin Tagine Stew",
     "tags": [
-      "algerian-cuisine",
+      "algerian",
       "comfort-food",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "stew",
+      "sirloin"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 110,
+    "totalTimeMin": 80,
     "shard": "c"
   },
   {
@@ -35036,6 +35035,31 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 20,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-sweet-adventurous-pork-belly-crumble--german",
+    "title": "Crispy Pork Belly Crumble",
+    "tags": [
+      "german",
+      "pork",
+      "crispy",
+      "sweet"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-savory-shungiku-pancake--japanese",
+    "title": "Japanese Savory Pancake with Shungiku",
+    "tags": [
+      "japanese",
+      "savory",
+      "vegetarian"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
     "shard": "c"
   }
 ]
