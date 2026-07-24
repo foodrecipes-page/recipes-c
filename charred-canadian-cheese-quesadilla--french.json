@@ -1,0 +1,64 @@
+{
+  "slug": "charred-canadian-cheese-quesadilla--french",
+  "title": "French-Style Quesadilla",
+  "description": "A unique fusion of French and Mexican cuisine, this French-Style Quesadilla combines the flavors of charred onions and Canadian bacon with melted cheese inside a crispy tortilla.",
+  "cuisine": "french",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Charred Onions",
+      "amount": "1/2 cup",
+      "notes": "caramelized"
+    },
+    {
+      "name": "Canadian Bacon",
+      "amount": "4 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "Cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Quesadilla",
+      "amount": "4 tortillas",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat.",
+    "Cook the Canadian bacon for 2-3 minutes per side, or until crispy.",
+    "Add the charred onions to the skillet and cook for an additional 1-2 minutes.",
+    "Place a tortilla in the skillet and sprinkle shredded cheese on half of the tortilla.",
+    "Add the cooked Canadian bacon and charred onions on top of the cheese.",
+    "Fold the tortilla in half and cook for 2-3 minutes, or until the cheese is melted and the tortilla is crispy.",
+    "Flip the quesadilla and cook for an additional 2-3 minutes, or until the other side is crispy.",
+    "Repeat with the remaining ingredients.",
+    "Cut the quesadillas into wedges and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "mexican",
+    "quesadilla",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/charred-canadian-cheese-quesadilla--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T08:40:23.300Z"
+}
