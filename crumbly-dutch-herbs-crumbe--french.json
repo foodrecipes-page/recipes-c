@@ -1,0 +1,83 @@
+{
+  "slug": "crumbly-dutch-herbs-crumbe--french",
+  "title": "Crumble Tarts",
+  "description": "A classic French dessert, these crumble tarts are filled with a rich apple frangipane and topped with a crunchy crumble made from crumbly Dutch butter.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "crumbly butter",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "dutch pastry dough",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "frangipane filling",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup",
+      "notes": "granulated"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the puff pastry and cut into squares.",
+    "Place a spoonful of frangipane filling in the center of each square.",
+    "Fold the pastry squares in half to form triangles and press edges to seal.",
+    "In a small bowl, mix together crumbly butter, sugar, eggs, vanilla extract, cinnamon, and nutmeg.",
+    "Use a pastry brush to apply the crumble mixture to the tops of the tarts.",
+    "Bake for 25-30 minutes, or until golden brown.",
+    "Let cool before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "tart",
+    "dessert",
+    "apple"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crumbly-dutch-herbs-crumbe--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T07:16:36.528Z"
+}
