@@ -1,0 +1,84 @@
+{
+  "slug": "crispy-bitter-beef-cutlet--german",
+  "title": "Schnitzel With German Bitter Greens",
+  "description": "A classic German dish featuring crispy breaded cutlet served with a side of bitter greens.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef cutlet",
+      "amount": "4",
+      "notes": "pounded thin"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for breading"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "1 cup",
+      "notes": "for breading"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "sauerbraten greens",
+      "amount": "4 cups",
+      "notes": "such as kale or collard greens"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the cutlet with salt and pepper.",
+    "Dredge the cutlet in flour, shaking off excess.",
+    "Dip the cutlet in beaten eggs, coating completely.",
+    "Roll the cutlet in breadcrumbs, pressing gently to adhere.",
+    "Heat butter in a large skillet over medium-high heat.",
+    "Add the breaded cutlet and fry for 2-3 minutes on each side, until golden brown and cooked through.",
+    "Transfer the cutlet to a plate and cover with foil to keep warm.",
+    "In the same skillet, add the sauerbraten greens and cook until wilted, about 5 minutes.",
+    "Serve the schnitzel with the sauerbraten greens on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "schnitzel",
+    "beef",
+    "bitter greens"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-bitter-beef-cutlet--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T11:12:55.509Z"
+}
