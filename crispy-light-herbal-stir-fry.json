@@ -1,0 +1,80 @@
+{
+  "slug": "crispy-light-herbal-stir-fry",
+  "title": "Herbal Stir Fry",
+  "description": "A quick and easy stir fry with a hint of herbal flavor.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bok Choy",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Herbal Stir Fry Sauce",
+      "amount": "2 tablespoons",
+      "notes": "Make by mixing together 1 tablespoon soy sauce, 1 tablespoon honey, 1 tablespoon olive oil, and 1 teaspoon dried herbs like thyme or rosemary."
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Light Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Crispy Noodles",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the Light Oil in a large skillet or wok over medium-high heat.",
+    "Add the Garlic and Ginger and stir-fry for 1 minute.",
+    "Add the Bok Choy and stir-fry for 2-3 minutes, or until it starts to wilt.",
+    "Add the Herbal Stir Fry Sauce and stir-fry for another minute.",
+    "Add the Crispy Noodles and stir-fry for another minute, until they are well coated with the sauce.",
+    "Season with Salt and Pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "herbal",
+    "stirfry",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-light-herbal-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T10:33:57.857Z"
+}
