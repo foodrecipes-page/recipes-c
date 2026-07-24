@@ -1,0 +1,68 @@
+{
+  "slug": "chewy-sweet-ethiopian-solo-beans-wot--vegan",
+  "title": "Sweet Ethiopian Wot Stew",
+  "description": "A flavorful vegan stew inspired by traditional Ethiopian cuisine, made with sweet potatoes and beans.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "beans",
+      "amount": "1 can",
+      "notes": "15 oz"
+    },
+    {
+      "name": "wot",
+      "amount": "2 cups",
+      "notes": "Ethiopian spice blend"
+    },
+    {
+      "name": "chewy",
+      "amount": "1 cup",
+      "notes": "dried chickpeas"
+    },
+    {
+      "name": "solo",
+      "amount": "2 medium",
+      "notes": "onions"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add the onions and cook until softened.",
+    "Add the chickpeas and cook for 5 minutes.",
+    "Add the sweet potatoes and cook for 5 minutes.",
+    "Add the Ethiopian spice blend and cook for 1 minute.",
+    "Add the beans and vegetable broth. Bring to a boil.",
+    "Reduce heat to low and simmer for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or with injera."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "ethiopian",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 80,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/chewy-sweet-ethiopian-solo-beans-wot--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T04:36:19.738Z"
+}
