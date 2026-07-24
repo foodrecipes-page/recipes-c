@@ -35182,5 +35182,82 @@
     "cuisine": "Latin American",
     "totalTimeMin": 30,
     "shard": "c"
+  },
+  {
+    "slug": "crispy-chinese-shrimp-wonton-soup--italian",
+    "title": "Italian Wonton Soup",
+    "tags": [
+      "italian",
+      "soup",
+      "shrimp",
+      "wonton"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "c"
+  },
+  {
+    "slug": "creamy-tunisian-pistachio-tagine--chinese",
+    "title": "Tunisian Chicken Tagine Stir Fry",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "tagine",
+      "pistachio"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "c"
+  },
+  {
+    "slug": "creamy-crispy-dutch-bread-bake--italian",
+    "title": "Italian Bread Crusted Baked Dutch Delight",
+    "tags": [
+      "italian",
+      "bread",
+      "dessert",
+      "sweet"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 50,
+    "shard": "c"
+  },
+  {
+    "slug": "caramelize-mexican-poblano-stir-fry--japanese",
+    "title": "Pan-Seared Poblano Chicken",
+    "tags": [
+      "japanesecuisine",
+      "chicken",
+      "poblano"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 30,
+    "shard": "c"
+  },
+  {
+    "slug": "creamy-midnight-lemon-stir-fry--japanese",
+    "title": "Japanese Midnight Lemon Chicken",
+    "tags": [
+      "japanese",
+      "chicken",
+      "fried-chicken",
+      "lemon",
+      "cream-sauce"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "c"
+  },
+  {
+    "slug": "charred-tender-british-rum-eton-mess--chinese",
+    "title": "Eton Mess Rumbled Chinese Rice Pudding",
+    "tags": [
+      "chinese-dessert",
+      "eton-mess",
+      "rice-pudding"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "c"
   }
 ]
