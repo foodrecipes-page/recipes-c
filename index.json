@@ -12397,16 +12397,15 @@
   },
   {
     "slug": "creamy-copper-indian-cheddar-cheese-curry",
-    "title": "Creamy Copper Indian Cheddar Cheese Curry",
+    "title": "Cheesy Indian Curry",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "indian-cuisine",
-      "one-pot",
-      "vegetarian"
+      "indian",
+      "curry",
+      "cheese",
+      "dinner"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 45,
     "shard": "c"
   },
   {
@@ -29049,17 +29048,14 @@
   },
   {
     "slug": "cured-pork-wok-burger",
-    "title": "Cured Pork Wok Burger",
+    "title": "Pan-Seared Pork Burger",
     "tags": [
-      "breakfast",
-      "burger",
-      "gluten-free",
-      "kosher-friendly",
-      "syrian",
-      "wok-seared"
+      "burgers",
+      "pork",
+      "american"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 35,
+    "cuisine": "American",
+    "totalTimeMin": 22,
     "shard": "c"
   },
   {
@@ -35086,6 +35082,31 @@
     ],
     "cuisine": null,
     "totalTimeMin": 22,
+    "shard": "c"
+  },
+  {
+    "slug": "cwholesome-floral-chestnut-pilaf--vegan",
+    "title": "Vegan Chestnut Pilaf Bowl",
+    "tags": [
+      "vegan",
+      "gluten-free",
+      "chestnut",
+      "pilaf"
+    ],
+    "cuisine": "mediterranean",
+    "totalTimeMin": 40,
+    "shard": "c"
+  },
+  {
+    "slug": "charred-crunchy-romantic-egyptian-bramley-apples-tagine--japanese",
+    "title": "Charred Apple Tagine",
+    "tags": [
+      "japanese",
+      "vegetarian",
+      "dessert"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 40,
     "shard": "c"
   }
 ]
