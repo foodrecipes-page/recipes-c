@@ -25219,18 +25219,15 @@
   },
   {
     "slug": "crumbly-sweet-syrian-almond-stir-fry",
-    "title": "Crumbly Sweet Syrian Almond Stir-Fry",
+    "title": "Sweet Syrian Crumble",
     "tags": [
+      "syrian",
       "dessert",
       "sweet",
-      "gluten-free",
-      "vegan",
-      "stir-fry",
-      "crumbly",
-      "midnight-craving"
+      "crumble"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 25,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 60,
     "shard": "c"
   },
   {
@@ -35107,6 +35104,45 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 40,
+    "shard": "c"
+  },
+  {
+    "slug": "charred-crumbly-slovakian-shrimp-tagliere--vegan",
+    "title": "Vegan Slovakian Style Charred Vegetable Tagliere",
+    "tags": [
+      "vegan",
+      "slovakian",
+      "charred"
+    ],
+    "cuisine": "slovakian",
+    "totalTimeMin": 45,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-greek-renkon-lotus-root-saute--japanese",
+    "title": "Renkon Tempura with Lotus Root",
+    "tags": [
+      "japanese",
+      "tempura",
+      "lotus-root",
+      "renkon",
+      "snack"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "creamy-saudi-almond-grill--gluten-free",
+    "title": "Almond and Creamy Saudi Kebabs",
+    "tags": [
+      "gluten-free",
+      "kebabs",
+      "almond",
+      "saudi"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 25,
     "shard": "c"
   }
 ]
