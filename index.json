@@ -16141,16 +16141,15 @@
   },
   {
     "slug": "crisp-earthy-beetroot-stir-fry",
-    "title": "Crisp Earthy Beetroot Stir-fry",
+    "title": "Roasted Beetroot Salad with Crispy Shallots",
     "tags": [
-      "beetroot-stir-fry",
-      "gluten-free",
-      "korean-style",
-      "earthly-flavor",
-      "crisp-dish"
+      "beetroot",
+      "salad",
+      "roasted",
+      "crispy-shallots"
     ],
-    "cuisine": "Korean",
-    "totalTimeMin": 45,
+    "cuisine": "European",
+    "totalTimeMin": 65,
     "shard": "c"
   },
   {
@@ -20585,15 +20584,15 @@
   },
   {
     "slug": "crispy-light-herbal-stir-fry",
-    "title": "Crispy Light Herbal Stir-fry",
+    "title": "Herbal Stir Fry",
     "tags": [
-      "crispy",
       "herbal",
-      "stir-fry",
-      "pescatarian-friendly"
+      "stirfry",
+      "quick",
+      "easy"
     ],
-    "cuisine": "Brazilian",
-    "totalTimeMin": 45,
+    "cuisine": null,
+    "totalTimeMin": 20,
     "shard": "c"
   },
   {
@@ -35350,6 +35349,57 @@
     ],
     "cuisine": null,
     "totalTimeMin": 35,
+    "shard": "c"
+  },
+  {
+    "slug": "citrusy-roasted-ukrainian-cumin-fritters--french",
+    "title": "Pan-Seared Duck Breast with Citrus and Cumin",
+    "tags": [
+      "french",
+      "duck",
+      "citrus",
+      "cumin"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 45,
+    "shard": "c"
+  },
+  {
+    "slug": "crunchy-steamed-jamaican-sprouts-dumplings--chinese",
+    "title": "Steamed Dumplings with Jamaican Sprouts",
+    "tags": [
+      "chinese",
+      "dumplings",
+      "vegetarian"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "c"
+  },
+  {
+    "slug": "crunchy-show-off-saudi-arabian-buttery-tagine--german",
+    "title": "Saudi Arabian Tagine with German Twist",
+    "tags": [
+      "german",
+      "north-african",
+      "chicken",
+      "rice",
+      "dates"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-roasted-potato-stir-fry--chinese",
+    "title": "Crispy Roasted Potatoes Stir Fry",
+    "tags": [
+      "chinese",
+      "vegetarian",
+      "easy-dinner"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 40,
     "shard": "c"
   }
 ]
