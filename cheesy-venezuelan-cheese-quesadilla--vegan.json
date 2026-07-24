@@ -1,0 +1,52 @@
+{
+  "slug": "cheesy-venezuelan-cheese-quesadilla--vegan",
+  "title": "Venezuelan Quesadilla",
+  "description": "A vegan twist on the classic Venezuelan dish. This recipe features a crispy tortilla filled with melted cheese and savory flavors.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "quesadilla",
+      "amount": "4"
+    },
+    {
+      "name": "cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "cheesy",
+      "amount": "1/4 cup, grated"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium heat.",
+    "Place a quesadilla in the skillet and sprinkle with cheese and cheesy.",
+    "Cook for 2-3 minutes or until the tortilla is crispy and the cheese is melted.",
+    "Flip the quesadilla and cook for an additional 2 minutes.",
+    "Repeat with the remaining quesadillas.",
+    "Cut into wedges and serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "venezuelan",
+    "quesadilla"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/cheesy-venezuelan-cheese-quesadilla--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T11:27:52.136Z"
+}
