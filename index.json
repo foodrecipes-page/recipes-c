@@ -12292,17 +12292,15 @@
   },
   {
     "slug": "creamy-coconut-peruvian-chicken-shoyu-ramen-aji-de-gallina",
-    "title": "Creamy Coconut Peruvian Chicken Shoyu Ramen Aji-De-Gallina",
+    "title": "Peruvian Chicken Ramen Bowl",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "low-carb",
-      "one-pan",
-      "vegan-friendly",
-      "weeknight"
+      "peruvian",
+      "chicken",
+      "ramen",
+      "fusion"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "c"
   },
   {
@@ -14930,18 +14928,15 @@
   },
   {
     "slug": "creamy-smoky-moroccan-lamb-tagine",
-    "title": "Creamy Smoky Moroccan Lamb Tagine",
+    "title": "Smoky Lamb Tagine",
     "tags": [
-      "comfort-food",
-      "kosher",
       "lamb",
-      "moroccan",
-      "one-pot",
-      "slow-cooker",
-      "tagine"
+      "tagine",
+      "north-african",
+      "stew"
     ],
-    "cuisine": "Moroccan",
-    "totalTimeMin": 180,
+    "cuisine": "North African",
+    "totalTimeMin": 110,
     "shard": "c"
   },
   {
@@ -28298,17 +28293,15 @@
   },
   {
     "slug": "crunchy-spicy-dutch-fennel-skillet",
-    "title": "Crunchy Spicy Dutch Fennel Skillet",
+    "title": "Pan-Seared Fennel with a Crunchy Dutch Spice Crust",
     "tags": [
-      "dutch-cuisine",
-      "gluten-free",
-      "low-fat",
-      "one-pan",
-      "spicy",
-      "weeknight"
+      "dutch",
+      "fennel",
+      "crunchy",
+      "spicy"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 35,
+    "totalTimeMin": 20,
     "shard": "c"
   },
   {
@@ -34940,6 +34933,44 @@
     ],
     "cuisine": "Mexican",
     "totalTimeMin": 40,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-polish-mint-pudding--gluten-free",
+    "title": "Polish Mint Pudding Dessert",
+    "tags": [
+      "polish",
+      "mint",
+      "pudding"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 50,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-nostalgic-saudia-sesame-stir-fry--gluten-free",
+    "title": "Saudia-Style Stir Fry",
+    "tags": [
+      "gluten-free",
+      "saudia-style",
+      "stir-fry"
+    ],
+    "cuisine": "Saudi",
+    "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "citrusy-creamy-indulgent-apricot-stir-fry--indian",
+    "title": "Apricot Stir Fry with Citrus Cream Sauce",
+    "tags": [
+      "indian",
+      "stir-fry",
+      "apricot",
+      "citrus",
+      "cream"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
     "shard": "c"
   }
 ]
