@@ -20407,15 +20407,17 @@
   },
   {
     "slug": "crispy-korean-beef-stir-fry",
-    "title": "Crispy Korean Beef Stir-fry",
+    "title": "Stir Fry Beef",
     "tags": [
-      "spicy",
-      "crispy",
       "korean",
-      "comforting"
+      "beef",
+      "stirfry",
+      "asian",
+      "quick",
+      "easy"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "c"
   },
   {
@@ -21382,16 +21384,15 @@
   },
   {
     "slug": "crispy-pepper-crunch",
-    "title": "Crispy Pepper Crunch",
+    "title": "Crispy Crunchy Chicken Bites",
     "tags": [
-      "crispy",
-      "kenyan",
-      "nutty",
-      "pepper",
-      "low-carb"
+      "chicken",
+      "snack",
+      "easy",
+      "oven-baked"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 17,
+    "cuisine": "American",
+    "totalTimeMin": 22,
     "shard": "c"
   },
   {
@@ -35271,6 +35272,59 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 45,
+    "shard": "c"
+  },
+  {
+    "slug": "citrusy-comforting-brazilian-mussels-tagine--chinese",
+    "title": "Citrusy Mussels Tagine",
+    "tags": [
+      "chinese",
+      "seafood",
+      "mussels",
+      "tagine",
+      "citrusy"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "citrusy-juicy-croatian-pork-cutlets--japanese",
+    "title": "Tonkatsu Cutlets",
+    "tags": [
+      "tonkatsu",
+      "japanese",
+      "breaded",
+      "fried",
+      "pork"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 28,
+    "shard": "c"
+  },
+  {
+    "slug": "cornmeal-crisps-with-pickles--vegetarian",
+    "title": "Crunchy Cornbread Bites",
+    "tags": [
+      "snack",
+      "vegetarian",
+      "american"
+    ],
+    "cuisine": "american",
+    "totalTimeMin": 22,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-peruvian-shrimp-ceviche--indian",
+    "title": "Peruvian Shrimp Ceviche with Indian Twist",
+    "tags": [
+      "indian",
+      "peruvian",
+      "seafood",
+      "appetizer"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 15,
     "shard": "c"
   }
 ]
