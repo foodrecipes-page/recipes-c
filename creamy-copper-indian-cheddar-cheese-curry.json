@@ -1,0 +1,88 @@
+{
+  "slug": "creamy-copper-indian-cheddar-cheese-curry",
+  "title": "Cheesy Indian Curry",
+  "description": "A creamy and flavorful Indian-inspired cheese curry, perfect for a weeknight dinner.",
+  "cuisine": "Indian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Curry",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Cheese",
+      "amount": "1/2 cup, grated"
+    },
+    {
+      "name": "Copper Potatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp, grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Melt butter in a large saucepan over medium heat.",
+    "Add onion, ginger and garlic and cook until the onion is translucent.",
+    "Add curry powder and cook for 1 minute.",
+    "Add potatoes and cook for 5 minutes.",
+    "Add heavy cream and bring to a simmer.",
+    "Reduce heat to low and add cheddar and cheese. Stir until melted and smooth.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired.",
+    "Serve over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "curry",
+    "cheese",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-copper-indian-cheddar-cheese-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T02:35:40.527Z"
+}
