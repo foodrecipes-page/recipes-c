@@ -1,0 +1,84 @@
+{
+  "slug": "crispy-sweet-adventurous-pork-belly-crumble--german",
+  "title": "Crispy Pork Belly Crumble",
+  "description": "A traditional German-inspired dish featuring a crispy pork belly topped with a sweet crumble.",
+  "cuisine": "german",
+  "diet": [
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "crumble",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "caramelized sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "crispy",
+      "amount": "1 cup",
+      "notes": "crushed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the pork belly with salt, pepper, and thyme.",
+    "In a pan, sear the pork belly until browned on all sides.",
+    "Transfer the pork to a baking dish and top with caramelized sugar and crispy.",
+    "Bake the pork for 20 minutes.",
+    "In a separate pan, toast the crumble over medium heat.",
+    "Sprinkle the toasted crumble over the pork.",
+    "Return the pork to the oven and bake for an additional 10 minutes.",
+    "Serve the crispy pork belly crumble hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "pork",
+    "crispy",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 60,
+    "carbs": 40,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-sweet-adventurous-pork-belly-crumble--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T23:36:47.260Z"
+}
