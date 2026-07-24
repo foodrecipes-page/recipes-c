@@ -1,0 +1,71 @@
+{
+  "slug": "creamy-crispy-dutch-bread-bake--italian",
+  "title": "Italian Bread Crusted Baked Dutch Delight",
+  "description": "A crispy Italian bread crusted baked delight with a creamy twist.",
+  "cuisine": "italian",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dutch Delight",
+      "amount": "250g"
+    },
+    {
+      "name": "Italian Bread",
+      "amount": "100g, crumbled"
+    },
+    {
+      "name": "Creamy Spread",
+      "amount": "50g"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Milk",
+      "amount": "50ml"
+    },
+    {
+      "name": "Sugar",
+      "amount": "20g"
+    },
+    {
+      "name": "Melted Butter",
+      "amount": "20g"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C.",
+    "Mix the crumbled Italian bread and melted butter.",
+    "Crust the Dutch Delight with the bread mixture.",
+    "In a separate bowl, mix the egg, milk, sugar, and creamy spread.",
+    "Place the crust on a baking sheet and bake for 20 minutes.",
+    "After 20 minutes, remove from the oven and pour the egg mixture over the crust.",
+    "Return to the oven and bake for an additional 15 minutes.",
+    "Let cool before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "bread",
+    "dessert",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-crispy-dutch-bread-bake--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T05:53:08.639Z"
+}
