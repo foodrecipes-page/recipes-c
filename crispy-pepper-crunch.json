@@ -1,0 +1,73 @@
+{
+  "slug": "crispy-pepper-crunch",
+  "title": "Crispy Crunchy Chicken Bites",
+  "description": "A simple and delicious snack recipe that combines crispy chicken with crunchy toppings.",
+  "cuisine": "American",
+  "diet": [
+    "non-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chicken breasts",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Crispy coating",
+      "amount": "1 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Crunchy pepper",
+      "amount": "1/4 cup",
+      "notes": "Green or red pepper, chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut chicken breasts into bite-sized pieces.",
+    "In a shallow dish, mix crispy coating and crunchy pepper.",
+    "Dip each chicken piece into the coating mixture, pressing gently to adhere.",
+    "Place coated chicken pieces on a baking sheet lined with parchment paper.",
+    "Drizzle with olive oil and sprinkle with salt and pepper to taste.",
+    "Bake for 12-15 minutes or until cooked through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "snack",
+    "easy",
+    "oven-baked"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 25,
+    "carbs": 0,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-pepper-crunch",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T07:24:41.731Z"
+}
