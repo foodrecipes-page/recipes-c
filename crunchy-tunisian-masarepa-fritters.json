@@ -1,0 +1,78 @@
+{
+  "slug": "crunchy-tunisian-masarepa-fritters",
+  "title": "Tunisian Masarepa Fritters",
+  "description": "A crispy and flavorful snack inspired by Tunisian cuisine, made with crispy fried fritters and masarepa cornmeal.",
+  "cuisine": "tunisian",
+  "diet": [
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "masarepa",
+      "amount": "1 cup",
+      "notes": "preferably pre-cooked"
+    },
+    {
+      "name": "fritters",
+      "amount": "1/2 cup",
+      "notes": "crunchy, finely chopped"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": "for masarepa mixture"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine masarepa, water, salt, pepper, and garlic powder. Mix well to form a dough.",
+    "2. Add the chopped fritters to the dough and mix until well combined.",
+    "3. Heat the olive oil in a large skillet over medium-high heat.",
+    "4. Using a spoon, drop small portions of the dough mixture into the hot oil.",
+    "5. Flatten the dough portions slightly with a spatula and fry for 2-3 minutes on each side, until golden brown.",
+    "6. Remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "7. Serve the fritters hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "tunisian",
+    "fritters",
+    "masarepa"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crunchy-tunisian-masarepa-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T02:11:58.527Z"
+}
