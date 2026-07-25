@@ -1,0 +1,73 @@
+{
+  "slug": "crispy-korean-carrot-stir-fry--thai",
+  "title": "Korean-Style Stir-Fried Carrots",
+  "description": "A quick and easy Thai-inspired stir-fry made with crispy carrots, inspired by Korean flavors.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "2 large"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large skillet or wok over medium-high heat.",
+    "Add garlic and ginger and stir-fry for 1 minute.",
+    "Add carrots and stir-fry for 3-4 minutes, or until they start to soften.",
+    "Add soy sauce, sugar, and sesame oil. Stir-fry for an additional 2-3 minutes, or until carrots are tender.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "thai",
+    "stirfry",
+    "carrots"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-korean-carrot-stir-fry--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T16:24:25.522Z"
+}
