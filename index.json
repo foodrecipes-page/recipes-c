@@ -22164,14 +22164,13 @@
   },
   {
     "slug": "crispy-show-off-saudic-almond-essence-stir-fry",
-    "title": "Crispy Show-off Saudic Almond Essence Stir-fry",
+    "title": "Crispy Almond Show",
     "tags": [
-      "almond essence",
-      "saudic dish",
-      "crispy snack"
+      "dessert",
+      "vegan"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 10,
+    "cuisine": null,
+    "totalTimeMin": 35,
     "shard": "c"
   },
   {
@@ -35877,6 +35876,44 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 35,
+    "shard": "c"
+  },
+  {
+    "slug": "citrusy-smoky-tunisian-chicken-tagine--chinese",
+    "title": "Smoky Chicken Tagine",
+    "tags": [
+      "chinese",
+      "chicken",
+      "tagine",
+      "smoky"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 60,
+    "shard": "c"
+  },
+  {
+    "slug": "caramelized-floral-coconut-spanish-stir-fry--italian",
+    "title": "Coconut Italian Panna Cotta with Caramelized Figs",
+    "tags": [
+      "italian",
+      "dessert",
+      "coconut",
+      "figs"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 30,
+    "shard": "c"
+  },
+  {
+    "slug": "creamy-norwegian-chwinamul-casserole--italian",
+    "title": "Italian Creamy Chwinamul Casserole",
+    "tags": [
+      "italian",
+      "casserole",
+      "vegetarian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 50,
     "shard": "c"
   }
 ]
