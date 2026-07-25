@@ -1,0 +1,61 @@
+{
+  "slug": "cheese-kimchi-crunchie--thai",
+  "title": "Kimchi Crunchie Fried Cheese Bites",
+  "description": "A crispy Thai-inspired appetizer with spicy kimchi and crunchy bits.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cheese",
+      "amount": "8 oz block of cheddar cheese",
+      "notes": "cut into small cubes"
+    },
+    {
+      "name": "kimchi",
+      "amount": "1 cup kimchi, chopped",
+      "notes": "spicy Korean fermented cabbage"
+    },
+    {
+      "name": "crunchie",
+      "amount": "1 cup crushed Crunchie bars",
+      "notes": "Australian chocolate bar for crunchy topping"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. In a bowl, mix together cheese cubes and chopped kimchi.",
+    "3. Scoop out small balls of the cheese-kimchi mixture, about 1-inch diameter.",
+    "4. Roll each ball between your palms to shape into a sphere.",
+    "5. Coat each cheese ball with crushed Crunchie bars, pressing gently to adhere.",
+    "6. Place coated cheese balls on a baking sheet lined with parchment paper.",
+    "7. Bake in preheated oven for 10-12 minutes, until cheese is melted and Crunchie is crispy.",
+    "8. Remove from oven and let cool for 2 minutes.",
+    "9. Serve warm, garnished with additional kimchi if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "appetizer",
+    "snack",
+    "cheese",
+    "kimchi"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/cheese-kimchi-crunchie--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T21:41:24.351Z"
+}
