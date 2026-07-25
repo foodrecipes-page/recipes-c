@@ -1,0 +1,88 @@
+{
+  "slug": "crispy-tangy-filipino-shrimp-skillet--mexican",
+  "title": "Crispy Shrimp Fajitas",
+  "description": "A flavorful and spicy Mexican dish made with crispy shrimp, sautéed with onions and bell peppers, served with warm flour tortillas.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "tangy",
+      "amount": "2 tablespoons",
+      "notes": "lime juice"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "flour tortillas",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "skillet",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the skillet over medium-high heat.",
+    "Add the sliced onions and bell peppers and cook until tender.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the shrimp and cook until pink and crispy.",
+    "Add the cumin and chili powder and stir to combine.",
+    "Warm the flour tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the fajitas by placing the shrimp and vegetable mixture onto the tortillas and serving with lime wedges."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "shrimp",
+    "fajitas",
+    "easy meal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-tangy-filipino-shrimp-skillet--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T02:35:01.751Z"
+}
