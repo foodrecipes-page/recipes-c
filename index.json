@@ -820,17 +820,14 @@
   },
   {
     "slug": "caramelized-sugar-sauce-saudi-arabian-romantic-dish-paella",
-    "title": "Romantic Saudi Arabian Paella",
+    "title": "Traditional Saudi Arabian Paella",
     "tags": [
-      "beef",
-      "easy-romantic",
-      "one-pan",
-      "romantic",
       "saudi-arabian",
-      "weeknight"
+      "paella",
+      "romantic-dinner"
     ],
-    "cuisine": "saudi arabian",
-    "totalTimeMin": 75,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 45,
     "shard": "c"
   },
   {
@@ -35839,6 +35836,47 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "charred-flaky-syrian-burrata-hash--indian",
+    "title": "Syrian Hash Buratta Naan",
+    "tags": [
+      "indian",
+      "snack",
+      "vegetarian",
+      "easy"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 20,
+    "shard": "c"
+  },
+  {
+    "slug": "cheese-kimchi-crunchie--thai",
+    "title": "Kimchi Crunchie Fried Cheese Bites",
+    "tags": [
+      "thai",
+      "appetizer",
+      "snack",
+      "cheese",
+      "kimchi"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 22,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-tangy-spanish-oranges-soup--chinese",
+    "title": "Crispy Spanish Orange Chicken",
+    "tags": [
+      "chicken",
+      "orange",
+      "spanish",
+      "crispy",
+      "chinese"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
     "shard": "c"
   }
 ]
