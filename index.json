@@ -13507,16 +13507,14 @@
   },
   {
     "slug": "creamy-irish-potato-casserole",
-    "title": "Creamy Irish Potato Casserole",
+    "title": "Irish Potato Casserole",
     "tags": [
-      "casserole",
+      "irish-potato-casserole",
       "comfort-food",
-      "irish-food",
-      "potatoes",
-      "puff-pastry"
+      "potato-casserole"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 75,
+    "totalTimeMin": 55,
     "shard": "c"
   },
   {
@@ -35953,6 +35951,59 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 12,
+    "shard": "c"
+  },
+  {
+    "slug": "crunchy-chinese-potato-stir-fry--japanese",
+    "title": "Japanese Crunchy Stir Fry",
+    "tags": [
+      "japanese",
+      "stir-fry",
+      "vegetarian",
+      "easy"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-smoky-kenyan-lamb-kebabs--thai",
+    "title": "Smoky Kenyan Lamb Kebabs with Crispy Thai Sauce",
+    "tags": [
+      "lamb",
+      "kebabs",
+      "thaifood",
+      "kenyanfood",
+      "bbq"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 38,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-mediterranean-horseradish-crumble--french",
+    "title": "French Crispy Chicken",
+    "tags": [
+      "french",
+      "chicken",
+      "crispy",
+      "horseradish"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 40,
+    "shard": "c"
+  },
+  {
+    "slug": "chili-carrot-dish--french",
+    "title": "French Carrot and Chili Tartine",
+    "tags": [
+      "french",
+      "lunch",
+      "vegetarian",
+      "easy"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
     "shard": "c"
   }
 ]
