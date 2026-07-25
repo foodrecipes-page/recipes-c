@@ -1,0 +1,88 @@
+{
+  "slug": "crunchy-chinese-chicken-noodles--german",
+  "title": "Chicken Noodle Soup",
+  "description": "A hearty German-inspired chicken noodle soup made with crunchy vegetables and savory chicken.",
+  "cuisine": "german",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 ounces",
+      "notes": "german-style egg noodles"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "crunchy vegetable mix",
+      "amount": "1 cup",
+      "notes": "such as bell peppers and snow peas"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add the chopped onion, carrot, and celery and sauté until tender, about 5 minutes.",
+    "Add the chicken breast and cook until browned, about 5-7 minutes.",
+    "Add the chicken broth and bring to a boil.",
+    "Reduce heat to medium-low and simmer for 10-12 minutes or until the chicken is cooked through.",
+    "Add the noodles and crunchy vegetable mix and cook for an additional 2-3 minutes or until the noodles are tender.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "chicken",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crunchy-chinese-chicken-noodles--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T15:53:14.922Z"
+}
