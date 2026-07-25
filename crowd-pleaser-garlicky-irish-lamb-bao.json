@@ -1,0 +1,80 @@
+{
+  "slug": "crowd-pleaser-garlicky-irish-lamb-bao",
+  "title": "Irish Lamb Bao",
+  "description": "A delicious and flavorful bao filled with slow-cooked Irish lamb, perfect for a cozy dinner.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "Bone-in for better flavor"
+    },
+    {
+      "name": "Pleaser garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Crowd-pleasing onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Irish stout beer",
+      "amount": "1 cup",
+      "notes": "Use a dark Irish stout"
+    },
+    {
+      "name": "Bao dough",
+      "amount": "1 package",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Bao filling oil",
+      "amount": "2 tablespoons",
+      "notes": "Vegetable oil"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the lamb shoulder with salt and pepper.",
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb until browned on all sides, about 2-3 minutes per side.",
+    "Add the minced garlic and chopped onion to the pot, cooking until the onion is translucent.",
+    "Add the Irish stout beer to the pot, scraping up any browned bits.",
+    "Transfer the pot to the preheated oven and slow-cook the lamb for 2-3 hours, or until tender.",
+    "While the lamb is cooking, prepare the bao dough according to package instructions.",
+    "Form the dough into small balls and let rest for 10 minutes.",
+    "Punch down the dough and roll out into thin circles.",
+    "Place a spoonful of the lamb mixture onto one half of the dough circle.",
+    "Fold the dough in half to enclose the filling, pressing the edges to seal.",
+    "Repeat with the remaining dough and lamb mixture.",
+    "Cook the bao on a baking sheet in a preheated oven at 400°F (200°C) for 10-12 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 210,
+  "totalTimeMin": 240,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish-lamb",
+    "bao",
+    "slow-cooked",
+    "garlic",
+    "stout-beer"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crowd-pleaser-garlicky-irish-lamb-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T12:32:23.282Z"
+}
