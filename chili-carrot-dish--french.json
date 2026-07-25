@@ -1,0 +1,81 @@
+{
+  "slug": "chili-carrot-dish--french",
+  "title": "French Carrot and Chili Tartine",
+  "description": "A simple French-inspired dish, combining roasted vegetables with a crusty bread and a dollop of creamy cheese.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Chili",
+      "amount": "1 small",
+      "notes": "seeded and sliced"
+    },
+    {
+      "name": "Bread",
+      "amount": "4 slices",
+      "notes": "baguette or rustic bread"
+    },
+    {
+      "name": "Cream cheese",
+      "amount": "8 ounces",
+      "notes": "softened"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Toss the carrot and chili slices with butter, salt, and pepper on a baking sheet.",
+    "Roast in the oven for 20-25 minutes, or until the vegetables are tender.",
+    "Meanwhile, toast the bread slices until lightly browned.",
+    "Spread a layer of cream cheese on each toasted bread slice.",
+    "Top the cream cheese with a spoonful of roasted vegetables.",
+    "Drizzle with honey, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "lunch",
+    "vegetarian",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/chili-carrot-dish--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T01:38:52.794Z"
+}
