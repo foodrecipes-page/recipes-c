@@ -1,0 +1,101 @@
+{
+  "slug": "comforting-middle-eastern-dish-tagine--indian",
+  "title": "Chicken and Vegetable Tagine",
+  "description": "A hearty, comforting Indian dish made with chicken, vegetables, and aromatic spices, slow-cooked in a rich tagine.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "pescetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "14 oz"
+    },
+    {
+      "name": "tagine spice mix",
+      "amount": "1 tablespoon",
+      "notes": "available at Indian grocery stores or online"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in the bottom of a clay or ceramic tagine over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and ginger and cook for 1 minute.",
+    "Add chicken and cook until browned, about 5 minutes.",
+    "Add carrots and bell pepper and cook for 5 minutes.",
+    "Stir in diced tomatoes, coconut milk, and tagine spice mix.",
+    "Bring to a simmer and cook, covered, for 20 minutes.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "indian-cuisine",
+    "one-pot-meal",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/comforting-middle-eastern-dish-tagine--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T13:19:20.051Z"
+}
