@@ -1,0 +1,81 @@
+{
+  "slug": "crispy-earthy-japanese-rice-bowl",
+  "title": "Japanese-Style Earthy Crispy Rice Bowl",
+  "description": "A simple and flavorful bowl dish that combines the crunch of crispy elements with the earthy flavors of Japanese cuisine.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Japanese Rice",
+      "amount": "1 cup",
+      "notes": "short-grain rice"
+    },
+    {
+      "name": "Earthy Mushrooms",
+      "amount": "1 cup sliced",
+      "notes": ""
+    },
+    {
+      "name": "Crispy Seaweed",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Green Onion",
+      "amount": "1/4 cup sliced",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook Japanese rice according to package instructions.",
+    "Heat sesame oil in a pan over medium-high heat.",
+    "Add sliced mushrooms and cook until tender.",
+    "Add crispy seaweed and cook for 1 minute.",
+    "Stir in soy sauce and cook for an additional minute.",
+    "In a separate pan, toast sesame seeds over low heat.",
+    "To assemble the bowls, place cooked rice in the bottom, followed by the mushroom-seaweed mixture, and top with sesame seeds and green onion.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "bowls",
+    "easy",
+    "rice",
+    "mushrooms",
+    "seaweed"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-earthy-japanese-rice-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T18:17:53.909Z"
+}
