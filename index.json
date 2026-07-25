@@ -987,15 +987,12 @@
   },
   {
     "slug": "cayenne-silky-russian-beets-soup",
-    "title": "Cayenne Silky Russian Beets Soup",
+    "title": "Russian Beet Soup",
     "tags": [
-      "sour-soup",
-      "cayenne",
-      "silky",
-      "egg-free",
-      "beet",
+      "beets",
+      "soup",
       "russian",
-      "vegan"
+      "vegetarian"
     ],
     "cuisine": "Russian",
     "totalTimeMin": 60,
@@ -3512,17 +3509,15 @@
   },
   {
     "slug": "cheesy-tunisian-cheese-tagine",
-    "title": "Cheesy Tunisian Cheese Tagine",
+    "title": "Tunisian Cheesy Tagine",
     "tags": [
       "tunisian",
       "cheesy",
-      "pressure-cook",
-      "kid-friendly",
-      "low-carb",
-      "comfort-food"
+      "tagine",
+      "north african"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 25,
+    "cuisine": "North African",
+    "totalTimeMin": 40,
     "shard": "c"
   },
   {
@@ -18599,20 +18594,17 @@
   },
   {
     "slug": "crispy-earthy-japanese-rice-bowl",
-    "title": "Crispy Earthy Japanese Rice Bowl",
+    "title": "Japanese-Style Earthy Crispy Rice Bowl",
     "tags": [
-      "low-sodium",
-      "high-protein",
-      "vegetarian",
-      "rice-bowl",
-      "post-workout",
       "japanese",
-      "crisp",
-      "earthy",
-      "quick"
+      "bowls",
+      "easy",
+      "rice",
+      "mushrooms",
+      "seaweed"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 40,
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
     "shard": "c"
   },
   {
@@ -35725,6 +35717,59 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 30,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-german-walnut-curry--italian",
+    "title": "Walnut Curry Pesto Pasta",
+    "tags": [
+      "italian",
+      "pesto",
+      "walnut",
+      "curry",
+      "pasta"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 18,
+    "shard": "c"
+  },
+  {
+    "slug": "chewy-vietnamese-cacao-cookies--keto",
+    "title": "Keto Vietnamese Chewy Cookies",
+    "tags": [
+      "keto",
+      "cookies",
+      "vietnamese",
+      "dessert"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 22,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-golden-polish-banana-curry--thai",
+    "title": "Thai Curry Banana Fritters",
+    "tags": [
+      "thai",
+      "dessert",
+      "fritters",
+      "banana",
+      "curry"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 20,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-crunchy-peruvian-fish-stir-fry--german",
+    "title": "German Fish Fry",
+    "tags": [
+      "german",
+      "fish-fry",
+      "beer-pairing"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
     "shard": "c"
   }
 ]
