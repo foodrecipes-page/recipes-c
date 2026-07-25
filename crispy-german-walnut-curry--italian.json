@@ -1,0 +1,81 @@
+{
+  "slug": "crispy-german-walnut-curry--italian",
+  "title": "Walnut Curry Pesto Pasta",
+  "description": "A twist on traditional pesto with the addition of walnut and curry for an aromatic and nutty Italian dish.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Walnuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Pesto",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Italian Pasta",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "Curry Powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Grated Parmesan",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to package instructions.",
+    "In a food processor, combine walnuts, pesto, curry powder, and garlic. Process until well combined and slightly smooth.",
+    "Add the processed walnut mixture to the cooked pasta and toss to combine.",
+    "Season with salt and black pepper to taste.",
+    "Top with grated Parmesan cheese and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "pesto",
+    "walnut",
+    "curry",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-german-walnut-curry--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T18:12:52.950Z"
+}
