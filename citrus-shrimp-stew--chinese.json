@@ -1,0 +1,84 @@
+{
+  "slug": "citrus-shrimp-stew--chinese",
+  "title": "Stir-Fried Shrimp with Citrus",
+  "description": "A quick and flavorful Chinese dish made with succulent shrimp and citrus, perfect for a weeknight dinner.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "orange",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "lemon",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "starch (cornstarch or flour)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the garlic and ginger and stir-fry for 30 seconds.",
+    "Add the shrimp and stir-fry for 2-3 minutes, until pink and cooked through.",
+    "Add the orange and lemon juice, soy sauce, and starch. Stir to combine.",
+    "Bring the mixture to a simmer and cook for 1-2 minutes, until the sauce has thickened.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately, garnished with citrus wedges if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "seafood",
+    "citrus"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 20,
+    "carbs": 15,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/citrus-shrimp-stew--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T13:05:24.827Z"
+}
