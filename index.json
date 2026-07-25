@@ -3769,17 +3769,15 @@
   },
   {
     "slug": "chewy-briny-showy-cream-cheese-bisque",
-    "title": "Chewy Briny Showy Cream Cheese Bisque",
+    "title": "Showy Chewy Biscuit Bites",
     "tags": [
-      "buddhist-friendly",
-      "dessert",
-      "gourmet",
-      "showy",
-      "spherified",
-      "vegan-friendly"
+      "biscuit",
+      "cheese",
+      "snack",
+      "appetizer"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 30,
+    "cuisine": "American",
+    "totalTimeMin": 27,
     "shard": "c"
   },
   {
@@ -6106,17 +6104,14 @@
   },
   {
     "slug": "citrusy-creamy-ukrainian-pinto-bean-bowl",
-    "title": "Citrusy Creamy Ukrainian Pinto Bean Bowl",
+    "title": "Bowl of Ukrainian Pinto Bean Stew",
     "tags": [
-      "brunch-ideas",
-      "high-fiber",
-      "spring-inspired",
-      "stone-bowl-recipes",
-      "ukrainian-cuisine",
-      "vegan-friendly"
+      "ukrainian",
+      "bean-stew",
+      "comfort-food"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 40,
     "shard": "c"
   },
   {
@@ -28679,17 +28674,15 @@
   },
   {
     "slug": "crunchy-tunisian-masarepa-fritters",
-    "title": "Crunchy Tunisian Masarepa Fritters",
+    "title": "Tunisian Masarepa Fritters",
     "tags": [
-      "crunchy",
+      "snack",
       "tunisian",
-      "masarepa",
       "fritters",
-      "paleo-friendly",
-      "herbal"
+      "masarepa"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 35,
+    "cuisine": "tunisian",
+    "totalTimeMin": 22,
     "shard": "c"
   },
   {
@@ -36003,6 +35996,62 @@
       "easy"
     ],
     "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "c"
+  },
+  {
+    "slug": "citrusy-med-tzatziki--vegan",
+    "title": "Vegan Tzatziki Salad",
+    "tags": [
+      "vegan",
+      "salad",
+      "tzatziki",
+      "cucumber",
+      "lemon"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 10,
+    "shard": "c"
+  },
+  {
+    "slug": "crunchy-fermented-indian-eggplant-baingan-bharta--french",
+    "title": "French Eggplant Bharta",
+    "tags": [
+      "french",
+      "eggplant",
+      "bharta",
+      "vegetarian",
+      "main-course"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 60,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-tangy-filipino-shrimp-skillet--mexican",
+    "title": "Crispy Shrimp Fajitas",
+    "tags": [
+      "mexican",
+      "shrimp",
+      "fajitas",
+      "easy meal"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 22,
+    "shard": "c"
+  },
+  {
+    "slug": "creamy-sweet-vietnamese-salmon-soup--japanese",
+    "title": "Sweet Japanese Salmon Soup",
+    "tags": [
+      "japanese",
+      "soup",
+      "salmon",
+      "sweet",
+      "coconut",
+      "comfort-food"
+    ],
+    "cuisine": "japanese",
     "totalTimeMin": 35,
     "shard": "c"
   }
