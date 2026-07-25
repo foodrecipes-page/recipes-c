@@ -1,0 +1,87 @@
+{
+  "slug": "creamy-garlic-norwegian-soup--german",
+  "title": "German Creamy Garlic Soup",
+  "description": "A hearty and comforting German-inspired soup made with creamy ingredients and a hint of garlic.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Norwegian salmon fillet",
+      "amount": "8 oz",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Melt butter in a large pot over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for an additional minute.",
+    "Sprinkle flour over onion mixture and cook for 1-2 minutes.",
+    "Gradually add chicken broth, whisking continuously.",
+    "Bring mixture to a simmer and cook until thickened, about 5 minutes.",
+    "Stir in heavy cream and cook for an additional 2-3 minutes.",
+    "Add salmon pieces and cook until heated through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped parsley if desired.",
+    "Heat soup to 165°F (74°C) to ensure food safety."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-garlic-norwegian-soup--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T03:11:45.595Z"
+}
