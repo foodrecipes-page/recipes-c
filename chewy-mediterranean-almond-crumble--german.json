@@ -1,0 +1,83 @@
+{
+  "slug": "chewy-mediterranean-almond-crumble--german",
+  "title": "German Apple Crumble",
+  "description": "A delicious German-style apple dessert topped with a crunchy almond crumble topping.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Apples",
+      "amount": "6 medium",
+      "notes": ""
+    },
+    {
+      "name": "Almond",
+      "amount": "1 cup sliced",
+      "notes": "chopped"
+    },
+    {
+      "name": "Mediteranean Almond Butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chewy Granola",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel, core, and slice the apples.",
+    "In a large bowl, combine the sliced apples, mediteranean almond butter, brown sugar, cinnamon, and salt. Mix until the apples are evenly coated.",
+    "Transfer the apple mixture to a 9x9-inch baking dish.",
+    "In a separate bowl, mix together the almond, chewy granola, and all-purpose flour.",
+    "Add the crumble mixture to the top of the apple mixture, spreading it evenly.",
+    "Bake for 35-40 minutes, or until the topping is golden brown and the apples are tender.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "dessert",
+    "apple",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/chewy-mediterranean-almond-crumble--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T03:25:56.132Z"
+}
