@@ -1,0 +1,72 @@
+{
+  "slug": "citrusy-med-tzatziki--vegan",
+  "title": "Vegan Tzatziki Salad",
+  "description": "A refreshing and healthy salad made with tzatziki sauce, citrusy flavors, and mixed greens.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cucumber",
+      "amount": "1 large",
+      "notes": "seedless"
+    },
+    {
+      "name": "Tzatziki sauce",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Mixed greens",
+      "amount": "4 cups",
+      "notes": "such as arugula, spinach, and lettuce"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine mixed greens, sliced red onion, and chopped fresh dill.",
+    "In a small bowl, whisk together tzatziki sauce and lemon juice.",
+    "Pour the tzatziki dressing over the salad and toss to combine.",
+    "Thinly slice the cucumber and add it to the salad.",
+    "Toss the salad gently to combine and serve immediately.",
+    "Garnish with additional fresh dill if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "salad",
+    "tzatziki",
+    "cucumber",
+    "lemon"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/citrusy-med-tzatziki--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T01:51:54.459Z"
+}
