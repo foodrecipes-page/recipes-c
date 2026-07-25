@@ -3224,16 +3224,15 @@
   },
   {
     "slug": "charred-tender-spanish-cabbage-paella",
-    "title": "Charred Tender Spanish Cabbage Paella",
+    "title": "Spanish Paella with Charred Cabbage",
     "tags": [
-      "gluten-free",
-      "hangover-cure",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "spanish",
+      "paella",
+      "charred-cabbage",
+      "seafood"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 55,
     "shard": "c"
   },
   {
@@ -15782,17 +15781,14 @@
   },
   {
     "slug": "crisp-caribbean-jamaican-corned-beef-hash",
-    "title": "Crisp Caribbean Jamaican Corned Beef Hash",
+    "title": "Hashed Beef with Caribbean Flair",
     "tags": [
-      "caribbean",
-      "corned-beef",
-      "jamaican",
-      "lacto-vegetarian",
-      "one-pan",
-      "weeknight"
+      "beef-hash",
+      "breakfast-recipe",
+      "caribbean-food"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 35,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 40,
     "shard": "c"
   },
   {
@@ -35653,6 +35649,72 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 35,
+    "shard": "c"
+  },
+  {
+    "slug": "chewy-ukrainian-poaching-dates--french",
+    "title": "French Poached Dates with Chewy Ukrainian Twist",
+    "tags": [
+      "french",
+      "dates",
+      "poaching",
+      "ukrainian",
+      "chewy"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "c"
+  },
+  {
+    "slug": "crunchy-oven-roasted-algerian-dried-mint-tagine--indian",
+    "title": "Spiced Chicken Tagine",
+    "tags": [
+      "tagine",
+      "indian",
+      "chicken",
+      "stew"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 70,
+    "shard": "c"
+  },
+  {
+    "slug": "charred-and-juicy-canadian-poutine-gratin--german",
+    "title": "Gratin Poutine mit Canadian Bacon",
+    "tags": [
+      "german",
+      "breakfast",
+      "brunch",
+      "gratin",
+      "poutine"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-korean-carrot-stir-fry--thai",
+    "title": "Korean-Style Stir-Fried Carrots",
+    "tags": [
+      "korean",
+      "thai",
+      "stirfry",
+      "carrots"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 15,
+    "shard": "c"
+  },
+  {
+    "slug": "comforting-filipino-celery-stir-fry--italian",
+    "title": "Italian-Style Stir Fry with Celery",
+    "tags": [
+      "italian",
+      "comforting",
+      "stir-fry"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
     "shard": "c"
   }
 ]
