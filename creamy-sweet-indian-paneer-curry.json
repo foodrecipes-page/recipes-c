@@ -1,0 +1,79 @@
+{
+  "slug": "creamy-sweet-indian-paneer-curry",
+  "title": "Paneer Curry",
+  "description": "A classic Indian dish made with paneer cheese in a rich and creamy curry sauce. Serve with steamed basmati rice or naan bread.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "250g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sweet curry sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onion, garlic, and ginger; sauté until the onion is translucent.",
+    "Add curry powder, garam masala, and cumin; cook for 1 minute.",
+    "Add paneer and cook until golden brown.",
+    "Add sweet curry sauce and heavy cream; stir well.",
+    "Bring the curry to a simmer and cook for 10-15 minutes.",
+    "Season with salt to taste.",
+    "Serve hot with steamed basmati rice or naan bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "paneer",
+    "curry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-sweet-indian-paneer-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T15:30:33.194Z"
+}
