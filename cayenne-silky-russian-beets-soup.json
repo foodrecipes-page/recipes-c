@@ -1,0 +1,82 @@
+{
+  "slug": "cayenne-silky-russian-beets-soup",
+  "title": "Russian Beet Soup",
+  "description": "A hearty and flavorful soup originating from Russia, made with roasted beets and a hint of spice.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cayenne",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "silky",
+      "amount": "2 tablespoons",
+      "notes": "silky tofu or vegetable oil"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "dill",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Toss the chopped beets with 1 tablespoon of silky in a bowl until coated.",
+    "Spread the beets on a baking sheet and roast in the oven for 30-40 minutes, or until tender.",
+    "In a large pot, heat 1 tablespoon of silky over medium heat.",
+    "Add the chopped onion and sauté until softened, about 5 minutes.",
+    "Add the minced garlic and sauté for another minute.",
+    "Add the roasted beets, cayenne (if using), chicken broth, and dill to the pot.",
+    "Bring the soup to a boil, then reduce the heat and simmer for 10-15 minutes.",
+    "Use an immersion blender to puree the soup until smooth.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with additional dill if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beets",
+    "soup",
+    "russian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/cayenne-silky-russian-beets-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T18:50:42.303Z"
+}
