@@ -1,0 +1,85 @@
+{
+  "slug": "chewytrio-chicken--japanese",
+  "title": "Chicken Teriyaki with Chewy Trio Crunch",
+  "description": "A delicious Japanese-inspired dish featuring chicken teriyaki with a crunchy topping made from chewy trio.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": null
+    },
+    {
+      "name": "chewy trio",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/2 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a small saucepan, combine soy sauce, honey, rice vinegar, and sesame oil. Bring to a boil over medium heat, then reduce heat to low and simmer for 5 minutes.",
+    "In a separate pan, cook chicken breast over medium-high heat until browned on both sides. Transfer to oven and bake for 15-20 minutes, or until cooked through.",
+    "In a separate pan, toast chewy trio over medium heat until crispy.",
+    "Slice cooked chicken into thin strips and serve with teriyaki sauce and topped with crispy chewy trio and green onions.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "chicken",
+    "teriyaki",
+    "crunchy",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/chewytrio-chicken--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T00:37:53.810Z"
+}
