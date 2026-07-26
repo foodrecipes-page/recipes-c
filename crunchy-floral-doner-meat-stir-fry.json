@@ -1,0 +1,83 @@
+{
+  "slug": "crunchy-floral-doner-meat-stir-fry",
+  "title": "Meat Kebab Stir Fry",
+  "description": "A quick and flavorful stir fry recipe that combines the taste of meat kebabs with the crunch of vegetables.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Meat",
+      "amount": "500g",
+      "notes": "Use lamb or beef"
+    },
+    {
+      "name": "Onion",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": null
+    },
+    {
+      "name": "Crunchy",
+      "amount": "1 cup",
+      "notes": "Use chopped nuts or seeds"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a wok or large skillet over medium-high heat.",
+    "Add the onion and bell pepper and stir-fry for 3-4 minutes.",
+    "Add the garlic and ginger and stir-fry for another minute.",
+    "Add the meat and stir-fry until browned, breaking it up into small pieces as it cooks.",
+    "Add the crunchy ingredients and stir-fry for another minute.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "kebab",
+    "meat",
+    "vegetables"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crunchy-floral-doner-meat-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T06:43:53.786Z"
+}
