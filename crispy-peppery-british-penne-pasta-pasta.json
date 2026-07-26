@@ -1,0 +1,84 @@
+{
+  "slug": "crispy-peppery-british-penne-pasta-pasta",
+  "title": "Penne Pasta Bake",
+  "description": "A classic British-inspired pasta dish, perfect for a weeknight dinner. This comforting casserole is loaded with pasta, cheese, and a hint of peppery flavor.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "500g"
+    },
+    {
+      "name": "penne",
+      "amount": "250g"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "200g"
+    },
+    {
+      "name": "crispy bacon bits",
+      "amount": "100g"
+    },
+    {
+      "name": "peppery olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Cook the pasta according to the package instructions until al dente.",
+    "In a large pan, heat the peppery olive oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the crispy bacon bits and cook until crispy.",
+    "In a large baking dish, combine the cooked pasta, onion mixture, and grated cheese.",
+    "Season with salt and black pepper to taste.",
+    "Bake in the preheated oven for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pasta",
+    "british",
+    "casserole",
+    "cheese",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-peppery-british-penne-pasta-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T16:05:55.693Z"
+}
