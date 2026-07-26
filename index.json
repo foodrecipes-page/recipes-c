@@ -12076,17 +12076,16 @@
   },
   {
     "slug": "creamy-chinese-corn-fried-rice",
-    "title": "Creamy Chinese Corn Fried Rice",
+    "title": "Creamy Fried Rice",
     "tags": [
       "chinese",
-      "comfort-food",
-      "monsoon",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "vegetarian",
+      "quick-and-easy",
+      "dinner",
+      "rice"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "c"
   },
   {
@@ -36455,6 +36454,19 @@
       "fajitas"
     ],
     "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "creamy-spicy-french-garlic-stir-fry--vegetarian",
+    "title": "Spicy French Vegetarian Stir Fry",
+    "tags": [
+      "spicy",
+      "vegetarian",
+      "french",
+      "stir-fry"
+    ],
+    "cuisine": "French",
     "totalTimeMin": 25,
     "shard": "c"
   }
