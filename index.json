@@ -12936,15 +12936,12 @@
   },
   {
     "slug": "creamy-filipino-rice-pilaf",
-    "title": "Filipino Rice Pilaf",
+    "title": "Filipino Creamy Rice Pilaf",
     "tags": [
-      "comfort-food",
-      "creamy",
       "filipino",
-      "keto-friendly",
-      "kid-friendly",
-      "one-pan",
-      "weeknight"
+      "rice",
+      "pilaf",
+      "creamy"
     ],
     "cuisine": "Filipino",
     "totalTimeMin": 30,
@@ -14010,15 +14007,14 @@
   },
   {
     "slug": "creamy-mexican-chocolate-stir-fry",
-    "title": "Creamy Mexican Chocolate Stir-fry",
+    "title": "Creamy Mexican Chocolate Stir Fry",
     "tags": [
-      "creamy",
       "mexican",
-      "chocolate",
-      "stir-fry"
+      "vegetarian",
+      "chocolate"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 15,
+    "totalTimeMin": 35,
     "shard": "c"
   },
   {
@@ -26588,14 +26584,15 @@
   },
   {
     "slug": "crunchy-floral-doner-meat-stir-fry",
-    "title": "Crunchy Floral Doner Meat Stir-fry",
+    "title": "Meat Kebab Stir Fry",
     "tags": [
-      "crunchy",
-      "floral",
-      "lazy-sunday"
+      "stir-fry",
+      "kebab",
+      "meat",
+      "vegetables"
     ],
-    "cuisine": "Korean",
-    "totalTimeMin": 60,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 35,
     "shard": "c"
   },
   {
@@ -36139,6 +36136,73 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 45,
+    "shard": "c"
+  },
+  {
+    "slug": "comforting-creamy-ukrainian-cheese-lasagna--german",
+    "title": "German Cheesy Lasagna Casserole",
+    "tags": [
+      "german",
+      "comforting",
+      "creamy",
+      "lasagna"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "c"
+  },
+  {
+    "slug": "crumbly-malaysian-nutmeg-crumble--german",
+    "title": "Traditional German Apple Strudel Crumble",
+    "tags": [
+      "german",
+      "apple",
+      "strudel",
+      "crumble",
+      "dessert"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 75,
+    "shard": "c"
+  },
+  {
+    "slug": "creamy-saudi-arabian-lamb-kebabs--german",
+    "title": "Lamb Kebabs with Creamy German Sauce",
+    "tags": [
+      "german",
+      "lamb",
+      "kebabs",
+      "creamy-sauce"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 27,
+    "shard": "c"
+  },
+  {
+    "slug": "chewy-vietnamese-cacao-cookies--indian",
+    "title": "Chewy Vietnamese Chocolate Cookies",
+    "tags": [
+      "chewy",
+      "vietnamese",
+      "chocolate",
+      "cookies",
+      "indian-inspired"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 27,
+    "shard": "c"
+  },
+  {
+    "slug": "charred-light-cornish-candy-wrap--japanese",
+    "title": "Japanese Style Cornish Wrap",
+    "tags": [
+      "japanese",
+      "cornish",
+      "wrap",
+      "easy-lunch"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 10,
     "shard": "c"
   }
 ]
