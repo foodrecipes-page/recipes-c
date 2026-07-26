@@ -1053,16 +1053,17 @@
   },
   {
     "slug": "char-grilled-indian-lamb-kebabs",
-    "title": "Char Grilled Indian Lamb Kebabs",
+    "title": "Grilled Lamb Kebabs",
     "tags": [
-      "dinner-ideas",
-      "grilled-meats",
-      "indian-food",
-      "kosher-friendly",
-      "lamb-recipes"
+      "lamb",
+      "kebabs",
+      "grilled",
+      "indian",
+      "char",
+      "gluten-free"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 50,
+    "cuisine": "indian",
+    "totalTimeMin": 40,
     "shard": "c"
   },
   {
@@ -10615,17 +10616,15 @@
   },
   {
     "slug": "cozy-cauliflower-melt",
-    "title": "Cozy Cauliflower Melt",
+    "title": "Cheesy Cauliflower Casserole",
     "tags": [
-      "cozy",
-      "nutty",
-      "silky",
-      "ukrainian",
-      "cauliflower",
-      "vegan-friendly"
+      "comfort-food",
+      "casserole",
+      "cheesy",
+      "vegetarian"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 45,
+    "cuisine": "American",
+    "totalTimeMin": 40,
     "shard": "c"
   },
   {
@@ -11596,19 +11595,16 @@
   },
   {
     "slug": "creamy-algerian-chickpeas-flatbread",
-    "title": "Creamy Algerian Chickpeas Flatbread",
+    "title": "Algerian Chickpea Pita",
     "tags": [
       "algerian",
+      "vegetarian",
+      "lunch",
       "chickpeas",
-      "flatbread",
-      "postworkout",
-      "tangy",
-      "creamy",
-      "nutfree",
-      "vegetarian"
+      "flatbread"
     ],
-    "cuisine": "algerian",
-    "totalTimeMin": 25,
+    "cuisine": "north african",
+    "totalTimeMin": 22,
     "shard": "c"
   },
   {
@@ -36340,6 +36336,31 @@
     ],
     "cuisine": null,
     "totalTimeMin": 22,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-cedar-ukrainian-teque-os-skewers--indian",
+    "title": "Cedar Skewers with Ukrainian Spices",
+    "tags": [
+      "grilled",
+      "indian-inspired",
+      "ukrainian-spices"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "crunchy-minty-peppercorn-stir-fry--thai",
+    "title": "Thai Stir Fry",
+    "tags": [
+      "thai-food",
+      "stir-fry",
+      "chicken-recipe",
+      "vegetable-recipe"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
     "shard": "c"
   }
 ]
