@@ -1,0 +1,78 @@
+{
+  "slug": "crisp-russian-tomato-soup",
+  "title": "Borscht Soup",
+  "description": "A traditional Russian beet-based soup made with vegetables and served with a dollop of sour cream. This recipe is perfect for a cold winter's day.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "2 cups, peeled and grated"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 cups, diced"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup, peeled and grated"
+    },
+    {
+      "name": "onion",
+      "amount": "1 cup, finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "crisp lettuce",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "soup broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup, for serving"
+    },
+    {
+      "name": "dill",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "In a large pot, sauté the onion and garlic over medium heat until softened.",
+    "Add the grated beets and carrots, and cook for 10 minutes, stirring occasionally.",
+    "Add the diced tomato and cook for an additional 5 minutes.",
+    "Pour in the soup broth and bring to a boil.",
+    "Reduce heat and simmer for 20-25 minutes, or until the vegetables are tender.",
+    "Stir in the chopped dill and season with salt and pepper to taste.",
+    "Serve hot, topped with a dollop of sour cream and a sprinkle of chopped crisp lettuce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "russian",
+    "beets"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crisp-russian-tomato-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T05:05:16.154Z"
+}
