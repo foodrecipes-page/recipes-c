@@ -16647,17 +16647,14 @@
   },
   {
     "slug": "crisp-russian-tomato-soup",
-    "title": "Crisp Russian Tomato Soup",
+    "title": "Borscht Soup",
     "tags": [
-      "russian",
-      "tomato",
       "soup",
-      "crisp",
-      "lowcalorie",
-      "vegetarian"
+      "russian",
+      "beets"
     ],
-    "cuisine": "russian",
-    "totalTimeMin": 20,
+    "cuisine": "Russian",
+    "totalTimeMin": 45,
     "shard": "c"
   },
   {
@@ -36116,6 +36113,32 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 50,
+    "shard": "c"
+  },
+  {
+    "slug": "charred-kenyan-sirloin-steak-paella--german",
+    "title": "Pan-Seared Sirloin Steak with Kenyan Spices",
+    "tags": [
+      "german",
+      "steak",
+      "kenyan",
+      "sirloin",
+      "paella"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 30,
+    "shard": "c"
+  },
+  {
+    "slug": "crumbly-vegetarian-herbal-crumble--mexican",
+    "title": "Vegetarian Crumble Tacos",
+    "tags": [
+      "mexican",
+      "vegetarian",
+      "taco"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 45,
     "shard": "c"
   }
 ]
