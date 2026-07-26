@@ -1,0 +1,76 @@
+{
+  "slug": "crispy-smoke-corn-delight",
+  "title": "Smoked Corn Delight",
+  "description": "A sweet and smoky side dish featuring grilled corn with crispy toppings.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Corn on the Cob",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Crispy Bacon",
+      "amount": "4 slices",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Grill corn on the cob for 10-12 minutes, turning frequently.",
+    "Brush corn with butter, then sprinkle with smoked paprika and season with salt, black pepper, and garlic powder.",
+    "Remove corn from grill and top with crumbled bacon.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "corn",
+    "smoked-paprika",
+    "bacon"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-smoke-corn-delight",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T15:45:27.397Z"
+}
