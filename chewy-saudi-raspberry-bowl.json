@@ -1,0 +1,66 @@
+{
+  "slug": "chewy-saudi-raspberry-bowl",
+  "title": "Raspberry Chewy Bowl",
+  "description": "A delicious and healthy dessert bowl made with chewy oats and fresh raspberries.",
+  "cuisine": null,
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Chewy Oats",
+      "amount": "1 cup",
+      "notes": "Rolled oats"
+    },
+    {
+      "name": "Raspberry Jam",
+      "amount": "2 tbsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Raspberries",
+      "amount": "1 cup",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Saudia Honey",
+      "amount": "1 tbsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Bowl",
+      "amount": "",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, heat the raspberry jam over low heat.",
+    "Add the Saudia honey and stir until dissolved.",
+    "In a separate bowl, mix together the chewy oats and a splash of water.",
+    "Transfer the oat mixture to a serving bowl.",
+    "Top with the heated raspberry jam mixture and fresh raspberries.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "breakfast",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/chewy-saudi-raspberry-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T15:04:47.385Z"
+}
