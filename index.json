@@ -808,14 +808,14 @@
   },
   {
     "slug": "caramelized-sugar-poached-bean-stir-fry",
-    "title": "Caramelized Sugar Poached Bean Stir-fry",
+    "title": "Sweet Bean Stir-Fry",
     "tags": [
-      "slovakian-dish",
-      "caramelized-sugar",
-      "poached-beans"
+      "sweet",
+      "dessert",
+      "bean"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 40,
+    "cuisine": null,
+    "totalTimeMin": 27,
     "shard": "c"
   },
   {
@@ -36467,6 +36467,44 @@
       "stir-fry"
     ],
     "cuisine": "French",
+    "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-pepper-crunch--keto",
+    "title": "Crunchy Keto Bites",
+    "tags": [
+      "keto",
+      "easy",
+      "snack"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 15,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-smoke-corn-delight--german",
+    "title": "German Corn Fritters with Smoked Aioli",
+    "tags": [
+      "german",
+      "snack",
+      "corn",
+      "fritters"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 22,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-jamaican-pistachio-dumplings--indian",
+    "title": "Crispy Jamaican Dumplings",
+    "tags": [
+      "indian",
+      "snack",
+      "curry",
+      "dumplings"
+    ],
+    "cuisine": "indian",
     "totalTimeMin": 25,
     "shard": "c"
   }
