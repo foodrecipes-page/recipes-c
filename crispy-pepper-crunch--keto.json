@@ -1,0 +1,56 @@
+{
+  "slug": "crispy-pepper-crunch--keto",
+  "title": "Crunchy Keto Bites",
+  "description": "A crispy, crunchy, and delicious keto snack made with just a few ingredients. Perfect for munching on the go!",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Crunchy",
+      "amount": "1 cup",
+      "notes": "your preferred crunchy snack"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crispy",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "In a bowl, mix together the crunchy, pepper, and crispy.",
+    "Divide the mixture into 12 equal parts and shape each part into a small ball.",
+    "Place the balls onto a baking sheet lined with parchment paper.",
+    "Bake for 10-12 minutes, or until crispy and golden brown.",
+    "Remove from the oven and let cool for a few minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "easy",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 5,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-pepper-crunch--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T20:26:48.300Z"
+}
