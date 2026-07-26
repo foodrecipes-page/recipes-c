@@ -1,0 +1,93 @@
+{
+  "slug": "creamy-kenyan-fish-poke",
+  "title": "Kenyan Fish Stew",
+  "description": "A traditional Kenyan-inspired fish stew made with a blend of creamy coconut milk and spices. This hearty stew is perfect for a cold evening.",
+  "cuisine": "kenyan",
+  "diet": [
+    "fish",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish fillet (any white fish)",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": "Full-fat coconut milk for a richer flavor"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Curry powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Poke (optional)",
+      "amount": "1/4 cup",
+      "notes": "For added flavor and spice"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion, garlic, and ginger. Cook until the onion is translucent.",
+    "Add curry powder and cumin. Cook for 1 minute.",
+    "Add fish pieces and cook until they are opaque.",
+    "Pour in coconut milk and bring to a simmer.",
+    "Reduce heat to low and let the stew cook for 10-15 minutes or until the fish is cooked through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with poke (if using)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "fish-stew",
+    "coconut-milk"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-kenyan-fish-poke",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T08:30:52.753Z"
+}
