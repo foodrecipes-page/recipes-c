@@ -1,0 +1,75 @@
+{
+  "slug": "cured-pork-wok-burger--vegan",
+  "title": "Vegan Stir Fry",
+  "description": "A quick and easy vegan stir fry made with a variety of vegetables in a wok.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bell peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "Onions",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "pressed and cubed"
+    },
+    {
+      "name": "Bamboo shoots",
+      "amount": "1 can",
+      "notes": "drained and sliced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large skillet over medium-high heat.",
+    "Add the onions and bell peppers and cook until tender, about 5 minutes.",
+    "Add the mushrooms, tofu, and bamboo shoots and cook for another 2-3 minutes.",
+    "Add the soy sauce and stir to combine.",
+    "Serve the stir fry over cooked rice.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "stir-fry",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/cured-pork-wok-burger--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T11:46:10.088Z"
+}
