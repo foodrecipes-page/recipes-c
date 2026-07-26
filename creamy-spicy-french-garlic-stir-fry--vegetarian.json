@@ -1,0 +1,63 @@
+{
+  "slug": "creamy-spicy-french-garlic-stir-fry--vegetarian",
+  "title": "Spicy French Vegetarian Stir Fry",
+  "description": "A flavorful and spicy stir fry made with French-inspired flavors and vegetarian ingredients, perfect for a quick meal. This dish is a great way to enjoy the flavors of France with a twist.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "French bread",
+      "amount": "1 cup, cubed"
+    },
+    {
+      "name": "Mixed stir-fry vegetables (broccoli, carrots, bell peppers)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Spicy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Creme fraiche",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of oil in a large skillet over medium-high heat.",
+    "Add the garlic and sauté for 1 minute.",
+    "Add the cubed French bread and cook for 2-3 minutes, until lightly toasted.",
+    "Add the mixed stir-fry vegetables and cook until they start to soften, about 3-4 minutes.",
+    "Pour in the spicy sauce and cook for an additional 1-2 minutes, until the vegetables are coated.",
+    "Stir in the creme fraiche and cook for an additional minute.",
+    "Serve hot and enjoy!",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "vegetarian",
+    "french",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-spicy-french-garlic-stir-fry--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T18:34:25.074Z"
+}
