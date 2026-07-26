@@ -15314,14 +15314,14 @@
   },
   {
     "slug": "creamy-toasted-tunisian-white-flour-crumble",
-    "title": "Creamy Toasted Tunisian White Flour Crumble",
+    "title": "Tunisian Crumble Cake",
     "tags": [
+      "cake",
       "tunisian",
-      "keto-friendly",
-      "snack"
+      "crumble"
     ],
     "cuisine": "Tunisian",
-    "totalTimeMin": 15,
+    "totalTimeMin": 55,
     "shard": "c"
   },
   {
@@ -36416,6 +36416,45 @@
       "sausage"
     ],
     "cuisine": "French",
+    "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "chewy-uruguayan-rice-noodles--keto",
+    "title": "Uruguayan Chewy Keto Noodles",
+    "tags": [
+      "keto",
+      "uruguayan",
+      "noodles",
+      "chorizo",
+      "beef-tallow"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 35,
+    "shard": "c"
+  },
+  {
+    "slug": "chewy-briny-showy-cream-cheese-bisque--italian",
+    "title": "Cheesy Fettuccine with a Creamy Bisque Sauce",
+    "tags": [
+      "italian",
+      "pasta",
+      "cheese"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "crunchy-argentinian-beef-stir-fry--mexican",
+    "title": "Stir Fry Beef Fajitas",
+    "tags": [
+      "beef",
+      "mexican",
+      "stir-fry",
+      "fajitas"
+    ],
+    "cuisine": "mexican",
     "totalTimeMin": 25,
     "shard": "c"
   }
