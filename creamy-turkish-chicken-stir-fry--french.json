@@ -1,0 +1,81 @@
+{
+  "slug": "creamy-turkish-chicken-stir-fry--french",
+  "title": "Chicken Fricassee",
+  "description": "A classic French dish made with chicken, creamy sauce, and a hint of turkish spice.",
+  "cuisine": "french",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "4",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "turkish red pepper flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the chicken with salt and pepper.",
+    "Heat butter in a large skillet over medium-high heat.",
+    "Add the chicken and cook until browned, about 5-7 minutes. Remove from heat and set aside.",
+    "Reduce heat to medium and add the chopped onion. Cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Sprinkle the flour over the onion mixture and cook for 1 minute, stirring constantly.",
+    "Gradually add the heavy cream, whisking continuously to avoid lumps.",
+    "Add the cooked chicken back into the skillet and stir to coat with the creamy sauce.",
+    "Add the turkish red pepper flakes and stir to combine.",
+    "Simmer the fricassee over low heat for 5-7 minutes, until the sauce has thickened.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "chicken",
+    "creamy",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-turkish-chicken-stir-fry--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T09:07:58.859Z"
+}
