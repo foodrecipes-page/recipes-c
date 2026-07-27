@@ -14731,17 +14731,15 @@
   },
   {
     "slug": "creamy-silky-spanish-vegetable-tortilla-espanola",
-    "title": "Creamy Silky Spanish Vegetable Tortilla Espanola",
+    "title": "Spanish Tortilla",
     "tags": [
-      "one-pot",
-      "roasted-vegetables",
-      "shojin-friendly",
-      "spanish-cuisine",
-      "vegetarian",
-      "weeknight-dinner"
+      "spanish",
+      "breakfast",
+      "lunch",
+      "omelette"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 55,
+    "totalTimeMin": 25,
     "shard": "c"
   },
   {
@@ -36546,6 +36544,46 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 20,
+    "shard": "c"
+  },
+  {
+    "slug": "citrusy-crispy-american-prawns-salad--italian",
+    "title": "Spicy Prawn Salad",
+    "tags": [
+      "italian",
+      "seafood",
+      "salad",
+      "quick",
+      "easy"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 18,
+    "shard": "c"
+  },
+  {
+    "slug": "creamy-savory-cheese-tartlets--italian",
+    "title": "Creamy Italian Tartlets",
+    "tags": [
+      "italian",
+      "appetizer",
+      "cheese",
+      "savory",
+      "tartlets"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 30,
+    "shard": "c"
+  },
+  {
+    "slug": "citrusy-crumbly-irish-bulgur-wheat-crumble--german",
+    "title": "Irish German Crumble",
+    "tags": [
+      "german",
+      "dessert",
+      "irish-cream"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 60,
     "shard": "c"
   }
 ]
