@@ -1,0 +1,81 @@
+{
+  "slug": "cheesy-caramelized-australian-beef-burger--italian",
+  "title": "Italian Beef Burger",
+  "description": "A twist on the classic burger, this Italian-inspired beef burger features caramelized onions and melted cheesy goodness.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef Burgers (4 patties)",
+      "amount": "4",
+      "notes": "80% lean ground beef"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "Italian-style"
+    },
+    {
+      "name": "Caramelized Onions",
+      "amount": "1 cup",
+      "notes": "see notes"
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "4 slices",
+      "notes": "fresh"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1/4 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Australian Extra Virgin Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Form beef patties and season with salt and pepper.",
+    "Brush the grill with Australian Extra Virgin Olive Oil.",
+    "Grill the patties for 4-5 minutes per side, or until cooked to desired doneness.",
+    "Meanwhile, toast buns on the grill.",
+    "Assemble the burgers with caramelized onions, mozzarella cheese, and parmesan cheese.",
+    "Brush the tops with olive oil and serve immediately.",
+    "Cook the sliced onions in a pan over low heat for 30 minutes, stirring occasionally, until caramelized."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "beef",
+    "burgers",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/cheesy-caramelized-australian-beef-burger--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T04:56:48.540Z"
+}
