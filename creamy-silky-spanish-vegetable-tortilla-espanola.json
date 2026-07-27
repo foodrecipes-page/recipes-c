@@ -1,0 +1,75 @@
+{
+  "slug": "creamy-silky-spanish-vegetable-tortilla-espanola",
+  "title": "Spanish Tortilla",
+  "description": "A traditional Spanish omelette made with potatoes, onions, and sometimes ham. Perfect for a quick lunch or dinner.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Spanish Tortilla",
+      "amount": "1 medium",
+      "notes": "preferably day-old tortilla"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Cut the potatoes into small pieces and boil them in salted water until they are tender.",
+    "Drain the potatoes and set them aside to cool.",
+    "Heat the vegetable oil in a large skillet over medium heat.",
+    "Add the sliced onions to the skillet and cook until they are translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the cooled potatoes to the skillet and stir to combine with the onions and garlic.",
+    "Break the Spanish tortilla into small pieces and add them to the skillet.",
+    "Use a spatula to gently stir the mixture and heat it through.",
+    "Season with salt to taste.",
+    "Serve the Spanish tortilla hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "breakfast",
+    "lunch",
+    "omelette"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/creamy-silky-spanish-vegetable-tortilla-espanola",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T22:22:35.254Z"
+}
