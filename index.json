@@ -12384,14 +12384,13 @@
   },
   {
     "slug": "creamy-corn-confit",
-    "title": "Creamy Corn Confit",
+    "title": "Creamy Corn Confit Bake",
     "tags": [
-      "slovakian",
-      "creamy",
-      "corn",
-      "velvety"
+      "breakfast",
+      "bake",
+      "comfort-food"
     ],
-    "cuisine": "Slovakian",
+    "cuisine": "French",
     "totalTimeMin": 35,
     "shard": "c"
   },
@@ -36764,6 +36763,46 @@
     ],
     "cuisine": null,
     "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "charred-comforting-thai-tiger-prawns-pad-see-ew--vegan",
+    "title": "Charred Tiger Prawns Pad Thai",
+    "tags": [
+      "vegan",
+      "thai",
+      "prawns",
+      "noodles"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "citrusy-greek-yogurt-ceviche--vegetarian",
+    "title": "Greek Yogurt Ceviche",
+    "tags": [
+      "vegetarian",
+      "snack",
+      "greek",
+      "yogurt",
+      "ceviche"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 15,
+    "shard": "c"
+  },
+  {
+    "slug": "carrot-fold-cloud--italian",
+    "title": "Italian-Style Roasted Carrots",
+    "tags": [
+      "italian",
+      "vegetarian",
+      "side-dish",
+      "roasted-vegetables"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 30,
     "shard": "c"
   }
 ]
