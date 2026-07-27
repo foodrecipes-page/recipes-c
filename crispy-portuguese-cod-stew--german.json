@@ -1,0 +1,87 @@
+{
+  "slug": "crispy-portuguese-cod-stew--german",
+  "title": "Bavarian Cod Stew",
+  "description": "A hearty stew originating from the Bavarian region of Germany, featuring cod as the main protein.",
+  "cuisine": "german",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4",
+      "notes": "fresh"
+    },
+    {
+      "name": "carrots",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "3",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "crispy bread crust for serving"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add carrots and potatoes, cook for an additional 5 minutes.",
+    "Add cod fillets, salt, and pepper. Cook for 2-3 minutes on each side.",
+    "Add beef broth, white wine (if using), and tomato paste.",
+    "Bring to a boil, then reduce heat to medium-low and simmer for 10-12 minutes or until cod is cooked through.",
+    "Serve hot, garnished with crispy bread crust."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bavarian",
+    "german",
+    "stew",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-portuguese-cod-stew--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T04:46:24.941Z"
+}
