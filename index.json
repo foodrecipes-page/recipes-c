@@ -5623,18 +5623,14 @@
   },
   {
     "slug": "citrusy-aerated-algerian-shrimp-paste-tagine",
-    "title": "Citrusy Aerated Algerian Shrimp Paste Tagine",
+    "title": "Algerian Shrimp Tagine",
     "tags": [
-      "aerated",
+      "shrimp",
       "algerian",
-      "bento-box",
-      "egg-free",
-      "high-protein",
-      "moroccan",
-      "one-pan",
-      "weeknight"
+      "tagine",
+      "seafood"
     ],
-    "cuisine": "algerian",
+    "cuisine": "Algerian",
     "totalTimeMin": 35,
     "shard": "c"
   },
@@ -23120,17 +23116,15 @@
   },
   {
     "slug": "crispy-tangy-french-rocket-wrap",
-    "title": "Crispy Tangy French Rocket Wrap",
+    "title": "Crispy French Wrap",
     "tags": [
       "crispy",
       "tangy",
-      "indulgent",
       "french",
-      "lettuce-wrap",
-      "low-sodium"
+      "wrap"
     ],
-    "cuisine": "French",
-    "totalTimeMin": 25,
+    "cuisine": "french",
+    "totalTimeMin": 9,
     "shard": "c"
   },
   {
@@ -36803,6 +36797,71 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 30,
+    "shard": "c"
+  },
+  {
+    "slug": "crumbly-creamy-italian-colby-jack-cheese-pasta--japanese",
+    "title": "Japanese Pasta Bake",
+    "tags": [
+      "japanese",
+      "italian",
+      "cheese",
+      "pasta",
+      "bake"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-portuguese-cod-stew--german",
+    "title": "Bavarian Cod Stew",
+    "tags": [
+      "bavarian",
+      "german",
+      "stew",
+      "fish"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "c"
+  },
+  {
+    "slug": "comforting-crunchy-mexican-rice-enchiladas--japanese",
+    "title": "Japanese Chicken and Rice Bowl",
+    "tags": [
+      "japanese",
+      "rice-bowl",
+      "chicken",
+      "comfort-food"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 30,
+    "shard": "c"
+  },
+  {
+    "slug": "crunchy-midnight-craving-greek-rye-bread-flatbread--vegan",
+    "title": "Vegan Midnight Flatbread",
+    "tags": [
+      "vegan-flatbread",
+      "midnight-snack",
+      "easy-recipes"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 15,
+    "shard": "c"
+  },
+  {
+    "slug": "cheesy-caramelized-australian-beef-burger--italian",
+    "title": "Italian Beef Burger",
+    "tags": [
+      "italian",
+      "beef",
+      "burgers",
+      "cheese"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
     "shard": "c"
   }
 ]
