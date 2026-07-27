@@ -1,0 +1,64 @@
+{
+  "slug": "crispy-tangy-french-rocket-wrap",
+  "title": "Crispy French Wrap",
+  "description": "A crispy French-inspired wrap with a tangy twist.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Crispy Wrap",
+      "amount": "1 piece"
+    },
+    {
+      "name": "French Baguette",
+      "amount": "1/2 piece",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Rocket Salad",
+      "amount": "1 cup",
+      "notes": "packed with fresh rocket leaves"
+    },
+    {
+      "name": "Tangy Spread",
+      "amount": "2 tbsp",
+      "notes": "such as hummus or aioli"
+    },
+    {
+      "name": "Fresh Herbs",
+      "amount": "1 tsp",
+      "notes": "such as parsley or thyme"
+    }
+  ],
+  "instructions": [
+    "Preheat a pan or griddle to medium-high heat.",
+    "Place the crispy wrap in the pan and toast for 2-3 minutes on each side.",
+    "Spread a layer of tangy spread on the wrap.",
+    "Add a layer of sliced baguette and top with rocket salad.",
+    "Sprinkle with fresh herbs and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 4,
+  "totalTimeMin": 9,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "tangy",
+    "french",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-tangy-french-rocket-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T05:00:16.983Z"
+}
