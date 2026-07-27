@@ -1,0 +1,69 @@
+{
+  "slug": "crispy-irish-cheese-casserole",
+  "title": "Irish Crispy Cheese Casserole",
+  "description": "A comforting, cheesy casserole with a crunchy topping, perfect for a cozy night in.",
+  "cuisine": "irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish cheddar cheese",
+      "amount": "2 cups, shredded",
+      "notes": "sharp cheddar for best flavor"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for casserole crust"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup, melted",
+      "notes": "for casserole topping"
+    },
+    {
+      "name": "crispy onions",
+      "amount": "1 cup, crushed",
+      "notes": "for crunchy topping"
+    },
+    {
+      "name": "casserole mix",
+      "amount": "1 package",
+      "notes": "follow instructions on package"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook casserole mix according to package instructions.",
+    "In a separate bowl, mix together flour and melted butter to create casserole crust.",
+    "Press crust mixture into the bottom of a 9x13 inch baking dish.",
+    "Top crust with cooked casserole mix.",
+    "Sprinkle shredded cheese over the top of the casserole mix.",
+    "Sprinkle crushed crispy onions over the cheese.",
+    "Bake in the preheated oven for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "cheesy",
+    "casserole",
+    "irish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-irish-cheese-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T00:54:04.470Z"
+}
