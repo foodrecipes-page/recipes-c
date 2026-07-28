@@ -18364,16 +18364,14 @@
   },
   {
     "slug": "crispy-croatian-cabbage-salad",
-    "title": "Crispy Croatian Cabbage Salad",
+    "title": "Braised Croatian Cabbage",
     "tags": [
-      "cabbage-salad",
-      "low-calorie",
-      "crisp",
-      "chilli",
-      "croatian"
+      "croatian",
+      "vegetarian",
+      "cabbage"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 15,
+    "totalTimeMin": 35,
     "shard": "c"
   },
   {
@@ -37063,6 +37061,58 @@
     ],
     "cuisine": "Caribbean",
     "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "citrusy-greek-cornmeal-stir-fry--gluten-free",
+    "title": "Greek Citrus Cornmeal Cakes",
+    "tags": [
+      "gluten-free",
+      "breakfast",
+      "snack",
+      "citrus",
+      "greek"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "charred-polish-cheddar-cheese-gratin--indian",
+    "title": "Charred Paneer Gratin",
+    "tags": [
+      "gratin",
+      "paneer",
+      "cheese",
+      "indian",
+      "vegetarian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "c"
+  },
+  {
+    "slug": "crispy-pepper-crunch--vegan",
+    "title": "Crispy Crunch Salad",
+    "tags": [
+      "vegan",
+      "salad",
+      "snack"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 10,
+    "shard": "c"
+  },
+  {
+    "slug": "caramel-boil-sugar--indian",
+    "title": "Caramel Jalebi",
+    "tags": [
+      "indian-desserts",
+      "deep-fried-desserts",
+      "caramel-desserts"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
     "shard": "c"
   }
 ]
