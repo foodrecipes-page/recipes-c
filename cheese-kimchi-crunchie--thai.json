@@ -1,61 +1,55 @@
 {
   "slug": "cheese-kimchi-crunchie--thai",
-  "title": "Kimchi Crunchie Fried Cheese Bites",
-  "description": "A crispy Thai-inspired appetizer with spicy kimchi and crunchy bits.",
+  "title": "Thai Kimchi Crunchie Bake",
+  "description": "A spicy, savory, and crunchy Thai-inspired dish featuring kimchi, crunchy topping, and melted cheese.",
   "cuisine": "thai",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
     {
-      "name": "cheese",
-      "amount": "8 oz block of cheddar cheese",
-      "notes": "cut into small cubes"
+      "name": "Kimchi",
+      "amount": "1 cup"
     },
     {
-      "name": "kimchi",
-      "amount": "1 cup kimchi, chopped",
-      "notes": "spicy Korean fermented cabbage"
+      "name": "Crunchie",
+      "amount": "1/2 cup"
     },
     {
-      "name": "crunchie",
-      "amount": "1 cup crushed Crunchie bars",
-      "notes": "Australian chocolate bar for crunchy topping"
+      "name": "Cheese (Monterey Jack or Cheddar)",
+      "amount": "1 cup, shredded"
     }
   ],
   "instructions": [
-    "1. Preheat oven to 375°F (190°C).",
-    "2. In a bowl, mix together cheese cubes and chopped kimchi.",
-    "3. Scoop out small balls of the cheese-kimchi mixture, about 1-inch diameter.",
-    "4. Roll each ball between your palms to shape into a sphere.",
-    "5. Coat each cheese ball with crushed Crunchie bars, pressing gently to adhere.",
-    "6. Place coated cheese balls on a baking sheet lined with parchment paper.",
-    "7. Bake in preheated oven for 10-12 minutes, until cheese is melted and Crunchie is crispy.",
-    "8. Remove from oven and let cool for 2 minutes.",
-    "9. Serve warm, garnished with additional kimchi if desired."
+    "Preheat oven to 375°F (190°C).",
+    "In an 8x8 inch baking dish, spread kimchi evenly.",
+    "Top kimchi with shredded cheese.",
+    "Sprinkle Crunchie on top of the cheese.",
+    "Bake for 15-20 minutes or until the cheese is melted and bubbly.",
+    "Remove from oven and let cool for a few minutes.",
+    "Serve warm and enjoy!",
+    "Optional: Add some heat by sprinkling red pepper flakes on top before baking."
   ],
   "prepTimeMin": 10,
-  "cookTimeMin": 12,
-  "totalTimeMin": 22,
-  "servings": 4,
-  "difficulty": "medium",
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
   "tags": [
     "thai",
-    "appetizer",
     "snack",
-    "cheese",
-    "kimchi"
+    "vegetarian",
+    "spicy"
   ],
   "nutrition": {
-    "calories": 220,
-    "protein": 6,
+    "calories": 250,
+    "protein": 12,
     "carbs": 20,
-    "fat": 14
+    "fat": 16
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/cheese-kimchi-crunchie--thai",
   "providerUsed": "groq",
-  "createdAt": "2026-07-20T21:41:24.351Z"
+  "createdAt": "2026-07-22T16:20:21.701Z"
 }
