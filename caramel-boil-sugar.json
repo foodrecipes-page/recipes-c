@@ -1,0 +1,56 @@
+{
+  "slug": "caramel-boil-sugar",
+  "title": "Caramel Sugar Boil",
+  "description": "A simple and sweet treat made with caramel, sugar, and boiled water. It's a perfect dessert to satisfy your sweet tooth!",
+  "cuisine": null,
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Granulated sugar",
+      "amount": "2 cups",
+      "notes": "white sugar"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "boiled water"
+    },
+    {
+      "name": "Caramel sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Combine 2 cups of granulated sugar and 1 cup of boiled water in a saucepan.",
+    "Place the saucepan over medium heat and stir until the sugar dissolves.",
+    "Increase the heat to high and bring the mixture to a boil.",
+    "Reduce the heat to medium-low and simmer for about 5 minutes.",
+    "Remove the saucepan from the heat and slowly pour in 1 cup of caramel sauce.",
+    "Let the mixture cool and set at room temperature.",
+    "Once set, break the mixture into small pieces and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "caramel",
+    "sugar",
+    "boiled",
+    "sweet",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 0,
+    "carbs": 80,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/caramel-boil-sugar",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T09:37:15.068Z"
+}
