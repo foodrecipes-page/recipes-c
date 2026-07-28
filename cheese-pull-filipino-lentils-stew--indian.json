@@ -1,0 +1,97 @@
+{
+  "slug": "cheese-pull-filipino-lentils-stew--indian",
+  "title": "Indian Lentil Stew",
+  "description": "A flavorful and nutritious Indian-inspired stew made with red lentils, onions, and spices. Perfect for a cold winter night.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cheese",
+      "amount": "1/4 cup",
+      "notes": "shredded (optional)"
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": "vegetable broth"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons",
+      "notes": "vegetable oil"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and garlic and cook until softened, about 3-4 minutes.",
+    "Add cumin, coriander, and turmeric and cook for 1 minute.",
+    "Add lentils and stir to coat with spice mixture.",
+    "Add stew and bring to a boil.",
+    "Reduce heat to low and simmer for 20-25 minutes, or until lentils are tender.",
+    "Stir in cheese (if using) and season with salt to taste.",
+    "Serve hot, garnished with chopped cilantro (if desired).",
+    "Note: Cooking time may vary depending on personal preference for lentil texture.",
+    "For a thicker stew, mash some of the lentils against the side of the pan before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "lentil",
+    "stew",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/cheese-pull-filipino-lentils-stew--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T16:28:59.652Z"
+}
