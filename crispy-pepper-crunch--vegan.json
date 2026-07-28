@@ -1,0 +1,79 @@
+{
+  "slug": "crispy-pepper-crunch--vegan",
+  "title": "Crispy Crunch Salad",
+  "description": "A refreshing and crunchy salad perfect for a quick snack or light meal. This vegan dish is made with crispy ingredients and a variety of flavors.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cucumber",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "carrot",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "crunch (peanut butter and oats mixture)",
+      "amount": "1/2 cup",
+      "notes": "see notes"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Shred the cucumber and carrot into thin strips.",
+    "In a bowl, mix together the crunch mixture, apple cider vinegar, maple syrup, salt, and black pepper.",
+    "Add the shredded cucumber and carrot to the bowl and toss to coat with the dressing.",
+    "Top with sliced pepper for garnish.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "salad",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-pepper-crunch--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T14:23:23.830Z"
+}
