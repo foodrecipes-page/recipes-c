@@ -4554,14 +4554,16 @@
   },
   {
     "slug": "chewy-portuguese-egg-stir-fry",
-    "title": "Chewy Portuguese Egg Stir-fry",
+    "title": "Stir-Fried Egg Tacos",
     "tags": [
-      "portuguese",
-      "egg-stir-fry",
-      "sour-cherry"
+      "breakfast",
+      "lunch",
+      "egg-tacos",
+      "portuguese-cuisine",
+      "tacos"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 13,
+    "totalTimeMin": 25,
     "shard": "c"
   },
   {
@@ -35810,16 +35812,15 @@
   },
   {
     "slug": "cheese-kimchi-crunchie--thai",
-    "title": "Kimchi Crunchie Fried Cheese Bites",
+    "title": "Thai Kimchi Crunchie Bake",
     "tags": [
       "thai",
-      "appetizer",
       "snack",
-      "cheese",
-      "kimchi"
+      "vegetarian",
+      "spicy"
     ],
     "cuisine": "thai",
-    "totalTimeMin": 22,
+    "totalTimeMin": 25,
     "shard": "c"
   },
   {
@@ -37140,6 +37141,47 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 40,
+    "shard": "c"
+  },
+  {
+    "slug": "creamy-mexican-chocolate-stir-fry--vegan",
+    "title": "Mexican Chocolate Stir Fry",
+    "tags": [
+      "mexican",
+      "chocolate",
+      "stir-fry",
+      "vegan"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "cheese-pull-filipino-lentils-stew--indian",
+    "title": "Indian Lentil Stew",
+    "tags": [
+      "indian",
+      "lentil",
+      "stew",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "c"
+  },
+  {
+    "slug": "creamy-british-fettuccine-shepherds-pie--chinese",
+    "title": "Creamy Fettuccine with British Shepherds Pie Twist",
+    "tags": [
+      "chinese",
+      "fettuccine",
+      "shepherds-pie",
+      "bacon",
+      "cheese"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
     "shard": "c"
   }
 ]
