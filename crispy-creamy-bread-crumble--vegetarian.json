@@ -1,0 +1,59 @@
+{
+  "slug": "crispy-creamy-bread-crumble--vegetarian",
+  "title": "Creamy Crumble Bread",
+  "description": "A delicious vegetarian bread dish topped with a crunchy crumble mixture and a creamy sauce. Perfect for a quick snack or light meal.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "bread",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "crumble",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cream cheese",
+      "amount": "8 oz",
+      "notes": "softened"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "6 oz"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Slice the bread into 1-inch thick slices.",
+    "In a bowl, mix together the softened cream cheese and Greek yogurt.",
+    "Spread the creamy mixture evenly over each bread slice.",
+    "In another bowl, mix together the crumble and a pinch of salt.",
+    "Sprinkle the crumble mixture evenly over the creamy sauce.",
+    "Place the bread slices on a baking sheet and bake for 12-15 minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "snack",
+    "bread"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-creamy-bread-crumble--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T09:36:06.732Z"
+}
