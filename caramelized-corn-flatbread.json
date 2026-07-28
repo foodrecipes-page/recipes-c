@@ -1,0 +1,68 @@
+{
+  "slug": "caramelized-corn-flatbread",
+  "title": "Caramelized Corn Flatbread",
+  "description": "A sweet and savory flatbread topped with caramelized corn for a perfect snack or side dish.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Corn",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Flatbread",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Slice the flatbread into 6-8 triangles or wedges.",
+    "Brush the olive oil on each triangle.",
+    "Sprinkle salt, black pepper, and garlic powder on top.",
+    "Bake for 8-10 minutes or until lightly toasted.",
+    "Meanwhile, caramelize the corn in a skillet over medium heat.",
+    "Add the caramelized corn on top of the flatbread triangles.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "flatbread",
+    "corn",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 9
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/caramelized-corn-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T10:24:58.451Z"
+}
