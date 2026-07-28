@@ -1,0 +1,75 @@
+{
+  "slug": "cozy-creamy-korean-cheese-tteok--mexican",
+  "title": "Cheesy Tteok Mexican Casserole",
+  "description": "A fusion twist on traditional Mexican casseroles, incorporating Korean tteok and creamy cheesy goodness.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tteok",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Creamy",
+      "amount": "1/2 cup, sour cream"
+    },
+    {
+      "name": "Korean Chili Flakes",
+      "notes": "Optional, for spicier version"
+    },
+    {
+      "name": "Cozy",
+      "amount": "1 tsp, cumin"
+    },
+    {
+      "name": "Mexican Seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salsa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Shredded Chicken",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the tteok according to package instructions, then set aside.",
+    "In a large skillet, sauté the shredded chicken with cumin and Mexican seasoning until lightly browned.",
+    "In a separate pot, heat the salsa with a pinch of Korean chili flakes (if using) until warm.",
+    "In a large mixing bowl, combine the cooked tteok, sour cream, and shredded cheese. Mix until well combined.",
+    "Add the cooked chicken mixture to the tteok mixture and stir until combined.",
+    "Transfer the mixture to a baking dish and top with additional shredded cheese.",
+    "Drizzle the warmed salsa over the top and bake in the oven for 20-25 minutes.",
+    "Serve hot, garnished with additional cumin or Korean chili flakes if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "korean",
+    "fusion",
+    "casserole",
+    "cheesy"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/cozy-creamy-korean-cheese-tteok--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T15:00:19.698Z"
+}
