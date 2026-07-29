@@ -1,0 +1,84 @@
+{
+  "slug": "crispy-japanese-chicken-skewers--japanese",
+  "title": "Yakitori-Style Chicken Skewers",
+  "description": "Classic Japanese street food inspired yakitori-style chicken skewers, perfect for a quick and easy dinner. Marinate chicken in a sweet soy-based sauce and grill to perfection.",
+  "cuisine": "japanese",
+  "diet": [
+    "meat",
+    "poultry"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup",
+      "notes": "for marinade"
+    },
+    {
+      "name": "sake",
+      "amount": "2 tablespoons",
+      "notes": "for marinade"
+    },
+    {
+      "name": "mirin",
+      "amount": "2 tablespoons",
+      "notes": "for marinade"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "for marinade"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together soy sauce, sake, mirin, and brown sugar to make the marinade.",
+    "Add the chicken pieces to the marinade and mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat grill to medium-high heat.",
+    "Thread the marinated chicken onto skewers.",
+    "Season with salt and pepper to taste.",
+    "Grill the skewers for 8-10 minutes per side, or until cooked through.",
+    "Garnish with green onions and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 16,
+  "totalTimeMin": 31,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "chicken",
+    "skewers",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-japanese-chicken-skewers--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T00:21:55.166Z"
+}
