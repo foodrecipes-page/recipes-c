@@ -37415,5 +37415,58 @@
     "cuisine": null,
     "totalTimeMin": 35,
     "shard": "c"
+  },
+  {
+    "slug": "crispy-earthy-japanese-rice-bowl--vegan",
+    "title": "Earthly Vegan Bowl",
+    "tags": [
+      "vegan",
+      "japanese",
+      "bowl"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 45,
+    "shard": "c"
+  },
+  {
+    "slug": "creamy-spicy-tunisian-lamb-tagine--japanese",
+    "title": "Lamb Tagine Ramen",
+    "tags": [
+      "lamb",
+      "ramen",
+      "tagine",
+      "japanese",
+      "fusion"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 80,
+    "shard": "c"
+  },
+  {
+    "slug": "citrusy-velvety-light-polish-dish--german",
+    "title": "Polish-Style Citrus Cake",
+    "tags": [
+      "german",
+      "cake",
+      "dessert",
+      "vegetarian",
+      "polish"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "c"
+  },
+  {
+    "slug": "crunchy-malaysian-challot-crumble--italian",
+    "title": "Crispy Italian Chicken Cutlet",
+    "tags": [
+      "italian",
+      "chicken",
+      "crunchy",
+      "cutlet"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "c"
   }
 ]
