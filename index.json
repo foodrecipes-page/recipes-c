@@ -37341,5 +37341,55 @@
     "cuisine": "italian",
     "totalTimeMin": 25,
     "shard": "c"
+  },
+  {
+    "slug": "crispy-japanese-chicken-skewers--japanese",
+    "title": "Yakitori-Style Chicken Skewers",
+    "tags": [
+      "japanese",
+      "chicken",
+      "skewers",
+      "grilled"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 31,
+    "shard": "c"
+  },
+  {
+    "slug": "crunchy-dutch-bhuna-fried-rice--vegetarian",
+    "title": "Vegetarian Bhuna Fried Rice",
+    "tags": [
+      "vegetarian",
+      "indian",
+      "rice"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "c"
+  },
+  {
+    "slug": "crunchy-japanese-bacon-crumble--vegan",
+    "title": "Vegan Crunchy Japanese Bowl",
+    "tags": [
+      "vegan",
+      "japanese",
+      "plant-based"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 20,
+    "shard": "c"
+  },
+  {
+    "slug": "creamy-melted-wholesome-chickpeas-pilaf--keto",
+    "title": "Creamy Pilaf with Chickpeas",
+    "tags": [
+      "keto",
+      "creamy",
+      "chickpeas",
+      "pilaf"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 15,
+    "shard": "c"
   }
 ]
