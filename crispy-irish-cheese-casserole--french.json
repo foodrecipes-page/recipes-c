@@ -1,0 +1,79 @@
+{
+  "slug": "crispy-irish-cheese-casserole--french",
+  "title": "French Crispy Cheese Casserole",
+  "description": "A rich and creamy French casserole recipe, featuring crispy cheese on top, sure to delight.",
+  "cuisine": "french",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Crispy Bacon",
+      "amount": "6 slices"
+    },
+    {
+      "name": "Irish Cheddar Cheese",
+      "amount": "1 block (8 oz)",
+      "notes": "shredded"
+    },
+    {
+      "name": "French Baguette",
+      "amount": "1 loaf",
+      "notes": "cubed"
+    },
+    {
+      "name": "Casserole",
+      "amount": "1 pre-made casserole",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the cubed baguette until lightly toasted.",
+    "In a separate pan, melt the butter over medium heat.",
+    "Add the flour and whisk until a smooth paste forms.",
+    "Slowly add the shredded cheese, stirring constantly until melted and smooth.",
+    "Add the cooked baguette, crispy bacon, and salt and pepper to taste.",
+    "Pour the cheese mixture into a pre-made casserole.",
+    "Top with additional shredded cheese and crispy bacon.",
+    "Bake for 20-25 minutes or until golden brown and bubbly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "cheese",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/crispy-irish-cheese-casserole--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T01:33:54.577Z"
+}
